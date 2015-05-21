@@ -1,0 +1,78 @@
+# Class unigram 
+
+# The word: use window of 5 word unigrams
+U00:%x[-2,$tokenid]
+U01:%x[-1,$tokenid]
+U02:%x[0,$tokenid]
+U03:%x[1,$tokenid]
+U04:%x[2,$tokenid]
+# also use both word bigrams the current word is member of:
+U05:%x[-1,$tokenid]/%x[0,$tokenid]
+U06:%x[0,$tokenid]/%x[1,$tokenid]
+
+# The lowercased word: use window of 5 word unigrams
+U00:%x[-2,$tokenlc]
+U01:%x[-1,$tokenlc]
+U02:%x[0,$tokenlc]
+U03:%x[1,$tokenlc]
+U04:%x[2,$tokenlc]
+# also use both lowercased word bigrams the current word is member of:
+U05:%x[-1,$tokenlc]/%x[0,$tokenlc]
+U06:%x[0,$tokenlc]/%x[1,$tokenlc]
+
+# The word type (e.g. alpha, alphanum, int): use window of 5 type unigrams
+U10:%x[-2,$tokentype]
+U11:%x[-1,$tokentype]
+U12:%x[0,$tokentype]
+U13:%x[1,$tokentype]
+U14:%x[2,$tokentype]
+# also use 4 type bigrams around the current word
+U15:%x[-2,$tokentype]/%x[-1,$tokentype]
+U16:%x[-1,$tokentype]/%x[0,$tokentype]
+U17:%x[0,$tokentype]/%x[1,$tokentype]
+U18:%x[1,$tokentype]/%x[2,$tokentype]
+# finally add 3 trigrams the current word is member of
+U20:%x[-2,$tokentype]/%x[-1,$tokentype]/%x[0,$tokentype]
+U21:%x[-1,$tokentype]/%x[0,$tokentype]/%x[1,$tokentype]
+U22:%x[0,$tokentype]/%x[1,$tokentype]/%x[2,$tokentype]
+
+# The word type X case (e.g. alpha & uc, alphanum & lc, int & na): use window of 5 type unigrams
+U10:%x[-2,$tokentype]/%x[-2,$tokencap]
+U11:%x[-1,$tokentype]/%x[-1,$tokencap]
+U12:%x[0,$tokentype]/%x[0,$tokencap]
+U13:%x[1,$tokentype]/%x[1,$tokencap]
+U14:%x[2,$tokentype]/%x[2,$tokencap]
+# also use 4 type bigrams around the current word
+U15:%x[-2,$tokentype]/%x[-2,$tokencap]/%x[-1,$tokentype]/%x[-1,$tokencap]
+U16:%x[-1,$tokentype]/%x[-1,$tokencap]/%x[0,$tokentype]/%x[0,$tokencap]
+U17:%x[0,$tokentype]/%x[0,$tokencap]/%x[1,$tokentype]/%x[1,$tokencap]
+U18:%x[1,$tokentype]/%x[1,$tokencap]/%x[2,$tokentype]/%x[2,$tokencap]
+# finally add 3 trigrams the current word is member of
+U20:%x[-2,$tokentype]/%x[-2,$tokencap]/%x[-1,$tokentype]/%x[-1,$tokencap]/%x[0,$tokentype]/%x[0,$tokencap]
+U21:%x[-1,$tokentype]/%x[-1,$tokencap]/%x[0,$tokentype]/%x[0,$tokencap]/%x[1,$tokentype]/%x[1,$tokencap]
+U22:%x[0,$tokentype]/%x[0,$tokencap]/%x[1,$tokentype]/%x[1,$tokencap]/%x[2,$tokentype]/%x[2,$tokencap]
+
+# For each attribute value pattern: no match, match starts at the current word, match continues through current word
+U23:%x[0,$value.pattern]
+
+# For each attribute context pattern: no match or match. Match happens when:
+# for left context patterns: match ends at the word before the current word,
+# for right context patterns: match starts at the word after the current word,
+# for LR context patterns: either of the two conditions above hold.
+U24:%x[0,$context.pattern]
+
+# For each induced feature: no match or match. Match conditions depend on induced feature type:
+# NGR_EQUALS: as for value pattern
+# NGR_PREFIX: as for value pattern
+# NGR_SUFFIX: as for value pattern, but never creates "match starts at the current word"
+# NGR_BEFORE: as for left context pattern
+# NGR_AFTER: as for right context pattern
+# NGR_OVERLAPS_RIGHT, NGR_OVERLAPS_LEFT, NGR_BEGINS_WITH, NGR_ENDS_WITH, NGR_CONTAINED, NGR_CONTAINS: ignored.
+U25:%x[0,$ngr_equals]
+U26:%x[0,$ngr_prefix]
+U27:%x[0,$ngr_suffix]
+U28:%x[0,$ngr_before]
+U29:%x[0,$ngr_after]
+
+# Bigram
+B

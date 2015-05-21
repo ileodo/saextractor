@@ -1,0 +1,1 @@
+java -Xmx512M -cp dist/ex.jar;../util/dist/util.jar;lib/nekohtml.jar;lib/xercesImpl.jar;lib/xml-apis.jar;lib/js.jar;lib/commons-math-1.1.jar;lib/trove.jar ex.ac.ModelMatcher data/med/contact_en3.xml ../test/a1.html

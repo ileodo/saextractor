@@ -1,0 +1,294 @@
+$Id: changes.txt 1991 2009-04-22 22:14:16Z labsky $
+
+*****************
+* March 2009    *
+*****************
+Major changes in version 1.1 include:
+
+IET: 
+====
+- fixed reading of documents based on document type
+- fixed reading of documents in "cooked" format
+- evaluator: added support for reporting micro-averaged results
+- running from read-only media (such as CD) made possible
+
+Ex:
+===
+- formatting pattern induction fix, added 2 extra parameters used as factors
+  of induced patterns' precision and recall computed from counts
+- fixed a bug in instance parser's triangular trellis: pruning was not always done
+  when it should due to wrong comparisons of trellis points (rounding errors)
+- pattern compiler: adjusted syntax of beginning and ending symbols (^ and $) 
+  in class context patterns
+- completed support for post-extraction rules in postprocessor
+- other minor modifications
+
+*****************
+* November 2008 *
+*****************
+Major changes in version 1.05 include:
+
+IET:
+===
+1. Support for trainable extraction engines, including cross-validation
+   and feature induction support.
+
+2. Evaluator computes the Villain score which measures how well
+   instances are composed together from attribute values.
+
+3. Better handling of exceptions produced by IE engines.
+
+4. Many bug fixes.
+
+Ellogon CRF-based IE engine wrapper for IET:
+===========================================
+1. Bug fixes.
+
+Ex IE engine:
+============
+1. Integration of trainable classifiers that can use 2 types of document representation:
+   - word sequence
+   - phrase set
+   Classifiers may exploit three types of features:   
+   - intrinsic features (determined by representation, e.g. word type and capitalization flags for words)
+   - extraction ontology features (derived from patterns, axioms and constraints contained in the extraction ontology)
+   - induced n-gram features (based on extreme values of point-wise mutual information)
+   Incorporated classifiers/sequence labellers:
+   - Weka
+   - CRF++ package 
+2. Now using a rule-based sentence splitter by Long Qiu during preprocessing.
+3. Further improvements and bug fixes.
+
+
+
+*****************
+* January 2008  *
+*****************
+Major changes in version 1.0 include:
+
+IET:
+===
+1. Added support for pipelined extraction tasks. A pipeline defines
+   a sequence of extraction engines and their parameters. The set of documents 
+   defined by an extraction task is run through the specified engines in order.
+   Each engine adds new annotations and may read annotations produced by preceding engines.
+
+   Currently, the whole document set is first run through the 1st engine and only then 
+   it is run through the next engine (unit=document set). Alternatively, it will be possible soon
+   to run each document through the whole pipeline at a time (unit=document).
+   
+   Example of a pipeline (excerpt from an extraction task definition):
+
+   <pipeline unit="set" >  
+     <proc engine="elgwrp.api.EllogonWrapper" >
+       <param name="elgDir"> c:/keg/mre/WP6/IE_app_NCSR/IE_App_Contact_English </param>
+       <param name="encoding"> utf-8 </param>
+     </proc>
+  
+     <proc engine="ex.api.Ex" >
+       <param name="cfg"> ../ex/config.cfg </param>
+       <param name="model"> ../ex/data/med/contact_en6.xml </param>
+     </proc>
+  
+     <proc engine="ex.api.Ex" >
+       <param name="cfg"> ../ex/config.cfg </param>
+       <param name="model"> ../ex/data/med/text_en1.xml </param>
+     </proc>
+   </pipeline>
+
+2. Support for different modes of running extraction tasks. Supported modes:
+   A. test: documents are run through the extraction engines in order to extract
+      information (the only mode supported before).
+   B. dump: documents are turned into data sets suitable for feature induction and for 
+      training machine learning classifiers (esp. in case the input documents are annotated). 
+      Datasets may be created per document and for the whole document set. 
+      Similar to the actual extraction, IET just orders the dumps from extraction engines 
+      which carry out the actual work (if supported).
+   C. train: datasets are created as in the dump mode. In addition, extraction engines
+      are instructed to train extraction models based on the created training datasets.
+   Modes are specified as part of the IE task definition; e.g. <mode> dump </mode>.
+      
+3. Ability to process online documents directly. 
+   In case the extraction task's document set contains remote URLs, an attempt is made to
+   download them including referenced resources such as images, styles, scripts etc.
+
+4. Author information is now stored for all extracted objects of type Instance, AttributeValue and Annotation.
+   This stores the name of the IE engine that produced the extracted object.
+
+5. Better handling of exceptions produced by IE engines.
+
+6. Multiple bug fixes.
+
+Ellogon CRF-based IE engine wrapper for IET:
+===========================================
+1. A new IET-compliant extraction engine was added by wrapping the NCSR's IE engine
+   in a class implementing the following IET interfaces: Engine, InstanceExtractor.
+   Currently the wrapper executes the engine in a separate command-line process,
+   reads its stdout and stderr and waits for its completion. The implementation 
+   supports cancel as well. 
+2. Existing annotation treatment. Input documets are first parsed to filter out annotations.
+   The engine is given pure text/html documents. Any produced annotations are parsed
+   from the resulting documents and added to the original documents with their author 
+   set to "elg".
+
+Ex IE engine:
+============
+1. Integration of trainable classifiers. 
+   The engine now supports views of tokenized documents as general datasets. 
+   A dataset is an interface that can be implemented in different ways to support 
+   different document representations. 
+   Currently, a singe dataset implementation is provided. In this implementation,
+   every dataset element corresponds to a token n-gram of a certain length in the document. 
+   For example, a dataset can be defined to contain all ngrams in the source document
+   of lengths ranging from 1 to 10. 
+   An alternative dataset could define each element e.g. as a boundary between two neighbouring tokens.
+   Each dataset element is equipped with a set of features one of them being the element class. 
+   Each element is subject for automatic classification, either for training in the train mode 
+   or for classification in the test mode.
+
+2. Weka integration
+   Ex defines an interface SampleClassifier which should allow for a relatively easy 
+   integration of Ex with various classification algorithms. So far a single implementation of
+   this is provided in the form of a WekaConnector which can connect to various Weka classifier
+   algorithms and use them for both classification and training.
+
+3. Classifier features
+   Currently, three feature families are supported and can be used for dataset elements.
+   A. Extraction ontology features
+   These are defined based on the current extraction ontology. Different
+   elements of the ontology are turned into binary or numeric features; the ones currently supported include:
+   - all types of patterns defined for extractable attributes and classes (binary),
+   - length constraints (binary),
+   - scripting constraints (binary).
+   B. Generic features (specific to the type of dataset element)
+   - length in tokens of the classified ngram (numeric)
+   C. Token n-gram features (specific to the type of dataset element)
+   These are binary features used to signal that a known ngram appears in a 
+   certain context of the classified dataset element (phrase). 
+   A single feature may represent a single n-gram or a whole class of ngrams.
+   We use the following types of context an n-gram may appear in with relation to the classified element:
+   1. BEFORE:         ends right before phrase
+   2. AFTER:          starts right after phrase
+   3. EQUALS:         phrase is ngram
+   4. CONTAINED:      phrase contains ngram but is not PREFIX, SUFFIX, or EQUALS
+   5. PREFIX:         phrase starts with ngram
+   6. SUFFIX:         phrase ends with ngram
+   7. CONTAINS:       ngram contains phrase but is not BEGINS_WITH, ENDS_WITH, or EQUALS
+   8. BEGINS_WITH:    ngram begins with phrase
+   9. ENDS_WITH:      ngram ends with phrase
+   10. OVERLAPS_LEFT  ngram's left boundary overlaps with phrase but is not CONTAINED
+   11. OVERLAPS_RIGHT ngram's right boundary overlaps with phrase but is not CONTAINED
+   A filter can be applied to the feature set to use only a subset of the above.
+
+4. Feature induction
+   A feature induction component has been implemented to induce equivalence classes 
+   of ngrams based on their frequent occurrence in a certain position with respect to
+   dataset elements having a specific classification. The current induction algorithm 
+   clusters observed ngrams into a specified number of classes based on these criteria:
+   1. ngram's pointwise mutual information to the most related classification,
+   2. ngram observation count in the given position relative to that classification.
+   The feature incuction tool processes ngram information produced by the engine running 
+   in the above mentioned dump mode, and outputs an ngram feature book capable of fast
+   lookup of the induced features in documents.
+
+5. Extraction ontology language enhanced with classifier definitions
+   A sample classifier definition: 
+     <classifier id="cls1" method="weka" classtype="attribute"
+                 name="weka.classifiers.functions.SMO" model="../ex/data/med/train/SMO_1_146_tnsod_bgr.bin" 
+                 elements="title name street organization department">
+       <feature type="ngram" ignore="case" length="1-2" minocc="3" maxcnt="500"
+                position="before, after, equals, prefix, suffix, content"
+                book="../ex/data/med/train/1_146_tnsod.fgram" />
+       <feature type="model" />
+     </classifier>
+   
+   A single extraction model may contain multiple classifier definitions which may
+   apply to different attributes. Currently, classifiers can only be used for attribute
+   extraction, not for relation extraction.
+   
+   Resulting classifications may be used as follows by extractable attribute definitions:
+   <attribute name="title">
+     <value>
+       <pattern cover="0.5" p="0.7" feature="no"> <phr label="cls1.title"/> </pattern>
+     </value>
+   </attribute>
+   This means we believe the classifier that the extracted value is correct in 70% of cases
+   and that the classifier extracts 50% of actual titles.
+   The "feature=no" means this pattern is not used to create a model-based feature for classifier
+   training (since it itself refers to the classifier result).
+
+6. Ability to use annotations produced by other preceding IE engines.
+
+7. Done basic profiling, removed major memory leaks.
+
+8. Large amount of subtle improvements, bug fixes, new bugs introduced.
+
+
+
+******************
+* September 2007 *
+******************
+Changes in version 0.9 include:
+
+IET:
+===
+1. Instance interface
+   Extracted Instances are now also available using the hash map interface used by AQUA.
+   Each instance is identified by a string field named "XInstId", which (as before) appears as field "XInstance" 
+   in all extracted member attribute values.
+   In addition, it is possible (as before) to directly access IET's objects of the class medieq.iet.Instance;
+   the same holds also for attribute values (medieq.iet.AttributeValue).
+2. Scores for attribute values and instances
+   In the hash map interface used by AQUA, a double field named "XScore" is present for both extracted 
+   instances and attribute values. 
+   In addition, both the medieq.iet.AttributeValue and medieq.iet.Instance classes can now be queried for scores 
+   using double getScore().
+     
+Ex:
+===
+1. Support for scripts in extraction ontology (script element in the <model> and <class> scopes). 
+   Scripts will typically define functions that are useful during extraction; e.g. the extraction ontology
+   author may write a function to determine the similarity of a person name and the corresponding email.
+   Such a function can be used e.g. in patterns of type="script" at class level.
+   Similarly, a function can bw written to determine correpondence between "J. Smith", "John Smith" and "John".
+   In addition, functions may be defined in global scripts in order to be used later in axioms (e.g. zip code verification).
+   For an example, see contact.js referenced from contact_en4.xml
+
+2. Formatting element patterns
+   The regular patterns now support references to formatting elements of HTML, specifically
+   to start and end tags. This allows e.g. to write patterns that match anything in, after or before 
+   <title> or <h1>. Formatting elements may be referenced using their name (e.g. h1), 
+   category (block, inline, object etc.) and form (start,end,inline).
+   
+3. Attribute inheritance
+   Support for attribute specialization; e.g. a person_name can be specialized into author_name
+   or responsible_name if there is some evidence indicating any of the specializations.
+   Whenever a base attribute is referenced in axioms, patterns of type="script" or patterns of type="pattern",
+   it will also match its specialization. Attribute cardinalities are handled with respect to the base attribute
+   if not overriden in specializations (details in the coming doc).
+   Another example can be price as the base attribute, and prices with and without tax as specializations.
+   
+4. New instance/attribute value parsing algorithm
+   The instance candidate (IC) lattice generated in the IC generation phase 
+   is now merged into the attribute candidate (AC) lattice produced in the AC generation phase. 
+   The previous approach was essentially vice versa produced a systematic error.
+
+5. Instance candidate scoring
+   A pseudobayesian approach (aka Prospector) is now used to combine the two 
+   components that comprise IC's score: the average score of member attributes,
+   and the set of evidence observed at instance level (e.g. name-email correspondence or attribute ordering patterns).
+   
+6. Attribute candidate likelihood normalization
+   Now using a normalization factor in order to compensate for the division of probabilities into 
+   a standalone attribute value and an attribute value engaged in an instance.
+   In configuration, this is turned on by default: normalize_ac_probs = 1
+   
+7. Speed-up, numerous bug fixes
+
+Contact extraction ontology:
+===========================
+- support for extracting document title,
+- ready to support author and responsible (initial version),
+- using attribute value relations (e.g. name - email correspondence) 
+  and attribute value ordering (e.g. title & name come typically first) 
+  to parse instances

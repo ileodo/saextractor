@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<task name="czech contact regular, fpi test ">
+
+<datamodel> contact_cz_reg </datamodel>
+<mode> test </mode> <!-- instances/test | attributes | train | dump | cv-N such as cv-10 -->
+
+<pipeline mode="doc" >
+  <proc engine="ex.api.Ex" >
+    <param name="cfg"> ex.cfg </param>
+    <param name="model"> ./models/contact/contact_cz1.xml </param>
+    
+    <param name="parser_max_skip"> 1 </param>
+    <param name="parser_orphan_penalty_factor"> 0.2 </param>
+    <param name="max_ic_cnt"> 5000 </param>
+    <param name="max_parse_time"> 60000 </param>
+    
+    <!-- turn formatting pattern induction on -->
+    <param name="induce_fmt_patterns"> 1 </param>
+    <!-- factors to be applied to count-based induced fmt pattern precision and recall -->
+    <param name="fmtpat_pfactor"> 1 </param>
+    <param name="fmtpat_rfactor"> 0.5 </param>
+  </proc>
+
+  <proc engine="medieq.iet.components.EvaluatorImpl" >
+    <param name="eval_mode"> occurrence loose </param>
+    <param name="homo_spec"> 1 </param>
+  </proc>
+  
+</pipeline>
+
+<set name="test" type="atf" encoding="utf-8" basedir="./documents/contact/cz/data" >
+reg.html
+</set>
+
+</task>

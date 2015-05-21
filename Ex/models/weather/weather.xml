@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE model SYSTEM "../eol.dtd">
+<model name="weather">
+  <import model="../datatypes.xml" />
+
+  <!-- all references to resources below will be resolved relative to this base url -->
+  <base url="../shared"/>
+  
+  <class id="Forecast">
+    <!--temperature attribute-->
+    <attribute card="1-2" id="temperature" type="float" eng="0.95">
+      <pattern id="name"> temp. | temperature | warmness | warmth </pattern>
+       <value>
+         <pattern cover="0.7" p="0.9" >
+          <tok type="INT|FLOAT"/> ( ° (C|F)? | &deg;C  | &#176;C | &deg;F  | &#176;F )
+         </pattern>
+         <pattern cover="0.1" p="0.3" >
+          <tok type="INT|FLOAT"/>
+         </pattern>
+         <pattern cover="1.0" p="-1.0" type="format"> no_crossed_block_tags </pattern>
+         <length>
+           <distribution min="1" max="5" />
+         </length>
+         <distribution min="-30" max="120" />
+       </value>
+       <context>
+         <pattern cover="0.3" p="0.6">
+          <pattern ref="name"/> :? $ 
+         </pattern>
+         <pattern cover="0.3" p="0.7" ignore="case">
+          (Hi | Lo | high | low ) : $
+         </pattern>
+      </context>
+    </attribute>
+
+    <!--day attribute-->
+    <attribute card="1" id="day" type="text" eng="0.9">
+      <value>
+        <pattern cover="0.95" p="0.95"> Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday | Today | Tomorrow </pattern>
+        <pattern cover="1.0" p="-1.0" type="format"> has_one_parent </pattern>
+        <pattern cover="0.02" p="-1.0" type="format"> fits_in_parent </pattern>
+        <pattern cover="1.0" p="-1.0" type="format"> no_crossed_inline_tags </pattern>
+        <pattern cover="1.0" p="-1.0" type="format"> no_crossed_block_tags </pattern>
+        <length>
+          <distribution min="1" max="1" />
+        </length>
+      </value>
+      <context>
+        <pattern cover="0.1" p="0.7"> day :? $ </pattern>
+      </context> 
+    </attribute>
+
+    <!--condition attribute-->
+    <attribute card="0-5" id="condition" type="text" eng="0.75">
+      <value>
+        <pattern cover="0.95" p="0.95" ignore="case"> ( mostly | partly | almost | light | heavy | fine )? (clear | cloudy | clouds | fair | scattered | overcast | obscured | fog | foggy | sprinkles | rain | tempest | drizzle | moist | showers | spray | hail | rain | rainfall | snow | snowfall | downfall sleet | spray ) </pattern>
+        <pattern cover="1.0" p="-1.0" type="format"> has_one_parent </pattern>
+        <pattern cover="0.02" p="-1.0" type="format"> fits_in_parent </pattern>
+        <pattern cover="1.0" p="-1.0" type="format"> no_crossed_inline_tags </pattern>
+        <pattern cover="1.0" p="-1.0" type="format"> no_crossed_block_tags </pattern>
+      </value>
+    </attribute>
+
+    <!--city attribute-->
+   <attribute id="city" type="name" card="0-1" eng="0.50">
+    <pattern id="europe_big_cities" src="addresses/en/europe_big_cities.txt" type="list" />
+    <pattern id="us_big_cities" src="addresses/en/us_big_cities.txt" type="list" />
+  
+    <pattern id="uk_big_cities" src="addresses/en/uk_big_cities.txt" type="pattern" />
+    <pattern id="world_big_cities" src="addresses/en/world_big_cities.txt" type="list" />
+    <pattern id="world_capitals" src="addresses/en/world_capitals.txt" type="list" />
+    <pattern id="all_cities">
+      <pattern ref="europe_big_cities"/> | <pattern ref="us_big_cities"/> | <pattern ref="uk_big_cities"/> | <pattern ref="world_big_cities"/> | <pattern ref="world_capitals"/>
+    </pattern>
+    <pattern id="city_suffix"> City | Village | Town </pattern>
+    <value>
+      <pattern cover="0.6" ignore="case" p="0.75">
+        <pattern ref="all_cities"/>
+      </pattern>
+      <pattern cover="0.05" ignore="case" p="0.55">
+        <tok case="CA|UC"/>{1,2} <pattern ref="city_suffix"/>
+      </pattern>
+      <length><distribution min="1" max="4" /></length>
+      <!-- don't allow digits etc. in city name -->
+      <pattern type="script" cover="1.0" p="-1.0"> !/\d/.test($) </pattern>
+      <pattern type="script" cover="0.95" p="-1.0"> !/[\-,]/.test($) </pattern>
+      <!-- tags -->
+      <pattern cover="1.0" p="-1.0" type="format"> has_one_parent </pattern>
+      <pattern cover="0.02" p="-1.0" type="format"> fits_in_parent </pattern>
+      <pattern cover="1.0" p="-1.0" type="format"> no_crossed_inline_tags </pattern>
+      <pattern cover="1.0" p="-1.0" type="format"> no_crossed_block_tags </pattern>
+    </value>
+  </attribute> 
+  </class>
+
+  <!--
+  <units>
+    <quantity baseunit="centigrade" id="temperature">
+      <unit id="centigrade">B0C | (celsius degree) | celsius| (centigrade degree) |
+      centigrade</unit>
+
+      <unit convert="1.8" id="fahrenheit">B0F | (fahrenheit degree) |
+      fahrenheit</unit>
+    </quantity>
+
+    <quantity baseunit="kph" id="speed">
+      <unit id="kph">kph | km.h-1 | km/h</unit>
+
+      <unit convert="0.27778" id="mps">m/s | m.s-1</unit>
+
+      <unit convert="0.62141" id="mph">mph | m/h | (miles per hour)</unit>
+    </quantity>
+  </units> 
+  -->
+</model>

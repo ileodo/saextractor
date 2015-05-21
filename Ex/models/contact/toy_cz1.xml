@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<!-- $Id: fpi_tester_1.xml $ Formatting pattern induction test. -->
+<model name="fpi_tester_1">
+<base url="."/>
+<class id="Contact" prune="0.05">
+
+  <attribute id="name" type="name" card="1" eng="1" enabled="1">
+    <pattern id="firstname" log="0" ignore="case" case="CA|UC"> 
+     (Karel | Václav | Venca | Jan | Honza | Jirka | Jiří | Josef | Vladimír
+      Martin | Michal | Petr | Pavel | Robert | Bob | Jura | Helmut | Georg | Ludwig 
+      Jaroslav | Bořivoj | Bořek | Richard 
+      Jana | Kateřina | Katka | Karla | Anna | Klára | Tereza | Hana | Hanka 
+      Petra | Jindřich) </pattern>
+    <pattern id="surname" log="0" ignore="case"> 
+      (de|da|di|von|van|le|d')? <tok type="ALPHA|APOS" case="CA|UC"/> 
+    </pattern>
+    <value>
+      <pattern id="n1" cover="0.1" p="0.8" log="0">
+        <pattern ref="firstname"/> <pattern ref="surname"/>
+      </pattern>
+      <pattern id="n2" cover="0.6" p="0.1" log="1">
+        <tok type="ALPHA|APOS" case="CA|UC"/> <pattern ref="surname"/>
+      </pattern>
+      <length> <distribution min="1" max="5"/> </length>
+    </value>
+  </attribute>
+
+  <attribute id="job" type="name" card="0-1" eng="1" enabled="1">
+    <value>
+      <pattern id="j1" cover="0.1" p="0.7" log="0" enabled="1" ignore="case">
+        ředitel | sekretář | nástěnkář | topič | zástupce
+        ředitelka | sekretářka | nástěnkářka | topička | zástupkyně
+      </pattern>
+      <pattern id="j2" cover="0.5" p="0.1" log="1">
+        <tok type="ALPHA"/>
+      </pattern>
+      <pattern type="script" cover="1"> ! /[0-9]/.test($) </pattern>
+      <refers> false </refers>
+    </value>
+  </attribute>
+
+</class>
+</model>

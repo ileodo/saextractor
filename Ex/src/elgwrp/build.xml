@@ -1,0 +1,91 @@
+<project name="elgwrp" default="dist" basedir=".">
+  <description>
+    $Id: build.xml 888 2007-02-27 21:52:12Z labsky $
+    Ellogon Wrapper build file
+  </description>
+  <!-- global properties -->
+  <property name="src" location="src"/>
+  <property name="build" location="build"/>
+  <property name="lib" location="lib"/>
+  <property name="doc" location="doc"/>
+  <property name="dist" location="dist"/>
+
+  <property name="windowtitle" value="uep elgwrp classes"/>
+  <property name="compile.debug" value="true"/>
+
+  <property name="build.compiler" value="modern"/>
+
+  <echo level="info">
+    This is the ANT build script for elgwrp
+    Type &quot;ant help&quot; to list available targets.
+  </echo>
+  
+  <target name="help">
+    <echo level="info">
+      This is the ANT build script for elgwrp
+      Targets:
+        -all (default target): compiles all classes and creates ${dist}/elgwrp.jar
+        
+        -compile: compiles all .java files
+        -dist: copies binaries and resources to the ${dist} directory
+        -clean: cleans up previous builds' output
+        
+        -doc: creates the Javadoc and Java2HTML documentation
+        -docclean: deletes all built documentation
+    </echo>
+  </target>
+
+  <path id="compile.classpath">
+     <pathelement location="${build}"/>
+     <pathelement location="../iet/dist/iet.jar"/> <!-- used by api.Ex; will be copied to ex/lib when stable -->
+     <pathelement location="../util/dist/util.jar"/> <!-- logger, document downloader, console via socket, tools -->
+  </path>
+  <path id="run.classpath">
+    <pathelement location="${dist}/elgwrp.jar"/>
+    <path refid="compile.classpath"/>
+  </path>
+
+  <target name="init">
+    <tstamp/>
+    <mkdir dir="${build}"/>
+    <mkdir dir="${doc}"/>
+    <mkdir dir="${dist}"/>
+  </target>
+
+  <target name="compile" depends="init" description="compile the source" >
+    <!-- Compile all java code from ${src} into ${build} -->
+    <javac srcdir="${src}" destdir="${build}" debug="${compile.debug}"
+           classpathref="compile.classpath" 
+	   excludes="**/CVS,**/CVS/**,**/.cvsignore,**/etc,**/etc/**"
+	   source="1.5" target="1.5" /> <!-- source="1.5" -->
+  </target>
+
+  <target name="doc" depends="compile" description="generates documentation" >
+    <javadoc sourcepath="${src}"
+           defaultexcludes="yes"
+           destdir="${doc}"
+           version="true"
+           use="true"
+           public="true"
+           windowtitle="elgwrp"
+           packagenames="elgwrp.*"
+	   classpathref="compile.classpath" > <!-- source="1.5" -->
+           <doctitle><![CDATA[<h1>UEP elgwrp classes</h1>]]></doctitle>
+           <bottom><![CDATA[<font size="-1"><a href="mailto:labsky@vse.cz">Submit bugs</a>.</font>]]></bottom> 
+    </javadoc>
+  </target>
+
+  <target name="dist" depends="compile" description="generate distribution jar" >
+    <!-- Put everything in ${build} into the elgwrp.jar file -->
+    <jar jarfile="${dist}/elgwrp.jar" basedir="${build}"/>
+  </target>
+
+  <target name="clean" description="clean up" >
+    <delete dir="${build}"/>
+    <delete dir="${dist}"/>
+  </target>
+
+  <target name="all" depends="dist,doc">
+  </target>
+
+</project>
