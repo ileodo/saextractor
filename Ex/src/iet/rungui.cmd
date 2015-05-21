@@ -1,1 +1,0 @@
-java -Xmx512M -XX:MaxPermSize=512M -cp dist/iet.jar;../util/dist/util.jar;../ex/dist/ex.jar;../ex/lib/nekohtml.jar;../ex/lib/xercesImpl.jar;../ex/lib/xml-apis.jar;../ex/lib/js.jar;../ex/lib/commons-math-1.1.jar;../ex/lib/trove.jar;../ex/lib/mysql-connector-java-3.1.12-bin.jar;../ex/lib/SentenceSplitter.jar;../ex/lib/weka.jar medieq.iet.ui.IETWin

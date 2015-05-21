@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Judge whether a page is seminar page-->
+<root>
+    <constraint on="title" policy="max">
+        <reg weight="10" exp="seminar" min="1" max="2"/>
+    </constraint>
+    <constraint on="body" policy="sum">
+        <reg weight="10" exp="seminar"/>
+        <reg weight="10" exp="location"/>
+    </constraint>
+</root>

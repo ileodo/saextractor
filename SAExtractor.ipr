@@ -215,9 +215,8 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ex/Ex.iml" filepath="$PROJECT_DIR$/Ex/Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crawlers/Crawlers.iml" filepath="$PROJECT_DIR$/Crawlers/Crawlers.iml" />
       <module fileurl="file://$PROJECT_DIR$/SAExtractor.iml" filepath="$PROJECT_DIR$/SAExtractor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UrlRetriver/UrlRetriver.iml" filepath="$PROJECT_DIR$/UrlRetriver/UrlRetriver.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true">
