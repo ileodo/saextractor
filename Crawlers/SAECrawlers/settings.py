@@ -7,7 +7,7 @@
 #
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #
-import config
+from util import config
 
 BOT_NAME = 'SAE'
 
@@ -27,7 +27,6 @@ DOWNLOADER_MIDDLEWARES = {
 ITEM_PIPELINES = {
     'SAECrawlers.pipelines.ItemPipeline':300
 }
-
 
 LOG_LEVEL = 'INFO'
 DOWNLOAD_TIMEOUT = config.retriever_download_time_out

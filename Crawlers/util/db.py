@@ -1,10 +1,11 @@
 __author__ = 'LeoDong'
 import MySQLdb
 import MySQLdb.cursors
+
 import config
 
-
 db_con = None
+
 
 def db_connect():
     """
@@ -18,8 +19,9 @@ def db_connect():
                                  passwd=config.db_pass,
                                  db=config.db_name,
                                  cursorclass=MySQLdb.cursors.DictCursor)
-        db_con.autocommit(on=True);
+        db_con.autocommit(on=True)
     return db_con
+
 
 def db_close():
     """
@@ -42,18 +44,18 @@ def get_all_urls():
     c.close()
     return [x['url'] for x in res]
 
+
 def get_all_urls_istarget():
     """
-    get all urls in url_lib
+    get all targeted urls in url_lib
     :return:
     """
-    sql = """SELECT url FROM url_lib WHERE is_target=1"""
+    sql = """SELECT url FROM url_lib WHERE is_target>%s"""
     c = db_connect().cursor()
-    c.execute(sql)
+    c.execute(sql, (config.const_IS_TARGET_UNKNOW,))
     res = c.fetchall()
     c.close()
     return [x['url'] for x in res]
-
 
 
 def get_url_by_id(id):
@@ -70,7 +72,6 @@ def get_url_by_id(id):
     return res
 
 
-
 def get_url_by_url(url):
     """
     get a url item associated with an url
@@ -85,7 +86,27 @@ def get_url_by_url(url):
     return res
 
 
-def create_url(url, title, content_hash, layout_hash):
+def general_update_url(id, is_target, content_hash, layout_hash, rule_id, title):
+    sql = """
+    UPDATE url_lib SET is_target=%s, content_hash=%s, layout_hash =%s, rule_id =%s, title=%s WHERE id=%s
+    """
+    c = db_connect().cursor()
+    c.execute(sql, (is_target, content_hash, layout_hash, rule_id, title, id,))
+    c.close()
+
+
+def general_insert_url(url, is_target, content_hash, layout_hash, rule_id, title):
+    sql = """
+    INSERT INTO url_lib (url, is_target, content_hash, layout_hash, rule_id, title)
+      VALUES (%s, %s,%s, %s, %s, %s)
+    """
+    c = db_connect().cursor()
+    c.execute(sql, (url, is_target, content_hash, layout_hash, rule_id, title))
+    lid = c.lastrowid
+    c.close()
+    return lid
+
+def new_url_insert(url):
     """
     create a new url item
     :param url:
@@ -94,16 +115,11 @@ def create_url(url, title, content_hash, layout_hash):
     :param layout_hash:
     :return:
     """
-    sql = """INSERT INTO url_lib (url, title, is_target, content_hash, layout_hash, last_access_ts)
-      VALUES (%s, %s,0, %s, %s, current_timestamp())"""
-    c = db_connect().cursor()
-    c.execute(sql, (url,title,content_hash,layout_hash))
-    lid = c.lastrowid
-    c.close()
-    return lid
+    return general_insert_url(url, config.const_IS_TARGET_UNKNOW, "", "", config.const_RULE_UNKNOW, "")
 
 
-def update_url(id, title, content_hash, layout_hash):
+
+def exist_url_content_update(id, title, content_hash, layout_hash):
     """
     update an url item `title` `content_hash` `layout_hash` `last_access_ts`
     :param id:
@@ -112,9 +128,9 @@ def update_url(id, title, content_hash, layout_hash):
     :param layout_hash:
     :return:
     """
-    sql = """UPDATE url_lib SET title=%s, content_hash=%s, layout_hash =%s, last_access_ts = current_timestamp() WHERE id=%s """
+    sql = """UPDATE url_lib SET title=%s, content_hash=%s, layout_hash =%s WHERE id=%s """
     c = db_connect().cursor()
-    c.execute(sql, (title, content_hash,layout_hash,id))
+    c.execute(sql, (title, content_hash, layout_hash, id))
     c.close()
 
 
@@ -130,20 +146,16 @@ def update_url_lastaccessts(id):
     c.close()
 
 
-
-
-def update_url_istarget(id, is_target):
+def update_url_lastextractts(id):
     """
-    update `is_target` for a specific url item
+    update an url item "last_access_ts" only
     :param id:
-    :param is_target:
     :return:
     """
-    sql = """UPDATE url_lib SET is_target=%s WHERE id=%s"""
+    sql = """UPDATE url_lib SET last_extract_ts=current_timestamp() WHERE id=%s"""
     c = db_connect().cursor()
-    c.execute(sql, (is_target,id))
+    c.execute(sql, (id,))
     c.close()
-
 
 
 def delete_sem_with_urlid(id):
@@ -156,7 +168,6 @@ def delete_sem_with_urlid(id):
     c = db_connect().cursor()
     c.execute(sql, (id,))
     c.close()
-
 
 
 def reset_db():

@@ -3,9 +3,8 @@ __author__ = 'LeoDong'
 from scrapy import log
 from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.contrib.linkextractors.lxmlhtml import LxmlLinkExtractor
-import config
-import db
-import util
+
+from util import tool, config
 from SAECrawlers.items import UrlretriverItem
 
 
@@ -28,16 +27,16 @@ class PagesCrawler(CrawlSpider):
     def parse_start_url(self, response):
         return self.parse_item(response)
 
-    def parse_item(self, response):
+    @staticmethod
+    def parse_item(response):
+        # response are all updated or new
+        # db not changed
+
         # is this url in URL_LIB
-        id = db.get_url_by_url(util.getUrl(response))
+        item = UrlretriverItem.s_load_url(response.url)
+        item['raw_content'] = response.body
+        item['soup'] = tool.get_tree_for_response(response)
+        item['content_type'] = tool.get_content_type_for_response(response)
 
-        item = UrlretriverItem(id=id['id'],
-                               url=util.getUrl(response),
-                               title=util.getHtmlTitle(response),
-                               content_hash=util.getHashedContent(response),
-                               layout_hash=util.getHashedLayout(response),
-                               content=util.getContent(response),
-                               content_type=util.getContentType(response))
+        log.msg("PC get page [%s]:- %s" % (item['id'], item['url']))
         yield item
-

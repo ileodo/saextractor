@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT judge (ruleset)+>
+<!ELEMENT ruleset (reg|prob)+>
+<!ELEMENT reg EMPTY>
+<!ELEMENT prob EMPTY>
+
+<!ATTLIST judge
+        policy (sum|max|avg) "sum">
+
+<!ATTLIST ruleset
+        sel CDATA #REQUIRED
+        on (text|html|tag) "html"
+        policy (sum|max|avg) "sum">
+
+<!ATTLIST reg
+        weight CDATA #REQUIRED
+        min CDATA "inf"
+        max CDATA "inf"
+        exp CDATA #REQUIRED
+        ingnoreCase (true|false) "true">
+
+<!ATTLIST prob
+        weight CDATA #REQUIRED
+        file CDATA #REQUIRED
+        exp CDATA #REQUIRED>

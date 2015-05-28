@@ -3,62 +3,52 @@ from scrapy import log
 from scrapy.utils.httpobj import urlparse_cached
 from scrapy.exceptions import IgnoreRequest
 
-import db
-import util
-import config
+from util import config, tool, db
 
 
 class CustomDownloaderMiddleware(object):
     def process_response(self, request, response, spider):
         # url length
-        if len(response.url)>config.retriever_max_url_length:
-            log.msg("Url is too long: %s"%response.url)
+        if len(response.url) > config.retriever_max_url_length:
+            log.msg("%s # Url is too long" % response.url[:0.2 * config.retriever_max_url_length])
             raise IgnoreRequest
 
         # deny domain an unknown content-type check
-        content_type = util.getContentType(response)
+        content_type = tool.get_content_type_for_response(response)
         if (content_type is None) or (content_type not in config.retriever_allow_content_type):
-            log.msg("Unknown Content-Type:[%s] in %s "%(util.getContentType(response),response.url))
+            log.msg("%s # Unknown Content-Type:[%s] " % (response.url, content_type))
             raise IgnoreRequest
 
-        htname = urlparse_cached(response).hostname
-        if htname in config.retriever_deny_domains:
-            log.msg("Deny Domain in: " + htname)
+        hostname = urlparse_cached(response).hostname
+        if hostname in config.retriever_deny_domains:
+            log.msg("%s # Deny Domain [%s] " % (response.url, hostname))
             raise IgnoreRequest
 
         # is this url in URL_LIB
-        urlInDB = db.get_url_by_url(util.getUrl(response))
+        urldb_item = db.get_url_by_url(response.url)
 
         if response.status == 404:  # not found
-            if urlInDB is not None: # already in DB
-                log.msg("%s already in DB, but 404 now" % request.url,level=log.DEBUG)
-                db.delete_sem_with_urlid(urlInDB['id'])
+            if urldb_item is not None:  # already in DB
+                log.msg("%s # Already in DB, but 404 now" % request.url, level=log.DEBUG)
+                db.delete_sem_with_urlid(urldb_item['id'])
                 raise IgnoreRequest
-            else: # new 404
-                log.msg("new 404 found: %s" % response.url,level=log.DEBUG)
+            else:  # new 404
+                log.msg("%s # New 404 found" % response.url, level=log.DEBUG)
                 raise IgnoreRequest
 
-        if urlInDB is not None:
+        if urldb_item is not None:
             # already in URL_LIB
-            if util.getHashedContent(response) == urlInDB['content_hash']:
+            if tool.hash_for_text(response.body) == urldb_item['content_hash']:
                 # content has not changed, update last_access_ts
-                log.msg(response.url + " # Already in DB, Content has not change", level=log.DEBUG)
-                db.update_url_lastaccessts(urlInDB['id'])
+                log.msg("%s # Already in DB, Content has not change" % response.url, level=log.DEBUG)
+                db.update_url_lastextractts(urldb_item['id'])
                 raise IgnoreRequest
             else:
-                log.msg(response.url + " # Already in DB, Content changed", level=log.DEBUG)
-                # update URL_LIB with new (title, content_hash, layout_hash)
+                log.msg("%s # Already in DB, Content changed" % response.url, level=log.DEBUG)
                 # delete corresponding seminar info in SEM_LIB
-                db.delete_sem_with_urlid(urlInDB['id'])
-                db.update_url(urlInDB['id'],
-                                         util.getHtmlTitle(response),
-                                         util.getHashedContent(response),
-                                         util.getHashedLayout(response))
+                db.delete_sem_with_urlid(urldb_item['id'])
         else:
             log.msg(response.url + " # New url", level=log.DEBUG)
-            db.create_url(util.getUrl(response),
-                                   util.getHtmlTitle(response),
-                                   util.getHashedContent(response),
-                                   util.getHashedLayout(response))
+            db.new_url_insert(response.url)
 
         return response
