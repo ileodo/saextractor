@@ -215,8 +215,9 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Crawlers/Crawlers.iml" filepath="$PROJECT_DIR$/Crawlers/Crawlers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SAExtractor.iml" filepath="$PROJECT_DIR$/SAExtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SAE.iml" filepath="$PROJECT_DIR$/SAE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SAEFun/SAEFun.iml" filepath="$PROJECT_DIR$/SAEFun/SAEFun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SAEWeb/SAEWeb.iml" filepath="$PROJECT_DIR$/SAEWeb/SAEWeb.iml" />
     </modules>
   </component>
   <component name="ProjectResources">

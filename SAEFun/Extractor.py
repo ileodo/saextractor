@@ -4,16 +4,13 @@ import sys
 from util import config
 import cPickle as pickle
 
+
 # Create a TCP/IP socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-
-# Bind the socket to the port
-server_address = (config.socket_addr_extractor, config.socket_port_extractor)
-print >>sys.stderr, '[Extractor] starting up on %s port %s' % server_address
-sock.bind(server_address)
-
+print >> sys.stderr, '[Judge] starting up on %s' % str(config.socket_addr_extractor)
+sock.bind(config.socket_addr_extractor)
 # Listen for incoming connections
-sock.listen(1)
+sock.listen(10)
 
 while True:
     # Wait for a connection

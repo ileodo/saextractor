@@ -6,7 +6,7 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import re
 import cPickle as pickle
-
+import random
 from scrapy import log
 
 from util import tool, config
@@ -17,30 +17,31 @@ class ItemPipeline(object):
         # item holds old data
         # new data is holed in item['tree']
 
-        log.msg("ItemPipe get page [%s]:- %s" % (item['id'], item['url']))
-        item['is_target'] = ItemPipeline.is_target(item)
+        log.msg("ItemPipe get page [%s]:- %s" % (item['id'], item['url']), level=log.DEBUG)
+        auto_judge_result = ItemPipeline.auto_judge(item)
+        confidence = auto_judge_result[1]
+        if confidence>50:
+            item['is_target'] = auto_judge_result[0]
+        else:
+            item['is_target'] = config.const_IS_TARGET_UNKNOW
         item['content_hash'] = tool.hash_for_text(item.raw_content_of_tree())
         item['layout_hash'] = tool.hash_for_text(item.layout_of_tree())
         item['title'] = item.title_of_tree()
         item.save()
 
-        if item['is_target'] == config.const_IS_TARGET_MULTIPLE or config.const_IS_TARGET_SIGNLE:
+        if item['is_target'] in [config.const_IS_TARGET_MULTIPLE, config.const_IS_TARGET_SIGNLE]:
             self.send_to_extractor(item)
         elif item['is_target'] == config.const_IS_TARGET_UNKNOW:
-            self.send_to_judge(item)
+            self.send_to_judge(item,auto_judge_result[0],auto_judge_result[1])
         else:
             pass
         return item
 
     @staticmethod
-    def is_target(item):
-        score = ItemPipeline.judge_score(item)
-        if score > 7:
-            return 1
-        elif 5 < score <= 7:
-            return 0
-        else:
-            return -1
+    def auto_judge(item):
+        target = random.randint(-1,2)
+        confidence = random.randint(0, 100)
+        return target, confidence
 
     @staticmethod
     def judge_score(item):
@@ -72,15 +73,21 @@ class ItemPipeline(object):
         f.close()
         data = {"id": item['id'], "filename": filename, "type": ext}
         data_string = pickle.dumps(data, -1)
-        tool.send_message(data_string, config.socket_addr_extractor, config.socket_port_extractor)
+        tool.send_message(data_string, config.socket_addr_extractor)
 
     @staticmethod
-    def send_to_judge(item):
+    def send_to_judge(item, decision, confidence):
         ext = item['content_type'].split('/')[1]
         filename = "%s.%s" % (item['id'], ext)
         f = open(config.path_inbox_judge + "/%s" % filename, 'w')
         f.write(str(item['soup']))
         f.close()
-        data = {"id": item['id'], "filename": filename, "type": ext}
+        data = {"operation": config.socket_CMD_judge_new,
+                "id": item['id'],
+                "url": item['url'],
+                "decision": decision,
+                "confidence": confidence,
+                "filename": filename,
+                "type": ext}
         data_string = pickle.dumps(data, -1)
-        tool.send_message(data_string, config.socket_addr_judge, config.socket_port_judge)
+        tool.send_message(data_string, config.socket_addr_judge)

@@ -14,6 +14,7 @@ const_IS_TARGET_SIGNLE = 1
 const_IS_TARGET_MULTIPLE = 2
 const_IS_TARGET_UNKNOW = 0
 const_IS_TARGET_NO = -1
+
 const_RULE_UNKNOW = -1
 
 # path
@@ -25,12 +26,14 @@ path_onto = path_root + "/onto"
 path_judge = path_onto + "/judge.xml"
 
 # socket
-socket_addr_judge = "localhost"
-socket_port_judge = 10001
-socket_addr_extractor = "localhost"
-socket_port_extractor = 10002
-socket_addr_rulegen = "localhost"
-socket_port_rulegen = 10003
+socket_host = "localhost"
+socket_addr_judge = (socket_host,10001)
+socket_addr_extractor = (socket_host,10002)
+socket_addr_rulegen = (socket_host,10003)
+
+socket_CMD_judge_new = "0"
+socket_CMD_judge_done = "1"
+socket_CMD_judge_list = "2"
 
 #
 retriever_start_urls = ["https://www.cs.ox.ac.uk/"] + db.get_all_urls()
