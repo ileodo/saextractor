@@ -8,7 +8,7 @@
 <h1>List</h1>
 <ul>
     {% for l in list %}
-    <li>{{ l }}</li>
+    <li>{{l.filename}} [{{l.confidence}}%] - [{{l.decision}}]<a href="{{l.url}}">link</a></li>
     {% endfor %}
 </ul>
 </body>

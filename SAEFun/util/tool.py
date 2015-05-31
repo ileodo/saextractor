@@ -57,7 +57,12 @@ def recvall(sock, n):
 def send_message(msg, address):
     # Create a TCP/IP socket
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    sock.connect(address)
+    while True:
+        try:
+            sock.connect(address)
+            break
+        except socket.error:
+            pass
 
     try:
         # Send data
