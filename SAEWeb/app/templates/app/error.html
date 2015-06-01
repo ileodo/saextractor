@@ -1,0 +1,31 @@
+{% include 'partial/header.html' %}
+<div class="content-wrapper">
+    <div class="row">
+        <!-- Start .row -->
+        <!-- Start .page-header -->
+        <div class="col-lg-12 heading">
+            <h1 class="page-header"><i class="im-screen"></i> Overview</h1>
+        </div>
+        <!-- End .page-header -->
+    </div>
+    <!-- End .row -->
+    <div class="outlet">
+        <!-- Start .outlet -->
+        <!-- Page start here ( usual with .row ) -->
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="page-header">
+                    <h1>Error [{{code}}]</h1>
+                </div>
+                <div class="well well-lg">
+                    <p>{{content}}</p>
+                </div>
+            </div>
+        </div>
+        <!-- End .row -->
+        <!-- Page End here -->
+    </div>
+    <!-- End .outlet -->
+</div>
+
+{% include 'partial/footer.html' %}

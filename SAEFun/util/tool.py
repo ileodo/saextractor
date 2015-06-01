@@ -67,10 +67,10 @@ def send_message(msg, address):
     try:
         # Send data
         send_msg(sock, msg)
-        log.msg("send: %s" % str(msg))
+        log.msg("send: %s" % str(msg), level=log.DEBUG)
 
     finally:
         sock.close()
-        log.msg("connection closed")
+        log.msg("connection closed", level=log.DEBUG)
 
 

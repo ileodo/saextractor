@@ -1,0 +1,389 @@
+ul.messenger {
+	margin: 0;
+	padding: 0;
+
+	> li {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		margin-bottom: 2px;
+	}
+
+	&.messenger-empty { display: none;}
+
+	.messenger-message {
+	    overflow: hidden;
+	    *zoom: 1;
+
+	    &.messenger-hidden {display: none;}
+
+		.messenger-phrase,
+		.messenger-actions a {
+			padding-right: 5px;
+		}
+
+		.messenger-actions {
+			float: right;
+
+			a {
+				cursor: pointer;
+  				text-decoration: underline;
+			}
+		}
+
+		ul,
+		ol {
+			margin: 10px 18px 0;
+		}
+	}
+
+	&.messenger-fixed {
+	    position: fixed;
+	    z-index: 10000;
+
+	    .messenger-message {
+			min-width: 0;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+
+		&.message .messenger-actions { float: left;	}
+		&.messenger-on-top { top: 55px; }
+		&.messenger-on-bottom { bottom: 20px;}
+		&.messenger-on-top,
+		&.messenger-on-bottom {
+			left: 50%;
+			width: 800px;
+			margin-left: -400px;
+		}
+		&.messenger-on-top.messenger-on-right,
+		&.messenger-on-bottom.messenger-on-right  {
+			right: 20px;
+  			left: auto;
+		}
+		&.messenger-on-top.messenger-on-left,
+		&.messenger-on-bottom.messenger-on-left {
+			left: 20px;
+  			margin-left: 0px;
+		}
+
+		&.messenger-on-right,
+		&.messenger-on-left {
+			width: 350px;
+			.messenger-actions {
+				float: left;
+			}
+		}
+	}
+	.messenger-spinner {
+		display: none;
+		position: relative;
+  		border-radius: 100%;
+
+  		.messenger-spinner-side {
+			width: 50%;
+			height: 100%;
+			overflow: hidden;
+			position: absolute;
+
+			.messenger-spinner-fill {
+				border-radius: 999px;
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				-webkit-animation-iteration-count: infinite;
+				-moz-animation-iteration-count: infinite;
+				-ms-animation-iteration-count: infinite;
+				-o-animation-iteration-count: infinite;
+				animation-iteration-count: infinite;
+				-webkit-animation-timing-function: linear;
+				-moz-animation-timing-function: linear;
+				-ms-animation-timing-function: linear;
+				-o-animation-timing-function: linear;
+				animation-timing-function: linear;
+			}
+		}
+
+		.messenger-spinner-side-left { 
+			left: 0; 
+
+			.messenger-spinner-fill {
+				left: 100%;
+				border-top-left-radius: 0;
+				border-bottom-left-radius: 0;
+				-webkit-animation-name: ui-spinner-rotate-left;
+				-moz-animation-name: ui-spinner-rotate-left;
+				-ms-animation-name: ui-spinner-rotate-left;
+				-o-animation-name: ui-spinner-rotate-left;
+				animation-name: ui-spinner-rotate-left;
+				-webkit-transform-origin: 0 50%;
+				-moz-transform-origin: 0 50%;
+				-ms-transform-origin: 0 50%;
+				-o-transform-origin: 0 50%;
+				transform-origin: 0 50%;
+			}
+		}	
+		.messenger-spinner-side-right {
+		    left: 50%;
+		    .messenger-spinner-fill {
+				left: -100%;
+				border-top-right-radius: 0;
+				border-bottom-right-radius: 0;
+				-webkit-animation-name: ui-spinner-rotate-right;
+				-moz-animation-name: ui-spinner-rotate-right;
+				-ms-animation-name: ui-spinner-rotate-right;
+				-o-animation-name: ui-spinner-rotate-right;
+				animation-name: ui-spinner-rotate-right;
+				-webkit-transform-origin: 100% 50%;
+				-moz-transform-origin: 100% 50%;
+				-ms-transform-origin: 100% 50%;
+				-o-transform-origin: 100% 50%;
+				transform-origin: 100% 50%;
+			}
+		}
+	}
+
+	&.messenger-spinner-active {
+		.messenger-spinner {
+			.messenger-spinner {
+				display: block;
+			}
+		}
+	}
+}
+
+ul.messenger-theme-future {
+	border-radius: @border-radius-base;
+	.user-select(none);
+
+	.messenger-spinner {
+		display: block;
+		position: absolute;
+		left: 7px;
+		top: 50%;
+		margin-top: -18px;
+		z-index: 999;
+		height: 32px;
+		width: 32px;
+		z-index: 10;
+	}
+
+	&.messenger-empty { display: none; }
+
+	.messenger-message {
+		.box-shadow(inset 48px 0px 0px darken(@messenger-color, 15%));
+		position: relative;
+		border: 0px;
+		margin-bottom: 0px;
+		font-size: 13px;
+		color: @white;
+		font-weight: 500;
+		padding: 10px 30px 13px 65px;
+		background: @messenger-color;
+
+		.messenger-close {
+			position: absolute;
+			top: 0px;
+			right: 0px;
+			color: @white;
+			opacity: 1;
+			font-weight: bold;
+			display: block;
+			font-size: 20px;
+			line-height: 20px;
+			padding: 8px 10px 7px 7px;
+			cursor: pointer;
+			background: transparent;
+			border: 0;
+			-webkit-appearance: none;
+
+			&:hover { color: darken(@white, 15%); }
+			&:active { color: darken(@white, 25%); }
+		}
+
+		.messenger-actions {
+			float: none;
+			margin-top: 10px;
+
+			a {
+			  	border-radius: @border-radius-base;
+				text-decoration: none;
+				color: @text-color;
+				background: @gray-spr;
+				display: inline-block;
+				padding: 10px;
+				margin-right: 10px;
+				padding: 4px 11px 6px;
+				text-transform: capitalize;
+
+				&:hover {
+					color: darken(@text-color, 10%);
+  					background: lighten(@gray-spr, 5%);
+				}
+
+				&:active {
+					color: darken(@text-color, 15%);
+  					background: lighten(@gray-spr, 10%);
+				}
+
+				.messenger-phrase { display: none; }
+			}
+		}
+
+		.messenger-message-inner {
+			&:before {
+				-webkit-border-radius: 50%;
+				-moz-border-radius: 50%;
+				-ms-border-radius: 50%;
+				-o-border-radius: 50%;
+				border-radius: 50%;
+				position: absolute;
+				left: 17px;
+				display: block;
+				content: " ";
+				top: 50%;
+				margin-top: -8px;
+				height: 13px;
+				width: 13px;
+				z-index: 20;
+			}
+		}
+
+		&.alert-success {
+			.messenger-message-inner:before {  background: @messenger-success-color; }
+		}
+		&.alert-info {
+			.messenger-message-inner:before {  background: @messenger-info-color; }
+		}
+		&.alert-error {
+			.messenger-message-inner:before {  background: @messenger-alert-color; }
+			&.messenger-retry-soon .messenger-spinner {
+				width: 32px;
+			    height: 32px;
+			    background: transparent;
+
+			    .messenger-spinner-side .messenger-spinner-fill {
+			    	background: #dd6a45;
+				    -webkit-animation-duration: 20s;
+				    -moz-animation-duration: 20s;
+				    -ms-animation-duration: 20s;
+				    -o-animation-duration: 20s;
+				    animation-duration: 20s;
+				    opacity: 1;
+			    }
+
+			    &:after {
+			    	content: "";
+					background: #292929;
+					position: absolute;
+					width: 26px;
+					height: 26px;
+					border-radius: 50%;
+					top: 3px;
+				    left: 3px;
+					display: block;
+			    }
+			}
+			&.messenger-retry-later .messenger-spinner {
+			    width: 32px;
+			    height: 32px;
+			    background: transparent;
+
+			    &:after {
+			    	content: "";
+					background: #292929;
+					position: absolute;
+					width: 26px;
+					height: 26px;
+					border-radius: 50%;
+					top: 3px;
+					left: 3px;
+					display: block
+			    }
+
+			    .messenger-spinner-side .messenger-spinner-fill {
+					background: #dd6a45;
+					-webkit-animation-duration: 600s;
+					-moz-animation-duration: 600s;
+					-ms-animation-duration: 600s;
+					-o-animation-duration: 600s;
+					animation-duration: 600s;
+					opacity: 1;
+				}
+			}
+		}
+
+		.messenger-message-slot {
+			&.messenger-last .messenger-message {
+				border-radius: @border-radius-base;
+				.box-shadow(inset 48px 0px 0px darken(@messenger-color, 10%));
+			}
+			&.messenger-first .messenger-message {
+				border-radius: @border-radius-base;
+				.box-shadow(inset 48px 0px 0px darken(@messenger-color, 10%));
+			}
+			&.messenger-first {
+				&.messenger-last .messenger-message {
+					border-radius: @border-radius-base;
+					.box-shadow(inset 48px 0px 0px darken(@messenger-color, 10%));
+				}
+			}
+		}
+	}
+
+}
+
+@media (max-width: 960px) {
+    ul.messenger.messenger-fixed.messenger-on-top, 
+    ul.messenger.messenger-fixed.messenger-on-bottom {
+		left: 10%;
+		width: 80%;
+		margin-left: 0px;
+    }
+}
+
+/* Animations */
+
+@-webkit-keyframes ui-spinner-rotate-right {
+  0% {  -webkit-transform: rotate(0deg);  }
+  25% {  -webkit-transform: rotate(180deg); }
+  50% {  -webkit-transform: rotate(180deg); }
+  75% { -webkit-transform: rotate(360deg); }
+  100% { -webkit-transform: rotate(360deg);}
+}
+@-webkit-keyframes ui-spinner-rotate-left {
+   0% {-webkit-transform: rotate(0deg);}
+  25% { -webkit-transform: rotate(0deg); }
+  50% { -webkit-transform: rotate(180deg);}
+  75% { -webkit-transform: rotate(180deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+@-moz-keyframes ui-spinner-rotate-right {
+  0% {-moz-transform: rotate(0deg);}
+  25% {-moz-transform: rotate(180deg);}
+  50% { -moz-transform: rotate(180deg);}
+  75% {-moz-transform: rotate(360deg);}
+  100% {-moz-transform: rotate(360deg);}
+}
+@-moz-keyframes ui-spinner-rotate-left {
+  0% {-moz-transform: rotate(0deg);}
+  25% {-moz-transform: rotate(0deg);}
+  50% {-moz-transform: rotate(180deg);}
+  75% {-moz-transform: rotate(180deg);}
+  100% {-moz-transform: rotate(360deg);}
+}
+@keyframes ui-spinner-rotate-right {
+   0% { transform: rotate(0deg);}
+  25% { transform: rotate(180deg);}
+  50% { transform: rotate(180deg);}
+  75% { transform: rotate(360deg);}
+  100% {transform: rotate(360deg);}
+}
+@keyframes ui-spinner-rotate-left {
+   0% {transform: rotate(0deg);}
+  25% { transform: rotate(0deg);}
+  50% {transform: rotate(180deg);}
+  75% {transform: rotate(180deg);}
+  100% {transform: rotate(360deg);}
+}

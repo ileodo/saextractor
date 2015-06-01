@@ -85,6 +85,7 @@ class ItemPipeline(object):
         data = {"operation": config.socket_CMD_judge_new,
                 "id": item['id'],
                 "url": item['url'],
+                "title": item['title'],
                 "decision": decision,
                 "confidence": confidence,
                 "filename": filename,

@@ -1,0 +1,294 @@
+/* -----------------------------------------
+   Header styles
+----------------------------------------- */
+#header {
+	height: @headerHeight;
+	background: @headerBackground;
+	z-index: 999;
+	position: absolute;
+	width: 100%;
+	top: 0;
+
+	.container-fluid {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	&.header-fixed {
+		position: fixed;
+	}
+
+	.navbar {
+		height: @headerHeight;
+		margin-bottom: 0;
+		padding-right: @actualContentPadding/2;
+		background: @headerBackground;
+		border-radius: 0;
+		border: none;
+
+		.navbar-toggle {
+			margin-right: @actualContentPadding/2;
+			padding: 9px 10px;
+			margin-top: 8px;
+			margin-bottom: 8px;
+			border-radius: @border-radius-base;
+			position: absolute;
+			right: 0;
+
+			.icon-bar {
+				display: block;
+				width: 22px;
+				height: 2px;
+				border-radius: 1px;
+				background: @white;
+			}
+		}
+
+		.navbar-collapse {
+			max-height: 340px;
+			overflow-x: visible;
+			padding-right: 15px;
+			padding-left: 15px;
+			box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+			background-color: @headerBackground;
+		}
+
+		.box-shadow(0 1px 1px rgba(0,0,0,.1));
+
+		.navbar-brand {
+			padding:0;
+			width: @sidebarWidth;
+			margin-right: 0;
+
+			.text-logo-element {
+				font-size: 32px;
+				color: darken(@mainColor, 35%);
+				margin-left: 34px;
+				margin-right: 10px;
+				margin-top: -8px;
+			}
+			.text-logo,
+			.text-slogan {
+				font-weight: bold;
+				font-family: 'Droid Sans';
+				font-size: 24px;
+				text-transform: uppercase;
+				margin-top: 15px;
+				display: inline-block;
+			}
+			.text-logo {
+				color: darken(@mainColor, 45%);
+			}
+			.text-slogan {
+				color: @white;
+			}
+		}
+
+		.nav {
+			li {
+				a {
+					line-height: @headerHeight;
+					padding-top: 0;
+					padding-bottom: 0;
+					color: @white;
+					width: auto;
+					position: relative;
+					.transition(all);
+					.transition-duration(0.4s);
+					overflow-x: hidden;
+					font-size: 13px;
+					min-width: 50px;
+					text-align: center;
+					&:hover,
+					&:focus {
+						background: darken(@headerBackground, 15%);
+					}
+
+					outline: none;
+
+					i {font-size: 24px;/*text-shadow: 1px 1px 1px rgba(0,0,0, 0.5);*/}
+
+					.user-avatar {float: left; margin: 5px 10px 5px 0; border-radius: @border-radius-base;width: 40px; height: 40px;}
+				}
+
+				&.dropdown .dropdown-menu {min-width: 200px;}
+
+				&.active a {background: lighten(@headerBackground, 15%);}
+				&.dropdown.open .dropdown-menu li a {
+					color: @text-color;
+					text-align: left;
+					padding-left: 15px;
+					/*&:hover {
+						color: @white;
+						background: @headerBackground;
+					}*/
+					&:hover {
+						background: @sidebarBackground;
+						color: darken(@text-color, 15%);
+						i {color: @mainColor;}
+					}
+					i {margin-right: 10px;}
+					.notification {top: 15px;right: 10px;}
+				}
+				
+				&.dropdown.open .email {
+					min-width: 300px;
+					li {
+						&.mail-head {
+							margin-top: 5px;
+							div.clearfix {
+								a {
+									padding-left: 13px;
+									display: inline-block;
+									i {margin-right: 0;}
+									border-radius: @border-radius-base;
+								}
+								div.pull-left, div.pull-right {width: 25%; padding: 0; text-align: center;}
+							}
+							span {
+								text-transform: uppercase; 
+								font-weight: bold;
+								text-align: center;
+								line-height: 48px;
+								width: 45%;
+								display: inline-block;
+								font-size: 16px;
+							}
+						}
+						&.search-email {
+							form {
+								padding: 0 10px 5px;
+								position: relative;
+								input {
+									height: 40px;
+									padding-left: 35px;
+									width: 100%;
+									border-radius: @border-radius-base;
+									border: 1px solid @border-color;
+								}
+								button {
+									position: absolute;
+									left: 15px;
+									top: 10px;
+									border: none;
+									background: none;
+								}
+							}
+						}
+						&.mail-list {
+							a {
+								padding: 0;
+								overflow: inherit;
+								line-height: inherit;
+								white-space: inherit;
+								float: left;
+								padding: 0 10px;
+								&:hover {
+									background: @sidebarBackground;
+									color: @text-color;
+									.status i {color: inherit;}
+								}
+							}
+							position: relative;
+							padding: 0;
+							.mail-avatar {width: 50px;height: 50px; border-radius: @border-radius-base; float: left;position: absolute;top: 10px;}
+							p.name {
+								position: relative;
+								padding-left: 50px;
+								margin-bottom: 0;
+								.status {
+									i {
+										font-size: 30px;
+										width: 20px;
+										margin-right: 5px;
+									}
+									color: @green;
+									&.off {color: @red;}
+								}
+								.notification {
+									position: relative;
+									display: inline-block;
+									top: auto;
+									right: auto;
+								}
+								.time {float: right;margin-top: 3px;margin-right: 5px;}
+							}
+							p.msg {
+								float: left;
+								padding-left: 60px;
+							}
+						}
+						&.mail-more {
+							a {
+								margin: 10px;
+								text-align: center;
+								background: @sidebarBackground;
+								border-radius: @border-radius-base;
+								&:hover {
+									background: @mainColor;
+									color: @white;
+									i { color: @white;}
+								}
+							}
+						}
+					}
+
+				}
+				&.dropdown.open .notification-menu {
+					min-width:300px;
+					li {
+						padding: 0 10px;
+						.transition(all);
+					    .transition-duration(0.4s);
+						i {font-size: 20px;margin-left: 5px;margin-right: 5px;}
+						.notification-user, .notification-link {
+							padding: 0;
+							overflow: inherit;
+							display: inline-block;
+							font-size: 14px;
+							&:hover { background: none; }
+						}
+						.notification-user { 
+							margin-right: 5px;
+							color: @red; font-weight: bold;
+							&:hover { color: darken(@red, 10%); text-decoration: underline;}
+						}
+						.notification-action {color: lighten(@text-color, 25%);}
+						.notification-link {
+							font-weight: bold; color: @green; text-decoration: underline;
+							&:hover { color: darken(@green, 10%);}
+						}
+						&:hover {
+							background: @sidebarBackground;
+						}
+					}
+				}
+			}
+			&.navbar-nav > .open > a,
+			&.navbar-nav > .open > a:focus {
+				background: darken(@headerBackground, 15%);
+			}
+		}
+	}
+
+	#header-area {
+		width: 100%;
+		padding: 15px;
+		background: lighten(@sidebarBackground, 10%);
+		border-bottom: 2px solid darken(@mainColor, 10%);
+		border-top: 2px solid darken(@mainColor, 10%);
+		display: none;
+		float: left;
+		height: auto;
+		ul {
+			margin-bottom: 0;
+		}
+
+		.header-area-inner {text-align: center;height: 100px;}
+		.shortcut-button {margin-bottom: 0;height: auto;}
+
+		&.show-header-area {
+			display: block;
+		}
+	}
+}

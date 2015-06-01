@@ -1,0 +1,107 @@
+/* -----------------------------------------
+   Body styles
+----------------------------------------- */
+
+/* ------------------ IE10 and windows phone 8 fix. --------------------*/
+@-webkit-viewport   { width: device-width; }
+@-moz-viewport      { width: device-width; }
+@-ms-viewport       { width: device-width; }
+@-o-viewport        { width: device-width; }
+@viewport           { width: device-width; }
+
+body {
+	overflow-x: hidden;
+	min-height: 100%; 
+	background: @body-bg; 
+	color: @text-color;
+	-webkit-font-smoothing: antialiased;
+	font-weight: 400;
+	-webkit-transition: -webkit-transform 0.4s ease !important;
+	-moz-transition: -moz-transform 0.4s ease !important;
+	-ms-transition: -ms-transform 0.4s ease !important;
+	-o-transition: -o-transform 0.4s ease !important;
+	transition: transform 0.4s ease !important;
+	position: relative;
+	&.stop-scrolling {
+		height: 100%;
+  		overflow: hidden;
+  		-webkit-filter: blur(6px);
+		-moz-filter: blur(6px);
+		-ms-filter: blur(6px);
+		-o-filter: blur(6px);
+		filter: blur(6px);
+	}
+	&.remove-scroll {
+		height: 100%;
+  		overflow: hidden;
+ 	}
+	&.login-page{
+		background: @login-bg;
+		
+		#login {
+			margin: 10% auto 0 auto;
+			position: relative;
+			width: 420px;
+
+			#logo {
+				position: absolute;
+				top: -75px;
+				left: 50%;
+				margin-left: -105px; /* width of the logo devided by 2 */
+			}
+
+			.login-wrapper {
+				width: 100%;
+				height: auto;
+				background-color: @login-wrapper-bg;
+				border-radius: @border-radius-base;
+				display: inline-block;
+				.box-shadow(0px 1px 1px rgba(0,0,0,.1));
+
+				.nav-tabs.nav-justified{
+					li {
+						&:first-child a {border-top-left-radius: @border-radius-base;}
+						&:last-child a {border-top-right-radius: @border-radius-base;}
+						a {border: none;}
+					}
+				}
+				
+				
+				#user-info {
+					position: relative;
+					height: 156px;
+					img.cover {
+						border-top-left-radius: @border-radius-base;
+						border-top-right-radius: @border-radius-base;
+					}
+					h4.headline {
+						float: left;
+						padding: 10px 30px;
+					}
+				}
+			}
+		}
+	}
+	&.error-page {
+		margin-top: 5%;
+		background-color: @error-page-bg;
+		h1.error-number {
+			text-align: center;
+			font-size:20em;
+			font-family: 'Cantarell';
+		}
+	}
+
+	&.mce-fullscreen {
+		#header {display: none;}
+	}
+
+	&.full-screen {
+		width: 100%;
+		#header {
+			left:0;
+		}
+	}
+}
+
+* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; outline: none !important; }

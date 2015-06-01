@@ -1,0 +1,320 @@
+/* -----------------------------------------
+   Sidebar styles
+----------------------------------------- */
+#sidebar {
+	width: @sidebarWidth;
+	height: auto;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	top: @headerHeight;
+	z-index: 99;
+	
+	&:hover .resizableBtn {
+		display: block;
+	}
+
+	/*Fixed sidebar*/
+	&.sidebar-fixed {
+		position: fixed;
+	}
+
+	/*Hided Sidebar*/
+	&.hide-sidebar {
+		margin-left: -@sidebarWidth;
+		&:after {
+			left: -@sidebarWidth;
+		}
+	}
+
+	&:after {
+		content:"";
+		position: fixed;
+		top: 0;
+		left:0;
+		bottom:0;
+		width: @sidebarWidth;
+		background: @sidebarBackground;
+		border-right: 1px solid @border-color;
+		z-index: -1;
+	}
+
+	.sidebar-inner {
+		position: relative;
+		width: auto;
+		height: 100%;
+	}
+    	
+	/* ------------------ Sidebar navigation --------------------*/
+	#sideNav {
+		&.pinnedSearch {
+			margin-top: @headerHeight;
+			.top-search {
+				position: fixed;
+				top: @headerHeight;
+				width: @sidebarWidth;
+				z-index: 999;
+				border-bottom: 1px solid @sideNavBorderColor;
+				background: darken(@sidebarBackground, 3%);
+			}
+		}
+		.top-search {
+			position: relative;
+			input {
+				border: none;
+				border-bottom: 1px solid transparent;
+				background: none;
+				height: 50px;
+				padding-left: 50px;
+				width: 100%;
+				&:focus,
+				&:hover {
+					background: darken(@sidebarBackground, 5%);
+				}
+				&:focus {
+					border-bottom: 1px solid @sideNavBorderColor;
+				}
+			}
+			button {
+				position: absolute;
+				left: 8px;
+				top: 13px;
+				border: none;
+				background: none;
+				i {
+					color: #acb1b8;
+				}
+			}
+		}
+
+		& li {
+			float: left;
+			width: 100%;
+			margin-top: 0;
+			border-right: 1px solid @border-color;
+			& a {
+				padding: 15px;
+				position: relative;
+				color: @text-color;
+				height: @sidebarLinkHeight;
+				border-radius: 0;
+				background: @sidebarBackground;
+				.transition(background);
+				.transition-duration(0.4s);
+
+				& i {
+					font-size: 20px;
+					margin-right: 15px;
+					float: left;
+					color: #acb1b8;
+					.transition(all);
+					.transition-duration(0.4s);
+					width: auto;
+					margin-bottom: 0;
+					text-shadow: 1px 1px 1px rgba(255,255,255, 1);
+					&.sideNav-arrow {
+						float: right;
+						margin-right: 0;
+						margin-left: 5px;
+					}
+					&.s16 {right:17px; margin-top: 2px;}
+				}
+
+				& .notification {
+					position: relative;
+					display: inline-block;
+					top: auto;
+					right: auto;
+					float: right;
+					margin-left: 10px;
+				}
+				& .indicator {
+					position: absolute;
+					top:-1px;
+					left:0;
+					height: @sidebarLinkHeight + 1;
+					width: 4px;
+					background: @mainColor;
+					opacity: 0;
+				}
+				
+				&:hover {
+					background: darken(@sidebarBackground, 3%);
+					.notification.onhover {opacity: 1;}
+				}
+
+				&.active {
+					background: @white;
+					font-weight: bold;
+					border-right: 1px solid transparent;
+					margin-right: -1px;
+					border-top: 1px solid @sideNavBorderColor;
+					border-bottom: 1px solid @sideNavBorderColor;
+				}
+
+				&:hover i,
+				&.active i {
+					color: @mainColor;
+					text-shadow: none;
+				}
+
+				&.expand { 
+					background: darken(@sidebarBackground, 3%);
+					border-bottom: 1px solid @sideNavBorderColor;
+					.notification.onhover {opacity: 1;}
+					i {color: @mainColor;}
+				}
+			}
+
+		    & .sub {
+				display: none;
+				margin-right: -1px;
+				& a {
+					background: lighten(@sidebarBackground, 3%);
+					border-top: 1px solid transparent;
+					border-bottom: 1px solid transparent;
+					&.active {
+						background: @white;
+						font-weight: bold;
+						border-right: 1px solid transparent;
+						margin-right: -1px;
+						border-top: 1px solid @sideNavBorderColor;
+						border-bottom: 1px solid @sideNavBorderColor;
+					}
+					&:hover {
+						background: darken(@sidebarBackground, 3%);
+					}
+				}
+				& li:first-child a.active,
+				& li:first-child a.active:hover,
+				& li:first-child a:hover {
+					border-top: 1px solid transparent;
+				}
+				&.show li:last-child>a {
+					border-bottom: 1px solid @sideNavBorderColor;
+				}
+				& li.hasSub>a {
+					border-top: 1px solid @sideNavBorderColor;
+					&.expand { background: darken(@sidebarBackground, 3%); }
+				}
+
+				
+			}
+		}
+
+		&.flyout {
+			>li {
+				&.hover-li {
+					>a {
+						background: darken(@sidebarBackground, 3%);
+					}
+				}
+				a {
+					&.expand {
+						border-bottom: none;
+					}
+				}
+				.sub {
+					box-shadow:4px 4px rgba(50, 50, 50, 0.1);
+					width: @sidebarWidth;
+					z-index: 2000;
+					position: absolute;
+					border: 1px solid @sideNavBorderColor;
+					border-left: none;
+					display: none !important;
+				}
+
+				&.click-it {
+					>.sub {
+						display: inline-block !important;
+						margin-left: @sidebarWidth;
+						margin-top: -50px;
+				
+						>li { 
+							&.click-it {
+								.sub {
+									display: inline-block !important;
+									margin-left: @sidebarWidth;
+									margin-top: -50px;
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+		
+
+		&.hasSub a.expand {border-top-color: transparent;}
+
+	}
+	
+	/* ------------------ Server stats in sidebar --------------------*/
+	.server-stats {
+		padding-left: 0;
+		margin-bottom: 0;
+		list-style: none;
+		position: relative;
+		span.txt,
+		span.percent,
+		.sparkline {
+			width: 100%;
+			display: inline-block;
+		}
+
+		span.txt {
+			font-size: 13px;
+			font-weight: bold;
+			margin-bottom: 10px;
+			margin-top: 10px;
+		}
+
+		span.percent {
+			font-size: 32px;
+			line-height: 32px;
+			font-weight: bold;
+			margin-bottom: 10px;
+		}
+
+		span.percent:after {
+			content: "%";
+		}
+
+		.sparkline {margin-bottom: 10px;}
+
+		.pie-chart {
+			position: absolute;
+			right: 10px;
+			top: 30px;
+		}
+	}
+	
+}
+
+/* -----------------------------------------
+   Right sidebar styles
+----------------------------------------- */
+#right-sidebar {
+	width: @rightSidebarWidth;
+	height: 100%;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	top: @headerHeight;
+	z-index: 999;
+	overflow: hidden;
+	border-left: 1px solid @border-color;
+	background: @rightSidebarBackground;
+
+	/*Hided Sidebar*/
+	&.hide-sidebar {
+		margin-right: -@rightSidebarWidth;
+	}
+
+	.sidebar-inner {
+		position: relative;
+		width: auto;
+		height: 100%;
+		padding-bottom: 45px; /* For chat window */
+	}
+}

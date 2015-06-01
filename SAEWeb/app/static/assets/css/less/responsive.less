@@ -1,0 +1,404 @@
+/* -----------------------------------------
+   Responsive media queries
+----------------------------------------- */
+
+/* ------------------ Big screens  --------------------*/
+@media all and (max-width: 9999px) and (min-width: 1367px) {
+	/* ------------------ Offline page --------------------*/
+	body.error-page h1.offline-page {font-size: 12em;}
+}
+
+/* ------------------ Desktops --------------------*/
+@media all and (max-width: 1366px) and (min-width: 992px) {
+	/* ------------------ Tiles --------------------*/
+	.tile {
+		.tile-icon {
+			i {font-size: 42px !important;}
+		}
+		.tile-content {
+			.number {
+				font-size: 32px;
+				line-height: 32px;
+			}
+		}
+	}
+
+	/* ------------------ Full calendar --------------------*/
+	.fc-header-left,
+	.fc-header-center,
+	.fc-header-right {
+		float: left;
+		text-align: center;
+		width: 100%;
+		padding: 0;
+	}
+	.fc-header-left {padding-top: 10px;padding-bottom: 10px; border-bottom: 1px solid @border-color;}
+	.fc-header-center {padding: 5px 0;}
+	.fc-header-right {padding-bottom: 10px; padding-top: 10px; border-top: 1px solid @border-color;}
+
+	/* ------------------ Offline page --------------------*/
+	body.error-page h1.offline-page {font-size: 10em;}
+}
+
+/* ------------------ Tablets and some phones --------------------*/
+@media all and (max-width: 980px) and (min-width: 768px) {
+
+	#header .navbar .nav li a i {
+		font-size: 20px;
+	}
+
+	/* ------------------ Form grid --------------------*/
+	.form-group .row .form-control,
+	.form-group .row .input-group,
+	.form-group .row .ui-spinner {
+		margin-bottom: 10px;
+	}
+
+	.form-group .row .input-group .form-control,
+	.form-group .row .ui-spinner .form-control  {
+		margin-bottom: 0;
+	}
+
+	.form-horizontal,
+	.form-vertical {
+		.control-label {
+			text-align: left;
+			margin-bottom: 10px;
+		}
+	}
+	
+	/* ------------------ Dual list --------------------*/
+	.bootstrap-duallistbox-container {
+		.box2 {margin-top: 10px;}
+	}
+
+	/* ------------------ Datatables --------------------*/
+	.table-responsive {
+		.dataTables_wrapper {
+			padding-top: 10px;
+		}
+	}
+
+	.dataTable {
+		margin-bottom: 15px;
+	}
+
+	.dataTables_wrapper {
+		.DTTT.btn-group {text-align: center;}
+		.dataTables_length {
+			text-align: center;
+			label {float: none;margin-bottom: 0;}
+		}
+
+		.dataTables_filter {
+			text-align: center;
+			margin-top: 10px;
+			label {float: none; margin-bottom: 0;}
+		}
+
+		.dataTables_info {
+			float: none;
+			text-align: center;
+			margin-bottom: 0;
+		}
+
+		.dataTables_paginate {
+			float: none;
+			text-align: center;
+			margin-top: 10px;
+			.pagination {
+				float: none;
+			}
+		}
+	}
+
+	/* ------------------ Login page --------------------*/
+	body.login-page #login {
+		margin-top: 100px;
+	}
+
+	/* ------------------ Offline page --------------------*/
+	body.error-page h1.offline-page {font-size: 10em;}
+}
+
+/* ------------------ Most phones --------------------*/
+@media all and (max-width: 767px) {
+	/* ------------------ Center modal --------------------*/
+	.modal-dialog-center {
+		width: 100%;
+	}
+	
+	/* ------------------ Header --------------------*/
+	#header {
+		height: auto;
+		.navbar {
+			box-shadow: none;
+			padding-right: 0;
+			height: auto;
+			.navbar-brand {
+				display: none;
+			}
+			.top-nav {
+				.clearfix();
+				float: left;
+				width: 100%;
+				background: @headerBackground;
+				height: @headerHeight;
+				padding: 0 @contentPadding;
+				.box-shadow(0 1px 1px rgba(0,0,0,.1));
+				.navbar-nav {
+					margin: 0;
+					li {
+						display: inline-block;
+					}
+
+					.open {
+						.dropdown-menu {
+							max-height: 300px;
+							overflow: auto;
+							position: absolute;
+							float: left;
+							padding: 5px 0;
+							background-color: @dropdown-bg;
+							border: 1px solid @dropdown-fallback-border;
+							border: 1px solid @dropdown-border;
+							.box-shadow(0 6px 12px rgba(0,0,0,.175));
+							li {
+								width: 100%;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	/* ------------------ Full calendar --------------------*/
+	.fc-header-left,
+	.fc-header-center,
+	.fc-header-right {
+		float: left;
+		text-align: center;
+		width: 100%;
+		padding: 0;
+	}
+	.fc-header-left {padding-top: 10px;padding-bottom: 10px; border-bottom: 1px solid @border-color;}
+	.fc-header-center {padding: 5px 0;}
+	.fc-header-right {padding-bottom: 10px; padding-top: 10px; border-top: 1px solid @border-color;}
+
+	/* ------------------ Form grid --------------------*/
+	.form-group .row .form-control,
+	.form-group .row .input-group,
+	.form-group .row .ui-spinner {
+		margin-bottom: 10px;
+	}
+
+	.form-group .row .input-group .form-control,
+	.form-group .row .ui-spinner .form-control  {
+		margin-bottom: 0;
+	}
+
+	.form-horizontal,
+	.form-vertical {
+		.control-label {
+			text-align: left;
+			margin-bottom: 10px;
+		}
+	}
+	
+	/* ------------------ Dual list --------------------*/
+	.bootstrap-duallistbox-container {
+		.box2 {margin-top: 10px;}
+	}
+
+	/* ------------------ Pagination--------------------*/
+	.pagination {
+		margin-bottom: 0;
+		>li > a {margin-bottom: 10px;}
+	}
+
+	/* ------------------ Justified nav tabs --------------------*/
+	.nav-tabs {
+		&.nav-justified {
+			li {
+				a {border-right-width: 1px;}
+				&.active {
+					a {border-right-width: 1px;}
+				}
+				&:last-child {
+					a {margin-bottom: 0;}
+				}
+			}
+		}
+	}
+
+	/* ------------------ Email app --------------------*/
+	.email-list {padding-left: 0;padding-right: 0;}
+
+	/* ------------------ Login page --------------------*/
+	body.login-page #login {
+		margin-top: 100px;
+	}
+
+	/* ------------------ Offline page --------------------*/
+	body.error-page h1.offline-page {font-size: 7em;}
+}
+
+/* ------------------ Small devices --------------------*/
+@media all and (max-width: 640px) {
+	/* ------------------ Header --------------------*/
+	#header {
+		.navbar {
+			.top-nav {
+				height: @headerHeight*2;
+				text-align: center;
+				float: none;
+				.navbar-nav{
+					float: none !important;
+					height: @headerHeight;
+					.open {
+						.dropdown-menu {
+							li {
+								text-align: left;
+							}
+						}
+					}
+
+					#toggle-sidebar-li {
+						position: absolute;
+						left: 10px;
+					}
+					#toggle-right-sidebar-li {
+						position: absolute;
+						right: 10px;
+						top: 0;
+					}
+				}
+			}
+		}
+	}
+
+	/* ------------------ Sidebars --------------------*/
+	#sidebar, 
+	#right-sidebar {top: @headerHeight*2;}
+
+	/* ------------------ Content --------------------*/
+	#content {padding-top: @headerHeight*2;}
+
+	/* ------------------ Wizard styles --------------------*/
+	.form-wizard {
+		.wizard-steps {
+			.wstep {
+				width: 100%; 
+				margin-right: 0;
+				margin-bottom: 5px;
+				padding-top: 5px;
+				border-bottom: 1px solid @border-color;
+				.donut {margin-left: auto;margin-right: auto;}
+				.txt {width: 100%; display: inline-block; margin-bottom: 5px;}
+				&:after {display: none;}
+			}
+		}
+
+		&.wizard-vertical {
+			.wizard-steps {
+				.wstep {
+					width: 100%; 
+					margin-right: 0;
+					margin-bottom: 5px;
+					padding-top: 5px;
+					border-bottom: 1px solid @border-color;
+					.donut {margin-left: auto;margin-right: auto; float: none;}
+					.txt {width: 100%; display: inline-block; margin-bottom: 5px;}
+					&:after {display: none;}
+				}
+				&.show {
+					width: 100%;
+					margin-right: 0;
+					float: none;
+					border-right: none;
+				}
+			}
+			.wrap {padding-left: 0;}
+			.wizard-actions {padding-left: 0;}
+		}
+	}
+
+	/* ------------------ Email app --------------------*/
+	.email-toolbar div[role=toolbar] {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	.email-pager {
+		width: 100%;
+		padding-left: 0;
+		margin-bottom: 10px;
+	}
+
+	/* ------------------ Gallery  --------------------*/
+	button.filter,
+	span.sort {margin-bottom: 10px;}
+	.gallery-toolbar {text-align: center;}
+}
+
+/* ------------------ Small devices --------------------*/
+@media all and (max-width: 460px) {
+	/* ------------------ Header --------------------*/
+	#header {
+		.navbar {
+			.top-nav {padding: 0;}
+		}
+	}	
+
+	/* ------------------ Options buttons --------------------*/
+	.option-buttons {
+		display: none;
+	}
+
+	/* ------------------ Email app --------------------*/
+	#email-content {padding-left: 0;padding-right: 0;}
+	.email-select,
+	.email-star {width: 30px !important;}
+
+	
+	/* ------------------ Login page --------------------*/
+	body.login-page #login {
+		width: 400px;
+	}
+
+	/* ------------------ Error pages --------------------*/
+	body.error-page h1.error-number {font-size: 12em;}
+	body.error-page .btn-group a {
+		width: 100%;
+		border-radius: @border-radius-base;
+	}
+
+	/* ------------------ Offline page --------------------*/
+	body.error-page h1.offline-page {font-size: 5em;}
+}
+
+/* ------------------ Small devices --------------------*/
+@media all and (max-width: 420px) {
+
+	/* ------------------ Filestyle --------------------*/
+	.bootstrap-filestyle label {margin-top: 10px;}
+
+	/* ------------------ Heading breadcrumb --------------------*/
+	.heading .breadcrumb > li {margin-bottom: 5px;}
+
+	/* ------------------ Login page --------------------*/
+	body.login-page #login {
+		width: 360px;
+	}
+
+}
+
+/* ------------------ Crapy phones --------------------*/
+@media all and (max-width: 320px) {
+
+	/* ------------------ Login page --------------------*/
+	body.login-page #login {
+		width: 300px;
+	}
+
+}

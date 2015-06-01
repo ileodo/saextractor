@@ -1,0 +1,291 @@
+//Custom variables
+// --------------------------------------------------
+@import "bootstrap/mixins.less";
+@import "custom-mixins.less";
+@import "custom-variables.less";
+
+//Include tempalte helpers
+// --------------------------------------------------
+@import "helpers.less";
+
+//Include animate.less for css animations
+// --------------------------------------------------
+@import "animate.less";
+
+/* -----------------------------------------
+   Landing page
+----------------------------------------- */
+
+/* ------------------ Landing intro --------------------*/
+.landing-intro {
+	margin: 0;
+	position: relative;
+	background: url(../img/landing/intro-cover.jpg); 
+	background-size: cover !important;
+
+	/*Header*/
+	.header {
+		padding: 15px 0;
+		border-bottom: 1px solid @gray-spr;
+		/*Logo*/
+		.logo {
+			.clearfix();
+			img {
+				float: left;
+			}
+			.slogan {
+				color:@white;
+				font-weight: bold;
+				float: left;
+				border-left: 1px solid @gray-spr;
+				padding-left: 20px;
+				margin-top: 5px;
+				margin-bottom: 0;
+			}
+		}
+		/*Navigation*/
+		nav {
+			float: right;
+			list-style: none;
+			padding: 8px 0;
+			li { 
+				display: inline-block; 
+				margin-right: 10px;
+
+				&:last-child {margin-right: 0;}
+			}
+		}
+	}
+
+	/*Intro slogan*/
+	.intro-slogan {
+		text-shadow: 0 1px 5px rgba(0, 1, 0, 0.3);
+		color: @white;
+
+		h1 {
+			text-transform: uppercase;
+			strong { text-decoration: underline;}
+			font-size: 42px;
+			margin-bottom: 25px;
+			margin-top: 35px;
+		}
+		p {
+			font-size: 24px;
+		}
+	}
+
+	.description-bar {
+		background: rgba(0, 0, 0, 0.35);
+		height: 180px;
+		p {
+			padding: 0 25px;
+			font-weight: normal;
+			font-size: 24px;
+			color: @white;
+			line-height: 40px;
+			display: table-cell;
+			height: 145px;
+			vertical-align: middle;
+		}
+	}
+}
+
+/* ------------------ Scroll to next section --------------------*/
+.scrollTo {
+	display: block;
+	text-decoration: none;
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	margin-left: -28px;
+
+	img {
+		animation: bouncearrow 1s infinite;
+		-moz-animation: bouncearrow 1s infinite; /* Firefox */
+		-webkit-animation: bouncearrow 1s infinite; /* Safari and Chrome */
+		-o-animation: bouncearrow 1s infinite; /* Opera */
+	}
+
+	/*bouncearrow animation*/
+	@keyframes bouncearrow {
+		from {
+		-webkit-transform: translateY(0);
+		-moz-transform: translateY(0);
+		transform: translateY(0);
+		}
+		to {
+			-webkit-transform: translateY(-20px);
+			-moz-transform: translateY(-20px);
+			transform: translateY(-20px);
+		}
+	}
+	@-moz-keyframes bouncearrow { /* Firefox */
+		from {
+		-webkit-transform: translateY(0);
+		-moz-transform: translateY(0);
+		transform: translateY(0);
+		}
+		to {
+			-webkit-transform: translateY(-20px);
+			-moz-transform: translateY(-20px);
+			transform: translateY(-20px);
+		}
+	}
+	@-webkit-keyframes bouncearrow { /* Safari and Chrome */
+		from {
+		-webkit-transform: translateY(0);
+		-moz-transform: translateY(0);
+		transform: translateY(0);
+		}
+		to {
+			-webkit-transform: translateY(-20px);
+			-moz-transform: translateY(-20px);
+			transform: translateY(-20px);
+		}
+	}
+	@-o-keyframes bouncearrow { /* Opera */
+		from {
+		-webkit-transform: translateY(0);
+		-moz-transform: translateY(0);
+		transform: translateY(0);
+		}
+		to {
+			-webkit-transform: translateY(-20px);
+			-moz-transform: translateY(-20px);
+			transform: translateY(-20px);
+		}
+	}
+
+	}
+
+/* ------------------ Headers --------------------*/
+h3.section-header {
+	font-weight: bold;
+	font-size: 24px;
+	color: darken(@text-color, 5%);
+	line-height: 1;
+	margin: 15px 0 15px;
+}
+
+h3.section-header-1 {
+	display: inline-block;
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-align: center;
+	border-bottom: 1px solid @gray-spr;
+	padding: 0 0 15px;
+	margin: 20px 0 50px;
+}
+/* ------------------ Hide elements before animations --------------------*/
+.logos,
+.clean-code .col-md-8,
+.clean-code .col-md-4,
+.charts .col-md-8,
+.charts .col-md-4,
+.email-app .col-md-8,
+.email-app .col-md-4, {
+	opacity: 0; 
+}
+/* ------------------ Section features --------------------*/
+.section-features {
+
+	/*Features row*/
+	.features-row {
+		margin-top: 0;
+		padding: 20px 0;
+	}
+}
+
+/* ------------------ Testimonials --------------------*/
+.testimonials {
+	padding: 25px 0;
+	position: relative;
+	.testimonials-block {
+		
+		.transition (all);
+		.transition-duration(0.4s);
+
+		.testimonials-text {
+			width: 100%;
+			height: auto;
+			padding: 20px;
+			background: @white;
+			border-radius: @border-radius-base;
+			font-family: Georgia, "Times New Roman", Times, serif;
+			font-style: italic;
+			position: relative;
+			line-height: 28px;
+			font-size: 16px;
+
+			&:after {
+				top: 100%;
+				left: 20%;
+				border: solid transparent;
+				content: "";
+				height: 0;
+				width: 0;
+				position: absolute;
+				pointer-events: none;
+				border-color: rgba(255, 255, 255, 0);
+				border-top-color: #ffffff;
+				border-width: 15px;
+				margin-left: -15px;
+			}
+		}
+		.testimonials-client {
+			margin-top: 30px;
+			margin-left: 10px;
+
+			img {
+				float: left;
+				border-radius: 50%;
+				width: 64px;
+				height: 64px;
+			}
+
+			p {
+				padding-left: 80px;
+				padding-top: 13px;
+			}
+		}
+	}
+}
+
+/* ------------------ Give a try --------------------*/
+.give-a-try {
+	padding: 60px 15px;
+	color: @white;
+	text-align: center;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+	background-image: url(../img/landing/footer-cover.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+	h1 {
+		font-weight: normal;
+		font-size: 48px;
+	}
+
+	p {font-size: 32px;}
+}
+
+/* ------------------ Footer --------------------*/
+#footer {
+	.footer-links {
+		text-align: center;
+
+		a {
+			text-align: center;
+			padding: 0 15px;
+			display: inline-block;
+			padding-bottom: 15px;
+		}
+	}
+}
+
+//Include landing-responsive.less for responsive features
+// --------------------------------------------------
+@import "landing-responsive.less";
