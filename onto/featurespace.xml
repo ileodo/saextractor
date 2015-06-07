@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Judge whether a page is seminar page-->
+<!DOCTYPE featurespace PUBLIC "Seminar"
+        "http://static.ileodo.com/s/mscproject/featurespace.dtd">
+<featurespace name="seminarpages" version="1.0">
+    <feature id="f1"
+             name="E:url[seminar]"
+             description="the word `seminar(s)` exist in url">
+        <reg sel="url" exp="seminar(s)?" policy="exist"/>
+    </feature>
+
+    <feature id="f2"
+             name="#:text[location]"
+             description="number of word `location` (and relative words) in TEXT">
+        <list src="location.wd" policy="sum"/>
+    </feature>
+
+    <feature id="f3"
+             name="#:text[speaker]"
+             description="number of word `speaker` (and relative words) in TEXT">
+        <list src="speaker.wd" policy="sum"/>
+    </feature>
+
+    <feature id="f4"
+             name="#:text[abstract]"
+             description="number of word `abstract` (and relative words) in TEXT">
+        <list src="abstract.wd" policy="sum"/>
+    </feature>
+
+    <feature id="f5"
+             name="#:text[date]"
+             description="number of word `date` (and relative words) in TEXT">
+        <list src="date.wd" policy="sum"/>
+    </feature>
+
+    <feature id="f6"
+             name="#:text[time]"
+             description="number of word `time` (and relative words) in TEXT">
+        <list src="time.wd" policy="sum"/>
+    </feature>
+
+    <feature id="f7"
+             name="#:text[DATE|TIME]"
+             description="number of DATE and TIME entity in TEXT">
+        <list src="abstract.wd" policy="sum"/>
+    </feature>
+
+    <feature id="f8"
+             name="#:tag[img]"
+             description="number of image in page">
+        <reg sel="tag" exp="<img .*?>"/>
+    </feature>
+    <!-- already labeled with same hash, url, same content_hash-->
+
+</featurespace>

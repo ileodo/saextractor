@@ -2,8 +2,8 @@ import re
 
 from bs4 import BeautifulSoup
 import hashlib
-import config
 import copy
+from SAECrawlers.items import UrlretriverItem
 import requests
 from bs4 import BeautifulSoup
 from lxml import etree
@@ -12,25 +12,16 @@ from io import StringIO
 from lxml.html.soupparser import fromstring
 import lxml
 
-page = requests.get("http://www.cs.ox.ac.uk/feeds/News-Publications.xml").text
-
 import cPickle as pickle
+from SAEJudge.FeatueExtract import features_extract
+from SAECrawlers.items import UrlretriverItem
+item = UrlretriverItem.s_load_id(1)
+content = requests.get("http://www2.physics.ox.ac.uk/research/seminars?date=2007").content
+item['url']="http://www2.physics.ox.ac.uk/research/seminars?date=2007"
+item['raw_content'] = content
+item['content'] = content
+item['title'] = item.title_of_tree()
+item['content'] = str(item.get_soup())
 
-soup = BeautifulSoup(page)
-data_string = pickle.dumps(soup, -1)
-data_loaded = pickle.loads(data_string)
-# print data_loaded
-if data_loaded==soup:
-    print "Hah"
-else:
-    print "DDD"
-# print str(soup)
-# print (soup.find("title").text)
-
-# cleaner = Cleaner(style=True, scripts=True, page_structure=False, safe_attrs_only=False)
-# page = cleaner.clean_html(page)
-# parser = lxml.html.HTMLParser(remove_blank_text=True, remove_comments=True)
-# tree = lxml.html.document_fromstring(page, parser)
-# print lxml.html.tostring(tree, pretty_print=True,method='xml')
-# # print tree
+features_extract(item)
 

@@ -4,22 +4,18 @@ import hashlib
 import os
 import socket
 import shutil
-import cPickle as pickle
-import sys
-from bs4 import BeautifulSoup
-from scrapy import log
 import struct
+import time
+from scrapy import log
+
+import config
+
 
 def initial_folder(src):
     '''delete files and folders'''
     if os.path.exists(src):
         shutil.rmtree(src)
-
     os.makedirs(src)
-
-
-def get_tree_for_response(response):
-    return BeautifulSoup(response.body)
 
 
 def get_content_type_for_response(response):
@@ -30,10 +26,13 @@ def hash_for_text(text):
     return hashlib.md5(text).hexdigest()
 
 
+# socket
+
 def send_msg(sock, msg):
     # Prefix each message with a 4-byte length (network byte order)
     msg = struct.pack('>I', len(msg)) + msg
     sock.sendall(msg)
+
 
 def recv_msg(sock):
     # Read message length and unpack it into an integer
@@ -43,6 +42,7 @@ def recv_msg(sock):
     msglen = struct.unpack('>I', raw_msglen)[0]
     # Read the message data
     return recvall(sock, msglen)
+
 
 def recvall(sock, n):
     # Helper function to recv n bytes or return None if EOF is hit
@@ -54,6 +54,7 @@ def recvall(sock, n):
         data += packet
     return data
 
+
 def send_message(msg, address):
     # Create a TCP/IP socket
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -62,8 +63,8 @@ def send_message(msg, address):
             sock.connect(address)
             break
         except socket.error:
-            pass
-
+            log.msg("cannot establish connection to socket %s, please open the socket, this will retry in %s seconds" % (str(address), config.socket_retry_seconds), level=log.ERROR)
+            time.sleep(config.socket_retry_seconds)
     try:
         # Send data
         send_msg(sock, msg)
@@ -72,5 +73,3 @@ def send_message(msg, address):
     finally:
         sock.close()
         log.msg("connection closed", level=log.DEBUG)
-
-

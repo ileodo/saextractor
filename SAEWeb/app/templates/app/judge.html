@@ -32,23 +32,40 @@
                             </tr>
                             </thead>
                             <tbody>
-                            {% for judge in judge_list %}
-                            <tr>
-                                <td>{{ judge.id }}</td>
-                                <td><p>{{ judge.title }}</p><p>{{ judge.url }}</p></td>
+                            {% for id, item in judge_list.iteritems %}
+                            <tr class="item" data-id="{{ id }}">
+                                <td>{{ id }}</td>
+                                <td>
+                                    <p>{{ item.title }}</p>
+
+                                    <p><a class="btn btn-primary btn-alt mr15 mb15 btn-url" data-toggle="modal"
+                                          data-target="#viewModal" data-id="{{ id }}"
+                                          data-filename="{{ item.filename }}">{{ item.url }}</a></p>
+                                </td>
                                 {% load template_util %}
                                 <td>
                                     <div class="progress progress-striped">
-                                        <div class="progress-bar progress-bar{{ judge.decision | css_type_for_decision  }} animated-bar" role="progressbar" aria-valuenow="{{ judge.confidence }}" style="width:{{ judge.confidence }}%;">
-                                            {{ judge.confidence }}%
+                                        <div class="progress-bar progress-bar{{ item.decision | css_type_for_decision  }} animated-bar"
+                                             role="progressbar" aria-valuenow="{{ item.confidence }}"
+                                             style="width:{{ item.confidence }}%;">
+                                            {{ item.confidence }}%
                                         </div>
                                     </div>
                                 </td>
                                 <td>
                                     <div class="btn-group">
-                                        <button type="button" class="btn btn-dark">N</button>
-                                        <button type="button" class="btn btn-pink">S</button>
-                                        <button type="button" class="btn btn-yellow">M</button>
+                                        <button type="button" data-id="{{ id }}"
+                                                data-decision="{{ 'N' | decision_value  }}"
+                                                class="btn btn-dark ajax-btn-judge">N
+                                        </button>
+                                        <button type="button" data-id="{{ id }}"
+                                                data-decision="{{ 'S' | decision_value  }}"
+                                                class="btn btn-pink ajax-btn-judge">S
+                                        </button>
+                                        <button type="button" data-id="{{ id }}"
+                                                data-decision="{{ 'M' | decision_value  }}"
+                                                class="btn btn-yellow ajax-btn-judge">M
+                                        </button>
                                     </div>
                                 </td>
                             </tr>
@@ -65,9 +82,77 @@
             <!-- col-lg-12 end here -->
         </div>
         <!-- End .row -->
+
+        <!-- Modal -->
+        <div class="modal fade" id="viewModal" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myLargeModalLabel">Modal title</h4>
+                    </div>
+                    <div class="modal-body">
+                        <iframe id="showiframe" class="col-xs-12" height="800px"></iframe>
+                    </div>
+                    <div class="modal-footer">
+                        <button id="model-btn-N" data-id="" data-decision="{{ 'N' | decision_value  }}" type="button"
+                                class="btn btn-dark ajax-btn-judge">No
+                        </button>
+                        <button id="model-btn-S" data-id="" data-decision="{{ 'S' | decision_value  }}" type="button"
+                                class="btn btn-pink ajax-btn-judge">Single
+                        </button>
+                        <button id="model-btn-M" data-id="" data-decision="{{ 'M' | decision_value  }}" type="button"
+                                class="btn btn-yellow ajax-btn-judge">Multiple
+                        </button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+                <!-- /.modal-content -->
+            </div>
+            <!-- /.modal-dialog -->
+        </div>
+        <!-- /.modal -->
+
         <!-- Page End here -->
     </div>
     <!-- End .outlet -->
 </div>
+<script>
+    $(".ajax-btn-judge").click(function () {
+        var id = $(this).data('id');
+        var decision = $(this).data('decision');
 
+        $('[data-id="'+id+'"]').prop('disabled', true);
+
+        $.post("{% url 'ajax' %}",
+                {
+                    type: "judge_finish",
+                    id: id,
+                    decision: decision,
+                    csrfmiddlewaretoken: '{{csrf_token}}'
+                },
+                function (data, status) {
+                    if(data['status']=='success'){
+                        //success
+                        $('.item[data-id="'+id+'"]').remove()
+                                $('#viewModal').modal('hide')
+                    }else{
+                        $('[data-id="'+id+'"]').prop('disabled', false);
+                        alert(data);
+                        console.log(data)
+                    }
+
+                });
+    });
+
+    $(".btn-url").click(function () {
+        var url = "{% url 'loadfile' 'FILENAME' %}";
+        var filename = $(this).data("filename");
+        var id = $(this).data("id");
+        $("#showiframe").attr('src', url.replace("FILENAME", filename));
+        $("#model-btn-N").data('id', id);
+        $("#model-btn-S").data('id', id);
+        $("#model-btn-M").data('id', id);
+    });
+</script>
 {% include 'partial/footer.html' %}

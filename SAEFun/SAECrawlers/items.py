@@ -25,15 +25,33 @@ class UrlretriverItem(scrapy.Item):
     last_access_ts = scrapy.Field()
     last_extract_ts = scrapy.Field()
     title = scrapy.Field()
+    content = scrapy.Field()
 
     # attribute from response
     raw_content = scrapy.Field()  # str
     soup = scrapy.Field()  # str
     content_type = scrapy.Field()  # str
 
+
     def save(self):
         db.general_update_url(self['id'], self['is_target'], self['content_hash'], self['layout_hash'], self['rule_id'],
                               self['title'])
+
+    def get_soup(self):
+        if 'soup' in self.keys():
+            return self['soup']
+        else:
+            if 'content' in self.keys():
+                self['soup'] = BeautifulSoup(self['content'])
+                import urlparse
+
+                for k, v in config.retriever_absolute_url_replace_pattern.iteritems():
+                    tags = self['soup'].findAll(k, {v:True})
+                    for tag in tags:
+                        tag[v] = urlparse.urljoin(self['url'], tag[v])
+                return self['soup']
+            else:
+                raise Exception("sss")
 
     @staticmethod
     def s_load_id(id):
@@ -70,11 +88,8 @@ class UrlretriverItem(scrapy.Item):
     ''' from tree
     """
 
-    def raw_content_of_tree(self):
-        return self['raw_content']
-
     def title_of_tree(self):
-        title = self['soup'].find("title")
+        title = self.get_soup().find("title")
         if title is None:
             title = ""
         else:
@@ -84,13 +99,17 @@ class UrlretriverItem(scrapy.Item):
         return title
 
     def layout_of_tree(self):
-        soup = BeautifulSoup(str(self['soup']))
+        # copy soup
+        soup = BeautifulSoup(str(self.get_soup()))
         # remove tags
         for tag in config.layout_tag_remove:
             for t in soup.select(tag):
                 t.decompose()
 
-        result = soup.body.prettify()
+        if soup.body is None:
+          result = ""
+        else:
+          result = soup.body.prettify()
 
         # Comments
         r = re.compile(r"<!.*?>", re.S)

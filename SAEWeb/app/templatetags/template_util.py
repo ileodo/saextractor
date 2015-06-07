@@ -15,3 +15,19 @@ def css_type_for_decision(value):
         config.const_IS_TARGET_UNKNOW: ""
     }
     return type_map[value]
+
+@register.filter(name='decision_value')
+def decision_value(str):
+    value_map = {
+        "M": config.const_IS_TARGET_MULTIPLE,
+        "S": config.const_IS_TARGET_SIGNLE,
+        "N": config.const_IS_TARGET_NO
+    }
+    return value_map[str]
+
+@register.filter(name='operation_value')
+def operation_value(str):
+    value_map = {
+        "done": config.socket_CMD_judge_done,
+    }
+    return value_map[str]

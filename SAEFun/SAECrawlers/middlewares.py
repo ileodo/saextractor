@@ -10,7 +10,7 @@ class CustomDownloaderMiddleware(object):
     def process_response(self, request, response, spider):
         # url length
         if len(response.url) > config.retriever_max_url_length:
-            log.msg("%s # Url is too long" % response.url[:0.2 * config.retriever_max_url_length])
+            log.msg("%s # Url is too long" % response.url[:int(0.2 * config.retriever_max_url_length)])
             raise IgnoreRequest
 
         # deny domain an unknown content-type check

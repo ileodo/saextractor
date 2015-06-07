@@ -1,12 +1,16 @@
 import cPickle as pickle
 import socket
-import errno
 from socket import error as socket_error
+import logging
 
+from django.http import HttpResponse
 from django.shortcuts import render
 
 import util.tool as tool
 import util.config as config
+
+log = logging.getLogger("django")
+log.setLevel(logging.INFO)
 
 # Create your views here.
 
@@ -28,6 +32,7 @@ def judge(request):
     ll = pickle.loads(data_string)
     return render(request, 'app/judge.html', {"page": {"title": "Judge"}, 'judge_list': ll})
 
+
 def extract(request):
     return render(request, 'app/extract.html', {"page": {"title": "Extract"}})
 
@@ -35,3 +40,39 @@ def extract(request):
 def result(request):
     return render(request, 'app/result.html', {"page": {"title": "Result"}})
 
+
+def ajax(request):
+    def judge_finish(post):
+        try:
+            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            sock.connect(config.socket_addr_judge)
+        except socket_error as serr:
+            return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
+
+        data_string = pickle.dumps(
+            {
+                "operation": config.socket_CMD_judge_done,
+                "id": post.get("id"),
+                "decision": post.get("decision")
+            }, -1)
+        tool.send_msg(sock, data_string)
+        data_string = tool.recv_msg(sock)
+        if data_string == "0":
+            return '{"status": "success"}'
+        else:
+            return '{"status": "failed"}'
+
+    if request.method == 'POST':
+        operations_list = {
+            'judge_finish': judge_finish
+        }
+        op_type = request.POST.get('type')
+        log.info(str(request.POST))
+        return HttpResponse(operations_list[op_type](request.POST),content_type="application/json")
+    else:
+        return HttpResponse("ILLEGAL")
+
+
+def loadfile(request, filename):
+    file = open(config.path_inbox_judge + "/" + filename)
+    return HttpResponse(file.read())

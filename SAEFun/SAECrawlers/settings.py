@@ -28,7 +28,7 @@ ITEM_PIPELINES = {
     'SAECrawlers.pipelines.ItemPipeline':300
 }
 
-LOG_LEVEL = 'INFO'
+LOG_LEVEL = 'ERROR'
 DOWNLOAD_TIMEOUT = config.retriever_download_time_out
 DEPTH_LIMIT = config.retriever_depth_limit
 

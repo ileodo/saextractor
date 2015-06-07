@@ -35,8 +35,8 @@ class PagesCrawler(CrawlSpider):
         # is this url in URL_LIB
         item = UrlretriverItem.s_load_url(response.url)
         item['raw_content'] = response.body
-        item['soup'] = tool.get_tree_for_response(response)
-        item['content_type'] = tool.get_content_type_for_response(response)
+        item['content'] = response.body
 
+        item['content_type'] = tool.get_content_type_for_response(response)
         log.msg("PC get page [%s]:- %s" % (item['id'], item['url']))
         yield item

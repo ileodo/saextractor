@@ -9,8 +9,8 @@ from SAECrawlers.spiders.PagesCrawler import PagesCrawler
 
 from util import starter
 
-starter.init_database()
-starter.init_working_path()
+# starter.init_database()
+# starter.init_working_path()
 
 spider = PagesCrawler()
 settings = get_project_settings()

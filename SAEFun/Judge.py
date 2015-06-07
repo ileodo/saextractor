@@ -6,17 +6,19 @@ import sys
 
 from util import config
 import SAEJudge.JudgeQueue
+import logging
+from util.logger import log
 
 #TODO unique id in queue, store to file and reload.
 # Create a TCP/IP socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-print >> sys.stderr, '[Judge] starting up on %s' % str(config.socket_addr_judge)
+log.info('start listening on %s' % str(config.socket_addr_judge))
 sock.bind(config.socket_addr_judge)
 # Listen for incoming connections
 sock.listen(10)
 
 while True:
     # Wait for a connection
-    print >> sys.stderr, '[Judge] waiting for a connection'
     connection, client_address = sock.accept()
+    log.info('new connection from %s',client_address)
     SAEJudge.JudgeQueue.process(connection, client_address)
