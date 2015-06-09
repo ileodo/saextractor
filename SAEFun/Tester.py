@@ -13,15 +13,21 @@ from lxml.html.soupparser import fromstring
 import lxml
 
 import cPickle as pickle
-from SAEJudge.FeatueExtract import features_extract
+from SAEJudge.FeatueExtract import FeatureExtract
 from SAECrawlers.items import UrlretriverItem
-item = UrlretriverItem.s_load_id(1)
-content = requests.get("http://www2.physics.ox.ac.uk/research/seminars?date=2007").content
-item['url']="http://www2.physics.ox.ac.uk/research/seminars?date=2007"
-item['raw_content'] = content
-item['content'] = content
-item['title'] = item.title_of_tree()
-item['content'] = str(item.get_soup())
 
-features_extract(item)
+fe = FeatureExtract("featurespace.xml")
+# fe.print_featuremap()
+
+
+print "%s,%s,%s" %('id','url',fe.str_featuremap_line())
+for x in xrange(2715,2800):
+    item = UrlretriverItem.s_load_id(x)
+    content = requests.get(item['url']).content
+    item['raw_content'] = content
+    item['content'] = content
+    item['title'] = item.title_of_tree()
+    item['content'] = str(item.get_soup())
+    f = fe.extract_item(item)
+    print "%s,%s,%s" %(item['id'],item['url'], FeatureExtract.str_feature(f))
 

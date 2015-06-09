@@ -10,42 +10,48 @@
     </feature>
 
     <feature id="f2"
-             name="#:text[location]"
-             description="number of word `location` (and relative words) in TEXT">
-        <list src="location.wd" policy="sum"/>
+             name="#:text[abstract]"
+             description="number of word `abstract` (synonym) in TEXT">
+        <list src="abstract.wd" policy="sum"/>
     </feature>
 
     <feature id="f3"
-             name="#:text[speaker]"
-             description="number of word `speaker` (and relative words) in TEXT">
-        <list src="speaker.wd" policy="sum"/>
+             name="#:text[location]"
+             description="number of word `location` (synonym) in TEXT">
+        <list src="location.wd" policy="sum"/>
     </feature>
 
     <feature id="f4"
-             name="#:text[abstract]"
-             description="number of word `abstract` (and relative words) in TEXT">
-        <list src="abstract.wd" policy="sum"/>
+             name="#:text[LOCATION]"
+             description="number of location entities in TEXT">
+        <list src="location.ent" policy="sum"/>
     </feature>
 
     <feature id="f5"
-             name="#:text[date]"
-             description="number of word `date` (and relative words) in TEXT">
-        <list src="date.wd" policy="sum"/>
+             name="#:text[speaker]"
+             description="number of word `speaker` (synonym) in TEXT">
+        <list src="speaker.wd" policy="sum"/>
     </feature>
 
     <feature id="f6"
-             name="#:text[time]"
-             description="number of word `time` (and relative words) in TEXT">
-        <list src="time.wd" policy="sum"/>
+             name="#:text[SPEAKER]"
+             description="number of speaker entities in TEXT">
+        <list src="speaker.ent" policy="sum"/>
     </feature>
 
     <feature id="f7"
-             name="#:text[DATE|TIME]"
-             description="number of DATE and TIME entity in TEXT">
-        <list src="abstract.wd" policy="sum"/>
+             name="#:text[date|time]"
+             description="number of word `date|time` (synonym) in TEXT">
+        <list src="datetime.wd" policy="sum"/>
     </feature>
 
     <feature id="f8"
+             name="#:text[DATE|TIME]"
+             description="number of DATE and TIME entities in TEXT">
+        <list src="datetime.ent" policy="sum"/>
+    </feature>
+
+    <feature id="f9"
              name="#:tag[img]"
              description="number of image in page">
         <reg sel="tag" exp="<img .*?>"/>
