@@ -15,13 +15,15 @@ import lxml
 import cPickle as pickle
 from SAEJudge.FeatueExtract import FeatureExtract
 from SAECrawlers.items import UrlretriverItem
+from util import db
 
 fe = FeatureExtract("featurespace.xml")
 # fe.print_featuremap()
 
-
+list = db.get_all_ids_istarget()
 print "%s,%s,%s" %('id','url',fe.str_featuremap_line())
-for x in xrange(2715,2800):
+print len(list)
+for x in list:
     item = UrlretriverItem.s_load_id(x)
     content = requests.get(item['url']).content
     item['raw_content'] = content
@@ -29,5 +31,5 @@ for x in xrange(2715,2800):
     item['title'] = item.title_of_tree()
     item['content'] = str(item.get_soup())
     f = fe.extract_item(item)
-    print "%s,%s,%s" %(item['id'],item['url'], FeatureExtract.str_feature(f))
+    print "%s,%s,[%s],%s" %(item['id'],item['url'],item['is_target'], FeatureExtract.str_feature(f))
 

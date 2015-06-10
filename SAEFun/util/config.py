@@ -42,14 +42,14 @@ socket_CMD_judge_list = "2"
 
 socket_retry_seconds = 10
 #
-# retriever_start_urls = ["https://www.cs.ox.ac.uk/"] + db.get_all_urls()
-retriever_start_urls = ["http://www.ox.ac.uk/"]
+retriever_start_urls = ["https://www.cs.ox.ac.uk/"]
+# retriever_start_urls = ["http://www.ox.ac.uk/"]
 
 # retriever_allow_content_type = ["text/html", "text/xml", "text/calendar"]
 retriever_allow_content_type = ["text/html"]
-# retriever_allow_domains = ["cs.ox.ac.uk"]
-retriever_allow_domains = ["ox.ac.uk"]
-retriever_deny_domains = ["webauth.ox.ac.uk","weblearn.ox.ac.uk"]
+retriever_allow_domains = ["cs.ox.ac.uk"]
+# retriever_allow_domains = ["ox.ac.uk"]
+retriever_deny_domains = ["webauth.ox.ac.uk","weblearn.ox.ac.uk","facebook.com","linkedin.com"]
 retriever_deny_extensions = [
     "pdf", "doc", "docx", "xls", "xlsx", "ppt", "pptx", "png", "jpg", "gif", "ps", "tex", "bib", "zip",
     "tar", "gz", "tgz", "java", "cpp", "c", "scala", "msi", "exe", "sh", "com", "bin", "mp4", "avi"]
@@ -85,10 +85,11 @@ retriever_deny_regxs = [
     "/supervisor(/|\?)",
     "/safety(/|\?)",
     "/handbook(/|\?)",
-    "/fellow(s)?(/|\?)"
+    "/fellow(s)?(/|\?)",
+    "/archives."
 ]
 retriever_max_url_length = 512
-retriever_download_time_out = 1
+retriever_download_time_out = 2
 retriever_depth_limit = 8
 
 retriever_absolute_url_replace_pattern = {

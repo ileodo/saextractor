@@ -6,15 +6,20 @@ from SAECrawlers.items import UrlretriverItem
 from util import tool
 from util import config
 from util.logger import log
-
+from SAEJudge.FeatueExtract import FeatureExtract
 
 class JudgeQueue:
     def __init__(self):
         self.__judge_queue = {}
+        self.__fe = FeatureExtract("featurespace.xml")
         # id : item{title, url, filename, confidence, decision }
         pass
 
     def __auto_judge(self, item):
+        out = open(config.path_working+"/fe.csv","a")
+        f = self.__fe.extract_item(item)
+        out.write("%s,%s,[%s],%s\n" %(item['id'],item['url'],item['is_target'], FeatureExtract.str_feature(f)))
+        out.flush()
         target = random.randint(-1, 2)
         confidence = random.randint(0, 100)
         return target, confidence
@@ -39,31 +44,31 @@ class JudgeQueue:
 
         decision, confidence = self.__auto_judge(item)
 
-        if confidence > 50:
-            # pretty sure, save to db, and pass to extract
-            item['is_target'] = decision
-            item.save()
-            JudgeQueue.__send_to_extractor(item)
-        else:
-            # not sure, put it in queue, involving human-being
-            item['is_target'] = config.const_IS_TARGET_UNKNOW
-            item.save()
-
-            # save file
-            ext = item['content_type'].split('/')[1]
-            filename = "%s.%s" % (item['id'], ext)
-            f = open(config.path_inbox_judge + "/%s" % filename, 'w')
-            f.write(str(item['content']))
-            f.close()
-
-            judge_queue[item_id] = {
-                "title": item['title'],
-                "url": item['url'],
-                "filename": filename,
-                "confidence": confidence,
-                "decision": decision
-            }
-        pass
+        # if confidence > 50:
+        #     # pretty sure, save to db, and pass to extract
+        #     item['is_target'] = decision
+        #     item.save()
+        #     JudgeQueue.__send_to_extractor(item)
+        # else:
+        #     # not sure, put it in queue, involving human-being
+        #     item['is_target'] = config.const_IS_TARGET_UNKNOW
+        #     item.save()
+        #
+        #     # save file
+        #     ext = item['content_type'].split('/')[1]
+        #     filename = "%s.%s" % (item['id'], ext)
+        #     f = open(config.path_inbox_judge + "/%s" % filename, 'w')
+        #     f.write(str(item['content']))
+        #     f.close()
+        #
+        #     judge_queue[item_id] = {
+        #         "title": item['title'],
+        #         "url": item['url'],
+        #         "filename": filename,
+        #         "confidence": confidence,
+        #         "decision": decision
+        #     }
+        # pass
 
     def __op_list(self, data_loaded, connection):
         global judge_queue
@@ -99,7 +104,7 @@ class JudgeQueue:
             data_loaded = pickle.loads(data)
             log.info('new connection from %s', client_address)
             log.debug("data received: %s", data_loaded)
-            JudgeQueue.__operations[data_loaded['operation']](data_loaded, connection)
+            self.__operations(data_loaded['operation'])(self,data_loaded, connection)
         finally:
             # Clean up the connection
             log.info('connection closed for %s', client_address)

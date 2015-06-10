@@ -52,7 +52,8 @@ class FeatureExtract:
 
         if tag == "reg":
             policy = r.get('policy', "count")
-            result = re.findall(r['exp'], self.__get_part_for_item(item, sel))
+            p = re.compile(r['exp'], re.I)
+            result = p.findall(self.__get_part_for_item(item, sel))
             if policy == "count":
                 value = len(result)
             elif policy == "exist":
@@ -61,7 +62,8 @@ class FeatureExtract:
             policy = r.get('policy', "sum")
             value_set = []
             for line in self.__load_file_lines(r['src']):
-                value_set.append(len(re.findall(line, self.__get_part_for_item(item, sel))))
+                p = re.compile(line, re.I)
+                value_set.append(len(p.findall(self.__get_part_for_item(item, sel))))
             value = self.__operations(policy)(value_set)
         else:
             raise Exception("Un-support")

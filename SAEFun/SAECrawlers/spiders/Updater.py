@@ -11,7 +11,7 @@ from SAECrawlers.items import UrlretriverItem
 
 class Updater(scrapy.Spider):
     name = "updater"
-    start_urls = db.get_all_urls_istarget()
+    start_urls = db.get_all_ids_istarget()
 
     def parse(self, response):
         item = UrlretriverItem.s_load_url(response.url)

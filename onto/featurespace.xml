@@ -6,7 +6,7 @@
     <feature id="f1"
              name="E:url[seminar]"
              description="the word `seminar(s)` exist in url">
-        <reg sel="url" exp="seminar(s)?" policy="exist"/>
+        <list sel="url" src="seminar.wd" policy="sum"/>
     </feature>
 
     <feature id="f2"
