@@ -3,58 +3,64 @@
 <!DOCTYPE featurespace PUBLIC "Seminar"
         "http://static.ileodo.com/s/mscproject/featurespace.dtd">
 <featurespace name="seminarpages" version="1.0">
-    <feature id="f1"
+    <feature id="f01"
              name="E:url[seminar]"
              description="the word `seminar(s)` exist in url">
-        <list sel="url" src="seminar.wd" policy="sum"/>
+        <list sel="url" policy="sum">seminar.wd</list>
     </feature>
 
-    <feature id="f2"
+    <feature id="f02"
              name="#:text[abstract]"
              description="number of word `abstract` (synonym) in TEXT">
-        <list src="abstract.wd" policy="sum"/>
+        <list policy="sum">abstract.wd</list>
     </feature>
 
-    <feature id="f3"
+    <feature id="f03"
              name="#:text[location]"
              description="number of word `location` (synonym) in TEXT">
-        <list src="location.wd" policy="sum"/>
+        <list policy="sum">location.wd</list>
     </feature>
 
-    <feature id="f4"
+    <feature id="f04"
              name="#:text[LOCATION]"
              description="number of location entities in TEXT">
-        <list src="location.ent" policy="sum"/>
+        <list policy="sum">location.ent</list>
     </feature>
 
-    <feature id="f5"
+    <feature id="f05"
              name="#:text[speaker]"
              description="number of word `speaker` (synonym) in TEXT">
-        <list src="speaker.wd" policy="sum"/>
+        <list policy="sum">speaker.wd</list>
     </feature>
 
-    <feature id="f6"
+    <feature id="f06"
              name="#:text[SPEAKER]"
              description="number of speaker entities in TEXT">
-        <list src="speaker.ent" policy="sum"/>
+        <list policy="sum">speaker.ent</list>
     </feature>
 
-    <feature id="f7"
+    <feature id="f07"
              name="#:text[date|time]"
              description="number of word `date|time` (synonym) in TEXT">
-        <list src="datetime.wd" policy="sum"/>
+        <list policy="sum">datetime.wd</list>
     </feature>
 
-    <feature id="f8"
+    <feature id="f08"
              name="#:text[DATE|TIME]"
              description="number of DATE and TIME entities in TEXT">
-        <list src="datetime.ent" policy="sum"/>
+        <list policy="sum">datetime.ent</list>
     </feature>
 
-    <feature id="f9"
+    <feature id="f09"
              name="#:tag[img]"
              description="number of image in page">
-        <reg sel="tag" exp="<img .*?>"/>
+        <reg sel="tag">&lt;img .*?&gt;</reg>
+    </feature>
+
+    <feature id="f10"
+             name="#:tbc/tba"
+             description="number of tbc">
+        <reg>\b(tbc|tba)\b</reg>
     </feature>
     <!-- already labeled with same hash, url, same content_hash-->
 

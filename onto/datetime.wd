@@ -1,4 +1,6 @@
-date
-time
-start time
+\b(date|time)\b
+start(s)?(\s+)time(\s*):
+start(s)? from(\s*):?
+end(s)?(\s+)time(\s*):
 duration
+(starts|start|begin|begins)((\s+)at)?(\s*):?

@@ -1,2 +1,3 @@
-speaker
-host
+\b(speaker|lecturer|instructor|presenter|name)(s)?\b
+\b(who)\b
+\b(talk (by|with)|speak (to|with)|presented by|(seminar|lecture) by|host|hosted by)\b

@@ -1,7 +1,7 @@
 <!ELEMENT featurespace (feature)+>
 <!ELEMENT feature (reg|list)+>
-<!ELEMENT reg EMPTY>
-<!ELEMENT list EMPTY>
+<!ELEMENT reg (#PCDATA)>
+<!ELEMENT list (#PCDATA)>
 
 <!ATTLIST featurespace
         name CDATA "default"
@@ -17,12 +17,10 @@
 <!ATTLIST reg
         sel (text|html|tag|title|keyword|description|url) "text"
         weight CDATA "1"
-        exp CDATA #REQUIRED
         policy (count|exist) "count">
 
 <!ATTLIST list
         sel (text|html|tag|title|keyword|description|url) "text"
         weight CDATA "1"
-        src CDATA #REQUIRED
         policy (sum|max|min|avg|prod|div) "sum">
 

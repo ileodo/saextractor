@@ -1,0 +1,9 @@
+\bweek(\\d)*?\b
+\bterm\b
+\b[0-9]\s*h(our(s)?)?\b
+\b[0-9]{1,2}\s*min(s)?\b
+(at)?(\s)*noon
+\\d{2}:\\d{2}(:\\d{2})?
+\b(3[01]|[12][0-9]|0?[1-9])(\s*)/(\s*)(1[012]|0?[1-9])(\s*)/(\s*)([0-9]{4})?\b
+\b(Jan|Jan.|January|Feb|Feb.|February|Mar|Mar.|March|Apr|Apr.|April|May|May.|May|Jun|Jun.|June|Jul|Jul.|July|Aug|Aug.|August|Sep|Sep.|September|Oct|Oct.|October|Nov|Nov.|November|Dec|Dec.|December)\s*(the\s+)?(3[01]|[12][0-9]|0?[1-9])(th|rd|st)?\s+([0-9]{4})?\b
+\b(Monday|Mon(\\.)?|Tuesday|Tue(\\.)?|Wednesday|Wed(\\.)?|Thursday|Thu(r)?(\\.)?|Friday|Fri(\\.)?|Saturday|Sat(\\.)?|Sunday|Sun(\\.)?)?\s*(3[01]|[12][0-9]|0?[1-9])(th|rd|st)?\s+(Jan|Jan.|January|Feb|Feb.|February|Mar|Mar.|March|Apr|Apr.|April|May|May.|May|Jun|Jun.|June|Jul|Jul.|July|Aug|Aug.|August|Sep|Sep.|September|Oct|Oct.|October|Nov|Nov.|November|Dec|Dec.|December)\s*([0-9]{4})?\b

@@ -52,7 +52,7 @@ class FeatureExtract:
 
         if tag == "reg":
             policy = r.get('policy', "count")
-            p = re.compile(r['exp'], re.I)
+            p = re.compile(r.text, re.I)
             result = p.findall(self.__get_part_for_item(item, sel))
             if policy == "count":
                 value = len(result)
@@ -61,9 +61,11 @@ class FeatureExtract:
         elif tag == "list":
             policy = r.get('policy', "sum")
             value_set = []
-            for line in self.__load_file_lines(r['src']):
+            lines = self.__load_file_lines(r.text)
+            for line in lines:
                 p = re.compile(line, re.I)
-                value_set.append(len(p.findall(self.__get_part_for_item(item, sel))))
+                tmp = p.findall(self.__get_part_for_item(item, sel))
+                value_set.append(len(tmp))
             value = self.__operations(policy)(value_set)
         else:
             raise Exception("Un-support")
@@ -75,7 +77,7 @@ class FeatureExtract:
         else:
             if os.path.isfile(config.path_onto + "/" + path):
                 file_content = open(config.path_onto + "/" + path).read()
-                self.__file_map[path] = file_content.strip().split()
+                self.__file_map[path] = file_content.strip().split("\n")
             else:
                 self.__file_map[path] = ""
             return self.__file_map[path]
@@ -85,7 +87,7 @@ class FeatureExtract:
             return self.__part_map[part]
         else:
             if part == "text":
-                self.__part_map[part] = item.get_soup().get_text()
+                self.__part_map[part] = item.get_soup().get_text("\n")
             elif part == "html":
                 self.__part_map[part] = str(item.get_soup())
             elif part == "tag":
@@ -134,6 +136,7 @@ class FeatureExtract:
 
     @staticmethod
     def str_feature(feature, spliter=','):
+        # return feature
         return spliter.join([str(x[1]) for x in sorted(feature.iteritems(), key=lambda d: d[0])])
 
     def print_featuremap(self):

@@ -1,3 +1,8 @@
-Dr.
-Mr.
-Professor
+\bDr(\.)?\b
+\bMr(\.)?\b
+\bMiss(\.)?\b
+\bMrs(\.)?\b
+\bProfessor(\.)?\b
+\bSir(\.)?\b
+\bLord(\.)?\b
+\bProf(\.)?\b

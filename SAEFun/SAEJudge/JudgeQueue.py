@@ -71,8 +71,7 @@ class JudgeQueue:
         # pass
 
     def __op_list(self, data_loaded, connection):
-        global judge_queue
-        tool.send_msg(connection, pickle.dumps(judge_queue, -1))
+        tool.send_msg(connection, pickle.dumps(self.__judge_queue, -1))
         pass
 
     def __op_done(self, data_loaded, connection):

@@ -1,3 +1,3 @@
-seminar(s)?
-event(s)?
-talk(s)?
+\bseminar(s)?\b
+\bevent(s)?\b
+\btalk(s)?\b

@@ -19,10 +19,10 @@ class CustomDownloaderMiddleware(object):
             log.msg("%s # Unknown Content-Type:[%s] " % (response.url, content_type))
             raise IgnoreRequest
 
-        hostname = urlparse_cached(response).hostname
-        if hostname in config.retriever_deny_domains:
-            log.msg("%s # Deny Domain [%s] " % (response.url, hostname))
-            raise IgnoreRequest
+        for de in config.retriever_deny_domains:
+            if response.url.find(de) == -1:
+                log.msg("%s # Deny Domain" % (response.url,))
+                raise IgnoreRequest
 
         # is this url in URL_LIB
         urldb_item = db.get_url_by_url(response.url)

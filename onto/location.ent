@@ -1,3 +1,2 @@
-room
-lecture theater
-building
+\b(lecture|seminar|conference)?\s*(room|classroom|building|hall|theater|auditorium|lounge){1,2}\b
+\blibrary\b
