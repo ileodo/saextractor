@@ -21,5 +21,4 @@ queue = JudgeQueue()
 while True:
     # Wait for a connection
     connection, client_address = sock.accept()
-    log.info('new connection from %s',client_address)
     queue.process(connection, client_address)

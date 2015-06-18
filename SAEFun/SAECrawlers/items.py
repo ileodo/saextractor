@@ -84,6 +84,11 @@ class UrlretriverItem(scrapy.Item):
         res = db.get_url_by_url(url)
         self.load_dict(res)
 
+    def filename(self):
+        ext = self['content_type'].split('/')[1]
+        filename = "%s.%s" % (self['id'], ext)
+        return filename
+
     """
     ''' from tree
     """

@@ -58,9 +58,27 @@
     </feature>
 
     <feature id="f10"
-             name="#:tbc/tba"
+             name="#:text[tbc/tba]"
              description="number of tbc">
         <reg>\b(tbc|tba)\b</reg>
+    </feature>
+
+    <feature id="f11"
+             name="#:tag[table]"
+             description="number of table in tag">
+        <reg sel="tag">&lt;table </reg>
+    </feature>
+
+    <feature id="f12"
+             name="#:url[neg_word]"
+             description="number of neg_words">
+        <reg sel="url">\b(blog|post|article|document)(s)?\b</reg>
+    </feature>
+
+    <feature id="f13"
+             name="#:text[seminar]"
+             description="number of seminar in text">
+        <list policy="sum">seminar.wd</list>
     </feature>
     <!-- already labeled with same hash, url, same content_hash-->
 

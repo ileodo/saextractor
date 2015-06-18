@@ -9,7 +9,7 @@ from util import config
 
 class FeatureExtract:
     def __init__(self, featurespace):
-        file = open(config.path_onto + "/" + featurespace)
+        file = open(featurespace)
         self.__featurespace = BeautifulSoup(file.read())
         self.__file_map = {}
         self.__part_map = {}
@@ -137,7 +137,11 @@ class FeatureExtract:
     @staticmethod
     def str_feature(feature, spliter=','):
         # return feature
-        return spliter.join([str(x[1]) for x in sorted(feature.iteritems(), key=lambda d: d[0])])
+        return spliter.join(FeatureExtract.vector_feature(feature))
+
+    @staticmethod
+    def vector_feature(feature):
+        return [str(x[1]) for x in sorted(feature.iteritems(), key=lambda d: d[0])]
 
     def print_featuremap(self):
         features = self.__featurespace.findAll("feature")

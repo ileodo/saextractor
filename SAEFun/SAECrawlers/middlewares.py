@@ -20,7 +20,7 @@ class CustomDownloaderMiddleware(object):
             raise IgnoreRequest
 
         for de in config.retriever_deny_domains:
-            if response.url.find(de) == -1:
+            if response.url.find(de) != -1:
                 log.msg("%s # Deny Domain" % (response.url,))
                 raise IgnoreRequest
 

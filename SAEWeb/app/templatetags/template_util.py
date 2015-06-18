@@ -14,7 +14,7 @@ def css_type_for_decision(value):
         config.const_IS_TARGET_NO: "-dark",
         config.const_IS_TARGET_UNKNOW: ""
     }
-    return type_map[value]
+    return type_map[int(value)]
 
 @register.filter(name='decision_value')
 def decision_value(str):

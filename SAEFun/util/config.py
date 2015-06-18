@@ -22,13 +22,17 @@ const_IS_TARGET_NO = -1
 
 const_RULE_UNKNOW = -1
 
+const_CONFIDENCE_THRESHOLD = 75
+
 # path
 path_root = os.path.split(os.path.split(os.path.split(os.path.realpath(__file__))[0])[0])[0]
 path_working = path_root + "/working"
 path_inbox_judge = path_working + "/inbox_judge"
 path_inbox_extractor = path_working + "/inbox_extractor"
 path_onto = path_root + "/onto"
-path_judge = path_onto + "/judge.xml"
+path_featurespace = path_onto + "/featurespace.xml"
+path_judge_list = path_working + "/judge_list"
+path_dtree = path_working + "/dtree"
 
 # socket
 socket_host = "localhost"
@@ -39,22 +43,24 @@ socket_addr_rulegen = (socket_host,10003)
 socket_CMD_judge_new = "0"
 socket_CMD_judge_done = "1"
 socket_CMD_judge_list = "2"
+socket_CMD_judge_refresh = "3"
 
 socket_retry_seconds = 10
 #
-retriever_start_urls = ["https://www.cs.ox.ac.uk/"]
-# retriever_start_urls = ["http://www.ox.ac.uk/"]
+# retriever_start_urls = ["https://www.cs.ox.ac.uk/"]
+retriever_start_urls = ["http://www.ox.ac.uk/"]
 
 # retriever_allow_content_type = ["text/html", "text/xml", "text/calendar"]
 retriever_allow_content_type = ["text/html"]
-retriever_allow_domains = ["cs.ox.ac.uk"]
-# retriever_allow_domains = ["ox.ac.uk"]
+# retriever_allow_domains = ["cs.ox.ac.uk"]
+retriever_allow_domains = ["ox.ac.uk"]
 retriever_deny_domains = ["webauth.ox.ac.uk","weblearn.ox.ac.uk","facebook.com","linkedin.com"]
 retriever_deny_extensions = [
     "pdf", "doc", "docx", "xls", "xlsx", "ppt", "pptx", "png", "jpg", "gif", "ps", "tex", "bib", "zip",
     "tar", "gz", "tgz", "java", "cpp", "c", "scala", "msi", "exe", "sh", "com", "bin", "mp4", "avi"]
 retriever_deny_regxs = [
-    ".*(\.php|\.jsp|\.asp)\?",
+    "(\.php|\.jsp|\.asp|\.do)\?",
+    "\?"
     "(edit).*(\\.php|\\.jsp|\\.asp)",
     "roombooking",
     "&day=.*&month=.*&year=.*",
@@ -86,7 +92,13 @@ retriever_deny_regxs = [
     "/safety(/|\?)",
     "/handbook(/|\?)",
     "/fellow(s)?(/|\?)",
-    "/archives."
+    "/archives.",
+    "/share.",
+    "/podcasts."
+    "/learning/",
+    "/teaching/",
+    "/[a-z]*thesis/",
+    "/past(-[a-zA-Z])?/",
 ]
 retriever_max_url_length = 512
 retriever_download_time_out = 2

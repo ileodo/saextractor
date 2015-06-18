@@ -44,8 +44,7 @@ def get_all_urls():
     c.close()
     return [x['url'] for x in res]
 
-
-def get_all_ids_istarget():
+def get_all_ids_known():
     """
     get all targeted urls in url_lib
     :return:
@@ -53,6 +52,18 @@ def get_all_ids_istarget():
     sql = """SELECT id FROM url_lib WHERE is_target != %s """
     c = db_connect().cursor()
     c.execute(sql, (config.const_IS_TARGET_UNKNOW,))
+    res = c.fetchall()
+    c.close()
+    return [x['id'] for x in res]
+
+def get_all_ids_istarget():
+    """
+    get all targeted urls in url_lib
+    :return:
+    """
+    sql = """SELECT id FROM url_lib WHERE is_target IN (%s) """
+    c = db_connect().cursor()
+    c.execute(sql, "%s,%s"%(config.const_IS_TARGET_UNKNOW,config.const_IS_TARGET_NO))
     res = c.fetchall()
     c.close()
     return [x['id'] for x in res]

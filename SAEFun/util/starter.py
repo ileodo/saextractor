@@ -8,7 +8,7 @@ import config
 
 def init_working_path():
     log.msg("Start cleaning working path")
-    tool.initial_folder(config.path_working)
+    # tool.initial_folder(config.path_working)
     tool.initial_folder(config.path_inbox_extractor)
     tool.initial_folder(config.path_inbox_judge)
     log.msg("Finish cleaning working path")

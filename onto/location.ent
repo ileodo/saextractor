@@ -1,2 +1,2 @@
-\b(lecture|seminar|conference)?\s*(room|classroom|building|hall|theater|auditorium|lounge){1,2}\b
+\b(lecture|seminar|conference)?\s*(room|classroom|building|hall|theater|auditorium|lounge)(s?)\b
 \blibrary\b
