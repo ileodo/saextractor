@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	
+	<title>Seminars - Wellcome Trust Centre for Human Genetics</title>
+			<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/general.css" type="text/css" />
+	<link rel="stylesheet" media="print" href="/_static/website/stylesheets/print.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/_static/website/oxitems/medical-grand-rounds.css" type="text/css" />	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+			<link rel="shortcut icon" href="/_static/website/images/icons/favicon.ico" type="image/x-icon" />
+</head>
+<body class="ndm">
+	<div id="header-wrapper">
+		<div id="header">
+			<a href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-rect-wtchg" src="/_static/website/images/ox-rectangle-border.gif" alt="Oxford University logo" /></a>
+			<a href="http://www.ndm.ox.ac.uk/" title="Link to Nuffield Department of Clincial Medicine homepage" target="_blank"><img class="ndm-logo-rect-wtchg" src="/_static/website/images/NDM-rec-spotblue_162x50.png" alt="Nuffield Department of Clincial Medicine logo" /></a>
+			<h1 class="wtchg"><a href="/" title="Link to Wellcome Trust Centre for Human Genetics homepage"><img src="/_static/website/images/heading1-wtchg3.gif" alt="Wellcome Trust Centre for Human Genetics" /></a></h1>
+			<ul id="primary-menu">
+							<li><span><a  href="/home" title="Home">Home</a></span></li>
+							<li><span><a  href="/about-us" title="About us">About us</a></span></li>
+							<li class="current"><span><a  href="/research" title="Research">Research</a></span></li>
+							<li><span><a  href="/news" title="News">News</a></span></li>
+							<li><span><a  href="/work-and-study" title="Work and study">Work and study</a></span></li>
+							<li><span><a  href="/contact" title="Contact">Contact</a></span></li>
+						</ul>
+		<!--	<form class="search wtchg-search" action="/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onFocus="if(this.value == 'Search...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form> -->
+		<form style="float:right;" class="search" id="cse-search-box" action="/_search">		
+				<input type="hidden" name="cx" value="013190107294343682755:hbouhhr152c" />
+				<input type="hidden" name="ie" value="UTF-8" />
+				<input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+				<input type="hidden" name="nojs" value="1" />
+			</form>
+		</div>
+	</div>
+	<div id="content-wrapper">
+									<ul id="secondary-menu" class="group">
+							<li><a  class="secondary-menu-link" href="/research-groups" title="Research groups">Research groups</a></li>
+							<li><a  class="secondary-menu-link" href="/research-areas" title="Research areas">Research areas</a></li>
+							<li><a  class="secondary-menu-link" href="/cores" title="Cores">Cores</a></li>
+							<li><a  class="secondary-menu-link" href="/publications-22" title="Publications">Publications</a></li>
+							<li><a  class="secondary-menu-link" href="/podcasts-meet-our-researchers" title="Podcasts: Meet our researchers">Podcasts: Meet our researchers</a></li>
+							<li class="current"><a  class="secondary-menu-link" href="/seminars-3" title="Seminars">Seminars</a></li>
+							<li><a  class="secondary-menu-link" href="/screen-advert-request" title="Screen advert request">Screen advert request</a></li>
+							</ul>	
+				<script>
+$(document).ready(function(){
+	$("div.abstract a.abstract_link").click(function(e){
+		e.preventDefault();
+		//console.log($(this).attr('event_id'));
+		//console.log($("div.oxtalks-item#oxtalks-item-"+$(this).attr('event_id')+" div.hidden_long_abstract").html());
+		$("div.oxtalks-item#oxtalks-item-"+$(this).attr('event_id')+" div.abstract").replaceWith($("div.oxtalks-item#oxtalks-item-"+$(this).attr('event_id')+" div.hidden_long_abstract").html());
+		//id="oxtalks-item-18147">
+	});
+});
+</script>
+
+<div id="content">
+	<ul class="oxitems-options">
+		<li><a class="ical" href="http://talks.ox.ac.uk/show/ics/15804">Add to calendar</a></li>
+		<li><a class="feed" href="http://talks.ox.ac.uk/show/rss/15804">Subscribe to feed</a></li>
+	</ul>
+	<h1>Seminars</h1>
+	<p><img src="/_asset/image/wtchg-seminar-banner.jpeg" alt="wtchg seminar banner" /></p>	<div class="group"><div class='oxtalks-item' id='oxtalks-item-19636'><p class='where-and-when'>Thu 18 Jun 2015 from 13:00 to 14:00<a href='http://talks.ox.ac.uk/talk/vcal/19636'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Geratology+/+Palliative+Care&amp;dates=20150618T130000Z/20150618T140000Z&amp;sprop=website:&amp;details=Geratology: "High Court or Modus Vivendi?"
+
+Palliative Care: "Steroids and seizures: Palliative...&amp;location=John Radcliffe Academic (Lecture Theatre 1), Headington OX3 9DU'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Medical Grand Rounds</p><p class='where-and-when'>John Radcliffe Academic (Lecture Theatre 1), Headington OX3 9DU</p><div class='inner-container'><img class='thumb' src='http://talks.ox.ac.uk/image/show/1420/image.png' /><h2 class='title'>Geratology / Palliative Care</h2><h3 class='speaker'>Dr Tim Harrison, Dr Sarah Hanrott, Dr Anna Sutherland, Dr Laura Brown</h3><div class='abstract'><p>Geratology: &#8220;High Court or Modus Vivendi?&#8221;</p>
+
+
+	<p>Palliative Care: &#8220;Steroids and seizures: Palliative management of brain tumours&#8221;</p>
+
+
+	<p>Chair: Prof Chris O&#8217;Callaghan</p>
+
+
+	<p>Audience: Public</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Geratology: &#8220;High Court or Modus Vivendi?&#8221;</p>
+
+
+	<p>Palliative Care: &#8220;Steroids and seizures: Palliative management of brain tumours&#8221;</p>
+
+
+	<p>Chair: Prof Chris O&#8217;Callaghan</p>
+
+
+	<p>Audience: Public</p>
+
+
+	<p>Booking: Not required</p></div><p class = 'special_message'> Audience: Members of the University and NHS clinical staff. </p></div></div><div class='oxtalks-item' id='oxtalks-item-21200'><p class='where-and-when'>Thu 18 Jun 2015 from 15:00 to 16:00<a href='http://talks.ox.ac.uk/talk/vcal/21200'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Magnesium+cation+signaling+in+the+healthy+and+diseased+immune+system&amp;dates=20150618T150000Z/20150618T160000Z&amp;sprop=website:&amp;details=
+Topics: Immunology, Cancer
+
+Hosts: Prof Xin Lu (Ludwig Cancer Research, Oxford...&amp;location=NDM Building (Basement Seminar Room), Headington OX3 7FZ'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Ludwig Institute Seminar Series</p><p class='where-and-when'>NDM Building (Basement Seminar Room), Headington OX3 7FZ</p><div class='inner-container'><h2 class='title'>Magnesium cation signaling in the healthy and diseased immune system</h2><h3 class='speaker'>Dr Michael Lenardo (NIH National Institute of Allergy and Infectious Disease)</h3><div class='abstract'><p>Topics: Immunology, Cancer</p>
+
+
+	<p>Hosts: Prof Xin Lu (Ludwig Cancer Research, Oxford Branch)</p>
+
+
+	<p>Organisers: Alexandra Ward (University of Oxford, Oxford Ludwig Institute,  NDM  Experimental Medicine)</p>
+
+
+	<p>Contact email: alexandra.ward@ludwig.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Topics: Immunology, Cancer</p>
+
+
+	<p>Hosts: Prof Xin Lu (Ludwig Cancer Research, Oxford Branch)</p>
+
+
+	<p>Organisers: Alexandra Ward (University of Oxford, Oxford Ludwig Institute,  NDM  Experimental Medicine)</p>
+
+
+	<p>Contact email: alexandra.ward@ludwig.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-20919'><p class='where-and-when'>Fri 19 Jun 2015 from 09:15 to 10:15<a href='http://talks.ox.ac.uk/talk/vcal/20919'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=&quot;Evidence+of+T+Cell+Driven+Selection+Pressure+in+the+HIV-1+UTR&quot;&amp;dates=20150619T091500Z/20150619T101500Z&amp;sprop=website:&amp;details=
+
+Organisers: Anne Farmer (MRC Human Immunology Unit)
+
+Audience: Members of the University...&amp;location=Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>MRC HIU Friday Morning Lab Meetings</p><p class='where-and-when'>Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS</p><div class='inner-container'><h2 class='title'>&quot;Evidence of T Cell Driven Selection Pressure in the HIV-1 UTR&quot;</h2><h3 class='speaker'>Katja Pfafferot (McMichael Group)</h3><div class='abstract'><p>Organisers: Anne Farmer (MRC Human Immunology Unit)</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Organisers: Anne Farmer (MRC Human Immunology Unit)</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-21321'><p class='where-and-when'>Fri 19 Jun 2015 from 11:00 to 12:00<a href='http://talks.ox.ac.uk/talk/vcal/21321'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Building+a+Nanoscale+Bushy+Cell+Connectome:+Wiring+Diagrams,+Big+Data+Challenges+and+Hearing+In+Silico&amp;dates=20150619T110000Z/20150619T120000Z&amp;sprop=website:&amp;details=
+
+Hosts: Professor Zoltan Molnar (DPAG, University of Oxford)
+
+Organisers: Professor Zoltan Molnar...&amp;location=Sherrington Building (In the Small Lecture Theatre, 2nd floor), off Parks Road OX1 3PT'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>DPAG Guest Speakers</p><p class='where-and-when'>Sherrington Building (In the Small Lecture Theatre, 2nd floor), off Parks Road OX1 3PT</p><div class='inner-container'><h2 class='title'>Building a Nanoscale Bushy Cell Connectome: Wiring Diagrams, Big Data Challenges and Hearing In Silico</h2><h3 class='speaker'>Dr George Spirou (Director, Center of Neuroscience, West Virginia University School of Medicine)</h3><div class='abstract'><p>Hosts: Professor Zoltan Molnar (DPAG, University of Oxford)</p>
+
+
+	<p>Organisers: Professor Zoltan Molnar (DPAG, University of Oxford)</p>
+
+
+	<p>Contact email: zoltan.molnar@dpag.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Hosts: Professor Zoltan Molnar (DPAG, University of Oxford)</p>
+
+
+	<p>Organisers: Professor Zoltan Molnar (DPAG, University of Oxford)</p>
+
+
+	<p>Contact email: zoltan.molnar@dpag.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><p class = 'special_message'> GUEST SPEAKER  </p></div></div><div class='oxtalks-item' id='oxtalks-item-20822'><p class='where-and-when'>Fri 19 Jun 2015 from 13:00 to 14:00<a href='http://talks.ox.ac.uk/talk/vcal/20822'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Professor+Anna+Gloyn+:+'Unravelling+causal+mechanisms+for+diabetes+pathogenesis’&amp;dates=20150619T130000Z/20150619T140000Z&amp;sprop=website:&amp;details=tba
+
+
+
+Hosts: Professor Kieran Clarke (DPAG, University of Oxford)
+
+Organisers: Sarah Noujaim...&amp;location=Sherrington Building (Large Lecture Theatre, ground floor), off Parks Road OX1 3PT'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>DPAG Head of Department Seminar Series</p><p class='where-and-when'>Sherrington Building (Large Lecture Theatre, ground floor), off Parks Road OX1 3PT</p><div class='inner-container'><h2 class='title'>Professor Anna Gloyn : 'Unravelling causal mechanisms for diabetes pathogenesis’</h2><h3 class='speaker'>Professor Anna Gloyn (OCDEM, University of Oxford )</h3><div class='abstract'><p>tba</p>
+
+
+	<p>Hosts: Professor Kieran Clarke (DPAG, University of Oxford)</p>
+
+
+	<p>Organisers: Sarah Noujaim (University of Oxford, Department of Physiology Anatomy and Genetics)</p>
+
+
+	<p>Contact email: sarah.noujaim@dpag.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>tba</p>
+
+
+	<p>Hosts: Professor Kieran Clarke (DPAG, University of Oxford)</p>
+
+
+	<p>Organisers: Sarah Noujaim (University of Oxford, Department of Physiology Anatomy and Genetics)</p>
+
+
+	<p>Contact email: sarah.noujaim@dpag.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><p class = 'special_message'> GUEST SPEAKER  </p></div></div><div class='oxtalks-item' id='oxtalks-item-21351'><p class='where-and-when'>Fri 19 Jun 2015 from 13:00 to 14:00<a href='http://talks.ox.ac.uk/talk/vcal/21351'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=From+plasmid+to+patent+attorney&amp;dates=20150619T130000Z/20150619T140000Z&amp;sprop=website:&amp;details=
+
+Hosts: Dr Danuta Jeziorska (Weatherall Institute of Molecular Medicine, University of Oxford), Dr...&amp;location=Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>WIMM Science Career Seminars</p><p class='where-and-when'>Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS</p><div class='inner-container'><h2 class='title'>From plasmid to patent attorney</h2><h3 class='speaker'>Robert Stephen (Partner, Olswang LLP)</h3><div class='abstract'><p>Hosts: Dr Danuta Jeziorska (Weatherall Institute of Molecular Medicine, University of Oxford), Dr David Clynes (Weatherall Institute of Molecular Medicine, University of Oxford)</p>
+
+
+	<p>Organisers: Liz Rose (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Contact... <a class='abstract_link' event_id='21351' href='#'>Read more</a></div><div class='hidden_long_abstract'><p>Hosts: Dr Danuta Jeziorska (Weatherall Institute of Molecular Medicine, University of Oxford), Dr David Clynes (Weatherall Institute of Molecular Medicine, University of Oxford)</p>
+
+
+	<p>Organisers: Liz Rose (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Contact email: liz.rose@imm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-21263'><p class='where-and-when'>Mon 22 Jun 2015 from 10:00 to 11:00<a href='http://talks.ox.ac.uk/talk/vcal/21263'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Dissecting+cancer+by+epigenomics+and+single-cell+sequencing&amp;dates=20150622T100000Z/20150622T110000Z&amp;sprop=website:&amp;details=
+
+Organisers: Verity Pavitt (University of Oxford), Andrea Keyte (University of Oxford, Target...&amp;location=NDM Building (Seminar Roon), Headington OX3 7FZ'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>TDI Seminar Series</p><p class='where-and-when'>NDM Building (Seminar Roon), Headington OX3 7FZ</p><div class='inner-container'><h2 class='title'>Dissecting cancer by epigenomics and single-cell sequencing</h2><h3 class='speaker'>Professor Christoph Bock</h3><div class='abstract'><p>Organisers: Verity Pavitt (University of Oxford), Andrea Keyte (University of Oxford, Target Discovery Institute)</p>
+
+
+	<p>Contact email: verity.pavitt@ndm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Organisers: Verity Pavitt (University of Oxford), Andrea Keyte (University of Oxford, Target Discovery Institute)</p>
+
+
+	<p>Contact email: verity.pavitt@ndm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><p class = 'special_message'> All welcome </p></div></div><div class='oxtalks-item' id='oxtalks-item-21297'><p class='where-and-when'>Mon 22 Jun 2015 from 11:00 to 12:00<a href='http://talks.ox.ac.uk/talk/vcal/21297'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=The+signaling+mechanism+of+a+'double-edged+receptor,+DCC'&amp;dates=20150622T110000Z/20150622T120000Z&amp;sprop=website:&amp;details=
+
+Hosts: Prof E.Yvonne Jones (University of Oxford), Prof David Stuart (University of...&amp;location=Wellcome Trust Centre for Human Genetics (Meeting Rooms A &amp; B), Headington OX3 7BN'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'></p><p class='where-and-when'>Wellcome Trust Centre for Human Genetics (Meeting Rooms A &amp; B), Headington OX3 7BN</p><div class='inner-container'><h2 class='title'>The signaling mechanism of a 'double-edged receptor, DCC'</h2><h3 class='speaker'>Dr Jia-Huai Wang (Harvard Medical School  )</h3><div class='abstract'><p>Hosts: Prof E.Yvonne Jones (University of Oxford), Prof David Stuart (University of Oxford)</p>
+
+
+	<p>Organisers: Eleanor Martin (Wellcome Trust Centre for Human Genetics)</p>
+
+
+	<p>Contact email: jones-pa@strubi.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Hosts: Prof E.Yvonne Jones (University of Oxford), Prof David Stuart (University of Oxford)</p>
+
+
+	<p>Organisers: Eleanor Martin (Wellcome Trust Centre for Human Genetics)</p>
+
+
+	<p>Contact email: jones-pa@strubi.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-21254'><p class='where-and-when'>Mon 22 Jun 2015 from 12:00 to 13:00<a href='http://talks.ox.ac.uk/talk/vcal/21254'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=The+Cartilage+Circadian+Clock+in+Health+and+Disease&amp;dates=20150622T120000Z/20150622T130000Z&amp;sprop=website:&amp;details=
+
+Hosts: Professor Tonia Vincent (Kennedy Institute of Rheumatology)
+
+Organisers: Professor Irina...&amp;location=Kennedy Institute of Rheumatology (Bernard Sunley Lecture Theatre), Headington OX3 7LF'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Kennedy Institute Seminars</p><p class='where-and-when'>Kennedy Institute of Rheumatology (Bernard Sunley Lecture Theatre), Headington OX3 7LF</p><div class='inner-container'><h2 class='title'>The Cartilage Circadian Clock in Health and Disease</h2><h3 class='speaker'>Dr Qing-Jun Meng (Faculty of Life Sciences, University of Manchester, Manchester)</h3><div class='abstract'><p>Hosts: Professor Tonia Vincent (Kennedy Institute of Rheumatology)</p>
+
+
+	<p>Organisers: Professor Irina Udalova (Kennedy Institute of Rheumatology), Professor Kim Midwood (Kennedy Institute of Rheumatology)</p>
+
+
+	<p>Contact email: sandra.lock@kennedy.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Hosts: Professor Tonia Vincent (Kennedy Institute of Rheumatology)</p>
+
+
+	<p>Organisers: Professor Irina Udalova (Kennedy Institute of Rheumatology), Professor Kim Midwood (Kennedy Institute of Rheumatology)</p>
+
+
+	<p>Contact email: sandra.lock@kennedy.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-20657'><p class='where-and-when'>Mon 22 Jun 2015 from 13:00 to 14:00<a href='http://talks.ox.ac.uk/talk/vcal/20657'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Centrosomes+in+asymmetric+stem+cell+divisions&amp;dates=20150622T130000Z/20150622T140000Z&amp;sprop=website:&amp;details=
+
+Hosts: Tudor Fulga (University of Oxford, Weatherall Institute of Molecular...&amp;location=Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>WIMM MONDAY SEMINARS</p><p class='where-and-when'>Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS</p><div class='inner-container'><h2 class='title'>Centrosomes in asymmetric stem cell divisions</h2><h3 class='speaker'>Jordan Raff (Sir William Dunn School of Pathology, University of Oxford)</h3><div class='abstract'><p>Hosts: Tudor Fulga (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Organisers: Linda Roberts (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Contact email: Linda.Roberts@imm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Hosts: Tudor Fulga (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Organisers: Linda Roberts (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Contact email: Linda.Roberts@imm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><p class = 'special_message'> Hosted by Tudar Fulga </p></div></div><div class='oxtalks-item' id='oxtalks-item-21296'><p class='where-and-when'>Mon 22 Jun 2015 from 14:00 to 15:00<a href='http://talks.ox.ac.uk/talk/vcal/21296'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Synthetic+Virology:+A+renaissance+for+structure-function+studies&amp;dates=20150622T140000Z/20150622T150000Z&amp;sprop=website:&amp;details=
+
+Hosts: Thomas Bowden (University of Oxford)
+
+Organisers: Eleanor Martin (Wellcome Trust Centre...&amp;location=Wellcome Trust Centre for Human Genetics (Meeting Rooms A &amp; B), Headington OX3 7BN'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'></p><p class='where-and-when'>Wellcome Trust Centre for Human Genetics (Meeting Rooms A &amp; B), Headington OX3 7BN</p><div class='inner-container'><h2 class='title'>Synthetic Virology: A renaissance for structure-function studies</h2><h3 class='speaker'>Benhur Lee (UCLA, School of Medicine)</h3><div class='abstract'><p>Hosts: Thomas Bowden (University of Oxford)</p>
+
+
+	<p>Organisers: Eleanor Martin (Wellcome Trust Centre for Human Genetics)</p>
+
+
+	<p>Contact email: jones-pa@strubi.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Hosts: Thomas Bowden (University of Oxford)</p>
+
+
+	<p>Organisers: Eleanor Martin (Wellcome Trust Centre for Human Genetics)</p>
+
+
+	<p>Contact email: jones-pa@strubi.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-20602'><p class='where-and-when'>Tue 23 Jun 2015 from 13:00 to 14:00<a href='http://talks.ox.ac.uk/talk/vcal/20602'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=How+to+build+the+largest+functional+domain+in+the+human+nucleus&amp;dates=20150623T130000Z/20150623T140000Z&amp;sprop=website:&amp;details=
+
+Hosts: Professor Doug Higgs (University of Oxford, Weatherall Institute of Molecular...&amp;location=Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Molecular Haematology Unit, WIMM</p><p class='where-and-when'>Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS</p><div class='inner-container'><h2 class='title'>How to build the largest functional domain in the human nucleus</h2><h3 class='speaker'>Professor Brian McStay (Centre for Chromosome Biology, National University of Ireland, Galway)</h3><div class='abstract'><p>Hosts: Professor Doug Higgs (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Organisers: Liz Rose (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Contact email: liz.rose@imm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Hosts: Professor Doug Higgs (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Organisers: Liz Rose (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Contact email: liz.rose@imm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-21259'><p class='where-and-when'>Wed 24 Jun 2015 from 09:00 to 16:20<a href='http://talks.ox.ac.uk/talk/vcal/21259'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=4th+Oxford+Symposium+-+Epigenetic+Mechanisms+in+Health+and+Disease++New+Frontiers+in+Epigenetics&amp;dates=20150624T090000Z/20150624T162000Z&amp;sprop=website:&amp;details=Chromatin biology and epigenetics is a fast growing field at the frontier of modern biology, with...&amp;location=Saïd Business School, Park End Street OX1 1HP'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>SGC Seminars</p><p class='where-and-when'>Saïd Business School, Park End Street OX1 1HP</p><div class='inner-container'><h2 class='title'>4th Oxford Symposium - Epigenetic Mechanisms in Health and Disease  New Frontiers in Epigenetics</h2><h3 class='speaker'>Jorn Walter (Saarland University), Susanne Muller-Knapp (SGC, University of Oxford), Udo Oppermann (University of Oxford)</h3><div class='abstract'><p>Chromatin biology and epigenetics is a fast growing field at the frontier of modern biology, with considerable impact on understanding of fundamental mechanisms in human health and disease. The symposium ‘Epigenetic Mechanisms in Health and Disease’ aims to bring together clinical and... <a class='abstract_link' event_id='21259' href='#'>Read more</a></div><div class='hidden_long_abstract'><p>Chromatin biology and epigenetics is a fast growing field at the frontier of modern biology, with considerable impact on understanding of fundamental mechanisms in human health and disease. The symposium ‘Epigenetic Mechanisms in Health and Disease’ aims to bring together clinical and non-clinical scientists at the forefront of epigenetics and chromatin biology and inﬂammation to discuss the latest advances in the field. We aim to explore future trends in epigenetics and related ﬁelds of gene regulation, development, molecular recognition and signalling, with an emphasis on prospects of translation into clinical applications. On the first day the focus will be on the latest advances in inflammation followed by epigenetics highlights on the second day. The symposium is followed by a medicinal chemistry workshop centered on epigenetic target classes on the third day.</p>
+
+
+	<p>Topics: Epigenetics</p>
+
+
+	<p>Hosts: Jorn Walter (Saarland University), Susanne Muller-Knapp (SGC, University of Oxford), Udo Oppermann (University of Oxford)</p>
+
+
+	<p>Organisers: Alison Carter (University of Oxford, Structural Genomics Consortium), Stefania Bocchi (University of Oxford, Structural Genomics Consortium)</p>
+
+
+	<p>Contact email: stefania.bocchi@sgc.ox.ac.uk</p>
+
+
+	<p>Audience: Public</p>
+
+
+	<p>Booking: Required</p>
+
+
+	<p>Web address for booking: <a href="http://www.oxforduniversitystores.co.uk/browse/extra_info.asp?compid=1">http://www.oxforduniversitystores.co.uk/browse/extra_info.asp?compid=1</a>&#38;modid=2&#38;catid=129&#38;prodid=342</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-20904'><p class='where-and-when'>Wed 24 Jun 2015 from 13:30 to 14:30<a href='http://talks.ox.ac.uk/talk/vcal/20904'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Environmental+influences+on+inflammatory+immune+responses&amp;dates=20150624T133000Z/20150624T143000Z&amp;sprop=website:&amp;details=
+
+Hosts: Oliver Bannard
+
+Organisers: Anne Farmer
+
+Audience: Members of the University...&amp;location=Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>MRC HIU Wednesday Seminar Series</p><p class='where-and-when'>Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS</p><div class='inner-container'><h2 class='title'>Environmental influences on inflammatory immune responses</h2><h3 class='speaker'>Prof. Brigitta Stockinger (The Francis Crick Institute, London)</h3><div class='abstract'><p>Hosts: Oliver Bannard</p>
+
+
+	<p>Organisers: Anne Farmer</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Hosts: Oliver Bannard</p>
+
+
+	<p>Organisers: Anne Farmer</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-21340'><p class='where-and-when'>Thu 25 Jun 2015 from 12:00 to 13:00<a href='http://talks.ox.ac.uk/talk/vcal/21340'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=+	+HERC+Seminar:+Modelling+the+cost+of+cancer:+a+system+of+equations+approach+to+understanding+inter-relationships&amp;dates=20150625T120000Z/20150625T130000Z&amp;sprop=website:&amp;details=
+
+Organisers: Graham Bagley (University of Oxford, Nuffield Department of Population...&amp;location=New Richards Building (Teaching Room), Old Road Campus OX3 7LG'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Population Health Seminars</p><p class='where-and-when'>New Richards Building (Teaching Room), Old Road Campus OX3 7LG</p><div class='inner-container'><h2 class='title'> 	 HERC Seminar: Modelling the cost of cancer: a system of equations approach to understanding inter-relationships</h2><h3 class='speaker'>Rachel Knott (Centre for Health Economics, Monash University)</h3><div class='abstract'><p>Organisers: Graham Bagley (University of Oxford, Nuffield Department of Population Health)</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Organisers: Graham Bagley (University of Oxford, Nuffield Department of Population Health)</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-19637'><p class='where-and-when'>Fri 26 Jun 2015 from 08:00 to 09:00<a href='http://talks.ox.ac.uk/talk/vcal/19637'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Combined+Medical-Surgical+Grand+Round&amp;dates=20150626T080000Z/20150626T090000Z&amp;sprop=website:&amp;details=Gastroenterology: "Stimulation, not stoma: SNS?"
+
+Chair: Prof Sir Peter J Ratcliffe FRS....&amp;location=John Radcliffe Academic (Lecture Theatre 1), Headington OX3 9DU'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Medical Grand Rounds</p><p class='where-and-when'>John Radcliffe Academic (Lecture Theatre 1), Headington OX3 9DU</p><div class='inner-container'><img class='thumb' src='http://talks.ox.ac.uk/image/show/1421/image.png' /><h2 class='title'>Combined Medical-Surgical Grand Round</h2><h3 class='speaker'>Dr Alex Kent, Mr Bruce George, Mr Bobby Bloemendaal, Dr Satish Keshav, Mr Ian Lindsey, Ms Kim Gorrisen</h3><div class='abstract'><p>Gastroenterology: &#8220;Stimulation, not stoma:  SNS ?&#8221;</p>
+
+
+	<p>Chair: Prof Sir Peter J Ratcliffe  FRS .</p>
+
+
+	<p>Audience: Public</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Gastroenterology: &#8220;Stimulation, not stoma:  SNS ?&#8221;</p>
+
+
+	<p>Chair: Prof Sir Peter J Ratcliffe  FRS .</p>
+
+
+	<p>Audience: Public</p>
+
+
+	<p>Booking: Not required</p></div><p class = 'special_message'> Audience: Members of the University and NHS clinical staff. </p></div></div><div class='oxtalks-item' id='oxtalks-item-20921'><p class='where-and-when'>Fri 26 Jun 2015 from 09:15 to 10:15<a href='http://talks.ox.ac.uk/talk/vcal/20921'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=A+lymphatic+route+for+macrophage+clearance&amp;dates=20150626T091500Z/20150626T101500Z&amp;sprop=website:&amp;details=
+
+Organisers: Anne Farmer (MRC Human Immunology Unit)
+
+Audience: Members of the University...&amp;location=Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>MRC HIU Friday Morning Lab Meetings</p><p class='where-and-when'>Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS</p><div class='inner-container'><h2 class='title'>A lymphatic route for macrophage clearance</h2><h3 class='speaker'>Shaumick Bhattacharjee (Jackson Group)</h3><div class='abstract'><p>Organisers: Anne Farmer (MRC Human Immunology Unit)</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Organisers: Anne Farmer (MRC Human Immunology Unit)</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-21262'><p class='where-and-when'>Mon 29 Jun 2015 from 11:00 to 16:00<a href='http://talks.ox.ac.uk/talk/vcal/21262'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Bapsybanoo+Marchioness+of+Winchester+and+Dasturzada+Dr+Jal+Pavry+Memorial+Lectures&amp;dates=20150629T110000Z/20150629T160000Z&amp;sprop=website:&amp;details=10.30–11.00: Registration, morning tea and coffee
+
+11.00–12.00: Thinking Like a Vegetable: How...&amp;location=St Anne's College (Mary Ogilvie Lecture Theatre), Woodstock Road OX2 6HS'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Medical Sciences Division Events</p><p class='where-and-when'>St Anne's College (Mary Ogilvie Lecture Theatre), Woodstock Road OX2 6HS</p><div class='inner-container'><h2 class='title'>Bapsybanoo Marchioness of Winchester and Dasturzada Dr Jal Pavry Memorial Lectures</h2><h3 class='speaker'>Professor Lalita Ramakrishnan (University of Cambridge), Professor Dame Kay E Davies ( University of Oxford), Professor Ottoline Leyser ( University of Cambridge), Professor Dame Carol Robinson (University of Oxford)</h3><div class='abstract'><p>10.30–11.00: Registration, morning tea and coffee</p>
+
+
+	<p>11.00–12.00: Thinking Like a Vegetable: How Plants Decide What to Do
+Professor Ottoline Leyser, University of Cambridge</p>
+
+
+	<p>12.00–13.00: Lunch</p>
+
+
+	<p>13.00–14.00: Pathways to Success in Science
+Professor Dame Kay E... <a class='abstract_link' event_id='21262' href='#'>Read more</a></div><div class='hidden_long_abstract'><p>10.30–11.00: Registration, morning tea and coffee</p>
+
+
+	<p>11.00–12.00: Thinking Like a Vegetable: How Plants Decide What to Do
+Professor Ottoline Leyser, University of Cambridge</p>
+
+
+	<p>12.00–13.00: Lunch</p>
+
+
+	<p>13.00–14.00: Pathways to Success in Science
+Professor Dame Kay E Davies, University of Oxford
+Professor Ottoline Leyser, University of Cambridge
+Professor Lalita Ramakrishnan, University of Cambridge
+Professor Dame Carol Robinson, University of Oxford</p>
+
+
+	<p>14.15–15.15: Lessons for Human Tuberculosis and its Treatment from the Zebrafish
+Professor Lalita Ramakrishnan, University of Cambridge</p>
+
+
+	<p>15.30–16.00: Afternoon tea and coffee</p>
+
+
+	<p>Hosts: Mathematical, Physical and Life Sciences Division, Medical Sciences Division</p>
+
+
+	<p>Audience: Public</p>
+
+
+	<p>Booking: Recommended</p>
+
+
+	<p>Email address for booking: diversity@mpls.ox.ac.uk</p></div><p class = 'special_message'> Event is open to all </p></div></div><div class='oxtalks-item' id='oxtalks-item-20983'><p class='where-and-when'>Mon 29 Jun 2015 from 12:00 to 13:00<a href='http://talks.ox.ac.uk/talk/vcal/20983'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=The+global+picture+of+malaria:+optimism+or+caution?&amp;dates=20150629T120000Z/20150629T130000Z&amp;sprop=website:&amp;details=Malaria remains major global health threat.  At the end of the last century it was described as a...&amp;location=NDM Building (Basement Seminar Room), Headington OX3 7FZ'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Tropical Medicine Global Health Seminars</p><p class='where-and-when'>NDM Building (Basement Seminar Room), Headington OX3 7FZ</p><div class='inner-container'><img class='thumb' src='http://talks.ox.ac.uk/image/show/1425/image.png' /><h2 class='title'>The global picture of malaria: optimism or caution?</h2><h3 class='speaker'>Professor Kevin Marsh (University of Oxford)</h3><div class='abstract'><p>Malaria remains major global health threat.  At the end of the last century it was described as a public health disaster.  In the last fifteen years there has been remarkable progress in reducing cases and deaths due to malaria.  This has led  to a  welcome new optimism and a shift towards the... <a class='abstract_link' event_id='20983' href='#'>Read more</a></div><div class='hidden_long_abstract'><p>Malaria remains major global health threat.  At the end of the last century it was described as a public health disaster.  In the last fifteen years there has been remarkable progress in reducing cases and deaths due to malaria.  This has led  to a  welcome new optimism and a shift towards the idea of global elimination culminating in eradication. However the threats of underfinancing as well as  emerging drug and insecticide resistance mean that  many challenges remain to be overcome.</p>
+
+
+	<p>Topics:</p>
+
+
+	<p>Organisers: Francois Van Loggerenberg (University of Oxford, Tropical Medicine, Green Templeton College)</p>
+
+
+	<p>Contact email: francois.vanloggerenberg@ndm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><p class = 'special_message'> Refreshments will be provided - Please arrive promptly. </p></div></div><div class='oxtalks-item' id='oxtalks-item-21311'><p class='where-and-when'>Mon 29 Jun 2015 from 13:00 to 14:00<a href='http://talks.ox.ac.uk/talk/vcal/21311'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Immune+sensing+of+vitamin+B+metabolites&amp;dates=20150629T130000Z/20150629T140000Z&amp;sprop=website:&amp;details=
+
+Hosts: Andrew McMichael (University of Oxford, Weatherall Institute of Molecular...&amp;location=Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>WIMM MONDAY SEMINARS</p><p class='where-and-when'>Weatherall Institute of Molecular Medicine (WIMM) (Seminar Room), Headington OX3 9DS</p><div class='inner-container'><h2 class='title'>Immune sensing of vitamin B metabolites</h2><h3 class='speaker'>Jamie Rossjohn (Monash University, Australia)</h3><div class='abstract'><p>Hosts: Andrew McMichael (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Organisers: Linda Roberts (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Contact email: Linda.Roberts@imm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Hosts: Andrew McMichael (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Organisers: Linda Roberts (University of Oxford, Weatherall Institute of Molecular Medicine)</p>
+
+
+	<p>Contact email: Linda.Roberts@imm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-21342'><p class='where-and-when'>Mon 29 Jun 2015 from 13:00 to 14:00<a href='http://talks.ox.ac.uk/talk/vcal/21342'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=ESC+seminars&amp;dates=20150629T130000Z/20150629T140000Z&amp;sprop=website:&amp;details=The talk includes:
+- The ESC Observational program  in Cardiology 
+- The ESC OECD project on health...&amp;location=Richard Doll Building (Lecture Theatre), Old Road Campus OX3 7LF'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Population Health Seminars</p><p class='where-and-when'>Richard Doll Building (Lecture Theatre), Old Road Campus OX3 7LF</p><div class='inner-container'><h2 class='title'>ESC seminars</h2><h3 class='speaker'>Aldo Pietro Maggioni (National School of Public Health, Athens), Nikolaus Maniadakis (National School of Public Health, Athens)</h3><div class='abstract'><p>The talk includes:
+- The  ESC  Observational program  in Cardiology 
+- The  ESC OECD  project on health systems and HF adherence 
+- The  ESC  Atlas of cardiology project</p>
+
+
+	<p>Organisers: Graham Bagley (University of Oxford, Nuffield Department of Population Health)</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>The talk includes:
+- The  ESC  Observational program  in Cardiology 
+- The  ESC OECD  project on health systems and HF adherence 
+- The  ESC  Atlas of cardiology project</p>
+
+
+	<p>Organisers: Graham Bagley (University of Oxford, Nuffield Department of Population Health)</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-20924'><p class='where-and-when'>Mon 29 Jun 2015 from 16:00 to 17:00<a href='http://talks.ox.ac.uk/talk/vcal/20924'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=HERC+Seminar+-+Impact+of+performance-based+financing+in+a+low+resource+setting:+a+decade+of+experience+in+Cambodia&amp;dates=20150629T160000Z/20150629T170000Z&amp;sprop=website:&amp;details=
+
+Organisers: Graham Bagley (University of Oxford, Nuffield Department of Population...&amp;location=New Richards Building (Teaching Room), Old Road Campus OX3 7LG'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Population Health Seminars</p><p class='where-and-when'>New Richards Building (Teaching Room), Old Road Campus OX3 7LG</p><div class='inner-container'><h2 class='title'>HERC Seminar - Impact of performance-based financing in a low resource setting: a decade of experience in Cambodia</h2><h3 class='speaker'>Dr Ellen Van de Poel (Erasmus University, Rotterdam)</h3><div class='abstract'><p>Organisers: Graham Bagley (University of Oxford, Nuffield Department of Population Health)</p>
+
+
+	<p>Contact email: graham.bagley@ndph.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Organisers: Graham Bagley (University of Oxford, Nuffield Department of Population Health)</p>
+
+
+	<p>Contact email: graham.bagley@ndph.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div></div></div><div class='oxtalks-item' id='oxtalks-item-21264'><p class='where-and-when'>Tue 30 Jun 2015 from 14:00 to 15:00<a href='http://talks.ox.ac.uk/talk/vcal/21264'><img title='Add to calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=Detection+of+5-hydroxymethylcytosine+in+cell-free+plasma+DNA&amp;dates=20150630T140000Z/20150630T150000Z&amp;sprop=website:&amp;details=
+
+Organisers: Verity Pavitt (University of Oxford), Andrea Keyte (University of Oxford, Target...&amp;location=NDM Building (Seminar room), Headington OX3 7FZ'><img title='Add to google calendar' src='http://www.well.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>TDI Seminar Series</p><p class='where-and-when'>NDM Building (Seminar room), Headington OX3 7FZ</p><div class='inner-container'><h2 class='title'>Detection of 5-hydroxymethylcytosine in cell-free plasma DNA</h2><h3 class='speaker'>Dr Chunxiao Song</h3><div class='abstract'><p>Organisers: Verity Pavitt (University of Oxford), Andrea Keyte (University of Oxford, Target Discovery Institute)</p>
+
+
+	<p>Contact email: verity.pavitt@ndm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><div class='hidden_long_abstract'><p>Organisers: Verity Pavitt (University of Oxford), Andrea Keyte (University of Oxford, Target Discovery Institute)</p>
+
+
+	<p>Contact email: verity.pavitt@ndm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><p class = 'special_message'> All welcome </p></div></div></div>	</div>
+<div id="side-bar" class="group">
+		<div class="side-box">
+		<h3>About</h3>
+		<p>The WTCHG runs various seminars over the academic year to which all centre members are warmly welcome. External and Internal speakers present on a broad spectrum of subjects which aim provoke interesting and lively debate.</p>
+<p>There is a weekly email mailing list of upcoming seminars: <a href="https://morse.well.ox.ac.uk/mailman/listinfo/seminars" target="_self">subscribe/unsubscribe</a>.</p>
+<p>If you would like to advertise a seminar on one of the display screens in the JR, WTCHG or NDMRB then please fill out the <a title="Screen Advert Request" href="/screen-advert-request" target="_self">request form</a>.</p>	</div>
+		<div class="side-box">
+		<h3>Upcoming seminars</h3>
+		<ul>
+						<li class="current"><a href="/seminars-3/annual-schedule/2015-june">June 2015</a></li>
+						<li><a href="/seminars-3/annual-schedule/2015-july">July 2015</a></li>
+						<li><a href="/seminars-3/annual-schedule/2015-aug">August 2015</a></li>
+						<li><a href="/seminars-3/annual-schedule/2015-sept">September 2015</a></li>
+						<li><a href="/seminars-3/annual-schedule/2015-oct">October 2015</a></li>
+						<li><a href="/seminars-3/annual-schedule/2015-nov">November 2015</a></li>
+						<li><a href="/seminars-3/annual-schedule/2015-dec">December 2015</a></li>
+						<li><a href="/seminars-3/annual-schedule/2016-jan">January 2016</a></li>
+						<li><a href="/seminars-3/annual-schedule/2016-feb">February 2016</a></li>
+						<li><a href="/seminars-3/annual-schedule/2016-mar">March 2016</a></li>
+						<li><a href="/seminars-3/annual-schedule/2016-apr">April 2016</a></li>
+						<li><a href="/seminars-3/annual-schedule/2016-may">May 2016</a></li>
+					</ul>
+	</div>
+	<div class="side-box">
+		<h3>Archive</h3>
+		<ul>
+						<li><a href="/seminars-3/archive/2015-june">June 2015</a></li>
+						<li><a href="/seminars-3/archive/2015-may">May 2015</a></li>
+						<li><a href="/seminars-3/archive/2015-apr">April 2015</a></li>
+						<li><a href="/seminars-3/archive/2015-mar">March 2015</a></li>
+						<li><a href="/seminars-3/archive/2015-feb">February 2015</a></li>
+						<li><a href="/seminars-3/archive/2015-jan">January 2015</a></li>
+						<li><a href="/seminars-3/archive/2014-dec">December 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-nov">November 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-oct">October 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-sept">September 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-aug">August 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-july">July 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-june">June 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-may">May 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-apr">April 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-mar">March 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-feb">February 2014</a></li>
+						<li><a href="/seminars-3/archive/2014-jan">January 2014</a></li>
+						<li><a href="/seminars-3/archive/2013-dec">December 2013</a></li>
+						<li><a href="/seminars-3/archive/2013-nov">November 2013</a></li>
+						<li><a href="/seminars-3/archive/2013-oct">October 2013</a></li>
+						<li><a href="/seminars-3/archive/2013-sept">September 2013</a></li>
+						<li><a href="/seminars-3/archive/2013-aug">August 2013</a></li>
+						<li><a href="/seminars-3/archive/2013-july">July 2013</a></li>
+						<li><a href="/seminars-3/archive/2013-june">June 2013</a></li>
+					</ul>
+	</div>
+		<div class="side-box">
+		<h3>Contact</h3>
+		<p>For further information please contact <a href="mailto:comms@well.ox.ac.uk">comms@well.ox.ac.uk</a>.</p>	</div>
+	</div>		<div id="footer">
+			<a style="float:left; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/athena-swan" title="Link to Athena SWAN NDM pages" target="_blank"><img class="logo-athena" src="/_static/website/images/athena-swan-silver.png" alt="Athena SWAN logo" /></a><a style="float:right; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/working-for-ndm" title="Link to Working for NDM" target="_blank"><img src="/_static/website/images/ndm-men-coloured.jpg" alt="Nuffield Department of Clincial Medicine logo" /></a>
+			<p>© 2015 Wellcome Trust Centre for Human Genetics, Roosevelt Drive, Oxford OX3 7BN, UK</p><p><a href="/">Home</a> | <a href="/_sitemap">Site Map</a> | <a href="/contact">Contact</a> | <a title="WebMail" href="https://morse.well.ox.ac.uk/squirrelmail" target="_blank">WebMail</a> | <a title="WebMail" href="https://mail.well.ox.ac.uk/owa" target="_blank">Outlook Web App</a> | <a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a><br /><a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> | <a href="http://www.ox.ac.uk/copyright/" target="_blank">Copyright</a> | <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a><br /><a href="http://www.ndm.ox.ac.uk/" target="_blank">Nuffield Department of Medicine</a> | <a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a> | <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a> | <a class="link-twitter1" href="https://twitter.com/NDMOxford" title="Twitter" target="_blank"><img width="16" height="16" alt="twitter" src="/_static/website/images/icons/twitter1.png" />@NDMOxford</a> </p>
+					<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/operations"><img src="/_static/website/images/newt-favicon.gif" alt="newt favicon" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/operations"><img src="/_static/website/images/pinfox-favicon.gif" alt="pinfox favicon" /> Pinfox</a></p>
+		</div>
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9954832-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script></body>
+</html>

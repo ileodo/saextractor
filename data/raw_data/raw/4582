@@ -1,0 +1,419 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <base href="http://www.club.ox.ac.uk/accommodation" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Accommodation</title>
+  <link href="/accommodation?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/accommodation?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="http://www.club.ox.ac.uk/component/search/?Itemid=5&amp;format=opensearch" rel="search" title="Search University Club " type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/media/com_attachments/css/attachments_hide.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_attachments/css/attachments_list.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});
+  </script>
+
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+<link href="/templates/js_earthblog/css/template_css.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/templates/js_earthblog/css/nav.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/templates/js_earthblog/css/style2.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/templates/js_earthblog/css/style-updates.css" rel="stylesheet" type="text/css" media="screen" />
+<!--[if lte IE 6]>
+<link href="/templates/js_earthblog/css/ie.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="/templates/js_earthblog/js/iepngfix_tilebg.js"></script>
+<style type="text/css">
+span#prev8,span#next8,span#play8,span#stop8,img {behavior: url(/templates/js_earthblog/js/iepngfix.htc); }
+</style>
+<![endif]-->
+
+
+
+</head>
+<body>
+<div class="outerstroke">
+<div id="main-wrapper">
+	
+	<!-- <div id="header_graphic">
+		<div class="inside">
+			<div id="newsflash"></div>
+			<h1><a href="http://www.club.ox.ac.uk/" title="Club">Club</a></h1>
+			<h2>University Club Website</h2>	
+			</div>
+		</div> -->
+			<div id="header_graphic">
+		<div class="inside">
+			<div id="newsflash"></div>
+			<h1><a href="http://www.club.ox.ac.uk/" title="Club">Club</a></h1>
+			<h2>University Club Website</h2>	
+			</div>
+		</div>
+		
+		
+		<div class="menubar">
+			<div id="navmenu">
+			<script type="text/javascript" src="/templates/js_earthblog/js/barmenu.js"></script>
+				
+<ul class="menu">
+<li class="item-31"><a href="/" >Home</a></li><li class="item-2"><a href="/cafe-and-bar" >Cafe and Bar</a></li><li class="item-3"><a href="/conferences-and-events" >Conferences and events</a></li><li class="item-29"><a href="/gym" >Gym</a></li><li class="item-4"><a href="/sports" >Sports</a></li><li class="item-5 current active"><a href="/accommodation" >Accommodation</a></li><li class="item-6"><a href="/membership" >Membership</a></li><li class="item-7"><a href="/contact-a-information" >About Us</a></li><li class="item-28"><a href="/seasonal" >Seasonal</a></li></ul>
+
+			</div>
+		</div>
+		
+			<div id="mainbody">
+				
+				<div id="showcasetop">&nbsp;</div>
+				<div class="innerstroke">
+				
+				
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tr>
+	
+
+			<!-- PORTAL STYLE -->
+			  
+
+							<td id="leftcol" valign="top" width="225px">
+					<div class="inside">
+								<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Main Menu</h3>
+											
+<ul class="menu">
+<li class="item-31"><a href="/" >Home</a></li><li class="item-2"><a href="/cafe-and-bar" >Cafe and Bar</a></li><li class="item-3"><a href="/conferences-and-events" >Conferences and events</a></li><li class="item-29"><a href="/gym" >Gym</a></li><li class="item-4"><a href="/sports" >Sports</a></li><li class="item-5 current active"><a href="/accommodation" >Accommodation</a></li><li class="item-6"><a href="/membership" >Membership</a></li><li class="item-7"><a href="/contact-a-information" >About Us</a></li><li class="item-28"><a href="/seasonal" >Seasonal</a></li></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Virtual Tour</h3>
+											
+<ul class="menu">
+<li class="item-8"><a href="http://www.chem.ox.ac.uk/oxfordtour/universityclub/html/7.html" target="_blank" >Main Building</a></li><li class="item-9"><a href="http://www.chem.ox.ac.uk/oxfordtour/universityclub/html/3.html" target="_blank" >Front Entrance</a></li><li class="item-10"><a href="htto://www.chem.ox.ac.uk/oxfordtour/universityclub/html/16.html" target="_blank" >Reception</a></li><li class="item-11"><a href="http://www.chem.ox.ac.uk/oxfordtour/universityclub/html/22.html" >Bar</a></li><li class="item-12"><a href="http://www.chem.ox.ac.uk/oxfordtour/universityclub/html/25.html" target="_blank" >Cafe</a></li><li class="item-13"><a href="http://www.chem.ox.ac.uk/oxfordtour/universityclub/html/33.html" target="_blank" >Upstairs Lounge</a></li><li class="item-14"><a href="http://www.chem.ox.ac.uk/oxfordtour/universityclub/html/35.html" target="_blank" >Bedroom</a></li><li class="item-17"><a href="http://www.chem.ox.ac.uk/oxfordtour/universityclub/html/11.html" >Games Room</a></li><li class="item-15"><a href="http://www.chem.ox.ac.uk/oxfordtour/universityclub/html/40.html" target="_blank" >Sports Ground</a></li><li class="item-16"><a href="http://www.chem.ox.ac.uk/oxfordtour/universityclub/html/12.html" target="_blank" >Gym</a></li></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Search</h3>
+											<form action="/accommodation" method="post">
+	<div class="search">
+		<label for="mod-search-searchword">Search...</label><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Search"  onblur="if (this.value=='') this.value='Search';" onfocus="if (this.value=='Search') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="5" />
+	</div>
+</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+					</div>
+				</td>
+						<td id="maincol" valign="top">
+			<div id="breadcrumbs">
+			
+<div class="breadcrumbs">
+<span class="showHere">You are here: </span><a href="/" class="pathway">Home</a> <img src="/media/system/images/arrow.png" alt=""  /> <span>Accommodation</span></div>
+
+			</div>
+				<div class="inside">
+										
+<div id="system-message-container">
+</div>
+					<div class="blog">
+	<h1>
+		Accommodation	</h1>
+	
+	
+
+
+
+	<div class="category-desc">
+				<p><img src="/images/stories/accommodation/accommodation.png" border="0" alt="Accommodation" title="Accommodation at the Club" /><br /><br />The top floor of the University Club offers accommodation in 14 en-suite guest rooms, consisting of 2 single rooms, 10 double rooms and 2 twin rooms.  One twin room and one double room are equipped for disabled guests and there is a double room which has an inter-connecting door to one of the single rooms, ideal for carers or as a family room.  All the rooms have a hospitality tray, TV, telephone and WIFI, iron and ironing boards are available on request. The accommodation rooms have excellent views across the Club&#39;s playing field towards Marston.  <br /><br />Please book online or call reception to check availability.</p>		<div class="clr"></div>
+	</div>
+
+
+<div class="items-leading">
+			<div class="leading-0">
+			
+	<h2>
+					<a href="/accommodation/39-room-tariffs">
+			Room Tariffs</a>
+			</h2>
+
+
+
+
+
+<hr id="null" />
+<p>Rates quoted are up to the 31st of December 2014 and is subject to change without notice.<br />Breakfast and VAT included, accommodation payable in full at time of booking</p>
+<table style="width: 424px; height: 84px;" border="1" cellspacing="2" cellpadding="2">
+<tbody>
+<tr>
+<td>Single</td>
+<td>Non Members: £78.00</td>
+<td>Members: £73.00</td>
+</tr>
+<tr>
+<td>Double/twin</td>
+<td>Non Members: £98.00</td>
+<td>Members: £93.00</td>
+</tr>
+<tr>
+<td>Family Room</td>
+<td>Non Members: £153.00</td>
+<td>Members: £148.00</td>
+</tr>
+<tr>
+<td>Extra Bed</td>
+<td>Non Members: £40.00</td>
+<td>Members: £36.00</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Check in time 1400               Check out time 1000<br /><br /></strong>Please contact reception for any enquiries on 01865 271044 or email <a href="mailto:reception@club.ox.ac.uk">reception@club.ox.ac.uk</a> <br /><br />Members ID is required at check in for the discounted rates<br /><br />Internal departments: please email reception to make a reservation <a href="mailto:reception@club.ox.ac.uk">reception@club.ox.ac.uk</a> or call 71044</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_39"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+		</div>
+			</div>
+
+			<div class="items-row cols-1 row-0">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/accommodation/37-booking">
+			Room Booking</a>
+			</h2>
+
+
+
+
+
+<hr id="null" />
+<p><strong>PLEASE NOTE THAT WE OFTEN HAVE PARTIES ON WEEKEND WITH MUSIC. IF THIS IS OF AN INCONVENIENCE PLEASE CALL RECEPTION TO CHECK PARTY DATES.</strong></p>
+<p><strong>Book online using the booking system</strong> : <a href="https://roomres.club.ox.ac.uk/" target="_parent" title="Room booking">https://roomres.club.ox.ac.uk/</a></p>
+<p>(please note this will take you to a third party website) If you have any problems please contact reception.</p>
+<p>OR <strong>Book direct </strong>at <a href="mailto:reception@club.ox.ac.uk">reception@club.ox.ac.uk</a> Tel: +44 (0)1865 271044</p>
+<p>All payments are required in advance at time of booking.</p>
+<p>(Please note that reception is manned 0800 - 1600 Monday to Friday, outside of these times the duty manager will endeavour to answer queries)</p>
+<p>For Directions please see our <a href="/contact-a-information">About Us section</a></p>
+<p>When booking please include  any club membership details (preferably the University card number)</p>
+<ul>
+<li>Telephone: +44 (0)1865 271044</li>
+<li>Web booking: <a href="https://roomres.club.ox.ac.uk/" target="_parent" title="Room booking">https://roomres.club.ox.ac.uk/</a></li>
+</ul>
+<p>The Club does not have allocated parking space, apart from limited bays for drivers with a disabled ( blue ) badge.</p>
+<p>For car parking on Mansfield road, please see the attachment.</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_37">
+<table>
+<caption>Attachments:</caption>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/037_Current Parking Charges and conditions on Mansfield Road.pdf" title="Download this file (Current Parking Charges and conditions on Mansfield Road.pdf)"><img src="/media/com_attachments/images/file_icons/pdf.gif" alt="Download this file (Current Parking Charges and conditions on Mansfield Road.pdf)"  /></a><a class="at_url" href="/attachments/037_Current Parking Charges and conditions on Mansfield Road.pdf" title="Download this file (Current Parking Charges and conditions on Mansfield Road.pdf)">Car parking on Mansfield road</a></td><td class="at_description">[&nbsp;]</td><td class="at_file_size">407 kB</td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-1">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/accommodation/38-room-facilities">
+			Room Facilities</a>
+			</h2>
+
+
+
+
+
+<hr id="null" />
+<p>All Rooms Offer the following facilities:</p>
+<ul>
+<li>ensuite shower room</li>
+<li>tea/coffee making facilities</li>
+<li>TV</li>
+<li>telephone</li>
+<li>internet connection and WIFI</li>
+<li>hair dryer</li>
+</ul>
+<p>Iron and ironing board available at reception on request<br /><br />There are 2 rooms fully equipped for disabled users, and one with an adjoining room for a carer.</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_38"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+						<div class="items-row cols-1 row-2">
+		<div class="item column-1">
+		
+	<h2>
+					<a href="/accommodation/41-cancellation-charges">
+			Cancellation Policy</a>
+			</h2>
+
+
+
+
+
+<p style="text-align: justify;">Payment is required in full at the time of booking.  If a cancellation is received in writing more than 7 days before the day of arrival, no cancellation fee is charged and a full refund is given. If the booking is cancelled less than 7 days in advance, you will be refunded 50% of the room charge. 100% of the  fee will be charged if the cancellation is not received before 9am the day before the day of arrival,  or is a "no show". ANY CHANGES TO RESERVATIONS MUST BE MADE IN WRITING.</p>
+<p style="text-align: justify;"><strong>Policy for multiple room bookings and long term stay bookings (any number of rooms booked for 4 nights or longer):</strong></p>
+<p class="MsoNormal" style="margin: 0cm 0cm 10pt;"><span style="font-size: 10pt; color: #333333; line-height: 115%; font-family: ">Payment is required in full at the time of booking. If a cancellation is received in writing more than 30 days before the date of arrival, no cancellation fee is charged and a full refund is given. If the booking is cancelled more than 15 days in advance, you will be refunded 50% of the charge. 100% of the fee will be charged if the cancellation is not received by 9am 15 days before the day of arrival, or is a "no show". ANY CHANGES TO RESERVATIONS MUST BE MADE IN WRITING.</span></p>
+<p style="text-align: justify;"> </p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_41"></div>
+
+</div>
+
+
+<div class="item-separator"></div>
+	</div>
+						<span class="row-separator"></span>
+				</div>
+
+				
+
+
+
+
+	
+
+</div>
+
+				</div>
+			</td>
+							<td id="rightcol" valign="top" width="200px">
+					<div class="inside">		<div class="module">
+			<div>
+				<div>
+					<div>
+													<h3>Visitors</h3>
+											
+			<p>We have 28&#160;guests and no members online</p>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+				</td>
+						 
+			<!-- END PORTAL STYLE -->
+		  </tr>
+		</table>
+		</div>
+			<div class="bottom_top"></div>
+				<div id="bottom">
+									<table border="0" cellpadding="0" cellspacing="0" align="center" width="100%">
+				<tr>
+								<td style="width: 100%;padding:5px; vertical-align:top;">
+				<ul class="mostread">
+	<li>
+		<a href="/sports/52-sports-groups-and-activities">
+			Sports - groups, activities, treatments and contacts</a>
+	</li>
+	<li>
+		<a href="/accommodation/21-uncategorised/1-welcome-to-the-university-club">
+			Welcome to the University Club</a>
+	</li>
+	<li>
+		<a href="/accommodation/21-uncategorised/76-bar-photos">
+			Bar photos</a>
+	</li>
+	<li>
+		<a href="/cafe-and-bar/9-this-weeks-cafe-menu">
+			This Week's Café  Menu</a>
+	</li>
+	<li>
+		<a href="/membership/42-ordinary-membership">
+			Ordinary Membership/ Card holder</a>
+	</li>
+	<li>
+		<a href="/contact-a-information/61-how-to-find-us">
+			How to find us</a>
+	</li>
+	<li>
+		<a href="/gym/66-gym-inductions">
+			Gym inductions</a>
+	</li>
+	<li>
+		<a href="/membership/53-main-membership">
+			Apply for membership </a>
+	</li>
+	<li>
+		<a href="/conferences-and-events/16-functions">
+			Functions</a>
+	</li>
+	<li>
+		<a href="/membership/44-membership-faqs">
+			Membership FAQ's</a>
+	</li>
+</ul>
+
+				</td>
+																</tr>
+				</table>
+								<div id="footer"></div>
+			</div>
+		</div>
+		</div></div>
+		<div class="bottomwrap">
+				</div>
+				<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61089211-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+		
+</body>
+</html>

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+
+	<title>Athena SWAN - Radcliffe Department of Medicine, University of Oxford</title>
+		                     
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/general.css" type="text/css" />
+	<link rel="stylesheet" media="print" href="/_static/website/stylesheets/print.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery.lightbox-0.5.css" type="text/css" /><link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery-ui-1.10.4.custom.min.css" type="text/css" />	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+	<script src="/_static/website/javascripts/jquery.lightbox-0.5.min.js" type="text/javascript"></script><script src="/_static/website/javascripts/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>		<link rel="shortcut icon" href="/_static/website/images/icons/rdm_favicon.ico" type="image/x-icon" />
+</head>
+<body class="rdm">
+	<div id="header-wrapper">
+		<div id="header">
+			<a href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-box-larger" src="/_static/website/images/ox-square-border.gif" alt="Oxford University logo" /></a>
+			<!-- <form class="search rdm-search" action="/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onFocus="if(this.value == 'Search...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form> -->
+			<form style="float:right" class="search" id="cse-search-box" action="/_search">
+				<input type="hidden" name="cx" value="013190107294343682755:tzqkoyxr7va" />
+				<input type="hidden" name="ie" value="UTF-8" />
+				<input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+				
+				<input type="hidden" name="nojs" value="1" />
+			</form>
+			<a href="/" title="Link to Radcliffe Department of Medicine homepage"><img id="logo-rdm" src="/_static/website/images/RDMLogo-105.png" alt="Radcliffe Department of Medicine logo" /></a>
+		
+			<ul id="primary-menu">
+							<li><span><a  href="/home" title="Home">Home</a></span></li>
+							<li><span><a  href="/research" title="Research">Research</a></span></li>
+							<li><span><a  href="/graduate-studies" title="Graduate Studies">Graduate Studies</a></span></li>
+							<li class="current"><span><a  href="/about-rdm" title="About RDM">About RDM</a></span></li>
+							<li><span><a  href="/clinical-care" title="Clinical Care">Clinical Care</a></span></li>
+							<li><span><a  href="/medical-grand-rounds" title="Seminars">Seminars</a></span></li>
+							<li><span><a  href="/contact-us" title="Contact Us">Contact Us</a></span></li>
+						</ul>
+			<ul id="rdm_med_sci_link">
+				<li><span><a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical&nbsp;Sciences&nbsp;Division</a></span></li>	
+			</ul>
+			
+			
+		</div>
+	</div>
+	<div id="content-wrapper">
+									<ul id="secondary-menu" class="group">
+							<li><a  class="secondary-menu-link" href="/rdm-divisions" title="RDM Divisions">RDM Divisions</a></li>
+							<li><a  class="secondary-menu-link" href="/head-of-department" title="Head of Department">Head of Department</a></li>
+							<li><a  class="secondary-menu-link" href="/rdm-admin" title="RDM Admin">RDM Admin</a></li>
+							<li><a  class="secondary-menu-link" href="/working-at-rdm" title="Working at RDM">Working at RDM</a></li>
+							<li class="current"><a  class="secondary-menu-link" href="/athena-swan-3" title="Athena SWAN">Athena SWAN</a></li>
+							<li><a  class="secondary-menu-link" href="/latest-news" title="Latest News">Latest News</a></li>
+							<li><a  class="secondary-menu-link" href="/rdm-logo-2" title="RDM Logo">RDM Logo</a></li>
+							<li><a  class="secondary-menu-link" href="/radcliffe" title="Radcliffe">Radcliffe</a></li>
+							<li><a  class="secondary-menu-link" href="/newsletters" title="Newsletters">Newsletters</a></li>
+							</ul>	
+				<script type="text/javascript">
+$( document ).ready(function() {
+	$("a.research_group_link").each(function(index) {
+		if ($("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").length > 0) {
+			$("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").append(this);
+		}
+		else {
+			$(this).hide();
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+$(function() {
+	$('a.lightbox').lightBox({
+		overlayOpacity: 0.6,
+		imageLoading: '/_static/website/images/lightbox/lightbox-ico-loading.gif',
+		imageBtnClose: '/_static/website/images/lightbox/lightbox-btn-close.gif',
+		imageBtnPrev: '/_static/website/images/lightbox/lightbox-btn-prev.gif',
+		imageBtnNext: '/_static/website/images/lightbox/lightbox-btn-next.gif',
+		imageBlank: '/_static/website/images/lightbox/lightbox-blank.gif'
+	});
+});
+</script>
+<div id="content">
+	<h1>Athena SWAN</h1>
+<h2>What is Athena SWAN?</h2>
+<p><a title="Athena SWAN" href="http://www.ecu.ac.uk/equality-charter-marks/athena-swan/" target="_blank">Athena SWAN</a> is an initiative to address the gender imbalance in the areas of Science, Technology, Engineering, Mathematics and Medicine (STEMM). It evolved from work between the Athena Project and the Scientific Women&rsquo;s Academic Network (SWAN) and has a central charter that is owned and operated by the <a title="Equality Challenge Unit" href="http://www.ecu.ac.uk/" target="_blank">Equality Challenge Unit (ECU)</a>.</p>
+<h2>What does the Athena SWAN initiative mean for me?</h2>
+<div class="image_container right" style="width: 200px;"><a title="Athena SWAN" href="http://www.ecu.ac.uk/equality-charter-marks/athena-swan/" target="_blank"><img src="/_asset/image/bronze-logo.png/fit/200/200" alt="Bronze logo" /></a></div>
+<p>The University and all of its individual divisions and departments, including RDM, are fully committed to implementing the Athena SWAN initiative. As a result of this, the University, RDM and its constituent divisions all have Bronze awards and RDM is actively working towards a Silver award.</p>
+<h2>What's happening next?</h2>
+<p>As the divisions within RDM implement those actions identified in their Bronze applications they will build and develop on these, forming the basis of a RDM Silver award application. This will include a further staff questionnaire to identify priority areas for action.&nbsp;A single&nbsp;application will be made by RDM, and if awarded, the Silver award status will apply to all of the divisions within RDM. The challenge will then be to push on for a Gold award and achieve the very best for our staff.</p>
+<p>To achieve this each division within RDM has a&nbsp;<a href="/athena-swan-assessment-teams" target="_self">Athena SWAN Self-Assessment Team</a>&nbsp;that is responsible for implementing actions locally. There is also an <a href="/athena-swan-assessment-teams" target="_self">RDM&nbsp;Athena SWAN Steering Group</a>&nbsp;that helps to instigate and co-ordinate Athena SWAN action plans across the whole of RDM.</p>
+<h2>Where can I go to find more information?</h2>
+<p>Information regarding the Athena SWAN initiative can be found on <a title="Athena SWAN" href="http://www.ecu.ac.uk/equality-charter-marks/athena-swan/" target="_blank">their webpage</a>.</p>
+<p>The latest Athena SWAN news can be found at our dedicated <a title="Athena SWAN News" href="/athena-swan-news" target="_self">Athena SWAN news webpage</a>.</p>
+<p>The <a href="http://www.admin.ox.ac.uk/eop/gender/athenaswan/" target="_blank">University has a set of pages</a> dedicated to Athena SWAN, with information regarding the Medical Sciences Division Athena SWAN response available through <a title="Medsci newsletters" href="http://www.medsci.ox.ac.uk/newsletters" target="_blank">their newsletters</a>.</p>
+<p>If you should have any further queries regarding Athena SWAN in your division, <a title="Key contacts in your RDM Division" href="/key-contacts-in-your-rdm-division" target="_self">your admin team</a>&nbsp;will be able to provide you with more information.&nbsp;</p></div>
+<div id="side-bar">
+	<div class="side-box">
+		<h3>Athena SWAN</h3>
+		<ul>
+						<li><a  href="/athena-swan-management-in-rdm" title="Athena SWAN Management in RDM">Athena SWAN Management in RDM</a>			</li>
+						<li><a  href="/athena-swan-news" title="Athena SWAN News">Athena SWAN News</a>			</li>
+					</ul>
+	</div>
+</div>
+		<div id="footer">
+			<p>
+				© 2015 Radcliffe Department of Medicine
+			</p>
+						<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/_static/website/images/newt-favicon.gif" alt="Newt favicon" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/_static/website/images/pinfox-favicon.gif" alt="Pinfox favicon" /> Pinfox</a></p>
+			<p>
+				<a href="/">Home</a>
+				| <a href="/_sitemap">Site Map</a>
+				| <a href="/contact-us">Contact</a>
+								| <a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a>
+				| <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> 
+				| <a href="http://www.ox.ac.uk/copyright.html" target="_blank">Copyright</a>
+				| <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a>
+				| <a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a>
+				| <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a>
+				 | <a href="/_admin/view/1451">Edit</a>			</p>
+		</div>
+	</div>
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-34907127-1', 'www.rdm.ox.ac.uk');
+	ga('require', 'displayfeatures');
+	ga('send', 'pageview');
+	</script>
+
+<!-- RDM request for google remarketing code from bob mahoney -->
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 959294253;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/959294253/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+</body>
+</html>

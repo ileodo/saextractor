@@ -1,0 +1,279 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb"><!-- InstanceBegin template="/Templates/newlaw.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="headfix_before_php" --><!-- InstanceEndEditable -->
+<script type="text/javascript" src="/scripts/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/scripts/InputPrompt.js"></script>
+
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+<link href="/styles/print.css" type="text/css" rel="stylesheet" media="print" />
+<link href="/styles/main.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="/thistheme.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="/menu.css" media="screen" rel="stylesheet" type="text/css" />  
+
+<script type="text/javascript" src="/scripts/showHide.js"></script>
+<script type="text/javascript" src="http://api.html5media.info/1.1.5/html5media.min.js"></script> 
+<script type="text/javascript">
+// required for popbox to show popped box at the correct y point
+//var yAxisOffset = 120;
+//var posX = (window_width / 2) + 166) + 152;
+var xAxisOffset = -159;
+var yAxisOffset = 272;
+</script>
+<script type="text/javascript" src="/scripts/popbox.js"></script>
+<!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />--> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!-- InstanceBeginEditable name="title" -->
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<script type="text/javascript" >
+function showrss(feedid,divname) {
+	$(document).ready(function () {
+//	$('#a'.feedid).rssfeed(fullfeed, {
+//	$('#a134873').rssfeed(feedid, {
+//alert (feedid + '#' + divname);
+	$('#a' + divname).rssfeed(feedid, {
+		limit: 1,
+		offset: 0,
+		dateformat: 'dd MMMM yyyy',
+		header: false,
+		media: false
+	});
+});
+}
+
+</script> 
+
+
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Faculty of Law : Events</title>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+
+<!-- start of main body panel -->
+
+
+<div class="content-block" id="banner">
+<div style="float:left; position: relative; background: url('/images/banner.jpg') no-repeat; width: 960px; height: 120px;">
+
+<a href="http://www.ox.ac.uk/" style="width: 103px; height: 103px; border: 0; position: absolute; top: 7px; left: 14px;"></a>
+
+<a href="/" style="width: 103px; height: 103px; border: 0; position: absolute; top: 7px; left: 130px;"></a>
+
+</div>
+
+
+
+<div id="search">
+<!-- Google CSE Search Box Begins  -->
+	<form id="searchform" method="put" action="http://search.ox.ac.uk/search">
+		<fieldset>
+			<input name="UnitPicture" type="hidden" value="http://www.oucs.ox.ac.uk/googlesearch/radcliffe.jpg" />
+            <input name="client" value="oxford" type="hidden" />
+			<input name="proxystylesheet" value="law" type="hidden" />
+			<input name="output" value="xml_no_dtd" type="hidden" />
+      		<input name="q" id="input-search" size="20" class="text" onfocus="clearsearch();" maxlength="255" placeholder="search for…" />
+      		<!--<input name="q" id="input-search" size="20" class="text" value="search" onfocus="if (this.value == 'Search') this.value = '';" onblur="if (this.value == '') this.value = 'Search';" maxlength="255" placeholder="search for…" /> -->
+			<input name="Unit" value="Law" type="hidden" />
+			<input name="site" value="law" type="hidden" />
+			<input name="Go" type="submit" value="Go" class="btn" onmouseover="this.className='btn btnover'" onmouseout="this.className='btn'"  />
+	    </fieldset>
+	</form><!-- Google CSE Search Box Ends -->
+               
+</div><!-- end of search -->
+
+
+</div><!-- end of content-block banner -->
+<div class="content-block">
+<!--<div id="mission" >
+	<p>number one for law in <strong>The Guardian</strong> University Guide 2013</p>
+</div> --><!-- end of mission -->
+</div><!-- end of content-block -->
+<div class="content-block">
+	<!-- fmt dropdown start -->
+	<div id="menu">
+    <ul id="nav2" class="fmt_dropdown"> 
+
+	<li class="dir first"><a href="/index.php">home</a>
+		<ul>
+			<li class="first"><a href="/news.php">news</a></li>
+            <li><a href="/events.php">forthcoming events</a></li>
+            <li class="last"><a href="/events.php?prev=old">previous events</a></li>
+		</ul>
+	</li>
+
+<!-- NEW TOP-LEVEL HEADING -->
+	<li class="dir"><a href="/about_the_faculty.php" title="An introduction and overview by The Dean of The Faculty">about</a>
+		<ul class='sub1'>
+            <li class="first"><a href="/about/organization.php">organization</a></li>
+            <li><a href="/about/centres.php">centres</a></li>
+		  <li><a href="/libraries_and_computing.php">libraries and computing</a></li>
+	  <li class="dir"><a href="/publications.php">publications</a>
+                <ul class='sub2'>
+                    <li class="first"><a href="/publications/ojls.php">oxford journal of legal studies</a></li>
+                    <li><a href="/publications/ouclj.php">ou commonwealth law journal</a></li>
+                    <li><a href="/publications/oclf.php">ou comparative law forum</a></li>
+                    <li><a href="/publications/oscola.php">oscola</a></li>
+                    <li><a href="/publications/law_news.php">oxford law news</a></li>
+                    <li><a href="/publications/ssrn.php">oxford law on ssrn</a></li>
+                    <li class="last"><a href="/publications/handbooks.php">handbooks</a></li>
+				</ul>
+		  </li>
+	  <li class="dir"><a href="/publications_faculty/publications_by_faculty_members.php">publications by faculty members</a>
+				<ul class='sub2'>
+                    <li class="first"><a href="/publications_faculty/books.php">recent books</a></li>
+                    <li><a href="/publications_faculty/journals.php">recent journal articles</a></li>
+                    <li class="last"><a href="/publications_faculty/other.php">other recent output</a></li>
+                </ul>
+		  </li>
+		  <li><a href="/links.php">links with other institutions</a></li>
+		  <li><a href="/vacancies.php">vacancies</a></li>
+		  <li><a href="/contact.php">contact us</a></li>
+		</ul>
+
+<!-- NEW TOP-LEVEL HEADING -->
+	<li class="dir"><a href="/people.php" title="(includes a link to our Academic Visitors Programme page)">people</a>
+        <ul class='sub1'>
+	        <li class="first"><a href="/people/academics.php" title="includes Research Staff, Research Fellows, Visiting Professors">academics</a></li>
+	        <li><a href="/people/grad_students.php" title="Research Students studying in the Faculty and its Centres">research students</a></li>
+    	    <li><a href="/people/other_staff.php" title="includes HR, Finance, Student Admin, and IT Staff">administrative staff</a></li>
+    	    <li class="last"><a href="/people/officers.php" title="committe posts etc., held by academic staff">faculty officers</a></li>
+            
+        </ul>
+	</li>
+    <li class="dir"><a href="/studying_here.php">study</a>
+      <ul class='sub1'>
+            <li class="dir first"><a href="/undergraduate_study.php">undergraduate study</a>
+                <ul class='sub2'>
+                    <li class="first"><a href="/undergraduate/programmes.php">programmes</a></li>
+                    <li><a href="/undergraduate/admissions.php">admissions</a></li>
+                    <li class="last"><a href="/undergraduate/prizes.php">undergraduate prizes</a></li>
+                </ul>
+			</li>
+		    <li class="dir"><a href="/postgraduate_study.php">postgraduate study</a>
+                <ul class='sub2'>
+                    <li class="first"><a href="/postgraduate/taught.php">taught programmes</a></li>
+                    <li><a href="/postgraduate/research.php">research programmes</a></li>
+                    <li><a href="/postgraduate/discussion_groups.php">discussion groups</a></li>
+                    <li><a href="/postgraduate/nonlaw.php">for non-law graduates</a></li>
+                    <li><a href="/postgraduate/scholarships.php">scholarships and funding</a></li>
+                    <li><a href="/postgraduate/prizes.php">postgraduate prizes</a></li>
+                    <li class="last"><a href="/postgraduate/admissions.php">admissions</a></li>
+                </ul>
+			</li>
+			<li><a href="/bodleian_law_library.php">bodleian law library</a></li>
+			<li><a href="/mooting/index.php">mooting</a></li>
+			<li class="dir"><a href="/pro_bono.php">pro bono</a>
+                <ul class='sub2'>
+                    <li class="first"><a href="/ola/index.php">oxford legal assistance</a></li>
+                    <li class="last"><a href="/opbp/">oxford pro bono publico</a></li>
+                </ul>
+			</li>
+   	        <li><a href="/careers.php">careers</a></li>
+    	    <li class="last"><a href="/pathways.php" title="Pathways to Law">pathways to law</a></li>
+
+        </ul>
+<!-- NEW TOP-LEVEL HEADING -->
+	<li class="dir"><a href="/research/">research</a>
+      <ul class='sub1'>
+                  <li class="first"><a href="/research/impacts.php">research impact</a></li>
+                  <li><a href="/research/postdoctoral_research.php">research funding</a></li>
+                  <li class="last"><a href="/research/doctoral_students_research.php">doctoral students' research</a></li>
+              </ul>    
+    </li>
+<!-- NEW TOP-LEVEL HEADING -->
+    <li class="dir"><a href="/alumni_and_development.php">alumni and development</a>
+        <ul class='sub1'>
+            <li class="first"><a href="/development/alumni.php">alumni</a></li>
+            <li><a href="/development/development_programme.php">development programme</a></li>
+            <li class="last"><a href="http://www.giving.ox.ac.uk/academic_departments/social_sciences/faculty_of_law.html" target="newwindow" title="opens in a new window or tab">contribute</a></li>
+		</ul>
+	</li>
+<!-- NEW TOP-LEVEL HEADING -->
+	<li><a href="/development/patrons_and_supporters.php">supporters</a></li>
+<!-- NEW TOP-LEVEL HEADING -->
+	<!--<li><a href="/site_map.php">site map</a></li> -->
+<!-- NEW TOP-LEVEL HEADING -->
+    <li class="dir"><a href="http://www.law.ox.ac.uk/intranet/">for current staff and students</a>
+        <ul class='sub1'>
+            <li class="first"><a href="http://www.law.ox.ac.uk/intranet/" title="Law intranet">Intranet</a></li>
+            <li><a href="https://weblearn.ox.ac.uk/portal/hierarchy/socsci/law" title="Teaching and Learning resources">WebLearn</a></li>
+            <li><a href="https://owa.nexus.ox.ac.uk/" title="Oxford WebMail login">Nexus webmail</a></li>
+            <li><a href="http://www.law.ox.ac.uk/lecture_lists.php" title="Today's Law lectures, and a complete list for the term.">Lecture lists</a></li>
+            <li class="last" id="mylaw"><a href="https://intranet.law.ox.ac.uk/lawvle/edit/newmenu.php" title="Edit your profile, add events, choose options...">My Oxford Law</a></li>  
+        </ul>
+    </li>
+</ul></div><!-- end of menu -->
+</div>
+
+<div class="content-block" id="contentbox"> 
+<div id="picturepanel">  
+<!-- this is the law map link in the picture panel -->
+<div class="navmap">
+<a href="/lawmap.php" class="rollover" id="navmap" title="click to see the interactive map"></a>
+</div>
+
+
+<!-- this is randomimage -->
+<img src="/images/rotation/TE-DSCF3827.jpg" alt="Around Oxford" title="Around Oxford" width="150" height="200" />
+<img src="/images/rotation/TE-DSCF3886.jpg" alt="Around Oxford" title="Around Oxford" width="150" height="200" />
+<img src="/images/rotation/square/SA-P1010250.jpg" alt="Law image" title="Law image" width="150" height="150" />
+<br />
+&nbsp;
+</div>
+<div class="bodytext">
+
+<!-- InstanceBeginEditable name="content" -->
+
+<h5>Tuesday 20 May 2014 at <strong>12:30</strong></h5><h1><span class="pale">Intellectual Property Discussion Group </span><br />The Intersection of Antitrust (Competition Law) and Trade Marks</h1><p>Speaker: <strong>P. Sean Morris</strong>, University of Helsinki</p><p>Venue: <a href="http://www.law.ox.ac.uk/" target="_blank">Oxford Law Faculty</a> Senior Common Room  (except Week 6 in Seminar Room D</p><p>The Intellectual Property Discussion Group provides a forum to facilitate the exchange of ideas between students, faculty members and practitioners on issues touching upon the regulation of intellectual property. The group is open to cross-disciplinary participation and is primarily intended as a forum to allow students to present their work and discuss recent intellectual property law developments in an informal environment. Intellectual Property Discussion Group meetings begin with a 20-30 minute presentation followed by discussion. 
+
+The Intellectual Property Discussion Group meets fortnightly in even weeks of term on Tuesdays in the Senior Common Room (Law Faculty) from 12:30pm to 2:00pm. Please note that this excludes Week 6 (03.06.14) when IPDG will take place in Seminar Room D, Law Faculty.
+
+</p><p class="newsflash">For more information please see the <a href="http://www.law.ox.ac.uk/discussion_group/IPDG">event website</a> or  contact: <a href="mailto:thomas.dysart@spc.ox.ac.uk">Thomas Dysart</a></p><hr /><p>Interested in this subject? View our <a href="/subject/23">Intellectual Property</a> page.</p><div class="dotted-top-border"><p>Organised by the <a href="/discussion_group/IPDG">Intellectual Property Discussion Group</a></p></div><hr /><p><a href="/events.php">Show all forthcoming events</a> or <a href="javascript:history.back()" title="does the same as using your browser's Back button">go back one page</a></p><!-- InstanceEndEditable -->
+
+
+</div><!-- end of bodytext -->
+</div><!-- end of content-block, id contentbox-->
+<div class="content-block" id="bottom"><!-- footer content-block -->
+<div id="footer">
+<div>
+<!--<div style="float:left;">-->
+
+<a style="top: 0px;" target="_blank" href="http://www.linkedin.com/groups?home=&amp;gid=918207" class="socialicons" id="LinkedIn" title="LinkedIn"><img src="/images/linkedin-small.gif" alt="Law LinkedIn" title="Oxford Law Faculty on LinkedIn" class="noborder" height="34" align="absmiddle" border="0" width="34" /></a>		<a style="top: 0px;" target="_blank" href="https://www.facebook.com/OxfordLawFaculty" class="socialicons" id="Facebook" title="Facebook"><img alt="Facebook" title="Oxford Law Faculty on Facebook" src="/images/FB.gif" class="noborder" height="34" align="absmiddle" border="0" width="34" /></a>		<a style="top: 0px;" target="_blank" href="https://twitter.com/OxfordLawFac" class="socialicons" id="Twitter" title="Twitter"><img src="/images/twitter-bird-white-on-blue-small.png" alt="Law Twitter" title="Oxford Law Faculty on Twitter" class="noborder" height="34" align="absmiddle" border="0" width="34" /></a>
+
+
+</div>
+<br clear="all" /> 
+</div>
+</div>
+<div class="content-block" id="underfooter">
+<!-- REAL NAME OF THIS PAGE (i.e. $_SERVER['PHP_SELF'] plus querystring): /events.php?id=13029 -->
+ 
+ 
+  <p class='credit' style="margin-bottom:0px;">Page updated on 11 June 2015 at 10:56 :: 
+    
+  <a href="mailto:web.support@law.ox.ac.uk?subject=/events.php?id=13029">Send us feedback on this page</a>
+  :: <a href="/credits.php">photo credits</a></p>
+<p class='credit' style="margin-bottom:0px;">Policies on: <a href="/cookies.php">cookies</a> :: <a href="http://www.admin.ox.ac.uk/foi/">freedom of information</a> :: <a href="http://www.admin.ox.ac.uk/dataprotection/">data protection</a></p>
+</div>
+
+<script src="/scripts/gatag.js" type="text/javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8752186-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- end of footer content-block -->
+</body>
+<!-- InstanceEnd --></html>

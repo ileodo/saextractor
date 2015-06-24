@@ -1,0 +1,313 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	Admissions Criteria - Admissions
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=chemistry-layout&amp;s=21&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Admissions Site Search" href="http://admissions.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	
+<link rel='shortcut icon' href='/Data/Sites/21/skins/chemistry-layout/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://admissions.chem.ox.ac.uk/admissions-criteria.aspx' /></head>
+<body id="ctl00_Body" class="pagebody">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="4" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIDD2QWAgIDD2QWDgIXDw8WAh4HVmlzaWJsZWhkZAIjDw8WAh8AaGRkAicPDxYCHghJbWFnZVVybAU1L0RhdGEvU2l0ZXMvMjEvc2tpbnMvY2hlbWlzdHJ5LWxheW91dC9oZWFkZXJwaG90by5qcGdkZAIpDw8WBB4IQ3NzQ2xhc3MFOWFydC1sYXlvdXQtY2VsbCBhcnQtc2lkZWJhcjEgbGVmdHNpZGUgbGVmdDJjb2x1bW4gY21zem9uZR4EXyFTQgICZBYCAgEPZBYCAgIPZBYCZhA8KwAJAgAPFggeC18hRGF0YUJvdW5kZx4MRGF0YVNvdXJjZUlEBRFQYWdlTWFwRGF0YVNvdXJjZR4NUGF0aFNlcGFyYXRvcgR8Hg1OZXZlckV4cGFuZGVkZGQIFCsABAULMDowLDA6MSwwOjIUKwACFhAeBFRleHQFE0FkbWlzc2lvbnMgQ3Jp" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="dGVyaWEeBVZhbHVlBSQ3MzM5MzI2MS0yZWY3LTQ4ZjItOTE2ZC1mN2M3ODhlODViZjEeC05hdmlnYXRlVXJsBRp+L2FkbWlzc2lvbnMtY3JpdGVyaWEuYXNweB4IRGF0YVBhdGgFAzg0OB4JRGF0YUJvdW5kZx4IU2VsZWN0ZWRnHhBQb3B1bGF0ZU9uRGVtYW5kaB4IRXhwYW5kZWRnZBQrAAIWDB8IBRNGdXJ0aGVyIGluZm9ybWF0aW9uHwkFJDdhZGQ5ZjI2LWQ0NDAtNGM3NC04MDJkLWRiYzVmZjI0ZjcyNx8KBRp+L2Z1cnRoZXItaW5mb3JtYXRpb24uYXNweB8LBQM4NDkfDGcfDmhkFCsAAhYMHwgFCU9wZW4gZGF5cx8JBSQ0NzFjMjg0Zi02MWVlLTQwYTgtYWFiYS1lOGQyMjljYzRiYTAfCgUQfi9vcGVuLWRheXMuYXNweB8LBQM4NTAfDGcfDmcUKwADBQcwOjAs" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="MDoxFCsAAhYMHwgFCUp1bHkgMjAxNR8JBSRhNDE5Mzk4ZC1jYjI4LTQ2YTAtYjRhNi0zNTMxZTZkYTgzNDIfCgUQfi9qdWx5LTIwMTUuYXNweB8LBQM4NTEfDGcfDmhkFCsAAhYMHwgFDlNlcHRlbWJlciAyMDE1HwkFJDQyYzM2ZmQyLWQyOWUtNDI0MS05ZjAwLTIzYThiODBlNDMzNx8KBRV+L3NlcHRlbWJlci0yMDE1LmFzcHgfCwUDOTk1HwxnHw5oZAUNY3RsMDAkY3RsMDR8bmQCKw8PFgQfAgU1YXJ0LWxheW91dC1jZWxsIGFydC1jb250ZW50IGNlbnRlci1sZWZ0bWFyZ2luIGNtc3pvbmUfAwICZBYCAgUPZBYCZg9kFgICAg9kFgICAw9kFgICAw9kFgICAQ9kFgQCAQ8PFgIfAGhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIeCkNhbGxiYWNrSUQFKWN0bDAwJG1h" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="aW5Db250ZW50JGN0bDAwJFJhdGluZyRVc2VyUmF0aW5nZAINDw8WAh8AaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh8QBS9jdGwwMCRtYWluQ29udGVudCRjdGwwMCRSYXRpbmdCb3R0b20kVXNlclJhdGluZ2QCLQ8PFgYfAgURcmlnaHRzaWRlIGNtc3pvbmUfAwICHwBoZGQCOw8PFgIfAGhkZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUVY3RsMDAkUGFnZU1lbnUxJGN0bDAwBRVjdGwwMCRTaXRlTWVudTEkY3RsMDAPD2QFJDA4YmQwZWQwLTVlNDgtNDcxNC1hYTk4LTFmYjk0OTMyNjRhNmQ4tgGWojej/g6rADmJ0BYCZwnhNA==" />
+
+
+<script src="/ScriptResource.axd?d=EHWBFVSWDap_XQ_f-DdPnRIFtYlp7qloWf8E-c_pw9lbfIlFYZX-NWF4yFrDSwYWajicVe30fw0G13MBrguNr_81NuPq592ItKI_frsocFrUdcnz3xNwz2ozYPuzUBOsC1s5izc_J8Q03gn262AmXueXPgNtWKgrQkhA_5AGLCbFhnFzZLVM__0n24ZbSzxOp0n0wj8B_bG9hxoW4_qNR7FiJoXy4oUtoBiGrcXfL_WwpeE7kGOaoU2NYxyteRKrUQr7tbLf0DtSgZMo8rlPxtvLuznmM_AJMv1y3FTeWOg8-5JuhxdGCHj4y_sfQFsStPAEMOhz1CmYE58WimRbYCeUEY5oDgJV928fb645ygaQNwCwg6u0ruY0ll_5ezFnxPH2Ag2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOtmvAlCwO+ocBAuC6Lfwc3luqpT+SRPGaj6Cukd6ylp37SvcSw6rXyqq+WqxWXas8LH+KBVDbAz4NefZ8kfKPAHmegxQ==" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://admissions.chem.ox.ac.uk/Default.aspx'>Admissions</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+	    
+
+<div class="AspNet-Menu-Horizontal" id="ctl00_SiteMenu1_ctl00">
+		<ul class="AspNet-Menu">
+			<li class="AspNet-Menu-Leaf AspNet-Menu-SelectedLeaf">
+				<a href="/home.aspx" class="AspNet-Menu AspNet-Menu-SelectedLeaf">
+					<span>Home</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/how-to-apply.aspx" class="AspNet-Menu">
+					<span>How to Apply</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/colleges.aspx" class="AspNet-Menu">
+					<span>Colleges</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/course.aspx" class="AspNet-Menu">
+					<span>Course</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/part-ii-year.aspx" class="AspNet-Menu">
+					<span>Part II Year</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/research.aspx" class="AspNet-Menu">
+					<span>Research</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/chemistry.aspx" class="AspNet-Menu">
+					<span>Chemistry</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/oxford-.aspx" class="AspNet-Menu">
+					<span>Oxford ?</span></a>
+			</li>
+		</ul>
+
+</div>
+
+
+		
+	    <div class="topnav">
+            <ul>
+            
+            <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+            <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+            
+            
+            
+            
+            
+            <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+            <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2fadmissions-criteria.aspx">Sign In</a></li>
+            
+            </ul>  
+        </div>    
+        <div id="ctl00_InsecurePanel1" class="addthisbutton">
+	
+		      
+        
+</div>
+    </div>
+    <div id="wrapcenter">
+        <img id="ctl00_imgs1" class="headerphoto" border="0" usemap="#headerMap" src="/Data/Sites/21/skins/chemistry-layout/headerphoto.jpg" alt="Department of Chemsitry" />
+<map name="headerMap" id="Map">
+  <area shape="rect" coords="6,30,504,96" href="http://www.chem.ox.ac.uk" />
+  <area shape="rect" coords="533,17,798,103" href="http://www.ox.ac.uk" />
+</map>
+	    <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+	
+		    <div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+
+	<div class="AspNet-TreeView" id="ctl00_PageMenu1_ctl00">
+			<ul id="ctl00_PageMenu1_ctl00_UL">
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf AspNet-TreeView-Selected">
+					<a href="/admissions-criteria.aspx">
+						Admissions Criteria</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/further-information.aspx">
+						Further information</a>
+				</li>
+				<li class="AspNet-TreeView-Root">
+					<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/open-days.aspx" title="Expand this node.">&nbsp;</a>
+					<a href="/open-days.aspx">
+						Open days</a>
+					<ul class="AspNet-TreeView-Hide treehide">
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/july-2015.aspx">
+								July 2015</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/september-2015.aspx">
+								September 2015</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+
+	</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+		    <a id="startcontent"></a>
+		    
+	    
+</div>
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+            
+	        
+	        
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1420" class=" moduletitle">UNDERGRADUATE Admissions Criteria</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<p><b>Introduction</b></p>
+
+<p>The University and its colleges seek to admit students of high academic merit and potential. All colleges select students for admission without regard to marital status, race, ethnic origins, colour, religion or social background. Decisions on admission are based solely on the individual merits of the candidate and the application of selection criteria appropriate to the course of study.</p>
+
+<p>Entry is competitive and the attainment of minimum standards is no guarantee of a place.</p>
+
+<p><b>Criteria</b></p>
+
+<p>(i) Academic ability</p>
+
+<ul>
+	<li>Reasoning ability; aptitude for analysing and solving problems using logical and critical approaches</li>
+	<li>Mathematical ability.</li>
+	<li>Capacity to absorb new ideas and to apply familiar ideas to unfamiliar situations</li>
+	<li>Spirit of enquiry: desire to understand the reasons for observations; enthusiasm and curiosity in science</li>
+	<li>An understanding of the chemical concepts covered in courses taken so far.</li>
+</ul>
+
+<p>(ii) Interest in Chemistry</p>
+
+<ul>
+	<li>Including an appreciation of some aspects of it outside the confines of the A level syllabus (or equivalent)</li>
+</ul>
+
+<p>(iii) Motivation and perseverance</p>
+
+<ul>
+	<li>An enthusiasm for chemistry and the motivation to pursue an academically demanding four-year course</li>
+</ul>
+
+<p>(iv) Independent working and communication</p>
+
+<ul>
+	<li>Ability to work independently; willingness and ability to express ideas clearly and effectively orally, in writing and numerically; ability to listen</li>
+</ul>
+
+<p>(v) Educational achievement</p>
+
+<ul>
+	<li>GCE: Good grades at GCSE are expected, especially in science and mathematics. Three A-levels are required, which must include Chemistry and Mathematics. The standard conditional offer at present is A*A*A. Both A* should be in science or mathematics.</li>
+	<li>SCE: Five Highers plus Advanced Highers (or CSYS) are required. These must include Chemistry. The typical offer at Advanced Higher is AAB or AA.</li>
+	<li>International Baccalaureate: Minimum 39, including grade 7 in Chemistry and 6/7 in Mathematics at higher level.&nbsp; If Mathematics is taken at standard level grade 7 is required and a second science will be required at higher level.</li>
+	<li>Applications are welcomed from those studying for qualifications other than those listed above.</li>
+	<li>The standard minimum entrance requirements outlined deliberately do not specify that your A2-levels, Advanced Highers, IB HL subjects, or equivalents should all have been obtained in the same examination period. However, based on our consideration of all relevant information available to us, such a requirement may form part of a conditional offer for an individual candidate.</li>
+</ul>
+
+<p>The selectors assess each candidate against the above criteria on the basis of the following information, taking into account the educational background of students and the level of their existing knowledge and experience.</p>
+
+<ul>
+	<li>UCAS application, including references and personal statement</li>
+	<li>Examination results</li>
+	<li>Interview</li>
+	<li>Candidates (or their referees) will also have the opportunity to present any special factors that may</li>
+	<li>have adversely affected their attainment so far.</li>
+	<li>Deferred Entry</li>
+</ul>
+
+<p>Applications for deferred entry are welcome, and candidates so applying will not be made conditional offers more demanding than candidates for immediate entry. While successful applicants commonly need academic records that are somewhat more distinguished than candidates at the borderline for selection, there has in practice been no significant difference between their success rate and that of candidates not seeking a deferred place.</p>
+
+<p><b>Shortlisting</b></p>
+
+<p>Colleges assign applications to a band according to the UCAS application. At present a large majority of candidates are shortlisted.</p>
+
+<p>For any candidate the college wishes to reject, a case must be made to the Admissions Coordinator, who may<br />
+(i) ask the college to interview the candidate nonetheless<br />
+(ii) reallocate the candidate to another college<br />
+(iii) put the candidate on a rejection list.</p>
+
+<p>The list of candidates to be rejected is circulated to all colleges, who may decide to invite any such candidate for interview themselves.</p>
+
+<p>No candidate will be rejected until this process is complete.&nbsp;</p>
+
+<p><strong>Reallocation</strong></p>
+
+<p>Some students may find that they have been moved from colleges they have chosen. The process of reallocation is carried out after short-listing to ensure that the number of candidates per place is as far as possible the same across the collegiate university.</p>
+
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+	    
+</div>
+	    		
+	</div>
+	<div id="wrapfooter">
+	    <br class="clear" />
+	    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+	    <a href='/admissions-criteria.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> | 
+	    &copy; 2008 - 2015 Department of Chemistry - University of Oxford
+	    <br /><br />
+		<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+		<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+		<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://admissions.chem.ox.ac.uk/csshandler.ashx?skin=chemistry-layout'  title='Valid CSS'>CSS</a> |
+        <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+	</div>
+</div>
+<script type="text/javascript">
+function HideMenuToolbar(){ $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow");}
+function ShowMenuToolbar(){ $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow");}
+$(document).ready(function(){ 
+  $("span.downarr a").click(function() {HideMenuToolbar(); Set_Cookie('openstate', 'closed')});
+  $("span.showbar a").click(function() {ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+  $("span.downarr a, span.showbar a").click(function() { return false; });	
+	var openState = Get_Cookie('openstate');
+	if(openState != null){ if(openState == 'closed'){HideMenuToolbar();} if(openState == 'open'){ShowMenuToolbar();}}
+});	
+</script>
+
+
+<div>
+	<input type="hidden" name="ctl00$ctl04" id="ctl00_ctl04" />
+</div>
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

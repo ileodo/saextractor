@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Bodleian Digital Seminar Series | EEBO-TCP</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://blogs.bodleian.ox.ac.uk/eebotcp/wp-content/themes/twentyeleven-cms-style-eebotcp/style.css" />
+<link rel="pingback" href="http://blogs.bodleian.ox.ac.uk/eebotcp/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://blogs.bodleian.ox.ac.uk/eebotcp/wp-content/themes/twentyeleven-cms-style-eebotcp/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="EEBO-TCP &raquo; Feed" href="http://blogs.bodleian.ox.ac.uk/eebotcp/feed/" />
+<link rel="alternate" type="application/rss+xml" title="EEBO-TCP &raquo; Comments Feed" href="http://blogs.bodleian.ox.ac.uk/eebotcp/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="EEBO-TCP &raquo; Bodleian Digital Seminar Series Comments Feed" href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/11/bodleian-digital-seminar-series/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blogs.bodleian.ox.ac.uk\/eebotcp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='moztheme2011-css'  href='http://blogs.bodleian.ox.ac.uk/eebotcp/wp-content/plugins/twenty-eleven-theme-extensions/moztheme2011.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='output-css'  href='http://blogs.bodleian.ox.ac.uk/eebotcp/wp-content/plugins/addthis/css/output.css?ver=4.2.2' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-29066209-3']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.bodleian.ox.ac.uk/eebotcp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.bodleian.ox.ac.uk/eebotcp/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Citing digital resources' href='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/06/citing-digital-resources/' />
+<meta name="generator" content="WordPress 4.2.2" />
+<link rel='canonical' href='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/11/bodleian-digital-seminar-series/' />
+<link rel='shortlink' href='http://blogs.bodleian.ox.ac.uk/eebotcp/?p=848' />
+<style type="text/css">footer #third {
+  display: none;
+}
+
+body.page-id-5 footer #third,
+body.parent-pageid-5 footer #third {
+  display: block;
+}</style>	<style>
+		/* Link color */
+		a,
+		#site-title a:focus,
+		#site-title a:hover,
+		#site-title a:active,
+		.entry-title a:hover,
+		.entry-title a:focus,
+		.entry-title a:active,
+		.widget_twentyeleven_ephemera .comments-link a:hover,
+		section.recent-posts .other-recent-posts a[rel="bookmark"]:hover,
+		section.recent-posts .other-recent-posts .comments-link a:hover,
+		.format-image footer.entry-meta a:hover,
+		#site-generator a:hover {
+			color: #002664;
+		}
+		section.recent-posts .other-recent-posts .comments-link a:hover {
+			border-color: #002664;
+		}
+		article.feature-image.small .entry-summary p a:hover,
+		.entry-header .comments-link a:hover,
+		.entry-header .comments-link a:focus,
+		.entry-header .comments-link a:active,
+		.feature-slider a.active {
+			background-color: #002664;
+		}
+	</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://blogs.bodleian.ox.ac.uk/eebotcp/files/2012/04/on-the-shelf.jpg'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+</head>
+
+<body class="single single-post postid-848 single-format-standard custom-background two-column left-sidebar moz-sidebar-adjust">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner" class="cookies-moves-on-mobile header-expands-on-mobile">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/" title="EEBO-TCP" rel="home">EEBO-TCP</a></span></h1>
+				<h2 id="site-description"></h2>
+			</hgroup>
+
+			
+								<form method="get" id="searchform" action="http://blogs.bodleian.ox.ac.uk/eebotcp/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/">Home</a></li><li class="page_item page-item-453 page_item_has_children"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/">Conferences</a><ul class='children'><li class="page_item page-item-446 page_item_has_children"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/conference-eebo-tcp-2013/">Conference: EEBO-TCP 2013</a><ul class='children'><li class="page_item page-item-603"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/conference-eebo-tcp-2013/abstracts/">Abstracts</a></li><li class="page_item page-item-743"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/conference-eebo-tcp-2013/bibliography/">Bibliography</a></li><li class="page_item page-item-784"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/conference-eebo-tcp-2013/delegates/">Delegates</a></li><li class="page_item page-item-579"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/conference-eebo-tcp-2013/programme/">Programme</a></li><li class="page_item page-item-481"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/conference-eebo-tcp-2013/registration/">Registration</a></li><li class="page_item page-item-576"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/conference-eebo-tcp-2013/speakers/">Speakers</a></li><li class="page_item page-item-474"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/conference-eebo-tcp-2013/support-the-conference/">Support the conference</a></li><li class="page_item page-item-479"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/conference-eebo-tcp-2013/venue-and-accommodation/">Venue and Accommodation</a></li></ul></li><li class="page_item page-item-5 page_item_has_children"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/eebotcp2012/">Conference: EEBO-TCP 2012</a><ul class='children'><li class="page_item page-item-250"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/eebotcp2012/abstracts/">Abstracts</a></li><li class="page_item page-item-145"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/eebotcp2012/delegates/">Delegates</a></li><li class="page_item page-item-361"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/eebotcp2012/proceedings/">Proceedings</a></li><li class="page_item page-item-150"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/eebotcp2012/programme/">Programme</a></li><li class="page_item page-item-247"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/eebotcp2012/support/">Support</a></li><li class="page_item page-item-530"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/conferences/eebotcp2012/what-you-said/">What you said</a></li></ul></li></ul></li><li class="page_item page-item-898"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/early-english-books-hackfest/">Hackfest and Ideas Hack</a></li><li class="page_item page-item-7"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/find-out-more/">Find out more</a></li><li class="page_item page-item-868"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/editorial-statement/">Editorial Statement</a></li><li class="page_item page-item-9"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/staff/">Staff</a></li><li class="page_item page-item-11 current_page_parent"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/">SECT Project Blog</a></li></ul></div>
+			</nav><!-- #access -->
+
+	</header><!-- #branding -->
+
+
+	<div id="main">
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/06/citing-digital-resources/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-848" class="post-848 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		<h1 class="entry-title">Bodleian Digital Seminar Series</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/11/bodleian-digital-seminar-series/" title="11:51 am" rel="bookmark"><time class="entry-date" datetime="2013-11-18T11:51:42+00:00" pubdate>November 18, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/author/willcoxp/" title="View all posts by Pip Willcox" rel="author">Pip Willcox</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p>Readers of this blog may be interested in a <a href="http://blogs.bodleian.ox.ac.uk/eebotcp/files/2013/11/future-of-editing-flyer.pdf" onclick="_gaq.push(['_trackEvent','download','http://blogs.bodleian.ox.ac.uk/eebotcp/files/2013/11/future-of-editing-flyer.pdf']);" >free, open seminar</a> [PDF] this week, organized by colleagues in BDLSS:</p>
+<p style="text-align: center"><strong>Professor Greg Walker</strong></p>
+<p style="text-align: center">will talk on</p>
+<p style="text-align: center"><em><strong>Performance as Research: Performing the Three Estates</strong></em></p>
+<p style="text-align: center">5pm, Friday 22 November 2013</p>
+<p style="text-align: center">Room 2, <a href="https://maps.google.co.uk/maps?q=OX1+3NA&amp;hl=en&amp;ll=51.755635,-1.259737&amp;spn=0.008381,0.022724&amp;geocode=+&amp;hnear=OX1+3NA,+United+Kingdom&amp;t=m&amp;z=16" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://maps.google.co.uk/maps?q=OX1+3NA&amp;hl=en&amp;ll=51.755635,-1.259737&amp;spn=0.008381,0.022724&amp;geocode=+&amp;hnear=OX1+3NA,+United+Kingdom&amp;t=m&amp;z=16', 'Taylor Institution, St Giles’, OX1 3NA']);" target="_blank">Taylor Institution, St Giles’, OX1 3NA</a></p>
+<p style="text-align: left"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/files/2013/11/meta-editing-final.jpg"><img class="aligncenter size-full wp-image-849" alt="image of a blue pencil on a tablet device on a desk showing an image of an early modern book" src="http://blogs.bodleian.ox.ac.uk/eebotcp/files/2013/11/meta-editing-final.jpg" width="564" height="322" /></a></p>
+<p style="text-align: left">The seminar will be followed by a drinks reception, to which you are warmly invited.</p>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/11/bodleian-digital-seminar-series/' addthis:title='Bodleian Digital Seminar Series '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_pinterest_pinit"></a><a class="addthis_counter addthis_pill_style"></a></div>			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/categories/uncategorized/" rel="category tag">Uncategorized</a> by <a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/author/willcoxp/">Pip Willcox</a>. Bookmark the <a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/11/bodleian-digital-seminar-series/" title="Permalink to Bodleian Digital Seminar Series" rel="bookmark">permalink</a>.		
+				<div id="author-info">
+			<div id="author-avatar">
+				<img alt='' src='http://0.gravatar.com/avatar/64aacb118641e4385448903a52b5e62a?s=68&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/64aacb118641e4385448903a52b5e62a?s=136&amp;d=mm&amp;r=g 2x' class='avatar avatar-68 photo' height='68' width='68' />			</div><!-- #author-avatar -->
+			<div id="author-description">
+				<h2>About Pip Willcox</h2>
+				Pip Willcox is a digital editor at the Bodleian Libraries.				<div id="author-link">
+					<a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/author/willcoxp/" rel="author">
+						View all posts by Pip Willcox <span class="meta-nav">&rarr;</span>					</a>
+				</div><!-- #author-link	-->
+			</div><!-- #author-description -->
+		</div><!-- #entry-author-info -->
+			</footer><!-- .entry-meta -->
+</article><!-- #post-848 -->
+
+						<div id="comments">
+	
+	
+	
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/eebotcp/sect/2013/11/bodleian-digital-seminar-series/?utm_campaign=bodleian-digital-seminar-series&amp;utm_medium=rss&amp;utm_source=rss#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://blogs.bodleian.ox.ac.uk/eebotcp/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" /></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" aria-describedby="form-allowed-tags" aria-required="true" required="required"></textarea></p>						<p class="form-allowed-tags" id="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></p>
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='848' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="ca46b8eeab" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="143"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+
+			<aside id="addthis-widget-2" class="widget atwidget"><div class="addthis_toolbox addthis_default_style addthis_"  ><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_email"></a><a class="addthis_button_pinterest_share"></a><a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a></div></aside><aside id="text-7" class="widget widget_text"><h3 class="widget-title">Subscribe by RSS</h3>			<div class="textwidget"><div><a href="/eebotcp/sect/feed/" title="Subscribe by RSS"><img src="http://blogs.bodleian.ox.ac.uk/wp-content/themes/twentyeleven-shakespeare/images/rss32.png" alt="RSS"></a></div></div>
+		</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/11/bodleian-digital-seminar-series/">Bodleian Digital Seminar Series</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/06/citing-digital-resources/">Citing digital resources</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/06/eebo-tcp-simplifying-the-study-of-early-modern-england-for-the-blind-and-visually-impaired/">EEBO-TCP: Simplifying the study of Early Modern England for the Blind and Visually Impaired</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/06/guest-blog-posts/">Guest blog posts</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/03/eebo-tcp-impact-study/">EEBO-TCP Impact Study</a>
+						</li>
+				</ul>
+		</aside><aside id="recent-comments-3" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/11/'>November 2013</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/06/'>June 2013</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2013/03/'>March 2013</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2012/12/'>December 2012</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2012/08/'>August 2012</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2012/07/'>July 2012</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2012/05/'>May 2012</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/eebotcp/sect/2012/04/'>April 2012</a></li>
+		</ul>
+</aside><aside id="linkcat-4" class="widget widget_links"><h3 class="widget-title">Links</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://eebo.chadwyck.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://eebo.chadwyck.com/', 'Early English Books Online']);" title="Our digital editions power ProQuest&#8217;s full-text searching at Early English Books Online" target="_blank">Early English Books Online</a></li>
+<li><a href="http://eebo.odl.ox.ac.uk/e/eebo/" title="Our digital editions are available to subscribers through the TCP&#8217;s database" target="_blank">Early English Books Online Text Creation Partnership Database</a></li>
+<li><a href="http://www.textcreationpartnership.org" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.textcreationpartnership.org', 'The Text Creation Partnership']);" title="The homepage of the Text Creation Partnership" target="_blank">The Text Creation Partnership</a></li>
+<li><a href="http://twitter.com/oxfordeebotcp" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://twitter.com/oxfordeebotcp', 'Twitter']);" title="The twitter account of the Early English Books Online Text Creation Partnership at Oxford" target="_blank">Twitter</a></li>
+
+	</ul>
+</aside>
+<aside id="text-4" class="widget widget_text"><h3 class="widget-title">SECT Workshop</h3>			<div class="textwidget"><a href="http://blogs.bodleian.ox.ac.uk/eebotcp/files/2012/05/SECTWorkshopSummaryReport.pdf" onclick="_gaq.push(['_trackEvent','download','http://blogs.bodleian.ox.ac.uk/eebotcp/files/2012/05/SECTWorkshopSummaryReport.pdf']);" >Summary Report</a> [pdf]</div>
+		</aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+<div id="supplementary" class="one">
+	
+	
+		<div id="third" class="widget-area" role="complementary">
+		<aside id="text-5" class="widget widget_text">			<div class="textwidget"><a href="http://www.jisc.ac.uk" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.jisc.ac.uk', '']);" ><img src="http://blogs.bodleian.ox.ac.uk/eebotcp/files/2012/07/jisclogojpgweb.000.jpg" alt="JISC" title="JISC" width="142" height="74" class="alignnone size-full wp-image-242" /></a>
+
+<a href="http://eeb.chadwyck.com/home.do" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://eeb.chadwyck.com/home.do', '']);" ><img src="http://blogs.bodleian.ox.ac.uk/eebotcp/files/2012/07/ProQuest_colour.resized-1.jpeg" alt="ProQuest" title="ProQuest" width="186" height="71" class="alignnone size-full wp-image-246" /></a>
+
+<a href="http://www.bodley.ox.ac.uk/csb"><img src="http://blogs.bodleian.ox.ac.uk/eebotcp/files/2012/07/CSB.logo_doc.resized-1.jpg" alt="Centre for the Study of the Book" title="Centre for the Study of the Book" width="198" height="80" class="alignnone size-full wp-image-245" /></a>
+
+<a href="http://www.jisc-content.ac.uk" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.jisc-content.ac.uk', '']);" title="Visit the JISC Content website" target="_blank"><img src="http://www.jisc-content.ac.uk/widget/images/JC-250x100.jpg" alt="JISC Content" width="250" height="100" border="0" /></a></div>
+		</aside>	</div><!-- #third .widget-area -->
+	</div><!-- #supplementary -->
+			<div id="site-generator">
+				<!-- 				<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress</a> -->
+
+				<div id="logos">
+				    <a class="page-only" href="http://www.bodleian.ox.ac.uk/"><img src="http://blogs.bodleian.ox.ac.uk/wp-content/uploads/2014/01/bodleian.png" alt="Bodleian Libraries" /></a>
+				    <a class="page-only" href="http://www.jisc-collections.ac.uk/"><img src="/eebotcp/wp-content/themes/twentyeleven-cms-style-eebotcp/eebo-images/jisc-collections-293x80.jpg" alt="JISC Collections" /></a>
+				    
+<a class="blog-only" href="http://www.jisc.ac.uk/"><img src="/eebotcp/wp-content/themes/twentyeleven-cms-style-eebotcp/eebo-images/jisc-121x80.jpg" alt="JISC" /></a>
+				</div>
+
+                                                                    <aside id="text-2" class="widget widget_text"><!--Legal notice-->			<div class="textwidget">Please see the legal notice on the <a href="http://www.ox.ac.uk/copyright.html">University of Oxford website</a> | <a href="http://www.bodleian.ox.ac.uk/eebotcp/accessibility/">Accessibility</a> | <a href="http://www.bodleian.ox.ac.uk/eebotcp/cookies/">Cookies</a> | <a href="http://www.bodleian.ox.ac.uk/eebotcp/terms-of-use/">Terms of Use</a></div>
+		</aside>                                
+			</div>
+	</footer><!-- #colophon -->
+
+	<style type="text/css">/* <![CDATA[ */
+.cookie-policy, .cookie-policy .grid {
+  background: url('http://www.bodleian.ox.ac.uk/__data/assets/image/0018/116505/footer-pattern.png') repeat-x 0 -3px black;
+}
+.cookie-policy {
+  color: white;
+  font-size: 0.857em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.cookie-policy .grid {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1008px;
+}
+.cookie-policy .grid .twelve {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 978px;
+}
+.cookie-policy a.close {
+  background: url('http://www.bodleian.ox.ac.uk/__data/assets/image/0010/116497/close-cookie-policy-box.jpg') scroll no-repeat center center transparent;
+  display: block;
+  float: right;
+  margin: 3px 0 0 20px;
+  height: 18px;
+  width: 18px;
+}
+.cookie-policy .detail.for-desktop {
+  display: block;
+}
+.cookie-policy .detail.for-mobile {
+  display: none;
+}
+.cookie-policy .detail {
+  color: #bebebe;
+  padding: 3px 0;
+}
+.cookie-policy .detail a {
+  color: #ffffff;
+}
+.cookie-policy p {
+  margin: 2px 0;
+  font: 12px 'Arial', sans-serif;
+}
+/* ]]> */</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="application/javascript">
+/* Close cookie policy notice */
+function createCookie(name, value, days) {
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    var expires = "; expires=" + date.toGMTString();
+  } else var expires = "";
+  document.cookie = name + "=" + value + expires + "; path=/";
+}
+
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+  }
+  return null;
+}
+
+function eraseCookie(name) {
+  createCookie(name, "", -1);
+}
+jQuery(function(){
+  jQuery('.cookie-policy a.close').click(function (e) {
+    e.preventDefault();
+    jQuery('.cookie-policy').hide();
+    createCookie('groupCookiePolicyClosed', 1, 30);
+  });
+  if (readCookie('groupCookiePolicyClosed')) {
+    jQuery('.cookie-policy a.close').parent().hide();
+  }
+});
+/* Close cookie policy - end*/
+</script>
+<div class="cookie-policy">
+  <div class="grid">
+    <div class="twelve">
+      <a href="#" title="Accept and close" class="close"></a>
+      <p class="detail for-desktop">This site uses cookies to support some content and functions, and also Google Analytics. By using this site you agree to their use. <a href="http://blogs.bodleian.ox.ac.uk/cookies">Find out more and opt out &raquo;</a></p>
+      <p class="detail for-mobile"><a href="http://blogs.bodleian.ox.ac.uk/cookies">This site uses cookies to support some content and functions, and also Google Analytics &raquo;/a></p>
+    </div>
+  </div>
+</div>
+
+</div><!-- #page -->
+
+<script type="text/javascript">
+
+var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-4.0.7';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=willcoxp"></script><script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/eebotcp/wp-content/plugins/akismet/_inc/form.js?ver=3.1.1'></script>
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/eebotcp/wp-includes/js/comment-reply.min.js?ver=4.2.2'></script>
+<!--wp_footer-->
+</body>
+</html>

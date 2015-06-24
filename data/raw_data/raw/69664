@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Seminars - OCDEM</title>
+			<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/general.css" type="text/css" />
+	<link rel="stylesheet" media="print" href="/_static/website/stylesheets/print.css" type="text/css" />
+	
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+			<link rel="shortcut icon" href="/_static/website/images/icons/rdm_favicon.ico" type="image/x-icon" />
+</head>
+<body class="rdm">
+	<div id="header-wrapper">
+		<div id="header">
+			<div class="group">		
+			<a href="/" title="Link to OCDEM homepage"><img class="logo-ocdem" src="/_static/website/images/ocdem-crest.gif" alt="OCDEM crest" /></a>
+			<a href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-box" src="/_static/website/images/ox-rectangle-border.gif" alt="Oxford University logo" /></a>
+			<a href="http://www.rdm.ox.ac.uk/" title="Link to Radcliffe Department of Medicine" target="_blank"><img id="rdm-logo-sub" src="/_static/website/images/RDMLogo8x3.png" alt="Investigative Medicine Division logo" /></a>
+			<a href="http://www.ouh.nhs.uk/" title="Link to Oxford Radcliffe Hospitals NHS Trust" target="_blank"><img class="logo-nhs" src="/_static/website/images/nhs-logo.gif" alt="NHS logo" /></a>
+			
+			<h1 class="ocdem"><a href="/" title="Link to OCDEM homepage"><img src="/_static/website/images/ocdem-heading.gif" alt="Oxford Centre for Diabetes, Endocrinology and Metabolism" /></a></h1>
+			</div><ul id="primary-menu">
+							<li><span><a  href="/about-ocdem" title="About OCDEM">About OCDEM</a></span></li>
+							<li><span><a  href="/research" title="Research">Research</a></span></li>
+							<li><span><a  href="/clinical-care" title="Clinical Care">Clinical Care</a></span></li>
+							<li><span><a  href="/how-to-find-us-2" title="How to find us">How to find us</a></span></li>
+							<li><span><a  href="/training-3" title="Training">Training</a></span></li>
+							<li><span><a  href="/vacancies" title="Vacancies">Vacancies</a></span></li>
+							<li class="current"><span><a  href="/seminars" title="Seminars">Seminars</a></span></li>
+							<li><span><a  href="/staff" title="Staff">Staff</a></span></li>
+						</ul>
+<!-- <form class="search search-ocdem" action="/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onFocus="if(this.value == 'Search...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form> -->
+<form style="float:right;" class="search" id="cse-search-box" action="/_search">
+						<input type="hidden" name="cx" value="013190107294343682755:5q50dmeicps" />
+						<input type="hidden" name="ie" value="UTF-8" />
+						<input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+						<input type="hidden" name="nojs" value="1" />
+					</form>		
+		</div>
+	</div>
+	<div id="content-wrapper">
+				<div>
+	<h1 style="text-align: center;">Seminars</h1>
+<p><img style="margin-right: auto; margin-left: auto; display: block;" src="/_asset/image/seminar-2.jpeg" alt="Seminar (2)" /></p>		<ul>
+				<li><a href="/medical-grand-rounds-3" title="Medical Grand Rounds">Medical Grand Rounds</a></li>
+				<li><a href="/ocdem-wednesday-seminar-series" title="OCDEM Wednesday Seminar Series">OCDEM Wednesday Seminar Series</a></li>
+				<li><a href="/ocdem-friday-seminar-series" title="OCDEM Friday Seminar Series">OCDEM Friday Seminar Series</a></li>
+			</ul>
+	</div>
+		<div id="footer">
+			<p>
+				© 2015 Radcliffe Department of Medicine
+			</p>
+						<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/_static/website/images/newt-favicon.gif"  alt="newt favicon" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/_static/website/images/pinfox-favicon.gif" alt="pinfox favicon" /> Pinfox</a></p>
+			<p>
+				<a href="/">Home</a>
+				| <a href="/_sitemap">Site Map</a>
+				| <a href="/contact-us">Contact</a>
+								| <a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a>
+				| <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> 
+				| <a href="http://www.ox.ac.uk/copyright.html" target="_blank">Copyright</a>
+				| <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a>
+				| <a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a>
+				| <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a>
+				 | <a href="/_admin/view/194">Edit</a>			</p>
+		</div>
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-10927146-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script></body>
+</html>

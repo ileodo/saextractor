@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+  
+  
+
+
+
+  <head>
+    <title>
+      Preferences: General – Mosiac
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="search" href="/search" />
+        <link rel="help" href="/wiki/TracGuide" />
+        <link rel="start" href="/wiki" />
+        <link rel="stylesheet" href="/chrome/common/css/trac.css" type="text/css" /><link rel="stylesheet" href="/chrome/common/css/prefs.css" type="text/css" />
+        <link rel="shortcut icon" href="/chrome/site/oxicon.gif" type="image/gif" />
+        <link rel="icon" href="/chrome/site/oxicon.gif" type="image/gif" />
+      <link type="application/opensearchdescription+xml" rel="search" href="/search/opensearch" title="Search Mosiac" />
+    <script type="text/javascript" src="/chrome/common/js/jquery.js"></script><script type="text/javascript" src="/chrome/common/js/babel.js"></script><script type="text/javascript" src="/chrome/common/js/trac.js"></script><script type="text/javascript" src="/chrome/common/js/search.js"></script>
+    <!--[if lt IE 7]>
+    <script type="text/javascript" src="/chrome/common/js/ie_pre7_hacks.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div id="banner">
+      <div id="header">
+        <a id="logo" href="http://mosaic.conted.ox.ac.uk/"><img src="/chrome/site/mosaic_banner.gif" alt="Mosiac" height="73" width="236" /></a>
+      </div>
+      <form id="search" action="/search" method="get">
+        <div>
+          <label for="proj-search">Search:</label>
+          <input type="text" id="proj-search" name="q" size="18" value="" />
+          <input type="submit" value="Search" />
+        </div>
+      </form>
+      <div id="metanav" class="nav">
+    <ul>
+      <li class="first"><a href="/login">Login</a></li><li><a href="/wiki/TracGuide">Help/Guide</a></li><li><a href="/about">About Trac</a></li><li class="last active"><a href="/prefs">Preferences</a></li>
+    </ul>
+  </div>
+    </div>
+    <div id="mainnav" class="nav">
+    <ul>
+      <li class="first"><a href="/wiki">Wiki</a></li><li class="last"><a href="/search">Search</a></li>
+    </ul>
+  </div>
+    <div id="main">
+      <div id="ctxtnav" class="nav">
+        <h2>Context Navigation</h2>
+        <hr />
+      </div>
+    <div id="content" class="prefs">
+      <h1>Preferences</h1>
+      <p>This page lets you customize your personal settings for this site.
+      These settings are stored on the server and are identified by a session
+      key stored in a browser cookie. That cookie allows your settings to be
+      restored on subsequent visits.</p>
+      <ul id="tabs">
+        <li class="active">
+          General
+        </li><li id="tab_advanced">
+          <a href="/prefs/advanced">Advanced</a>
+        </li><li id="tab_datetime">
+          <a href="/prefs/datetime">Date &amp; Time</a>
+        </li><li id="tab_keybindings">
+          <a href="/prefs/keybindings">Keyboard Shortcuts</a>
+        </li><li id="tab_language">
+          <a href="/prefs/language">Language</a>
+        </li><li id="tab_pygments">
+          <a href="/prefs/pygments">Syntax Highlighting</a>
+        </li>
+      </ul>
+      <div id="tabcontent">
+        <form id="userprefs" action="" method="post"><div><input type="hidden" name="__FORM_TOKEN" value="b269e2e7dc930c573f45fcb6" /></div>
+    <table>
+      <tr class="field">
+        <th><label for="name">Full name:</label></th>
+        <td><input type="text" id="name" name="name" size="30" /></td>
+      </tr>
+      <tr class="field">
+        <th><label for="email">Email address:</label></th>
+        <td><input type="text" id="email" name="email" size="30" /></td>
+      </tr>
+    </table>
+    <p class="hint">
+        This information is used to automatically populate some forms
+        on this site with your contact details.
+    </p>
+          <div class="buttons">
+            <input type="hidden" name="action" value="save" />
+            <input type="submit" value="Save changes" />
+          </div>
+        </form>
+      </div>
+    </div>
+    </div>
+    <div id="footer" lang="en" xml:lang="en"><hr />
+      <a id="tracpowered" href="http://trac.edgewall.org/"><img src="/chrome/common/trac_logo_mini.png" height="30" width="107" alt="Trac Powered" /></a>
+      <p class="left">Powered by <a href="/about"><strong>Trac 0.12.2</strong></a><br />
+        By <a href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+      <p class="right"><a href="/wiki/PrivacyCookies">Privacy and Cookies policy</a></p>
+    </div>
+  </body>
+</html>

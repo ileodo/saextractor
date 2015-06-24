@@ -1,0 +1,233 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	Inorganic Chemistry - Admissions
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=chemistry-layout&amp;s=21&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Admissions Site Search" href="http://admissions.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	
+<link rel='shortcut icon' href='/Data/Sites/21/skins/chemistry-layout/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://admissions.chem.ox.ac.uk/inorganic-chemistry.aspx' /></head>
+<body id="ctl00_Body" class="pagebody">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="4" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIDD2QWAgIDD2QWDgIXDw8WAh4HVmlzaWJsZWhkZAIjDw8WAh8AaGRkAicPDxYCHghJbWFnZVVybAU1L0RhdGEvU2l0ZXMvMjEvc2tpbnMvY2hlbWlzdHJ5LWxheW91dC9oZWFkZXJwaG90by5qcGdkZAIpDw8WBB4IQ3NzQ2xhc3MFOWFydC1sYXlvdXQtY2VsbCBhcnQtc2lkZWJhcjEgbGVmdHNpZGUgbGVmdDJjb2x1bW4gY21zem9uZR4EXyFTQgICZBYCAgEPZBYCAgIPZBYCZhA8KwAJAgAPFggeC18hRGF0YUJvdW5kZx4MRGF0YVNvdXJjZUlEBRFQYWdlTWFwRGF0YVNvdXJjZR4NUGF0aFNlcGFyYXRvcgR8Hg1OZXZlckV4cGFuZGVkZGQIFCsABAULMDowLDA6MSwwOjIUKwACFgweBFRleHQFI1BoeXNpY2FsIGFuZCBU" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="aGVvcmV0aWNhbCBDaGVtaXN0cnkgHgVWYWx1ZQUkMDI2NjZiOGUtMWVkNC00MTQ2LTlkODYtM2EyOTA5ZGFjMDkwHgtOYXZpZ2F0ZVVybAUqfi9waHlzaWNhbC1hbmQtdGhlb3JldGljYWwtY2hlbWlzdHJ5LS5hc3B4HghEYXRhUGF0aAUDODQ1HglEYXRhQm91bmRnHhBQb3B1bGF0ZU9uRGVtYW5kaGQUKwACFgwfCAURT3JnYW5pYyBDaGVtaXN0cnkfCQUkMWVlMWFhMDgtZjgxNC00NTU2LTkzNGQtNDJhMDZkZjc2ZWU3HwoFGH4vb3JnYW5pYy1jaGVtaXN0cnkuYXNweB8LBQM4NDYfDGcfDWhkFCsAAhYQHwgFE0lub3JnYW5pYyBDaGVtaXN0cnkfCQUkZTljODAzMTgtNTY0YS00ODlmLWE4MjYtZmUzMzJjYTI5ODY0HwoFGn4vaW5vcmdhbmljLWNoZW1pc3RyeS5h" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="c3B4HwsFAzg0Nx8MZx4IU2VsZWN0ZWRnHw1oHghFeHBhbmRlZGdkBQxjdGwwMCRjdGwwNHxkAisPDxYEHwIFNWFydC1sYXlvdXQtY2VsbCBhcnQtY29udGVudCBjZW50ZXItbGVmdG1hcmdpbiBjbXN6b25lHwMCAmQWAgIFD2QWAmYPZBYCAgIPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHwBoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHgpDYWxsYmFja0lEBSljdGwwMCRtYWluQ29udGVudCRjdGwwMCRSYXRpbmckVXNlclJhdGluZ2QCDQ8PFgIfAGhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIfEAUvY3RsMDAkbWFpbkNvbnRlbnQkY3RsMDAkUmF0aW5nQm90dG9tJFVzZXJSYXRpbmdkAi0PDxYGHwIFEXJpZ2h0c2lkZSBjbXN6b25lHwMCAh8AaGRkAjsPDxYC" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="HwBoZGQYAgUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFFWN0bDAwJFBhZ2VNZW51MSRjdGwwMAUVY3RsMDAkU2l0ZU1lbnUxJGN0bDAwDw9kBSRjMWQ2NGY2Mi05MzVjLTRiMzctYmY0MC1jZTk3MDVhYTk2NGVkBFQaFaRcTkSDwJgADglyiNDlcFE=" />
+
+
+<script src="/ScriptResource.axd?d=EHWBFVSWDap_XQ_f-DdPnRIFtYlp7qloWf8E-c_pw9lbfIlFYZX-NWF4yFrDSwYWajicVe30fw0G13MBrguNr_81NuPq592ItKI_frsocFrUdcnz3xNwz2ozYPuzUBOsC1s5izc_J8Q03gn262AmXueXPgNtWKgrQkhA_5AGLCbFhnFzZLVM__0n24ZbSzxOp0n0wj8B_bG9hxoW4_qNR7FiJoXy4oUtoBiGrcXfL_WwpeE7kGOaoU2NYxyteRKrUQr7tbLf0DtSgZMo8rlPxtvLuznmM_AJMv1y3FTeWOg8-5JuhxdGCHj4y_sfQFsStPAEMOhz1CmYE58WimRbYCeUEY5oDgJV928fb645ygaQNwCwg6u0ruY0ll_5ezFnxPH2Ag2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOmIRrKNrvi+nOh2H+VD9M/luqpT+SRPGaj6Cukd6ylp37SvcSw6rXyqq+WqxWXas+IBThjsV1JHpuIagjn1NnzZwNhlA==" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://admissions.chem.ox.ac.uk/Default.aspx'>Admissions</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+	    
+
+<div class="AspNet-Menu-Horizontal" id="ctl00_SiteMenu1_ctl00">
+		<ul class="AspNet-Menu">
+			<li class="AspNet-Menu-Leaf">
+				<a href="/home.aspx" class="AspNet-Menu">
+					<span>Home</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/how-to-apply.aspx" class="AspNet-Menu">
+					<span>How to Apply</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/colleges.aspx" class="AspNet-Menu">
+					<span>Colleges</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/course.aspx" class="AspNet-Menu">
+					<span>Course</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/part-ii-year.aspx" class="AspNet-Menu">
+					<span>Part II Year</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf AspNet-Menu-SelectedLeaf">
+				<a href="/research.aspx" class="AspNet-Menu AspNet-Menu-SelectedLeaf">
+					<span>Research</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/chemistry.aspx" class="AspNet-Menu">
+					<span>Chemistry</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/oxford-.aspx" class="AspNet-Menu">
+					<span>Oxford ?</span></a>
+			</li>
+		</ul>
+
+</div>
+
+
+		
+	    <div class="topnav">
+            <ul>
+            
+            <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+            <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+            
+            
+            
+            
+            
+            <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+            <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2finorganic-chemistry.aspx">Sign In</a></li>
+            
+            </ul>  
+        </div>    
+        <div id="ctl00_InsecurePanel1" class="addthisbutton">
+	
+		      
+        
+</div>
+    </div>
+    <div id="wrapcenter">
+        <img id="ctl00_imgs1" class="headerphoto" border="0" usemap="#headerMap" src="/Data/Sites/21/skins/chemistry-layout/headerphoto.jpg" alt="Department of Chemsitry" />
+<map name="headerMap" id="Map">
+  <area shape="rect" coords="6,30,504,96" href="http://www.chem.ox.ac.uk" />
+  <area shape="rect" coords="533,17,798,103" href="http://www.ox.ac.uk" />
+</map>
+	    <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+	
+		    <div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+
+	<div class="AspNet-TreeView" id="ctl00_PageMenu1_ctl00">
+			<ul id="ctl00_PageMenu1_ctl00_UL">
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/physical-and-theoretical-chemistry-.aspx">
+						Physical and Theoretical Chemistry </a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/organic-chemistry.aspx">
+						Organic Chemistry</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf AspNet-TreeView-Selected">
+					<a href="/inorganic-chemistry.aspx">
+						Inorganic Chemistry</a>
+				</li>
+			</ul>
+
+	</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+		    <a id="startcontent"></a>
+		    
+	    
+</div>
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+            
+	        
+	        
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1416" class=" moduletitle">Inorganic Chemistry</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<p>The Inorganic Chemistry Laboratory (ICL), which incorporates the Chemical Crystallography Laboratory, is justly famous for its distinguished history in research. Pioneering work in coordination chemistry, organometallic chemistry, radiochemistry, the chemistry of the solid state and the X-ray structure determinations of biomolecules laid the foundations of modern inorganic chemistry. The tradition continues.</p>
+<p>The ICL has a uniquely wide range of research ranging from synthetic organometallic main group and coordination chemistry, through solid state chemistry and catalysis to the study of metalloenzymes:</p>
+<p>Bioinorganic Chemistry: The study of metal centres and clusters in biological systems: electron transfer; electrochemistry of proteins and enzymes; the design of biosensors for medicine; and the catalytic activity of haem proteins.</p>
+<p>Organometallic Chemistry and Catalysis: Research focuses on transition metal compounds; and the mechanisms of homogeneous catalysis in solution, e.g. of hydroformylation, asymmetric synthesis, C–H activation, O2 activation; heterogeneous oxidation catalysis by metal oxides. In the last area, interest focuses on the conversion of CH4 to useful organic chemicals.</p>
+<p>Coordination chemistry: macro-cyclic complexes (with crown ethers etc.), for the modelling of molecular recognition processes and electron transfer in biological systems, and for the design of new molecular sensors and redox catalysts; also radio-pharmaceuticals for imaging and therapeutic applications.</p>
+<p>Electrical, magnetic and optical properties of solids: including metal oxides, sulphides and nitrides, intercalation compounds and organometallic materials. Magnetic ordering and magneto-resistance are currently major interests, as are non-linear optical properties. The investigations employ, e.g., squid magnetometry, neutron diffraction, PES and optical spectroscopy, together with complementary theoretical studies.</p>
+<p>Molecular studies: exploratory synthetic work, mainly in organometallic, supramolecular, nano technology and main group chemistry; characterisation of structure, bonding and reactivity by single-crystal X-ray crystallography, NMR, infrared and Raman spectroscopy, PES, etc.; investigation of reactive intermediates and other transient molecules; associated theoretical studies.&#160;</p>
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+	    
+</div>
+	    		
+	</div>
+	<div id="wrapfooter">
+	    <br class="clear" />
+	    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+	    <a href='/inorganic-chemistry.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> | 
+	    &copy; 2008 - 2015 Department of Chemistry - University of Oxford
+	    <br /><br />
+		<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+		<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+		<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://admissions.chem.ox.ac.uk/csshandler.ashx?skin=chemistry-layout'  title='Valid CSS'>CSS</a> |
+        <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+	</div>
+</div>
+<script type="text/javascript">
+function HideMenuToolbar(){ $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow");}
+function ShowMenuToolbar(){ $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow");}
+$(document).ready(function(){ 
+  $("span.downarr a").click(function() {HideMenuToolbar(); Set_Cookie('openstate', 'closed')});
+  $("span.showbar a").click(function() {ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+  $("span.downarr a, span.showbar a").click(function() { return false; });	
+	var openState = Get_Cookie('openstate');
+	if(openState != null){ if(openState == 'closed'){HideMenuToolbar();} if(openState == 'open'){ShowMenuToolbar();}}
+});	
+</script>
+
+
+<div>
+	<input type="hidden" name="ctl00$ctl04" id="ctl00_ctl04" />
+</div>
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,477 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en-gb" prefix="og: http://ogp.me/ns#">
+<head>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+<link media="all" href="/styles/basic.css" rel="stylesheet" type="text/css"/>
+<link media="all" href="/styles/csbasic.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/layout.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/mainnav.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/lookandfeel.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/cslayout.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/csmainnav.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/cslookandfeel.css" rel="stylesheet" type="text/css"/>
+<link media="print" href="/styles/csprint.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="/javascript/rss.js?version=4"></script>
+<script type="text/javascript" src="/javascript/csmenu.js"></script>
+
+<link rel="icon" href="/favicon.ico" type="images/x-icon" /> 
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="top" href="/" title="Homepage"/>
+<meta name="author" content="University of Oxford" />
+
+<title>Department of Computer Science, University of Oxford: Network theory: an overview</title>
+<meta name="keywords"
+      content="Network theory: an overview, Department of Computer Science, University of Oxford"></meta>
+<meta name="description" content="Network theory: an overview"></meta>
+<meta property="og:title" content="Network theory: an overview"></meta>
+<meta property="og:description" content="Network theory: an overview"></meta>
+<meta property="og:type" content="website"></meta>
+<meta property="og:image"
+      content="http://www.cs.ox.ac.uk/images/CompSci_logo_landscapeL_rgb_corrected.jpg"></meta>
+<meta property="og:url" content="http://www.cs.ox.ac.uk/seminars/1006.html"></meta>
+<meta property="og:site_name"
+      content="Department of Computer Science, University of Oxford"></meta>
+<meta property="og:locale" content="en_GB"></meta>
+<script type="text/javascript">
+// <![CDATA[
+
+	/**
+	**  Honour the "do not track" browser setting.
+	**/
+	if(typeof navigator.doNotTrack === "undefined" || (navigator.doNotTrack !== 'yes' && navigator.doNotTrack !== '1'))
+	{
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-25164877-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+    	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	}
+  
+// ]]>
+</script>
+<script type="text/javascript" src="/javascript/eucookielaw.js?version=1"></script>
+</head>
+<body style="background-image: none;">
+<!-- all div starts -->
+<div id="all" style="border: 15px solid white; width: 960px; margin-left: auto; margin-right: auto">
+
+<div style="border-bottom: 10px solid white;position: relative; width: 960px" id="csbanner"><!-- 156 -->
+<img src="/images/CompSci_logo_landscapeL_rgb_corrected.jpg" style="height: 140px;position: relative; left: -1px; top: -1px" alt="University of Oxford Logo" usemap="#compscimap"/>
+<map name="compscimap" id="compscimap"><area shape="rect" coords="0,0,140,140" href="http://www.ox.ac.uk/" alt="University of Oxford" title="University of Oxford"/><area shape="rect" coords="164,0,427,140" href="/" alt="Department of Computer Science - Home" title="Department of Computer Science - Home"/></map>
+<!-- searchbox div starts -->
+<div style="position: absolute; right: 0px; top: 15px;" id="topnav">
+
+<div style="position: absolute; right: 0px; height: 1.5em">
+<form action="/search/" id="searchbox_015502513156171547487:pcshjhkjzqe" >
+<div class="searchspan">
+<input type="text" class="searchinput" maxlength="128" autocomplete="off" name="q" value="Search" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}"/><input type="submit" name="sa" value=""  class="searchbutton"/> 
+</div>
+<input type="hidden" name="cx" value="015502513156171547487:pcshjhkjzqe" />
+<input type="hidden" name="cof" value="FORID:11" />
+  
+<!--
+ <table id="searchtable" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+   <td id="searchinput">
+    <input type="text" maxlength="128" autocomplete="off" name="q" value="Search" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}"/>
+   </td>
+   <td id="searchbutton">
+    <input type="hidden" name="cx" value="015502513156171547487:pcshjhkjzqe" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="submit" name="sa" value="Search" id="submit"/>
+   </td>
+  </tr>
+ </table>
+ -->
+</form>
+</div>
+
+<div class="headLinks" style="position: absolute; top: 2.8em; right: 1px; width: 452px; padding: 4px 0px 4px 0px;text-align: right;">
+        <div id="banner_contact_us"><a href="/contact.html">Contact us</a></div>
+        <div id="banner_about_us"><a href="/contact/history.html">About us</a></div>
+        <div id="banner_cookies"><a href="/privacy-policy.html">Privacy &amp; Cookies</a></div>
+        <div id="banner_sitemap"><a href="/sitemap.html">Site map</a></div>
+        <div id="banner_ourpeople"><a href="/people/">Our people</a></div>
+        <div id="banner_ourresearch"><a href="/research/">Our research</a></div>
+</div>
+
+  
+
+<div style="position: absolute; top: 6em; right: -6px; width: 293px; padding: 4px 0px 4px 0px;text-align: right; vertical-align: center; text-align: center">
+
+	<div class="icon24_2">
+		<a href="http://www.facebook.com/DepartmentOfComputerScienceUniversityOfOxford"><img src="/images/icons/24/socicon/facebook.png" alt="On Facebook" title="The Department on Facebook"/></a>
+		<div>Facebook</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="https://twitter.com/CompSciOxford"><img src="/images/icons/24/socicon/twitter.png" alt="Follow us on twitter" title="Follow us on twitter"/></a>
+		<div>Twitter</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="http://www.linkedin.com/company/department-of-computer-science-university-of-oxford"><img src="/images/icons/24/socicon/linkedin.png" alt="Linked in" title="Linked in"/></a>
+		<div>Linked in</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="http://www.flickr.com/photos/computerscienceoxford/"><img src="/images/icons/24/socicon/flickrcol.png" alt="Flickr" title="Flickr"/></a>
+		<div>Flickr</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1006.html&amp;hl=en-GB"><img src="/images/icons/24/socicon/google.png" alt="Google plus" title="Google plus"/></a>
+		<div>Google plus</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="http://digg.com/submit?url=http%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1006.html&amp;"><img src="/images/icons/24/socicon/digg.png" alt="Digg" title="Digg"/></a>
+		<div>Digg</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="https://pinterest.com/pin/create/link/?url=http%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1006.html&amp;"><img src="/images/icons/24/socicon/pinterest.png" alt="Pinterest" title="Pinterest"/></a>
+		<div>Pinterest</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1006.html&amp;"><img src="/images/icons/24/socicon/stumbleupon.png" alt="Stumble Upon" title="Stumble Upon"/></a>
+		<div>Stumble Upon</div>
+	</div>
+
+</div>
+
+</div>
+	<!-- EU Cookie law banner -->
+		<div style="position: absolute; right: 0px; top: 0px; width: 480px; border: 1px solid #002147;background-color: white; display: none" id="cookiepolicy">
+		<div style="padding: 7px; font-size: 80%">
+			<div style="float:right; padding: 7px"><button onclick="continueUsingSite()" style='background-color: #001247; color: white; border: 0; background-image: url("/images/ox-bg.gif");'>Continue&hellip;</button></div>
+			<p>We use cookies on this website. <a href="/privacy-policy.html">Our privacy policy</a> explains what cookies are and how they are being used here.
+			If you continue to access our website, we'll assume that you consent to receiving cookies from this website.</p>
+			
+			</div>
+		</div>
+	<!--/ EU Cookie law banner -->
+</div>
+
+<div id="pageurl" style="display: none">
+www.cs.ox.ac.uk/seminars/1006.html
+</div>
+
+<!-- header div ends -->
+
+<!-- breadcrumb div starts -->
+
+
+<div id="breadcrumb">
+   <span id="breadcrumb-label">You are here:</span>
+   <ul>
+      <li>
+         <a href="/">Home</a>
+      </li>
+      <li>
+         <a href="/news/">News &amp; Events</a>
+      </li>
+      <li>
+         <a href="/seminars/">Seminars</a>
+      </li>
+      <li>
+         <span class="youarehere">Network theory: an overview</span>
+      </li>
+   </ul>
+</div>
+<div id="content">
+   <h1>Network theory: an overview</h1>
+   <p>
+      <a href="http://math.ucr.edu/home/baez/">John Baez</a>  
+      (University of California, Riverside)
+      
+   </p>
+   <h2>
+      Info
+      
+   </h2>
+   <table>
+      <tr>
+         <td class="personInfo">
+            <p>
+               <b>Date</b>
+            </p>
+         </td>
+         <td>
+            <p>21st February 2014 (week 5, Hilary Term 2014)</p>
+         </td>
+      </tr>
+      <tr>
+         <td class="personInfo">
+            <p>
+               <b>Time</b>
+            </p>
+         </td>
+         <td>
+            <p>14:00</p>
+         </td>
+      </tr>
+      <tr>
+         <td class="personInfo">
+            <p>
+               <b>Place</b>
+            </p>
+         </td>
+         <td>
+            <p>Lecture Theatre B, Department of Computer Science</p>
+         </td>
+      </tr>
+   </table>
+   <h2>Abstract</h2><p><span>Nature and the world of human technology are full of&nbsp;</span><span>networks. People like to draw diagrams of
+   networks: flow charts,&nbsp;</span><span>electrical circuit diagrams, signal flow diagrams, Bayesian networks,</span><br /><span>Feynman
+   diagrams and the like. Mathematically minded people know that&nbsp;</span><span>in principle these diagrams fit into a common
+   framework: category&nbsp;</span><span>theory. But we are still far from a unified theory of networks. This</span><span>&nbsp;talk
+   will be an overview, and will be followed by a mini-course of 3 further lectures exploring the ideas in detail.</span></p>
+   <!---->
+   <h2>
+      Further info
+      
+   </h2>
+   <table>
+      <tr>
+         <td class="personInfo">
+            <p>
+               <b>Related series</b>
+            </p>
+         </td>
+         <td>
+            <p class="listedLinks">
+               <div>
+                  <a href="/seminars/oasis">OASIS: The Oxford Advanced Seminar on Informatic Structures</a>   
+                  
+                  <a style="cursor: pointer; text-decoration: none"
+                     onclick="icalLink('http://www.cs.ox.ac.uk/feeds/SeminarSeries-oasis.ics','OASIS: The Oxford Advanced Seminar on Informatic Structures')"
+                     href="javascript:void(0)">
+                     <img src="/images/ical.gif"></img> 
+                     <span style="text-decoration: underline">Subscribe to this seminar series calendar.</span>
+                  </a>
+               </div>
+            </p>
+         </td>
+      </tr>
+   </table>
+   
+  
+
+
+
+
+	
+	
+	
+
+
+<div class="socialshare" style="border-style: dashed">
+<div><h3 style="font-weight: bold; font-size: 9pt">SHARE THIS:</h3></div>
+
+<span>
+<a id="facebook" href="http://facebook.com/sharer.php?u=http%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1006.html&amp;t=Department+of+Computer+Science&amp;"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/facebook.png"/></a>
+</span>
+
+
+
+<span>
+<a id="twitter" href="http://twitter.com?status=Department+of+Computer+Science @CompSciOxford http%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1006.html&amp;"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/twitter.png"/></a>
+</span>
+
+
+
+<span>
+<a id="googleplus" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1006.html&amp;hl=en-GB"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/google.png"/></a>
+</span>
+
+<span>
+<a id="pinterest" href="https://pinterest.com/pin/create/link/?url=http%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1006.html&amp;description=Department+of+Computer+Science&amp;"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/pinterest.png"/></a>
+</span>
+
+<span>
+<a href="http://digg.com/submit?url=http%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1006.html&amp;"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/digg.png"/></a>
+</span>
+
+<span>
+<a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1006.html&amp;"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/stumbleupon.png"/></a>
+</span>
+
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+
+var pageTitle=document.title;
+
+if(pageTitle)
+{
+	if(encodeURIComponent){pageTitle=encodeURIComponent(pageTitle);}
+	else
+	if(encodeURLComponent){pageTitle=encodeURLComponent(pageTitle);}
+	else
+	if(escape){pageTitle=escape(pageTitle);}
+	
+	
+	var anchorIds=["facebook","twitter","pinterest"];
+	for(var i=0;i<anchorIds.length;i++)
+	{
+		var anchor=HtmlUpdater.$(anchorIds[i]);
+		if(!anchor){continue;}
+		if(!anchor.href){continue;}
+		
+		var href=anchor.href;
+		
+		var eq=href.lastIndexOf("=");
+		var at=href.indexOf('@');
+		
+		if(at==-1)
+		{
+			anchor.href=href.substring(0,eq+1)+pageTitle+"&";
+		}
+		else
+		{
+			anchor.href=href.substring(0,eq+1)+document.title+" "+href.substring(at);
+		}
+	}
+
+}
+
+// ]]>
+</script>
+</div>
+<div id="sidebar">
+
+<!--  mainnav div starts -->
+<div id="nav">     
+ <h2 id="mainsections">Main sections</h2>
+ 
+ <ul class="mainnav" >
+  <li>
+   <a href="/" title="Return to the Home page" class="menu" >Home
+   </a>
+  </li>
+  <li>
+   <a href="/prospectivestudents/" title="Information for prospective students, and admissions information" class="menu" >Prospective Students
+   </a>
+  </li>
+  <li>
+   <a href="/currentstudents/" title="Information for current graduate and undergraduate students" class="menu" >Current Students
+   </a>
+  </li>
+  <li>
+   <a href="/research/" title="Research themes, activities and projects; publications and people" class="menu">Research
+   </a>
+  </li>
+  <li>
+   <a href="/people/" title="Faculty, research staff and students, administrative and support staff" class="menu" >People
+   </a>
+  </li>
+  <li>
+   <a href="/news.html" title="Recent news" class="menu">News
+   </a>
+  </li>
+  <li>
+   <a href="/seminarsEvents.html" title="Recent events" class="menu">Events
+   </a>
+  </li>
+  <li>
+   <a href="/vacanciesstudentships.html" title="Job vacancies and studentships" class="menu">Vacancies &amp; Studentships
+   </a>
+  </li>
+  <li>
+   <a href="/contact.html" title="Directions for visitors, contact information and details for press" class="menu">Contact Us
+   </a>
+  </li>
+  <li>
+   <a href="/alumni/" title="The Department of Computer Science Alumni Network" class="menu">Alumni
+   </a>
+  </li>
+  <li>
+   <a href="https://www.cs.ox.ac.uk/industry/" title="The Department of Computer Science Industry Liaison Network" class="menu">Industry Liaison
+   </a>
+  </li>
+ </ul>
+
+<h2 id="inthissection">RSS Feeds</h2>
+<div class="popoutarea">
+<ul>
+<li class="popout" id="newsfeedspopout"><a href="javascript:void(0)" onblur="var parentNode=this.parentNode;window.setTimeout(function(){parentNode.className='popout';},200);" onclick="if(this.parentNode.className=='popout'){changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.parentNode.className='poppedout';this.focus();}else{changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.blur(); };"><span>News</span></a>
+
+<div class="popoutmenu">
+<h2 id="inthissection">News</h2>
+<ul class="subnav">
+<li><a title="News" class="rss" href="http://www.cs.ox.ac.uk/feeds/News-All.xml">All news</a></li>
+<li><a title="Awards" class="rss"
+      href="http://www.cs.ox.ac.uk/feeds/News-Awards.xml">Awards</a></li>
+<li><a title="Events" class="rss"
+      href="http://www.cs.ox.ac.uk/feeds/News-Events.xml">Events</a></li>
+<li><a title="Miscellaneous" class="rss"
+      href="http://www.cs.ox.ac.uk/feeds/News-Miscellaneous.xml">Miscellaneous</a></li>
+<li><a title="Projects" class="rss"
+      href="http://www.cs.ox.ac.uk/feeds/News-Projects.xml">Project news</a></li>
+<li><a title="Publications" class="rss"
+      href="http://www.cs.ox.ac.uk/feeds/News-Publications.xml">Publications</a></li>
+<li><a title="Projects" class="rss" href="http://www.cs.ox.ac.uk/feeds/Projects-All.xml">Current Projects</a></li>
+</ul>
+</div>
+
+</li>
+</ul>
+</div>
+
+<div class="popoutarea">
+<ul>
+<li class="popout"><a href="javascript:void(0)" onblur="var parentNode=this.parentNode;window.setTimeout(function(){parentNode.className='popout';},200);" onclick="if(this.parentNode.className=='popout'){changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.parentNode.className='poppedout';this.focus();}else{changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.blur(); };"><span>Vacancies &amp; studentships</span></a>
+<div class="popoutmenu">
+<h2 id="inthissection">Vacancies &amp; studentships</h2>
+<ul class="subnav">
+<li><a title="Vacancies" class="rss" href="http://www.cs.ox.ac.uk/feeds/News-Vacancies.xml">Vacancies</a></li>
+<li><a title="Studentships" class="rss" href="http://www.cs.ox.ac.uk/feeds/News-Studentships.xml">Studentships</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+
+<h2 id="inthissection">Calendars</h2>
+
+<div class="popoutarea">
+<ul>
+<li class="popout"><a href="javascript:void(0)" onblur="var parentNode=this.parentNode;window.setTimeout(function(){parentNode.className='popout';},200);" onclick="if(this.parentNode.className=='popout'){changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.parentNode.className='poppedout';this.focus();}else{changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.blur(); };"><span>Seminars &amp; timetables</span></a>
+<div class="popoutmenu">
+<h2 id="inthissection">Seminars &amp; timetables</h2>
+
+<ul class="subnav">
+<li><a href="javascript:void(0)" onclick="icalLink('http://www.cs.ox.ac.uk/feeds/SeminarSeries-All.ics','All Seminars')" class="ical">All Seminars</a></li>
+<li><a href="javascript:void(0)" onclick="icalLink('http://www.cs.ox.ac.uk/feeds/Timetable-Lecture.ics','Lecture timetable')" class="ical">Lecture timetable</a></li>
+<li><a href="javascript:void(0)" onclick="icalLink('http://www.cs.ox.ac.uk/feeds/Timetable-Practical.ics','Practical timetable')" class="ical">Practical timetable</a></li>
+<li><a href="javascript:void(0)" onclick="icalLink('http://www.cs.ox.ac.uk/feeds/Timetable-Class.ics','Class timetable')" class="ical">Class timetable</a></li>
+</ul>
+
+</div>
+</li>
+</ul>
+</div>
+
+<h2 id="inthissection">Internal</h2>
+<ul class="subnav">
+<li><a href="/internal/" class="menu">Internal / Intranet</a></li>
+<li><a href="/login/" class="menu">Edit website / database login</a></li>
+<li><a href="https://wiki.cs.ox.ac.uk/wiki/support" class="menu">IT Support</a></li>
+</ul>
+</div>
+</div>
+
+
+
+</div>
+<!-- all div ends -->
+</body>
+</html>

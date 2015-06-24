@@ -1,0 +1,179 @@
+<html>
+<head>
+<title>OPIG: Members</title>
+<meta charset="UTF-8">
+<meta name="description" content="Oxford Protein Informatics Group">
+<meta name="keywords" content="Proteins, Oxford, Bioinformatics, Antibodies, Folding, Networks">
+<meta name="author" content="Alistair Martin">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/png" href="./img/favicon.ico">
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link href="./css/opig.css" rel="stylesheet">
+</head> 
+
+    <body>
+    <div class="container">
+
+    <a href='./'>
+<div class="row" style="padding:20;">
+    <div class="col-lg-6 col-md-6 col-sm-7"><img src="./img/opig_logo.png" class="img-responsive center-block" style="margin-top:15px;margin-bottom:15px;"></div>
+    <div class="col-lg-6 col-md-6 col-sm-5  xs-vanish"><img src="./img/header_oxford.png" class="img-responsive" style="float:right;height:150px;margin-right:25px;"></div>
+</div>
+</a>
+
+    <div class="row">
+        <div class="col-sm-3">
+    <div id="sidebar">
+        <div class="sidebar-nav"> 
+            <div class="navbar navbar-default sidebar" role="navigation" id="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <span class="visible-xs navbar-brand">Explore Further</span>
+                </div>
+                <div style="height: auto;" class="navbar-collapse sidebar-navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li id="about"><a href="./">About Us</a></li>
+                        <li id="contact"><a href="./contact">Contact</a></li>
+                        <li id="members"><a href="./members">Members</a></li>
+                        <li id="research"><a href="./research">Research</a></li>
+                        <li id="collab"><a href="./collaborations">Collaborations</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Events<span class="caret"></span></a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li id="meetings"><a href="./meetings">Group Meetings</a></li>
+                                <li id="punting"><a href="./punting">Punting</a></li>
+                                <li id="biking"><a href="./biking">Biking</a></li>
+                                <li id="christmas"><a href="./xmas">Christmas</a></li>
+                            </ul>
+                        </li>
+                        <li id="publications"><a href="./publications">Publications</a></li>
+                        <li id="posters"><a href="./posters">Posters</a></li>
+                        <li id="resources"><a href="./resources">Resources</a></li>
+                        <li id="blog"><a href="http://www.blopig.com/blog/">BLOPIG</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div id="feed" class="xs-vanish xs-h-vanish">
+<h4 style="color:#BF4D28;">Recent Blog Posts</h4>
+<ul class="list-group"><li class="list-group-item sidebar"><a href=http://www.blopig.com/blog/2015/06/journal-club-abdesign-an-algorithm-for-combinatorial-backbone-design-guided-by-natural-conformations-and-sequences/>Journal Club: AbDesign. An algorithm for combinatorial backbone design guided by natural conformations and sequences</a></li><li class="list-group-item sidebar"><a href=http://www.blopig.com/blog/2015/06/5-thoughts-for-comparing-crystallographic-datasets/>5 Thoughts For… Comparing Crystallographic Datasets</a></li><li class="list-group-item sidebar"><a href=http://www.blopig.com/blog/2015/06/from-300-superpositionssec-to-6000000-superpositionssec-a-python-to-c-story/>From 300 superpositions/sec to 6,000,000 superpositions/sec. A Python to C story</a></li></ul></div>
+    </div>
+</div>
+
+        <!--Content-->
+        <div class="col-sm-9 content">
+            <div class="row" id="boss">
+<div class="thumbnail"><a href="http://www.stats.ox.ac.uk/~deane"><img src="./img/members/cdeane.jpg" class="img-responsive img-circle"><p>Charlotte Deane</p></a></div>
+</div><h3>PostDocs</h3><div id="postdoc">
+<div class="row row-centered">
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="https://www.stats.ox.ac.uk/people/research_staff/bernhard_knapp"><img src="./img/members/bknapp.jpg" class="img-responsive img-circle"><p>Bernhard Knapp</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://uk.linkedin.com/pub/reyhaneh-esmaielbeiki/7/b15/81"><img src="./img/members/resmaielbeiki.jpg" class="img-responsive img-circle"><p>Reyhaneh Esmaielbeiki</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="https://www.stats.ox.ac.uk/people/research_staff/waqar_ali"><img src="./img/members/wali.jpg" class="img-responsive img-circle"><p>Waqar Ali</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.stats.ox.ac.uk/~krawczyk/"><img src="./img/members/default.jpg" class="img-responsive img-circle"><p>Konrad Krawczyk</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.stats.ox.ac.uk/~edwards/"><img src="./img/members/hedwards.jpg" class="img-responsive img-circle"><p>Hannah Edwards</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.stats.ox.ac.uk/~dunbar/"><img src="./img/members/jdunbar.jpg" class="img-responsive img-circle"><p>James Dunbar</p></a></div>
+</div>
+</div>
+</div><h3>DPhils</h3><div id="DPhils">
+<div class="row row-centered">
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.dtc.ox.ac.uk/people/11/oliveiras/"><img src="./img/members/soliveira.jpg" class="img-responsive img-circle"><p>Saulo de Oliveira</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.dtc.ox.ac.uk/people/11/bradley/"><img src="./img/members/abradley.jpg" class="img-responsive img-circle"><p>Anthony Bradley</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.dtc.ox.ac.uk/people/11/rogala/"><img src="./img/members/krogala.jpg" class="img-responsive img-circle"><p>Kacper Rogala</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="https://luisospina.wordpress.com/"><img src="./img/members/lospina.jpg" class="img-responsive img-circle"><p>Luis Ospina</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.dtc.ox.ac.uk/people/12/demharter/"><img src="./img/members/sdemharter.jpg" class="img-responsive img-circle"><p>Samuel Demharter</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.stats.ox.ac.uk/~amartin/"><img src="./img/members/amartin.jpg" class="img-responsive img-circle"><p>Alistair Martin</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.dtc.ox.ac.uk/people/12/pearce/"><img src="./img/members/npearce.jpg" class="img-responsive img-circle"><p>Nicholas Pearce</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.stats.ox.ac.uk/~leem/"><img src="./img/members/jleem.jpg" class="img-responsive img-circle"><p>Jinwoo Leem</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.dtc.ox.ac.uk/people/12/marks/"><img src="./img/members/cmarks.jpg" class="img-responsive img-circle"><p>Claire Marks</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.dtc.ox.ac.uk/people/12/lucken/"><img src="./img/members/mlucken.jpg" class="img-responsive img-circle"><p>Malte Lucken</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.dtc.ox.ac.uk/people/13/lawe/"><img src="./img/members/elaw.jpg" class="img-responsive img-circle"><p>Eleanor Law</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.dtc.ox.ac.uk/people/13/regepc/"><img src="./img/members/cregep.jpg" class="img-responsive img-circle"><p>Cristian Regep</p></a></div>
+</div>
+<div class="col-lg-2 col-sm-3 col-xs-6 col-centered"><div class="thumbnail"><a href="http://www.dtc.ox.ac.uk/people/13/nowakj/"><img src="./img/members/jnowak.jpg" class="img-responsive img-circle"><p>Jaroslaw Nowak</p></a></div>
+</div>
+</div>
+</div>
+
+            <div id="former"><h3>Former Members</h3>
+</ul>
+<ul>
+<li>Henry Wilman (DPhil 2010 - 2015)</li>
+<li>Markus Gerstel (DPhil 2010 - 2014)</li>
+<li>Jean-Paul Ebejer (DPhil 2010-2014)</li>
+<li>Leila Alexander (DPhil 2009-2013)</li>
+<li>Jamie Hill (DPhil 2009-2013)</li>
+<li>Faisal Khan (DPhil 2009-2013)</li>
+<li>Sebastian Kelm (DPhil + PostDoc 2007-2013)</li>
+<li>Mireille Gomes (DPhil 2009-2012)</li>
+<li>Tiago Rito (DPhil 2009-2012)</li>
+<li>Rebecca Hamer (PostDoc 2008-2012)</li>
+<li>Sumeet Argawal (DPhil 2008-2011)</li>
+<li>Anna Lewis (DPhil 2008-2011)</li>
+<li>Yoonjoo Choi (DPhil 2007-2011)</li>
+<li>Waqar Ali (DPhil 2007-2011)</li>
+<li>Rhodri Saunders (DPhil 2006-2010)</li>
+<li>Qiang Luo (PhD year abroad 2008-2009)</li>
+<li>Ramazan Saeed (DPhil 2004-2008)</li>
+<li>Katherine Fisher (DPhil 2004-2008)</li>
+<li>Pao-Yang Chen (DPhil + PostDoc 2004-2008)</li>
+<li>Sanne Abeln (DPhil 2003-2006)</li>
+<li>Najl Valeyev (DPhil 2003-2006)</li>
+</div><div id="visitor"><h3>Visitors</h3>
+</ul>
+<ul>
+<li>Jennifer Smith (2013-2014, Biochemistry, Oxford)</li>
+<li>Fred Hoffman (2012, SABS IDC, Oxford)</li>
+<li>Katharine Coyte (2012, SysBio DTC, Oxford)</li>
+<li>Elizabeth Jefferys (2012,Biochemistry, Oxford)</li>
+<li>Anna Vangone (2012, University of Salerno, Italy)</li>
+<li>Patrick Gemmell (2011, LSI DTC, Oxford)</li>
+<li>Jacob Bush (2011, SABS IDC, Oxford)</li>
+<li>Isaac Turner (2010, LSI DTC, Oxford)</li>
+<li>Jennifer DeBeyer (2009, SysBio DTC, Oxford)</li>
+<li>Ken Wang (2008, Mathematics, Oxford)</li>
+<li>Alexander Robson (2008, SysBio DTC, Oxford)</li>
+</div>
+        </div>
+    </div>
+
+    </div><!--container-->
+
+    <footer class="footer">
+    <div class="container">
+        <p class="text-muted text-center">Website created by Alistair Martin and Eleanor Law</p>
+    </div>
+</footer>
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="./js/navbar.js"></script>
+    <script>
+        var activePage = "#members";
+        $(activePage).addClass('active');
+        $(activePage).children('a').attr('href','#');
+    </script>
+
+    </body>
+</html>

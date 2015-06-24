@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width,initial-scale=1, user-scalable=no">
+    <script type="text/javascript" src="//use.typekit.net/zea0vzl.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <meta name="description" content="">
+    <meta name="author" content="Oneltd">
+    <link rel="icon" type="image/png" href="http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/img/favicon.png">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+
+    <title>Trinity College &#8211; Trinity in the Civil Wars</title>
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Trinity core CSS -->
+     <link href="/wordpress/wp-content/themes/trinity/style.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="/wordpress/wp-content/themes/trinity/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="/wordpress/wp-content/themes/trinity/js/ie10-viewport-bug-workaround.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel='stylesheet' id='main-css'  href='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/style.css?ver=1412262072' type='text/css' media='all' />
+<link rel='stylesheet' id='shiba-gallery-css-css'  href='http://www.trinity.ox.ac.uk/wordpress/wp-content/plugins/shiba-gallery/css/shiba-gallery.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='shiba-gallery-frames-css-css'  href='http://www.trinity.ox.ac.uk/wordpress/wp-content/plugins/shiba-gallery/css/shiba-gallery-frames.css?ver=4.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js?ver=3.9.6'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/owl.carousel.min.js?ver=1409583620'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/core.js?ver=1409918300'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/jquery.tmpl.min.js?ver=1409583598'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/jquery.easing.1.3.js?ver=1409583596'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/jquery.elastislide.js?ver=1409583596'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/mobile.js?ver=1409583598'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/modernizr.js?ver=1409583598'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/jquery.flexslider.js?ver=1409583598'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/shCore.js?ver=1409583624'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/shBrushXml.js?ver=1409583624'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/shBrushJScript.js?ver=1409583624'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/themes/trinity/js/jquery.mousewheel.js?ver=1409583598'></script>
+<link rel='prev' title='President Kettell' href='http://www.trinity.ox.ac.uk/college-history/president-kettell/' />
+<link rel='next' title='Restoration Trinity and President Bathurst' href='http://www.trinity.ox.ac.uk/college-history/restoration/' />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style>
+		.wp-caption p.wp-caption-text { margin: 10px 0 10px 0 !important; }
+		  
+		</style>
+		<script type="text/javascript">
+		//<![CDATA[
+		var shibaResizeFunctions = new Array();		   
+		//http://stackoverflow.com/questions/2025789/preserving-a-reference-to-this-in-javascript-prototype-functions		  
+		if (!Function.prototype.bind) { // check if native implementation available
+		  Function.prototype.bind = function(){ 
+			var fn = this, args = Array.prototype.slice.call(arguments),
+				object = args.shift(); 
+			return function(){ 
+			  return fn.apply(object, 
+				args.concat(Array.prototype.slice.call(arguments))); 
+			}; 
+		  };
+		}		
+		//]]>
+		</script>
+		    
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-54360083-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+
+  </head>
+<body class="page page-id-1614 page-child parent-pageid-1582 page-template-default">
+
+<!-- NAVIGATION
+================================================== -->
+
+<div id="header">
+  <a href="http://www.trinity.ox.ac.uk/" title="Trinity College"><div class="logo-top"></div></a>
+  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+    <span class="sr-only">Toggle navigation</span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    </button>
+</div> <!-- end #header -->
+
+
+     
+
+    <div class="navbar-wrapper">
+  <div class="container">
+    <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+      <div class="container">
+        <div class="navbar-collapse collapse">
+         <nav id="main-navigation">
+            <ul id="menu-main" class="menu"><li id="menu-item-1380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1380"><a>Applying &#038; Studying</a>
+<ul class="sub-menu">
+	<li id="menu-item-919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-919"><a href="http://www.trinity.ox.ac.uk/undergraduates/">Undergraduates</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2936"><a href="http://www.trinity.ox.ac.uk/undergraduates/subjects/">Subjects</a></li>
+		<li id="menu-item-4063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4063"><a href="http://www.trinity.ox.ac.uk/undergraduates/how-to-apply/">How to Apply</a>
+		<ul class="sub-menu">
+			<li id="menu-item-6593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6593"><a href="http://www.trinity.ox.ac.uk/undergraduates/how-to-apply/admissions-and-outreach/">2015 Admissions</a></li>
+			<li id="menu-item-4064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4064"><a href="http://www.trinity.ox.ac.uk/undergraduates/how-to-apply/organ-and-choral-scholarships/">Organ and Choral Scholarships</a></li>
+			<li id="menu-item-5306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5306"><a href="http://www.trinity.ox.ac.uk/undergraduates/how-to-apply/jardine-scholarships-for-undergraduates/">Jardine Scholarships</a></li>
+			<li id="menu-item-1674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1674"><a href="http://www.trinity.ox.ac.uk/undergraduates/how-to-apply/interviews-unlocked/">Interviews Unlocked</a></li>
+		</ul>
+</li>
+		<li id="menu-item-1676" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1676"><a href="http://www.trinity.ox.ac.uk/applying-studying/support-and-welfare/">Support and Welfare</a>
+		<ul class="sub-menu">
+			<li id="menu-item-4545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4545"><a href="http://www.trinity.ox.ac.uk/support-and-welfare/">Support and Welfare</a></li>
+			<li id="menu-item-2898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2898"><a href="http://www.trinity.ox.ac.uk/support-and-welfare/undergraduate-financial-support/">Undergraduate Financial Support</a></li>
+			<li id="menu-item-4065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4065"><a href="http://www.trinity.ox.ac.uk/cultural-travel-and-prizes/">Awards, Bursaries and Prizes</a></li>
+		</ul>
+</li>
+		<li id="menu-item-2889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2889"><a href="http://www.trinity.ox.ac.uk/undergraduates/open-days/">Open Days</a></li>
+		<li id="menu-item-2893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2893"><a href="http://www.trinity.ox.ac.uk/term-dates-college-regulations-and-handbook/">Term dates</a></li>
+		<li id="menu-item-2895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2895"><a href="http://www.trinity.ox.ac.uk/contact-or-visit-us/">Contact or Visit Us</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4066"><a href="http://www.trinity.ox.ac.uk/postgraduate-study/">Postgraduates</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4541"><a href="http://www.trinity.ox.ac.uk/postgraduate-study/postgraduate-application/">Postgraduate Applications</a></li>
+		<li id="menu-item-6856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6856"><a href="http://www.trinity.ox.ac.uk/postgraduate-study/postgraduate-profiles/">Postgraduate Profiles</a></li>
+		<li id="menu-item-5960" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5960"><a href="http://www.trinity.ox.ac.uk/postgraduate-study/postgraduate-application/postgraduate-scholarships-for-2015-entry/">Postgraduate Scholarships</a></li>
+		<li id="menu-item-2886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2886"><a href="http://www.trinity.ox.ac.uk/support-and-welfare/">Support and Welfare</a>
+		<ul class="sub-menu">
+			<li id="menu-item-4544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4544"><a href="http://www.trinity.ox.ac.uk/support-and-welfare/">Support and Welfare</a></li>
+			<li id="menu-item-2902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2902"><a href="http://www.trinity.ox.ac.uk/support-and-welfare/postgraduate-financial-support/">Postgraduate Grants &#038; Awards</a></li>
+			<li id="menu-item-4067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4067"><a href="http://www.trinity.ox.ac.uk/cultural-travel-and-prizes/">Awards, Bursaries and Prizes</a></li>
+		</ul>
+</li>
+		<li id="menu-item-2904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2904"><a href="http://www.trinity.ox.ac.uk/term-dates-college-regulations-and-handbook/">Term dates</a></li>
+		<li id="menu-item-2906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2906"><a href="http://www.trinity.ox.ac.uk/contact-or-visit-us/">Contact or Visit Us</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1403"><a>Student Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-5694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5694"><a href="http://www.trinity.ox.ac.uk/student-life/">A View of Student Life</a></li>
+	<li id="menu-item-3108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3108"><a href="http://www.trinity.ox.ac.uk/student-life/academic-facilities/">Academic Facilities</a></li>
+	<li id="menu-item-3104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3104"><a href="http://www.trinity.ox.ac.uk/amenities-at-trinity/">Amenities at Trinity</a></li>
+	<li id="menu-item-4070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4070"><a href="http://www.trinity.ox.ac.uk/student-life/food-and-drink/">Food and Drink</a></li>
+	<li id="menu-item-4069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4069"><a href="http://www.trinity.ox.ac.uk/student-life/accommodation/">Accommodation</a></li>
+	<li id="menu-item-4138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4138"><a href="http://www.trinity.ox.ac.uk/support-and-welfare/">Support and Welfare</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4543"><a href="http://www.trinity.ox.ac.uk/support-and-welfare/">Support and Welfare</a></li>
+		<li id="menu-item-3085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3085"><a href="http://www.trinity.ox.ac.uk/support-and-welfare/undergraduate-financial-support/">Undergraduate Financial Support</a></li>
+		<li id="menu-item-3084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3084"><a href="http://www.trinity.ox.ac.uk/support-and-welfare/postgraduate-financial-support/">Postgraduate Grants &#038; Awards</a></li>
+		<li id="menu-item-3123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3123"><a href="http://www.trinity.ox.ac.uk/cultural-travel-and-prizes/">Awards, Bursaries and Prizes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3111"><a href="http://www.trinity.ox.ac.uk/student-life/societies/">Societies</a></li>
+</ul>
+</li>
+<li id="menu-item-1404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1404"><a>People</a>
+<ul class="sub-menu">
+	<li id="menu-item-4076" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4076"><a href="/people/profiles/?staff_role=fellows">Profiles</a></li>
+	<li id="menu-item-3023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3023"><a href="http://www.trinity.ox.ac.uk/fellows-and-college-officers/">Fellows and College Officers</a></li>
+	<li id="menu-item-3049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3049"><a href="http://www.trinity.ox.ac.uk/college-contacts/">College Contacts</a></li>
+	<li id="menu-item-5969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5969"><a href="http://www.trinity.ox.ac.uk/academics-by-subject/">Academics by Subject</a></li>
+</ul>
+</li>
+<li id="menu-item-1405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1405"><a>About</a>
+<ul class="sub-menu">
+	<li id="menu-item-1690" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-1690"><a href="http://www.trinity.ox.ac.uk/college-history/">College History</a></li>
+	<li id="menu-item-3225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3225"><a href="http://www.trinity.ox.ac.uk/college-archive/">College Archive</a></li>
+	<li id="menu-item-3211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3211"><a href="http://www.trinity.ox.ac.uk/library/">Library</a></li>
+	<li id="menu-item-1668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1668"><a href="http://www.trinity.ox.ac.uk/the-chapel/">The Chapel</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7523"><a href="http://www.trinity.ox.ac.uk/the-chapel/">The Chapel</a></li>
+		<li id="menu-item-1684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1684"><a href="http://www.trinity.ox.ac.uk/the-chapel/the-chaplain/">The Chaplain</a></li>
+		<li id="menu-item-4460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4460"><a href="http://www.trinity.ox.ac.uk/the-chapel/chapel-history/">Chapel History</a></li>
+		<li id="menu-item-4087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4087"><a href="http://www.trinity.ox.ac.uk/the-chapel/weddings-and-baptisms/">Weddings and Baptisms</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4089"><a href="http://www.trinity.ox.ac.uk/getting-to-trinity/">Getting to Trinity</a></li>
+	<li id="menu-item-7040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7040"><a href="http://www.trinity.ox.ac.uk/gardens/">Gardens</a></li>
+	<li id="menu-item-6917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6917"><a href="http://www.trinity.ox.ac.uk/vacancies/">Vacancies</a></li>
+	<li id="menu-item-7285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7285"><a href="http://www.trinity.ox.ac.uk/equality-policy/">Equality Policy</a></li>
+</ul>
+</li>
+<li id="menu-item-1407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1407"><a>Old Members</a>
+<ul class="sub-menu">
+	<li id="menu-item-5196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5196"><a href="http://www.trinity.ox.ac.uk/old-members/">Old Members &#038; Friends</a></li>
+	<li id="menu-item-5203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5203"><a href="http://www.trinity.ox.ac.uk/old-members/alumni-information/">Information</a></li>
+	<li id="menu-item-5200" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5200"><a href="http://www.trinity.ox.ac.uk/old-members/supporting-trinity/">Supporting Trinity</a></li>
+	<li id="menu-item-1642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1642"><a href="http://www.trinity.ox.ac.uk/old-members/events-for-old-members-and-friends/">Events</a></li>
+	<li id="menu-item-1651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1651"><a href="http://www.trinity.ox.ac.uk/old-members/degree-days/">Degree Days</a></li>
+	<li id="menu-item-6174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6174"><a href="http://www.trinity.ox.ac.uk/old-members/publications/">Publications</a></li>
+	<li id="menu-item-6439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6439"><a href="http://www.trinity.ox.ac.uk/old-members/alumni-information/the-trinity-society/">The Trinity Society</a></li>
+	<li id="menu-item-5201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5201"><a href="http://www.trinity.ox.ac.uk/old-members/alumni-contact/">Getting in Touch</a></li>
+</ul>
+</li>
+<li id="menu-item-3356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3356"><a>Conferences &#038; Visitors</a>
+<ul class="sub-menu">
+	<li id="menu-item-4090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4090"><a href="http://www.trinity.ox.ac.uk/conference-facilities/">Conference Facilities</a></li>
+	<li id="menu-item-8181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8181"><a href="http://www.trinity.ox.ac.uk/getting-to-trinity/">Getting to Trinity</a></li>
+</ul>
+</li>
+<li id="menu-item-4058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4058"><a href="#">News &#038; Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-4055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4055"><a href="http://www.trinity.ox.ac.uk/news/">News</a></li>
+	<li id="menu-item-6423" class="menu-item menu-item-type-post_type_archive menu-item-object-events menu-item-6423"><a href="http://www.trinity.ox.ac.uk/events/">Events</a></li>
+</ul>
+</li>
+</ul>          </nav>
+          <div id="flip"><i class="fa fa-search fa-2x"></i></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="search-dropdown">
+  <div class="search-inner">
+    <div id="panel">
+      <form role="search" method="get" class="search-form" action="http://www.trinity.ox.ac.uk/">
+        <label>
+          <input type="search" class="search-field" placeholder="What are you looking for?" value="" name="s" title="What are you looking for?" />
+        </label>
+      </form>
+    </div>
+  </div>
+</div>
+
+<div class="breadcrumb-full-width">
+  <div class="breadcrumb-inner">
+ <p class="breadcrumb">    <a href="http://www.trinity.ox.ac.uk/college-history/">College History</a>
+      <a href="http://www.trinity.ox.ac.uk/college-history/loggan/">Trinity in the Civil Wars</a>
+    </p>  </div>
+</div>
+    <div class="sml-banner-container hide">
+  <div class="container marketing small-banner-wide plain">
+    <div class="row featurette">
+       <div class="col-md-12">
+          <div class="ts-title-box yellow-sml-wide-plain bottom-title banner-large"><h5>
+          Trinity in the Civil Wars          </h5></div>
+
+
+</div>
+
+</div>
+</div><!-- /.container -->
+
+    </div>
+
+   <div class="mobile-banner-fixed">
+
+<div class="mbf-inner">
+
+      <h5>
+      Trinity in the Civil Wars      </h5>
+
+
+    </div>
+    </div>
+    
+    <!-- Main Content
+    ================================================== -->
+
+     
+ <div class="listing-divider"></div>
+
+<div class="main white pg-col-1">
+
+  <div class="container marketing">
+
+     <div class="grid-divider"></div>
+
+    <div class="row featurette">
+            
+       <div class="col-md-9 mobile">
+
+         <div class="triangle-holder-1-col"><div class="triangle"></div></div>
+    
+         
+
+  
+ 
+    <h4>The City of Oxford suffered greatly in the Civil Wars between 1641 and 1651. In the autumn of 1642 Oxford was briefly occupied by the parliamentarian forces, but in October that year, King Charles I set up his court at Christ Church, and the city and colleges were crowded with royalist supporters and soldiers.</h4>
+<p>Trinity was staunchly loyal to the king, and in January 1643 almost the entire stock of the college&#8217;s silver plate was loaded onto carts and driven off to be melted down into silver pennies to pay the troops. Several times, Oxford was besieged by Cromwell&#8217;s soldiers. Food became short, the undergraduates were sent home, and the remaining college residents were forced to take their turn digging ramparts and defending the city.</p>
+<p>After the trial and execution of Charles I in January 1649, all the colleges of Oxford were forced to submit to Visitors imposed by the Commonwealth government. A new Puritan President, Robert Harris, was imposed on Trinity. Numbers only slowly recovered, uncollected revenues were written off, and the neglected buildings were badly in need of maintenance. College fortunes were at a very low point.</p>
+<p>&nbsp;</p>
+<div id='1591' class='wp-caption alignnone' style='width:331px' ><a href="http://www.trinity.ox.ac.uk/wordpress/wp-content/uploads/2014/08/Loggan-e1408030210251.jpg"><img class=" wp-image-1591" src="http://www.trinity.ox.ac.uk/wordpress/wp-content/uploads/2014/08/Loggan-291x370.jpg" alt="Loggan's map of Oxford (1675) showing Trinity (numbered 14) and the ramparts dug to defend Oxford in the Civil Wars" width="305" height="388" /></a><p class='wp-caption-text'>Loggan&#8217;s map of Oxford (1675) showing Trinity (numbered 14) and the ramparts dug to defend Oxford in the Civil Wars</p>
+</div>
+    
+  
+  </div>
+
+  <div class="col-md-3 mobile"></div>
+
+
+     </div>
+
+              <div class="listing-divider"></div>
+         </div><!-- /.container -->
+             </div><!-- /.main -->
+             
+              
+ 
+            
+<div id="tactical_strips">
+
+
+<div class="tact-strip blue">
+  <div class="container marketing">
+    <div class="row featurette">
+      <div class="ts-title-box">More History</div>
+      <div class="col-md-12">
+        <div class="news-carousel">
+                  
+            <figure>
+              <div class="listing-image-tiled">
+                <div class="nd-tiled">
+                  <h2>Restoration Trinity and President Bathurst</h2>
+                  <figcaption class="from-top">
+                    <a class="listing-nd-read-more-dd no-date" href="http://www.trinity.ox.ac.uk/college-history/president-bathurst" title="Trinity in the Civil Wars"></a>
+                    <div class="entry-content listing-prof-content">
+                                          </div>
+                  </figcaption>
+                </div>
+                                  <div class="new-image" style="background-image: url('http://www.trinity.ox.ac.uk/wordpress/wp-content/uploads/2014/08/bethurst-e1408030237315.jpg');"></div>
+                              </div>
+            </figure>
+          
+            <figure>
+              <div class="listing-image-tiled">
+                <div class="nd-tiled">
+                  <h2>Trinity in the Eighteenth Century</h2>
+                  <figcaption class="from-top">
+                    <a class="listing-nd-read-more-dd no-date" href="http://www.trinity.ox.ac.uk/college-history/eighteenth-century" title="Trinity in the Civil Wars"></a>
+                    <div class="entry-content listing-prof-content">
+                                          </div>
+                  </figcaption>
+                </div>
+                                  <div class="new-image" style="background-image: url('http://www.trinity.ox.ac.uk/wordpress/wp-content/uploads/2014/08/warton-e1408030268384.jpg');"></div>
+                              </div>
+            </figure>
+          
+            <figure>
+              <div class="listing-image-tiled">
+                <div class="nd-tiled">
+                  <h2>University Reform and College Expansion</h2>
+                  <figcaption class="from-top">
+                    <a class="listing-nd-read-more-dd no-date" href="http://www.trinity.ox.ac.uk/college-history/reform" title="Trinity in the Civil Wars"></a>
+                    <div class="entry-content listing-prof-content">
+                                          </div>
+                  </figcaption>
+                </div>
+                                  <div class="new-image" style="background-image: url('http://www.trinity.ox.ac.uk/wordpress/wp-content/uploads/2014/08/trinitystud.jpg');"></div>
+                              </div>
+            </figure>
+                            </div> <!-- /#newsCarousel -->
+      </div> <!-- /.col-md-12 -->
+    </div> <!-- /.row -->
+  </div><!-- /.container -->
+</div><!-- /.tact-strip -->
+
+
+</div>
+
+
+  
+
+                <!-- FOOTER -->
+      <script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://www.trinity.ox.ac.uk/wordpress/wp-content/plugins/shiba-gallery/js/shiba-gallery.min.js?ver=4.4.2'></script>
+		<script type="text/javascript">
+		//<![CDATA[
+
+		// Add resize event 
+		var rtimer;
+		jQuery(window).resize(function(e) {
+			if (rtimer) clearTimeout(rtimer);
+			rtimer = setTimeout(function(){	
+//				console.log("number of functions " + shibaResizeFunctions.length);						 
+				// Execute all resize events stored	
+				for (var i=0; i < shibaResizeFunctions.length; i++) {
+//					console.log(shibaResizeFunctions[i]);
+					shibaResizeFunctions[i]();
+				}
+			}, 200);
+		});
+		   			 
+		//]]>
+		</script>
+		
+
+<div id="footer">
+  <div id="footer-inner">
+
+    <div class="col-md-3">
+
+<div class="footer-logo">
+<a href="http://www.trinity.ox.ac.uk/" title="Trinity College Oxford">
+    <img src="/wordpress/wp-content/themes/trinity/img/footer-logo.png" alt="Trinity College">
+</a>
+</div>
+</div>
+
+<div class="col-md-3 menu">
+
+    <h5>Enquiries:</h5>
+    <div class="menu-enquiries-menu-container"><ul id="menu-enquiries-menu" class="menu"><li id="menu-item-612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612"><a href="http://www.trinity.ox.ac.uk/general-enquiries/">General enquiries</a></li>
+<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="http://www.trinity.ox.ac.uk/admissions-enquiries/">Admissions enquiries</a></li>
+<li id="menu-item-5974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5974"><a href="http://www.trinity.ox.ac.uk/old-members/alumni-contact/">Alumni &#038; development enquiries</a></li>
+</ul></div>
+</div>
+
+<div class="col-md-3 map">
+
+    <h5>How to find us:</h5>
+
+<div id="map"></div>
+
+</div>
+
+<div class="col-md-3 address">
+
+    <ul>
+<li><h5>Trinity College</h5></li>
+<li>Broad Street</li>
+<li>Oxford</li>
+<li>OX1 3BH</li>
+<li>UK</li>
+<br>
+<li><strong>Tel:</strong> +44 1865 279900</li>
+<li><strong>Fax:</strong> +44 1865 279902</li>
+</ul>
+</div>
+
+<div id="footer-bottom">
+
+<div class="col-md-3 sbb">
+
+ 
+   
+   
+<div class="share-buttons">
+
+ 
+  <a href="https://www.facebook.com/pages/Trinity-College-University-of-Oxford/55903340478" target="_blank"><img src="http://www.trinity.ox.ac.uk/wordpress/wp-content/uploads/2014/08/facebook.png" alt="" /></a>
+ 
+ 
+</div>
+
+    
+    
+<div class="share-buttons">
+
+ 
+  <a href="https://twitter.com/TrinityOxford" target="_blank"><img src="http://www.trinity.ox.ac.uk/wordpress/wp-content/uploads/2014/08/twitter.png" alt="" /></a>
+ 
+ 
+</div>
+
+    
+    
+ 
+</div>
+
+<div class="col-md-3">
+
+
+<div class="copy">
+
+    &copy; 2014 Trinity College / Oxford University
+
+</div>
+</div>
+
+<div class="col-md-6 menu-bottom">
+
+<div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-712"><a href="http://www.trinity.ox.ac.uk/legal-information/">Legal information</a></li>
+<li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a href="http://www.trinity.ox.ac.uk/accessibility-statement/">Accessibility statement</a></li>
+<li id="menu-item-711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-711"><a href="http://www.trinity.ox.ac.uk/terms-and-conditions/">Terms and conditions</a></li>
+<li id="menu-item-8274" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8274"><a href="https://sharepoint.nexus.ox.ac.uk/sites/trinity/">Trinity Sharepoint</a></li>
+</ul></div>
+</div>
+
+<div>
+
+</div>
+</div>
+</div>
+</div> <!-- end #footer -->
+
+
+
+ <!-- JavaScript
+    ================================================== -->
+    
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDRTE2tjqs4feYAUWXNrgIRI5E54RJ_Bak&sensor=false"></script>
+        
+        <script type="text/javascript">
+            // When the window has finished loading create our google map below
+            google.maps.event.addDomListener(window, 'load', init);
+        
+            function init() {
+                // Basic options for a simple Google Map
+                // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+                var mapOptions = {
+                    // How zoomed in you want the map to start at (always required)
+                    zoom: 11,
+
+                    // The latitude and longitude to center the map (always required)
+                    center: new google.maps.LatLng(51.7553, -1.2570), // Trinity
+
+                    // How you would like to style the map. 
+                    // This is where you would paste any style found on Snazzy Maps.
+                    styles: [ {
+
+                      featureType:'water', stylers:[{color:'#006BB6'},{visibility:'on'}] },{
+                      featureType:'landscape', stylers:[{color:'#f2f2f2'}] },{
+                        featureType:'road', stylers:[{color:'#FFCA05'}]},{
+                          featureType:'road.highway', stylers:[{visibility:'off'}] },{
+                            featureType:'road.arterial', elementType:'labels.icon',    stylers:[{visibility:'on'}]  },{
+                              featureType:'road.arterial', elementType:'geometry.stroke',    stylers:[{color:'#F2F2F2'}]  },{
+                              featureType:'administrative', elementType:'labels.text.fill',   stylers:[{color:'#4C4C4C'}] },{
+                                 featureType:'road',   elementType:'labels.text.fill',   stylers:[{color:'#4C4C4C'}] },{
+                                   featureType:'administrative',   elementType:'labels.text.stroke',   stylers:[{color:'#F2F2F2'}] },{
+                                featureType:'transit',    stylers:[{visibility:'off'}]  },{
+                                  featureType:'poi', stylers:[{visibility:'on'}]  }]
+
+                    
+                };  
+
+
+
+                [{"stylers":[{"hue":"#2c3e50"},{"saturation":250}]},{"featureType":"road","elementType":"geometry","stylers":[{"lightness":50},{"visibility":"simplified"}]},{"featureType":"road","elementType":"labels","stylers":[{"visibility":"off"}]}]
+
+                // Get the HTML DOM element that will contain your map 
+                // We are using a div with id="map" seen below in the <body>
+                var mapElement = document.getElementById('map');
+
+                // Create the Google Map using out element and options defined above
+                var map = new google.maps.Map(mapElement, mapOptions);
+            }
+        </script>
+
+  
+
+       </body>
+</html>
+
+<!-- Dynamic page generated in 0.235 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-06-18 15:37:34 -->
+
+<!-- Compression = gzip -->

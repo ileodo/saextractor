@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<!-- Sorry no IE7 support! -->
+<!-- @see http://foundation.zurb.com/docs/index.html#basicHTMLMarkup -->
+
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<link href="http://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta name="viewport" content="width=device-width, maximum-scale = 1.0" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.path.ox.ac.uk/content/previous-departmental-seminars" />
+<link rel="shortlink" href="http://www.path.ox.ac.uk/node/188" />
+  <title>Previous Departmental Seminars | Sir William Dunn School of Pathology</title>
+  <style>
+@import url("http://www.path.ox.ac.uk/modules/system/system.base.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/modules/system/system.messages.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/modules/system/system.theme.css?nq2ysj");
+</style>
+<style>
+@import url("http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?nq2ysj");
+</style>
+<style>
+@import url("http://www.path.ox.ac.uk/sites/all/modules/date/date_api/date.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/modules/field/theme/field.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/modules/node/node.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/modules/search/search.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/modules/user/user.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/sites/all/modules/views/css/views.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/sites/all/modules/ckeditor/css/ckeditor.css?nq2ysj");
+</style>
+<style>
+@import url("http://www.path.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/sites/all/modules/panels/css/panels.css?nq2ysj");
+</style>
+
+<!--[if IE]>
+<link rel="stylesheet" href="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/css/ie.css?nq2ysj" />
+<![endif]-->
+<style>
+@import url("http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/zurb-foundation/css/foundation.min.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/css/custom.css?nq2ysj");
+@import url("http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/css/slick.css?nq2ysj");
+</style>
+  <script src="http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+<script src="http://www.path.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.path.ox.ac.uk/misc/drupal.js?nq2ysj"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js?v=1.10.2"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.10.2"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.10.2"></script>
+<script src="http://www.path.ox.ac.uk/misc/ajax.js?v=7.37"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/linkit/js/linkit.js?v=7.3"></script>
+<script src="http://www.path.ox.ac.uk/misc/progress.js?v=7.37"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/linkit/editors/ckeditor/linkitDialog.js?v=7.3"></script>
+<script src="http://www.path.ox.ac.uk/sites/all/modules/google_analytics/googleanalytics.js?nq2ysj"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-63226884-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script>jQuery.extend(Drupal.settings, { "pathToTheme": "sites/www-a.path.ox.ac.uk/themes/dunnpathology" });</script>
+<script src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/js/vendor/custom.modernizr.js?nq2ysj"></script>
+<script src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/js/foundation.min.js?nq2ysj"></script>
+<script src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/js/vendor/slick.min.js?nq2ysj"></script>
+<script src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/js/vendor/jquery.matchHeight.min.js?nq2ysj"></script>
+<script src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/js/vendor/jquery.dotdotdot.min.js?nq2ysj"></script>
+<script src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/js/vendor/jquery.waypoints.min.js?nq2ysj"></script>
+<script src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/js/vendor/inview.min.js?nq2ysj"></script>
+<script src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/js/vendor/infinite.min.js?nq2ysj"></script>
+<script src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/js/scripts.js?nq2ysj"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dunnpathology","theme_token":"tI413u0_A0RsrF6MOJoyy5UFjMWm5zyxBFvAWTDOJfw","jquery_version":"1.8","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/linkit\/js\/linkit.js":1,"misc\/progress.js":1,"sites\/all\/modules\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/js\/vendor\/custom.modernizr.js":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/js\/foundation.min.js":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/js\/vendor\/slick.min.js":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/js\/vendor\/jquery.matchHeight.min.js":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/js\/vendor\/jquery.dotdotdot.min.js":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/js\/vendor\/jquery.waypoints.min.js":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/js\/vendor\/inview.min.js":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/js\/vendor\/infinite.min.js":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/css\/ie.css":1,"sites\/www-a.path.ox.ac.uk\/themes\/zurb-foundation\/css\/normalize.css":1,"sites\/www-a.path.ox.ac.uk\/themes\/zurb-foundation\/css\/foundation.min.css":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/css\/custom.css":1,"sites\/www-a.path.ox.ac.uk\/themes\/dunnpathology\/css\/slick.css":1}},"linkit":{"autocompletePath":"http:\/\/www.path.ox.ac.uk\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"\/linkit\/dashboard\/","currentInstance":{}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});</script>
+  <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-188 node-type-page section-content" >
+  <div class="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- .off-canvas-wrap -->
+<div class="off-canvas-wrap">
+  <div class="inner-wrap">
+    <nav class="top-header">
+     <!-- <section class="logo-column columns large-4 medium-6 small-12">
+        <a href="/"></a>
+      </section> -->
+      <section class="top-header-column columns large-12">
+        <!-- menu icon was here -->
+        	  <div class="top-header">
+                <section class="block block-panels-mini block-panels-mini-above-header-panel">
+
+      
+      <div class="row" id="mini-panel-above_header_panel">
+  <div class="large-12 columns">
+    <div class="panel-pane pane-block pane-search-form large-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <form action="/content/previous-departmental-seminars" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline row collapse">
+  <div class="small-10 large-10 medium-10 columns"><div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="small-8 columns form-text" placeholder="Search" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+</div>
+  <div class="small-2 large-2 medium-2 columns"><button class="postfix small-4 columns form-submit" id="edit-submit" name="op" value="GO!" type="submit">GO!</button>
+</div>
+
+  <input type="hidden" name="form_build_id" value="form-sEvE8v7m9Ui89fSznQ6stvcyGPaWEFDyzcwZKWwNJ1M" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+
+ 
+</div></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-menu-tree pane-menu-topbar-navigation"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-menu-topbar-navigation-1 menu-name-menu-topbar-navigation parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1210"><a href="/content/contact-us" title="">Contact</a></li>
+<li class="leaf menu-mlid-1306"><a href="https://sharepoint.nexus.ox.ac.uk/CookieAuth.dll?GetLogon?curl=Z2FsitesZ2FPathZ2FIntranetZ2FPagesZ2Fdefault.aspx&amp;reason=0&amp;formdir=6" title="">Intranet</a></li>
+<li class="last leaf menu-mlid-1307"><a href="https://owa.nexus.ox.ac.uk/owa/" title="">Nexus login</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+  
+</section>            
+          </div>
+              </section> 	
+      </nav>
+      <aside class="right-off-canvas-menu">
+        <div class="trigger-exit-off-canvas"><i class="fi-x"></i></div>
+                         </aside>  
+  <!--.page -->
+    <div role="document" class="page">
+    <!--.l-header region -->
+    <header role="banner" class="l-header">
+    <!-- Title, slogan and menu -->
+              <section class="row ">
+      <!--  <a href="/" rel="home" title=" Home"><img class="logo" typeof="foaf:Image" src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/logo.png" alt=" logo" title=" Home" /></a> -->
+                              </section>
+        <!-- End title, slogan and menu -->
+          <!--.l-header-region -->
+				<section class="l-header-region row">
+					<div class="large-12 columns">
+              <section class="block block-panels-mini block-panels-mini-header-mini-panel header">
+
+      
+      <div id="mini-panel-header_mini_panel">  <div class="row row-middle">
+    <div class="large-7 medium-8 small-8 columns">
+      <div class="panel-pane pane-page-logo hide-for-small-only"  >
+  
+      
+  
+  <div class="pane-content">
+    <a href="/" rel="home" id="logo" title="Home"><img src="http://www.path.ox.ac.uk/sites/www-a.path.ox.ac.uk/themes/dunnpathology/logo.png" alt="Home" /></a>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1 show-for-small-only logo-box"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="/">.</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-5 medium-4 small-4 columns">
+      <div class="panel-pane pane-menu-tree pane-menu-header-menu float-left"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-menu-header-menu-1 menu-name-menu-header-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1301"><a href="/content/about-us-0" title="">About us</a><span class="tip hide-phone hide-tablet"> <a href="content/about-us-0"></a></span></li>
+<li class="leaf menu-mlid-1296"><a href="/content/research-groups" title="">Research groups</a><span class="tip hide-phone hide-tablet"> <a href="content/research-groups"></a></span></li>
+<li class="leaf menu-mlid-1292"><a href="/content/students" title="">Students</a><span class="tip hide-phone hide-tablet"> <a href="content/students"></a></span></li>
+<li class="leaf menu-mlid-1293"><a href="/content/postdocs" title="">Postdocs</a><span class="tip hide-phone hide-tablet"> <a href="content/postdocs"></a></span></li>
+<li class="leaf menu-mlid-1294"><a href="/content/seminars" title="">Seminars</a><span class="tip hide-phone hide-tablet"> <a href="content/seminars"></a></span></li>
+<li class="last leaf menu-mlid-1295"><a href="/content/news" title="">News</a><span class="tip hide-phone hide-tablet"> <a href="content/news"></a></span></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-2 uni-oxford-logo float-right"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="http://www.ox.ac.uk" target="_blank">.</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+  </div>
+  <div class="row row-bottom">
+    <div class="large-12">
+          </div>
+  </div>
+</div>  
+</section>        </div>
+				</section>
+				<!--/.l-header-region -->
+    
+  </header>
+			<!--/.l-header -->
+  
+  
+  
+    <section class="right-small">
+    <a class="mobile-menu-toggle menu-icon" href="#" ><span></span></a>
+  </section>
+  <div class="mobile-header">
+      	  <div class="mobile-header-content">
+                <section class="block block-panels-mini block-panels-mini-mobile-mini-panel">
+
+      
+      <div class="row" id="mini-panel-mobile_mini_panel">
+  <div class="large-12 columns">
+    <div class="panel-pane pane-mobilemenu"  >
+  
+      
+  
+  <div class="pane-content">
+    <dl class="accordion" data-accordion data-options="multi_expand:true;toggleable:true"><dd class="accordion-navigation"><a href="/content/research" class="mobile-menu-link">Research</a><a href="/#acp-1007" class="plus-minus">+</a><div id="acp-1007" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/research-areas" class="mobile-menu-link">Research areas</a><a href="/#acp-1008" class="plus-minus">+</a><div id="acp-1008" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/cancer-and-genome-stability" class="mobile-menu-link">Cancer and Genome stability</a></dd><dd class="accordion-navigation"><a href="/content/cell-biology" class="mobile-menu-link">Cell Biology</a></dd><dd class="accordion-navigation"><a href="/content/development-and-stem-cells" class="mobile-menu-link">Development and stem cells</a></dd><dd class="accordion-navigation"><a href="/content/infection-and-immunity" class="mobile-menu-link">Infection and Immunity</a></dd><dd class="accordion-navigation"><a href="/content/rna-and-gene-expression" class="mobile-menu-link">RNA and Gene expression</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/research-groups" class="mobile-menu-link">Research Groups</a><a href="/#acp-1287" class="plus-minus">+</a><div id="acp-1287" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/d" class="mobile-menu-link">A - D</a><a href="/#acp-1315" class="plus-minus">+</a><div id="acp-1315" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/oreste-acuto" class="mobile-menu-link">Oreste Acuto</a></dd><dd class="accordion-navigation"><a href="/content/dragana-ahel" class="mobile-menu-link">Dragana Ahel</a></dd><dd class="accordion-navigation"><a href="/content/ivan-ahel" class="mobile-menu-link">Ivan Ahel</a></dd><dd class="accordion-navigation"><a href="/content/luis-alberto-baena" class="mobile-menu-link">Luis Alberto Baena</a></dd><dd class="accordion-navigation"><a href="/content/neil-barclay" class="mobile-menu-link">Neil Barclay</a></dd><dd class="accordion-navigation"><a href="/content/elizabeth-bikoff" class="mobile-menu-link">Elizabeth Bikoff</a></dd><dd class="accordion-navigation"><a href="/content/marion-h-brown" class="mobile-menu-link">Marion H Brown</a></dd><dd class="accordion-navigation"><a href="/content/peter-cook" class="mobile-menu-link">Peter Cook</a></dd><dd class="accordion-navigation"><a href="/content/omer-dushek" class="mobile-menu-link">Omer Dushek</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/e-g" class="mobile-menu-link">E - G</a><a href="/#acp-1029" class="plus-minus">+</a><div id="acp-1029" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/fumiko-esashi" class="mobile-menu-link">Fumiko Esashi</a></dd><dd class="accordion-navigation"><a href="/content/paul-fairchild" class="mobile-menu-link">Paul Fairchild</a></dd><dd class="accordion-navigation"><a href="/content/ervin-fodor" class="mobile-menu-link">Ervin Fodor</a></dd><dd class="accordion-navigation"><a href="/content/matthew-freeman" class="mobile-menu-link">Matthew Freeman</a></dd><dd class="accordion-navigation"><a href="/content/eva-gluenz" class="mobile-menu-link">Eva Gluenz</a></dd><dd class="accordion-navigation"><a href="/content/david-greaves" class="mobile-menu-link">David Greaves</a></dd><dd class="accordion-navigation"><a href="/content/natalia-gromak" class="mobile-menu-link">Natalia Gromak</a></dd><dd class="accordion-navigation"><a href="/content/ulrike-gruneberg" class="mobile-menu-link">Ulrike Gruneberg</a></dd><dd class="accordion-navigation"><a href="/content/keith-gull" class="mobile-menu-link">Keith Gull</a></dd><dd class="accordion-navigation"><a href="/content/monika-gullerova" class="mobile-menu-link">Monika Gullerova</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/h-p" class="mobile-menu-link">H - P</a><a href="/#acp-1030" class="plus-minus">+</a><div id="acp-1030" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/bass-hassan" class="mobile-menu-link">Bass Hassan</a></dd><dd class="accordion-navigation"><a href="/content/william-james" class="mobile-menu-link">William James</a></dd><dd class="accordion-navigation"><a href="/content/susan-lea" class="mobile-menu-link">Susan Lea</a></dd><dd class="accordion-navigation"><a href="/content/kevin-maloy" class="mobile-menu-link">Kevin Maloy</a></dd><dd class="accordion-navigation"><a href="/content/anton-van-der-merwe" class="mobile-menu-link">Anton van der Merwe</a></dd><dd class="accordion-navigation"><a href="/content/shona-murphy" class="mobile-menu-link">Shona Murphy</a></dd><dd class="accordion-navigation"><a href="/content/conrad-nieduszynski" class="mobile-menu-link">Conrad Nieduszynski</a></dd><dd class="accordion-navigation"><a href="/content/chris-norbury" class="mobile-menu-link">Chris Norbury</a></dd><dd class="accordion-navigation"><a href="/content/nicholas-proudfoot" class="mobile-menu-link">Nicholas Proudfoot</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/q-z" class="mobile-menu-link">Q - Z</a><a href="/#acp-1285" class="plus-minus">+</a><div id="acp-1285" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/jordan-raff" class="mobile-menu-link">Jordan Raff</a></dd><dd class="accordion-navigation"><a href="/content/elizabeth-robertson" class="mobile-menu-link">Elizabeth Robertson</a></dd><dd class="accordion-navigation"><a href="/content/quentin-sattentau" class="mobile-menu-link">Quentin Sattentau</a></dd><dd class="accordion-navigation"><a href="/content/christoph-tang" class="mobile-menu-link">Christoph Tang</a></dd><dd class="accordion-navigation"><a href="/content/david-vaux" class="mobile-menu-link">David Vaux</a></dd><dd class="accordion-navigation"><a href="/content/frank-vreede" class="mobile-menu-link">Frank Vreede</a></dd><dd class="accordion-navigation"><a href="/content/herman-waldmann" class="mobile-menu-link">Herman Waldmann</a></dd></dl> </div></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/research-facilities" class="mobile-menu-link">Research Facilities</a><a href="/#acp-1024" class="plus-minus">+</a><div id="acp-1024" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/central-proteomics-facility" class="mobile-menu-link">Central Proteomics Facility</a></dd><dd class="accordion-navigation"><a href="/content/electron-microscopy-facility" class="mobile-menu-link">Electron Microscopy Facility</a></dd><dd class="accordion-navigation"><a href="/content/flow-cytometry-facility" class="mobile-menu-link">Flow Cytometry Facility</a></dd><dd class="accordion-navigation"><a href="/content/genome-engineering-oxford-geo" class="mobile-menu-link">Genome Engineering Oxford (GEO)</a></dd><dd class="accordion-navigation"><a href="/content/histology-facility" class="mobile-menu-link">Histology Facility</a></dd><dd class="accordion-navigation"><a href="/content/light-microscopy-facility" class="mobile-menu-link">Light Microscopy Facility</a></dd><dd class="accordion-navigation"><a href="/content/surface-plasmon-resonance-facility" class="mobile-menu-link">Surface Plasmon Resonance Facility</a></dd><dd class="accordion-navigation"><a href="/content/james-martin-stem-cell-facility" class="mobile-menu-link">The James Martin Stem Cell Facility</a></dd></dl> </div></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/students" class="mobile-menu-link">Students</a><a href="/#acp-947" class="plus-minus">+</a><div id="acp-947" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/prospective-graduate-students" class="mobile-menu-link">Prospective Graduate Students</a><a href="/#acp-1163" class="plus-minus">+</a><div id="acp-1163" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/doctoral-studies-dunn-school" class="mobile-menu-link">Doctoral studies in the Dunn School</a><a href="/#acp-1164" class="plus-minus">+</a><div id="acp-1164" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/doctoral-studies-dunn-school" class="mobile-menu-link">Introduction</a></dd><dd class="accordion-navigation"><a href="/content/about-course" class="mobile-menu-link">About the course</a></dd><dd class="accordion-navigation"><a href="/content/how-apply" class="mobile-menu-link">How to apply</a></dd><dd class="accordion-navigation"><a href="/content/departmental-prize-studentship-competition" class="mobile-menu-link">Departmental Prize Studentship Competition</a></dd><dd class="accordion-navigation"><a href="/content/fees-and-funding" class="mobile-menu-link">Fees and funding</a></dd><dd class="accordion-navigation"><a href="/content/admissions-criteria" class="mobile-menu-link">Admissions criteria</a></dd><dd class="accordion-navigation"><a href="/content/frequently-asked-questions" class="mobile-menu-link">Frequently asked questions</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/other-dphil-programmes" class="mobile-menu-link">Other DPhil Programmes</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/graduate-student-association" class="mobile-menu-link">Graduate Student Association</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/postdocs" class="mobile-menu-link">Postdocs</a><a href="/#acp-1276" class="plus-minus">+</a><div id="acp-1276" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/funding-opportunities" class="mobile-menu-link">Funding opportunities</a></dd><dd class="accordion-navigation"><a href="/content/mentoring" class="mobile-menu-link">Mentoring</a></dd><dd class="accordion-navigation"><a href="/content/future-careers" class="mobile-menu-link">Future careers</a></dd><dd class="accordion-navigation"><a href="/content/teaching-opportunities" class="mobile-menu-link">Teaching opportunities</a></dd><dd class="accordion-navigation"><a href="/content/postdoc-association" class="mobile-menu-link">Postdoc association</a></dd><dd class="accordion-navigation"><a href="/content/postdoc-activities" class="mobile-menu-link">Postdoc activities</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/seminars" class="mobile-menu-link">Seminars</a><a href="/#acp-943" class="plus-minus">+</a><div id="acp-943" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/next-departmental-seminars" class="mobile-menu-link">Next departmental seminars</a></dd><dd class="accordion-navigation"><a href="/content/research-seminars" class="mobile-menu-link">Research Seminars</a></dd><dd class="accordion-navigation"><a href="/content/week-dunn-school" class="mobile-menu-link">This week at Dunn school</a></dd><dd class="accordion-navigation"><a href="/content/previous-departmental-seminars" class="mobile-menu-link active">Previous seminars</a></dd><dd class="accordion-navigation"><a href="/content/norman-heatley-lecture" class="mobile-menu-link">The Norman Heatley Lecture</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/news" class="mobile-menu-link">News</a><a href="/#acp-944" class="plus-minus">+</a><div id="acp-944" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/news/greaves-lab-celebrate-bhf-grant-award" class="mobile-menu-link">Greaves lab celebrate BHF grant award</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/about-us-0" class="mobile-menu-link">About us</a><a href="/#acp-1138" class="plus-minus">+</a><div id="acp-1138" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/contact-us" class="mobile-menu-link">Contact Us</a></dd><dd class="accordion-navigation"><a href="/content/working-here" class="mobile-menu-link">Working here</a><a href="/#acp-1280" class="plus-minus">+</a><div id="acp-1280" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/athena-swan" class="mobile-menu-link">Athena Swan</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/vacancies" class="mobile-menu-link">Vacancies</a><a href="/#acp-1141" class="plus-minus">+</a><div id="acp-1141" class="content"> <dl class="accordion" data-accordion ></dl> </div></dd><dd class="accordion-navigation"><a href="/content/maps-and-directions" class="mobile-menu-link">Maps and Directions</a></dd><dd class="accordion-navigation"><a href="/content/undergraduate-teaching" class="mobile-menu-link">Undergraduate Teaching</a><a href="/#acp-1253" class="plus-minus">+</a><div id="acp-1253" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/principles-pathology" class="mobile-menu-link">Principles of Pathology</a><a href="/#acp-1262" class="plus-minus">+</a><div id="acp-1262" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/heroes-pathology" class="mobile-menu-link">Heroes of Pathology</a><a href="/#acp-1311" class="plus-minus">+</a><div id="acp-1311" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/rebecca-craighill-lancefield" class="mobile-menu-link">Rebecca Craighill Lancefield</a></dd><dd class="accordion-navigation"><a href="/content/stanley-falkow" class="mobile-menu-link">Stanley Falkow</a></dd><dd class="accordion-navigation"><a href="/content/carl-nathan" class="mobile-menu-link">Carl Nathan</a></dd><dd class="accordion-navigation"><a href="/content/guy-newton" class="mobile-menu-link">Guy Newton</a></dd><dd class="accordion-navigation"><a href="/content/harry-smith" class="mobile-menu-link">Harry Smith</a></dd></dl> </div></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/final-year-honours-schools-infection-and-immunity-and-molecular-medicine" class="mobile-menu-link">Final year honours schools in Infection and Immunity and Molecular Medicine</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/content/matthew-freeman-head-department" class="mobile-menu-link">Matthew Freeman, Head of Department</a></dd><dd class="accordion-navigation"><a href="/content/obituary-professor-sir-henry-harris" class="mobile-menu-link">Obituary of Professor Sir Henry Harris</a></dd><dd class="accordion-navigation"><a href="/content/discovery-penicillin" class="mobile-menu-link">The Discovery of Penicillin</a></dd><dd class="accordion-navigation"><a href="/content/fusion-magazine" class="mobile-menu-link">Fusion Magazine</a></dd><dd class="accordion-navigation"><a href="/content/timeline" class="mobile-menu-link">History of the Dunn School</a></dd><dd class="accordion-navigation"><a href="/content/public-engagement-and-outreach" class="mobile-menu-link">Public engagement and outreach</a><a href="/#acp-1261" class="plus-minus">+</a><div id="acp-1261" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/content/examples-our-public-engagement-and-outreach-activities" class="mobile-menu-link">Examples of our public engagement and outreach activities</a></dd><dd class="accordion-navigation"><a href="/content/how-we-help-make-study-science-and-medicine-more-accessible" class="mobile-menu-link">How we help to make the study of science and medicine more accessible</a></dd><dd class="accordion-navigation"><a href="/content/other-activities" class="mobile-menu-link">Other activities</a></dd></dl> </div></dd></dl> </div></dd></dl>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-search-form"  >
+  
+      
+  
+  <div class="pane-content">
+    <form action="/content/previous-departmental-seminars" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline row collapse">
+  <div class="small-10 large-10 medium-10 columns"><div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." class="small-8 columns form-text" placeholder="Search" type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+</div>
+  <div class="small-2 large-2 medium-2 columns"><button class="postfix small-4 columns form-submit" id="edit-submit--2" name="op" value="GO!" type="submit">GO!</button>
+</div>
+
+  <input type="hidden" name="form_build_id" value="form-apShtNLgwJxYFz08WCRnWNTe6Xwttr9KnEDKBAttnEI" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+
+ 
+</div></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-3 mobile-contact-box"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="#" class="contact-link">Contact</a></p>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+  
+</section>            
+          </div>
+            </div> 
+  <main role="main" class="row l-main">
+			<div class="large-12 main columns">
+      
+      <a id="main-content"></a>
+
+      
+      
+                            
+      
+        
+      
+        <div class="row row-top" > 
+     <div class="large-12 columns collapse top-column">
+          </div>
+  </div>
+  <div class="row row-middle collapse">
+    <div class="large-3 left-column columns">
+      <div class="panel-pane pane-menu-tree pane-main-menu"  >
+  
+        <h2 class="pane-title">
+      <a href="/content/seminars" class="active-trail">Seminars</a>    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-1242"><a href="/content/next-departmental-seminars">Next departmental seminars</a></li>
+<li class="leaf menu-mlid-1408"><a href="/content/research-seminars">Research Seminars</a></li>
+<li class="leaf menu-mlid-1241"><a href="/content/week-dunn-school">This week at Dunn school</a></li>
+<li class="leaf active-trail active menu-mlid-1243"><a href="/content/previous-departmental-seminars" class="active-trail active">Previous seminars</a></li>
+<li class="last leaf menu-mlid-1252"><a href="/content/norman-heatley-lecture">The Norman Heatley Lecture</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-9 right-column columns collapse">
+      <div class="panel-pane pane-node-title"  >
+  
+      
+  
+  <div class="pane-content">
+    <h2>Previous Departmental Seminars</h2>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-list-seminars-panel-pane-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-list-seminars view-id-list_seminars view-display-id-panel_pane_1 view-dom-id-dcc10b45f538c7cc8863fdf1a457b475">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-speaker">        <span class="field-content">Dr Pavel Tolar</span>  </div>  
+  <div class="views-field views-field-field-speakers-origin">        <span class="field-content">National Institute of Medical Research </span>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2015-06-17T13:00:00+01:00">1:00pm</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2015-06-17T14:00:00+01:00">2:00pm</span> 17th Jun 2015</span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/events/mechanical-forces-b-cell-activation">Mechanical Forces in B cell activation</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-speaker">        <span class="field-content">Professor Mark Cragg</span>  </div>  
+  <div class="views-field views-field-field-speakers-origin">        <span class="field-content">University of Southampton </span>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2015-06-10T13:00:00+01:00">1:00pm</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2015-06-10T14:00:00+01:00">2:00pm</span> 10th Jun 2015</span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/events/fc-receptors-critical-regulators-antibody-biology-and-therapy">Fc receptors - Critical regulators of antibody biology and therapy</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-speaker">        <span class="field-content">Dr Jan Rehwinkel</span>  </div>  
+  <div class="views-field views-field-field-speakers-origin">        <span class="field-content">MRC Human Immunology Unit, WIMM, University of Oxford</span>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2015-05-15T14:00:00+01:00">2:00pm</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2015-05-15T15:00:00+01:00">3:00pm</span> 15th May 2015</span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/events/sensing-and-restricting-innate-immune-control-hiv">Sensing and Restricting: Innate immune control of HIV</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-speaker">        <span class="field-content">Professor Elly Tanaka</span>  </div>  
+  <div class="views-field views-field-field-speakers-origin">        <span class="field-content">Technical University of Dresden, DFG Research Centre for Regenerative Therapies</span>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2015-05-08T14:00:00+01:00">2:00pm</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2015-05-08T15:00:00+01:00">3:00pm</span> 8th May 2015</span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/events/conserved-and-non-conserved-pathways-underlying-vertebrate-limb-regeneration">Conserved and non-conserved pathways underlying vertebrate limb regeneration</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-speaker">        <span class="field-content">Dr Adele Marston</span>  </div>  
+  <div class="views-field views-field-field-speakers-origin">        <span class="field-content">Wellcome Trust Centre for Cell Biology, University of Edinburgh</span>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2015-04-24T14:00:00+01:00">2:00pm</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2015-04-24T15:00:00+01:00">3:00pm</span> 24th Apr 2015</span></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/events/pericentromeres-and-chromosome-segregation-mitosis-and-meiosis">Pericentromeres and chromosome segregation in mitosis and meiosis</a></span>  </div>  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="pagination-centered"><div class="item-list"><ul class="pagination pager"><li class="current first"><a href="">1</a></li>
+<li><a title="Go to page 2" href="/content/previous-departmental-seminars?page=1">2</a></li>
+<li><a title="Go to page 3" href="/content/previous-departmental-seminars?page=2">3</a></li>
+<li><a title="Go to page 4" href="/content/previous-departmental-seminars?page=3">4</a></li>
+<li><a title="Go to page 5" href="/content/previous-departmental-seminars?page=4">5</a></li>
+<li><a title="Go to page 6" href="/content/previous-departmental-seminars?page=5">6</a></li>
+<li><a title="Go to page 7" href="/content/previous-departmental-seminars?page=6">7</a></li>
+<li><a title="Go to page 8" href="/content/previous-departmental-seminars?page=7">8</a></li>
+<li><a title="Go to page 9" href="/content/previous-departmental-seminars?page=8">9</a></li>
+<li class="unavailable"><a href="">&hellip;</a></li>
+<li class="arrow"><a title="Go to next page" href="/content/previous-departmental-seminars?page=1">next ›</a></li>
+<li class="arrow last"><a title="Go to last page" href="/content/previous-departmental-seminars?page=13">last »</a></li>
+</ul></div></div>  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+  
+    </div>
+			<!--/.main region -->
+
+    
+      </main>
+			<!--/.main-->
+
+  
+  
+  <!--.l-footer-->
+	<footer class="l-footer panel" role="contentinfo">
+	<div class="footer-inner">
+    	<div class="squeeze row">
+                  <div class="footer large-12 medium-12 small-12 columns">
+                <section class="block block-panels-mini block-panels-mini-footer-mini-panel">
+
+      
+      <div id="mini-panel-footer_mini_panel">  <div class="row row-top">
+    <div class="large-12 columns"><div class="panel-pane pane-custom pane-7 social-media-box"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a class="social-icon facebook" href="https://www.facebook.com/groups/1629428963946058" target="_blank">.</a><a class="social-icon twitter" href="https://twitter.com/dunn_school" target="_blank">.</a></p>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+  <div class="row row-middle">
+    <div class="large-3 medium-3 columns">
+      <div class="panel-pane pane-menu-tree pane-main-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-2 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-1007"><a href="/content/research">Research</a></li>
+<li class="leaf has-children menu-mlid-947"><a href="/content/students">Students</a></li>
+<li class="leaf has-children menu-mlid-1276"><a href="/content/postdocs">Postdocs</a></li>
+<li class="leaf has-children active-trail menu-mlid-943"><a href="/content/seminars" class="active-trail">Seminars</a></li>
+<li class="leaf has-children menu-mlid-944"><a href="/content/news">News</a></li>
+<li class="last leaf has-children menu-mlid-1138"><a href="/content/about-us-0">About us</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-menu-tree pane-menu-middle-footer-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-menu-middle-footer-menu-1 menu-name-menu-middle-footer-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1303"><a href="/content/contact-us" title="">Contact</a></li>
+<li class="leaf menu-mlid-1308"><a href="https://sharepoint.nexus.ox.ac.uk/CookieAuth.dll?GetLogon?curl=Z2FsitesZ2FPathZ2FIntranetZ2FPagesZ2Fdefault.aspx&amp;reason=0&amp;formdir=6" title="">Intranet</a></li>
+<li class="leaf menu-mlid-1309"><a href="https://owa.nexus.ox.ac.uk/CookieAuth.dll?GetLogon?curl=Z2FowaZ2F&amp;reason=0&amp;formdir=2" title="">Nexus login</a></li>
+<li class="leaf menu-mlid-1304"><a href="/search/node" title="">Search</a></li>
+<li class="leaf menu-mlid-1310"><a href="/content/maps-and-directions" title="">Maps and directions</a></li>
+<li class="last leaf menu-mlid-1305"><a href="/content/vacancies" title="">Vacancies</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-4 medium-4 columns">
+      <div class="panel-pane pane-custom pane-4 float-right address-box"  >
+  
+      
+  
+  <div class="pane-content">
+    <p>Sir william dunn school of pathology<br />
+University of Oxford<br />
+South Parks Road<br />
+Oxford, OX1 3RE<br />
+Tel: +44 1865 275500</p>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-5 medium-5 columns">
+      <div class="panel-pane pane-custom pane-5 footer-logos"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="http://www.athenaswan.org.uk" target="_blank"><img alt="" src="../..//files/AS-bronze-award.png" /></a><a href="/"><img alt="" src="../..//files/logo2.png" /></a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-6 copyright"  >
+  
+      
+  
+  <div class="pane-content">
+    <div>© Sir William Dunn School of Pathology 2015 All Rights Reserved</div>
+<div class="credits-link"><a href="/node/330">Credits</a></div>
+<div class="credits-link"><a href="/content/privacy-policy">Privacy policy</a></div>
+  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div>  
+</section>          </div>
+        
+                </div> 
+      </div>
+	</footer>
+	<!--/.footer-->
+
+  
+  </div>
+		<!--/.page -->
+
+		<a class="exit-off-canvas"></a>
+	</div>
+</div>
+<!-- .off-canvas-list -->
+
+      <script>
+    (function ($, Drupal, window, document, undefined) {
+      $(document).foundation();
+    })(jQuery, Drupal, this, this.document);
+  </script>
+</body>
+</html>

@@ -1,0 +1,1347 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://podcasts.ox.ac.uk/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Oxford Martin School: Public Lectures and Seminars | University of Oxford Podcasts - Audio and Video Lectures</title>
+  <style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/modules/system/system.base.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.menus.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.messages.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.theme.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/modules/field/theme/field.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/google_appliance/theme/google_appliance.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/node/node.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/search/search.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/user/user.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/views/css/views.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/default.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/layout.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/style.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/podcasts/themes/betacast/custom.css?nps7e5");
+</style>
+<style type="text/css" media="print">
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/print.css?nps7e5");
+</style>
+  <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie6.css";</style>
+<![endif]--><!--[if gt IE 6]>
+      <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie7.css";</style>
+<![endif]--><!--[if gt IE 7]>
+      <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie8.css";</style>
+<![endif]-->  <script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/drupal.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/ajax.js?v=7.35"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/views/js/base.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/progress.js?v=7.35"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/views/js/ajax_view.js?nps7e5"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jwplayer.key="1DVFGWjiExVevwKOLsJRD3aMUuMGRzDelQvniVm0wDE="
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"betacast","theme_token":"-_TYPHQw6iLgWr6yuu3zERJvnYO9x3349Bl9BTNsxJ4","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"sites\/all\/modules\/google_appliance\/theme\/google_appliance.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/podcasts\/themes\/betacast\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/podcasts\/themes\/betacast\/custom.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:0db0ba0f9adba67c180beaabd861d384":{"view_name":"taxonomy_term","view_display_id":"page","view_args":"15789","view_path":"taxonomy\/term\/15789","view_base_path":"taxonomy\/term\/%","view_dom_id":"0db0ba0f9adba67c180beaabd861d384","pager_element":0},"views_dom_id:715ca3f561431e2174f55ed9ee84072f":{"view_name":"taxonomy_term_files","view_display_id":"subscribe","view_args":"15789","view_path":"taxonomy\/term\/15789","view_base_path":null,"view_dom_id":"715ca3f561431e2174f55ed9ee84072f","pager_element":0},"views_dom_id:5a19f708f9f8adae7eddf9653a711a30":{"view_name":"taxonomy_term","view_display_id":"series","view_args":"15789","view_path":"taxonomy\/term\/15789","view_base_path":"taxonomy\/term\/%","view_dom_id":"5a19f708f9f8adae7eddf9653a711a30","pager_element":0},"views_dom_id:3bde6754d870cc252b551f426e4e0c44":{"view_name":"taxonomy_term","view_display_id":"units","view_args":"15789","view_path":"taxonomy\/term\/15789","view_base_path":"taxonomy\/term\/%","view_dom_id":"3bde6754d870cc252b551f426e4e0c44","pager_element":0},"views_dom_id:6988d396269041758da6319c80966ba5":{"view_name":"taxonomy_term_files","view_display_id":"subscribe","view_args":"15789","view_path":"taxonomy\/term\/15789","view_base_path":null,"view_dom_id":"6988d396269041758da6319c80966ba5","pager_element":0},"views_dom_id:dddecf694505cb24ec2b75ed92054074":{"view_name":"taxonomy_term","view_display_id":"series","view_args":"15789","view_path":"taxonomy\/term\/15789","view_base_path":"taxonomy\/term\/%","view_dom_id":"dddecf694505cb24ec2b75ed92054074","pager_element":0},"views_dom_id:5310e8410c75103a0494d4315265cd1d":{"view_name":"taxonomy_term","view_display_id":"units","view_args":"15789","view_path":"taxonomy\/term\/15789","view_base_path":"taxonomy\/term\/%","view_dom_id":"5310e8410c75103a0494d4315265cd1d","pager_element":0}}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26636073-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-15789" >
+  <div id="googledesc">
+    Over 4000 free audio and video lectures, seminars and teaching resources from Oxford University.
+  </div>
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    <div id="skipnav"><a href="#content">Skip to Content</a> <a href="#navigation">Skip to Navigation</a></div>  
+<div id="page-wrapper">
+<div id="page" class="page with-navigation with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo-title">
+          <a href="http://www.ox.ac.uk/" title="University of Oxford Website" rel="home" id="logo">
+        <img src="http://podcasts.ox.ac.uk/sites/podcasts/themes/betacast/logo.png" alt="University of Oxford Logo"/>
+      </a>
+    
+          <div id="name-and-slogan">
+
+                    <div id="site-name">
+              <a href="/" title="Podcasts Homepage" rel="home">Podcasts</a>
+            </div>
+        
+        
+      </div>
+    	
+    </div> <!-- /logo-title -->
+          <div id="header-region">
+          <div class="region region-header">
+    <div id="block-google_appliance-ga_block_search_form" class="block block-google-appliance block-odd first last block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <form action="/series/oxford-martin-school-public-lectures-and-seminars" method="post" id="google-appliance-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search Google Appliance</h2>
+    <div class="form-item form-type-textfield form-item-search-keys">
+  <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+ <input type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-gtW9cNlM3gUUwc5JtvurVuU7qjePybDVR9uE--ueBWY" />
+<input type="hidden" name="form_id" value="google_appliance_block_form" />
+  
+</div>
+</div></form>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+      </div>
+    
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+
+    <div id="content">
+      <div id="content-inner" class="inner column center">
+
+                  <div id="content-header">
+
+            
+                          <div id="highlight">  <div class="region region-highlight">
+    <div id="block-views-taxonomy_term_block-block_1" class="block block-views block-odd first last block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-block view-id-taxonomy_term_block view-display-id-block_1 view-dom-id-4cef0ba2f75130ca63d38ae42a426514">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../">Home</a> &raquo; <a href="../series">Series</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+</div>
+            	    
+	    
+                          <h1 class="title">Oxford Martin School: Public Lectures and Seminars</h1>
+            
+                         
+            
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd first block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term view-id-taxonomy_term view-display-id-page view-dom-id-0db0ba0f9adba67c180beaabd861d384">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-446d77835a9b17b0e519b41f23cac866" class="block block-views block-even block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-block view-id-taxonomy_term_block view-display-id-block_series_details view-dom-id-12e461ebe7ecc01ab1fa33318aba603c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-series-album-cover">        <div class="field-content"><img typeof="foaf:Image" src="http://podcasts.ox.ac.uk/sites/podcasts/files/styles/large/public/images/series/originals/jmar1400.jpg?itok=GVheVT9b" width="220" height="220" /></div>  </div>  
+  <div class="views-field views-field-nothing-2">    <h3 class="views-label views-label-nothing-2">Relevant Links</h3>    <span class="field-content"><ul>
+<li><a href="http://www.oxfordmartin.ox.ac.uk/podcasts/">Oxford Martin School Podcasts</a></li>
+<li><a href="http://www.oxfordmartin.ox.ac.uk/" target="_blank">Oxford Martin School</a></li>
+<li><a href="http://www.socsci.ox.ac.uk/">Social Sciences Division</a></li>
+<li><a href="http://www.campaign.ox.ac.uk/" target="_blank">The Campaign</a></li>
+<li><a href="http://www.ox.ac.uk/welcome/" target="_blank">Welcome to the University</a></li>
+</ul></span>  </div>  
+  <div class="views-field views-field-description">        <div class="field-content"><p>Public Lectures and Seminars from the Oxford Martin School, University of Oxford. Humanity at the crossroads: Bringing together the best minds to tackle the toughest challenges of the 21st century.</p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-taxonomy_term_files-subscribe" class="block block-views block-odd block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-subscribe view-dom-id-715ca3f561431e2174f55ed9ee84072f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><strong>Subscribe: </strong></span>  </div>  
+  <div class="views-field views-field-field-itunes-u-audio-code">        <div class="field-content"><span class="itunesu"><a href="https://itunes.apple.com/gb/itunes-u/id610290348">iTunes U Audio</a></span></div>  </div>  </div>
+    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-audio">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-mediapub-nid">        <div class="field-content"><span class="feed_audio"><a href="http://mediapub.it.ox.ac.uk/feeds/128981/audio.xml">Audio RSS Feed</a></span></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-video">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-mediapub-nid">        <div class="field-content"><span class="feed_video"><a href="http://mediapub.it.ox.ac.uk/feeds/128981/video.xml">Video RSS Feed</a></span></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-document">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-taxonomy_term-series" class="block block-views block-even last block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term view-id-taxonomy_term view-display-id-series view-dom-id-5a19f708f9f8adae7eddf9653a711a30">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-7" >
+         <thead>
+      <tr>
+                  <th class="views-field views-field-counter" >
+            #          </th>
+                  <th class="views-field views-field-field-licence" >
+                      </th>
+                  <th class="views-field views-field-title" >
+            Episode Title          </th>
+                  <th class="views-field views-field-body" >
+            Description          </th>
+                  <th class="views-field views-field-field-people" >
+            People          </th>
+                  <th class="views-field views-field-created" >
+            Date          </th>
+                  <th class="views-field views-field-field-media-files" >
+            Media Files          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-counter" >
+            1          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/fight-womens-rights-learning-success">The fight for women&#039;s rights: learning from success</a>          </td>
+                  <td class="views-field views-field-body" >
+            Baroness Helena Kennedy QC gives a talk for the Oxford Martin School on women&#039;s rights.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/helena-kennedy" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Helena Kennedy</a>          </td>
+                  <td class="views-field views-field-created" >
+            24 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039487/download?token=O579o_14y6Ft8lSfqKbv9JMoU8pHX2d-kyhgTRy6uR4" type="audio/mpeg; length=49789596"></a> <span class="file-size">(47.48 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039488/download?token=ooEXSRv-3le8IUG3jBbwEzdLoHOs8oZKW1naimt715s" type="video/mp4; length=268234261"></a> <span class="file-size">(255.81 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            2          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/capital-failure-restoring-trust-financial-system">Capital failure - restoring trust in the financial system</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor David Vines gives a talk onthe financial system.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/david-vines" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">David Vines</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039457/download?token=pCbm1VfyL2_vLIeEVnPKjRpvg7utBBjO2uPaMLJVJvQ" type="video/mp4; length=214948341"></a> <span class="file-size">(204.99 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039459/download?token=cKpZGkAlLFqVdqpo9i74X64xpUwDKqyX4tBNp21prBg" type="audio/mpeg; length=49787089"></a> <span class="file-size">(47.48 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            3          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/oxford-and-next-generation-mobile-health">Oxford and the next-generation of mobile health</a>          </td>
+                  <td class="views-field views-field-body" >
+            David Clifton, Institute of Biomedical Engineering, gives a talk for Oxford Martin School.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/david-clifton" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">David Clifton</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039458/download?token=K3kBnzZlom_UVE_MwEML4_ga22Kpazoy9uBpZvX2CK4" type="video/mp4; length=212412312"></a> <span class="file-size">(202.57 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039460/download?token=lswdmCoLaYULTe0tqVZiqQQEt2urD3EfjVYxCUCKhhw" type="audio/mpeg; length=53802318"></a> <span class="file-size">(51.31 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            4          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/butterfly-defect-how-globalization-creates-systemic-risks-and-what-do-about-it">The butterfly defect: how globalization creates systemic risks, and what to do about it</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Ian Goldin gives a talk on globalization and systemic risk.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039447/download?token=3OsKk9ivm8PacLATK2JFktqxNO8OmhTs3fnUynqjLqg" type="video/mp4; length=165356065"></a> <span class="file-size">(157.7 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039448/download?token=PIErH-gDnes2IS4UmT_i1_D2sijZi7w4o8trwf5iGz8" type="audio/mpeg; length=43090442"></a> <span class="file-size">(41.09 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            5          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/planet-full">Is the Planet Full?</a>          </td>
+                  <td class="views-field views-field-body" >
+             Charles Godfray, Ian Goldin, Sarah Harper, Toby Ord and Yadvinder Malhi discuss whether the planet is full.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/charles-godfray" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Charles Godfray</a>, <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>, <a href="/people/sarah-harper" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sarah Harper</a>, <a href="/people/toby-ord" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Toby Ord</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039449/download?token=FGvNqWQP-9VN7dHx3Oy-4IhLKxSKaBw_j5fmnznt8X0" type="video/mp4; length=222307788"></a> <span class="file-size">(212.01 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039450/download?token=bXPr7FFII_QIhTtSjp_EDsuekL5dcZtanLAzJL8rbhU" type="audio/mpeg; length=40120946"></a> <span class="file-size">(38.26 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            6          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/well-fed-health-and-environmental-implications-our-food-choices">Well fed? The health and environmental implications of our food choices </a>          </td>
+                  <td class="views-field views-field-body" >
+            Mike Rayner, Susan Jebb and Tara Garnett give a talk about food and feeding the population.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/mike-rayner" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Mike Rayner</a>, <a href="/people/susan-jebb" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Susan Jebb</a>, <a href="/people/tara-garnett" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Tara Garnett</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039451/download?token=teIz8AHF4SDymfZNZpLy6WtQyLfACJdVbWfhioZLXos" type="video/mp4; length=255523500"></a> <span class="file-size">(243.69 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039452/download?token=VPsMF8tQkvhRTJflwIalEMIQYtT6n9o2Z1pyeMtSgHM" type="audio/mpeg; length=62387304"></a> <span class="file-size">(59.5 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            7          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/world-population-and-human-capital-21st-century">World population and human capital in the 21st century</a>          </td>
+                  <td class="views-field views-field-body" >
+            Andrew Dilnot, David Coleman, Francesco Billari, Sarah Harper and Wolfgang Lutz give a talk about world population.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/andrew-dilnot" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Andrew Dilnot</a>, <a href="/people/david-coleman" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">David Coleman</a>, <a href="/people/francesco-billari" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Francesco Billari</a>, <a href="/people/sarah-harper" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sarah Harper</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039453/download?token=3CT56GBQRTrjWzesYQHP6heJnlVjg0mUql3uNucsuKU" type="video/mp4; length=224394301"></a> <span class="file-size">(214 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039454/download?token=A1289imkUaV2ZXnCWKtujGAA7I_7np1BZmREbehfiPM" type="audio/mpeg; length=49351993"></a> <span class="file-size">(47.07 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            8          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/eradicating-hepatitis-c-and-hiv-progress-and-challenges-next-ten-years">Eradicating Hepatitis C and HIV: progress and challenges for the next ten years</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr John Frater, Principal Investigator, Institute for Emerging Infections and Dr Ellie Barnes, Principal Investigator, Institute for Emerging Infections.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/ellie-barnes" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ellie Barnes</a>, <a href="/people/john-frater" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">John Frater</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039445/download?token=5ism5gmVlUezIcccoXkcSNvJHr8Rxvs0Nwe8_r_YgMQ" type="video/mp4; length=241545829"></a> <span class="file-size">(230.36 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039455/download?token=BfKyA7HEKjsNDY0FZY-nKLL0TIvVffrN8J73v8IlhfM" type="audio/mpeg; length=61958164"></a> <span class="file-size">(59.09 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            9          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/new-strategies-disease-prevention-and-management-infancy-old-age"> New strategies for disease prevention and management from infancy to old age</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Terry Dwyer, Executive Director, The George Institute for Global Health and Dr Kazem Rahimi, Deputy Director, The George Institute for Global Health.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/kazem-rahimi" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Kazem Rahimi</a>, <a href="/people/terry-dwyer" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Terry Dwyer</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039446/download?token=MtRiwPR-HZPe6Sn60dpDGeXZQ0nJdcysaNBp5DBCWfU" type="video/mp4; length=177046895"></a> <span class="file-size">(168.85 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039456/download?token=YwWtMsxVZboydHOXVpLXcXgPxhGnisEPkr1myGyipGg" type="audio/mpeg; length=49202468"></a> <span class="file-size">(46.92 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            10          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/why-do-we-need-reconstruct-drug-discovery">Why do we need to reconstruct drug discovery? </a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Javier Lezaun and Professor Chas Bountra give a talk about drug discovery.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/chas-bountra" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Chas Bountra</a>, <a href="/people/javier-lezaun" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Javier Lezaun</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039440/download?token=Q_6WF7KWkEfqjOvZ_0usD3LJfSZC9DB-HCC9HlXYMGU" type="video/mp4; length=270243736"></a> <span class="file-size">(257.72 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039444/download?token=NAb7tYlh52kAF8cUGPUGtmLu3I5fEj2N2EK4jNSW8vY" type="audio/mpeg; length=63295425"></a> <span class="file-size">(60.36 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            11          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/strategies-vaccines-21st-century">Strategies for vaccines for the 21st century</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Susan Lea, Professor Christoph Tang, Professor Jeffrey Almond and Dr Ian Feavers discuss strategies for vaccines for the 21st century.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/susan-lea" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Susan Lea</a>, <a href="/people/christoph-tang" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Christoph Tang</a>, <a href="/people/jeffrey-almond" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Jeffrey Almond</a>, <a href="/people/ian-feavers" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Feavers</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039443/download?token=h465FQh2gTZLcDIa9EAp4GVPhleDQBprcBAZgkeEpqQ" type="audio/mpeg; length=55170612"></a> <span class="file-size">(52.61 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039441/download?token=j5xQhurlQA5GDUlSYgShmm46Wm11s3A5nvAapM0dUMI" type="video/mp4; length=265333648"></a> <span class="file-size">(253.04 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            12          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/superintelligence-paths-dangers-strategies">Superintelligence: paths, dangers, strategies</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Bostrom on his book, Superintelligence: Paths, Dangers, Strategies.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/nick-bostrom" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nick Bostrom</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Feb 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039438/download?token=4XopzSsfqnFe5rJZZqSzwAXjd_69jYyrkGiGiZ76I2c" type="audio/mpeg; length=51761946"></a> <span class="file-size">(49.36 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            13          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/science-and-future-death-nothing-more-certain-oxford-literary-festival-0">Science and the future: Death - nothing more certain? - Oxford Literary Festival</a>          </td>
+                  <td class="views-field views-field-body" >
+            From Neolithic burials to Mozart&#039;s Requiem and the novels of Martin Amis, humans have fashioned cultural responses to the inevitability of each individual&#039;s demise.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/donna-dickenson" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Donna Dickenson</a>, <a href="/people/adam-rutherford" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Adam Rutherford</a>, <a href="/people/anders-sandberg" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Anders Sandberg</a>, <a href="/people/georgina-ferry" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Georgina Ferry</a>          </td>
+                  <td class="views-field views-field-created" >
+            18 Jun 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028064/download?token=_crTSC73yDZkMsxjo7eXQl0HIjuILkJlIE26g8e5c70" type="video/mp4; length=238386182"></a> <span class="file-size">(227.34 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            14          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/innovation-or-stagnation-oxford-union-debate">Innovation or stagnation - Oxford Union Debate</a>          </td>
+                  <td class="views-field views-field-body" >
+            The Innovation Enigma - Is the current growth crisis a result of decades of technological stagnation in a risk-averse society?          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>, <a href="/people/peter-thiel" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Peter Thiel</a>, <a href="/people/seung-yoon-lee" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Seung-yoon Lee</a>, <a href="/people/mark-shuttleworth" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Mark Shuttleworth</a>          </td>
+                  <td class="views-field views-field-created" >
+            22 May 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1029736/download?token=5jI1zXnkjoSbfV0IoiMtlgN2LjIzTlnkGJN4XqE5zNc" type="audio/mpeg; length=29351484"></a> <span class="file-size">(27.99 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028117/download?token=xb-GKOBZBoSzhqtsQfUwz2unvGm7DUTo21IPhUyLcUI" type="video/mp4; length=236699137"></a> <span class="file-size">(225.73 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            15          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/transformation-humankind">The Transformation of Humankind</a>          </td>
+                  <td class="views-field views-field-body" >
+            With Dr James Martin, Founder, Oxford Martin School.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/andrew-hamilton" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Andrew Hamilton</a>, <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>, <a href="/people/james-marrow" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">James Marrow</a>          </td>
+                  <td class="views-field views-field-created" >
+            22 May 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028118/download?token=8L8hTtw9r6U6ju42a9-mt5jwdMfCrflbSckcF-Bx0KY" type="video/mp4; length=497172241"></a> <span class="file-size">(474.14 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1029737/download?token=MsMJiS_rrASQK_ROFiYkIuv9GTyf_TFGfrDxriruA3g" type="audio/mpeg; length=68194637"></a> <span class="file-size">(65.04 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            16          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/future-energy-and-transport">The Future of Energy and Transport</a>          </td>
+                  <td class="views-field views-field-body" >
+            With Elon Musk, CEO and Product Architect of Tesla Motors and the CEO/CTO of Space Exploration Technologies (SpaceX).          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/elon-musk" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Elon Musk</a>          </td>
+                  <td class="views-field views-field-created" >
+            22 May 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1029738/download?token=iVEjYC3b4jrBM7MHdrKt2KgLtCvJEB5RVBZ6dgYyYxk" type="audio/mpeg; length=51785825"></a> <span class="file-size">(49.39 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028119/download?token=bfYS8axkCkR1eUA45emVKkMo6_okVSttgNBrvLYCSII" type="video/mp4; length=598338631"></a> <span class="file-size">(570.62 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            17          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/ethics-and-infectious-disease-navigating-moral-maze-pandemic-control">Ethics and infectious disease - navigating the moral maze of pandemic control</a>          </td>
+                  <td class="views-field views-field-body" >
+            With Professor Paul Klenerman Principal Investigator, Institute for Emerging Infections.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/paul-klenerman" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Paul Klenerman</a>, <a href="/people/bennertt-foddy" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Bennertt Foddy</a>          </td>
+                  <td class="views-field views-field-created" >
+            22 May 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028120/download?token=JG10UkjI8V4NPJ2qCSQhGb9GnM265bMnidEe-ezsQWU" type="video/mp4; length=245949777"></a> <span class="file-size">(234.56 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1029739/download?token=XGIHWnA3XqoJEOM3jihcl2ogMkSqdSGS4vopB-vskyY" type="audio/mpeg; length=45434153"></a> <span class="file-size">(43.33 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            18          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/ethics-and-plant-science-improving-food-yields-changing-environment">Ethics and plant science - improving food yields in a changing environment</a>          </td>
+                  <td class="views-field views-field-body" >
+            With Professor Liam Dolan and Professor Jane Langdale, Co-Directors, Plants for the 21st Century Institute.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/liam-dolan" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Liam Dolan</a>, <a href="/people/jane-langdale" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Jane Langdale</a>, <a href="/people/julian-savulescu" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Julian Savulescu</a>          </td>
+                  <td class="views-field views-field-created" >
+            22 May 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1029740/download?token=rJGvxqOUlW1oSOkwlCKO7dWJsq9YtqXKR3ZzaOuZ3Xk" type="audio/mpeg; length=44243921"></a> <span class="file-size">(42.19 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028121/download?token=HUPD7iPyb--JRTkHovB1jvN5srX2cgOvBypsbM6sw70" type="video/mp4; length=239502730"></a> <span class="file-size">(228.41 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            19          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/resource-stewardship-can-we-develop-new-common-sense-morality">Resource stewardship - can we develop a new common sense morality?</a>          </td>
+                  <td class="views-field views-field-body" >
+            With Professor Myles Allen, Co-Director, Oxford Martin Programme on Resource Stewardship. You can show people all the evidence in the world about climate change, but if the policy debate is framed in an intractable way, it won&#039;t make any difference.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/myles-allen" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Myles Allen</a>, <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>          </td>
+                  <td class="views-field views-field-created" >
+            22 May 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1029741/download?token=DFclAlOeqZGEOSDw296TLMORcvEaWjTeNB0E482GULQ" type="audio/mpeg; length=52676525"></a> <span class="file-size">(50.24 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028123/download?token=C0vO0zMmhECvXD_uFZuhZPVrBkvReM-zBvcxAnZgvWo" type="video/mp4; length=285164837"></a> <span class="file-size">(271.95 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            20          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/killing-computers-ethics-autonomous-and-remote-controlled-weapon">Killing with computers - the ethics of autonomous and remote controlled weapon</a>          </td>
+                  <td class="views-field views-field-body" >
+            Remote controlled and autonomous robotic weapons are bringing new levels of complexity to modern warfare. It&#039;s when such robots are designed as lethal weapons that the threshold for moral justification gets higher.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/alex-leveringhaus" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Alex Leveringhaus</a>, <a href="/people/dapo-akande" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dapo Akande</a>, <a href="/people/bennett-foddy" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Bennett Foddy</a>          </td>
+                  <td class="views-field views-field-created" >
+            22 May 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1029734/download?token=bHGwsBKHXMkgplpNgVIe51bEqWB1QpkTRlU3q9ltjfY" type="audio/mpeg; length=63713279"></a> <span class="file-size">(60.76 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028114/download?token=qT_umTUtSiCymoKfdip8pc8jUTNJ68kEWMoTYX4lsu0" type="video/mp4; length=344178072"></a> <span class="file-size">(328.23 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            21          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/reviving-spirit-innovation">Reviving the Spirit of Innovation</a>          </td>
+                  <td class="views-field views-field-body" >
+            With Kary Kasparov, world chess champion, writer and political activist. The world we live in now is very different from the one that was imagined 50 years ago.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/gary-kasparov" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Gary Kasparov</a>, <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>          </td>
+                  <td class="views-field views-field-created" >
+            22 May 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028124/download?token=ZDzcP95wwp_ftU-dx6lQV6yuQNfBR0oM3AF6RuWaEjY" type="video/mp4; length=597601599"></a> <span class="file-size">(569.92 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1029742/download?token=KReRUTb2wWsDmM-DUT3ZRqlF0aaalJAzYyqSCzB2g1Q" type="audio/mpeg; length=48184423"></a> <span class="file-size">(45.95 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            22          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/pandemics-can-we-eliminate-major-worldwide-epidemics">Pandemics - Can we eliminate major worldwide epidemics?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Larry Brilliant, President of the Skoll Global Threats Fund, gives a talk for the Oxford Martin School.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/larry-brilliant" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Larry Brilliant</a>          </td>
+                  <td class="views-field views-field-created" >
+            06 Nov 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030642/download?token=fdxomZ0v00NAO-_xPjfAQdUSaNQ3Bp19bLQuNHQYWLg" type="audio/mpeg; length=22551087"></a> <span class="file-size">(21.51 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            23          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/doing-capitalism-innovation-economy">Doing capitalism in the innovation economy</a>          </td>
+                  <td class="views-field views-field-body" >
+            William H. Janeway CBE, Senior Advisor and Managing Director at Warburg Pincus, gives a talk for the Oxford Martin School.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/william-h-janeway" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">William H Janeway</a>          </td>
+                  <td class="views-field views-field-created" >
+            06 Nov 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030663/download?token=FJ6lS-soXPWw2cUnt9vWmhuasJURlEDr4t1pJzRVnYw" type="audio/mpeg; length=46471653"></a> <span class="file-size">(44.32 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            24          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/hybrid-reality-emerging-human-technology-co-evolution">Hybrid reality: the emerging human-technology co-evolution</a>          </td>
+                  <td class="views-field views-field-body" >
+            Parag Khanna and Ayesha Khanna; Directors of The Hybrid Reality Institute, gives a talk for the Oxford Martin School public lecture series. With Professor Ian Goldin; Director, Oxford Martin Institute.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/parag-khanna" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Parag Khanna</a>, <a href="/people/ayesha-khanna" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ayesha Khanna</a>, <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>          </td>
+                  <td class="views-field views-field-created" >
+            19 May 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031367/download?token=-8U7hb_eGFSpb0ip3h42q3eexf9tn3S6NPT27TM9rMY" type="audio/mpeg; length=40889427"></a> <span class="file-size">(39 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            25          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/catastrophic-dehumanization">Catastrophic dehumanization</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Thomas Homer-Dixon gives a talk on Dehumanization for the Oxford Martin School Public Lectures series. Introduced by Professor Ian Goldin.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/thomas-homer-dixon" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Thomas Homer-Dixon</a>          </td>
+                  <td class="views-field views-field-created" >
+            19 May 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031368/download?token=fgXr-ARLruESPh_628bO-n3obVF2J2qHutKxid7xJrQ" type="audio/mpeg; length=46543997"></a> <span class="file-size">(44.39 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            26          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/can-globalization-work-poor">Can Globalization work for the Poor?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Panel discussion on whether Globalisation can benefit the poor with Alex Gennie, Ian Goldin, Rushanara Ali MP, James Drummond and Nick Gowing.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/alex-gennie" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Alex Gennie</a>, <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>, <a href="/people/rushanara-ali" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rushanara Ali</a>, <a href="/people/james-drummond" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">James Drummond</a>          </td>
+                  <td class="views-field views-field-created" >
+            21 Mar 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031525/download?token=CHHQCcVFKbgsOjKwiCxVYt5SFSsxLTnU5hv9d-wakj0" type="audio/mpeg; length=53266911"></a> <span class="file-size">(50.8 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            27          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/war-and-peace-nuclear-age">The War and Peace of the Nuclear Age</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr James Martin, Founder of the Oxford Martin School and founder of the James Martin Center for Nonproliferation Studies at the Monterey Institute of International Studies.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/james-martin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">James Martin</a>          </td>
+                  <td class="views-field views-field-created" >
+            21 Mar 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031526/download?token=xbiiQQjUOAwP3WOmKzsvfFWzX4IdthoaJ_U37G_gYHI" type="audio/mpeg; length=77034011"></a> <span class="file-size">(73.47 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            28          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/global-governance-local-governments">Global governance, local governments</a>          </td>
+                  <td class="views-field views-field-body" >
+            Distinguished Public Lecture. Globalization has created a more interconnected, interdependent and complex world than ever witnessed before.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/pascal-lamy" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Pascal Lamy</a>, <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>, <a href="/people/lord-patten-barnes" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Lord Patten of Barnes</a>          </td>
+                  <td class="views-field views-field-created" >
+            09 Mar 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031527/download?token=s-GRsbv9xBfIvc3OBZiA5kRLMLYwBGRtTTn8FJe5Jks" type="audio/mpeg; length=42168142"></a> <span class="file-size">(40.21 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            29          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/price-civilization">The price of civilization</a>          </td>
+                  <td class="views-field views-field-body" >
+            Sachs argues that for the U.S. to regain sound fiscal health the country must also reform its politics.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/jeff-sachs" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Jeff Sachs</a>          </td>
+                  <td class="views-field views-field-created" >
+            16 Dec 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031545/download?token=m-PpF4x0SgMiTfs7Likn7jmZhemwYYMbVrPfwB1g5Vk" type="audio/mpeg; length=96892117"></a> <span class="file-size">(92.4 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            30          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/global-community-search-evidence-extraterrestrial-technologies">A Global Community Search for Evidence of Extraterrestrial Technologies</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Jill Tarter, Director, Center for SETI Research, SETI Institute gives a talk for the Oxford Martin School Seminar Series.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/jill-tarter" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Jill Tarter</a>          </td>
+                  <td class="views-field views-field-created" >
+            24 Aug 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032047/download?token=SIqptPjfBWW-hoDctu3nOWOzLfsX42__6WmPydphCpo" type="audio/mpeg; length=36042743"></a> <span class="file-size">(34.37 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            31          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/rethinking-geoengineering-and-meaning-climate-crisis">Rethinking Geoengineering and the Meaning of the Climate Crisis</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Clive Hamilton delivers a critique of the consequentialist approach to the ethics of geoengineering, the approach that deploys assessment of costs and benefits in a risk framework to justify climatic intervention.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/clive-hamilton" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Clive Hamilton</a>          </td>
+                  <td class="views-field views-field-created" >
+            02 Aug 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032096/download?token=6-tWPQhSjCNfnqRhJO_p7qGczrCw6OJEwCWzUfT3YVQ" type="audio/mpeg; length=53646808"></a> <span class="file-size">(51.16 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            32          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/who-speaks-climate">Who speaks for climate?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Mass media serve vital roles in communication processes between science, policy and the public, and often stitch together perceptions, intentions, considerations, and actions regarding climate change.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/maxwell-t-boykoff" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Maxwell T. Boykoff</a>          </td>
+                  <td class="views-field views-field-created" >
+            28 Jul 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032098/download?token=Q7Xwcs6V-SKzDTKt2Vnd0F19h64eXJfEqr5TE86Uu2o" type="audio/mpeg; length=51623939"></a> <span class="file-size">(49.23 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            33          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/new-capitalism-big-society">A new capitalism for a big society</a>          </td>
+                  <td class="views-field views-field-body" >
+            Bishop and Green led a discussion based on their recent book, &quot;The Road From Ruin: A New Capitalism for a Big Society&quot;.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/matthew-bishop" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Matthew Bishop</a>, <a href="/people/michael-green" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Michael Green</a>          </td>
+                  <td class="views-field views-field-created" >
+            03 Feb 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032389/download?token=0XX7J22OvPJ38akKaGkn0hcOSLh1DGpEe36rzS-WPUI" type="audio/mpeg; length=36757171"></a> <span class="file-size">(35.05 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            34          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/assessing-economic-rise-china-and-india">Assessing the economic rise of China and India</a>          </td>
+                  <td class="views-field views-field-body" >
+            The recent economic rise of China and India has attracted a great deal of attention--and justifiably so.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/pranab-bardhan" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Pranab Bardhan</a>          </td>
+                  <td class="views-field views-field-created" >
+            03 Feb 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032359/download?token=lIRJHuXSaLgPlEf7sYpzNrqpWT4SzJ5mpqy0OY6azTw" type="audio/mpeg; length=28091081"></a> <span class="file-size">(26.79 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            35          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/dealing-new-normal-resilience-systems-must-cope-uncertainty">Dealing with The New Normal: Resilience in systems that must cope with uncertainty</a>          </td>
+                  <td class="views-field views-field-body" >
+            Part of the School&#039;s intergrative seminar series. Delivered by Professor Patricia Hirl Longstaff, James Martin Senior Visiting Fellow, Professor, Syracuse University, Research Associate, Harvard Program on Information Resources Policy.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/patricia-hirl-longstaff" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Patricia Hirl Longstaff</a>          </td>
+                  <td class="views-field views-field-created" >
+            03 Feb 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032358/download?token=dT1erDwG9C6umCPIff0GMkJvao_PRlm0KZpGteAy_QA" type="audio/mpeg; length=43905398"></a> <span class="file-size">(41.87 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            36          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/integrating-technology-science-law-economics-and-politics-development-practical-policy">Integrating Technology, Science, Law, Economics, and Politics: Development of Practical Policy for Carbon Capture and Storage</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Kenneth Richards, James Martin Senior Visiting Fellow on how carbon capture and storage (CCS) provides a potentially promising approach to mitigating carbon dioxide emissions.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/kenneth-richards" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Kenneth Richards</a>          </td>
+                  <td class="views-field views-field-created" >
+            24 Nov 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032361/download?token=BR8_alu-bUwDUuyIj4sjlR6RF99yKp3V5McO0WkwvRo" type="audio/mpeg; length=49862425"></a> <span class="file-size">(47.55 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            37          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/working-crowd-21st-century-citizen-science">Working with the crowd : 21st century citizen science</a>          </td>
+                  <td class="views-field views-field-body" >
+            Galaxy Zoo PI and James Martin Fellow Chris Lintott will review the technologies available to researchers seeking to rescue themselves from drowning in data by recruiting the help of tens or even hundreds of thousands of volunteers.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/chris-lintott" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Chris Lintott</a>          </td>
+                  <td class="views-field views-field-created" >
+            27 Oct 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032363/download?token=bSQ5zcuzNuhn1BzkrYfuO5AeusgoD9UgMNaSowRyPn8" type="audio/mpeg; length=59097658"></a> <span class="file-size">(56.36 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            38          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/climate-shocks-turning-crisis-opportunity">Climate Shocks: Turning Crisis into Opportunity</a>          </td>
+                  <td class="views-field views-field-body" >
+            Thomas F. Homer-Dixon, CIGI Chair of Global Systems, Balsillie School of International Affairs; full Professor, Faculty of Arts and Faculty of Environment, University of Waterloo on Climate Shocks: Turning Crisis into Opportunity.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/thomas-homer-dixon" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Thomas Homer-Dixon</a>          </td>
+                  <td class="views-field views-field-created" >
+            15 Oct 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032362/download?token=f0_1S9i5jf0Y0voBAz5e_Yy1n3rTmYhWzzLzS8qhyg4" type="audio/mpeg; length=56318185"></a> <span class="file-size">(53.71 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            39          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/climate-change-and-marine-ecosystems-have-dangerous-changes-already-begun">Climate change and marine ecosystems: have dangerous changes already begun?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Special seminar from the James Martin 21st Century School: Climate change and marine ecosystems: have dangerous changes already begun?          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/ove-hoegh-guldberg" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ove Hoegh-Guldberg</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 Sep 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032370/download?token=4iRQRFYFKNvYfmZgKRZ6lmlx2nSMvkAvVoZTQsTkiUQ" type="audio/mpeg; length=67734443"></a> <span class="file-size">(64.6 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            40          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/plundered-planet">The Plundered Planet</a>          </td>
+                  <td class="views-field views-field-body" >
+            Paul Collier, Oxford Professor and author of The Bottom Billion, launched a discussion based on his latest publication, The Plundered Planet.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/paul-collier" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Paul Collier</a>, <a href="/people/charles-badenoch" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Charles Badenoch</a>, <a href="/people/jamie-drummond" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Jamie Drummond</a>, <a href="/people/gideon-rachman" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Gideon Rachman</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Jun 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032371/download?token=sx0x2VfD-L4ozdpnEqRNEEsboNyhyMXFlptPq7ErJII" type="audio/mpeg; length=55993486"></a> <span class="file-size">(53.4 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            41          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/panel-discussion-george-soros">A Panel Discussion with George Soros</a>          </td>
+                  <td class="views-field views-field-body" >
+            Lessons from Financial Crises: Paradigm Failure and the Future of Financial Regulation.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/paul-beaudry" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Paul Beaudry</a>, <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>, <a href="/people/roger-goodman" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Roger Goodman</a>, <a href="/people/anatole-kaletsky" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Anatole Kaletsky</a>          </td>
+                  <td class="views-field views-field-created" >
+            17 Dec 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032380/download?token=nKtTnrmZvtpktiwubGzwyFeevVpWQzkuxFU-KzqCnNE" type="audio/mpeg; length=181597856"></a> <span class="file-size">(173.19 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            42          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/geoengineering-climate">Geoengineering the climate</a>          </td>
+                  <td class="views-field views-field-body" >
+            Geoengineering the climate: Science, Governance and Uncertainty: The Royal Society Study - John Shepherd (NOCS).          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/john-shepherd" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">John Shepherd</a>          </td>
+                  <td class="views-field views-field-created" >
+            19 Nov 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032382/download?token=P8lclH8v1Pmluu-W-Sms86GcyWk9epp4WaB9BPbhJ-M" type="audio/mpeg; length=141251431"></a> <span class="file-size">(134.71 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            43          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/end-business-usual">The End of Business as Usual</a>          </td>
+                  <td class="views-field views-field-body" >
+            Distinguished Public Lecture: The end of business as usual by Dr Mohamed El-Erian, Co-CIO of PIMCO.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/mohamed-el-erian" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Mohamed El-Erian</a>          </td>
+                  <td class="views-field views-field-created" >
+            18 Nov 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032381/download?token=IJC6yNWu1LSbDbkj7fc6b7Smp6lkfl5ahpxTYwhr9U0" type="audio/mpeg; length=106408975"></a> <span class="file-size">(101.48 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            44          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/dealing-doctrines-time-outlaw-nuclear-weapon-use">Dealing with doctrines: time to outlaw nuclear weapon use?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Achieving an end-state of &quot;zero&quot; has emerged as an important policy goal for a number of 21st Century challenges. The most prominent example is the &quot;Global Zero&quot; campaign to eliminate nuclear weapons.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/rebecca-johnson" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Rebecca Johnson</a>          </td>
+                  <td class="views-field views-field-created" >
+            11 Nov 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032400/download?token=0H2Wd1nWlHur1ZhjV8i1RFbzJrNe6MxPhLt3fmN8cOk" type="audio/mpeg; length=26797745"></a> <span class="file-size">(25.56 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            45          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/repairing-economic-governance">Repairing Economic Governance</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Jeffrey Sachs, Director of the Earth Institute at Columbia University and internationally renowned economic advisor, talks about the need to take a systematic long view in repairing international economic governance structures.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/jeffrey-sachs" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Jeffrey Sachs</a>          </td>
+                  <td class="views-field views-field-created" >
+            23 Oct 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032383/download?token=_Zy6xYfWfDcKVnP36ff9fx2KW3xzDybl0wjCAT3Dvsk" type="audio/mpeg; length=68884050"></a> <span class="file-size">(65.69 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            46          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/blueprint-safer-planet">Blueprint for a Safer Planet</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Lord Nicholas Stern, a world renowned economist and leading authority on climate change, came to the 21st Century School on Thursday 7 May to give a lecture about his &quot;Blueprint for a Safer Planet&quot;.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/nicholas-stern" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nicholas Stern</a>          </td>
+                  <td class="views-field views-field-created" >
+            08 May 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032386/download?token=GcU4AsUy_V7WfKss8E9eMHCmfK4rVFwQIxnodOWsynQ" type="audio/mpeg; length=51729323"></a> <span class="file-size">(49.33 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            47          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/ian-goldin-university-cape-town">Ian Goldin at University of Cape Town</a>          </td>
+                  <td class="views-field views-field-body" >
+            Speaking at the Vice-Chancellor&#039;s Open Lecture, Dr Ian Goldin asked: Are the world&#039;s leading thinkers anticipating the risks and opportunities of the 21st century, or will humanity be overtaken by its own medical, technological and scientific successes?          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>          </td>
+                  <td class="views-field views-field-created" >
+            18 Mar 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032372/download?token=qNxadycHBA5cNBcbVcoaBWsQ_dEwMeZcumA1jp3AtkI" type="audio/mpeg; length=42587141"></a> <span class="file-size">(40.61 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            48          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/21st-century-challenges-humanity-crossroads">21st Century Challenges: Humanity at the Crossroads?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Ian Goldin provides an overview of the work of the James Martin 21st Century School and looks at the challenges facing humanity in the 21st Century.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/ian-goldin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Goldin</a>          </td>
+                  <td class="views-field views-field-created" >
+            15 Oct 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032374/download?token=8BAXlxuwfDuTkMLn-OZaJVFGBV6FrI37LA1uYYeGaPA" type="audio/mpeg; length=55848202"></a> <span class="file-size">(53.26 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            49          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/what-science">What is Science for?</a>          </td>
+                  <td class="views-field views-field-body" >
+            What is science for, what good does it do and should it do good?          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/john-sulston" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">John Sulston</a>, <a href="/people/john-harris" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">John Harris</a>, <a href="/people/richard-dawkins" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Richard Dawkins</a>          </td>
+                  <td class="views-field views-field-created" >
+            10 Jun 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032378/download?token=6m8xYv7O0gZCc0DT1PBYoN1OQzD7cYJjrF3PTRC8QY0" type="audio/mpeg; length=55336253"></a> <span class="file-size">(52.77 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            50          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/stiglitz-credit-crunch-global-financial-debacle-meeting-challenges-global-governance-21st">Stiglitz on Credit Crunch - Global Financial Debacle: Meeting the Challenges of Global Governance in the 21st Century</a>          </td>
+                  <td class="views-field views-field-body" >
+            The global financial crisis reflects a failure of global economic governance. The failure of America&#039;s regulatory system has not only ramifications for the American economy, but for the global economy.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/joseph-stiglitz" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Joseph Stiglitz</a>          </td>
+                  <td class="views-field views-field-created" >
+            10 Jun 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032379/download?token=jjCrXVA5X5Tnt0C2TAja4eVCcPwbwXU7HAuz_RUApw0" type="audio/mpeg; length=60667322"></a> <span class="file-size">(57.86 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            51          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/target-earth-grand-scale-problems-21st-century">Target Earth: The Grand Scale Problems of the 21st Century</a>          </td>
+                  <td class="views-field views-field-body" >
+            At the start of the 21st century, humankind finds itself on a non-sustainable course - a course that, unless it is changed, will lead to catastrophes of awesome consequences.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/james-martin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">James Martin</a>          </td>
+                  <td class="views-field views-field-created" >
+            10 Jun 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032387/download?token=ltgQCUHmBcVIyDOJDpeVBrbM_0VtbiA3BPWzd18h3yk" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            52          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/freedom-oil">Freedom from Oil</a>          </td>
+                  <td class="views-field views-field-body" >
+            Based on his book, Freedom from Oil, Sandalow gives a public lecture which draws on both his government experience and energy expertise to explore options, shape solutions and create national policy to address the United States&#039; oil addiction.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/david-sandalow" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">David Sandalow</a>          </td>
+                  <td class="views-field views-field-created" >
+            14 Apr 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032377/download?token=9kssC--XTgXf08LccudzQJd7NEmNaAQfpV8AT5l-0AY" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            53          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/bottom-billion">The Bottom Billion</a>          </td>
+                  <td class="views-field views-field-body" >
+            Based on his book of the same name, in this lecture Paul Collier will point out how global poverty is actually falling quite rapidly for about eighty percent of the world.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/paul-collier" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Paul Collier</a>          </td>
+                  <td class="views-field views-field-created" >
+            14 Apr 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032376/download?token=J0zXQG22pdrJyXZa6KZvrQ7cYiLj8AhZ8apHl8L3p3M" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            54          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/craig-venter-genomics-humans-environment">Craig Venter on Genomics: From humans to the environment</a>          </td>
+                  <td class="views-field views-field-body" >
+            In the second of the Distinguished Public Lecture Series run by the James Martin 21st Century School, Dr Craig Venter will discuss his work at the J Craig Venter Institute and its implications for the future of our culture, society and science.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/j-craig-venter" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">J Craig Venter</a>          </td>
+                  <td class="views-field views-field-created" >
+            14 Apr 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032384/download?token=BcE1b6e4t7epCIzv5ox44C7keuOl_v-Rxp7TK1EU7_U" type="audio/mpeg; length=64365425"></a> <span class="file-size">(61.38 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd views-row-last">
+                  <td class="views-field views-field-counter" >
+            55          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/economics-climate-change">Economics of Climate Change</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Sir Nicholas Stern, HM Treasury: The economics of climate change Introduced by: Dr John Hood, Vice-Chancellor of the University of Oxford. Chaired by: Dr Ian Goldin, Director of the James Martin 21st Century School.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/nicholas-stern" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nicholas Stern</a>          </td>
+                  <td class="views-field views-field-created" >
+            14 Apr 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032390/download?token=EcR6PiDhJnBVxr2pnaqlAT5X_HLZKLE_Li8s1ZxLskE" type="audio/mpeg; length=58157059"></a> <span class="file-size">(55.46 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+        </div>
+
+        
+      </div>
+      
+          
+    </div> <!-- /content-inner /content -->
+    
+
+          <div id="navigation" class="menu with-primary">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-227 first"><a href="/">Home</a></li>
+<li class="menu-1196"><a href="/series" title="Browse all series">Series</a></li>
+<li class="menu-600"><a href="/people" title="Browse contributors to podcasts">People</a></li>
+<li class="menu-602"><a href="/units" title="Browse all departments and colleges">Depts &amp; Colleges</a></li>
+<li class="menu-1621 last"><a href="/open">Open Education</a></li>
+</ul>              </div>
+    
+     <!-- /sidebar-first -->
+
+     <!-- /sidebar-second -->
+    
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-block-3" class="block block-block block-odd first last block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <p>This website uses cookies for Google Analytics tracking - please see our <a href="http://podcasts.ox.ac.uk/privacy">Privacy Policy</a></p>
+<p><a href="http://podcasts.ox.ac.uk/about">About</a> | <a href="http://podcasts.ox.ac.uk/accessibility">Accessibility</a> | <a href="http://www.oucs.ox.ac.uk/podcasts/how-to-podcast.xml.ID=publish">Contribute</a> | <a href="http://podcasts.ox.ac.uk/copyright">Copyright</a> | <a href="http://podcasts.ox.ac.uk/contact">Contact us</a> | <a href="http://podcasts.ox.ac.uk/privacy">Privacy</a></p>
+<p><a href="http://mediapub.it.ox.ac.uk/">MediaPub Publishing Portal for Oxford Podcast Contributors</a></p>
+<p><a href="http://talks.ox.ac.uk/" target="">Upcoming Talks in Oxford</a></p>
+<p><a target="_blank" href="http://www.ox.ac.uk/copyright.html">© 2011-2014 The University of Oxford</a></p>
+		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+</div> <!-- /page-wrapper -->  </body>
+</html>

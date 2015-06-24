@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html id="ctl00_Html1">
+<head id="ctl00_Head1"><title>
+	Sign In - Admissions
+</title>
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=printerfriendly&amp;s=21&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Admissions User Sign In Page" />
+<meta property="og:description" content="Admissions User Sign In Page" />
+<link rel="search" type="application/opensearchdescription+xml" title="Admissions Site Search" href="http://admissions.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+<link rel='shortcut icon' href='/Data/Sites/21/skins/printerfriendly/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script></head>
+<body id="ctl00_Body" class="pagebody loginpage">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzYzNTI5MDQxD2QWAmYPZBYCAgEPZBYCAgMPFgIeBWNsYXNzBRJwYWdlYm9keSBsb2dpbnBhZ2UWAgIDD2QWBgIXDw8WBB4IQ3NzQ2xhc3MFOWFydC1sYXlvdXQtY2VsbCBhcnQtY29udGVudC13aWRlIGNlbnRlci1ub21hcmdpbnMgY21zem9uZR4EXyFTQgICZBYCAgUPZBYCAgMPZBYGAgUPZBYCAgEPZBYCZg88KwAKAQAPFgYeD0xvZ2luRXJyb3JDb3VudGYeEkRlc3RpbmF0aW9uUGFnZVVybAUZL2FkbWlzc2lvbnMtY3JpdGVyaWEuYXNweB4JUmV0dXJuVXJsBRkvYWRtaXNzaW9ucy1jcml0ZXJpYS5hc3B4ZBYCZg9kFgICAQ9kFgoCCw8QDxYEHgdDaGVja2VkaB4EVGV4dAUcUmVtZW1iZXIgTWUgT24gVGhpcyBDb21wdXRlcmRkZGQCDQ8PFgIeB1Zp" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="c2libGVoZBYCAgEPZBYCZg8PFgIeB0VuYWJsZWRoZGQCDw8PFgIfBwUHU2lnbiBJbmRkAhMPDxYEHgtOYXZpZ2F0ZVVybAU7aHR0cDovL2FkbWlzc2lvbnMuY2hlbS5veC5hYy51ay9TZWN1cmUvUmVjb3ZlclBhc3N3b3JkLmFzcHgfBwUQUmVjb3ZlciBQYXNzd29yZGRkAhUPDxYGHwoFWGh0dHA6Ly9hZG1pc3Npb25zLmNoZW0ub3guYWMudWsvU2VjdXJlL1JlZ2lzdGVyLmFzcHg/cmV0dXJudXJsPS9hZG1pc3Npb25zLWNyaXRlcmlhLmFzcHgfBwUIUmVnaXN0ZXIfCGhkZAIHD2QWAgIBDw8WAh8IaGQWAmYPFgIfBwUZd2l0aCB5b3VyIFdpbmRvd3MgTGl2ZSBJRGQCCQ9kFgICAQ8WAh8HBQJPcmQCGQ8PFgYfAQUQbGVmdHNpZGUgY21zem9uZR8CAgIfCGhkZAIb" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="Dw8WBh8BBRFyaWdodHNpZGUgY21zem9uZR8CAgIfCGhkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUtY3RsMDAkbWFpbkNvbnRlbnQkbG9naW4xJExvZ2luQ3RybCRSZW1lbWJlck1lF5exHa7huRfH9i2QqvZze5h56Kw=" />
+
+
+<script src="/ScriptResource.axd?d=GgXUWk0YGL5mkQ9-VTSrcPqQscD_-bs_hX8tBpWj_ajYK7a2jfCpfZpR7AgBGlpGqSBE2ewJEdE-P18uztHuFMmQsCACQ0siY9FQlrtAqCpem5IUheGLN7vNwM56-wglLdJL5MAs36eXoMRP03sAgE_e-pbcWLyJ5uqrq_c3zffMqSmGUscDJWjf22_5nhlMqUjPrT3LE9q6D-ibu_k7geimVGvShHGQuGv96y-nCLmwkG_S0" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="88FDF362" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAUUOL5VTalfsGyZ9O2r3EoAQByq9jlQk/1tLp1uoarmY6zwXBGyR1YavJ5y6qNTyRcGz941vGC/6lSKdV570ibeY3Letv4eKHRG9tUCNyCwKCwttgC1cvUKw6018L8S3yrdwg7v" />
+
+
+
+
+<div id="wrapwebsite">
+	<h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://admissions.chem.ox.ac.uk/Default.aspx'>Admissions</a></h1>
+	
+
+
+
+
+	&nbsp;
+	<div class="wrapcenter">
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content-wide center-nomargins cmszone">
+	
+		    
+		    
+		    
+
+<div id="ctl00_mainContent_pnlLogin" class="panelwrapper login">
+		
+<div class="modulecontent">
+<fieldset>
+    <legend>
+        Sign In
+    </legend>
+    
+    <div id="ctl00_mainContent_pnlStandardLogin" class="floatpanel">
+			
+    
+        <div id="ctl00_mainContent_login1_LoginCtrl_pnlLContainer">
+				
+            <div class="settingrow idrow">
+                <strong>
+                    <label for="ctl00_mainContent_login1_LoginCtrl_UserName">Email</label>
+                    
+                </strong>
+                <br />
+                <input name="ctl00$mainContent$login1$LoginCtrl$UserName" type="text" maxlength="100" id="ctl00_mainContent_login1_LoginCtrl_UserName" class="normaltextbox signinbox" />
+            </div>
+            <div class="settingrow passwordrow">
+                <strong>
+                    <label for="ctl00_mainContent_login1_LoginCtrl_Password">Password</label>
+                </strong>
+                <br />
+                <input name="ctl00$mainContent$login1$LoginCtrl$Password" type="password" id="ctl00_mainContent_login1_LoginCtrl_Password" class="normaltextbox passwordbox" />
+            </div>
+            <div class="settingrow rememberrow">
+                <input id="ctl00_mainContent_login1_LoginCtrl_RememberMe" type="checkbox" name="ctl00$mainContent$login1$LoginCtrl$RememberMe" /><label for="ctl00_mainContent_login1_LoginCtrl_RememberMe">Remember Me On This Computer</label>
+            </div>
+            
+            <div class="settingrow buttonrow">
+                <input type="submit" name="ctl00$mainContent$login1$LoginCtrl$Login" value="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$mainContent$login1$LoginCtrl$Login&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_mainContent_login1_LoginCtrl_Login" />
+                <br />
+                
+            </div>
+            <div class="settingrow registerrow">
+                <a id="ctl00_mainContent_login1_LoginCtrl_lnkPasswordRecovery" class="lnkpasswordrecovery" href="http://admissions.chem.ox.ac.uk/Secure/RecoverPassword.aspx">Recover Password</a>&nbsp;&nbsp;
+                
+            </div>
+        
+			</div>
+    &nbsp;
+
+
+    
+		</div>
+    <div class="floatpanel">
+    
+    
+    
+    </div>
+    
+</fieldset>
+</div>
+
+	</div> 
+	
+
+	    
+</div>
+	    
+	    
+	</div>						
+</div>
+
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

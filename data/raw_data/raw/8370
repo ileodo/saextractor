@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+                <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+                <title> | Oxford University Department for Continuing Education</title>
+        <link rel="stylesheet" href="/inc/css/style.css" title="conted" type="text/css" media="all" />
+        <script type="text/javascript" src="/inc/js/util.js"> </script>
+                    <!--[if IE]>
+              <link rel="stylesheet" type="text/css" href="/inc/css/ie.css" />
+            <![endif]-->
+        <link rel="stylesheet" href="/_local_onlinesupport.conted.ox.ac.uk/local.css" title="conted" type="text/css" media="all" />        <link rel="stylesheet" href="/inc/css/print.css" type="text/css" media="print" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+    </head>
+    <body onload="addResizeButtons();" id="top">
+        <div id="container">
+        <div id="bannerWrapper">
+        <div id="banner">
+            <a href="http://www.ox.ac.uk/" class="parentLink noPrintHref" title="Click to go to the University of Oxford homepage"><img src="/inc/img/logo.gif" alt="University of Oxford" width="156" height="50"/></a>
+            <a href="http://www.conted.ox.ac.uk/" class="parentLink">Department for <br/><span class="siteNameMajor">Continuing Education</span></a><a href="/"><span class="siteNameMajor">Online Support</span></a>        </div>
+
+            <div id="topNav"><ul><li style="width: 30%; " class="first "><a href="/CoursewareGuide/index.php">Courseware Guide</a></li><li style="width: 0%; "><a href="/faqs/index.php">FAQs</a></li><li style="width: 30%; "><a href="/nml/index.php">Learning Support</a></li><li style="width: 31%; "><a href="/TechnicalSupport/index.php">Technical Support</a></li><li style="width: 0%; " class="last "><a href="https://www.conted.ox.ac.uk/courses/results.php?search_type[]=100"><span id="courseslink">Online courses</span></a></li></ul></div>
+<div id="bannerEnd"></div>        </div>
+        <div id="mainContent">
+<div>
+
+<div>
+<h1>Welcome to the online support site</h1>
+  <p>This site provides guidance to support your studies on <a href="https://www.conted.ox.ac.uk/courses/results.php?search_type[]=100">online courses from the Department for Continuing Education</a> at the University of Oxford.</p>
+  <p>If your course is delivered online or supported by a virtual learning environment (VLE), this site will provide you with information about how to access your course website and find your way around. The site also provides answers to frequently asked questions, and offers general advice about how to utilise the learning tools available to you. It is important that you read through the information in this site, and familiarise yourself with the course facilities before embarking on your studies.</p>
+<p>The support site is divided into four sections:</p>
+<dl>
+    <dt><a href="CoursewareGuide/">Courseware guide</a></dt>
+    <dd>This section provides specific instructions about how to log in to your course, navigate around the course materials, and use the course facilities.</dd>
+    <dt><a href="faqs/">Frequently asked questions (FAQs)</a></dt>
+    <dd>This section provides answers to the most frequently asked questions.</dd>
+    <dt><a href="nml/">Learning support</a></dt>
+    <dd>This section gives you a broader look at the tools and information sources available to enhance your learning. This includes tools available on the Web, as well as those in your course website.</dd>
+    <dt><a href="TechnicalSupport/">Technical support</a></dt>
+    <dd>This section will help you to resolve some common technical problems, and also provides details of how to contact the IT help service, should you require further assistance.</dd>
+</dl>
+
+<div id="homeSearch">
+  <form id="searchform" method="get"
+    action="http://googlesearch.oucs.ox.ac.uk/search"> 
+    <fieldset>
+      <legend>Search site:</legend> 
+      <input type="hidden" name="as_sitesearch" value="onlinesupport.conted.ox.ac.uk"/>
+      <input name="Unit" value="The Department for Continuing Education - online support" type="hidden"/>
+      <input name="client" value="oxford" type="hidden"/> 
+      <input name="proxystylesheet" value="oxford" type="hidden"/> 
+      <input name="output" value="xml_no_dtd" type="hidden"/> 
+      <input name="q" id="input-search" size="25"
+         maxlength="2048" value=""  type="text"/>
+      <input name="Go" value="Go" type="submit"/>
+    </fieldset>
+  </form></div>
+</div>
+        </div>            <div id="footer">
+                <div>
+                    <a href="http://www.ox.ac.uk">University of Oxford</a> |
+                    <a href="http://www.admin.ox.ac.uk/councilsec/privacy.shtml">Privacy policy</a> |
+                    <a href="http://www.conted.ox.ac.uk/enquiry.php" target="_blank">Enquiries</a>
+                </div>
+                <div class="vcard">
+                    &copy; 2002-2015                    <span class="fn org">
+                        <span class="organization-name">University of Oxford</span>,
+                        <span class="organization-unit n">Department for Continuing Education</span>
+                    </span>
+                    <address class="adr">
+                        <span class="street-address">Rewley House, 1 Wellington Square</span>,
+                        <span class="locality">Oxford</span>, <span class="region">Oxfordshire</span>,
+                        <span class="postal-code">OX1 2JA</span>,
+                        <span class="country-name">United Kingdom</span>.
+                        Tel: <span class="tel">+44 (0)1865 270360</span>
+                    </address>
+                </div>
+            </div>
+                    </div>	        <script type="text/javascript" src="/inc/js/util.js"> </script>
+<!-- Google Analytics tracking -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57534763-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+      </body>
+</html>

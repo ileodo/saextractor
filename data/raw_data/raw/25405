@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><HEAD>
+<TITLE>PuTTY wish ssh2-cbc-weakness</TITLE>
+<link rel="canonical" href="http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/ssh2-cbc-weakness.html">
+<link rel="stylesheet" type="text/css" href="../sitestyle.css" title="PuTTY Home Page Style">
+<link rel="shortcut icon" href="../putty.ico">
+<meta http-equiv="content-type" content="text/html; charset=US-ASCII">
+<meta name="robots" content="noindex,nofollow">
+</HEAD>
+<BODY>
+<h1 align=center>PuTTY wish ssh2-cbc-weakness</h1>
+<!--MIRRORWARNING--><div align=center class="mirrorwarning">This is a mirror. The primary PuTTY web site can be found <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/">here</a>.</div>
+
+<p align=center>
+<a href="../">Home</a> |
+<a href="../licence.html">Licence</a> |
+<a href="../faq.html">FAQ</a> |
+<a href="../docs.html">Docs</a> |
+<a href="../download.html">Download</a> |
+<a href="../keys.html">Keys</a> |
+<a href="../links.html">Links</a><br>
+<a href="../mirrors.html">Mirrors</a> |
+<a href="../maillist.html">Updates</a> |
+<a href="../feedback.html">Feedback</a> |
+<a href="../changes.html">Changes</a> |
+<b><a href="./">Wishlist</a></b> |
+<a href="../team.html">Team</a></p>
+
+<b>summary</b>: SSH-2 CBC weaknesses can be worked around<br>
+<b>class</b>: <i>wish:</i> This is a request for an enhancement.<br>
+<b>difficulty</b>: <i>tricky:</i> Needs many tuits.<br>
+<b>priority</b>: <i>low:</i> We aren't sure whether to fix this or not.<br>
+<b>present-in</b>: 2005-01-17<br>
+<b>fixed-in</b>: 2005-04-24 (0.59) (0.60) (0.61) (0.62) (0.63) (0.64)<br>
+<p><a href="http://doi.acm.org/10.1145/996943.996945">Bellare
+<i>et al</i></a> describe a weakness in the use of CBC-mode ciphers in SSH-2.
+Section 9.2.1 of the current secsh-architecture draft suggests emitting an
+SSH_MSG_IGNORE before each real packet, which I think converts Bellare
+<i>et al</i>'s SSH-IPC into something analogous to SSH-CTRIV-CBC or
+SSH-EIV-CBC.
+
+<p>Implementing this in PuTTY was fairly easy, and gives us decent
+security until CTR modes are widespread.  It does, though, add something
+like 32 bytes of overhead to each SSH packet in CBC mode.
+<p><a href="http://tartarus.org/~simon-git/gitweb/?p=putty-wishlist.git;a=history;f=data/ssh2-cbc-weakness;hb=refs/heads/master">
+Audit trail</a> for this wish.
+<p><hr>If you want to comment on this web site, see the
+<a href="../feedback.html">Feedback page</a>.
+<br>
+(last revision of this bug record was at 2005-04-23 17:10:18 +0000)
+</BODY></HTML>

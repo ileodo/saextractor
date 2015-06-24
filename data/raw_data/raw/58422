@@ -1,0 +1,354 @@
+<!DOCTYPE html> <!-- Lovely HTML5 doctype -->
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ --> 
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+
+	<head>
+<meta name="google-site-verification" content="wmCqYUYhDPLKstis7AT6dxrIKeD8S6zb4KTIw5kt2YQ" />
+		<meta charset="UTF-8" />
+		
+		<title>Privacy | Vocational Excellence</title>
+		
+		<!-- HTML5 SHIV for IE -->
+		<!-- If using Modernizr you can remove this script! -->
+		<!--[if lt IE 9]>
+			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<link rel="stylesheet" href="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/themes/water/ie.css" media="screen, projection" />
+		<![endif]-->
+		
+		<!-- Main stylesheets & fonts etc -->
+		<!--[if ! lte IE 6]><!-->
+			<link href='http://fonts.googleapis.com/css?family=Bitter:400,700' rel='stylesheet' type='text/css'>
+			<link rel="stylesheet" type="text/css" media="all" href="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/themes/water/style.css" />			
+		<!--<![endif]-->
+	
+		<!-- Standard IE6 Stylesheet courtesy of Andy Clarke -->
+		<!--[if lte IE 6]>
+			<link rel="stylesheet" href="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/themes/water/ie6-stylesheet.css" media="screen, projection">
+		<![endif]-->
+	
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/vocationalexcellence.education.ox.ac.uk\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='formidable-css'  href='http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/uploads/formidable/css/formidablepro.css?ver=1.07.01' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsr-socialbuttons-css'  href='http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/css/wp-socializer-buttons-css.css?ver=2.4.9.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/dropdown-menu-widget/scripts/include.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/themes/water/javascript/placeholder.js?ver=4.2.2'></script>
+<link rel='canonical' href='http://vocationalexcellence.education.ox.ac.uk/privacy/' />
+<link rel='shortlink' href='http://vocationalexcellence.education.ox.ac.uk/?p=589' />
+
+		<style type="text/css" media="screen">
+			#catapult-cookie-bar {
+				display: none;
+				direction: ltr;
+				color: #dddddd;
+				min-height: 30px;
+				position: fixed;
+				left: 0;
+				top: 0;
+				width: 100%;
+				z-index: 99999;
+				padding:6px 20px 4px;
+				background-color: #464646;
+				text-align:center;
+				font-size: 12px;
+			}
+			#catapult-cookie-bar a {
+				color: #dddddd;
+			}
+			button#catapultCookie {
+				margin:0 20px;
+				line-height:20px;
+				background:#2b6d7d;
+				border:none;
+				color: #dddddd;
+				padding:4px 12px;
+				border-radius: 3px;
+				cursor: pointer;
+				font-size: 13px;
+				font-weight: bold;
+			}
+		</style>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+
+<!-- Dropdown Menu Widget Styles by shailan (http://shailan.com) v1.9.2 on wp4.2.2 -->
+<link rel="stylesheet" href="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/dropdown-menu-widget/css/shailan-dropdown.min.css" type="text/css" />
+<style type="text/css" media="all">
+	ul.dropdown { white-space: nowrap; }
+</style>
+<!-- /Dropdown Menu Widget Styles -->
+
+ <!-- google fonts -->
+
+<link href='http://fonts.googleapis.com/css?family=Exo:200,300,400' rel='stylesheet' type='text/css'>
+
+<!-- /google fonts -->
+
+		<!-- JS Plugins (please check and update often) -->		
+		
+		<!-- insert analytics here -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3142505-2', 'ox.ac.uk');
+  ga('send', 'pageview');
+
+</script>
+
+	</head>
+	
+	<body class="page page-id-589 page-template-default">
+		
+		<div id="page">
+			<!-- Site container -->
+			<div class="container">
+			
+				<!-- Main site header -->
+				<header id="site-header">
+<!--
+<h1 class="site-title"><a href="http://vocationalexcellence.education.ox.ac.uk/" title="Vocational Excellence" rel="home">Vocational Excellence</a></h1>
+-->
+			<!--		<a href="/" style="float: left;" id="ox-uni">Vocational Excellence</a> -->
+				</header>
+<a href="/"><h1 style="float: left;
+font-family: 'Exo', serif;
+font-size: 48px;
+xxletter-spacing: -3px;
+line-height: 1;
+font-weight: ;
+color: #6cc7dc;
+">vocational excellence</h1></a>
+				
+				<!-- Main site navigation -->
+				<nav id="main-navigation">
+
+
+
+										
+
+<div class="widget shailan-dropdown-menu-widget">
+<!-- Dropdown Menu Widget by Shailan.com (http://shailan.com)  v1.9.2 on wp4.2.2 -->
+<!-- Menu Type : navmenu_3 -->
+<div class="shailan-dropdown-menu" >
+<div id="shailan-dropdown-wrapper--1" >
+	<div align="right" class="dropdown-horizontal-container dm-align-right clearfix"><table cellpadding="0" cellspacing="0"><tr><td><ul id="menu-main-navigation" class="dropdown dropdown-horizontal dropdown-align-right"><li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://vocationalexcellence.education.ox.ac.uk/">Home</a></li>
+<li id="menu-item-566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-566"><a href="http://vocationalexcellence.education.ox.ac.uk/our-research/">Our research</a>
+<ul class="sub-menu">
+	<li id="menu-item-583" class="mnuSub menu-item menu-item-type-post_type menu-item-object-page menu-item-583"><a href="http://vocationalexcellence.education.ox.ac.uk/our-research/project-1/">Project 1: Modelling the Characteristics of Vocational Excellence</a></li>
+	<li id="menu-item-582" class="mnuSub menu-item menu-item-type-post_type menu-item-object-page menu-item-582"><a href="http://vocationalexcellence.education.ox.ac.uk/our-research/project-2/">Project 2: Learning Environments to Develop Vocational Excellence</a></li>
+	<li id="menu-item-581" class="mnuSub menu-item menu-item-type-post_type menu-item-object-page menu-item-581"><a href="http://vocationalexcellence.education.ox.ac.uk/our-research/project-3/">Project 3: Benefits of Developing Vocational Excellence</a></li>
+	<li id="menu-item-580" class="mnuSub menu-item menu-item-type-post_type menu-item-object-page menu-item-580"><a href="http://vocationalexcellence.education.ox.ac.uk/our-research/project-4/">Project 4: FE College participation in WorldSkills</a></li>
+	<li id="menu-item-579" class="mnuSub menu-item menu-item-type-post_type menu-item-object-page menu-item-579"><a href="http://vocationalexcellence.education.ox.ac.uk/our-research/project-5/">Project 5: WorldSkills Competitors and Entrepreneurship</a></li>
+	<li id="menu-item-950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-950"><a href="http://vocationalexcellence.education.ox.ac.uk/our-research/project-6/">Project 6: Training managers: benefits and barriers to WorldSkills UK participation</a></li>
+</ul>
+</li>
+<li id="menu-item-559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-559"><a href="http://vocationalexcellence.education.ox.ac.uk/about-us/our-team/">Our team</a>
+<ul class="sub-menu">
+	<li id="menu-item-714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-714"><a href="http://vocationalexcellence.education.ox.ac.uk/about-us/skope/">SKOPE</a></li>
+</ul>
+</li>
+<li id="menu-item-884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-884"><a href="http://vocationalexcellence.education.ox.ac.uk/publications/">Publications</a>
+<ul class="sub-menu">
+	<li id="menu-item-893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="http://vocationalexcellence.education.ox.ac.uk/publications/academic/">Academic</a></li>
+	<li id="menu-item-930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-930"><a href="http://vocationalexcellence.education.ox.ac.uk/publications/working-papers/">Working papers</a></li>
+	<li id="menu-item-892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-892"><a href="http://vocationalexcellence.education.ox.ac.uk/publications/reports/">Reports</a></li>
+	<li id="menu-item-929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-929"><a href="http://vocationalexcellence.education.ox.ac.uk/publications/briefings/">Briefings</a></li>
+	<li id="menu-item-928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928"><a href="http://vocationalexcellence.education.ox.ac.uk/publications/presentations/">Presentations</a></li>
+	<li id="menu-item-891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-891"><a href="http://vocationalexcellence.education.ox.ac.uk/publications/research-resources/">Research resources</a></li>
+</ul>
+</li>
+<li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="http://vocationalexcellence.education.ox.ac.uk/blog/">Blog</a></li>
+<li id="menu-item-669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-669"><a href="http://vocationalexcellence.education.ox.ac.uk/contact-us/">Contact us</a>
+<ul class="sub-menu">
+	<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="http://vocationalexcellence.education.ox.ac.uk/contact-us/send-us-a-message/">Send us a message</a></li>
+</ul>
+</li>
+</ul></td>
+				  </tr></table> 
+				</div></div> 
+</div>
+
+<!--/ Dropdown Menu Widget -->			
+              </div>
+
+<!-- Dropdown Menu Widget Effects by shailan (http://shailan.com) v1.9.2 on wp4.2.2 -->
+<script type="text/javascript">/* <![CDATA[ */
+jQuery(document).ready(function($) { 
+ 
+  var config = {
+	over : function(){ $(this).find("ul:first").fadeIn('fast'); },  
+	out : function(){ $(this).find("ul:first").fadeOut('fast'); },
+	timeout : 100  }
+ 
+  $(".dropdown li").hoverIntent( config );
+		
+});
+/* ]]> */</script>
+<!-- /Dropdown Menu Widget Effects -->
+
+         
+				</nav>
+
+									<div class="banner">
+						<img width="940" height="225" src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/uploads/2013/08/girders-short.png" class="attachment-banner wp-post-image" alt="girders-short" />					</div>
+				
+<ul id="breadcrumb" class="container"><li><a href="http://vocationalexcellence.education.ox.ac.uk/privacy/">Privacy &rsaquo;</a></li></ul><!-- /#breadcrumb -->
+			
+	
+			<aside class="sidebar lhs">
+			<h2>Privacy</h2>
+			<ul class="menu"></ul>		</aside><!-- #secondary .widget-area -->
+												
+			<article id="post-589" class="content post-589 page type-page status-publish has-post-thumbnail hentry">
+			
+				<h1>Privacy</h1>
+			
+				<p>This privacy policy sets out how we use and protect any information that you give SKOPE when you use this website.</p>
+<p>SKOPE is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+<p>SKOPE may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 1st 2014.</p>
+<h2>What we collect</h2>
+<p>We may collect the following information:</p>
+<ul>
+<li>name and role</li>
+<li>contact information including email address and telephone number</li>
+<li>demographic information such as preferences and interests</li>
+<li>other information relevant to research surveys and/or events.</li>
+</ul>
+<h2>What we do with the information we gather</h2>
+<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
+<p>Event management If you contact us through this website to register your intent to attend an event, we will keep and use your personal information to record this interest and administer your attendance at the event.</p>
+<p>Continual improvement We may use the information to improve our communications and the type and nature of the events we run or the documents we publish.</p>
+<p>Internal record keeping. We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</p>
+<h2>Security</h2>
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
+<h2>How we use cookies</h2>
+<p>A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
+<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
+<p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.</p>
+<p>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
+<p>For more information please see our Cookies page.</p>
+<h2>Links to other websites</h2>
+<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+<h2>Controlling your personal information</h2>
+<p>If you have previously agreed to us using your personal information to contact you e.g. to receive a newsletter, you may change your mind at any time by writing to us or emailing us at <a href="mailto:skope@education.ox.ac.uk">skope@education.ox.ac.uk</a></p>
+<p>We will not sell, distribute or release your personal information to third parties unless we have your permission or are required by law to do so.</p>
+<p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to: SKOPE, University of Oxford Department of Education, 15 Norham Gardens, Oxford, OX2 6PY or email us at: <a href="mailto:skope@education.ox.ac.uk">skope@education.ox.ac.uk</a>.</p>
+<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above addresses. We will promptly correct any information found to be incorrect.</p>
+				
+			</article><!-- #post-589 -->			
+					
+			<aside class="sidebar rhs">
+			<div class="tactical">
+                <h2>Who are we?</h2>
+                <img width="220" height="148" src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/uploads/2013/10/Duve-220x148.jpg" class="attachment-tactical wp-post-image" alt="Duve" />                <h1>Vocational Excellence Research Team</h1>
+<ul style="color: #4d4d4d; font: 12px/1.6em Arial, sans-serif; margin: 3px 0 0 0; padding-bottom: 3px; list-style-type: none; line-height: 25px; font-weight: normal;">
+<li>Prof. Ken Mayhew</li>
+<li>Dr. Susan James</li>
+<li>Dr. Maia Chankseliani</li>
+<li>Dr. Stephanie Wilde</li>
+<li>Jennifer Allen</li>
+<li>Marta Mordarska</li>
+</ul>
+<p><a href="/about-us/our-team/">More »</a></p>
+            </div><div class="tactical">
+                <h2>Blog</h2>
+                <img width="220" height="148" src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/uploads/2013/09/shutterstock_132108827-220x148.jpg" class="attachment-tactical wp-post-image" alt="shutterstock_132108827" />                <h1>Vocational Excellence Blog</h1>
+<p>Please share your ideas and comments about vocational excellence.</p>
+<p><a href="/blog/">More »</a></p>
+            </div>		</aside><!-- #secondary .widget-area -->
+
+
+		<div class='social'>
+			<p>Share this page</p>
+
+			
+<!-- Start WP Socializer - Social Buttons - Output -->
+<div class="wp-socializer 16px">
+<ul class="wp-socializer-opacity columns-no">
+ <li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fvocationalexcellence.education.ox.ac.uk%2Fprivacy%2F&amp;t=Privacy" title="Share this on Facebook" target="_blank" rel="nofollow"><img src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-16px.gif" alt="Facebook" style="width:16px; height:16px; background: transparent url(http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-16px.png) no-repeat; background-position:0px -391px; border:0;"/></a></li> 
+
+ <li><a href="http://twitter.com/home?status=Privacy%20-%20http%3A%2F%2Fvocationalexcellence.education.ox.ac.uk%2Fprivacy%2F%20" title="Tweet this !" target="_blank" rel="nofollow"><img src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-16px.gif" alt="Twitter" style="width:16px; height:16px; background: transparent url(http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-16px.png) no-repeat; background-position:0px -1615px; border:0;"/></a></li> 
+
+ <li><a href="http://delicious.com/post?url=http%3A%2F%2Fvocationalexcellence.education.ox.ac.uk%2Fprivacy%2F&amp;title=Privacy&amp;notes=This+privacy+policy+sets+out+how+we+use+and+protect+any+information+that+you+give+SKOPE+when+you+use+this+website.%0D%0A%0D%0ASKOPE+is+committed+to+ensuring+that+your+privacy+is+protected.+Should+we+ask+you+to+provide+certain+information+by+which+you+can+be" title="Post this on Delicious" target="_blank" rel="nofollow"><img src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-16px.gif" alt="Delicious" style="width:16px; height:16px; background: transparent url(http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-16px.png) no-repeat; background-position:0px -221px; border:0;"/></a></li> 
+
+ <li><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fvocationalexcellence.education.ox.ac.uk%2Fprivacy%2F&amp;title=Privacy&amp;bodytext=This+privacy+policy+sets+out+how+we+use+and+protect+any+information+that+you+give+SKOPE+when+you+use+this+website.%0D%0A%0D%0ASKOPE+is+committed+to+ensuring+that+your+privacy+is+protected.+Should+we+ask+you+to+provide+certain+information+by+which+you+can+be" title="Submit this to Digg" target="_blank" rel="nofollow"><img src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-16px.gif" alt="Digg" style="width:16px; height:16px; background: transparent url(http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-16px.png) no-repeat; background-position:0px -272px; border:0;"/></a></li> 
+
+ <li><a href="" title="" target="_blank" rel="nofollow"><img src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-16px.gif" alt="" style="width:16px; height:16px; background: transparent url(http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-16px.png) no-repeat; background-position:0px -px; border:0;"/></a></li> 
+
+ <li><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fvocationalexcellence.education.ox.ac.uk%2Fprivacy%2F&amp;title=Privacy" title="Submit this to StumbleUpon" target="_blank" rel="nofollow"><img src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-16px.gif" alt="StumbleUpon" style="width:16px; height:16px; background: transparent url(http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-16px.png) no-repeat; background-position:0px -1530px; border:0;"/></a></li> 
+
+ <li><a href="http://vocationalexcellence.education.ox.ac.uk/privacy/" onclick="addBookmark(event);" title="Add to favorites" target="_blank" rel="nofollow"><img src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-16px.gif" alt="Add to favorites" style="width:16px; height:16px; background: transparent url(http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-16px.png) no-repeat; background-position:0px -0px; border:0;"/></a></li> 
+
+ <li><a href="mailto:?to=&amp;subject=Privacy&amp;body=This+privacy+policy+sets+out+how+we+use+and+protect+any+information+that+you+give+SKOPE+when+you+use+this+website.%0D%0A%0D%0ASKOPE+is+committed+to+ensuring+that+your+privacy+is+protected.+Should+we+ask+you+to+provide+certain+information+by+which+you+can+be%20-%20http://vocationalexcellence.education.ox.ac.uk/privacy/" title="Email this" target="_blank" rel="nofollow"><img src="http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-mask-16px.gif" alt="Email" style="width:16px; height:16px; background: transparent url(http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/plugins/wp-socializer/public/social-icons/wp-socializer-sprite-16px.png) no-repeat; background-position:0px -374px; border:0;"/></a></li> 
+</ul> 
+<div class="wp-socializer-clearer"></div></div>
+<!-- End WP Socializer - Social Buttons - Output -->
+
+		</div>
+	
+
+			</div> <!-- /.container -->
+		</div> <!-- /#page -->
+
+		<footer id="site-footer">
+			<div class="container">
+
+                                <div class="alignright" style="float:left!important; margin-left: 0px!important;">
+                                        <div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-593"><a href="http://vocationalexcellence.education.ox.ac.uk/terms-conditions/">Terms &#038; Conditions</a></li>
+<li id="menu-item-592" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-589 current_page_item menu-item-592"><a href="http://vocationalexcellence.education.ox.ac.uk/privacy/">Privacy</a></li>
+<li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-597"><a href="http://vocationalexcellence.education.ox.ac.uk/contact-us/">Contact us</a></li>
+</ul></div>                                </div>
+
+
+				<div class="alignleft" style="clear:both; margin-top: 20px; font-size: 11px!important;">
+					<p>&copy; <a href="http://www.skope.ox.ac.uk/" target="_blank" style="color: #fff;">The Centre on Skills, Knowledge and Organisational Performance (SKOPE)</a> 2015 | Site by <a href="http://www.oneltd.co.uk" style="color: white;">One</a></p>
+
+				</div>
+
+<div id="footerlogos">
+<a href="http://www.skope.ox.ac.uk/" target="_blank"><img src="/wordpress/wp-content/uploads/2013/09/skopelogo.png" style="margin-bottom: 19px;"></a>
+<a href="http://www.apprenticeships.org.uk/" target="_blank"><img src="/wordpress/wp-content/uploads/2013/09/apprenticeships.png" style="margin-bottom: 26px;"></a>
+<a href="http://www.ox.ac.uk/" target="_blank"><img src="/wordpress/wp-content/uploads/2013/09/oxfordlogo.png" style="margin-bottom: 13px; margin-left: 6px;"></a>
+<a href="http://www.education.ox.ac.uk" target="_blank"><img src="/wordpress/wp-content/uploads/2013/09/doe-logo.png" style="margin-bottom: 28px;"></a>
+</div>
+			</div>
+		</footer>
+
+			<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!catapultReadCookie("catAccCookies")){//If the cookie has not been set
+				jQuery("#catapult-cookie-bar").show();
+				jQuery("html").css("margin-top","0");
+			}
+		});
+	</script>
+<script type='text/javascript' src='http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://vocationalexcellence.education.ox.ac.uk/wordpress/wp-content/themes/water/javascript/core.js?ver=1'></script>
+<div id="catapult-cookie-bar">We use cookies to ensure that we give you the best experience on our website. If you continue to use the site, we'll assume that you are happy to receive these cookies.<button id="catapultCookie" tabindex=1 onclick="catapultAcceptCookies();">I'm happy to continue</button><a tabindex=1 href="http://vocationalexcellence.education.ox.ac.uk/cookie-policy">More info</a></div>
+	</body>
+	
+</html>

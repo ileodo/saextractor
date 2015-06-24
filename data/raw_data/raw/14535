@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>WISER | Social Science Library</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://blogs.bodleian.ox.ac.uk/ssl/wp-content/themes/twentyeleven-bodleian/style.css" />
+<link rel="pingback" href="http://blogs.bodleian.ox.ac.uk/ssl/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://blogs.bodleian.ox.ac.uk/ssl/wp-content/themes/twentyeleven-bodleian/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Social Science Library &raquo; Feed" href="http://blogs.bodleian.ox.ac.uk/ssl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Social Science Library &raquo; Comments Feed" href="http://blogs.bodleian.ox.ac.uk/ssl/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Social Science Library &raquo; WISER Category Feed" href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blogs.bodleian.ox.ac.uk\/ssl\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='moztheme2011-css'  href='http://blogs.bodleian.ox.ac.uk/ssl/wp-content/plugins/twenty-eleven-theme-extensions/moztheme2011.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='output-css'  href='http://blogs.bodleian.ox.ac.uk/ssl/wp-content/plugins/addthis/css/output.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://blogs.bodleian.ox.ac.uk/ssl/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://blogs.bodleian.ox.ac.uk/ssl/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-29066209-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.bodleian.ox.ac.uk/ssl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.bodleian.ox.ac.uk/ssl/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+	<style>
+		/* Link color */
+		a,
+		#site-title a:focus,
+		#site-title a:hover,
+		#site-title a:active,
+		.entry-title a:hover,
+		.entry-title a:focus,
+		.entry-title a:active,
+		.widget_twentyeleven_ephemera .comments-link a:hover,
+		section.recent-posts .other-recent-posts a[rel="bookmark"]:hover,
+		section.recent-posts .other-recent-posts .comments-link a:hover,
+		.format-image footer.entry-meta a:hover,
+		#site-generator a:hover {
+			color: #5b447a;
+		}
+		section.recent-posts .other-recent-posts .comments-link a:hover {
+			border-color: #5b447a;
+		}
+		article.feature-image.small .entry-summary p a:hover,
+		.entry-header .comments-link a:hover,
+		.entry-header .comments-link a:focus,
+		.entry-header .comments-link a:active,
+		.feature-slider a.active {
+			background-color: #5b447a;
+		}
+	</style>
+	<style type="text/css">
+			#site-title a,
+		#site-description {
+			color: #5b447a !important;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ddd8e3; }
+</style>
+
+<style id="custom-css-css">/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+*/</style>
+</head>
+
+<body class="archive category category-wiser category-10 custom-background two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+
+                                                  <hgroup>
+                            <h1 id="site-title"><span><a href="http://blogs.bodleian.ox.ac.uk/ssl/" title="Social Science Library" rel="home">Social Science Library</a></span></h1>
+                            <h2 id="site-description">A Bodleian Libraries weblog</h2>
+                          </hgroup>
+                        
+						<a href="http://blogs.bodleian.ox.ac.uk/ssl/">
+									<img src="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/01/Header1.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://blogs.bodleian.ox.ac.uk/ssl/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://blogs.bodleian.ox.ac.uk/ssl/">Home</a></li><li class="page_item page-item-19"><a href="http://blogs.bodleian.ox.ac.uk/ssl/opening-hours/">Opening Hours</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<section id="primary">
+			<div id="content" role="main">
+
+			
+				<header class="page-header">
+					<h1 class="page-title">Category Archives: <span>WISER</span></h1>
+
+									</header>
+
+				
+								
+					
+	<article id="post-653" class="post-653 post type-post status-publish format-standard hentry category-training-sessions category-wiser">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/06/13/wiser-sessions-in-week-8-protecting-you-work-and-open-access/" title="Permalink to WISER Sessions in Week 8: Protecting you Work and Open Access" rel="bookmark">WISER Sessions in Week 8: Protecting you Work and Open Access</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/06/13/wiser-sessions-in-week-8-protecting-you-work-and-open-access/" title="9:30 am" rel="bookmark"><time class="entry-date" datetime="2014-06-13T09:30:50+00:00" pubdate>13 June 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/ssl/author/anjabadock/" title="View all posts by anjabadock" rel="author">anjabadock</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="font-weight: normal;color: #000000">WISER is a series of free workshops designed to help you make effective use of scholarly publications and other materials in print and online. Why not book a place on one our courses taking place next week?</p>
+<p style="font-weight: normal;color: #000000"><strong>WISER: Protecting your work &#8211; what you need to know about copyright</strong></p>
+<p style="font-weight: normal;color: #000000"><strong>Tue 17 June, 11.00 &#8211; 12.30</strong></p>
+<p style="font-weight: normal;color: #000000">Intellectual property and copyright are key concerns for today&#8217;s researchers. This event will raise your awareness of issues to look out for, both in using other people&#8217;s work and in publishing your own work.</p>
+<p style="font-weight: normal;color: #000000"><em>Who is this session for?</em>  Postgraduate students, researchers, academics and staff<br />
+Presenters: Tim Padfield</p>
+<p style="font-weight: normal;color: #000000"><em>Venue:</em> Seminar Room A, Manor Road Building &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZD71" target="_blank">Book your place</a></strong></p>
+<p style="font-weight: normal;color: #000000"><strong><a href="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/06/Image-padlock.jpg"><img class="aligncenter wp-image-654" src="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/06/Image-padlock.jpg" alt="Image - padlock" width="208" height="288" /></a></strong></p>
+<p style="font-weight: normal;color: #000000"><strong><span style="color: #808080"><span style="color: #000000">Open Access: Monographs and Open Access &#8211; join the HEFCE debate </span></span></strong></p>
+<p style="font-weight: normal;color: #000000"><strong><span style="color: #808080"><span style="color: #000000">Wed 18 June, 2.00 &#8211; 5.30</span></span></strong></p>
+<p style="font-weight: normal;color: #000000">An opportunity for Oxford academics and researchers to debate the issues around scholarly monographs and open access with publishers and funders, and feed into HEFCE&#8217;s Expert Reference Group project.</p>
+<p style="font-weight: normal;color: #000000">Programme of speakers:</p>
+<ul style="font-weight: normal;color: #000000">
+<li>Introduction: Catriona Cannon (Interim Deputy Librarian, Bodleian Libraries)</li>
+<li>Cecy Marden (Wellcome Trust, HEFCE Expert Reference Group)</li>
+<li>Frances Pinter (Knowledge Unlatched, HEFCE Expert Reference Group)</li>
+<li>Rhodri Jackson (OUP and OAPEN-UK JISC-funded project on open access monographs)</li>
+<li>Geoffrey Crossick (HEFCE Expert Reference Group, Chair)</li>
+<li>QandA. Panel joined by Sally Rumsey (Oxford Research Archive)</li>
+</ul>
+<p style="font-weight: normal;color: #000000"><em>Who is this session for?</em> Academics and researchers, especially Humanities and Social Sciences.</p>
+<p style="font-weight: normal;color: #000000"><em>Venue:</em> Lecture Room, Radcliffe Observatory Quarter &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZ005" target="_blank">Book your place</a></strong></p>
+<hr />
+<p>&nbsp;</p>
+<p><strong>Keep up to date&#8230;</strong></p>
+<p><strong>Join our mailing list:</strong><br />
+email <a style="color: #2954d1" href="mailto:wiser-subscribe@maillist.ox.ac.uk">wiser-subscribe@maillist.ox.ac.uk</a></p>
+<p><strong>Visit our blog:</strong> <a href="http://bodwiser.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodwiser.wordpress.com/', 'BodWiser Blog']);" style="color: #2954d1"  target="_blank">BodWiser Blog</a></p>
+<p><strong>Follow us on Twitter </strong><a href="http://twitter.com/oxwiser" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitter.com/oxwiser', '@OxWISER']);" style="color: #2954d1"  target="_blank">@OxWISER</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/06/13/wiser-sessions-in-week-8-protecting-you-work-and-open-access/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-653" class="share-twitter sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/06/13/wiser-sessions-in-week-8-protecting-you-work-and-open-access/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-653" class="share-facebook sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/06/13/wiser-sessions-in-week-8-protecting-you-work-and-open-access/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-653" class="share-google-plus-1 sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/06/13/wiser-sessions-in-week-8-protecting-you-work-and-open-access/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/" rel="category tag">Training Sessions</a>, <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/" rel="category tag">WISER</a>			</span>
+									
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-653 -->
+
+				
+					
+	<article id="post-577" class="post-577 post type-post status-publish format-standard hentry category-training-sessions category-wiser">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/28/wiser-workshops-in-week-6-citation-analysis-tools-refworks-and-open-access-oxford/" title="Permalink to WISER workshops in week 6: Citation Analysis Tools, RefWorks and Open Access Oxford" rel="bookmark">WISER workshops in week 6: Citation Analysis Tools, RefWorks and Open Access Oxford</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/28/wiser-workshops-in-week-6-citation-analysis-tools-refworks-and-open-access-oxford/" title="9:30 am" rel="bookmark"><time class="entry-date" datetime="2014-05-28T09:30:33+00:00" pubdate>28 May 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/ssl/author/anjabadock/" title="View all posts by anjabadock" rel="author">anjabadock</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="font-weight: normal;color: #000000">
+<p style="font-weight: normal;color: #000000">
+<p style="font-weight: normal;color: #000000">
+<p style="font-weight: normal;color: #000000">Interested in what impact research is having? Come along on Wednesday 4 June for introduction to citation analysis tools.</p>
+<p style="font-weight: normal;color: #000000">Are you a scientist or social scientist who has to use references? Why not learn more about how RefWorks can help you from 2-5 pm on Wednesday 4 June.</p>
+<p style="font-weight: normal;color: #000000">Want to find out the latest on Open Access in Oxford? There is a session for you on Thursday 5 June.</p>
+<p style="font-weight: normal;color: #000000">WISER workshops are free sessions aimed at improving your understanding of scholarly publications and electronic resources. Just a book your place today&#8230;</p>
+<p style="font-weight: normal;color: #000000"><strong><img class="aligncenter wp-image-579 size-full" src="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/05/oao-header-banner.png" alt="oao-header-banner" width="980" height="130" />WISER: Research Impact &#8211; citation analysis tools (Wed 4 June 11.00 &#8211; 12.00)</strong><strong> </strong></p>
+<p style="font-weight: normal;color: #000000">An introduction to citation tracking and bibliometrics, using a range of &#8216;impact factor&#8217; tools to find top journals and conferences, count citations and measure the impact of publications and researchers. We explain their strengths and weaknesses, and how to access them. We cover: Journal Citation Reports, SCImago Journal Rank, Web of Science, Scopus, Google Scholar, Essential Science Indicators, ORCID, and more.</p>
+<p style="font-weight: normal;color: #000000">Who is this session for? Researchers, Academics, Research Support Staff and Research Postgraduates, especially in Sciences and Social Sciences.</p>
+<p style="font-weight: normal;color: #000000">Presenters: Juliet Ralph, Karine Barker and Kelly Schultz</p>
+<p style="font-weight: normal;color: #000000">Venue: Radcliffe Science Library<strong> &gt;<a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZD24" target="_blank">Book your place</a></strong></p>
+<p style="font-weight: normal;color: #000000"><strong>RefWorks for Sciences and Social Sciences (Wed 4 June 2.00 &#8211; 5.00) </strong></p>
+<p style="font-weight: normal;color: #000000">RefWorks is an online tool which allows you to manage your citations/references, insert them into your work as footnotes or intext citations, automatically generate bibliographies and easily switch between citation styles. This introduction is open to all but the section on importing references will focus on Science/Social Science examples.</p>
+<p style="font-weight: normal;color: #000000">Who is this session for? Postgraduates, researchers, academics and undergraduates wishing to use reference management software.</p>
+<p style="font-weight: normal;color: #000000">Presenters: Nia Roberts and Gigi Horsfield</p>
+<p style="font-weight: normal;color: #000000">Venue: Radcliffe Science Library &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TDBL" target="_blank">Book your place</a></strong></p>
+<p style="font-weight: normal;color: #000000"><strong>WISER: Open Access Oxford &#8211; What&#8217;s happening? (Thurs 5 Jun 12.00 &#8211; 1.00)</strong></p>
+<p style="font-weight: normal;color: #000000">A briefing on open access publishing and Oxford&#8217;s position: Green vs. Gold; funder mandates and publisher policies; Oxford Research Archive (ORA) and Symplectic; OA website/ helpline; what&#8217;s new<strong>.</strong></p>
+<p style="font-weight: normal;color: #000000">Who is this session for?  Current Oxford research postgraduates, researchers, academics, University and Library staff.</p>
+<p style="font-weight: normal;color: #000000">Presenters:  Juliet Ralph and Johanneke Sytsema</p>
+<p style="font-weight: normal;color: #000000">Venue: Room 2, Taylor Institution<strong>  &gt; <a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZW7" target="_blank">Book your place</a></strong></p>
+<h1 style="font-weight: normal;color: #000000"><strong>Keep up to date on what WISER workshops are coming up&#8230;</strong></h1>
+<p style="font-weight: normal;color: #000000"><strong>Join our mailing list:</strong><br />
+email <a style="color: #2954d1" href="mailto:wiser-subscribe@maillist.ox.ac.uk">wiser-subscribe@maillist.ox.ac.uk</a></p>
+<p style="font-weight: normal;color: #000000"><strong>Visit our blog:</strong> <a href="http://bodwiser.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodwiser.wordpress.com/', 'BodWiser Blog']);" style="color: #2954d1"  target="_blank">BodWiser Blog</a></p>
+<p style="font-weight: normal;color: #000000"><strong>Follow us on Twitter </strong><a href="http://twitter.com/oxwiser" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitter.com/oxwiser', '@OxWISER']);" style="color: #2954d1"  target="_blank">@OxWISER</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/28/wiser-workshops-in-week-6-citation-analysis-tools-refworks-and-open-access-oxford/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-577" class="share-twitter sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/28/wiser-workshops-in-week-6-citation-analysis-tools-refworks-and-open-access-oxford/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-577" class="share-facebook sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/28/wiser-workshops-in-week-6-citation-analysis-tools-refworks-and-open-access-oxford/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-577" class="share-google-plus-1 sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/28/wiser-workshops-in-week-6-citation-analysis-tools-refworks-and-open-access-oxford/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/" rel="category tag">Training Sessions</a>, <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/" rel="category tag">WISER</a>			</span>
+									
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-577 -->
+
+				
+					
+	<article id="post-543" class="post-543 post type-post status-publish format-standard hentry category-graduate-search-clinic category-training-sessions category-wiser">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/21/graduate-search-clinic-and-wiser-workshops-in-week-5/" title="Permalink to Graduate Search Clinic and WISER workshops in week 5" rel="bookmark">Graduate Search Clinic and WISER workshops in week 5</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/21/graduate-search-clinic-and-wiser-workshops-in-week-5/" title="4:52 pm" rel="bookmark"><time class="entry-date" datetime="2014-05-21T16:52:20+00:00" pubdate>21 May 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/ssl/author/anjabadock/" title="View all posts by anjabadock" rel="author">anjabadock</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Wish to polish up your reference management skills? Or perhaps you&#8217;re confused about data? Then look now further than the workshops taking place next week. Our experienced library staff will show you the ropes and be happy to answer your questions. Book your place now&#8230;<a href="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/02/signpost-cities-morguefile.jpg"><img class="aligncenter wp-image-214" src="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/02/signpost-cities-morguefile.jpg" alt="signpost cities morguefile" width="416" height="280" /></a></p>
+<p><strong>WISER: Mendeley for Reference Management (Tue 27 May 9.15 &#8211; 12.15) </strong></p>
+<p style="font-weight: normal;color: #000000">Mendeley is a reference management package that helps you build libraries of references and then add citations and bibliographies to word processed documents.</p>
+<p style="font-weight: normal;color: #000000">Who is this session for? Postgraduates, researchers, academics and undergraduates wishing to use reference management software.</p>
+<p style="font-weight: normal;color: #000000">Presenters: Oliver Bridle and Owen Coxall</p>
+<p style="font-weight: normal;color: #000000">Venue: IT Services, 13 Banbury Road &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZWL2" target="_blank">Book your place</a></strong></p>
+<p style="font-weight: normal;color: #000000"><strong>Managing your social science research data from beginning to end (Tue 27 May, 12.00 &#8211; 1.30)</strong></p>
+<p style="font-weight: normal;color: #000000">Good research data management is a vital component of academic practice. The data used to develop the arguments and outcomes of your research should be accessible, assessable, usable and traceable.</p>
+<p style="font-weight: normal;color: #000000">This 90 minutes session introduces the University’s research data policy and outlines the practical impact this will have on the work of researchers. Some of the tools in preparation to meet the requirements will be outlined as well as other tools that are already available.  Main subjects will include:</p>
+<ul>
+<li>Common pitfalls of digital data</li>
+<li>Producing a data management plan</li>
+<li>Effective organisation of your data</li>
+<li>Planning for preservation</li>
+<li>The place of embargoes and access restrictions</li>
+<li>Oxford based tools for RDM</li>
+<li>Current provision –  are there  gaps in the support we give you?</li>
+</ul>
+<p>This session is not only essential for you at any stage during your DPhil but will be invaluable as your progress into early career research, and beyond.</p>
+<p>Venue: SSL IT Training Room, Ground Floor, Manor Road Building</p>
+<p><a href="https://weblearn.ox.ac.uk/course-signup/rest/course/3C00D30142">Book a place on this session</a></p>
+<p><strong>WISER: Finding and Converting Geospatial Data (Tue</strong><strong> 27 May 2.00 &#8211; 5.00)</strong></p>
+<p>This course covers how to find and convert geospatial data and prepare it for digital mapmaking in ArcGIS. This is the preliminary stage of GIS work &#8211; see <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TMPF" target="_blank">ArcGIS Desktop</a></strong> for training in mapmaking itself.</p>
+<p>Who is this session for? Postgraduate students, researchers, academics and anyone else interested in finding and converting geospatial data.</p>
+<p>Presenters: Kelly Schultz and Michael Athanson</p>
+<p>Venue: Radcliffe Science Library &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZW8" target="_blank">Book your place</a></strong></p>
+<p style="font-weight: normal;color: #000000"><strong>RefWorks for Humanities (Wed 28 May 9.15 &#8211; 12.15)</strong></p>
+<p style="font-weight: normal;color: #000000">RefWorks is an online tool which allows you to manage your citations/references, insert them into your work as footnotes or intext citations, automatically generate bibliographies and easily switch between citation styles. This introduction is open to all, but the section on importing references will focus on Humanities examples.</p>
+<p style="font-weight: normal;color: #000000">Who is this session for? Postgraduates, researchers,  academics and undergraduates wishing to use reference management software.</p>
+<p style="font-weight: normal;color: #000000">Presenters: Bethan Jenkins, Nora Khayi and Angela Carritt</p>
+<p style="font-weight: normal;color: #000000">Venue: IT Services, 13 Banbury Road &gt;<strong> <a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TDBM" target="_blank">Book your place</a></strong></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/21/graduate-search-clinic-and-wiser-workshops-in-week-5/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-543" class="share-twitter sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/21/graduate-search-clinic-and-wiser-workshops-in-week-5/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-543" class="share-facebook sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/21/graduate-search-clinic-and-wiser-workshops-in-week-5/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-543" class="share-google-plus-1 sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/21/graduate-search-clinic-and-wiser-workshops-in-week-5/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/graduate-search-clinic/" rel="category tag">Graduate Search Clinic</a>, <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/" rel="category tag">Training Sessions</a>, <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/" rel="category tag">WISER</a>			</span>
+									
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-543 -->
+
+				
+					
+	<article id="post-485" class="post-485 post type-post status-publish format-standard hentry category-training-sessions category-wiser">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/09/wiser-workshops-in-week-3-online-resources-for-historians-sources-for-us-history-and-medievalists/" title="Permalink to WISER workshops in week 3: Online Resources for Historians, Sources for US History and Medievalists" rel="bookmark">WISER workshops in week 3: Online Resources for Historians, Sources for US History and Medievalists</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/09/wiser-workshops-in-week-3-online-resources-for-historians-sources-for-us-history-and-medievalists/" title="12:45 pm" rel="bookmark"><time class="entry-date" datetime="2014-05-09T12:45:01+00:00" pubdate>9 May 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/ssl/author/anjabadock/" title="View all posts by anjabadock" rel="author">anjabadock</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="font-weight: normal;color: #000000">Calling all Historians&#8230;</p>
+<p style="font-weight: normal;color: #000000">WISER (Workshops in Information Skills and E-resources) is a series of free workshops designed to help you make effective use of scholarly publications and other materials in print and online. These are coming up next week, book your place today:</p>
+<p style="font-weight: normal;color: #000000"><strong><span style="color: #000000"><img class="aligncenter wp-image-263" src="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/03/BOOKS-IMAGE-FOR-BLOG.jpg" alt="42-16022395" width="444" height="524" />WISER: Online Resources for Historians (Mon 12 May 9.30 &#8211; 10.45)<br />
+</span></strong><span style="color: #000000">A general introduction to the vast range of electronic resources which are available for all historical periods for British and W European history: bibliographical databases, biographical / reference research aids, ebooks and ejournals, web portals, and collections of online primary source materials.<br />
+</span></p>
+<p style="font-weight: normal;color: #000000"><span style="color: #000000"><em>Who is this session for?</em> Students, researchers and anyone interested in this topic.<br />
+</span></p>
+<p style="font-weight: normal;color: #000000"><span style="color: #000000"><em>Presenter:</em> Isabel Holowaty</span><strong><span style="color: #000000"><br />
+</span></strong></p>
+<p style="font-weight: normal;color: #000000"><span style="color: #000000"><em>Venue</em>: Radcliffe Science Library</span><span style="color: #000000"> </span><span style="color: #000000">&gt;</span><strong><span style="color: #000000"> <a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZC26" target="_blank">Book your p</a><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZC26" target="_blank">lace</a><br />
+</span></strong></p>
+<p style="font-weight: normal;color: #000000"><strong><span style="color: #000000">WISER: Sources for US History (Mon 12 May 11.00 &#8211; 12.30)<br />
+</span></strong>Introduction to key information sources for the study of colonial America and US history up to 1990. Starting with finding tools to locate material, examples of source materials will then be shown including archival, microform, printed/online collections and useful web portals and audiovisual collections.</p>
+<p style="font-weight: normal;color: #000000"><em>Who is this session for?</em> Students, researchers and anyone interested in this topic.</p>
+<p style="font-weight: normal;color: #000000"><em>Presenter:</em> Jane Rawson</p>
+<p style="font-weight: normal;color: #000000"><em>Venue:</em> Radcliffe Science Library &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZE9" target="_blank">Book your place</a></strong><strong><span style="color: #000000"><br />
+</span></strong></p>
+<p style="font-weight: normal;color: #000000"><strong><span style="color: #000000">WISER: Sources for Medievalists (Fri 16 May 2.00 &#8211; 4.00) </span></strong><br />
+General overview to a range of e-resources relevant for British and Western European medieval studies: bibliographical databases, biographical/reference tools, web portals and collections of online primary source materials of Anglo-Saxon sources, Greek/Latin texts, chronicles, charters and literary works.</p>
+<p style="font-weight: normal;color: #000000"><em>Who is this session for?</em> Researchers, students, academics, staff e.g. Classicists, Historians, Philosophers, Theologians etc.</p>
+<p style="font-weight: normal;color: #000000"><em> Presenters:</em> Isabel Holowaty, Sue Usher, Hilla Wait, Charlotte Goodall and Eva Oledzka</p>
+<p style="font-weight: normal;color: #000000"><em>Venue:</em> IT Services, 13 Banbury Road &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZE12" target="_blank">Book your place</a></strong></p>
+<hr />
+<p style="font-weight: 300;color: #373737">
+<p style="font-weight: 300;color: #373737">Why not join the mailing list by sending an empty email to<strong style="font-weight: bold;font-style: inherit"> <a style="font-weight: inherit;font-style: inherit;color: #5b447a" title="mailto:wiser-subscribe@maillist.ox.ac.uk" href="mailto:wiser-subscribe@maillist.ox.ac.uk">wiser-subscribe@maillist.ox.ac.uk</a>, </strong></p>
+<p style="font-weight: 300;color: #373737">Follow WISER on Twitter at <a href="http://twitter.com/oxwiser" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitter.com/oxwiser', 'http://twitter.com/oxwiser']);" style="font-weight: inherit;font-style: inherit;color: #5b447a" title="http://twitter.com/oxwiser">http://twitter.com/oxwiser</a></p>
+<p style="font-weight: 300;color: #373737">Visit the BodWiser blog at <a href="http://bodwiser.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodwiser.wordpress.com/', 'http://bodwiser.wordpress.com']);" style="font-weight: inherit;font-style: inherit;color: #5b447a" title="http://bodwiser.wordpress.com/">http://bodwiser.wordpress.com</a></p>
+<p style="font-weight: 300;color: #373737">If you have any questions please contact <a style="font-weight: inherit;font-style: inherit;color: #5b447a" href="mailto:usered@bodleian.ox.ac.uk">usered@bodleian.ox.ac.uk</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/09/wiser-workshops-in-week-3-online-resources-for-historians-sources-for-us-history-and-medievalists/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-485" class="share-twitter sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/09/wiser-workshops-in-week-3-online-resources-for-historians-sources-for-us-history-and-medievalists/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-485" class="share-facebook sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/09/wiser-workshops-in-week-3-online-resources-for-historians-sources-for-us-history-and-medievalists/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-485" class="share-google-plus-1 sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/05/09/wiser-workshops-in-week-3-online-resources-for-historians-sources-for-us-history-and-medievalists/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/" rel="category tag">Training Sessions</a>, <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/" rel="category tag">WISER</a>			</span>
+									
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-485 -->
+
+				
+					
+	<article id="post-429" class="post-429 post type-post status-publish format-standard hentry category-training-sessions category-wiser">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/04/29/wiser-workshops-in-weeks-1-and-2/" title="Permalink to WISER workshops in weeks 1 and 2" rel="bookmark">WISER workshops in weeks 1 and 2</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/04/29/wiser-workshops-in-weeks-1-and-2/" title="10:19 am" rel="bookmark"><time class="entry-date" datetime="2014-04-29T10:19:00+00:00" pubdate>29 April 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/ssl/author/anjabadock/" title="View all posts by anjabadock" rel="author">anjabadock</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="font-weight: normal;color: #000000">WISER (Workshops in Information Skills and E-resources) is a series of <strong>free</strong> workshops designed to help you make effective use of scholarly publications and other materials in print and online. Book your place today&#8230;<img class="alignnone  wp-image-214" src="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/02/signpost-cities-morguefile.jpg" alt="signpost cities morguefile" width="357" height="240" /></p>
+<p style="font-weight: normal;color: #000000"><strong>WISER: Finding stuff – Scholarly literature for your Research (Fri 2 May 9.15 &#8211; 12.15) (wk 1)</strong></p>
+<p style="font-weight: normal;color: #000000">A practical introduction to searching for scholarly materials to support your research, covering a range of tools for finding monographs, journal articles, conference papers, theses and more.</p>
+<p style="font-weight: normal;color: #000000"><em>Who is this session for?</em> Postgraduates, researchers and academics<br />
+<em>Presenters:</em> Joanne Edwards, Craig Finlay and Helen Worrell<br />
+<em>Venue</em>: IT Services, 13 Banbury Road &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZW21" target="_blank">Book your place</a></strong></p>
+<p style="font-weight: normal;color: #000000"><strong>WISER: Tech Tools &#8211; Reference Management (Tue 6 May 9.15 &#8211; 12.15)</strong> <strong>(wk 2)</strong></p>
+<p style="font-weight: normal;color: #000000">Keeping track of your references and formatting them correctly for your thesis or publication is a chore. Reference management software makes it easy and is worth investigating. This introductory session gives an overview of how it works and the pros and cons of RefWorks, EndNote, Zotero and Mendeley.</p>
+<p style="font-weight: normal;color: #000000"><em>Who is this session for?</em> Postgraduates, researchers,  academics and undergraduates wishing to use reference management software.<br />
+<em>Presenters</em>: Oliver Bridle, Pamela Stanworth, Kelly Schultz and Angela Carritt<br />
+<em>Venue</em>: IT Services, 13 Banbury Road &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZW6" target="_blank">Book your place</a></strong></p>
+<p style="font-weight: normal;color: #000000"><strong>WISER: Information Sources for African Studies (Thurs 8 May 10.00 &#8211; 11.30) (wk 2)</strong></p>
+<p style="font-weight: normal;color: #000000">This session will introduce key information sources for African Studies. You will be shown useful finding tools to locate relevant material via SOLO and how to search them, as well as important portals and gateways to libraries and archives of online primary texts. There will be time for a brief hands-on.</p>
+<p style="font-weight: normal;color: #000000"><em>Who is this session for?</em> Researchers, academic staff, graduates and anyone interested in the topic.<br />
+<em>Presenters</em>: Lucy McCann and Sarah Rhodes<br />
+<em>Venue:</em> Social Science Library &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZD16" target="_blank">Book your place</a></strong></p>
+<p style="font-weight: normal;color: #000000"><span style="color: #000000"><strong>WISER: Getting information to come to you (Thu 8 May 2.00 &#8211; 3.30) (wk 2)</strong></span></p>
+<p style="font-weight: normal;color: #000000"><span style="color: #000000">Keeping up to date with new research is important but time consuming!  This session will show you how to set up automatic alerts so that you are notified about new articles and other publications and when key web sites are updated.    Participants will have the opportunity to set up RSS feed readers and/or email notifications during the session.</span></p>
+<p style="font-weight: normal;color: #000000"><span style="color: #000000"><em>Who is this session for?</em> Postgraduates, researchers and academics.<br />
+<em>Presenters</em>:  Jane Rawson and Helen Matthews<br />
+<em>Venue:</em> Radcliffe Science Library</span><span style="color: #000000"> &gt; <strong><a style="color: #2954d1" href="http://courses.it.ox.ac.uk/detail/TZD20" target="_blank">Book your place</a></strong></span></p>
+<h2 style="font-weight: bold">Keep up to date with Bodleian Libraries training opportunities</h2>
+<p style="font-weight: 300;color: #373737">Why not follow us on <strong style="font-weight: bold;font-style: inherit">Twitter</strong> at <a href="http://twitter.com/oxwiser" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitter.com/oxwiser', 'http://twitter.com/oxwiser']);" style="font-weight: inherit;font-style: inherit;color: #5b447a" title="http://twitter.com/oxwiser">http://twitter.com/oxwiser</a> or visit the <strong style="font-weight: bold;font-style: inherit">BodWiser blog</strong> at<a href="http://bodwiser.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodwiser.wordpress.com/', 'http://bodwiser.wordpress.com']);" style="font-weight: inherit;font-style: inherit;color: #5b447a" title="http://bodwiser.wordpress.com/">http://bodwiser.wordpress.com</a></p>
+<p style="font-weight: 300;color: #373737"><b>Questions?</b> – Please contact <a style="font-weight: inherit;font-style: inherit;color: #5b447a" href="mailto:usered@bodleian.ox.ac.uk">usered@bodleian.ox.ac.uk</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/04/29/wiser-workshops-in-weeks-1-and-2/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-429" class="share-twitter sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/04/29/wiser-workshops-in-weeks-1-and-2/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-429" class="share-facebook sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/04/29/wiser-workshops-in-weeks-1-and-2/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-429" class="share-google-plus-1 sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/04/29/wiser-workshops-in-weeks-1-and-2/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/" rel="category tag">Training Sessions</a>, <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/" rel="category tag">WISER</a>			</span>
+									
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-429 -->
+
+				
+					
+	<article id="post-205" class="post-205 post type-post status-publish format-standard hentry category-training-sessions category-wiser">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/25/wiser-workshops-in-weeks-6-and-7-e-books-and-e-readers-open-access-and-refworks-for-science-and-social-sciences/" title="Permalink to WISER workshops in weeks 6 and 7: E-Books and E-Readers, Open Access and RefWorks for Science and Social Sciences" rel="bookmark">WISER workshops in weeks 6 and 7: E-Books and E-Readers, Open Access and RefWorks for Science and Social Sciences</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/25/wiser-workshops-in-weeks-6-and-7-e-books-and-e-readers-open-access-and-refworks-for-science-and-social-sciences/" title="10:03 am" rel="bookmark"><time class="entry-date" datetime="2014-02-25T10:03:03+00:00" pubdate>25 February 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/ssl/author/anjabadock/" title="View all posts by anjabadock" rel="author">anjabadock</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Why not come along to one of our free workshops in weeks 6 and 7? WISER workshops are run by experienced staff and aim to help you make the best use of the wide variety scholarly materials available to you&#8230;.</p>
+<p><img class="alignnone  wp-image-207" style="color: #333333;font-style: normal" alt="ipad with purple flower file7211303090805 morguefile" src="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/02/ipad-with-purple-flower-file7211303090805-morguefile.png" width="244" height="305" /></p>
+<p><strong>WISER: E-books  (Thurs 27 Feb 3.00 &#8211; 4.00)</strong> <strong>(wk 6)</strong><br />
+An overview of academic e-books looking at what is currently available in e-format, how to find and access e-books and how to make the most of e-book functionality.</p>
+<p><em>Who is this session for?</em>  All members of Oxford University and other Bodleian Libraries readers</p>
+<p><em>Presenters</em>: Hilla Wait, Jo Gardner and Ian Chilvers</p>
+<p><em>Venue</em>: IT Services, 13 Banbury Road &gt; <strong><a href="http://courses.it.ox.ac.uk/detail/TZC4" target="_blank">Book your place</a></strong></p>
+<p><strong>WISER: E-book readers (Thurs 27 Feb 4.15 &#8211; 5.15)</strong> <strong>(wk 6)</strong><br />
+How useful are e-book readers in academic work? Can they be used for accessing library materials? What are the features to look out for when considering purchase? These and similar questions will be considered with reference to the i-Pad, the Amazon Kindle and Sony Touch e-readers and smart phones.</p>
+<p><em>Who is this session for?</em> All members of Oxford University and other Bodleian Libraries readers</p>
+<p><em>Presenters:</em> Hilla Wait, Jo Gardner and Ian Chilvers</p>
+<p><em>Venue:</em> IT Services, 13 Banbury Road  &gt; <strong><a href="http://courses.it.ox.ac.uk/detail/TZE11" target="_blank">Book your place</a></strong></p>
+<p><strong>WISER: Open Access Oxford &#8211; What&#8217;s happening? (Wed 5 Mar 12 &#8211; 1) (wk 7)<br />
+</strong>A briefing on open access for research publications and Oxford&#8217;s position: Green vs. Gold; funder mandates and publisher policies; Oxford Research Archive (ORA) and Symplectic; new OA website/ helpline<strong>.</strong></p>
+<p><em>Who is this session for?</em>  Current Oxford research postgraduates, researchers, academics, University and Library staff.</p>
+<p><em>Presenters:</em>  Juliet Ralph and Johanneke Sytsema</p>
+<p><em>Venue</em>: Room 3, Taylor Institution<strong>  &gt; <a href="http://courses.it.ox.ac.uk/detail/TZW7" target="_blank">Book your place</a></strong></p>
+<p><strong>RefWorks for Sciences and Social Sciences (Fri 7 Mar 9.15 &#8211; 12.15) (wk 7)</strong><br />
+RefWorks is an online tool which allows you to manage your citations/references, insert them into your work as footnotes or intext citations, automatically generate bibliographies and easily switch between citation styles. This introduction is open to all but the section on importing references will focus on Science/Social Science examples.</p>
+<p><em>Who is this session for?</em> Postgraduates, researchers, academics and undergraduates wishing to use reference management software.</p>
+<p><em>Presenters</em>: Nia Roberts, Gigi Horsfield and Angela Carritt</p>
+<p><em>Venue</em>: IT Services, 13 Banbury Road. &gt; <strong><a href="http://courses.it.ox.ac.uk/detail/TDBL" target="_blank">Book your place</a></strong></p>
+<h2>Keep up to date with Bodleian Libraries training opportunities</h2>
+<p>Why not follow us on <strong>Twitter</strong> at <a href="http://twitter.com/oxwiser" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitter.com/oxwiser', 'http://twitter.com/oxwiser']);" title="http://twitter.com/oxwiser">http://twitter.com/oxwiser</a> or visit the <strong>BodWiser blog</strong> at<a href="http://bodwiser.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodwiser.wordpress.com/', 'http://bodwiser.wordpress.com']);" title="http://bodwiser.wordpress.com/">http://bodwiser.wordpress.com</a></p>
+<p><b>Questions?</b> – Please contact <a href="mailto:usered@bodleian.ox.ac.uk">usered@bodleian.ox.ac.uk</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/25/wiser-workshops-in-weeks-6-and-7-e-books-and-e-readers-open-access-and-refworks-for-science-and-social-sciences/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-205" class="share-twitter sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/25/wiser-workshops-in-weeks-6-and-7-e-books-and-e-readers-open-access-and-refworks-for-science-and-social-sciences/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-205" class="share-facebook sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/25/wiser-workshops-in-weeks-6-and-7-e-books-and-e-readers-open-access-and-refworks-for-science-and-social-sciences/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-205" class="share-google-plus-1 sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/25/wiser-workshops-in-weeks-6-and-7-e-books-and-e-readers-open-access-and-refworks-for-science-and-social-sciences/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/" rel="category tag">Training Sessions</a>, <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/" rel="category tag">WISER</a>			</span>
+									
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-205 -->
+
+				
+					
+	<article id="post-121" class="post-121 post type-post status-publish format-standard hentry category-training-sessions category-wiser">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/11/wiser-workshops-in-week-5-mendeley-research-impact-and-refworks-for-humanities/" title="Permalink to WISER workshops in week 5: Mendeley, Research Impact, and RefWorks for Humanities" rel="bookmark">WISER workshops in week 5: Mendeley, Research Impact, and RefWorks for Humanities</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/11/wiser-workshops-in-week-5-mendeley-research-impact-and-refworks-for-humanities/" title="11:18 am" rel="bookmark"><time class="entry-date" datetime="2014-02-11T11:18:55+00:00" pubdate>11 February 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/ssl/author/anjabadock/" title="View all posts by anjabadock" rel="author">anjabadock</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: left">Next week there are workshops on reference management software and citation analysis tools. Book your place now.<a href="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/02/keyboard-confused-morguefile.jpg"><img class="wp-image-122 aligncenter" alt="keyboard confused morguefile" src="http://blogs.bodleian.ox.ac.uk/ssl/files/2014/02/keyboard-confused-morguefile.jpg" width="464" height="349" /></a></p>
+<p><strong>WISER: Mendeley for reference management (Tue 18 Feb 9.15 &#8211; 12.15) (wk 5) </strong></p>
+<p>Mendeley is a reference management package that helps you build libraries of references and then add citations and bibliographies to word processed documents.</p>
+<p><em>Who is this session for?</em> Postgraduates, researchers, academics and undergraduates wishing to use reference management software.</p>
+<p><em>Presenters</em>: Oliver Bridle and Owen Coxall</p>
+<p><em>Venue</em>: IT Services, 13 Banbury Road &gt; <strong><a href="http://courses.it.ox.ac.uk/detail/TZWL2" target="_blank">Book your place</a></strong></p>
+<p><strong> WISER: Research Impact &#8211; citation analysis tools (Tue 18 Feb 2.00 &#8211; 3.30pm) (wk 5)<br />
+</strong>An introduction to citation tracking and bibliometrics, using a range of &#8216;impact factor&#8217; tools to find top journals and conferences, count citations and measure the impact of publications and researchers. We explain their strengths and weaknesses, and how to access them. We cover: Journal Citation Reports, SCImago Journal Rank, Web of Science, Scopus, Google Scholar, Essential Science Indicators, ORCID, and more.<br />
+<em>Who is this session for?</em> Researchers, Academics, Research Support Staff and Research Postgraduates, especially in Sciences and Social Sciences.</p>
+<p><em>Presenters</em>: Juliet Ralph, Karine Barker, Kelly Schultz, Owen Coxall.</p>
+<p><em>Venue</em>: Radcliffe Science Library<strong> &gt;<a href="http://courses.it.ox.ac.uk/detail/TZD24" target="_blank">Book your place</a></strong></p>
+<p><strong>RefWorks for Humanities (Fri 21 Feb 9.15 &#8211; 12.15)</strong> <strong>(wk 5)</strong><br />
+RefWorks is an online tool which allows you to manage your citations/references, insert them into your work as footnotes or intext citations, automatically generate bibliographies and easily switch between citation styles. This introduction is open to all, but the section on importing references will focus on Humanities examples.</p>
+<p><em>Who is this session for?</em> Postgraduates, researchers,  academics and undergraduates wishing to use reference management software.</p>
+<p><em>Presenters</em>: Bethan Jenkins, Nora Khayi and Angela Carritt</p>
+<p><em>Venue</em>: IT Services, 13 Banbury Road &gt;<strong> <a href="http://courses.it.ox.ac.uk/detail/TDBM" target="_blank">Book your place</a></strong></p>
+<h2>Keep up to date</h2>
+<p><strong>Why not join the mailing list by sending an empty email to <a title="mailto:wiser-subscribe@maillist.ox.ac.uk" href="mailto:wiser-subscribe@maillist.ox.ac.uk">wiser-subscribe@maillist.ox.ac.uk</a>, </strong>follow WISER on Twitter at <a href="http://twitter.com/oxwiser" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitter.com/oxwiser', 'http://twitter.com/oxwiser']);" title="http://twitter.com/oxwiser">http://twitter.com/oxwiser</a> or visit the BodWiser blog at <a href="http://bodwiser.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodwiser.wordpress.com/', 'http://bodwiser.wordpress.com']);" title="http://bodwiser.wordpress.com/">http://bodwiser.wordpress.com</a></p>
+<p><em><b>Questions?</b></em> – Please contact <a href="mailto:usered@bodleian.ox.ac.uk">usered@bodleian.ox.ac.uk</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/11/wiser-workshops-in-week-5-mendeley-research-impact-and-refworks-for-humanities/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-121" class="share-twitter sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/11/wiser-workshops-in-week-5-mendeley-research-impact-and-refworks-for-humanities/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-121" class="share-facebook sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/11/wiser-workshops-in-week-5-mendeley-research-impact-and-refworks-for-humanities/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-121" class="share-google-plus-1 sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/11/wiser-workshops-in-week-5-mendeley-research-impact-and-refworks-for-humanities/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/" rel="category tag">Training Sessions</a>, <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/" rel="category tag">WISER</a>			</span>
+									
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-121 -->
+
+				
+					
+	<article id="post-91" class="post-91 post type-post status-publish format-standard hentry category-training-sessions category-wiser">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/04/wiser-workshops-in-week-4-digital-images-and-finding-stuff/" title="Permalink to WISER workshops in week 4: Digital Images, and Finding Stuff" rel="bookmark">WISER workshops in week 4: Digital Images, and Finding Stuff</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/04/wiser-workshops-in-week-4-digital-images-and-finding-stuff/" title="4:44 pm" rel="bookmark"><time class="entry-date" datetime="2014-02-04T16:44:23+00:00" pubdate>4 February 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/ssl/author/ianchilvers/" title="View all posts by Ian Chilvers" rel="author">Ian Chilvers</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<h2>Digital images: ARTstor, Bridgeman Education and VADS for teaching and learning (Wed 12 Feb 2:00 &#8211; 4:00) (wk 4)<b></b></h2>
+<p>The course examines two major digital image collections subscribed to by the University &#8211; ARTstor and Bridgeman Education &#8211; and a third resource, free for educational use, VADS. All of these are geared to research and teaching in the humanities, history of science and medicine, and social sciences. Viewing, presenting and managing images are also covered.</p>
+<p><em>Presenters:</em> Vicky Brown and Clare Hills-Nova.<br />
+<em>Venue:</em> IT Services, 13 Banbury Road &gt; <a href="http://courses.it.ox.ac.uk/detail/TIMS" target="_blank"><strong>Book your place</strong> </a></p>
+<h2>WISER: Finding stuff – scholarly literature for your research (Fri 14 Feb 10.00 &#8211; 1.00) (wk 4)</h2>
+<p>A practical introduction to searching for scholarly materials to support your research, covering a range of tools for finding monographs, journal articles, conference papers, theses and more.</p>
+<p><em>Who is this session for?</em> Postgraduates, researchers and academics<br />
+<em>Presenters:</em> Joanne Edwards, Craig Finlay, Helen Worrell and Angela Carritt<br />
+<em>Venue:</em> IT Services, 13 Banbury Road <strong>&gt; <a href="http://courses.it.ox.ac.uk/detail/TZW21" target="_blank">Book your place</a></strong></p>
+<h2>Keep up to date with Bodleian Libraries training opportunities</h2>
+<p>Why not follow us on <strong>Twitter</strong> at <a href="http://twitter.com/oxwiser" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitter.com/oxwiser', 'http://twitter.com/oxwiser']);" title="http://twitter.com/oxwiser">http://twitter.com/oxwiser</a> or visit the <strong>BodWiser blog</strong> at <a href="http://bodwiser.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodwiser.wordpress.com/', 'http://bodwiser.wordpress.com']);" title="http://bodwiser.wordpress.com/">http://bodwiser.wordpress.com</a></p>
+<p><b>Questions?</b> &#8211; Please contact <a href="mailto:usered@bodleian.ox.ac.uk">usered@bodleian.ox.ac.uk</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/04/wiser-workshops-in-week-4-digital-images-and-finding-stuff/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-91" class="share-twitter sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/04/wiser-workshops-in-week-4-digital-images-and-finding-stuff/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-91" class="share-facebook sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/04/wiser-workshops-in-week-4-digital-images-and-finding-stuff/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-91" class="share-google-plus-1 sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/02/04/wiser-workshops-in-week-4-digital-images-and-finding-stuff/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/" rel="category tag">Training Sessions</a>, <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/" rel="category tag">WISER</a>			</span>
+									
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-91 -->
+
+				
+					
+	<article id="post-61" class="post-61 post type-post status-publish format-standard hentry category-training-sessions category-wiser">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/01/28/wiser-workshops-in-week-3-open-access-and-reference-management/" title="Permalink to WISER workshops in Week 3: Open Access, and Reference Management" rel="bookmark">WISER workshops in Week 3: Open Access, and Reference Management</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/ssl/2014/01/28/wiser-workshops-in-week-3-open-access-and-reference-management/" title="12:12 pm" rel="bookmark"><time class="entry-date" datetime="2014-01-28T12:12:26+00:00" pubdate>28 January 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/ssl/author/ianchilvers/" title="View all posts by Ian Chilvers" rel="author">Ian Chilvers</a></span></span>			</div><!-- .entry-meta -->
+			
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Next week, Bodleian Libraries will be running workshops on Open Access publishing and reference management using RefWorks, Endnote, Mendeley and Zotero.</p>
+<h1>WISER: Open Access Oxford &#8211; What&#8217;s happening? (Tue 4 Feb 2.00 &#8211; 3.00) (wk 3)</h1>
+<p>A briefing on open access for research publications and Oxford&#8217;s position including: green vs gold open access routes; how to check funder mandates and publisher policies; Author Processing Charges (APCs) and how to apply for them to be paid from the University’s block grant; the Oxford Research Archive (ORA) and Symplectic; and how to get help.</p>
+<p><em>Who is this session for?</em><b> </b>Current Oxford research postgraduates, researchers, academics, University and Library staff.</p>
+<p><em>Presenters</em>: Craig Finlay and Hilla Wait</p>
+<p><em>Venue</em>:  Radcliffe Science Library  &gt; <strong><a href="http://courses.it.ox.ac.uk/detail/TZW7">Book your place</a></strong></p>
+<h1><b>WISER: Tech Tools &#8211; Reference Management (Fri 7 Feb 9.15 &#8211; 12.15) (wk 3)</b></h1>
+<p>Keeping track of your references and formatting them correctly for your thesis or publication is a chore. Reference management software makes it easy and is worth investigating. This introductory session gives an overview of how it works and the pros and cons of RefWorks, EndNote, Zotero and Mendeley.</p>
+<p><em>Who is this session for?</em> Postgraduates, researchers,  academics and undergraduates wishing to use reference management software.</p>
+<p><em>Presenters</em>: Oliver Bridle, Pamela Stanworth, Kelly Schultz and Angela Carritt</p>
+<p><em>Venue</em>: IT Services, 13 Banbury Road &gt; <strong><a href="http://courses.it.ox.ac.uk/detail/TZW6">Book your place</a></strong></p>
+<h2>Keep up to date</h2>
+<p><strong>Why not join the mailing list by sending an empty email to <a title="mailto:wiser-subscribe@maillist.ox.ac.uk" href="mailto:wiser-subscribe@maillist.ox.ac.uk">wiser-subscribe@maillist.ox.ac.uk</a>, </strong>follow WISER on Twitter at <a href="http://twitter.com/oxwiser" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitter.com/oxwiser', 'http://twitter.com/oxwiser']);" title="http://twitter.com/oxwiser">http://twitter.com/oxwiser</a> or visit the BodWiser blog at <a href="http://bodwiser.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://bodwiser.wordpress.com/', 'http://bodwiser.wordpress.com']);" title="http://bodwiser.wordpress.com/">http://bodwiser.wordpress.com</a></p>
+<p><b>Questions?</b> &#8211; Please contact <a href="mailto:usered@bodleian.ox.ac.uk">usered@bodleian.ox.ac.uk</a></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/01/28/wiser-workshops-in-week-3-open-access-and-reference-management/?share=email" target="_blank" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-61" class="share-twitter sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/01/28/wiser-workshops-in-week-3-open-access-and-reference-management/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-61" class="share-facebook sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/01/28/wiser-workshops-in-week-3-open-access-and-reference-management/?share=facebook" target="_blank" title="Share on Facebook"><span>Facebook</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-61" class="share-google-plus-1 sd-button share-icon" href="http://blogs.bodleian.ox.ac.uk/ssl/2014/01/28/wiser-workshops-in-week-3-open-access-and-reference-management/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span>Google</span></a></li><li class="share-end"></li></ul></div></div></div>					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/" rel="category tag">Training Sessions</a>, <a href="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/" rel="category tag">WISER</a>			</span>
+									
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-61 -->
+
+				
+				
+			
+			</div><!-- #content -->
+		</section><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<form method="get" id="searchform" action="http://blogs.bodleian.ox.ac.uk/ssl/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+</aside><aside id="rss_links-2" class="widget widget_rss_links"><h3 class="widget-title">Subscribe by RSS</h3><p><a target="_self" href="http://blogs.bodleian.ox.ac.uk/ssl/feed/" title="Subscribe to Posts"><img src="http://blogs.bodleian.ox.ac.uk/ssl/wp-content/plugins/jetpack/images/rss/purple-medium.png" alt="RSS Feed" /></a>&nbsp;<a target="_self" href="http://blogs.bodleian.ox.ac.uk/ssl/feed/" title="Subscribe to Posts">RSS - Posts</a></p>
+</aside><aside id="blog_subscription-2" class="widget jetpack_subscription_widget"><h3 class="widget-title">Subscribe by Email</h3>
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-2">
+				<div id="subscribe-text"><p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+</div>					<p id="subscribe-email">
+						<label id="jetpack-subscribe-label" for="subscribe-field">
+							Email Address						</label>
+						<input type="email" name="email" required="required" class="required" value="" id="subscribe-field" placeholder="Email Address" />
+					</p>
+
+					<p id="subscribe-submit">
+						<input type="hidden" name="action" value="subscribe" />
+						<input type="hidden" name="source" value="http://blogs.bodleian.ox.ac.uk/ssl/category/training-sessions/wiser/" />
+						<input type="hidden" name="sub-type" value="widget" />
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-2" />
+												<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+					</p>
+							</form>
+
+			<script>
+				( function( d ) {
+					if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+						var label = d.getElementById( 'jetpack-subscribe-label' );
+	 					label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+	 					label.style.position = 'absolute';
+	 					label.style.height   = '1px';
+	 					label.style.width    = '1px';
+	 					label.style.overflow = 'hidden';
+					}
+				} ) ( document );
+
+				// Special check for required email input because Safari doesn't support HTML5 "required"
+				jQuery( '#subscribe-blog-blog_subscription-2' ).submit( function( event ) {
+					var requiredInput = jQuery( this ).find( '.required' );
+					if ( requiredInput.val() == '' ) {
+						event.preventDefault();
+						requiredInput.focus();
+					}
+				});
+			</script>
+				
+</aside><aside id="text-2" class="widget widget_text"><h3 class="widget-title">SSL Website</h3>			<div class="textwidget"><a href="http://www.bodleian.ox.ac.uk/ssl" target="_blank">www.bodleian.ox.ac.uk/ssl</a></div>
+		</aside><aside id="twitter_timeline-2" class="widget widget_twitter_timeline"><h3 class="widget-title">Follow us on Twitter</h3><a class="twitter-timeline" data-widget-id="423036084721704960" data-theme="light" data-link-color="#5b447a" data-border-color="#ddd8e3" width="225" height="400" lang="EN">My Tweets</a></aside><aside id="facebook-likebox-2" class="widget widget_facebook_likebox"><h3 class="widget-title"><a href="https://www.facebook.com/sslbod">SSL on Facebook</a></h3><iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fsslbod&#038;width=200&#038;height=110&#038;colorscheme=light&#038;show_faces=false&#038;stream=false&#038;show_border=false&#038;header=false&#038;force_wall=false" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 200px;  height: 110px; background: #fff"></iframe></aside><aside id="librarythingwidget-4" class="widget LibraryThingWidget"><h3 class="widget-title">Recent acquisitions</h3><div id="wd96d788f458208c6559887ac0b9b15f7"></div><script type="text/javascript" charset="UTF-8" src="http://www.librarything.com/widget_get.php?userid=SSLBOD&theID=wd96d788f458208c6559887ac0b9b15f7"></script><noscript><a href="http://www.librarything.com/profile/SSLBOD">My Library</a> at <a href="http://www.librarything.com">LibraryThing</a></noscript><style type="text/css">#LT_LB { z-index: 12001 !important; overflow: hidden !important; height: 420px !important; } #LT_LB #LT_iframe { height: 419px !important; }</style></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/ssl/2015/06/15/take-the-ssl-on-holiday-5/">Take the SSL on holiday</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/ssl/2015/06/09/trinity-term-8th-week-vacation-loans-start-2/">Trinity Term 8th Week: Vacation loans start</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/ssl/2015/06/08/book-donations-from-finalists-2/">Book donations from Finalists</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/ssl/2015/06/05/keep-your-research-data-safe-with-ora-data-free-trial-period-until-31st-july/">Keep your research data safe with ORA Data (Free trial period until 31st July)</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/ssl/2015/06/05/graduating-from-oxford-find-out-more-about-alumni-library-priviledges/">Graduating from Oxford? Find out more about Alumni library privileges</a>
+						</li>
+				</ul>
+		</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2015/06/'>June 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2015/05/'>May 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2015/04/'>April 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2015/03/'>March 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2015/02/'>February 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2015/01/'>January 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/12/'>December 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/11/'>November 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/10/'>October 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/09/'>September 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/08/'>August 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/07/'>July 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/06/'>June 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/05/'>May 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/04/'>April 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/03/'>March 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/02/'>February 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/ssl/2014/01/'>January 2014</a></li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+			<li><a href="http://blogs.bodleian.ox.ac.uk/ssl/wp-login.php?action=register">Register</a></li>			<li><a href="http://blogs.bodleian.ox.ac.uk/ssl/wp-login.php">Log in</a></li>
+			<li><a href="http://blogs.bodleian.ox.ac.uk/ssl/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogs.bodleian.ox.ac.uk/ssl/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary .widget-area -->
+
+  </div><!-- #main -->
+
+  <footer id="colophon" role="contentinfo">
+    
+
+    <div id="site-generator">
+              <a href="http://www.bodleian.ox.ac.uk/"><img src="/wp-content/themes/twentyeleven-bodleian/images/bodleian.jpg" alt="Bodleian Libraries" /></a>
+
+        <p>
+          &copy; 2012 <a href="http://www.bodleian.ox.ac.uk/">Bodleian Libraries</a>
+          |
+          <a href="http://blogs.bodleian.ox.ac.uk/ssl/accessibility">Accessibility</a>
+          |
+          <a href="http://blogs.bodleian.ox.ac.uk/ssl/terms-of-use">Terms of Use</a>
+          |
+          <a href="http://blogs.bodleian.ox.ac.uk/ssl/cookies">Cookies</a>
+        </p>
+      
+    </div>
+
+  </footer><!-- #colophon -->
+
+  <style type="text/css">/* <![CDATA[ */
+.cookie-policy, .cookie-policy .grid {
+  background: url('http://www.bodleian.ox.ac.uk/__data/assets/image/0018/116505/footer-pattern.png') repeat-x 0 -3px black;
+}
+.cookie-policy {
+  color: white;
+  font-size: 0.857em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.cookie-policy .grid {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1008px;
+}
+.cookie-policy .grid .twelve {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 978px;
+}
+.cookie-policy a.close {
+  background: url('http://www.bodleian.ox.ac.uk/__data/assets/image/0010/116497/close-cookie-policy-box.jpg') scroll no-repeat center center transparent;
+  display: block;
+  float: right;
+  margin: 3px 0 0 20px;
+  height: 18px;
+  width: 18px;
+}
+.cookie-policy .detail.for-desktop {
+  display: block;
+}
+.cookie-policy .detail.for-mobile {
+  display: none;
+}
+.cookie-policy .detail {
+  color: #bebebe;
+  padding: 3px 0;
+}
+.cookie-policy .detail a {
+  color: #ffffff;
+}
+.cookie-policy p {
+  margin: 2px 0;
+  font: 12px 'Arial', sans-serif;
+}
+/* ]]> */</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="application/javascript">
+/* Close cookie policy notice */
+function createCookie(name, value, days) {
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    var expires = "; expires=" + date.toGMTString();
+  } else var expires = "";
+  document.cookie = name + "=" + value + expires + "; path=/";
+}
+
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+  }
+  return null;
+}
+
+function eraseCookie(name) {
+  createCookie(name, "", -1);
+}
+jQuery(function(){
+  jQuery('.cookie-policy a.close').click(function (e) {
+    e.preventDefault();
+    jQuery('.cookie-policy').hide();
+    createCookie('groupCookiePolicyClosed', 1, 30);
+  });
+  if (readCookie('groupCookiePolicyClosed')) {
+    jQuery('.cookie-policy a.close').parent().hide();
+  }
+});
+/* Close cookie policy - end*/
+</script>
+<div class="cookie-policy">
+  <div class="grid">
+    <div class="twelve">
+      <a href="#" title="Accept and close" class="close"></a>
+      <p class="detail for-desktop">This site uses cookies to support some content and functions, and also Google Analytics. By using this site you agree to their use. <a href="http://blogs.bodleian.ox.ac.uk/cookies">Find out more and opt out &raquo;</a></p>
+      <p class="detail for-mobile"><a href="http://blogs.bodleian.ox.ac.uk/cookies">This site uses cookies to support some content and functions, and also Google Analytics &raquo;</a></p>
+    </div>
+  </div>
+</div>
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<script type="text/javascript">
+
+var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-4.0.7';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=51ef2d86f58e0abcb6c74eed3277ac25"></script>		<script type="text/javascript">
+			!function(d,s,id){
+				var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
+				if(!d.getElementById(id)){
+					js=d.createElement(s);
+					js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
+					fjs.parentNode.insertBefore(js,fjs);
+				}
+			}(document,"script","twitter-wjs");
+		</script>
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/blogs.bodleian.ox.ac.uk\/ssl\/2014\/06\/13\/wiser-sessions-in-week-8-protecting-you-work-and-open-access\/":653,"http:\/\/blogs.bodleian.ox.ac.uk\/ssl\/2014\/05\/28\/wiser-workshops-in-week-6-citation-analysis-tools-refworks-and-open-access-oxford\/":577,"http:\/\/blogs.bodleian.ox.ac.uk\/ssl\/2014\/05\/21\/graduate-search-clinic-and-wiser-workshops-in-week-5\/":543,"http:\/\/blogs.bodleian.ox.ac.uk\/ssl\/2014\/05\/09\/wiser-workshops-in-week-3-online-resources-for-historians-sources-for-us-history-and-medievalists\/":485,"http:\/\/blogs.bodleian.ox.ac.uk\/ssl\/2014\/04\/29\/wiser-workshops-in-weeks-1-and-2\/":429,"http:\/\/blogs.bodleian.ox.ac.uk\/ssl\/2014\/02\/25\/wiser-workshops-in-weeks-6-and-7-e-books-and-e-readers-open-access-and-refworks-for-science-and-social-sciences\/":205,"http:\/\/blogs.bodleian.ox.ac.uk\/ssl\/2014\/02\/11\/wiser-workshops-in-week-5-mendeley-research-impact-and-refworks-for-humanities\/":121,"http:\/\/blogs.bodleian.ox.ac.uk\/ssl\/2014\/02\/04\/wiser-workshops-in-week-4-digital-images-and-finding-stuff\/":91,"http:\/\/blogs.bodleian.ox.ac.uk\/ssl\/2014\/01\/28\/wiser-workshops-in-week-3-open-access-and-reference-management\/":61};
+		window.WPCOM_jetpack = true;
+				window.WPCOM_site_ID = 62743203;
+			</script>
+	<div id="sharing_email" style="display: none;">
+		<form action="/ssl/category/training-sessions/wiser/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="http://blogs.bodleian.ox.ac.uk/ssl/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+		<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201525'></script>
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/ssl/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/ssl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/ssl/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.5.3'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201525.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'62743203',post:'0',tz:'1',srv:'blogs.bodleian.ox.ac.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '62743203', '0' ]);
+</script>
+<!--wp_footer-->
+</body>
+</html>

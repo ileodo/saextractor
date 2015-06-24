@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html id="ctl00_Html1">
+<head id="ctl00_Head1"><title>
+	Search - Admissions
+</title>
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=printerfriendly&amp;s=21&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Admissions Site Search" />
+<meta property="og:description" content="Admissions Site Search" />
+<link rel="search" type="application/opensearchdescription+xml" title="Admissions Site Search" href="http://admissions.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+<link rel='shortcut icon' href='/Data/Sites/21/skins/printerfriendly/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<meta name='robots' content='NOINDEX,FOLLOW' /></head>
+<body id="ctl00_Body" class="pagebody searchresults">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTUxODYzNjc2MA9kFgJmD2QWAgIBD2QWAgIDDxYCHgVjbGFzcwUWcGFnZWJvZHkgc2VhcmNocmVzdWx0cxYCAgMPZBYGAhcPDxYEHghDc3NDbGFzcwU5YXJ0LWxheW91dC1jZWxsIGFydC1jb250ZW50LXdpZGUgY2VudGVyLW5vbWFyZ2lucyBjbXN6b25lHgRfIVNCAgJkFgICBQ9kFgICAQ9kFgICAw9kFgICAw9kFgICAQ9kFgICAw9kFhACAQ9kFgICAQ8PFgIeBFRleHQFFFJlYnVpbGQgU2VhcmNoIEluZGV4FgIeB29uY2xpY2sFeHJldHVybiBjb25maXJtKCdBcmUgeW91IHN1cmUgeW91IHdhbnQgdG8gZGVsZXRlIGFuZCByZWJ1aWxkIHRoZSBzZWFyY2ggaW5kZXg/IEZvciBhIGxhcmdlIHNpdGUgdGhpcyBtYXkgdGFrZSBhIHdoaWxlLicpO2QCBw8Q" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="ZBAVBAtBbGwgQ29udGVudAhBcnRpY2xlcwpMaXN0L0xpbmtzD0ltYWdlIEdhbGxlcmllcxUEJDAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCQ4ODFlNGUwMC05M2U0LTQ0NGMtYjdiMC02NjcyZmI1NWRlMTAkNzRiZGJjYzItMGU3OS00N2ZmLWJjZDQtYTE1OTI3MGJmMzZlJGQ1NzJmNmI0LWQwZWQtNDY1ZC1hZDYwLTYwNDMzODkzYjQwMRQrAwRnZ2dnZGQCCQ8WAh4HVmlzaWJsZWhkAgsPDxYCHwMFBlNlYXJjaGRkAhEPDxYCHwNlZGQCEw8WAh8FaGQCFw9kFgICAQ8PFgIfAwURTm8gcmVzdWx0cyBmb3VuZC5kZAIZD2QWBgIBDxYCHwMFJU5vdCBmaW5kaW5nIHdoYXQgeW91IGFyZSBsb29raW5nIGZvcj9kAgMPDxYEHwMFGlNlYXJjaCB0aGlz" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="IHNpdGUgd2l0aCBCaW5nHgtOYXZpZ2F0ZVVybAUvaHR0cDovL2FkbWlzc2lvbnMuY2hlbS5veC5hYy51ay9CaW5nU2VhcmNoLmFzcHhkZAIFDw8WBB8DBRxTZWFyY2ggdGhpcyBzaXRlIHdpdGggR29vZ2xlHwYFMWh0dHA6Ly9hZG1pc3Npb25zLmNoZW0ub3guYWMudWsvR29vZ2xlU2VhcmNoLmFzcHhkZAIZDw8WBh8BBRBsZWZ0c2lkZSBjbXN6b25lHwICAh8FaGRkAhsPDxYGHwEFEXJpZ2h0c2lkZSBjbXN6b25lHwICAh8FaGRkZKtogQRezQqSggnNQIxsSDf245XN" />
+
+
+<script src="/ScriptResource.axd?d=hU057HtuRCd2eHzsDEp_xgqcMa_wuthCj7fLPU9X5poPFUHfBG8eFAseixXbo2GZqK3-b9IuLA1vGIenujg-rpsvC2AQTg2Hoc3EEI7PgE78uPuFn6p1wjXkseLGxtdOd0trfE3BGS8lux_uQIVSinAhFZrFw64xW1JX8vT1pyXA3yfnL3kirz9LXcbOzeVK7XAwHUn5biKBC4EvefSd0LsNJ-sAt4iMERY5eLz1Fv-nzz9u1wuBb0Wy8jcSkjR0VLMCOEIKiqX2E8CNLhJFoa9CmRKT3WfrPC8AhGogY0dMSTNbmj90CbY3U_hc1eLcAKnBcw2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6CEFA833" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAfYWnflS/pWAYPDgOva0aeqtwven6QFdzJkuWEG8nkLSG2xnOLibx3vK8562VmRl9XHq3NHWQF4jBpCOA3mnKaGWJLQQ9NkItb+LnwfX8EZ4mw0HZy7zQ4JnrDkIH0aVcfZPoogD+qaOWokO+pvpMt4VwzlDl37/ohpprXYCD0AbhJB7po=" />
+
+
+
+
+<div id="wrapwebsite">
+	<h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://admissions.chem.ox.ac.uk/Default.aspx'>Admissions</a></h1>
+	
+
+
+
+
+	&nbsp;
+	<div class="wrapcenter">
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content-wide center-nomargins cmszone">
+	
+		    
+		    
+		    
+    
+    <div id='ctl00_mainContent_pnlOuterWrap' class=''>
+
+        
+        <div id='ctl00_mainContent_pnlInnerWrap' class='panelwrapper searchresults'>
+
+            <h2 class=" moduletitle ">Search</h2>
+            <div id='ctl00_mainContent_pnlOuterBody' class=''>
+
+                <div id='ctl00_mainContent_pnlInnerBody' class='modulecontent'>
+
+                    
+                    <div id="ctl00_mainContent_pnlInternalSearch">
+		
+                        
+                        <div class="settingrow searchcontrols">
+                            <a id="ctl00_mainContent_MojoHelpLink1" title="Help" class="mhelp cblink" href="http://admissions.chem.ox.ac.uk/Help.aspx?helpkey=search-help"><img title="Help" src="/Data/SiteImages/FeatureIcons/help.gif" alt="Help" /></a>
+                            <input name="ctl00$mainContent$txtSearchInput" type="text" maxlength="255" size="50" id="ctl00_mainContent_txtSearchInput" class="widetextbox searchbox" />
+                            <select name="ctl00$mainContent$ddFeatureList" id="ctl00_mainContent_ddFeatureList" class="searchfeatures">
+			<option selected="selected" value="00000000-0000-0000-0000-000000000000">All Content</option>
+			<option value="881e4e00-93e4-444c-b7b0-6672fb55de10">Articles</option>
+			<option value="74bdbcc2-0e79-47ff-bcd4-a159270bf36e">List/Links</option>
+			<option value="d572f6b4-d0ed-465d-ad60-60433893b401">Image Galleries</option>
+
+		</select>
+                            
+                            <input type="submit" name="ctl00$mainContent$btnDoSearch" value="Search" id="ctl00_mainContent_btnDoSearch" />
+                            <span class="searchduration">
+                                
+                                
+                            </span>
+                            <span id="ctl00_mainContent_lblMessage"></span>
+                        </div>
+                        
+                        
+                        
+                        <div class="settingrow">
+                            
+                        </div>
+                    
+	</div>
+                    
+                    
+                
+</div>
+            
+</div>
+            <div id='ctl00_mainContent_divCleared' class='cleared'>
+
+            
+</div>
+        
+</div>
+        
+    
+</div>
+
+	    
+</div>
+	    
+	    
+	</div>						
+</div>
+
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript">$("a[href*='Download.aspx']").bind('click', function(){window.open(this.href,'_blank');return false;}); 
+</script>
+<script type="text/javascript" >$('a.mhelp').colorbox({width:'85%', height:'85%', iframe:true, maxWidth:'95%',maxHeight:'95%'});</script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('a.cblink').colorbox({width:'85%', height:'85%', iframe:true});$('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

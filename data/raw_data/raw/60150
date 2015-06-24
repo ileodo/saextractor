@@ -1,0 +1,357 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.hertford.ox.ac.uk/sites/all/themes/hertford/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/1915" />
+<link rel="canonical" href="/course-structure-2" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Course structure | Hertford College</title>
+  <link href="http://fonts.googleapis.com/css?family=Crete+Round%7COpen+Sans:400,400italic,600,700,700italic" rel="stylesheet" type="text/css" />
+  <style type="text/css" media="all">
+@import url("http://www.hertford.ox.ac.uk/modules/system/system.base.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/modules/system/system.menus.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/modules/system/system.messages.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/modules/system/system.theme.css?nq59io");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.hertford.ox.ac.uk/sites/all/modules/date/date_api/date.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/modules/date/date_repeat_field/date_repeat_field.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/modules/field/theme/field.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/modules/node/node.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/modules/search/search.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/modules/user/user.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/modules/views_slideshow_xtra/views_slideshow_xtra_overlay/css/views_slideshow_xtra_overlay.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/modules/views/css/views.css?nq59io");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.hertford.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/libraries/superfish/css/superfish.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/libraries/superfish/css/superfish-vertical.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/libraries/superfish/css/superfish-navbar.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/modules/views_slideshow/views_slideshow.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/modules/extlink/extlink.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/modules/print/css/printlinks.css?nq59io");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/alpha/css/alpha-reset.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/alpha/css/alpha-mobile.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/alpha/css/alpha-alpha.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/omega/css/formalize.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/omega/css/omega-text.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/omega/css/omega-branding.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/omega/css/omega-menu.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/omega/css/omega-forms.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/omega/css/omega-visuals.css?nq59io");
+</style>
+
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="http://www.hertford.ox.ac.uk/sites/all/themes/hertford/css/ie-lte-9.css?nq59io" media="all" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.hertford.ox.ac.uk/sites/all/themes/hertford/css/ie-lte-7.css?nq59io" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.hertford.ox.ac.uk/sites/all/themes/hertford/css/ie-6.css?nq59io" media="all" />
+<![endif]-->
+<style type="text/css" media="all">
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/hertford/css/global.css?nq59io");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/hertford/css/hertford-alpha-default.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/hertford/css/hertford-alpha-default-normal.css?nq59io");
+@import url("http://www.hertford.ox.ac.uk/sites/all/themes/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?nq59io");
+</style>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.hertford.ox.ac.uk/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script type="text/javascript" src="http://www.hertford.ox.ac.uk/sites/default/files/js/js_9CraLltT1DwQ842sivoJUwduB_nEnolVwJiP3SeFoJM.js"></script>
+<script type="text/javascript" src="http://www.hertford.ox.ac.uk/sites/default/files/js/js_pEvdwwtxuk4aUY8boR0byW4ojE7rgsEabaDFnBVVDi4.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(function(){
+jQuery('#superfish-2').supersubs({minWidth: 8, maxWidth: 27, extraWidth: 1}).superfish({
+delay: 1200,
+animation: {opacity:'show',height:'show'},
+speed: 200,
+autoArrows: false,
+dropShadows: true}).supposition().find('ul').bgIframe({opacity:false});
+});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.hertford.ox.ac.uk/sites/default/files/js/js_949Fo5Ro5IlJLtFmgnpORlGLiEKhmdZgi5t_SQ6Xau4.js"></script>
+<script type="text/javascript" src="http://www.hertford.ox.ac.uk/sites/default/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hertford","theme_token":"INRdZn-9fVSHFRaZ1eNBO9ngtMYgQI_WXD4_RYQt_H8","js":{"0":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.5.2\/jquery.min.js":1,"1":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/spamspan\/spamspan.js":1,"sites\/all\/modules\/views_slideshow_xtra\/views_slideshow_xtra_overlay\/js\/views_slideshow_xtra_overlay.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/extlink\/extlink.js":1,"sites\/all\/modules\/piwik\/piwik.js":1,"sites\/all\/themes\/hertford\/js\/jquery.vgrid.min.js":1,"sites\/all\/themes\/hertford\/js\/jquery.easing.1.3.js":1,"sites\/all\/themes\/hertford\/js\/scripts.js":1,"2":1,"sites\/all\/themes\/hertford\/js\/search.js":1,"sites\/all\/themes\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views_slideshow_xtra\/views_slideshow_xtra_overlay\/css\/views_slideshow_xtra_overlay.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/extlink\/extlink.css":1,"sites\/all\/modules\/print\/css\/printlinks.css":1,"sites\/all\/themes\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/css\/omega-visuals.css":1,"sites\/all\/themes\/hertford\/css\/ie-lte-9.css":1,"sites\/all\/themes\/hertford\/css\/ie-lte-7.css":1,"sites\/all\/themes\/hertford\/css\/ie-6.css":1,"sites\/all\/themes\/hertford\/css\/global.css":1,"normal::sites\/all\/themes\/hertford\/css\/hertford-alpha-default.css":1,"normal::sites\/all\/themes\/hertford\/css\/hertford-alpha-default-normal.css":1,"sites\/all\/themes\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"extlink":{"extTarget":"_blank","extClass":"ext","extSubdomains":1,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"piwik":{"trackMailto":1},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1915 node-type-page context-course-structure-2">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="page clearfix" id="page">
+      <div id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-4 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+    <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" title="Hertford College"><img src="http://www.hertford.ox.ac.uk/sites/all/themes/hertford/logo.png" alt="Hertford College" id="logo" /></a>      </div>
+                        <div class="site-name-slogan">
+                        <h1 class="site-title element-invisible"><a href="/" title="Home">Hertford College</a></h1>
+                              </div>
+          </div>
+      </div>
+</div><div class="grid-8 region region-user-first" id="region-user-first">
+  <div class="region-inner region-user-first-inner">
+    <div class="block block-menu block-menu-top block-menu-menu-top odd block-without-title" id="block-menu-menu-top">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/about/contact-us" title="">Contact us</a></li>
+<li class="leaf"><a href="/about/visit-us" title="">Visit us</a></li>
+<li class="leaf"><a href="/about/people" title="">People</a></li>
+<li class="last leaf"><a href="/conferences">Conferences</a></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+</div><div class="grid-8 region region-user-second" id="region-user-second">
+  <div class="region-inner region-user-second-inner">
+    <div class="block block-views block-oxford-logo-block block-views-oxford-logo-block odd block-without-title" id="block-views-oxford-logo-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-oxford-logo view-id-oxford_logo view-display-id-block view-dom-id-42d5a4903a4cfbec7cfef9cc67293b14">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <a href="http://www.ox.ac.uk" rel="nofollow" class="oxford-link" title="University of Oxford">Oxford website</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>
+<div class="block block-search block-form block-search-form even block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/course-structure-2" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">enter text... </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="enter text..." size="18" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input alt="Search" type="image" id="edit-submit" name="submit" src="/sites/all/themes/hertford/img/search-button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-_PtjHKEZeQDVirW5IGhlRw3HiyGTe-zgITFenNQIBf8" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div>
+  </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <div class="navigation">
+          </div>
+        <div class="block block-superfish block-2 block-superfish-2 odd block-without-title" id="block-superfish-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul id="superfish-2" class="sf-menu main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-6 sf-single-items-1"><li id="menu-218-2" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1 ">Home</a></li><li id="menu-4717-2" class="middle even sf-item-2 sf-depth-1 sf-total-children-6 sf-parent-children-5 sf-single-children-1 menuparent"><a href="/discover-hertford" class="sf-depth-1  menuparent">Discover Hertford</a><ul><li id="menu-5131-2" class="first odd sf-item-1 sf-depth-2"><a href="/discover-hertford/undergraduates" class="sf-depth-2 ">Undergraduates</a></li><li id="menu-6715-2" class="middle even sf-item-2 sf-depth-2"><a href="/discover-hertford/life-at-hertford-for-graduates" class="sf-depth-2 ">Graduates</a></li><li id="menu-6990-2" class="middle odd sf-item-3 sf-depth-2"><a href="/discover-hertford/visiting-students" class="sf-depth-2 ">Visiting students</a></li><li id="menu-5629-2" class="middle even sf-item-4 sf-depth-2"><a href="/discover-hertford/fees-finance" class="sf-depth-2 ">Fees &amp; finance</a></li><li id="menu-9011-2" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/applying-with-a-disability" class="sf-depth-2 ">Applying with a disability</a></li><li id="menu-10370-2" class="last even sf-item-6 sf-depth-2"><a href="/access-and-outreach-home-page" class="sf-depth-2 ">Access and Outreach</a></li></ul></li><li id="menu-4829-2" class="middle odd sf-item-3 sf-depth-1 sf-total-children-15 sf-parent-children-9 sf-single-children-6 menuparent"><a href="/my-hertford" class="sf-depth-1  menuparent">My Hertford</a><ul><li id="menu-5495-2" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/my-hertford/announcements" class="sf-depth-2 ">Announcements</a></li><li id="menu-7253-2" class="middle even sf-item-2 sf-depth-2"><a href="/my-hertford/freshers" class="sf-depth-2 ">Freshers</a></li><li id="menu-5108-2" class="middle odd sf-item-3 sf-depth-2"><a href="/my-hertford/health-welfare" title="" class="sf-depth-2 ">Health &amp; welfare</a></li><li id="menu-5126-2" class="middle even sf-item-4 sf-depth-2"><a href="/my-hertford/library" class="sf-depth-2 ">Library</a></li><li id="menu-5639-2" class="middle odd sf-item-5 sf-depth-2"><a href="/my-hertford/it-at-hertford" class="sf-depth-2 ">IT at Hertford</a></li><li id="menu-5127-2" class="middle even sf-item-6 sf-depth-2"><a href="/my-hertford/chapel" class="sf-depth-2 ">Chapel</a></li><li id="menu-4738-2" class="middle odd sf-item-7 sf-depth-2"><a href="/my-hertford/food" class="sf-depth-2 ">Food</a></li><li id="menu-6974-2" class="middle even sf-item-8 sf-depth-2"><a href="/my-hertford/accommodation" class="sf-depth-2 ">Accommodation</a></li><li id="menu-7870-2" class="middle odd sf-item-9 sf-depth-2"><a href="/my-hertford/exams-and-graduation" class="sf-depth-2 ">Exams and graduation</a></li><li id="menu-7723-2" class="middle even sf-item-10 sf-depth-2 sf-no-children"><a href="/my-hertford/documents-and-policies" class="sf-depth-2 ">Documents and policies</a></li><li id="menu-5496-2" class="middle odd sf-item-11 sf-depth-2 sf-no-children"><a href="/my-hertford/societies" class="sf-depth-2 ">Societies</a></li><li id="menu-5642-2" class="middle even sf-item-12 sf-depth-2 sf-no-children"><a href="/my-hertford/jargon-buster" title="" class="sf-depth-2 ">Jargon buster</a></li><li id="menu-7846-2" class="middle odd sf-item-13 sf-depth-2"><a href="/my-hertford/forms-and-bookings" class="sf-depth-2 ">Forms and bookings</a></li><li id="menu-7753-2" class="middle even sf-item-14 sf-depth-2 sf-no-children"><a href="/my-hertford/information-for-tutors" title="" class="sf-depth-2 ">Information for tutors</a></li><li id="menu-9550-2" class="last odd sf-item-15 sf-depth-2 sf-no-children"><a href="http://hertfordonly.hertford.ox.ac.uk" title="Material only available within the Hertford physical network" class="sf-depth-2 ">Hertford Only</a></li></ul></li><li id="menu-4839-2" class="active-trail middle even sf-item-4 sf-depth-1 sf-total-children-4 sf-parent-children-3 sf-single-children-1 menuparent"><a href="/research-teaching" class="sf-depth-1  menuparent">Research &amp; teaching</a><ul><li id="menu-5134-2" class="active-trail first odd sf-item-1 sf-depth-2"><a href="/research-teaching/subjects-offered" class="sf-depth-2 ">Subjects offered</a></li><li id="menu-5669-2" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/research-teaching/how-we-teach" class="sf-depth-2 ">How we teach</a></li><li id="menu-7205-2" class="middle odd sf-item-3 sf-depth-2"><a href="/research-teaching/our-academics-and-their-research" class="sf-depth-2 ">Academics and their research</a></li><li id="menu-7207-2" class="last even sf-item-4 sf-depth-2"><a href="/research-teaching/we-believe-in-research-led-teaching" class="sf-depth-2 ">Our researchers teach</a></li></ul></li><li id="menu-4841-2" class="middle odd sf-item-5 sf-depth-1 sf-total-children-8 sf-parent-children-6 sf-single-children-2 menuparent"><a href="/alumni-development" class="sf-depth-1  menuparent">Alumni &amp; development</a><ul><li id="menu-4842-2" class="first odd sf-item-1 sf-depth-2"><a href="/alumni-development/our-alumni" class="sf-depth-2 ">Our alumni</a></li><li id="menu-6737-2" class="middle even sf-item-2 sf-depth-2"><a href="/alumni-development/supporting-hertford" class="sf-depth-2 ">Supporting Hertford</a></li><li id="menu-11220-2" class="middle odd sf-item-3 sf-depth-2"><a href="/alumni-development/publications" class="sf-depth-2 ">Publications</a></li><li id="menu-8474-2" class="middle even sf-item-4 sf-depth-2"><a href="/alumni-development/events" class="sf-depth-2 ">Events</a></li><li id="menu-13233-2" class="middle odd sf-item-5 sf-depth-2"><a href="/celebrations" class="sf-depth-2 ">Celebrations</a></li><li id="menu-6743-2" class="middle even sf-item-6 sf-depth-2"><a href="/alumni-development/societies" class="sf-depth-2 ">Societies</a></li><li id="menu-6740-2" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/alumni-development/alumni-information" class="sf-depth-2 ">Alumni information</a></li><li id="menu-8468-2" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="/alumni-development/update-your-details" class="sf-depth-2 ">Update your details</a></li></ul></li><li id="menu-4708-2" class="middle even sf-item-6 sf-depth-1 sf-total-children-2 sf-parent-children-1 sf-single-children-1 menuparent"><a href="/news-events" class="sf-depth-1  menuparent">News &amp; events</a><ul><li id="menu-5294-2" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/news-events/news" class="sf-depth-2 ">News</a></li><li id="menu-5295-2" class="last even sf-item-2 sf-depth-2"><a href="/news-events/events" class="sf-depth-2 ">Events</a></li></ul></li><li id="menu-9070-2" class="last odd sf-item-7 sf-depth-1 sf-total-children-8 sf-parent-children-1 sf-single-children-7 menuparent"><a href="/about" class="sf-depth-1  menuparent">About</a><ul><li id="menu-5195-2" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about/people" class="sf-depth-2 ">People</a></li><li id="menu-7192-2" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/about/welcome-and-introduction-to-hertford-college-from-principal-will-hutton" title="" class="sf-depth-2 ">Welcome from Will Hutton</a></li><li id="menu-6969-2" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about/history" class="sf-depth-2 ">College history</a></li><li id="menu-5298-2" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/about/faq" class="sf-depth-2 ">FAQ</a></li><li id="menu-6977-2" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/about/freedom-of-information" class="sf-depth-2 ">Freedom of information</a></li><li id="menu-7892-2" class="middle even sf-item-6 sf-depth-2"><a href="/about/vacancies" class="sf-depth-2 ">Vacancies</a></li><li id="menu-9069-2" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/about/contact-us" class="sf-depth-2 ">Contact us</a></li><li id="menu-5292-2" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="/about/visit-us" class="sf-depth-2 ">Visit us</a></li></ul></li></ul>    </div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div><div id="zone-breadcrumb-wrapper" class="zone-wrapper zone-breadcrumb-wrapper clearfix">  
+  <div id="zone-breadcrumb" class="zone zone-breadcrumb clearfix container-12">
+    <div class="grid-12 region region-breadcrumb" id="region-breadcrumb">
+  <div class="region-inner region-breadcrumb-inner">
+    <div class="block block-delta-blocks block-breadcrumb block-delta-blocks-breadcrumb odd block-without-title" id="block-delta-blocks-breadcrumb">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="breadcrumb"><span class="breadcrumb-0 first"><a href="/">Home</a></span> <span class="crumb"> &gt; </span> <span class="breadcrumb-1"><a href="/research-teaching">Research &amp; teaching</a></span> <span class="crumb"> &gt; </span> <span class="breadcrumb-2"><a href="/research-teaching/subjects-offered">Subjects offered</a></span> <span class="crumb"> &gt; </span> <span class="breadcrumb-3 last"><a href="/computer-science-and-philosophy">Computer Science and Philosophy</a></span> <span class="crumb"> &gt; </span> <span class="active">Course structure</span></div>    </div>
+  </div>
+</div>
+  </div>
+</div>  </div>
+</div></div>    
+      <div id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">   
+        <div class="grid-3 region region-sidebar-first" id="region-sidebar-first">
+  <div class="region-inner region-sidebar-first-inner">
+    <div class="block block-menu-block block-1 block-menu-block-1 odd block-without-title" id="block-menu-block-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf active-trail active menu-mlid-9285"><a href="/course-structure-2" class="active-trail active">Course structure</a></li>
+<li class="leaf menu-mlid-9286"><a href="/how-we-teach-0">How we teach</a></li>
+<li class="leaf menu-mlid-9287"><a href="/career-expectations-0">Career expectations</a></li>
+<li class="last leaf menu-mlid-9289"><a href="/applying">Applying</a></li>
+</ul></div>
+    </div>
+  </div>
+</div>
+  </div>
+</div><div class="grid-9 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <h1 class="title page-title">Course structure</h1>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div about="/course-structure-2" typeof="foaf:Document" class="node node-page node-published node-not-promoted node-not-sticky author-mccloskeyc odd clearfix" id="node-page-1915">
+        <span property="dc:title" content="Course structure" class="rdf-meta element-hidden"></span>    
+  
+  <div class="content clearfix">
+
+	
+    		  <div class="summary">
+	    	  </div>
+		<span class="print-link"></span><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>As a rough guide, the first year course is roughly 50% Computer Science, 25% Logic (taught within Philosophy), and 25% Philosophy. The second year is equally divided between Computer Science and Philosophy, with considerable choice on both sides, after which the third year can be divided between the subjects in any proportion from 75%-25%, 50%-50%, or 25%-75%, depending on your options. If you go on to the fourth year, then you can focus entirely in one of the subjects if you wish, or divide your work between them.</p>
+<p>First year courses in Computer Science are: Functional Programming, Imperative Programming, Algorithms, Discrete Mathematics, and Probability; and in Philosophy: General Philosophy, Elements of Deductive Logic, and a bridging course on Alan Turing's work on Computability and Intelligence. In subsequent years, Computer Science options include Models of Computation, Concurrency, Advanced Data Structures and Algorithms, Object-Oriented Programming, Databases, Intelligent Systems, Knowledge Representation and Reasoning, Computational Complexity, and Computers in Society. Philosophy options include Knowledge and Reality, Philosophy of Mind, Ethics, Formal Logic, Philosophy of Science, Philosophy of Mathematics, Philosophy of Cognitive Science, and Philosophy of Logic and Language. But there are many more, and for a detailed outline of the structure of the degree, see the relevant pages on the <a href="//www.ox.ac.uk/admissions/undergraduate_courses/courses/computer_science_and_philosophy/computer_science_a_1.html”" rel="nofollow">University website</a> or the <a href="//www.cs.ox.ac.uk/admissions/ugrad/Computer_Science_and_Philosophy#What_does_the_course_cover.3F”" rel="nofollow">Computer Science Department website</a>.</p></div></div></div>
+  </div>
+  
+  <div class="clearfix">
+          <div class="links node-links clearfix"><ul class="links inline"><li class="print_html first last"><a href="/print/course-structure-2" title="Display a printer-friendly version of this page." class="print-page" onclick="window.open(this.href); return false" rel="nofollow"><img class="print-icon" typeof="foaf:Image" src="http://www.hertford.ox.ac.uk/sites/all/modules/print/icons/print_icon.gif" alt="Printer-friendly version" title="Printer-friendly version" /></a></li></ul></div>
+    
+      </div>
+</div>    </div>
+  </div>
+</div>
+      </div>
+</div>  </div>
+</div></div>    
+  
+      <div id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-5 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div class="block block-views block-map-block-block block-views-map-block-block odd block-without-title" id="block-views-map-block-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-map-block view-id-map_block view-display-id-block view-dom-id-e531d8196e342fd4d2431315022421f1">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="map-link-wrapper">        <a href="http://maps.google.co.uk/maps?q=Hertford%20College%2C%20Oxford%20OX1%203BW&amp;hl=en&amp;ll=51.754419%2C-1.253375&amp;spn=0.002846%2C0.008256&amp;sll=51.754419%2C-1.253375&amp;sspn=0.005692%2C0.016512&amp;oq=Hertford%20College%20OX1%203BW&amp;hq=Hertford%20College%2C%20Oxford%20OX1%203BW&amp;t=m&amp;z=18" rel="nofollow" class="map-link">Map link</a>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>
+  </div>
+</div><div class="grid-4 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <div class="block block-views block-footer-block block-views-footer-block odd" id="block-views-footer-block">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Follow Us</h2>
+            
+    <div class="content clearfix">
+      <div class="view view-footer view-id-footer view-display-id-block view-dom-id-3842f1629e81eb48bde14eddeeadd1e7">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          <div class="rss-link-wrapper"><a href="http://hert-manta.hertford.ox.ac.uk/rss.xml" rel="nofollow" class="rss-link">Subscribe to our RSS feed</a></div>    
+          <div class="address-wrapper"><p>Hertford College<br />Catte Street<br />Oxford<br />OX1 3BW</p>
+<p><span class="smaller-size">Tel: +44 (0)1865 279 400<br /></span></p></div>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>
+  </div>
+</div><div class="grid-3 region region-footer-third" id="region-footer-third">
+  <div class="region-inner region-footer-third-inner">
+    <div class="block block-menu block-menu-footer-links block-menu-menu-footer-links odd" id="block-menu-menu-footer-links">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">I want to...</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/about/visit-us" title="">Visit the college</a></li>
+<li class="leaf"><a href="/discover-hertford/undergraduates" title="">Apply for a degree course</a></li>
+<li class="leaf"><a href="/my-hertford/forms-and-bookings/room-booking" title="">Book a room</a></li>
+<li class="leaf"><a href="/conferences" title="">Arrange a conference</a></li>
+<li class="leaf"><a href="/alumni-development/supporting-hertford/ways-to-give" title="">Donate to Hertford </a></li>
+<li class="leaf"><a href="/discover-hertford/fees-finance/paying-battels" title="">Pay my battels</a></li>
+<li class="last leaf"><a href="/my-hertford/food" title="">See what&#039;s on the menu</a></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+</div><div class="grid-12 region region-footer-menu" id="region-footer-menu">
+  <div class="region-inner region-footer-menu-inner">
+    <div class="block block-menu block-menu-footer block-menu-menu-footer odd block-without-title" id="block-menu-menu-footer">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first last leaf"><a href="/sitemap" title="">Sitemap</a></li>
+</ul>	  <div id="copyright">&copy; 2015 Hertford College | Registered Charity No. 1137527</div>
+	  	  <div id="manta-ray-media">
+	  	<strong class="by">Website by <a href="http://www.mantaraymedia.co.uk/" title="">Manta Ray Media</a></strong>
+	  </div>
+	      </div>
+  </div>
+</div>
+  </div>
+</div>  </div>
+</div></div>  </div>  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "" : "http://www.hertford.ox.ac.uk/piwik/");_paq.push(["setSiteId", "1"]);_paq.push(["setTrackerUrl", u+"piwik.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["disableCookies"]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"piwik.js";s.parentNode.insertBefore(g,s);})();
+//--><!]]>
+</script>
+</body>
+</html>

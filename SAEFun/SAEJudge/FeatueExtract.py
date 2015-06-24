@@ -115,11 +115,12 @@ class FeatureExtract:
 
     @staticmethod
     def __helper_div(array):
-        if len(array) <= 2:
+        if len(array) < 2:
             raise Exception("div for 1 element")
         d = FeatureExtract.__helper_prod(array[1:])
         if d == 0:
-            raise Exception("div by 0")
+            return array[0]
+            # raise Exception("div by 0")
         return array[0] / d
 
     @staticmethod

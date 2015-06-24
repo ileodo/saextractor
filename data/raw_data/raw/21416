@@ -1,0 +1,124 @@
+<!DOCTYPE HTML><html lang="en"><head>
+  <meta charset="utf-8"> 
+  <title>Maps
+| Department for Continuing Education.</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<!--[if lt IE 9]>
+<script src="/inc/js/h5s/html5shiv.js"></script>
+<script src="/inc/js/css3-mediaqueries.js"></script>
+<![endif]-->
+  <link href="/inc/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+  <link href="/inc/css/print.css" media="print" rel="stylesheet" type="text/css" />
+<!--[if lt IE 8]>
+      <link href="/inc/css/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+<![endif]-->
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"> </script>
+  <script type="text/javascript" src="/inc/js/u.js"> </script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.5.1/leaflet.min.css" />
+  <link rel="stylesheet" href="/inc/l/zs/L.Control.Zoomslider.css" />
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.5.1/leaflet.ie.min.css" />
+    <link rel="stylesheet" href="/inc/l/zs/L.Control.Zoomslider.ie.css" />
+  <![endif]-->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/0.5.1/leaflet.min.js"></script>
+  <script src="http://maps.google.com/maps/api/js?v=3.2&amp;sensor=false"></script>
+  <script src="/inc/l/Google.js"></script>
+  <script src="/inc/l/zs/L.Control.Zoomslider.js" ></script></head><body><!--[if lt IE 8]><div id="oldbrowser">You are using an out-dated browser - please <a href="http://http://www.whatbrowser.org/">upgrade to a current browser</a> to get the best web experience.</div><![endif]--><a href="#content" id="skiplink">Skip to main content</a><header class="main cf"><div id="banner">
+    <a title="Click to go to the University of Oxford homepage" id="oxlogo" class="parentLink noPrintHref" href="http://www.ox.ac.uk/"><img width="156" height="50" alt="University of Oxford" src="/inc/img/ox.gif"></a>
+    <a title="Click to go to the Department for Continuing Education homepage" id="contedlogo" class="parentLink noPrintHref" href="http://conted.ox.ac.uk/"><img width="156" height="50" alt="Department for Continuing Education" src="/inc/img/conted.png"></a>
+    <a title="Click to go to the Maps homepage" href="/"><img width="156" height="50" alt="Department for Continuing Education Maps" src="/inc/img/maps.png"></a>
+</div><nav class="crumbDropdown"><ol><li class="first l1"><div class="bc"><a href="/" aria-haspopup="true">Maps</a><span class="poplink"><ul><li class="l2 first"><div class="dd"><a href="/archaeology/index.php" aria-haspopup="true">Archaeology</a><span class="poplink pl-r"><ul><li class="l3 first"><div class="dd"><a href="/archaeology/pompeii/index.php" aria-haspopup="true">Pompeii</a><span class="poplink pl-r"><ul><li class="l4 first"><div class="dd leaf"><a href="/archaeology/pompeii/pompeii.php">Pompeii sites</a></div></li><li class="l4 last"><div class="dd leaf"><a href="/archaeology/pompeii/pompeii_garden.php">Cultivation inside the city walls</a></div></li></ul></span></div></li><li class="l3 last"><div class="dd"><a href="/archaeology/vikings/index.php" aria-haspopup="true">Vikings</a><span class="poplink pl-r"><ul><li class="l4 first"><div class="dd leaf"><a href="/archaeology/vikings/EarlyMedievalEmporia.php">Early medieval emporia</a></div></li><li class="l4"><div class="dd leaf"><a href="/archaeology/vikings/ParishNames.php">Parish names</a></div></li><li class="l4"><div class="dd leaf"><a href="/archaeology/vikings/BurghalHidage.php">Burghal Hidage</a></div></li><li class="l4"><div class="dd leaf"><a href="/archaeology/vikings/BurhsDefences.php">Burhs and burghal defences</a></div></li><li class="l4"><div class="dd leaf"><a href="/archaeology/vikings/FaeroesOrkneyShetland.php">Faeroes Orkney, Shetland and Western Isles sites</a></div></li><li class="l4 last"><div class="dd leaf"><a href="/archaeology/vikings/VikingAgeTowns.php">Viking age towns</a></div></li></ul></span></div></li></ul></span></div></li><li class="l2"><div class="dd"><a href="/architecturalhistory/index.php" aria-haspopup="true">Architectural History</a><span class="poplink pl-r"><ul><li class="l3 first last"><div class="dd leaf"><a href="/architecturalhistory/ArchitectureEnglishCathedral/index.php">The Cathedrals of Medieval England</a></div></li></ul></span></div></li><li class="l2"><div class="dd"><a href="/envsci/index.php" aria-haspopup="true">Environmental Science</a><span class="poplink pl-r"><ul><li class="l3 first"><div class="dd leaf"><a href="/envsci/cenet/modelplots.php">climateeducation.net: Model plots</a></div></li><li class="l3 last"><div class="dd"><a href="/envsci/ecosurvey/index.php" aria-haspopup="true">Ecological Survey Techniques</a><span class="poplink pl-r"><ul><li class="l4 first last"><div class="dd"><a href="/envsci/ecosurvey/mammals/index.php" aria-haspopup="true">Eurasian Badgers (<i>Meles meles</i>) at Wytham Woods, UK</a><span class="poplink pl-r"><ul><li class="l5 first"><div class="dd leaf"><a href="/envsci/ecosurvey/mammals/wytham.php">Introduction to Wytham Woods</a></div></li><li class="l5"><div class="dd leaf"><a href="/envsci/ecosurvey/mammals/setts.php">Badger sett locations at Wytham</a></div></li><li class="l5 last"><div class="dd leaf"><a href="/envsci/ecosurvey/mammals/latrines.php">Badger latrine distribution at Wytham</a></div></li></ul></span></div></li></ul></span></div></li></ul></span></div></li><li class="l2"><div class="dd"><a href="/history/index.php" aria-haspopup="true">History</a><span class="poplink pl-r"><ul><li class="l3 first last"><div class="dd"><a href="/history/elizabethi/index.php" aria-haspopup="true">Elizabeth I</a><span class="poplink pl-r"><ul><li class="l4 first last"><div class="dd leaf"><a href="/history/elizabethi/kenilworth.php">Elizabeth I at Kenilworth</a></div></li></ul></span></div></li></ul></span></div></li><li class="l2 last"><div class="dd"><a href="/literature/index.php" aria-haspopup="true">Literature</a><span class="poplink pl-r"><ul><li class="l3 first"><div class="dd"><a href="/literature/midenglit/index.php" aria-haspopup="true">Middle English Literature</a><span class="poplink pl-r"><ul><li class="l4 first last"><div class="dd leaf"><a href="/literature/midenglit/YorkMysteryPlaysRoute.php">York Mystery Plays Route</a></div></li></ul></span></div></li><li class="l3 last"><div class="dd"><a href="/literature/americannovel/index.php" aria-haspopup="true">The Modern American Novel</a><span class="poplink pl-r"><ul><li class="l4 first"><div class="dd leaf"><a href="/literature/americannovel/exploringamerica.php">Exploring America</a></div></li><li class="l4"><div class="dd leaf"><a href="/literature/americannovel/geographicalsetting.php">Geographical setting</a></div></li><li class="l4 last"><div class="dd leaf"><a href="/literature/americannovel/margaretgarner.php">Margaret Garner</a></div></li></ul></span></div></li></ul></span></div></li></ul></span></div></li></ol></nav>
+</header><div id="content"><div id="maincol">
+<h1>Department for Continuing Education Maps</h1>
+<section class="twocol left">
+    <p>This site hosts maps to support the department's students, courses, and visitors.</p>
+
+    <h2>Maps in course subject areas</h2>
+    <ul class="nodeSubNav"><li><a href="/archaeology/index.php" class="">Archaeology</a></li><li><a href="/architecturalhistory/index.php" class="">Architectural History</a></li><li><a href="/envsci/index.php" class="">Environmental Science</a></li><li><a href="/history/index.php" class="">History</a></li><li><a href="/literature/index.php" class="">Literature</a></li></ul>
+
+    <h2>The Department's buildings</h2>
+    <p>The <a href="http://www.conted.ox.ac.uk/">Department for Continuing Education</a> is distributed between <a href="?id=rewley" class="mapLink">Rewley House</a>, and <a href="?id=ewert" class="mapLink">Ewert House</a>, in Oxford.</p>
+</section>
+
+<section class="twocol right">
+    <div id="map" style="height: 30em;">Javascript is required to load maps.</div>
+</section>
+<div class="clear"> </div>
+</div>
+
+<script>
+    $('#map').html('');
+
+    var map = L.map('map').setView([51.77, -1.263], 12);
+    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: "Map data © OpenStreetMap contributors"}).addTo(map);
+
+    var buildings = {"type":"Feature Collection","features":[
+        {"type":"Feature","id":"ewert","geometry":{"type":"Point","coordinates":["-1.26275","51.77665"]},"properties":{
+                "name":"Ewert House", "info": '<address>Ewert Place, Summertown,<br/>Oxfordshire,<br/>OX2 7DD,<br/>United Kingdom</address>'}},
+        {"type":"Feature","id":"rewley","geometry":{"type":"Point","coordinates":["-1.2622","51.75723"]},"properties":{
+                "name":"Rewley House", "info": '<address>1 Wellington Square, Oxford,<br/>Oxfordshire,<br/>OX1 2JA,<br/>United Kingdom</address>'}}
+    ]};
+
+    var markers = {};
+    buildingsLayer = L.geoJson(buildings, {
+        pointToLayer: function (feature, latlng) {
+            var marker = new L.marker(latlng, {title: feature.properties.name});
+            markers[feature.id] = marker;
+            return marker;
+        },
+        onEachFeature: function(feature, layer) {
+            layer.bindPopup("<h2>"+feature.properties.name+"</h2>"+feature.properties.info);
+        }
+    }).addTo(map);
+
+
+    $('a.mapLink').on('click', function(e) {
+        e.preventDefault();
+        markers[getParam($(this).attr('href'), 'id')].openPopup();
+    });
+
+    if (window.location.search) {
+        markers[getParam(window.location.search, 'id')].openPopup();
+    }
+</script>
+
+</div><footer>
+    <div>
+        <a href="http://www.ox.ac.uk">University of Oxford</a>, <a href="/privacycookies.php">Privacy and cookies policy</a>.
+    </div>
+    <div class="vcard">&copy; 2002-2015 <span class="fn org"><span class="organization-name">University of Oxford</span>, <a class="organization-unit n" href="http://www.conted.ox.ac.uk/">Department for Continuing Education</a> </span>
+        <address class="adr">
+            <span class="street-address">Rewley House, 1 Wellington Square</span>,
+            <span class="locality">Oxford</span>, <span class="region">Oxfordshire</span>,
+            <span class="postal-code">OX1 2JA</span>,
+            <span class="country-name">United Kingdom</span>.
+            Tel: <span class="tel">+44 (0)1865 270360</span>
+        </address>
+    </div>
+</footer><script src="http://www.geoplugin.net/javascript.gp" type="text/javascript"></script>
+<script src="/inc/js/cookieControl-5.1.min.js" type="text/javascript"></script>
+<script type="text/javascript">//<![CDATA[
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://webstats.conted.ox.ac.uk//";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 4]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+  cookieControl({
+      introText:'This site uses some unobtrusive cookies to store information on your computer.',
+      fullText:'<p>We use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you\'re not happy with this, you can adjust your <a href="http://www.civicuk.com/cookie-law/browser-settings" target="_blank">browser settings</a> to disable them, but some nice features of the site may be unavailable.</p><p>By using our site you accept the terms of our <a href="/privacycookies.php">Privacy Policy</a>.</p>',
+      position:'left', // left or right
+      shape:'diamond', // triangle or diamond
+      theme:'light', // light or dark
+      startOpen:true,
+      autoHide:6000,
+      subdomains:false,
+      consentModel:'information_only',
+      });
+   //]]>
+</script>
+<noscript><p><img src="http://webstats.conted.ox.ac.uk/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript></body></html>

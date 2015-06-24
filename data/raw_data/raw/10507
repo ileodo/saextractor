@@ -1,0 +1,398 @@
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+	<head>
+		<title>Departments: Eastern Art - Ashmolean Museum</title>
+		<!-- meta http-equiv="content-type" content="text/html; charset=UTF-8" /-->
+		<meta http-equiv="Content-type" content="text/html; charset=ISO-8859-1" />
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Language" content="en-us" />
+		<meta name="description" content="links to information about the eastern art department" />
+		<meta name="keywords" content="ashmolean,museums,oldest museum,archaeology,art,collections,paintings,oxford,information,history,vacancies,contacts,weddings,civil ceremonies,venues," />
+		<meta name="author" content="Tom Lucas" />
+		<meta name="author" content="Jonathan Moffett" />
+		<meta name="robots" content="all" />
+		<meta name="p:domain_verify" content="pinterest-9f25e.html" />
+		<link rel="icon" type="image/png" href="/favicon.ico" />
+
+            <link rel="stylesheet" href="/includes/css/jqJigsawPuzzle-1.0.css" type="text/css"/>
+            <link rel="stylesheet" href="/includes/css/jquery-ui-1.8.22.custom.css" type="text/css"/>
+    
+            <script type="text/javascript" src="/includes/js/jquery-1.7.2.min.js"></script>
+            <script type="text/javascript" src="/includes/js/jquery-ui-1.8.22.custom.min.js"></script>
+            <script type="text/javascript" src="/includes/js/jqJigsawPuzzle-1.0.js"></script>
+            <script type="text/javascript" src="/includes/js/jquery.animate-colors-min.js"></script>
+            <script type="text/javascript">
+                jQuery(document).ready(function() {
+                    jqJigsawPuzzle.createPuzzleFromImage("#my_puzzle", {
+                        piecesSize: 'big',
+                        borderWidth: 10,
+                        shuffle: {
+                            rightLimit: 600,
+                            leftLimit: 600,
+                            topLimit: 5,
+                            bottomLimit: 5
+                        }
+                    });
+                });
+            </script>
+<!--[if lt IE 7.] >
+<script defer type="text/javascript" src="scripts/pngfix.js"></script>
+<![endif] -->
+		<script src="/scripts/AC_RunActiveContent.js" type="text/javascript"></script> 
+		<script src="/scripts/AC_ActiveX.js" type="text/javascript"></script>
+        <script type="text/javascript" src="/includes/js/jquery-1.7.2.min.js"></script>
+		<script src="/scripts/jquery-easing-1.3.js" type="text/javascript"></script>
+		<script src="/scripts/layerslider.kreaturamedia.jquery.js" type="text/javascript"></script>
+		<script type="text/javascript" src="/includes/flashobject.js"></script>
+
+		<script src="/includes/pagemouse.js" type="text/javascript"></script> 
+		<script type="text/javascript" src="/includes/rollover.js"></script>
+		<script type="text/javascript" src="/includes/fade.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+			$('#layerslider').layerSlider({
+				skin : 'lightskin',
+				skinsPath : '/styles/'
+			});
+			$('#layerslider2').layerSlider({
+				skin : 'darkskin',
+				skinsPath : '/styles/',
+				durationIn : 1200,
+				durationOut : 1200,
+				firstLayer : 1,
+				autoStart : false,
+				navStartStop : false,
+				skin : 'darkskin'
+			});
+			$('#layerslider3').layerSlider({
+				skin : 'darkskin',
+				skinsPath : '/styles/',
+				durationIn : 1200,
+				durationOut : 1200,
+				firstLayer : 1,
+				autoStart : false,
+				navStartStop : false,
+				skin : 'darkskin'
+			});
+			$('#layerslider4').layerSlider({
+				skin : 'darkskin',
+				skinsPath : '/styles/',
+				durationIn : 1200,
+				durationOut : 1200,
+				firstLayer : 1,
+				autoStart : false,
+				navStartStop : false,
+				skin : 'darkskin'
+			});
+			$('#layerslider5').layerSlider({
+				skin : 'darkskin',
+				skinsPath : '/styles/',
+				durationIn : 1200,
+				durationOut : 1200,
+				firstLayer : 1,
+				autoStart : false,
+				navStartStop : false,
+				skin : 'darkskin'
+			});
+			$('#layerslider6').layerSlider({
+				skin : 'darkskin',
+				skinsPath : '/styles/',
+				durationIn : 1200,
+				durationOut : 1200,
+				firstLayer : 1,
+				autoStart : false,
+				navStartStop : false,
+				skin : 'darkskin'
+			});
+			$('#layerslider7').layerSlider({
+				skin : 'darkskin',
+				skinsPath : '/styles/',
+				durationIn : 1200,
+				durationOut : 1200,
+				firstLayer : 1,
+				autoStart : false,
+				navStartStop : false,
+				skin : 'darkskin'
+			});
+		});		
+		</script>
+		<link rel="stylesheet" href="/style-ashmolean.css" type="text/css" />
+		<link rel="stylesheet" href="/styles/style.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/layerslider.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/style-jcm.css" type="text/css" />
+    
+	<style type="text/css">
+		a { color:#b51339; } 
+		h2 { color:#b51339; } 
+		h2 a { color:#b51339; } 
+		h2 a:hover { color:#555555; }
+		h3 { color:#b51339; }
+		h3 a { color:#b51339; } 
+		h3 a:hover { color:#555555;}
+		h4 { color:#b51339; }
+		h5 { color:#b51339; }
+		h6 { color:#b51339; }
+		.footer a:hover { color:#b51339; }
+		#content a { color:#b51339; }
+		#contentCol a { color#b51339; }
+
+	</style>
+    
+<!--[if lt IE 9]>
+	<script src="/scripts/html5.js"></script>
+<![endif]-->
+<script type="text/javascript">
+function fade1(div_id,button){
+	if(button.value=='FadeOut'){
+		$('#'+div_id).fadeOut('slow');
+		button.value='FadeIn';
+	} else
+	{
+		$('#'+div_id).fadeIn('slow');
+		button.value='FadeOut';
+	}
+}
+
+function fade2(div_id){
+	$('#'+div_id).fadeOut('slow');
+}
+
+function fade3(div_id){
+	$('#'+div_id).fadeIn('slow');
+}
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53444204-1', 'auto');
+  ga('send', 'pageview');
+
+</script>	</head>
+	<body>
+		<div id="wrap">
+			<a name="topofpage"></a>
+			<div id="container2">
+				<div id="menu">
+					<div id="logo" style="background: url('/images/bg-header-blake.png') no-repeat top left;">
+					<!-- div id="logo" -->
+						<a href="/"><img src="/images/ashmolean-logo.png" width="392" height="112" alt="Return to Home Page" /></a>
+					</div>
+					<a id="menu-but-first" href="/plan">Plan Your Visit</a>
+					<a id="menu-but" href="/exhibitions">What's On</a>
+					<a id="menu-but" href="/collections">Collections</a>
+					<a id="menu-but" href="/news">News</a>
+					<a id="menu-but" href="/about">About Us</a>
+					<a id="menu-but" href="/eating">Eating &amp; Drinking</a>
+					<a id="menu-but" href="http://shop.ashmolean.org/" target="_blank">Shop</a>
+					<a href="http://www.museums.ox.ac.uk/" target="_blank" id="menu-but-right-last">University Museums</a>
+					<a id="menu-but-right" href="/support">Support Us</a>
+				</div><!--menu-->
+			</div>
+			<div id="feature-holder-narrow" style="background: url(/images/bg-header-blake.png) no-repeat top center;">
+			<!-- div id="feature-holder-narrow" -->
+				<div id="feature-narrow">
+					<img src="/images/headers-narrow/header-exteriorbuilding.jpg" width="549" height="150" alt="ashmolean" align="right" />
+				</div><!--feature-->
+			</div><!--feature-holder-->
+			<div id="container">
+				<div id="submenu">
+                    
+					<a href="http://www.ox.ac.uk" target="_blank" id="oxford-but"></a>
+					<div id="search-holder">
+						<a id="free"></a>
+							<h1>Opens: 10am&ndash;5pm<br />
+				    		Tues&ndash;Sun &amp; Bank Holiday Mon</h1>
+		  				<div id="display_search">
+							<form id="SearchBoxForm" method="get" action="/search/">
+								<input type="text" name="search_input" value="Search Site" id="search_input" onfocus="this.value = (this.value=='Search Site')? '' : this.value;" />
+								<input id="search_submit" type="submit" value="Search Site" name="Submit" />
+							</form>
+						</div>
+					</div>
+                    
+					<a href="http://pinterest.com/ashmoleanmuseum" target="_blank" id="pinterest-but"></a>
+					<a href="http://goo.gl/maps/wCQzk" target="_blank" id="google-but"></a>
+					<a href="http://www.youtube.com/ashmoleanvideos" target="_blank" id="youtube-but"></a>
+					<a href="https://twitter.com/ashmoleanmuseum" target="_blank" id="twitter-but"></a>
+					<a href="http://www.facebook.com/ashmoleanmuseum" target="_blank" id="facebook-but"></a>
+				</div> <!--submenu-->
+				<div id="content">
+					<h3>Department of Eastern Art</h3>
+					<div class="menuwrap4">
+						<div class="menuwrapcell14">
+							<div class="menuwrapcellhead4">
+								<h3><a href="/departments/easternart/about">About the department</a></h3>
+							</div>
+							<div class="menuwrapcellimg4">
+								<a href="/departments/easternart/about"><img src="/images/columns4/ea-about.jpg" alt="" width="165" height="120" border="0" class="darkableImage" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity=70" /></a>
+							</div>
+							<div class="menuwrapcelltxt4">
+								<p>More information about the Eastern Art Collections</p>
+							</div>
+						</div>
+						<div class="menuwrapcell24">
+							<div class="menuwrapcellhead4">
+								<h3><a href="/departments/easternart/research">Research</a></h3>
+							</div>
+							<div class="menuwrapcellimg4">
+								<a href="/departments/easternart/research"><img src="/images/columns4/ea-research.jpg" alt="" width="165" height="120" border="0" class="darkableImage" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity=70" /></a>
+							</div>
+							<div class="menuwrapcelltxt4">
+								<p>More information about the department's research projects</p>
+							</div>
+						</div>
+						<div class="menuwrapcell34">
+							<div class="menuwrapcellhead4">
+								<h3><a href="/departments/easternart/services">Services</a></h3>
+							</div>
+							<div class="menuwrapcellimg4">
+								<a href="/departments/easternart/services"><img src="/images/columns4/ea-services.jpg" alt="" width="165" height="120" border="0" class="darkableImage" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity=70" /></a>
+							</div>
+							<div class="menuwrapcelltxt4">
+								<p>Information about identification services</p>
+							</div>
+						</div>
+						<div class="menuwrapcell44">
+							<div class="menuwrapcellhead4">
+								<h3><a href="/departments/easternart/studycentre">Jameel Study Centre</a></h3>
+							</div>
+							<div class="menuwrapcellimg4">
+								<a href="/departments/easternart/studycentre"><img src="/images/columns4/ea-jsc.jpg" alt="" width="165" height="120" border="0" class="darkableImage" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity=70" /></a>
+							</div>
+							<div class="menuwrapcelltxt4">
+								<p>The Jameel Centre for the Study of Eastern Art</p>
+							</div>
+						</div>
+						<div class="menuwrapcell14">
+							<div class="menuwrapcellhead4">
+								<h3><a href="/departments/easternart/contact">Contact Us</a></h3>
+							</div>
+							<div class="menuwrapcellimg4">
+								<a href="/departments/easternart/contact"><img src="/images/columns4/ea-contacts.jpg" alt="" width="165" height="120" border="0" class="darkableImage" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity=70" /></a>
+							</div>
+							<div class="menuwrapcelltxt4">
+								<p>How to contact the department</p>
+							</div>
+						</div>
+						<div class="menuwrapcell24">
+							<div class="menuwrapcellhead4">
+								<h3><a href="http://www.ashmoleanprints.com/category.php?catid=6799">Print on Demand</a></h3>
+							</div>
+							<div class="menuwrapcellimg4">
+								<a href="http://www.ashmoleanprints.com/category.php?catid=6799"><img src="/images/columns4/ea-pod.jpg" alt="" width="165" height="120" border="0" class="darkableImage" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity=70" /></a>
+							</div>
+							<div class="menuwrapcelltxt4">
+								<p></p>
+							</div>
+						</div>
+						<div class="menuwrapcell34">
+							<div class="menuwrapcellhead4">
+								<h3><a href="http://jameelcentre.ashmolean.org">Eastern Art Online</a></h3>
+							</div>
+							<div class="menuwrapcellimg4">
+								<a href="http://jameelcentre.ashmolean.org"><img src="/images/columns4/ea-eao.jpg" alt="" width="165" height="120" border="0" class="darkableImage" onmouseout="this.style.opacity=1;this.filters.alpha.opacity=100" onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity=70" /></a>
+							</div>
+							<div class="menuwrapcelltxt4">
+								<p></p>
+							</div>
+						</div>
+					</div>
+				</div> <!--content-->
+				<div class="rightauto"> 
+					<h2><a href="/departments/easternart">Eastern Art</a></h2>
+					<a id="general-but" href="/departments/easternart/about">About the department</a>
+					<a id="general-but" href="/departments/easternart/research">Research</a>
+					<a id="general-but" href="/departments/easternart/services">Services</a>
+					<a id="general-but" href="/departments/easternart/studycentre">Jameel Study Centre</a>
+					<a id="general-but" href="/departments/easternart/contact">Contact Us</a>
+					<a id="general-but" href="http://www.ashmoleanprints.com/category.php?catid=6799" target="_blank" onClick="javascript: _gaq.push(['_trackEvent', 'downloads/apps', 'category.php' ]);">Print on Demand</a>
+					<a id="general-but" href="http://jameelcentre.ashmolean.org" target="_blank" onClick="javascript: _gaq.push(['_trackEvent', 'downloads/apps', 'jameelcentre.ashmolean.org' ]);">Eastern Art Online</a>
+					<div id="right-line"></div>
+					<h2><a href="/departments">Research &amp; Conservation</a></h2>
+					<a id="general-but" href="/departments/antiquities">Antiquities</a>
+					<a id="general-but" href="/departments/castgallery">Cast Gallery</a>
+					<a id="general-but" href="/departments/easternart">Eastern Art</a>
+					<a id="general-but" href="/departments/heberdencoinroom">Coin Room</a>
+					<a id="general-but" href="/departments/westernart">Western Art</a>
+					<a id="general-but" href="/departments/conservation">Conservation</a>
+					<a id="general-but" href="/departments/uep">UEP</a>
+        
+        
+				</div>
+			</div> <!--container-->
+		</div> <!--wrap-->
+		<div id="footer-holder">
+			<div id="container-footer">
+				<div id="footer1">
+					<h2><a href="/plan">Plan Your Visit</a></h2>
+					<p class="footer">
+						<a href="/plan/">Opening Times</a><br />
+						<a href="/plan/location/">Location &amp; Access</a><br />
+						<a href="/plan/photography">Photography</a><br />
+						<a href="/assets/images/Plan/FloorPlan.pdf" target="_blank">Floor Plan</a></p>
+					<h3><a href="/about">About Us</a></h3>
+					<p class="footer">
+						<a href="/about/administration">Administration</a><br />
+						<a href="/about/historyandfuture">History</a><br />
+						<a href="/services">Services</a><br />
+						<a href="/about/university">The University</a><br />
+						<a href="/about/vacancies">Work With Us</a><br />
+						<a href="/about/press">Press</a></p>
+				</div>
+				<div id="footer2">
+					<h2><a href="/exhibitions">What's On</a></h2>
+					<p class="footer">
+						<a href="/exhibitions/tickets">Exhibition Tickets</a><br />
+						<a href="/events">Events</a><br />
+						<a href="/exhibitions/current/?timing=current">Exhibitions</a><br />
+						<a href="/assets/docs/WhatsOnCurrent.pdf">Download Brochure</a></p>
+					<h3><a href="/eating">Eating &amp; Drinking</a></h3>
+					<p class="footer">
+						<a href="/eating">Ashmolean Dining Room</a><br />
+						<a href="/eating">Ashmolean Caf&eacute;</a></p>
+	    			<h3><a href="/services/venuehire">Venue Hire</a></h3>
+					<p class="footer">
+						<a href="/weddings">Weddings</a><br />
+						<a href="/services/venuehire/corporate">Corporate Events</a><br />
+						<a href="/services/venuehire/enquiries">Enquiry Form</a></p>
+				</div>
+				<div id="footer3">
+					<h2><a href="/collections">Collections</a></h2>
+					<p class="footer">
+                    	<a href="/collections">What's in the Ashmolean</a><br />
+						<a href="/collections/?type=resources">Online Collections</a><br />
+						<a href="/departments">Research &amp; Conservation</a></p>
+					<h3><a href="/education">Learning</a></h3>
+ 						<h3><a href="/support">Support Us</a></h3>
+					<p class="footer">
+                    	<a href="/support/give">Give to the Ashmolean</a><br />
+						<a href="/support/friends/">Membership</a><br />
+                    	<a href="/support/corporatesupport/membership/">Corporate Circle</a></p>
+				    <h3><a href="http://shop.ashmolean.org/">Shop</a></h3>
+				</div>
+				<div id="right">
+					<h2><a href="/subscriptions/?subscribe=Stay+in+Touch">Email Sign-up</a></h2>
+					<p>Keep up to date with Ashmolean events, exhibitions and news</p>
+					<a id="general-but" href="/subscriptions/?subscribe=Stay+in+Touch">Stay in Touch</a>
+					<p class="footer">&nbsp;</p>
+					<p class="footer">
+						<a href="/news">News</a><br />
+						<a href="/contact">Contact Us</a><br />
+						<a href="/links">Links</a><br />
+						<a href="/terms">Terms of Use</a><br />
+						<a href="/sitemap">Site Map</a></p>
+				</div>
+				<div id="footer-logos">
+					&nbsp;
+				</div>
+				<div id="footer-logos-right">
+					<p class="footersmall">&copy; 2012 University of Oxford - Ashmolean Museum</p>
+				</div>
+			</div><!--container-footer-->
+		</div><!--footer-holder-->
+	</body>
+</html>

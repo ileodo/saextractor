@@ -1,0 +1,6981 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+<html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8" />
+  
+  <title>Serica: pre-modern Chinese books in the Bodleian Library</title>
+  <link type="text/plain" rel="author" href="humans.txt" />   
+
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+  
+  <!-- favicon -->
+  <link rel="shortcut icon" href="/images/favicon.png">
+  
+  <!-- Included CSS Files (Uncompressed) -->
+  <!-- 
+  <link rel="stylesheet" href="stylesheets/foundation.css">
+  -->
+  
+  <!-- Included CSS Files (Compressed) -->
+  <link rel="stylesheet" href="stylesheets/foundation.min.css">
+  <link rel="stylesheet" href="stylesheets/app.css">
+
+  <script src="javascripts/modernizr.foundation.js"></script>
+
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  
+  <!-- Sticky footer -->
+  <script src="javascripts/stickyfoundationfooter.js"></script>
+   
+</head>
+
+  <body>
+
+    
+
+<div class="wrapper"> <!-- wrapper needed for sticky footer, this div closes on footer.mako -->
+
+    <!-- Header and Nav -->    
+    <div class="row hide-on-print">
+    
+        <div class="topBand">
+            <img src="images/decorative_marks.png" style="padding-right:10px;" alt="Decorative text and marks"class="topImg"/>
+            <a href="http://www.bodleian.ox.ac.uk" target="_blank" border="0"><img src="images/bodleian_logo.png" alt="Bodleian Libraries [opens new window]" border="0" title="Bodleian Libraries [opens new window]"class="bod"/></a>
+        </div>
+        
+        <div class="three columns topText">
+          <h1><a href="/" alt="Serica home" title="Serica home">Serica</a></h1>
+                        
+                      
+
+                      
+
+
+                      
+
+
+                      <h2  class="normal_font">                      <a href="/home" title="home"> 首頁 | home </a>                      </h2>
+
+                      
+          
+        </div>            
+    </div>
+
+    <!-- End Header and Nav -->
+
+    <hr class="topHR" />
+
+ 
+
+    
+
+<div class="row">
+    <div class="four columns">
+        
+      <!-- search area -->
+      <h2 class="normal_font">檢索 | search</h2>
+            <div class="row collapse">
+                
+  
+
+  <div class="quicksearch ">
+  <form action="search_results" name="search_everything" id="search_everything" method="GET">  
+
+
+
+  <input type="hidden" name="which_field" value="everything" />
+
+  
+
+
+  
+  <div class="row collapse">
+      <div class="ten mobile-three columns">
+        <input type="text" name="value" id="value" value="" tabindex="1" />
+      </div>
+      <div class="two mobile-one columns">
+        <input type="submit" value="" name="submit-search-everything-button" id="submit-search-everything-button" 
+          tabindex="1" class="postfix button expand search_btn" />         
+      </div>
+   </div>
+  
+  
+
+  <input type="hidden" name="search_type" value="quick" />
+  </form>
+
+  </div>
+              
+            </div>      
+      <hr />
+      <!-- browse area -->  
+        
+        
+  
+  
+  
+  
+
+  <script>
+  function expandOneTreeNode ( div_id, button_id ) {
+    var the_div = document.getElementById( div_id );
+    var the_button = document.getElementById( button_id );
+    the_div.style.display = "";
+    the_button.innerHTML = "-";
+
+    the_div = document.getElementById( "treenav_buttons_bottom" );
+    the_div.style.display = "";
+  }
+  </script>
+
+  
+  
+  
+
+  <script>
+  function collapseOneTreeNode ( div_id, button_id ) {
+    var the_div = document.getElementById( div_id );
+    var the_button = document.getElementById( button_id );
+    the_div.style.display = "none";
+    the_button.innerHTML = "+";
+  }
+  </script>
+
+  
+
+  
+  
+
+  <script>
+  function toggleNodeDisplay( div_id, the_button ) {
+    var the_div = document.getElementById( div_id );
+    var current_setting = the_div.style.display;
+
+    if( current_setting == "none" ) {
+      the_div.style.display = "";
+      the_button.innerHTML = "-";
+
+      the_div = document.getElementById( "treenav_buttons_bottom" );
+      the_div.style.display = "";
+    }
+    else {
+      the_div.style.display = "none";
+      the_button.innerHTML = "+";
+    }
+  }
+  </script>
+
+  
+  
+  
+  
+  
+
+  <script>
+  function collapseAllTreeNodes () {
+    
+    collapseOneTreeNode( 'node53', 'node53_button' );
+    
+    collapseOneTreeNode( 'node52', 'node52_button' );
+    
+    collapseOneTreeNode( 'node51', 'node51_button' );
+    
+    collapseOneTreeNode( 'node50', 'node50_button' );
+    
+    collapseOneTreeNode( 'node49', 'node49_button' );
+    
+    collapseOneTreeNode( 'node48', 'node48_button' );
+    
+    collapseOneTreeNode( 'node47', 'node47_button' );
+    
+    collapseOneTreeNode( 'node46', 'node46_button' );
+    
+    collapseOneTreeNode( 'node45', 'node45_button' );
+    
+    collapseOneTreeNode( 'node44', 'node44_button' );
+    
+    collapseOneTreeNode( 'node43', 'node43_button' );
+    
+    collapseOneTreeNode( 'node42', 'node42_button' );
+    
+    collapseOneTreeNode( 'node41', 'node41_button' );
+    
+    collapseOneTreeNode( 'node40', 'node40_button' );
+    
+    collapseOneTreeNode( 'node39', 'node39_button' );
+    
+    collapseOneTreeNode( 'node38', 'node38_button' );
+    
+    collapseOneTreeNode( 'node37', 'node37_button' );
+    
+    collapseOneTreeNode( 'node36', 'node36_button' );
+    
+    collapseOneTreeNode( 'node35', 'node35_button' );
+    
+    collapseOneTreeNode( 'node34', 'node34_button' );
+    
+    collapseOneTreeNode( 'node33', 'node33_button' );
+    
+    collapseOneTreeNode( 'node32', 'node32_button' );
+    
+    collapseOneTreeNode( 'node31', 'node31_button' );
+    
+    collapseOneTreeNode( 'node30', 'node30_button' );
+    
+    collapseOneTreeNode( 'node29', 'node29_button' );
+    
+    collapseOneTreeNode( 'node28', 'node28_button' );
+    
+    collapseOneTreeNode( 'node27', 'node27_button' );
+    
+    collapseOneTreeNode( 'node26', 'node26_button' );
+    
+    collapseOneTreeNode( 'node25', 'node25_button' );
+    
+    collapseOneTreeNode( 'node24', 'node24_button' );
+    
+    collapseOneTreeNode( 'node23', 'node23_button' );
+    
+    collapseOneTreeNode( 'node22', 'node22_button' );
+    
+    collapseOneTreeNode( 'node21', 'node21_button' );
+    
+    collapseOneTreeNode( 'node20', 'node20_button' );
+    
+    collapseOneTreeNode( 'node19', 'node19_button' );
+    
+    collapseOneTreeNode( 'node18', 'node18_button' );
+    
+    collapseOneTreeNode( 'node17', 'node17_button' );
+    
+    collapseOneTreeNode( 'node16', 'node16_button' );
+    
+    collapseOneTreeNode( 'node15', 'node15_button' );
+    
+    collapseOneTreeNode( 'node14', 'node14_button' );
+    
+    collapseOneTreeNode( 'node13', 'node13_button' );
+    
+    collapseOneTreeNode( 'node12', 'node12_button' );
+    
+    collapseOneTreeNode( 'node11', 'node11_button' );
+    
+    collapseOneTreeNode( 'node10', 'node10_button' );
+    
+    collapseOneTreeNode( 'node9', 'node9_button' );
+    
+    collapseOneTreeNode( 'node8', 'node8_button' );
+    
+    collapseOneTreeNode( 'node7', 'node7_button' );
+    
+    collapseOneTreeNode( 'node6', 'node6_button' );
+    
+    collapseOneTreeNode( 'node5', 'node5_button' );
+    
+    collapseOneTreeNode( 'node4', 'node4_button' );
+    
+    collapseOneTreeNode( 'node3', 'node3_button' );
+    
+    collapseOneTreeNode( 'node2', 'node2_button' );
+    
+    collapseOneTreeNode( 'node1', 'node1_button' );
+    div_id = "treenav_buttons_bottom"
+    var the_div = document.getElementById( div_id );
+    the_div.style.display = "none";
+  }
+  </script>
+
+  
+  
+  
+
+  <script>
+  function expandAllTreeNodes () {
+    
+    expandOneTreeNode( 'node1', 'node1_button' );
+    
+    expandOneTreeNode( 'node2', 'node2_button' );
+    
+    expandOneTreeNode( 'node3', 'node3_button' );
+    
+    expandOneTreeNode( 'node4', 'node4_button' );
+    
+    expandOneTreeNode( 'node5', 'node5_button' );
+    
+    expandOneTreeNode( 'node6', 'node6_button' );
+    
+    expandOneTreeNode( 'node7', 'node7_button' );
+    
+    expandOneTreeNode( 'node8', 'node8_button' );
+    
+    expandOneTreeNode( 'node9', 'node9_button' );
+    
+    expandOneTreeNode( 'node10', 'node10_button' );
+    
+    expandOneTreeNode( 'node11', 'node11_button' );
+    
+    expandOneTreeNode( 'node12', 'node12_button' );
+    
+    expandOneTreeNode( 'node13', 'node13_button' );
+    
+    expandOneTreeNode( 'node14', 'node14_button' );
+    
+    expandOneTreeNode( 'node15', 'node15_button' );
+    
+    expandOneTreeNode( 'node16', 'node16_button' );
+    
+    expandOneTreeNode( 'node17', 'node17_button' );
+    
+    expandOneTreeNode( 'node18', 'node18_button' );
+    
+    expandOneTreeNode( 'node19', 'node19_button' );
+    
+    expandOneTreeNode( 'node20', 'node20_button' );
+    
+    expandOneTreeNode( 'node21', 'node21_button' );
+    
+    expandOneTreeNode( 'node22', 'node22_button' );
+    
+    expandOneTreeNode( 'node23', 'node23_button' );
+    
+    expandOneTreeNode( 'node24', 'node24_button' );
+    
+    expandOneTreeNode( 'node25', 'node25_button' );
+    
+    expandOneTreeNode( 'node26', 'node26_button' );
+    
+    expandOneTreeNode( 'node27', 'node27_button' );
+    
+    expandOneTreeNode( 'node28', 'node28_button' );
+    
+    expandOneTreeNode( 'node29', 'node29_button' );
+    
+    expandOneTreeNode( 'node30', 'node30_button' );
+    
+    expandOneTreeNode( 'node31', 'node31_button' );
+    
+    expandOneTreeNode( 'node32', 'node32_button' );
+    
+    expandOneTreeNode( 'node33', 'node33_button' );
+    
+    expandOneTreeNode( 'node34', 'node34_button' );
+    
+    expandOneTreeNode( 'node35', 'node35_button' );
+    
+    expandOneTreeNode( 'node36', 'node36_button' );
+    
+    expandOneTreeNode( 'node37', 'node37_button' );
+    
+    expandOneTreeNode( 'node38', 'node38_button' );
+    
+    expandOneTreeNode( 'node39', 'node39_button' );
+    
+    expandOneTreeNode( 'node40', 'node40_button' );
+    
+    expandOneTreeNode( 'node41', 'node41_button' );
+    
+    expandOneTreeNode( 'node42', 'node42_button' );
+    
+    expandOneTreeNode( 'node43', 'node43_button' );
+    
+    expandOneTreeNode( 'node44', 'node44_button' );
+    
+    expandOneTreeNode( 'node45', 'node45_button' );
+    
+    expandOneTreeNode( 'node46', 'node46_button' );
+    
+    expandOneTreeNode( 'node47', 'node47_button' );
+    
+    expandOneTreeNode( 'node48', 'node48_button' );
+    
+    expandOneTreeNode( 'node49', 'node49_button' );
+    
+    expandOneTreeNode( 'node50', 'node50_button' );
+    
+    expandOneTreeNode( 'node51', 'node51_button' );
+    
+    expandOneTreeNode( 'node52', 'node52_button' );
+    
+    expandOneTreeNode( 'node53', 'node53_button' );
+  }
+  </script>
+
+  
+  
+
+  <script>
+  function listAllTreeNodeDivs () {
+    var nodeList = new Array();
+    nodeList[ 0 ] = 'node1';
+    nodeList[ 1 ] = 'node2';
+    nodeList[ 2 ] = 'node3';
+    nodeList[ 3 ] = 'node4';
+    nodeList[ 4 ] = 'node5';
+    nodeList[ 5 ] = 'node6';
+    nodeList[ 6 ] = 'node7';
+    nodeList[ 7 ] = 'node8';
+    nodeList[ 8 ] = 'node9';
+    nodeList[ 9 ] = 'node10';
+    nodeList[ 10 ] = 'node11';
+    nodeList[ 11 ] = 'node12';
+    nodeList[ 12 ] = 'node13';
+    nodeList[ 13 ] = 'node14';
+    nodeList[ 14 ] = 'node15';
+    nodeList[ 15 ] = 'node16';
+    nodeList[ 16 ] = 'node17';
+    nodeList[ 17 ] = 'node18';
+    nodeList[ 18 ] = 'node19';
+    nodeList[ 19 ] = 'node20';
+    nodeList[ 20 ] = 'node21';
+    nodeList[ 21 ] = 'node22';
+    nodeList[ 22 ] = 'node23';
+    nodeList[ 23 ] = 'node24';
+    nodeList[ 24 ] = 'node25';
+    nodeList[ 25 ] = 'node26';
+    nodeList[ 26 ] = 'node27';
+    nodeList[ 27 ] = 'node28';
+    nodeList[ 28 ] = 'node29';
+    nodeList[ 29 ] = 'node30';
+    nodeList[ 30 ] = 'node31';
+    nodeList[ 31 ] = 'node32';
+    nodeList[ 32 ] = 'node33';
+    nodeList[ 33 ] = 'node34';
+    nodeList[ 34 ] = 'node35';
+    nodeList[ 35 ] = 'node36';
+    nodeList[ 36 ] = 'node37';
+    nodeList[ 37 ] = 'node38';
+    nodeList[ 38 ] = 'node39';
+    nodeList[ 39 ] = 'node40';
+    nodeList[ 40 ] = 'node41';
+    nodeList[ 41 ] = 'node42';
+    nodeList[ 42 ] = 'node43';
+    nodeList[ 43 ] = 'node44';
+    nodeList[ 44 ] = 'node45';
+    nodeList[ 45 ] = 'node46';
+    nodeList[ 46 ] = 'node47';
+    nodeList[ 47 ] = 'node48';
+    nodeList[ 48 ] = 'node49';
+    nodeList[ 49 ] = 'node50';
+    nodeList[ 50 ] = 'node51';
+    nodeList[ 51 ] = 'node52';
+    nodeList[ 52 ] = 'node53';
+    return nodeList;
+  }
+  </script>
+
+  
+  
+  
+  
+
+  <script>
+  function addParmsToTreeviewLinks( theLink ) {
+    var nodeList = listAllTreeNodeDivs();
+    var numNodes = nodeList.length;
+    var openNodes = new Array();
+    for( i = 0; i < numNodes; i++ ) {
+      divID = nodeList[ i ];
+      theDiv = document.getElementById( divID );
+      if( theDiv.style.display == "none" ) {
+        continue;
+      }
+      else {
+        openNodes.push( divID );
+      }
+    }
+    openNodes.toString();
+    theLink.href = theLink.href + "&open_nodes=" + escape( openNodes );
+  }
+  </script>
+
+  
+  
+  
+  
+
+  <script>
+  function buttonIDFromDivID( divID ) {
+    return divID + '_button';
+  }
+
+  function reOpenTreeNodes( nodeString ) {
+    var nodeArray = nodeString.split( "," );
+    var numNodes = nodeArray.length;
+    for( i = 0; i < numNodes; i++ ) {
+      divID = nodeArray[ i ];
+      buttonID = buttonIDFromDivID( divID );
+      expandOneTreeNode( divID, buttonID );
+    }
+  }
+  </script>
+
+
+  
+  <nav id="treenav" >
+
+  <h2 class="normal_font">
+  
+瀏覽 | browse
+  </h2>
+
+  <button name="expand_all_button_top" id="expand_all_button_top" 
+  class="button small normal_font"
+  onclick="expandAllTreeNodes()"> 
+  
+顯示 | expand
+  </button>
+
+  <button name="collapse_all_button_top" id="collapse_all_button_top" 
+  class="button small normal_font"
+  onclick="collapseAllTreeNodes()"> 
+  
+隱藏 | collapse
+  </button>
+  
+  <br>
+  <br>
+
+  
+    
+
+
+        
+
+
+
+        
+        
+        <span class="indent">
+        <button name="node1_button" id="node1_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node1', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=1" title="經部"
+         id="node1_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        經部 
+        </a>
+
+        <br>
+        <!-- (node 1, parent node 0) -->
+        <div id="node1">
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 100 -->
+    
+    <a href="/browse?category_number=100" title="彙編類"
+     id="category100_link" onclick="addParmsToTreeviewLinks( this )">
+    彙編類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(12)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 110 -->
+    
+    <a href="/browse?category_number=110" title="易類"
+     id="category110_link" onclick="addParmsToTreeviewLinks( this )">
+    易類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(20)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node2_button" id="node2_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node2', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=2" title="書類"
+         id="node2_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        書類 
+        </a>
+
+        <br>
+        <!-- (node 2, parent node 1) -->
+        <div id="node2">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 120 -->
+    
+    <a href="/browse?category_number=120" title="經"
+     id="category120_link" onclick="addParmsToTreeviewLinks( this )">
+    經
+    </a> 
+    <span class="lightfont narrowspaceonleft">(22)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 126 -->
+    
+    <a href="/browse?category_number=126" title="尚書大傳"
+     id="category126_link" onclick="addParmsToTreeviewLinks( this )">
+    尚書大傳
+    </a> 
+    <span class="lightfont narrowspaceonleft">(2)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 2 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node3_button" id="node3_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node3', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=3" title="詩類"
+         id="node3_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        詩類 
+        </a>
+
+        <br>
+        <!-- (node 3, parent node 1) -->
+        <div id="node3">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 130 -->
+    
+    <a href="/browse?category_number=130" title="經"
+     id="category130_link" onclick="addParmsToTreeviewLinks( this )">
+    經
+    </a> 
+    <span class="lightfont narrowspaceonleft">(19)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 136 -->
+    
+    <a href="/browse?category_number=136" title="韓詩外傳"
+     id="category136_link" onclick="addParmsToTreeviewLinks( this )">
+    韓詩外傳
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 3 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node4_button" id="node4_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node4', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=4" title="禮類"
+         id="node4_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        禮類 
+        </a>
+
+        <br>
+        <!-- (node 4, parent node 1) -->
+        <div id="node4">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 140 -->
+    
+    <a href="/browse?category_number=140" title="合刻"
+     id="category140_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(0)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 142 -->
+    
+    <a href="/browse?category_number=142" title="周禮"
+     id="category142_link" onclick="addParmsToTreeviewLinks( this )">
+    周禮
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 146 -->
+    
+    <a href="/browse?category_number=146" title="儀禮"
+     id="category146_link" onclick="addParmsToTreeviewLinks( this )">
+    儀禮
+    </a> 
+    <span class="lightfont narrowspaceonleft">(6)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node5_button" id="node5_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node5', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=5" title="禮記"
+         id="node5_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        禮記 
+        </a>
+
+        <br>
+        <!-- (node 5, parent node 4) -->
+        <div id="node5">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 150 -->
+    
+    <a href="/browse?category_number=150" title="經"
+     id="category150_link" onclick="addParmsToTreeviewLinks( this )">
+    經
+    </a> 
+    <span class="lightfont narrowspaceonleft">(10)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 154 -->
+    
+    <a href="/browse?category_number=154" title="大戴禮記"
+     id="category154_link" onclick="addParmsToTreeviewLinks( this )">
+    大戴禮記
+    </a> 
+    <span class="lightfont narrowspaceonleft">(12)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 5 -->
+        
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 158 -->
+    
+    <a href="/browse?category_number=158" title="三禮總義"
+     id="category158_link" onclick="addParmsToTreeviewLinks( this )">
+    三禮總義
+    </a> 
+    <span class="lightfont narrowspaceonleft">(0)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 162 -->
+    
+    <a href="/browse?category_number=162" title="通禮"
+     id="category162_link" onclick="addParmsToTreeviewLinks( this )">
+    通禮
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 166 -->
+    
+    <a href="/browse?category_number=166" title="雜禮"
+     id="category166_link" onclick="addParmsToTreeviewLinks( this )">
+    雜禮
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 4 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 170 -->
+    
+    <a href="/browse?category_number=170" title="樂類"
+     id="category170_link" onclick="addParmsToTreeviewLinks( this )">
+    樂類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node6_button" id="node6_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node6', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=6" title="春秋類"
+         id="node6_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        春秋類 
+        </a>
+
+        <br>
+        <!-- (node 6, parent node 1) -->
+        <div id="node6">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 180 -->
+    
+    <a href="/browse?category_number=180" title="合刻"
+     id="category180_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 182 -->
+    
+    <a href="/browse?category_number=182" title="經"
+     id="category182_link" onclick="addParmsToTreeviewLinks( this )">
+    經
+    </a> 
+    <span class="lightfont narrowspaceonleft">(0)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 184 -->
+    
+    <a href="/browse?category_number=184" title="左傳"
+     id="category184_link" onclick="addParmsToTreeviewLinks( this )">
+    左傳
+    </a> 
+    <span class="lightfont narrowspaceonleft">(11)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node7_button" id="node7_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node7', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=7" title="公羊傳"
+         id="node7_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        公羊傳 
+        </a>
+
+        <br>
+        <!-- (node 7, parent node 6) -->
+        <div id="node7">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 188 -->
+    
+    <a href="/browse?category_number=188" title="傳"
+     id="category188_link" onclick="addParmsToTreeviewLinks( this )">
+    傳
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 192 -->
+    
+    <a href="/browse?category_number=192" title="春秋繁露"
+     id="category192_link" onclick="addParmsToTreeviewLinks( this )">
+    春秋繁露
+    </a> 
+    <span class="lightfont narrowspaceonleft">(2)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 7 -->
+        
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 196 -->
+    
+    <a href="/browse?category_number=196" title="穀梁傳"
+     id="category196_link" onclick="addParmsToTreeviewLinks( this )">
+    穀梁傳
+    </a> 
+    <span class="lightfont narrowspaceonleft">(3)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 198 -->
+    
+    <a href="/browse?category_number=198" title="總義"
+     id="category198_link" onclick="addParmsToTreeviewLinks( this )">
+    總義
+    </a> 
+    <span class="lightfont narrowspaceonleft">(13)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 6 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node8_button" id="node8_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node8', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=8" title="四書類"
+         id="node8_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        四書類 
+        </a>
+
+        <br>
+        <!-- (node 8, parent node 1) -->
+        <div id="node8">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 200 -->
+    
+    <a href="/browse?category_number=200" title="合刻"
+     id="category200_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(37)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 202 -->
+    
+    <a href="/browse?category_number=202" title="大學"
+     id="category202_link" onclick="addParmsToTreeviewLinks( this )">
+    大學
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 204 -->
+    
+    <a href="/browse?category_number=204" title="中庸"
+     id="category204_link" onclick="addParmsToTreeviewLinks( this )">
+    中庸
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 206 -->
+    
+    <a href="/browse?category_number=206" title="論語"
+     id="category206_link" onclick="addParmsToTreeviewLinks( this )">
+    論語
+    </a> 
+    <span class="lightfont narrowspaceonleft">(5)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node9_button" id="node9_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node9', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=9" title="孟子"
+         id="node9_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        孟子 
+        </a>
+
+        <br>
+        <!-- (node 9, parent node 8) -->
+        <div id="node9">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 210 -->
+    
+    <a href="/browse?category_number=210" title="孟子"
+     id="category210_link" onclick="addParmsToTreeviewLinks( this )">
+    孟子
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 213 -->
+    
+    <a href="/browse?category_number=213" title="孟子外書"
+     id="category213_link" onclick="addParmsToTreeviewLinks( this )">
+    孟子外書
+    </a> 
+    <span class="lightfont narrowspaceonleft">(2)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 9 -->
+        
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 214 -->
+    
+    <a href="/browse?category_number=214" title="總義"
+     id="category214_link" onclick="addParmsToTreeviewLinks( this )">
+    總義
+    </a> 
+    <span class="lightfont narrowspaceonleft">(14)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 8 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 220 -->
+    
+    <a href="/browse?category_number=220" title="孝類"
+     id="category220_link" onclick="addParmsToTreeviewLinks( this )">
+    孝類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(12)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node10_button" id="node10_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node10', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=10" title="小學類"
+         id="node10_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        小學類 
+        </a>
+
+        <br>
+        <!-- (node 10, parent node 1) -->
+        <div id="node10">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 228 -->
+    
+    <a href="/browse?category_number=228" title="合刻"
+     id="category228_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node11_button" id="node11_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node11', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=11" title="訓詁"
+         id="node11_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        訓詁 
+        </a>
+
+        <br>
+        <!-- (node 11, parent node 10) -->
+        <div id="node11">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 230 -->
+    
+    <a href="/browse?category_number=230" title="合刻"
+     id="category230_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(0)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 232 -->
+    
+    <a href="/browse?category_number=232" title="爾雅"
+     id="category232_link" onclick="addParmsToTreeviewLinks( this )">
+    爾雅
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 236 -->
+    
+    <a href="/browse?category_number=236" title="爾雅以外"
+     id="category236_link" onclick="addParmsToTreeviewLinks( this )">
+    爾雅以外
+    </a> 
+    <span class="lightfont narrowspaceonleft">(9)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 11 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node12_button" id="node12_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node12', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=12" title="字書"
+         id="node12_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        字書 
+        </a>
+
+        <br>
+        <!-- (node 12, parent node 10) -->
+        <div id="node12">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 240 -->
+    
+    <a href="/browse?category_number=240" title="合刻"
+     id="category240_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 242 -->
+    
+    <a href="/browse?category_number=242" title="說文"
+     id="category242_link" onclick="addParmsToTreeviewLinks( this )">
+    說文
+    </a> 
+    <span class="lightfont narrowspaceonleft">(20)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 250 -->
+    
+    <a href="/browse?category_number=250" title="說文以外"
+     id="category250_link" onclick="addParmsToTreeviewLinks( this )">
+    說文以外
+    </a> 
+    <span class="lightfont narrowspaceonleft">(51)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 256 -->
+    
+    <a href="/browse?category_number=256" title="千字文"
+     id="category256_link" onclick="addParmsToTreeviewLinks( this )">
+    千字文
+    </a> 
+    <span class="lightfont narrowspaceonleft">(6)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 12 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node13_button" id="node13_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node13', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=13" title="韻書"
+         id="node13_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        韻書 
+        </a>
+
+        <br>
+        <!-- (node 13, parent node 10) -->
+        <div id="node13">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 260 -->
+    
+    <a href="/browse?category_number=260" title="合刻"
+     id="category260_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 264 -->
+    
+    <a href="/browse?category_number=264" title="分刻"
+     id="category264_link" onclick="addParmsToTreeviewLinks( this )">
+    分刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(14)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 268 -->
+    
+    <a href="/browse?category_number=268" title="方言"
+     id="category268_link" onclick="addParmsToTreeviewLinks( this )">
+    方言
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 13 -->
+        
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 270 -->
+    
+    <a href="/browse?category_number=270" title="滿蒙藏文"
+     id="category270_link" onclick="addParmsToTreeviewLinks( this )">
+    滿蒙藏文
+    </a> 
+    <span class="lightfont narrowspaceonleft">(29)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 276 -->
+    
+    <a href="/browse?category_number=276" title="英文"
+     id="category276_link" onclick="addParmsToTreeviewLinks( this )">
+    英文
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 10 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node14_button" id="node14_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node14', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=14" title="總義類"
+         id="node14_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        總義類 
+        </a>
+
+        <br>
+        <!-- (node 14, parent node 1) -->
+        <div id="node14">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 280 -->
+    
+    <a href="/browse?category_number=280" title="群經"
+     id="category280_link" onclick="addParmsToTreeviewLinks( this )">
+    群經
+    </a> 
+    <span class="lightfont narrowspaceonleft">(33)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node15_button" id="node15_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node15', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=15" title="讖緯"
+         id="node15_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        讖緯 
+        </a>
+
+        <br>
+        <!-- (node 15, parent node 14) -->
+        <div id="node15">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 290 -->
+    
+    <a href="/browse?category_number=290" title="合刻"
+     id="category290_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 292 -->
+    
+    <a href="/browse?category_number=292" title="分刻"
+     id="category292_link" onclick="addParmsToTreeviewLinks( this )">
+    分刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(0)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 15 -->
+        
+        </div>
+        <!-- end node 14 -->
+        
+        </div>
+        <!-- end node 1 -->
+        
+
+        
+
+
+
+        
+        
+        <span class="indent">
+        <button name="node16_button" id="node16_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node16', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=16" title="史部"
+         id="node16_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        史部 
+        </a>
+
+        <br>
+        <!-- (node 16, parent node 0) -->
+        <div id="node16">
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node17_button" id="node17_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node17', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=17" title="正史類"
+         id="node17_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        正史類 
+        </a>
+
+        <br>
+        <!-- (node 17, parent node 16) -->
+        <div id="node17">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 300 -->
+    
+    <a href="/browse?category_number=300" title="合刻"
+     id="category300_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(5)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 302 -->
+    
+    <a href="/browse?category_number=302" title="分刻"
+     id="category302_link" onclick="addParmsToTreeviewLinks( this )">
+    分刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(61)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 17 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node18_button" id="node18_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node18', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=18" title="編年類"
+         id="node18_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        編年類 
+        </a>
+
+        <br>
+        <!-- (node 18, parent node 16) -->
+        <div id="node18">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 310 -->
+    
+    <a href="/browse?category_number=310" title="合刻"
+     id="category310_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 312 -->
+    
+    <a href="/browse?category_number=312" title="通代"
+     id="category312_link" onclick="addParmsToTreeviewLinks( this )">
+    通代
+    </a> 
+    <span class="lightfont narrowspaceonleft">(23)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 316 -->
+    
+    <a href="/browse?category_number=316" title="斷代"
+     id="category316_link" onclick="addParmsToTreeviewLinks( this )">
+    斷代
+    </a> 
+    <span class="lightfont narrowspaceonleft">(8)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 319 -->
+    
+    <a href="/browse?category_number=319" title="年表"
+     id="category319_link" onclick="addParmsToTreeviewLinks( this )">
+    年表
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 18 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node19_button" id="node19_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node19', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=19" title="紀事本末類"
+         id="node19_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        紀事本末類 
+        </a>
+
+        <br>
+        <!-- (node 19, parent node 16) -->
+        <div id="node19">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 320 -->
+    
+    <a href="/browse?category_number=320" title="合刻"
+     id="category320_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(2)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 322 -->
+    
+    <a href="/browse?category_number=322" title="通代"
+     id="category322_link" onclick="addParmsToTreeviewLinks( this )">
+    通代
+    </a> 
+    <span class="lightfont narrowspaceonleft">(2)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 324 -->
+    
+    <a href="/browse?category_number=324" title="斷代"
+     id="category324_link" onclick="addParmsToTreeviewLinks( this )">
+    斷代
+    </a> 
+    <span class="lightfont narrowspaceonleft">(15)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 19 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node20_button" id="node20_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node20', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=20" title="別史類"
+         id="node20_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        別史類 
+        </a>
+
+        <br>
+        <!-- (node 20, parent node 16) -->
+        <div id="node20">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 330 -->
+    
+    <a href="/browse?category_number=330" title="通代"
+     id="category330_link" onclick="addParmsToTreeviewLinks( this )">
+    通代
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 332 -->
+    
+    <a href="/browse?category_number=332" title="斷代"
+     id="category332_link" onclick="addParmsToTreeviewLinks( this )">
+    斷代
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 20 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node21_button" id="node21_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node21', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=21" title="雜史類"
+         id="node21_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        雜史類 
+        </a>
+
+        <br>
+        <!-- (node 21, parent node 16) -->
+        <div id="node21">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 340 -->
+    
+    <a href="/browse?category_number=340" title="合刻"
+     id="category340_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 342 -->
+    
+    <a href="/browse?category_number=342" title="事實"
+     id="category342_link" onclick="addParmsToTreeviewLinks( this )">
+    事實
+    </a> 
+    <span class="lightfont narrowspaceonleft">(42)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 344 -->
+    
+    <a href="/browse?category_number=344" title="瑣記"
+     id="category344_link" onclick="addParmsToTreeviewLinks( this )">
+    瑣記
+    </a> 
+    <span class="lightfont narrowspaceonleft">(13)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 21 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node22_button" id="node22_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node22', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=22" title="詔令奏議類"
+         id="node22_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        詔令奏議類 
+        </a>
+
+        <br>
+        <!-- (node 22, parent node 16) -->
+        <div id="node22">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 350 -->
+    
+    <a href="/browse?category_number=350" title="詔令"
+     id="category350_link" onclick="addParmsToTreeviewLinks( this )">
+    詔令
+    </a> 
+    <span class="lightfont narrowspaceonleft">(19)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node23_button" id="node23_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node23', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=23" title="奏議"
+         id="node23_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        奏議 
+        </a>
+
+        <br>
+        <!-- (node 23, parent node 22) -->
+        <div id="node23">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 354 -->
+    
+    <a href="/browse?category_number=354" title="通代"
+     id="category354_link" onclick="addParmsToTreeviewLinks( this )">
+    通代
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 356 -->
+    
+    <a href="/browse?category_number=356" title="斷代"
+     id="category356_link" onclick="addParmsToTreeviewLinks( this )">
+    斷代
+    </a> 
+    <span class="lightfont narrowspaceonleft">(6)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 23 -->
+        
+        </div>
+        <!-- end node 22 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node24_button" id="node24_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node24', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=24" title="傳記類"
+         id="node24_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        傳記類 
+        </a>
+
+        <br>
+        <!-- (node 24, parent node 16) -->
+        <div id="node24">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 360 -->
+    
+    <a href="/browse?category_number=360" title="總錄"
+     id="category360_link" onclick="addParmsToTreeviewLinks( this )">
+    總錄
+    </a> 
+    <span class="lightfont narrowspaceonleft">(32)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 362 -->
+    
+    <a href="/browse?category_number=362" title="聖賢"
+     id="category362_link" onclick="addParmsToTreeviewLinks( this )">
+    聖賢
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 364 -->
+    
+    <a href="/browse?category_number=364" title="名人"
+     id="category364_link" onclick="addParmsToTreeviewLinks( this )">
+    名人
+    </a> 
+    <span class="lightfont narrowspaceonleft">(14)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 368 -->
+    
+    <a href="/browse?category_number=368" title="雜錄"
+     id="category368_link" onclick="addParmsToTreeviewLinks( this )">
+    雜錄
+    </a> 
+    <span class="lightfont narrowspaceonleft">(10)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 24 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 370 -->
+    
+    <a href="/browse?category_number=370" title="史鈔類"
+     id="category370_link" onclick="addParmsToTreeviewLinks( this )">
+    史鈔類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 380 -->
+    
+    <a href="/browse?category_number=380" title="戴記類"
+     id="category380_link" onclick="addParmsToTreeviewLinks( this )">
+    戴記類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 390 -->
+    
+    <a href="/browse?category_number=390" title="時令類"
+     id="category390_link" onclick="addParmsToTreeviewLinks( this )">
+    時令類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node25_button" id="node25_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node25', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=25" title="地理類"
+         id="node25_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        地理類 
+        </a>
+
+        <br>
+        <!-- (node 25, parent node 16) -->
+        <div id="node25">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 400 -->
+    
+    <a href="/browse?category_number=400" title="總志"
+     id="category400_link" onclick="addParmsToTreeviewLinks( this )">
+    總志
+    </a> 
+    <span class="lightfont narrowspaceonleft">(15)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 402 -->
+    
+    <a href="/browse?category_number=402" title="方志"
+     id="category402_link" onclick="addParmsToTreeviewLinks( this )">
+    方志
+    </a> 
+    <span class="lightfont narrowspaceonleft">(18)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 406 -->
+    
+    <a href="/browse?category_number=406" title="雜記"
+     id="category406_link" onclick="addParmsToTreeviewLinks( this )">
+    雜記
+    </a> 
+    <span class="lightfont narrowspaceonleft">(35)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 410 -->
+    
+    <a href="/browse?category_number=410" title="專志"
+     id="category410_link" onclick="addParmsToTreeviewLinks( this )">
+    專志
+    </a> 
+    <span class="lightfont narrowspaceonleft">(5)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 412 -->
+    
+    <a href="/browse?category_number=412" title="外記"
+     id="category412_link" onclick="addParmsToTreeviewLinks( this )">
+    外記
+    </a> 
+    <span class="lightfont narrowspaceonleft">(37)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 414 -->
+    
+    <a href="/browse?category_number=414" title="地圖"
+     id="category414_link" onclick="addParmsToTreeviewLinks( this )">
+    地圖
+    </a> 
+    <span class="lightfont narrowspaceonleft">(17)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 25 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node26_button" id="node26_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node26', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=26" title="職官類"
+         id="node26_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        職官類 
+        </a>
+
+        <br>
+        <!-- (node 26, parent node 16) -->
+        <div id="node26">
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node27_button" id="node27_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node27', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=27" title="官制"
+         id="node27_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        官制 
+        </a>
+
+        <br>
+        <!-- (node 27, parent node 26) -->
+        <div id="node27">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 420 -->
+    
+    <a href="/browse?category_number=420" title="官制"
+     id="category420_link" onclick="addParmsToTreeviewLinks( this )">
+    官制
+    </a> 
+    <span class="lightfont narrowspaceonleft">(3)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 423 -->
+    
+    <a href="/browse?category_number=423" title="搢紳"
+     id="category423_link" onclick="addParmsToTreeviewLinks( this )">
+    搢紳
+    </a> 
+    <span class="lightfont narrowspaceonleft">(3)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 27 -->
+        
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 424 -->
+    
+    <a href="/browse?category_number=424" title="官箴"
+     id="category424_link" onclick="addParmsToTreeviewLinks( this )">
+    官箴
+    </a> 
+    <span class="lightfont narrowspaceonleft">(5)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 26 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node28_button" id="node28_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node28', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=28" title="政書類"
+         id="node28_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        政書類 
+        </a>
+
+        <br>
+        <!-- (node 28, parent node 16) -->
+        <div id="node28">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 430 -->
+    
+    <a href="/browse?category_number=430" title="通制"
+     id="category430_link" onclick="addParmsToTreeviewLinks( this )">
+    通制
+    </a> 
+    <span class="lightfont narrowspaceonleft">(22)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 434 -->
+    
+    <a href="/browse?category_number=434" title="典禮"
+     id="category434_link" onclick="addParmsToTreeviewLinks( this )">
+    典禮
+    </a> 
+    <span class="lightfont narrowspaceonleft">(15)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 438 -->
+    
+    <a href="/browse?category_number=438" title="邦計"
+     id="category438_link" onclick="addParmsToTreeviewLinks( this )">
+    邦計
+    </a> 
+    <span class="lightfont narrowspaceonleft">(20)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 442 -->
+    
+    <a href="/browse?category_number=442" title="軍政"
+     id="category442_link" onclick="addParmsToTreeviewLinks( this )">
+    軍政
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 444 -->
+    
+    <a href="/browse?category_number=444" title="法令"
+     id="category444_link" onclick="addParmsToTreeviewLinks( this )">
+    法令
+    </a> 
+    <span class="lightfont narrowspaceonleft">(21)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 446 -->
+    
+    <a href="/browse?category_number=446" title="考工"
+     id="category446_link" onclick="addParmsToTreeviewLinks( this )">
+    考工
+    </a> 
+    <span class="lightfont narrowspaceonleft">(2)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 448 -->
+    
+    <a href="/browse?category_number=448" title="掌故瑣記"
+     id="category448_link" onclick="addParmsToTreeviewLinks( this )">
+    掌故瑣記
+    </a> 
+    <span class="lightfont narrowspaceonleft">(17)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 449 -->
+    
+    <a href="/browse?category_number=449" title="太平天國印書"
+     id="category449_link" onclick="addParmsToTreeviewLinks( this )">
+    太平天國印書
+    </a> 
+    <span class="lightfont narrowspaceonleft">(28)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 28 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node29_button" id="node29_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node29', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=29" title="目錄類"
+         id="node29_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        目錄類 
+        </a>
+
+        <br>
+        <!-- (node 29, parent node 16) -->
+        <div id="node29">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 450 -->
+    
+    <a href="/browse?category_number=450" title="合刻"
+     id="category450_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(8)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 452 -->
+    
+    <a href="/browse?category_number=452" title="分刻"
+     id="category452_link" onclick="addParmsToTreeviewLinks( this )">
+    分刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(54)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 457 -->
+    
+    <a href="/browse?category_number=457" title="書影"
+     id="category457_link" onclick="addParmsToTreeviewLinks( this )">
+    書影
+    </a> 
+    <span class="lightfont narrowspaceonleft">(10)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 458 -->
+    
+    <a href="/browse?category_number=458" title="雜錄"
+     id="category458_link" onclick="addParmsToTreeviewLinks( this )">
+    雜錄
+    </a> 
+    <span class="lightfont narrowspaceonleft">(12)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 29 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node30_button" id="node30_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node30', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=30" title="金石類"
+         id="node30_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        金石類 
+        </a>
+
+        <br>
+        <!-- (node 30, parent node 16) -->
+        <div id="node30">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 460 -->
+    
+    <a href="/browse?category_number=460" title="合刻"
+     id="category460_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(8)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 462 -->
+    
+    <a href="/browse?category_number=462" title="分刻"
+     id="category462_link" onclick="addParmsToTreeviewLinks( this )">
+    分刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(119)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 466 -->
+    
+    <a href="/browse?category_number=466" title="甲骨"
+     id="category466_link" onclick="addParmsToTreeviewLinks( this )">
+    甲骨
+    </a> 
+    <span class="lightfont narrowspaceonleft">(3)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 468 -->
+    
+    <a href="/browse?category_number=468" title="拓本"
+     id="category468_link" onclick="addParmsToTreeviewLinks( this )">
+    拓本
+    </a> 
+    <span class="lightfont narrowspaceonleft">(61)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 469 -->
+    
+    <a href="/browse?category_number=469" title="目錄"
+     id="category469_link" onclick="addParmsToTreeviewLinks( this )">
+    目錄
+    </a> 
+    <span class="lightfont narrowspaceonleft">(3)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 30 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 470 -->
+    
+    <a href="/browse?category_number=470" title="史評類"
+     id="category470_link" onclick="addParmsToTreeviewLinks( this )">
+    史評類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(6)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 16 -->
+        
+
+        
+
+
+
+        
+        
+        <span class="indent">
+        <button name="node31_button" id="node31_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node31', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=31" title="子部"
+         id="node31_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        子部 
+        </a>
+
+        <br>
+        <!-- (node 31, parent node 0) -->
+        <div id="node31">
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 500 -->
+    
+    <a href="/browse?category_number=500" title="彙編類"
+     id="category500_link" onclick="addParmsToTreeviewLinks( this )">
+    彙編類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(5)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node32_button" id="node32_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node32', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=32" title="儒家類"
+         id="node32_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        儒家類 
+        </a>
+
+        <br>
+        <!-- (node 32, parent node 31) -->
+        <div id="node32">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 510 -->
+    
+    <a href="/browse?category_number=510" title="合刻"
+     id="category510_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(11)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 512 -->
+    
+    <a href="/browse?category_number=512" title="分刻"
+     id="category512_link" onclick="addParmsToTreeviewLinks( this )">
+    分刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(107)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 32 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node33_button" id="node33_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node33', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=33" title="兵家類"
+         id="node33_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        兵家類 
+        </a>
+
+        <br>
+        <!-- (node 33, parent node 31) -->
+        <div id="node33">
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node34_button" id="node34_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node34', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=34" title="兵法"
+         id="node34_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        兵法 
+        </a>
+
+        <br>
+        <!-- (node 34, parent node 33) -->
+        <div id="node34">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 520 -->
+    
+    <a href="/browse?category_number=520" title="合刻"
+     id="category520_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 522 -->
+    
+    <a href="/browse?category_number=522" title="分刻"
+     id="category522_link" onclick="addParmsToTreeviewLinks( this )">
+    分刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(12)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 34 -->
+        
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 526 -->
+    
+    <a href="/browse?category_number=526" title="武術"
+     id="category526_link" onclick="addParmsToTreeviewLinks( this )">
+    武術
+    </a> 
+    <span class="lightfont narrowspaceonleft">(0)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 33 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 530 -->
+    
+    <a href="/browse?category_number=530" title="法家類"
+     id="category530_link" onclick="addParmsToTreeviewLinks( this )">
+    法家類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 540 -->
+    
+    <a href="/browse?category_number=540" title="農家類"
+     id="category540_link" onclick="addParmsToTreeviewLinks( this )">
+    農家類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(6)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node35_button" id="node35_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node35', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=35" title="醫家類"
+         id="node35_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        醫家類 
+        </a>
+
+        <br>
+        <!-- (node 35, parent node 31) -->
+        <div id="node35">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 550 -->
+    
+    <a href="/browse?category_number=550" title="醫家"
+     id="category550_link" onclick="addParmsToTreeviewLinks( this )">
+    醫家
+    </a> 
+    <span class="lightfont narrowspaceonleft">(24)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 556 -->
+    
+    <a href="/browse?category_number=556" title="明堂圖"
+     id="category556_link" onclick="addParmsToTreeviewLinks( this )">
+    明堂圖
+    </a> 
+    <span class="lightfont narrowspaceonleft">(3)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 35 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node36_button" id="node36_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node36', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=36" title="天文算法類"
+         id="node36_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        天文算法類 
+        </a>
+
+        <br>
+        <!-- (node 36, parent node 31) -->
+        <div id="node36">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 558 -->
+    
+    <a href="/browse?category_number=558" title="合刻"
+     id="category558_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(2)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node37_button" id="node37_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node37', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=37" title="推步"
+         id="node37_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        推步 
+        </a>
+
+        <br>
+        <!-- (node 37, parent node 36) -->
+        <div id="node37">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 560 -->
+    
+    <a href="/browse?category_number=560" title="推步"
+     id="category560_link" onclick="addParmsToTreeviewLinks( this )">
+    推步
+    </a> 
+    <span class="lightfont narrowspaceonleft">(28)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 563 -->
+    
+    <a href="/browse?category_number=563" title="時憲書"
+     id="category563_link" onclick="addParmsToTreeviewLinks( this )">
+    時憲書
+    </a> 
+    <span class="lightfont narrowspaceonleft">(9)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 564 -->
+    
+    <a href="/browse?category_number=564" title="曆書"
+     id="category564_link" onclick="addParmsToTreeviewLinks( this )">
+    曆書
+    </a> 
+    <span class="lightfont narrowspaceonleft">(10)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 37 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node38_button" id="node38_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node38', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=38" title="算書"
+         id="node38_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        算書 
+        </a>
+
+        <br>
+        <!-- (node 38, parent node 36) -->
+        <div id="node38">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 567 -->
+    
+    <a href="/browse?category_number=567" title="合刻"
+     id="category567_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(11)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 568 -->
+    
+    <a href="/browse?category_number=568" title="分刻"
+     id="category568_link" onclick="addParmsToTreeviewLinks( this )">
+    分刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(46)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 38 -->
+        
+        </div>
+        <!-- end node 36 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 570 -->
+    
+    <a href="/browse?category_number=570" title="術數類"
+     id="category570_link" onclick="addParmsToTreeviewLinks( this )">
+    術數類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(18)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node39_button" id="node39_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node39', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=39" title="藝術類"
+         id="node39_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        藝術類 
+        </a>
+
+        <br>
+        <!-- (node 39, parent node 31) -->
+        <div id="node39">
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node40_button" id="node40_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node40', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=40" title="書畫"
+         id="node40_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        書畫 
+        </a>
+
+        <br>
+        <!-- (node 40, parent node 39) -->
+        <div id="node40">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 580 -->
+    
+    <a href="/browse?category_number=580" title="總錄"
+     id="category580_link" onclick="addParmsToTreeviewLinks( this )">
+    總錄
+    </a> 
+    <span class="lightfont narrowspaceonleft">(32)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 582 -->
+    
+    <a href="/browse?category_number=582" title="畫譜"
+     id="category582_link" onclick="addParmsToTreeviewLinks( this )">
+    畫譜
+    </a> 
+    <span class="lightfont narrowspaceonleft">(8)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 584 -->
+    
+    <a href="/browse?category_number=584" title="法帖"
+     id="category584_link" onclick="addParmsToTreeviewLinks( this )">
+    法帖
+    </a> 
+    <span class="lightfont narrowspaceonleft">(15)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 40 -->
+        
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 588 -->
+    
+    <a href="/browse?category_number=588" title="琴譜"
+     id="category588_link" onclick="addParmsToTreeviewLinks( this )">
+    琴譜
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 590 -->
+    
+    <a href="/browse?category_number=590" title="篆刻"
+     id="category590_link" onclick="addParmsToTreeviewLinks( this )">
+    篆刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(2)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 602 -->
+    
+    <a href="/browse?category_number=602" title="雜技"
+     id="category602_link" onclick="addParmsToTreeviewLinks( this )">
+    雜技
+    </a> 
+    <span class="lightfont narrowspaceonleft">(11)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 606 -->
+    
+    <a href="/browse?category_number=606" title="西學格致"
+     id="category606_link" onclick="addParmsToTreeviewLinks( this )">
+    西學格致
+    </a> 
+    <span class="lightfont narrowspaceonleft">(3)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 39 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node41_button" id="node41_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node41', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=41" title="譜錄類"
+         id="node41_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        譜錄類 
+        </a>
+
+        <br>
+        <!-- (node 41, parent node 31) -->
+        <div id="node41">
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node42_button" id="node42_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node42', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=42" title="器物"
+         id="node42_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        器物 
+        </a>
+
+        <br>
+        <!-- (node 42, parent node 41) -->
+        <div id="node42">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 610 -->
+    
+    <a href="/browse?category_number=610" title="合刻"
+     id="category610_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 611 -->
+    
+    <a href="/browse?category_number=611" title="分刻"
+     id="category611_link" onclick="addParmsToTreeviewLinks( this )">
+    分刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(9)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 42 -->
+        
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 612 -->
+    
+    <a href="/browse?category_number=612" title="飲饌"
+     id="category612_link" onclick="addParmsToTreeviewLinks( this )">
+    飲饌
+    </a> 
+    <span class="lightfont narrowspaceonleft">(2)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 614 -->
+    
+    <a href="/browse?category_number=614" title="草木禽魚"
+     id="category614_link" onclick="addParmsToTreeviewLinks( this )">
+    草木禽魚
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 41 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node43_button" id="node43_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node43', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=43" title="雜家類"
+         id="node43_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        雜家類 
+        </a>
+
+        <br>
+        <!-- (node 43, parent node 31) -->
+        <div id="node43">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 620 -->
+    
+    <a href="/browse?category_number=620" title="雜學"
+     id="category620_link" onclick="addParmsToTreeviewLinks( this )">
+    雜學
+    </a> 
+    <span class="lightfont narrowspaceonleft">(18)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 622 -->
+    
+    <a href="/browse?category_number=622" title="雜考"
+     id="category622_link" onclick="addParmsToTreeviewLinks( this )">
+    雜考
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 624 -->
+    
+    <a href="/browse?category_number=624" title="雜說"
+     id="category624_link" onclick="addParmsToTreeviewLinks( this )">
+    雜說
+    </a> 
+    <span class="lightfont narrowspaceonleft">(27)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 626 -->
+    
+    <a href="/browse?category_number=626" title="雜纂"
+     id="category626_link" onclick="addParmsToTreeviewLinks( this )">
+    雜纂
+    </a> 
+    <span class="lightfont narrowspaceonleft">(8)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 628 -->
+    
+    <a href="/browse?category_number=628" title="雜品"
+     id="category628_link" onclick="addParmsToTreeviewLinks( this )">
+    雜品
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 43 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 630 -->
+    
+    <a href="/browse?category_number=630" title="類書類"
+     id="category630_link" onclick="addParmsToTreeviewLinks( this )">
+    類書類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(93)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node44_button" id="node44_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node44', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=44" title="小說家類"
+         id="node44_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        小說家類 
+        </a>
+
+        <br>
+        <!-- (node 44, parent node 31) -->
+        <div id="node44">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 640 -->
+    
+    <a href="/browse?category_number=640" title="合刻"
+     id="category640_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(11)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 642 -->
+    
+    <a href="/browse?category_number=642" title="雜事"
+     id="category642_link" onclick="addParmsToTreeviewLinks( this )">
+    雜事
+    </a> 
+    <span class="lightfont narrowspaceonleft">(14)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 644 -->
+    
+    <a href="/browse?category_number=644" title="異聞"
+     id="category644_link" onclick="addParmsToTreeviewLinks( this )">
+    異聞
+    </a> 
+    <span class="lightfont narrowspaceonleft">(34)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 646 -->
+    
+    <a href="/browse?category_number=646" title="瑣記"
+     id="category646_link" onclick="addParmsToTreeviewLinks( this )">
+    瑣記
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 44 -->
+        
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node45_button" id="node45_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node45', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=45" title="釋家類"
+         id="node45_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        釋家類 
+        </a>
+
+        <br>
+        <!-- (node 45, parent node 31) -->
+        <div id="node45">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 650 -->
+    
+    <a href="/browse?category_number=650" title="合刻"
+     id="category650_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 652 -->
+    
+    <a href="/browse?category_number=652" title="經律論疏"
+     id="category652_link" onclick="addParmsToTreeviewLinks( this )">
+    經律論疏
+    </a> 
+    <span class="lightfont narrowspaceonleft">(51)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 660 -->
+    
+    <a href="/browse?category_number=660" title="雜著"
+     id="category660_link" onclick="addParmsToTreeviewLinks( this )">
+    雜著
+    </a> 
+    <span class="lightfont narrowspaceonleft">(48)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 45 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 670 -->
+    
+    <a href="/browse?category_number=670" title="道家類"
+     id="category670_link" onclick="addParmsToTreeviewLinks( this )">
+    道家類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(57)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 680 -->
+    
+    <a href="/browse?category_number=680" title="回教類"
+     id="category680_link" onclick="addParmsToTreeviewLinks( this )">
+    回教類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 690 -->
+    
+    <a href="/browse?category_number=690" title="天主教類"
+     id="category690_link" onclick="addParmsToTreeviewLinks( this )">
+    天主教類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(36)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 31 -->
+        
+
+        
+
+
+
+        
+        
+        <span class="indent">
+        <button name="node46_button" id="node46_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node46', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=46" title="集部"
+         id="node46_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        集部 
+        </a>
+
+        <br>
+        <!-- (node 46, parent node 0) -->
+        <div id="node46">
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 700 -->
+    
+    <a href="/browse?category_number=700" title="楚辭類"
+     id="category700_link" onclick="addParmsToTreeviewLinks( this )">
+    楚辭類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(9)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 710 -->
+    
+    <a href="/browse?category_number=710" title="別集類"
+     id="category710_link" onclick="addParmsToTreeviewLinks( this )">
+    別集類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(88)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node47_button" id="node47_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node47', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=47" title="總集類"
+         id="node47_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        總集類 
+        </a>
+
+        <br>
+        <!-- (node 47, parent node 46) -->
+        <div id="node47">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 720 -->
+    
+    <a href="/browse?category_number=720" title="通代"
+     id="category720_link" onclick="addParmsToTreeviewLinks( this )">
+    通代
+    </a> 
+    <span class="lightfont narrowspaceonleft">(64)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 730 -->
+    
+    <a href="/browse?category_number=730" title="斷代"
+     id="category730_link" onclick="addParmsToTreeviewLinks( this )">
+    斷代
+    </a> 
+    <span class="lightfont narrowspaceonleft">(46)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node48_button" id="node48_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node48', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=48" title="尺牘"
+         id="node48_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        尺牘 
+        </a>
+
+        <br>
+        <!-- (node 48, parent node 47) -->
+        <div id="node48">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 740 -->
+    
+    <a href="/browse?category_number=740" title="尺牘"
+     id="category740_link" onclick="addParmsToTreeviewLinks( this )">
+    尺牘
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 746 -->
+    
+    <a href="/browse?category_number=746" title="文例"
+     id="category746_link" onclick="addParmsToTreeviewLinks( this )">
+    文例
+    </a> 
+    <span class="lightfont narrowspaceonleft">(3)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 48 -->
+        
+        </div>
+        <!-- end node 47 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 750 -->
+    
+    <a href="/browse?category_number=750" title="詩文評類"
+     id="category750_link" onclick="addParmsToTreeviewLinks( this )">
+    詩文評類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(10)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node49_button" id="node49_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node49', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=49" title="詞曲類"
+         id="node49_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        詞曲類 
+        </a>
+
+        <br>
+        <!-- (node 49, parent node 46) -->
+        <div id="node49">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 758 -->
+    
+    <a href="/browse?category_number=758" title="詞選"
+     id="category758_link" onclick="addParmsToTreeviewLinks( this )">
+    詞選
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 760 -->
+    
+    <a href="/browse?category_number=760" title="詞集"
+     id="category760_link" onclick="addParmsToTreeviewLinks( this )">
+    詞集
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 761 -->
+    
+    <a href="/browse?category_number=761" title="詞話"
+     id="category761_link" onclick="addParmsToTreeviewLinks( this )">
+    詞話
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node50_button" id="node50_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node50', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=50" title="南北曲"
+         id="node50_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        南北曲 
+        </a>
+
+        <br>
+        <!-- (node 50, parent node 49) -->
+        <div id="node50">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 764 -->
+    
+    <a href="/browse?category_number=764" title="合刻"
+     id="category764_link" onclick="addParmsToTreeviewLinks( this )">
+    合刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(13)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 765 -->
+    
+    <a href="/browse?category_number=765" title="分刻"
+     id="category765_link" onclick="addParmsToTreeviewLinks( this )">
+    分刻
+    </a> 
+    <span class="lightfont narrowspaceonleft">(26)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 50 -->
+        
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 766 -->
+    
+    <a href="/browse?category_number=766" title="曲譜"
+     id="category766_link" onclick="addParmsToTreeviewLinks( this )">
+    曲譜
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 767 -->
+    
+    <a href="/browse?category_number=767" title="散曲"
+     id="category767_link" onclick="addParmsToTreeviewLinks( this )">
+    散曲
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 768 -->
+    
+    <a href="/browse?category_number=768" title="彈詞"
+     id="category768_link" onclick="addParmsToTreeviewLinks( this )">
+    彈詞
+    </a> 
+    <span class="lightfont narrowspaceonleft">(9)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 770 -->
+    
+    <a href="/browse?category_number=770" title="民謠"
+     id="category770_link" onclick="addParmsToTreeviewLinks( this )">
+    民謠
+    </a> 
+    <span class="lightfont narrowspaceonleft">(27)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 774 -->
+    
+    <a href="/browse?category_number=774" title="閩南歌曲"
+     id="category774_link" onclick="addParmsToTreeviewLinks( this )">
+    閩南歌曲
+    </a> 
+    <span class="lightfont narrowspaceonleft">(115)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 776 -->
+    
+    <a href="/browse?category_number=776" title="漢口宣講"
+     id="category776_link" onclick="addParmsToTreeviewLinks( this )">
+    漢口宣講
+    </a> 
+    <span class="lightfont narrowspaceonleft">(14)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 777 -->
+    
+    <a href="/browse?category_number=777" title="粵劇劇本"
+     id="category777_link" onclick="addParmsToTreeviewLinks( this )">
+    粵劇劇本
+    </a> 
+    <span class="lightfont narrowspaceonleft">(460)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 778 -->
+    
+    <a href="/browse?category_number=778" title="廣州木魚書"
+     id="category778_link" onclick="addParmsToTreeviewLinks( this )">
+    廣州木魚書
+    </a> 
+    <span class="lightfont narrowspaceonleft">(466)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 49 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 780 -->
+    
+    <a href="/browse?category_number=780" title="通俗小說類"
+     id="category780_link" onclick="addParmsToTreeviewLinks( this )">
+    通俗小說類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(93)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 788 -->
+    
+    <a href="/browse?category_number=788" title="寶卷"
+     id="category788_link" onclick="addParmsToTreeviewLinks( this )">
+    寶卷
+    </a> 
+    <span class="lightfont narrowspaceonleft">(29)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 46 -->
+        
+
+        
+
+
+
+        
+        
+        <span class="indent">
+        <button name="node51_button" id="node51_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node51', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=51" title="叢書"
+         id="node51_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        叢書 
+        </a>
+
+        <br>
+        <!-- (node 51, parent node 0) -->
+        <div id="node51">
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 800 -->
+    
+    <a href="/browse?category_number=800" title="雜叢類"
+     id="category800_link" onclick="addParmsToTreeviewLinks( this )">
+    雜叢類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(54)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 820 -->
+    
+    <a href="/browse?category_number=820" title="輯佚類"
+     id="category820_link" onclick="addParmsToTreeviewLinks( this )">
+    輯佚類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(3)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 840 -->
+    
+    <a href="/browse?category_number=840" title="郡邑類"
+     id="category840_link" onclick="addParmsToTreeviewLinks( this )">
+    郡邑類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(7)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 860 -->
+    
+    <a href="/browse?category_number=860" title="氏族類"
+     id="category860_link" onclick="addParmsToTreeviewLinks( this )">
+    氏族類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(5)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 880 -->
+    
+    <a href="/browse?category_number=880" title="獨撰類"
+     id="category880_link" onclick="addParmsToTreeviewLinks( this )">
+    獨撰類
+    </a> 
+    <span class="lightfont narrowspaceonleft">(41)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 51 -->
+        
+
+        
+
+
+
+        
+        
+        <span class="indent">
+        <button name="node52_button" id="node52_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node52', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=52" title="西人著書"
+         id="node52_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        西人著書 
+        </a>
+
+        <br>
+        <!-- (node 52, parent node 0) -->
+        <div id="node52">
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 900 -->
+    
+    <a href="/browse?category_number=900" title="天主教"
+     id="category900_link" onclick="addParmsToTreeviewLinks( this )">
+    天主教
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+        
+
+
+            <span class="indent"></span>
+
+        
+        
+        <span class="indent">
+        <button name="node53_button" id="node53_button" 
+        class="button supertiny nodebutton"
+        onclick="toggleNodeDisplay( 'node53', this )"> 
+        -
+        </button>
+        </span><!-- end indent -->
+
+        
+        <a href="/browse?node_number=53" title="耶穌教"
+         id="node53_link" onclick="addParmsToTreeviewLinks( this )" style="line-height:2em;">
+        耶穌教 
+        </a>
+
+        <br>
+        <!-- (node 53, parent node 52) -->
+        <div id="node53">
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 920 -->
+    
+    <a href="/browse?category_number=920" title="聖書"
+     id="category920_link" onclick="addParmsToTreeviewLinks( this )">
+    聖書
+    </a> 
+    <span class="lightfont narrowspaceonleft">(149)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 925 -->
+    
+    <a href="/browse?category_number=925" title="言行錄"
+     id="category925_link" onclick="addParmsToTreeviewLinks( this )">
+    言行錄
+    </a> 
+    <span class="lightfont narrowspaceonleft">(14)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 928 -->
+    
+    <a href="/browse?category_number=928" title="論説"
+     id="category928_link" onclick="addParmsToTreeviewLinks( this )">
+    論説
+    </a> 
+    <span class="lightfont narrowspaceonleft">(588)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 929 -->
+    
+    <a href="/browse?category_number=929" title="傳單"
+     id="category929_link" onclick="addParmsToTreeviewLinks( this )">
+    傳單
+    </a> 
+    <span class="lightfont narrowspaceonleft">(85)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 932 -->
+    
+    <a href="/browse?category_number=932" title="聖教問答"
+     id="category932_link" onclick="addParmsToTreeviewLinks( this )">
+    聖教問答
+    </a> 
+    <span class="lightfont narrowspaceonleft">(108)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 934 -->
+    
+    <a href="/browse?category_number=934" title="祈禱書"
+     id="category934_link" onclick="addParmsToTreeviewLinks( this )">
+    祈禱書
+    </a> 
+    <span class="lightfont narrowspaceonleft">(29)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 936 -->
+    
+    <a href="/browse?category_number=936" title="聖歌"
+     id="category936_link" onclick="addParmsToTreeviewLinks( this )">
+    聖歌
+    </a> 
+    <span class="lightfont narrowspaceonleft">(61)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 938 -->
+    
+    <a href="/browse?category_number=938" title="教會規約"
+     id="category938_link" onclick="addParmsToTreeviewLinks( this )">
+    教會規約
+    </a> 
+    <span class="lightfont narrowspaceonleft">(17)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 940 -->
+    
+    <a href="/browse?category_number=940" title="聖教史"
+     id="category940_link" onclick="addParmsToTreeviewLinks( this )">
+    聖教史
+    </a> 
+    <span class="lightfont narrowspaceonleft">(18)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 942 -->
+    
+    <a href="/browse?category_number=942" title="教科書"
+     id="category942_link" onclick="addParmsToTreeviewLinks( this )">
+    教科書
+    </a> 
+    <span class="lightfont narrowspaceonleft">(12)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 948 -->
+    
+    <a href="/browse?category_number=948" title="雜錄"
+     id="category948_link" onclick="addParmsToTreeviewLinks( this )">
+    雜錄
+    </a> 
+    <span class="lightfont narrowspaceonleft">(2)</span>
+    <br>
+    
+
+        </div>
+        <!-- end node 53 -->
+        
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 950 -->
+    
+    <a href="/browse?category_number=950" title="歷史"
+     id="category950_link" onclick="addParmsToTreeviewLinks( this )">
+    歷史
+    </a> 
+    <span class="lightfont narrowspaceonleft">(9)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 952 -->
+    
+    <a href="/browse?category_number=952" title="地理"
+     id="category952_link" onclick="addParmsToTreeviewLinks( this )">
+    地理
+    </a> 
+    <span class="lightfont narrowspaceonleft">(27)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 954 -->
+    
+    <a href="/browse?category_number=954" title="政治"
+     id="category954_link" onclick="addParmsToTreeviewLinks( this )">
+    政治
+    </a> 
+    <span class="lightfont narrowspaceonleft">(12)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 956 -->
+    
+    <a href="/browse?category_number=956" title="語法"
+     id="category956_link" onclick="addParmsToTreeviewLinks( this )">
+    語法
+    </a> 
+    <span class="lightfont narrowspaceonleft">(18)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 958 -->
+    
+    <a href="/browse?category_number=958" title="格致"
+     id="category958_link" onclick="addParmsToTreeviewLinks( this )">
+    格致
+    </a> 
+    <span class="lightfont narrowspaceonleft">(22)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 960 -->
+    
+    <a href="/browse?category_number=960" title="算學"
+     id="category960_link" onclick="addParmsToTreeviewLinks( this )">
+    算學
+    </a> 
+    <span class="lightfont narrowspaceonleft">(24)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 962 -->
+    
+    <a href="/browse?category_number=962" title="天文"
+     id="category962_link" onclick="addParmsToTreeviewLinks( this )">
+    天文
+    </a> 
+    <span class="lightfont narrowspaceonleft">(11)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 964 -->
+    
+    <a href="/browse?category_number=964" title="工程"
+     id="category964_link" onclick="addParmsToTreeviewLinks( this )">
+    工程
+    </a> 
+    <span class="lightfont narrowspaceonleft">(11)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 966 -->
+    
+    <a href="/browse?category_number=966" title="兵工"
+     id="category966_link" onclick="addParmsToTreeviewLinks( this )">
+    兵工
+    </a> 
+    <span class="lightfont narrowspaceonleft">(20)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 968 -->
+    
+    <a href="/browse?category_number=968" title="地質"
+     id="category968_link" onclick="addParmsToTreeviewLinks( this )">
+    地質
+    </a> 
+    <span class="lightfont narrowspaceonleft">(5)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 970 -->
+    
+    <a href="/browse?category_number=970" title="植物"
+     id="category970_link" onclick="addParmsToTreeviewLinks( this )">
+    植物
+    </a> 
+    <span class="lightfont narrowspaceonleft">(1)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 972 -->
+    
+    <a href="/browse?category_number=972" title="音樂"
+     id="category972_link" onclick="addParmsToTreeviewLinks( this )">
+    音樂
+    </a> 
+    <span class="lightfont narrowspaceonleft">(3)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 974 -->
+    
+    <a href="/browse?category_number=974" title="化學"
+     id="category974_link" onclick="addParmsToTreeviewLinks( this )">
+    化學
+    </a> 
+    <span class="lightfont narrowspaceonleft">(11)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 976 -->
+    
+    <a href="/browse?category_number=976" title="醫學"
+     id="category976_link" onclick="addParmsToTreeviewLinks( this )">
+    醫學
+    </a> 
+    <span class="lightfont narrowspaceonleft">(27)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 978 -->
+    
+    <a href="/browse?category_number=978" title="通書"
+     id="category978_link" onclick="addParmsToTreeviewLinks( this )">
+    通書
+    </a> 
+    <span class="lightfont narrowspaceonleft">(4)</span>
+    <br>
+    
+
+
+
+        <span class="indent"></span>
+
+    <span class="indent">
+    </span><!-- end indent -->
+
+
+
+    <!-- category 980 -->
+    
+    <a href="/browse?category_number=980" title="雜誌"
+     id="category980_link" onclick="addParmsToTreeviewLinks( this )">
+    雜誌
+    </a> 
+    <span class="lightfont narrowspaceonleft">(23)</span>
+    <br>
+
+  
+    
+    </div>
+    <!-- end node 53 -->
+
+  <div id="treenav_buttons_bottom">
+  <br>
+  <hr>
+
+  
+  <button name="expand_all_button_bottom" id="expand_all_button_bottom" 
+  class="button small normal_font"
+  onclick="expandAllTreeNodes()"> 
+  
+顯示 | expand
+  </button>
+
+  <button name="collapse_all_button_bottom" id="collapse_all_button_bottom" 
+  class="button small normal_font"
+  onclick="collapseAllTreeNodes()"> 
+  
+隱藏 | collapse
+  </button>
+  
+
+  </div>
+
+
+  <script>
+  collapseAllTreeNodes()
+  </script>
+
+
+    
+      <script>
+      <!-- window.location.hash = 'category142_anchor'; don't need anymore since we don't need to jump to links, just scroll - MMK --> 
+      </script>
+      <script>
+      var theLink = document.getElementById( 'category142_link' );
+      theLink.className = theLink.className + ' selected';
+      </script>
+
+  </nav> <!-- end treenav --> 
+
+  <div id="get_digitised_materials_div">
+  <p></p>
+  
+  <form action="search_results" name="search_transcripts" id="search_transcripts" method="GET">  
+
+  <input type="hidden" name="url_of_full_text_digitisation" value="*" />
+
+  
+
+  
+  <input type="submit" value="全文 | digitised materials" 
+         name="submit-search-transcripts-button" id="submit-search-transcripts-button" 
+         tabindex="1" class="button small" />         
+
+  <input type="hidden" name="search_type" value="digitised" />
+  </form>
+
+  </div>
+        
+
+        
+    </div> <!-- four columns -->
+    <div class="eight columns">
+      <div class="row">
+        <div class="twelve columns">
+            
+
+    
+  
+
+    
+  
+
+    <h2>
+    經部 禮類 周禮
+    </h2>
+
+    
+
+    
+  
+
+  
+
+  
+  
+  <script type="text/javascript">
+  function js_go_to_row( rowNumber ) {
+
+    var foundStart = false;
+
+    rowNumber = parseInt( rowNumber );
+    if( isNaN( rowNumber )) {
+      alert( 'Invalid row number.' );
+      return;
+    }
+
+    var search = window.location.search;
+    if( search.length == 0 ) {
+      window.location.search = '?start=' + rowNumber;
+      return;
+    }
+
+    var parts = search.split( '&' );
+    var numParts = parts.length;
+
+    for( i = 0; i < numParts; i++ ) {
+      var part = parts[ i ];
+      if( i == 0 ) {
+        var firstChar = part.substring( 0, 1 );
+        if( firstChar == '?' ) {       // that's what it *should* be!
+          part = part.substring( 1 );  // trim off the leading question mark
+          parts[i] = part;
+        }
+      }
+
+      var pair = part.split( '=' );
+      if( pair.length == 2 ) { // once again, that's what it *should* be!
+        var searchName = pair[0];
+        if( searchName == 'start' ) {
+          foundStart = true;
+          parts[i] = searchName + '=' + rowNumber;
+          break;
+        }
+      }
+      else {
+        alert( 'Invalid search term(s).' );
+        return;
+      }
+    }
+
+    var newSearch = '?' + parts.join( '&' );
+
+    if( ! foundStart ) {
+      newSearch = newSearch + '&start=' + rowNumber;
+    }
+    window.location.search = newSearch;
+  }
+  </script>
+
+
+
+  
+
+
+  <div class="pagination">
+
+      
+
+
+
+<button class="button tiny" onclick="var current_search=window.location.search; window.location.href='/print_results' + current_search">
+打印 | print
+</button>
+
+
+  </div><!--class:pagination-->
+
+
+    <div class="bookresults">
+      
+  
+  
+  
+
+    
+  
+  
+  <script type="text/javascript">
+  <!--
+  function displayMarcPopupWindow( url ) {                                 
+    marcPopupWindowVar=open( url, 'marcDetailsWindow', 'width=850, height=600, menubar=no, toolbar=yes, resizable=yes, scrollbars=1' );                        
+    if ( marcPopupWindowVar.opener == null ) {
+      marcPopupWindowVar.opener = self;               
+    }
+    marcPopupWindowVar.focus();                                                       
+  }                                                                            
+  // -->
+  </script>
+  
+
+
+
+  
+    
+        
+  
+    
+        
+  
+
+
+    
+      周禮醫師補注 : 一卷 / (漢)鄭玄注 ; (唐)賈公彥疏 ; (唐)陸德明釋文 ; (民國)張驥補注
+      
+        
+  
+
+  
+  
+  <a href="" onclick="displayMarcPopupWindow( 'marc?id=20060110-16%3A46%3A43-dh' )"  title="馬克 (More details and links)">
+    <img src="/images/icon_link.png" alt="Links" class="icon_tweak"/>  
+  </a>
+
+
+      <br>
+
+
+    
+        
+  
+    
+        
+  
+
+
+    民國乙亥[1935]序成都義生堂刊本
+    
+  
+    <br>
+
+
+    
+        
+  
+
+
+    線裝1冊 ; 27公分
+    
+  
+    <br>
+
+
+    
+        
+  
+
+  
+  
+    
+  
+      
+  
+
+
+
+      Sinica 4688
+
+
+
+      <br>
+
+
+
+
+
+      <br/>
+      
+  
+  
+  
+
+    
+  
+  
+  <script type="text/javascript">
+  <!--
+  function displayMarcPopupWindow( url ) {                                 
+    marcPopupWindowVar=open( url, 'marcDetailsWindow', 'width=850, height=600, menubar=no, toolbar=yes, resizable=yes, scrollbars=1' );                        
+    if ( marcPopupWindowVar.opener == null ) {
+      marcPopupWindowVar.opener = self;               
+    }
+    marcPopupWindowVar.focus();                                                       
+  }                                                                            
+  // -->
+  </script>
+  
+
+
+
+  
+    
+        
+  
+    
+        
+  
+
+
+    
+      周禮 : 六卷 / (漢)鄭玄注 ; (唐)陸德明音義
+      
+        
+  
+
+  
+  
+  <a href="" onclick="displayMarcPopupWindow( 'marc?id=20131218-12%3A42%3A34-dh' )"  title="馬克 (More details and links)">
+    <img src="/images/icon_link.png" alt="Links" class="icon_tweak"/>  
+  </a>
+
+
+      <br>
+
+
+    
+        
+  
+    
+        
+  
+
+
+    清光緒二十年[1894]金陵書局刊本
+    
+  
+    <br>
+
+
+    
+        
+  
+
+
+    線裝6冊 ; 27公分
+    
+  
+    <br>
+
+
+    
+        
+  
+
+  
+  
+    
+  
+      
+  
+
+
+
+      Sinica 6089
+
+
+
+      <br>
+
+
+
+
+
+      <br/>
+      
+  
+  
+  
+
+    
+  
+  
+  <script type="text/javascript">
+  <!--
+  function displayMarcPopupWindow( url ) {                                 
+    marcPopupWindowVar=open( url, 'marcDetailsWindow', 'width=850, height=600, menubar=no, toolbar=yes, resizable=yes, scrollbars=1' );                        
+    if ( marcPopupWindowVar.opener == null ) {
+      marcPopupWindowVar.opener = self;               
+    }
+    marcPopupWindowVar.focus();                                                       
+  }                                                                            
+  // -->
+  </script>
+  
+
+
+
+  
+    
+        
+  
+    
+        
+  
+
+
+    
+      周禮注疏 : 四十二卷 / (漢)鄭玄注 ; (唐)陸德明音義 ; (唐)賈公彥疏
+      
+        
+  
+
+  
+  
+  <a href="" onclick="displayMarcPopupWindow( 'marc?id=20140721-13%3A58%3A26-dh' )"  title="馬克 (More details and links)">
+    <img src="/images/icon_link.png" alt="Links" class="icon_tweak"/>  
+  </a>
+
+
+      <br>
+
+
+    
+        
+  
+    
+        
+  
+
+
+    明崇禎元年[1628]古虞毛晉汲古閣刊「十三經註疏」本
+    
+  
+    <br>
+
+
+    
+        
+  
+
+
+    線裝16冊 ; 23公分
+    
+  
+    <br>
+
+
+    
+        
+  
+
+  
+  
+
+  
+  
+  <script type="text/javascript">
+  <!--
+  function displaySample_pagesPopupWindow( url ) {                                 
+    sample_pagesPopupWindowVar=open( url, 'sample_pagesDetailsWindow', 'width=800, height=600, menubar=no, toolbar=yes, resizable=yes, scrollbars=1' );                        
+    if ( sample_pagesPopupWindowVar.opener == null ) {
+      sample_pagesPopupWindowVar.opener = self;               
+    }
+    sample_pagesPopupWindowVar.focus();                                                       
+  }                                                                            
+  // -->
+  </script>
+  
+    
+    
+    
+  
+      
+  
+
+
+
+      Sinica 2657
+
+          
+          
+  
+
+  
+  
+  <a href="" onclick="displaySample_pagesPopupWindow( 'sample?id=20140721-13%3A58%3A26-dh&amp;shelfmark=Sinica%202657' )"  title="書影 (Display sample page(s))">
+    <img src="/images/icon_image.png" alt="Images" class="icon_tweak"/>  
+  </a>
+
+
+
+
+      <br>
+      
+  
+
+      
+  
+
+
+
+
+
+
+      <br/>
+      
+  
+  
+  
+
+    
+  
+  
+  <script type="text/javascript">
+  <!--
+  function displayMarcPopupWindow( url ) {                                 
+    marcPopupWindowVar=open( url, 'marcDetailsWindow', 'width=850, height=600, menubar=no, toolbar=yes, resizable=yes, scrollbars=1' );                        
+    if ( marcPopupWindowVar.opener == null ) {
+      marcPopupWindowVar.opener = self;               
+    }
+    marcPopupWindowVar.focus();                                                       
+  }                                                                            
+  // -->
+  </script>
+  
+
+
+
+  
+    
+        
+  
+    
+        
+  
+
+
+    
+      周禮注疏刪翼 : 三十卷 / (明)王志長撰
+      
+        
+  
+
+  
+  
+  <a href="" onclick="displayMarcPopupWindow( 'marc?id=19940110-19%3A42%3A46-dh' )"  title="馬克 (More details and links)">
+    <img src="/images/icon_link.png" alt="Links" class="icon_tweak"/>  
+  </a>
+
+
+      <br>
+
+
+    
+        
+  
+    
+        
+  
+
+
+    清秀水王氏芥子園重刊本
+    
+  
+    <br>
+
+
+    
+        
+  
+
+
+    線裝10冊 ; 27公分
+    
+  
+    <br>
+
+
+    
+        
+  
+
+  
+  
+    
+  
+      
+  
+
+
+
+      Sinica 591
+
+
+
+      <br>
+
+
+
+
+
+      <br/>
+      
+  
+  
+  
+
+    
+  
+  
+  <script type="text/javascript">
+  <!--
+  function displayMarcPopupWindow( url ) {                                 
+    marcPopupWindowVar=open( url, 'marcDetailsWindow', 'width=850, height=600, menubar=no, toolbar=yes, resizable=yes, scrollbars=1' );                        
+    if ( marcPopupWindowVar.opener == null ) {
+      marcPopupWindowVar.opener = self;               
+    }
+    marcPopupWindowVar.focus();                                                       
+  }                                                                            
+  // -->
+  </script>
+  
+
+
+
+  
+    
+        
+  
+    
+        
+  
+
+
+    
+      考工記 : 二卷 / (明)郭正域批點
+      
+        
+  
+
+  
+  
+  <a href="" onclick="displayMarcPopupWindow( 'marc?id=20030109-17%3A36%3A26-dh' )"  title="馬克 (More details and links)">
+    <img src="/images/icon_link.png" alt="Links" class="icon_tweak"/>  
+  </a>
+
+
+      <br>
+
+
+    
+        
+  
+    
+        
+  
+
+
+    明萬曆中吳興閩齊伋刊朱墨套印「三經評註」本
+    
+  
+    <br>
+
+
+    
+        
+  
+
+
+    線裝2冊 ; 27公分
+    
+  
+    <br>
+
+
+    
+        
+  
+
+  
+  
+
+  
+  
+  <script type="text/javascript">
+  <!--
+  function displaySample_pagesPopupWindow( url ) {                                 
+    sample_pagesPopupWindowVar=open( url, 'sample_pagesDetailsWindow', 'width=800, height=600, menubar=no, toolbar=yes, resizable=yes, scrollbars=1' );                        
+    if ( sample_pagesPopupWindowVar.opener == null ) {
+      sample_pagesPopupWindowVar.opener = self;               
+    }
+    sample_pagesPopupWindowVar.focus();                                                       
+  }                                                                            
+  // -->
+  </script>
+  
+    
+    
+  
+      
+  
+
+
+
+      Sinica 2655
+
+          
+          
+  
+
+  
+  
+  <a href="" onclick="displaySample_pagesPopupWindow( 'sample?id=20030109-17%3A36%3A26-dh&amp;shelfmark=Sinica%202655' )"  title="書影 (Display sample page(s))">
+    <img src="/images/icon_image.png" alt="Images" class="icon_tweak"/>  
+  </a>
+
+
+
+
+      <br>
+      
+  
+
+
+
+
+
+
+      <br/>
+      
+  
+  
+  
+
+    
+  
+  
+  <script type="text/javascript">
+  <!--
+  function displayMarcPopupWindow( url ) {                                 
+    marcPopupWindowVar=open( url, 'marcDetailsWindow', 'width=850, height=600, menubar=no, toolbar=yes, resizable=yes, scrollbars=1' );                        
+    if ( marcPopupWindowVar.opener == null ) {
+      marcPopupWindowVar.opener = self;               
+    }
+    marcPopupWindowVar.focus();                                                       
+  }                                                                            
+  // -->
+  </script>
+  
+
+
+
+  
+    
+        
+  
+    
+        
+  
+
+
+    
+      周禮 : 六卷 / (清)黃叔琳撰 ; (清)姚培謙重定
+      
+        
+  
+
+  
+  
+  <a href="" onclick="displayMarcPopupWindow( 'marc?id=19940110-19%3A46%3A56-dh' )"  title="馬克 (More details and links)">
+    <img src="/images/icon_link.png" alt="Links" class="icon_tweak"/>  
+  </a>
+
+
+      <br>
+
+
+    
+        
+  
+    
+        
+  
+
+
+    清道光十年[1830]重刊本金閶步月樓藏板
+    
+  
+    <br>
+
+
+    
+        
+  
+
+
+    線裝2冊 ; 25公分
+    
+  
+    <br>
+
+
+    
+        
+  
+
+
+    
+      封面題名「周禮節訓」
+      
+        
+  
+      <br>
+
+
+
+  
+  
+    
+  
+      
+  
+
+
+
+      Sinica 598
+
+
+
+      <br>
+
+
+
+
+
+      <br/>
+      
+  
+  
+  
+
+    
+  
+  
+  <script type="text/javascript">
+  <!--
+  function displayMarcPopupWindow( url ) {                                 
+    marcPopupWindowVar=open( url, 'marcDetailsWindow', 'width=850, height=600, menubar=no, toolbar=yes, resizable=yes, scrollbars=1' );                        
+    if ( marcPopupWindowVar.opener == null ) {
+      marcPopupWindowVar.opener = self;               
+    }
+    marcPopupWindowVar.focus();                                                       
+  }                                                                            
+  // -->
+  </script>
+  
+
+
+
+  
+    
+        
+  
+    
+        
+  
+
+
+    
+      周禮三家佚注 : 一卷 / (清)孫詒讓校集
+      
+        
+  
+
+  
+  
+  <a href="" onclick="displayMarcPopupWindow( 'marc?id=20060112-11%3A13%3A06-dh' )"  title="馬克 (More details and links)">
+    <img src="/images/icon_link.png" alt="Links" class="icon_tweak"/>  
+  </a>
+
+
+      <br>
+
+
+    
+        
+  
+    
+        
+  
+
+
+    清光緒甲午[1894]刊本
+    
+  
+    <br>
+
+
+    
+        
+  
+
+
+    線裝1冊 ; 27公分
+    
+  
+    <br>
+
+
+    
+        
+  
+
+  
+  
+    
+  
+      
+  
+
+
+
+      Sinica 4699
+
+
+
+      <br>
+
+
+
+
+
+      <br/>
+    </div>
+
+
+        </div>
+      </div>
+    </div><!-- eight columns -->
+</div><!-- row -->  
+
+
+    
+    
+    
+
+        <div class="push"></div> <!-- necessary for the sticky footer -->
+    </div><!-- end of wrapper that started on header.mako -->
+<!-- Footer -->
+  <div class="footer hide-on-print" id="footer">
+  <footer class="row">
+    <div class="twelve columns">
+      <hr />
+      <div class="row">
+        <div class="four columns">
+          <a href="http://ox.ac.uk" target="_blank" alt="University of Oxford" title="University of Oxford [opens new window]"><img src="images/oxford_logo.gif" border="0" alt="University of Oxford [opens new window]" class="oxford_logo"/></a>
+        </div>
+        <div class="eight columns">
+            <ul class="link-list right">
+            <li>
+            <a href="/disclaimer"  class=""  title="Disclaimer">Disclaimer</a>
+            </li>
+            <li>
+            
+            <a href="/accessibility"  class="" title="Accessibility">Accessibility</a>
+            </li>
+            <li>
+            
+            <a href="/terms"    class=""  title="Terms and Conditions">Terms &amp; Conditions</a>
+            </li>
+            <li>
+            
+            <a href="/contact"  class=""   title="Contact Us">Contact Us</a>
+            </li>
+            </ul>
+          
+        </div>
+      </div>
+    </div> 
+  </footer>
+  </div>  
+  
+  <!-- Included JS Files (Compressed) -->
+  <script src="javascripts/jquery.js"></script>
+  <script src="javascripts/foundation.min.js"></script>
+  
+  <!-- Initialize JS Plugins -->
+  <script src="javascripts/app.js"></script>  
+  <script src="javascripts/jquery.foundation.alerts.js"></script>
+  
+  <script>
+    $(document).foundationAlerts();
+  </script>
+  
+  <!-- Google Analytics -->
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-23877246-10']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+
+     
+    
+  </body> 
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

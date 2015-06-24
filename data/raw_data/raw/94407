@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	
+	<title>Professional &amp; Management - Wellcome Trust Centre for Human Genetics</title>
+			<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/general.css" type="text/css" />
+	<link rel="stylesheet" media="print" href="/_static/website/stylesheets/print.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery.lightbox-0.5.css" type="text/css" /><link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery-ui-1.10.4.custom.min.css" type="text/css" />	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+	<script src="/_static/website/javascripts/jquery.lightbox-0.5.min.js" type="text/javascript"></script><script src="/_static/website/javascripts/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>		<link rel="shortcut icon" href="/_static/website/images/icons/favicon.ico" type="image/x-icon" />
+</head>
+<body class="ndm">
+	<div id="header-wrapper">
+		<div id="header">
+			<a href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-rect-wtchg" src="/_static/website/images/ox-rectangle-border.gif" alt="Oxford University logo" /></a>
+			<a href="http://www.ndm.ox.ac.uk/" title="Link to Nuffield Department of Clincial Medicine homepage" target="_blank"><img class="ndm-logo-rect-wtchg" src="/_static/website/images/NDM-rec-spotblue_162x50.png" alt="Nuffield Department of Clincial Medicine logo" /></a>
+			<h1 class="wtchg"><a href="/" title="Link to Wellcome Trust Centre for Human Genetics homepage"><img src="/_static/website/images/heading1-wtchg3.gif" alt="Wellcome Trust Centre for Human Genetics" /></a></h1>
+			<ul id="primary-menu">
+							<li><span><a  href="/home" title="Home">Home</a></span></li>
+							<li><span><a  href="/about-us" title="About us">About us</a></span></li>
+							<li><span><a  href="/research" title="Research">Research</a></span></li>
+							<li><span><a  href="/news" title="News">News</a></span></li>
+							<li class="current"><span><a  href="/work-and-study" title="Work and study">Work and study</a></span></li>
+							<li><span><a  href="/contact" title="Contact">Contact</a></span></li>
+						</ul>
+		<!--	<form class="search wtchg-search" action="/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onFocus="if(this.value == 'Search...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form> -->
+		<form style="float:right;" class="search" id="cse-search-box" action="/_search">		
+				<input type="hidden" name="cx" value="013190107294343682755:hbouhhr152c" />
+				<input type="hidden" name="ie" value="UTF-8" />
+				<input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+				<input type="hidden" name="nojs" value="1" />
+			</form>
+		</div>
+	</div>
+	<div id="content-wrapper">
+									<ul id="secondary-menu" class="group">
+							<li class="current"><a  class="secondary-menu-link" href="/vacancies" title="Vacancies">Vacancies</a></li>
+							<li><a  class="secondary-menu-link" href="/graduate-studies" title="Graduate studies">Graduate studies</a></li>
+							<li><a  class="secondary-menu-link" href="/gender-equality" title="Gender equality">Gender equality</a></li>
+							<li><a  class="secondary-menu-link" href="/work-life-balance" title="Work-life balance">Work-life balance</a></li>
+							<li><a  class="secondary-menu-link" href="/the-wtchg-community" title="The WTCHG community">The WTCHG community</a></li>
+							</ul>	
+				<script type="text/javascript">
+$( document ).ready(function() {
+	$("a.research_group_link").each(function(index) {
+		if ($("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").length > 0) {
+			$("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").append(this);
+		}
+		else {
+			$(this).hide();
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+$(function() {
+	$('a.lightbox').lightBox({
+		overlayOpacity: 0.6,
+		imageLoading: '/_static/website/images/lightbox/lightbox-ico-loading.gif',
+		imageBtnClose: '/_static/website/images/lightbox/lightbox-btn-close.gif',
+		imageBtnPrev: '/_static/website/images/lightbox/lightbox-btn-prev.gif',
+		imageBtnNext: '/_static/website/images/lightbox/lightbox-btn-next.gif',
+		imageBlank: '/_static/website/images/lightbox/lightbox-blank.gif'
+	});
+});
+</script>
+<div id="content">
+	<div><img class="right" src="/_asset/image/hr.jpeg/fit/200/200" alt="HR" width="150" height="79" /></div>
+<h1>Professional &amp; Management positions</h1>
+<p>&nbsp;</p>
+<p>There are currently no&nbsp;Professional &amp;&nbsp;Management&nbsp;positions available.</p></div>
+<div id="side-bar">
+	<div class="side-box">
+		<h3>Vacancies</h3>
+		<ul>
+						<li><a  href="/academic" title="Academic">Academic</a>			</li>
+						<li><a  href="/research-8" title="Research">Research</a>			</li>
+						<li class="current"><a  href="/professional-management" title="Professional &amp; Management">Professional &amp; Management</a>			</li>
+						<li><a  href="/support-technical" title="Support &amp; Technical">Support &amp; Technical</a>			</li>
+					</ul>
+	</div>
+</div>
+		<div id="footer">
+			<a style="float:left; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/athena-swan" title="Link to Athena SWAN NDM pages" target="_blank"><img class="logo-athena" src="/_static/website/images/athena-swan-silver.png" alt="Athena SWAN logo" /></a><a style="float:right; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/working-for-ndm" title="Link to Working for NDM" target="_blank"><img src="/_static/website/images/ndm-men-coloured.jpg" alt="Nuffield Department of Clincial Medicine logo" /></a>
+			<p>© 2015 Wellcome Trust Centre for Human Genetics, Roosevelt Drive, Oxford OX3 7BN, UK</p><p><a href="/">Home</a> | <a href="/_sitemap">Site Map</a> | <a href="/contact">Contact</a> | <a title="WebMail" href="https://morse.well.ox.ac.uk/squirrelmail" target="_blank">WebMail</a> | <a title="WebMail" href="https://mail.well.ox.ac.uk/owa" target="_blank">Outlook Web App</a> | <a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a><br /><a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> | <a href="http://www.ox.ac.uk/copyright/" target="_blank">Copyright</a> | <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a><br /><a href="http://www.ndm.ox.ac.uk/" target="_blank">Nuffield Department of Medicine</a> | <a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a> | <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a> | <a class="link-twitter1" href="https://twitter.com/NDMOxford" title="Twitter" target="_blank"><img width="16" height="16" alt="twitter" src="/_static/website/images/icons/twitter1.png" />@NDMOxford</a> </p>
+					<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/operations"><img src="/_static/website/images/newt-favicon.gif" alt="newt favicon" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/operations"><img src="/_static/website/images/pinfox-favicon.gif" alt="pinfox favicon" /> Pinfox</a></p>
+		</div>
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9954832-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script></body>
+</html>

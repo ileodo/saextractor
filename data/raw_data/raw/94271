@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	
+	<title>Prof Cecilia Lindgren - Wellcome Trust Centre for Human Genetics</title>
+			<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/general.css" type="text/css" />
+	<link rel="stylesheet" media="print" href="/_static/website/stylesheets/print.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery.lightbox-0.5.css" type="text/css" /><link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery-ui-1.10.4.custom.min.css" type="text/css" />	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+	<script src="/_static/website/javascripts/content-tabbed-menus.js" type="text/javascript"></script><script src="/_static/website/javascripts/publications.js" type="text/javascript"></script><script src="/_static/website/javascripts/jquery.lightbox-0.5.min.js" type="text/javascript"></script><script src="/_static/website/javascripts/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>		<link rel="shortcut icon" href="/_static/website/images/icons/favicon.ico" type="image/x-icon" />
+</head>
+<body class="ndm">
+	<div id="header-wrapper">
+		<div id="header">
+			<a href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-rect-wtchg" src="/_static/website/images/ox-rectangle-border.gif" alt="Oxford University logo" /></a>
+			<a href="http://www.ndm.ox.ac.uk/" title="Link to Nuffield Department of Clincial Medicine homepage" target="_blank"><img class="ndm-logo-rect-wtchg" src="/_static/website/images/NDM-rec-spotblue_162x50.png" alt="Nuffield Department of Clincial Medicine logo" /></a>
+			<h1 class="wtchg"><a href="/" title="Link to Wellcome Trust Centre for Human Genetics homepage"><img src="/_static/website/images/heading1-wtchg3.gif" alt="Wellcome Trust Centre for Human Genetics" /></a></h1>
+			<ul id="primary-menu">
+							<li><span><a  href="/home" title="Home">Home</a></span></li>
+							<li><span><a  href="/about-us" title="About us">About us</a></span></li>
+							<li class="current"><span><a  href="/research" title="Research">Research</a></span></li>
+							<li><span><a  href="/news" title="News">News</a></span></li>
+							<li><span><a  href="/work-and-study" title="Work and study">Work and study</a></span></li>
+							<li><span><a  href="/contact" title="Contact">Contact</a></span></li>
+						</ul>
+		<!--	<form class="search wtchg-search" action="/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onFocus="if(this.value == 'Search...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form> -->
+		<form style="float:right;" class="search" id="cse-search-box" action="/_search">		
+				<input type="hidden" name="cx" value="013190107294343682755:hbouhhr152c" />
+				<input type="hidden" name="ie" value="UTF-8" />
+				<input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+				<input type="hidden" name="nojs" value="1" />
+			</form>
+		</div>
+	</div>
+	<div id="content-wrapper">
+									<ul id="secondary-menu" class="group">
+							<li><a  class="secondary-menu-link" href="/research-groups" title="Research groups">Research groups</a></li>
+							<li><a  class="secondary-menu-link" href="/research-areas" title="Research areas">Research areas</a></li>
+							<li><a  class="secondary-menu-link" href="/cores" title="Cores">Cores</a></li>
+							<li><a  class="secondary-menu-link" href="/publications-22" title="Publications">Publications</a></li>
+							<li><a  class="secondary-menu-link" href="/podcasts-meet-our-researchers" title="Podcasts: Meet our researchers">Podcasts: Meet our researchers</a></li>
+							<li><a  class="secondary-menu-link" href="/seminars-3" title="Seminars">Seminars</a></li>
+							<li><a  class="secondary-menu-link" href="/screen-advert-request" title="Screen advert request">Screen advert request</a></li>
+							</ul>	
+				
+<script type="text/javascript">
+$(function() {
+	$('a.lightbox').lightBox({
+		overlayOpacity: 0.6,
+		imageLoading: '/_static/website/images/lightbox/lightbox-ico-loading.gif',
+		imageBtnClose: '/_static/website/images/lightbox/lightbox-btn-close.gif',
+		imageBtnPrev: '/_static/website/images/lightbox/lightbox-btn-prev.gif',
+		imageBtnNext: '/_static/website/images/lightbox/lightbox-btn-next.gif',
+		imageBlank: '/_static/website/images/lightbox/lightbox-blank.gif',
+		fixedNavigation:true
+	});
+});
+</script>
+<div id="content">
+		<h1>Prof Cecilia Lindgren</h1>
+	<ul class="content-menu">
+		<li id="content-menu-research"><a href="#content-research" title="Research"><span>Research</span></a></li>
+				<li id="content-menu-publications"><a href="#content-publications" title="Publications"><span>Publications</span></a></li>					</ul>
+	<div id="content-research" class="content-panel">
+		<table>
+						<tr>
+				<th>Research Area:</th>
+				<td>Genetics and Genomics</td>
+			</tr>
+									<tr>
+				<th>Technology Exchange:</th>
+				<td>Bioinformatics, Computational biology, SNP typing and Statistical genetics</td>
+			</tr>
+									<tr>
+				<th>Scientific Themes:</th>
+				<td>Genetics &amp; Genomics</td>
+			</tr>
+									<tr>
+				<th>Keywords:</th>
+				<td>obesity, fat distribution, meta-analysis, genetic association and gene expression</td>
+			</tr>
+									<tr>
+				<th>Web Links:</th>
+				<td><ul class = 'weblinks'><li><a class = 'Podcast' href="http://www.ndm.ox.ac.uk/cecilia-lindgren-obesity-and-genetics"><img src="/_static/website/images/weblink-Podcast.png"><span class="emphasise">Podcast 'Obesity and Genetics'</span></a></li></ul></td>
+			</tr>
+					</table>
+				<p><p>Obesity and its consequences are major and growing challenges for health care worldwide. Recently, the first common variants have been identified which influence overall levels of adiposity and predispose to obesity at the population level: these findings should lead to improved understanding of the mechanisms involved in the regulation of overall energy balance. However, not all obese individuals are equally vulnerable to diabetes, insulin resistance and the other adverse consequences of obesity, and it has long been appreciated that the distribution of fat (particularly the degree of central or visceral obesity) is an additional and independent determinant of individual risk of metabolic and cardiovascular disease.</p><p>Our research seeks to advance understanding of the mechanisms involved in obesity and the regulation of differential central fat accumulation in the belief that an appreciation of these mechanisms will complement advances in understanding of overall energy balance.</p><p>By applying a range of genetic and genomic approaches, we expect to identify genetic variants influencing regional fat distribution, and to illuminate some of the biological pathways involved. Our specific objectives are:</p><ol>
+<li>To undertake identification of genetic variants influencing obesity and individual patterns of fat distribution and central obesity through large-scale genome-wide association meta-analysis and fine-mapping;</li><li>To examine the relationships between sequence variation, expression of mRNA, microRNAs and molecular and physiological phenotypes, in human adipose samples, to identify adipose-specific pathways relevant to individual differences in obesity and central fat distribution;</li><li>To follow-up of the key findings from genetic, epidemiological and functional perspectives.</li></ol>
+<p>This knowledge should support translational advances in the management of obesity through development of novel diagnostic and therapeutic options.</p></p>
+	</div>
+	<div id="content-collaborations" class="content-panel">
+				<p>There are no collaborations listed for this principal investigator.</p>
+			</div>
+	<div id="content-publications" class="content-panel">
+				<p>
+			<span class="journal-authors"><span class = "author ">Loos RJ</span><span class = "author ">, Lindgren CM</span><span class = "author ">, Li S</span><span class = "author ">, Wheeler E</span><span class = "author ">, Zhao JH</span><span class = "author ">, Prokopenko I</span><span class = "author ">, Inouye M</span><span class = "author ">, Freathy RM</span><span class = "author hidden">, Attwood AP</span><span class = "author hidden">, Beckmann JS</span><span class = "author hidden">, Berndt SI</span><span class = "author hidden">, Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial</span><span class = "author hidden">, Jacobs KB</span><span class = "author hidden">, Chanock SJ</span><span class = "author hidden">, Hayes RB</span><span class = "author hidden">, Bergmann S</span><span class = "author hidden">, Bennett AJ</span><span class = "author hidden">, Bingham SA</span><span class = "author hidden">, Bochud M</span><span class = "author hidden">, Brown M</span><span class = "author hidden">, Cauchi S</span><span class = "author hidden">, Connell JM</span><span class = "author hidden">, Cooper C</span><span class = "author hidden">, Smith GD</span><span class = "author hidden">, Day I</span><span class = "author hidden">, Dina C</span><span class = "author hidden">, De S</span><span class = "author hidden">, Dermitzakis ET</span><span class = "author hidden">, Doney AS</span><span class = "author hidden">, Elliott KS</span><span class = "author hidden">, Elliott P</span><span class = "author hidden">, Evans DM</span><span class = "author hidden">, Sadaf Farooqi I</span><span class = "author hidden">, Froguel P</span><span class = "author hidden">, Ghori J</span><span class = "author hidden">, Groves CJ</span><span class = "author hidden">, Gwilliam R</span><span class = "author hidden">, Hadley D</span><span class = "author hidden">, Hall AS</span><span class = "author hidden">, Hattersley AT</span><span class = "author hidden">, Hebebrand J</span><span class = "author hidden">, Heid IM</span><span class = "author hidden">, KORA</span><span class = "author hidden">, Lamina C</span><span class = "author hidden">, Gieger C</span><span class = "author hidden">, Illig T</span><span class = "author hidden">, Meitinger T</span><span class = "author hidden">, Wichmann HE</span><span class = "author hidden">, Herrera B</span><span class = "author hidden">, Hinney A</span><span class = "author hidden">, Hunt SE</span><span class = "author hidden">, Jarvelin MR</span><span class = "author hidden">, Johnson T</span><span class = "author hidden">, Jolley JD</span><span class = "author hidden">, Karpe F</span><span class = "author hidden">, Keniry A</span><span class = "author hidden">, Khaw KT</span><span class = "author hidden">, Luben RN</span><span class = "author hidden">, Mangino M</span><span class = "author hidden">, Marchini J</span><span class = "author hidden">, McArdle WL</span><span class = "author hidden">, McGinnis R</span><span class = "author hidden">, Meyre D</span><span class = "author hidden">, Munroe PB</span><span class = "author hidden">, Morris AD</span><span class = "author hidden">, Ness AR</span><span class = "author hidden">, Neville MJ</span><span class = "author hidden">, Nica AC</span><span class = "author hidden">, Ong KK</span><span class = "author hidden">, O'Rahilly S</span><span class = "author hidden">, Owen KR</span><span class = "author hidden">, Palmer CN</span><span class = "author hidden">, Papadakis K</span><span class = "author hidden">, Potter S</span><span class = "author hidden">, Pouta A</span><span class = "author hidden">, Qi L</span><span class = "author hidden">, Nurses' Health Study</span><span class = "author hidden">, Randall JC</span><span class = "author hidden">, Rayner NW</span><span class = "author hidden">, Ring SM</span><span class = "author hidden">, Sandhu MS</span><span class = "author hidden">, Scherag A</span><span class = "author hidden">, Sims MA</span><span class = "author hidden">, Song K</span><span class = "author hidden">, Soranzo N</span><span class = "author hidden">, Speliotes EK</span><span class = "author hidden">, Diabetes Genetics Initiative</span><span class = "author hidden">, Syddall HE</span><span class = "author hidden">, Teichmann SA</span><span class = "author hidden">, Timpson NJ</span><span class = "author hidden">, Tobias JH</span><span class = "author hidden">, Uda M</span><span class = "author hidden">, SardiNIA Study</span><span class = "author hidden">, Vogel CI</span><span class = "author hidden">, Wallace C</span><span class = "author hidden">, Waterworth DM</span><span class = "author hidden">, Weedon MN</span><span class = "author hidden">, Wellcome Trust Case Control Consortium</span><span class = "author hidden">, Willer CJ</span><span class = "author hidden">, FUSION</span><span class = "author hidden">, Wraight</span><span class = "author hidden">, Yuan X</span><span class = "author hidden">, Zeggini E</span><span class = "author hidden">, Hirschhorn JN</span><span class = "author hidden">, Strachan DP</span><span class = "author hidden">, Ouwehand WH</span><span class = "author hidden">, Caulfield MJ</span><span class = "author hidden">, Samani NJ</span><span class = "author hidden">, Frayling TM</span><span class = "author hidden">, Vollenweider P</span><span class = "author hidden">, Waeber G</span><span class = "author hidden">, Mooser V</span><span class = "author hidden">, Deloukas P</span><span class = "author hidden">, McCarthy MI</span><span class = "author hidden">, Wareham NJ</span><span class = "author hidden">, Barroso I</span><span class = "author hidden">, Jacobs KB</span><span class = "author hidden">, Chanock SJ</span><span class = "author hidden">, Hayes RB</span><span class = "author hidden">, Lamina C</span><span class = "author hidden">, Gieger C</span><span class = "author hidden">, Illig T</span><span class = "author hidden">, Meitinger T</span><span class = "author hidden">, Wichmann HE</span><span class = "author hidden">, Kraft P</span><span class = "author hidden">, Hankinson SE</span><span class = "author hidden">, Hunter DJ</span><span class = "author hidden">, Hu FB</span><span class = "author hidden">, Lyon HN</span><span class = "author hidden">, Voight BF</span><span class = "author hidden">, Ridderstrale M</span><span class = "author hidden">, Groop L</span><span class = "author hidden">, Scheet P</span><span class = "author hidden">, Sanna S</span><span class = "author hidden">, Abecasis GR</span><span class = "author hidden">, Albai G</span><span class = "author hidden">, Nagaraja R</span><span class = "author hidden">, Schlessinger D</span><span class = "author hidden">, Jackson AU</span><span class = "author hidden">, Tuomilehto J</span><span class = "author hidden">, Collins FS</span><span class = "author hidden">, Boehnke M</span><span class = "author hidden">, Mohlke KL</span> <a class = "et-al" href="#">et al</a>.</span>			2008.			Common variants near MC4R are associated with fat mass, weight and risk of obesity.			<span class="journal-title">Nat Genet</span>,			<span class="journal-volume">40</span>			(6),			pp. 768-775.			<a class="abstract-show" href="#abstract-30601">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1038/ng.140">Read more</a> 		</p>
+				<p id="abstract-30601" class="abstract-block">
+			To identify common variants influencing body mass index (BMI), we analyzed genome-wide association data from 16,876 individuals of European descent. After previously reported variants in FTO, the strongest association signal (rs17782313, P = 2.9 x 10(-6)) mapped 188 kb downstream of MC4R (melanocortin-4 receptor), mutations of which are the leading cause of monogenic severe childhood-onset obesity. We confirmed the BMI association in 60,352 adults (per-allele effect = 0.05 Z-score units; P = 2.8 x 10(-15)) and 5,988 children aged 7-11 (0.13 Z-score units; P = 1.5 x 10(-8)). In case-control analyses (n = 10,583), the odds for severe childhood obesity reached 1.30 (P = 8.0 x 10(-11)). Furthermore, we observed overtransmission of the risk allele to obese offspring in 660 families (P (pedigree disequilibrium test average; PDT-avg) = 2.4 x 10(-4)). The SNP location and patterns of phenotypic associations are consistent with effects mediated through altered MC4R function. Our findings establish that common variants near MC4R influence fat mass, weight and obesity risk at the population level and reinforce the need for large-scale data integration to identify variants influencing continuous biomedical traits.			<a class="abstract-hide" href="#abstract-30601">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Weedon MN</span><span class = "author ">, Lango H</span><span class = "author ">, Lindgren CM</span><span class = "author ">, Wallace C</span><span class = "author ">, Evans DM</span><span class = "author ">, Mangino M</span><span class = "author ">, Freathy RM</span><span class = "author ">, Perry JR</span><span class = "author hidden">, Stevens S</span><span class = "author hidden">, Hall AS</span><span class = "author hidden">, Samani NJ</span><span class = "author hidden">, Shields B</span><span class = "author hidden">, Prokopenko I</span><span class = "author hidden">, Farrall M</span><span class = "author hidden">, Dominiczak A</span><span class = "author hidden">, Diabetes Genetics Initiative</span><span class = "author hidden">, Wellcome Trust Case Control Consortium</span><span class = "author hidden">, Johnson T</span><span class = "author hidden">, Bergmann S</span><span class = "author hidden">, Beckmann JS</span><span class = "author hidden">, Vollenweider P</span><span class = "author hidden">, Waterworth DM</span><span class = "author hidden">, Mooser V</span><span class = "author hidden">, Palmer CN</span><span class = "author hidden">, Morris AD</span><span class = "author hidden">, Ouwehand WH</span><span class = "author hidden">, Cambridge GEM Consortium</span><span class = "author hidden">, Zhao JH</span><span class = "author hidden">, Li S</span><span class = "author hidden">, Loos RJ</span><span class = "author hidden">, Barroso I</span><span class = "author hidden">, Deloukas P</span><span class = "author hidden">, Sandhu MS</span><span class = "author hidden">, Wheeler E</span><span class = "author hidden">, Soranzo N</span><span class = "author hidden">, Inouye M</span><span class = "author hidden">, Wareham NJ</span><span class = "author hidden">, Caulfield M</span><span class = "author hidden">, Munroe PB</span><span class = "author hidden">, Hattersley AT</span><span class = "author hidden">, McCarthy MI</span><span class = "author hidden">, Frayling TM</span> <a class = "et-al" href="#">et al</a>.</span>			2008.			Genome-wide association analysis identifies 20 loci that influence adult height.			<span class="journal-title">Nat Genet</span>,			<span class="journal-volume">40</span>			(5),			pp. 575-583.			<a class="abstract-show" href="#abstract-4884">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1038/ng.121">Read more</a> 		</p>
+				<p id="abstract-4884" class="abstract-block">
+			Adult height is a model polygenic trait, but there has been limited success in identifying the genes underlying its normal variation. To identify genetic variants influencing adult human height, we used genome-wide association data from 13,665 individuals and genotyped 39 variants in an additional 16,482 samples. We identified 20 variants associated with adult height (P &lt; 5 x 10(-7), with 10 reaching P &lt; 1 x 10(-10)). Combined, the 20 SNPs explain approximately 3% of height variation, with a approximately 5 cm difference between the 6.2% of people with 17 or fewer 'tall' alleles compared to the 5.5% with 27 or more 'tall' alleles. The loci we identified implicate genes in Hedgehog signaling (IHH, HHIP, PTCH1), extracellular matrix (EFEMP1, ADAMTSL3, ACAN) and cancer (CDK6, HMGA2, DLEU7) pathways, and provide new insights into human growth and developmental processes. Finally, our results provide insights into the genetic architecture of a classic quantitative trait.			<a class="abstract-hide" href="#abstract-4884">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Zeggini E</span><span class = "author ">, Weedon MN</span><span class = "author ">, Lindgren CM</span><span class = "author ">, Frayling TM</span><span class = "author ">, Elliott KS</span><span class = "author ">, Lango H</span><span class = "author ">, Timpson NJ</span><span class = "author ">, Perry JR</span><span class = "author hidden">, Rayner NW</span><span class = "author hidden">, Freathy RM</span><span class = "author hidden">, Barrett JC</span><span class = "author hidden">, Shields B</span><span class = "author hidden">, Morris AP</span><span class = "author hidden">, Ellard S</span><span class = "author hidden">, Groves CJ</span><span class = "author hidden">, Harries LW</span><span class = "author hidden">, Marchini JL</span><span class = "author hidden">, Owen KR</span><span class = "author hidden">, Knight B</span><span class = "author hidden">, Cardon LR</span><span class = "author hidden">, Walker M</span><span class = "author hidden">, Hitman GA</span><span class = "author hidden">, Morris AD</span><span class = "author hidden">, Doney AS</span><span class = "author hidden">, Wellcome Trust Case Control Consortium (WTCCC)</span><span class = "author hidden">, McCarthy MI</span><span class = "author hidden">, Hattersley AT</span> <a class = "et-al" href="#">et al</a>.</span>			2007.			Replication of genome-wide association signals in UK samples reveals risk loci for type 2 diabetes.			<span class="journal-title">Science</span>,			<span class="journal-volume">316</span>			(5829),			pp. 1336-1341.			<a class="abstract-show" href="#abstract-28989">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1126/science.1142364">Read more</a> 		</p>
+				<p id="abstract-28989" class="abstract-block">
+			The molecular mechanisms involved in the development of type 2 diabetes are poorly understood. Starting from genome-wide genotype data for 1924 diabetic cases and 2938 population controls generated by the Wellcome Trust Case Control Consortium, we set out to detect replicated diabetes association signals through analysis of 3757 additional cases and 5346 controls and by integration of our findings with equivalent data from other international consortia. We detected diabetes susceptibility loci in and around the genes CDKAL1, CDKN2A/CDKN2B, and IGF2BP2 and confirmed the recently described associations at HHEX/IDE and SLC30A8. Our findings provide insight into the genetic architecture of type 2 diabetes, emphasizing the contribution of multiple variants of modest effect. The regions identified underscore the importance of pathways influencing pancreatic beta cell development and function in the etiology of type 2 diabetes.			<a class="abstract-hide" href="#abstract-28989">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Frayling TM</span><span class = "author ">, Timpson NJ</span><span class = "author ">, Weedon MN</span><span class = "author ">, Zeggini E</span><span class = "author ">, Freathy RM</span><span class = "author ">, Lindgren CM</span><span class = "author ">, Perry JR</span><span class = "author ">, Elliott KS</span><span class = "author hidden">, Lango H</span><span class = "author hidden">, Rayner NW</span><span class = "author hidden">, Shields B</span><span class = "author hidden">, Harries LW</span><span class = "author hidden">, Barrett JC</span><span class = "author hidden">, Ellard S</span><span class = "author hidden">, Groves CJ</span><span class = "author hidden">, Knight B</span><span class = "author hidden">, Patch AM</span><span class = "author hidden">, Ness AR</span><span class = "author hidden">, Ebrahim S</span><span class = "author hidden">, Lawlor DA</span><span class = "author hidden">, Ring SM</span><span class = "author hidden">, Ben-Shlomo Y</span><span class = "author hidden">, Jarvelin MR</span><span class = "author hidden">, Sovio U</span><span class = "author hidden">, Bennett AJ</span><span class = "author hidden">, Melzer D</span><span class = "author hidden">, Ferrucci L</span><span class = "author hidden">, Loos RJ</span><span class = "author hidden">, Barroso I</span><span class = "author hidden">, Wareham NJ</span><span class = "author hidden">, Karpe F</span><span class = "author hidden">, Owen KR</span><span class = "author hidden">, Cardon LR</span><span class = "author hidden">, Walker M</span><span class = "author hidden">, Hitman GA</span><span class = "author hidden">, Palmer CN</span><span class = "author hidden">, Doney AS</span><span class = "author hidden">, Morris AD</span><span class = "author hidden">, Smith GD</span><span class = "author hidden">, Hattersley AT</span><span class = "author hidden">, McCarthy MI</span> <a class = "et-al" href="#">et al</a>.</span>			2007.			A common variant in the FTO gene is associated with body mass index and predisposes to childhood and adult obesity.			<span class="journal-title">Science</span>,			<span class="journal-volume">316</span>			(5826),			pp. 889-894.			<a class="abstract-show" href="#abstract-30617">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1126/science.1141634">Read more</a> 		</p>
+				<p id="abstract-30617" class="abstract-block">
+			Obesity is a serious international health problem that increases the risk of several common diseases. The genetic factors predisposing to obesity are poorly understood. A genome-wide search for type 2 diabetes-susceptibility genes identified a common variant in the FTO (fat mass and obesity associated) gene that predisposes to diabetes through an effect on body mass index (BMI). An additive association of the variant with BMI was replicated in 13 cohorts with 38,759 participants. The 16% of adults who are homozygous for the risk allele weighed about 3 kilograms more and had 1.67-fold increased odds of obesity when compared with those not inheriting a risk allele. This association was observed from age 7 years upward and reflects a specific increase in fat mass.			<a class="abstract-hide" href="#abstract-30617">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Mootha VK</span><span class = "author ">, Lindgren CM</span><span class = "author ">, Eriksson KF</span><span class = "author ">, Subramanian A</span><span class = "author ">, Sihag S</span><span class = "author ">, Lehar J</span><span class = "author ">, Puigserver P</span><span class = "author ">, Carlsson E</span><span class = "author hidden">, Ridderstråle M</span><span class = "author hidden">, Laurila E</span><span class = "author hidden">, Houstis N</span><span class = "author hidden">, Daly MJ</span><span class = "author hidden">, Patterson N</span><span class = "author hidden">, Mesirov JP</span><span class = "author hidden">, Golub TR</span><span class = "author hidden">, Tamayo P</span><span class = "author hidden">, Spiegelman B</span><span class = "author hidden">, Lander ES</span><span class = "author hidden">, Hirschhorn JN</span><span class = "author hidden">, Altshuler D</span><span class = "author hidden">, Groop LC</span> <a class = "et-al" href="#">et al</a>.</span>			2003.			PGC-1alpha-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes.			<span class="journal-title">Nat Genet</span>,			<span class="journal-volume">34</span>			(3),			pp. 267-273.			<a class="abstract-show" href="#abstract-15788">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1038/ng1180">Read more</a> 		</p>
+				<p id="abstract-15788" class="abstract-block">
+			DNA microarrays can be used to identify gene expression changes characteristic of human disease. This is challenging, however, when relevant differences are subtle at the level of individual genes. We introduce an analytical strategy, Gene Set Enrichment Analysis, designed to detect modest but coordinate changes in the expression of groups of functionally related genes. Using this approach, we identify a set of genes involved in oxidative phosphorylation whose expression is coordinately decreased in human diabetic muscle. Expression of these genes is high at sites of insulin-mediated glucose disposal, activated by PGC-1alpha and correlated with total-body aerobic capacity. Our results associate this gene set with clinically important variation in human metabolism and illustrate the value of pathway relationships in the analysis of genomic profiling experiments.			<a class="abstract-hide" href="#abstract-15788">Hide abstract</a>
+		</p>
+					</div>
+		</div>
+<div id="side-bar">
+	<div class="side-box">
+		<h3>Profile</h3>
+		<a class="lightbox" title="" href="http://tools.ndm.ox.ac.uk/pinfox/importers/pinfox/NDM/images/cecilialindgren_fit_900x600.jpg"><img id="pi-photo" src="http://tools.ndm.ox.ac.uk/pinfox/importers/pinfox/NDM/images/cecilialindgren_fit_204x204.jpg" alt="Prof Cecilia Lindgren" /></a>		<table>
+			<tr>
+				<th>Name:</th>
+								<td><a class="email">Prof Cecilia Lindgren</a>&nbsp;&nbsp;<a class="email"><img class="mail_icon" src="/_static/website/images/icons/icon-email.gif"></a></td>
+							</tr>
+									<tr>
+				<th>Titles:</th>
+				<td>Associate Professor, Group Head / PI and Fellow</td>
+			</tr>
+									<tr>
+				<th>Location:</th>
+				<td>Henry Wellcome Building of Genomic Medicine</td>
+			</tr>
+									<tr>
+				<th>Division:</th>
+				<td>Wellcome Trust Centre for Human Genetics</td>
+			</tr>
+														</table>
+	</div>
+</div>
+<div id="pi_id" dev="0">151</div>
+
+<script>
+$(document).ready(function(){
+		$('a[class="email"]').attr('href','mail'+'to'+':celi'+'@'+'well.ox.ac.uk');
+	if( typeof makePiTimeline !== 'undefined' )
+	{
+		makePiTimeline( 151, 200 );
+	}
+	
+});
+</script>
+<script type="text/javascript" src="/_static/website/javascripts/piTimelineNew.js"></script>
+<script type="text/javascript" src="/_static/website/javascripts/swfobject.js"></script>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+	$('div#register_interest_dialog').hide();
+	$('div#register_success_dialog').hide();
+	$('div#register_fail_dialog').hide();
+	$('div#register_interest img').click(function(event){
+		event.preventDefault();
+		$('div#register_interest_dialog').dialog();
+		$('div#register_interest_dialog').dialog("option", "width", 500);
+	});
+	$('a#send_reminder').click(function(event){
+		event.preventDefault();
+		sendReminderEmail();
+		$('div#email_reminder_dialog').dialog('close');
+	});
+	var pieces = window.location.href.split("?");
+	if (pieces[1]=='msg=success') {
+		$('div#register_success_dialog').dialog({ buttons: [ { text: "Ok", click: function() { $( this ).dialog( "close" ); } } ] });
+	}
+	else if (pieces[1]=='msg=fail') {
+		$('div#register_fail_dialog').dialog({ buttons: [ { text: "Ok", click: function() { $( this ).dialog( "close" ); } } ] });
+	}
+});
+// ]]></script>
+		<div id="footer">
+			<a style="float:left; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/athena-swan" title="Link to Athena SWAN NDM pages" target="_blank"><img class="logo-athena" src="/_static/website/images/athena-swan-silver.png" alt="Athena SWAN logo" /></a><a style="float:right; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/working-for-ndm" title="Link to Working for NDM" target="_blank"><img src="/_static/website/images/ndm-men-coloured.jpg" alt="Nuffield Department of Clincial Medicine logo" /></a>
+			<p>© 2015 Wellcome Trust Centre for Human Genetics, Roosevelt Drive, Oxford OX3 7BN, UK</p><p><a href="/">Home</a> | <a href="/_sitemap">Site Map</a> | <a href="/contact">Contact</a> | <a title="WebMail" href="https://morse.well.ox.ac.uk/squirrelmail" target="_blank">WebMail</a> | <a title="WebMail" href="https://mail.well.ox.ac.uk/owa" target="_blank">Outlook Web App</a> | <a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a><br /><a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> | <a href="http://www.ox.ac.uk/copyright/" target="_blank">Copyright</a> | <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a><br /><a href="http://www.ndm.ox.ac.uk/" target="_blank">Nuffield Department of Medicine</a> | <a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a> | <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a> | <a class="link-twitter1" href="https://twitter.com/NDMOxford" title="Twitter" target="_blank"><img width="16" height="16" alt="twitter" src="/_static/website/images/icons/twitter1.png" />@NDMOxford</a> </p>
+					<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/operations"><img src="/_static/website/images/newt-favicon.gif" alt="newt favicon" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/operations"><img src="/_static/website/images/pinfox-favicon.gif" alt="pinfox favicon" /> Pinfox</a></p>
+		</div>
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9954832-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script></body>
+</html>

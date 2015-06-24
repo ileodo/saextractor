@@ -1,0 +1,336 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:fb="http://www.facebook.com/2008/fbml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.seh.ox.ac.uk/sites/all/themes/stedmund/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="fb:app_id" content="" />
+<link rel="canonical" href="/about-college/niall-stanage" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/node/1084" />
+  <title>Niall Stanage | St Edmund Hall</title>
+  <link type="text/css" rel="stylesheet" href="http://www.seh.ox.ac.uk/sites/default/files/css/css_rEI_5cK_B9hB4So2yZUtr5weuEV3heuAllCDE6XsIkI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.seh.ox.ac.uk/sites/default/files/css/css_NltrKjiXjDnhbLTJt1jEcBpfwqg5rZarMLppc7E2AJ8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.seh.ox.ac.uk/sites/default/files/css/css_cqYMtVptw0YNYIxMStJGoZH-JHvuwUqDW16kVz8gnck.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.seh.ox.ac.uk/sites/default/files/css/css_ud-8ZOOE3dqiGY1JY8Cje2rSvzOBUWRPlOA-0Axbry4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.seh.ox.ac.uk/sites/default/files/css/css_vMpAdkRiGUenWtA5i0Oz0-ioLzps29gFhfrhMwBefUA.css" media="screen and (min-width: 1200px)" />
+<link type="text/css" rel="stylesheet" href="http://www.seh.ox.ac.uk/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="screen and (max-width: 480px)" />
+  <script type="text/javascript" src="http://www.seh.ox.ac.uk/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="http://www.seh.ox.ac.uk/sites/default/files/js/js_8vBIu5GSUpad6jHVfE4IUslZaYsGviLdbEzUafmhPkE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var text_resize_scope = "main";
+    var text_resize_minimum = "12";
+    var text_resize_maximum = "25";
+    var text_resize_line_height_allow = false;
+    var text_resize_line_height_min = 16;
+    var text_resize_line_height_max = 36;
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.seh.ox.ac.uk/sites/default/files/js/js_wx6ojg12vDfLC-HPccX9t1pALqeM5typsIlREDL2swc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-28072860-1", {"cookieDomain":"auto"});ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.seh.ox.ac.uk/sites/default/files/js/js_25p_4pF6OIozbruErmBsoP1UehygSy4E83DuLJpeTxU.js"></script>
+<script type="text/javascript" src="http://www.seh.ox.ac.uk/sites/default/files/js/js_AxN5EzBBUbzdnBaERqSzXSszR32wEHAoXwFyW0lUI48.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"stedmund","theme_token":"44a6aK19fi7volxXQvC3OrMHvPT3k_WNutGD4vm36rA","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/text_resize\/jquery.cookie.js":1,"0":1,"sites\/all\/modules\/contrib\/text_resize\/text_resize.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.min.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/modules\/contrib\/wysiwyg_tools_plus\/js\/tab_builder.js":1,"sites\/all\/themes\/stedmund\/site.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/contrib\/print\/css\/printlinks.css":1,"sites\/default\/files\/css\/follow.css":1,"sites\/all\/modules\/contrib\/wysiwyg_tools_plus\/css\/wysiwyg_tools_plus.css":1,"sites\/all\/themes\/zoo\/base.css":1,"sites\/all\/themes\/zoo\/grid-base.css":1,"sites\/all\/themes\/stedmund\/grid-960.css":1,"sites\/all\/themes\/official\/official_base.css":1,"sites\/all\/themes\/official\/navigation.css":1,"sites\/all\/themes\/official\/layout.css":1,"sites\/all\/themes\/stedmund\/style.css":1,"sites\/all\/themes\/stedmund\/grid-1000.css":1,"sites\/all\/themes\/stedmund\/grid-1200.css":1,"sites\/all\/themes\/official\/1200.css":1,"sites\/all\/themes\/stedmund\/grid-480.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-1084 node-type-inside-page main-image-active" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="background-wrapper">
+  <div id="page-wrapper" class="container_10"><div id="page">
+  
+
+    <div id="header" class="row region-full"><div class="section clearfix">
+    
+      <div id="site-details" class="block">
+	     	        <a href="/" title="Home" rel="home" id="logo">
+	          <img src="http://www.seh.ox.ac.uk/sites/all/themes/stedmund/logo.png" alt="Home" />
+	        </a>
+	      	
+	      	        <div id="name-and-slogan">
+	          	            	              <div id="site-name"><strong>
+	                <a href="/" title="Home" rel="home"><span>St Edmund Hall</span></a>
+	              </strong></div>
+	            	          	
+	          	        </div> <!-- /#name-and-slogan -->
+	      			</div> <!-- /#site-details -->
+      
+        <div class="region region-header">
+    
+<div id="block-search-form" class="block block-search twocol">
+
+    
+  <div class="content">
+    <form action="/about-college/niall-stanage" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search the site&#039;;}" onfocus="if (this.value == &#039;Search the site&#039;) {this.value = &#039;&#039;;}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search the site" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" value="Search" src="http://www.seh.ox.ac.uk/sites/all/themes/stedmund/images/search_button.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-wSkRHCiqxixecJP_RPYvAnnpwQO3sPSLtWCWpPOU71U" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-block-2" class="block block-block headadd">
+
+    
+  <div class="content">
+     <p style="text-align: left; ">Queen's Lane • Oxford • OX1 4AR • Tel: +44 (0)1865 279000</p>   </div>
+</div>  </div>
+
+    </div></div> <!-- /.section, /#header -->
+
+          <div id="navigation" class="region-full"><div class="nav-inside">
+        <div id="main-menu" class="grid-full"><h2 class="element-invisible">Main menu</h2><ul class="links inline clearfix"><li class="menu-162 first"><a href="/">Home</a></li>
+<li class="menu-469 active-trail"><a href="/about-college" class="active-trail">About the College</a></li>
+<li class="menu-1033"><a href="/fellows-and-staff" title="">Fellows &amp; Staff</a></li>
+<li class="menu-519"><a href="/admissions">Admissions</a></li>
+<li class="menu-520"><a href="/current-students">Current Students</a></li>
+<li class="menu-496"><a href="/alumni-development">Alumni &amp; Development</a></li>
+<li class="menu-903"><a href="/conferences">Conferences</a></li>
+<li class="menu-1112 last"><a href="/contact-us">Contact Us</a></li>
+</ul></div>
+              </div></div> <!-- /.section, /#navigation -->
+        
+
+         <div class="main-image region-full">
+         <div class="region region-main-image">
+    
+<div id="block-cck-blocks-field-inside-image" class="block block-cck-blocks">
+
+    
+  <div class="content">
+    <div class="field field-name-field-inside-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.seh.ox.ac.uk/sites/default/files/styles/main_header_image/public/section-grotesques3_18.jpg?itok=6w1o2bRI" width="980" height="200" alt="" /></div></div></div>  </div>
+</div>  </div>
+     </div>
+       
+          <div id="messages-wrapper" class="grid-full">
+            <div class="tabs clearfix"></div>      </div>
+          
+    <div id="main-wrapper"><div id="main" class="clearfix">
+
+        <div class="region region-above-content">
+    
+<div id="block-text-resize-0" class="block block-text-resize">
+
+    
+  <div class="content">
+    <a href="javascript:;" class="changer" id="text_resize_decrease"><sup>-</sup>A</a> <a href="javascript:;" class="changer" id="text_resize_increase"><sup>+</sup>A</a><div id="text_resize_clear"></div>  </div>
+</div>  </div>
+        
+      <div id="content" class="column content region-6 push-2"><div class="section">
+        <a id="main-content"></a>
+        
+        
+                <h1 class="title block" id="page-title">Niall Stanage</h1>                
+        <div id="breadcrumb" class="grid-full"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <a href="/about-college">About the College</a> » <a href="/about-college/writing-st-edmund-hall">Writing</a> » <a href="/about-college/hall-writers-directory">Hall Writers&#039; Directory</a> » <a href="/about-college/freelance-writers-journalists-and-broadcasters">Freelance Writers, Journalists, and Broadcasters</a> »</div></div>   
+        
+                
+        
+          <div class="region region-content">
+    
+<div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-1084" class="node node-inside-page clearfix" about="/about-college/niall-stanage" typeof="sioc:Item foaf:Document"><div class="inner">
+  
+      <span property="dc:title" content="Niall Stanage" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <span class="print-link"></span><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <p><strong>Niall Stanage (1992) is a staff writer with <em>The Hill</em> newspaper in Washington, D.C.</strong></p><p>He has also written for <em>The New York Times, The Wall Street Journal, The New York Observer, The Guardian</em> and <em>Salon</em>, among other publications.</p><p>A former editor of <em>Magill </em>magazine in Ireland, he is author of <em>Redemption Song: An Irish Reporter Inside the Obama Campaign</em> (Liberties Press, Dublin).</p><p><strong>Twitter</strong>: NiallStanage</p> </div></div></div>  </div>
+
+  
+  
+</div></div>
+  </div>
+</div>  </div>
+        
+          <div class="region region-below-content">
+    
+<div id="block-print-print-links" class="block block-print">
+
+    
+  <div class="content">
+    <span class="print_html"><a href="http://www.seh.ox.ac.uk/print/1084" title="" class="print-page" onclick="window.open(this.href); return false" rel="nofollow">Print version</a></span><span class="print_mail"><a href="http://www.seh.ox.ac.uk/printmail/1084" title="" class="print-mail" rel="nofollow">Send to friend</a></span><span class="print_pdf"><a href="http://www.seh.ox.ac.uk/printpdf/1084" title="" class="print-pdf" rel="nofollow">PDF version</a></span>  </div>
+</div>
+<div id="block-tweet-tweet" class="block block-tweet">
+
+    
+  <div class="content">
+    <div class="item-list"><ul><li class="first last"><a href="http://twitter.com/?status=http%3A//www.seh.ox.ac.uk/about-college/niall-stanage%20Niall%20Stanage%20" class="tweet" rel="nofollow" onclick="window.open(this.href); return false;"><img typeof="foaf:Image" src="http://www.seh.ox.ac.uk/" alt="Post to Twitter" title="Post to Twitter" /> Post to Twitter</a></li>
+</ul></div>  </div>
+</div>
+<div id="block-fb-social-like" class="block block-fb-social">
+
+    
+  <div class="content">
+    <div class="fb-social-like-plugin"><fb:like  send="0" layout="button_count" show_faces="false" width="175" action="recommend" font="tahoma" colorscheme="light" href="http://seh.hdev.co.uk/about-college/niall-stanage"></fb:like></div>  </div>
+</div>  </div>
+
+                
+      </div></div> <!-- /.section, /#content -->
+      
+            <div class="sidebar-first region-2 pull-6">
+                  <div class="region region-sidebar-first">
+    
+<div id="block-toplevelblock-toplevel-block" class="block block-toplevelblock">
+
+    
+  <div class="content">
+    <h3><a href="/about-college">About the College</a></h3>  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-807"><a href="/events/calendar/month">Events Calendar</a></li>
+<li class="leaf menu-mlid-792"><a href="/news">News</a></li>
+<li class="collapsed menu-mlid-1324"><a href="/about-college/history-hall">History of the Hall</a></li>
+<li class="expanded active-trail menu-mlid-1881"><a href="/about-college/writing-st-edmund-hall" class="active-trail">Writing</a><ul class="menu"><li class="first leaf menu-mlid-1883"><a href="/about-college/hall-writing-news">Hall Writing News</a></li>
+<li class="collapsed menu-mlid-1880"><a href="/about-college/wednesday-workshops" title="Weekly writing workshops, open to all members of college">Wednesday Workshops</a></li>
+<li class="collapsed menu-mlid-1878"><a href="/about-college/hall-writers-events" title="Weekly Workshops; Annual Hall Writers&#039; Days; Poetry Readings; Music and Poetry events">Hall Writers&#039; Events</a></li>
+<li class="expanded active-trail menu-mlid-1385"><a href="/about-college/hall-writers-directory" class="active-trail">Hall Writers&#039; Directory</a><ul class="menu"><li class="first leaf menu-mlid-1484"><a href="/about-college/why-english-hall-different">Why English at the Hall is different</a></li>
+<li class="leaf menu-mlid-1882"><a href="/about-college/writing-hall-2000-2015">Writing at the Hall, 2000-2015</a></li>
+<li class="collapsed menu-mlid-1386"><a href="/about-college/poets">Poets</a></li>
+<li class="expanded active-trail menu-mlid-1387"><a href="/about-college/freelance-writers-journalists-and-broadcasters" class="active-trail">Freelance Writers, Journalists, and Broadcasters</a><ul class="menu"><li class="first leaf menu-mlid-1406"><a href="/about-college/samira-ahmed-0">Samira Ahmed</a></li>
+<li class="leaf menu-mlid-1407"><a href="/about-college/michael-bhaskar">Michael Bhaskar</a></li>
+<li class="leaf menu-mlid-1408"><a href="/about-college/bidisha">Bidisha</a></li>
+<li class="leaf menu-mlid-1409"><a href="/about-college/douglas-botting">Douglas Botting</a></li>
+<li class="leaf menu-mlid-1410"><a href="/about-college/melissa-bradshaw">Melissa Bradshaw</a></li>
+<li class="leaf menu-mlid-1411"><a href="/about-college/tony-brignull">Tony Brignull</a></li>
+<li class="leaf menu-mlid-1412"><a href="/about-college/emma-brockes">Emma Brockes</a></li>
+<li class="leaf menu-mlid-1413"><a href="/about-college/oenone-crossley-holland">Oenone Crossley-Holland</a></li>
+<li class="leaf menu-mlid-1414"><a href="/about-college/paul-driver">Paul Driver</a></li>
+<li class="leaf menu-mlid-1415"><a href="/about-college/emma-farge">Emma Farge</a></li>
+<li class="leaf menu-mlid-1416"><a href="/about-college/emma-french">Emma French</a></li>
+<li class="leaf menu-mlid-1417"><a href="/about-college/natalie-gey-van-pittius">Natalie Gey van Pittius</a></li>
+<li class="leaf menu-mlid-1418"><a href="/about-college/eliane-glaser">Eliane Glaser</a></li>
+<li class="leaf menu-mlid-1419"><a href="/about-college/johanna-koljonen">Johanna Koljonen</a></li>
+<li class="leaf menu-mlid-1421"><a href="/about-college/sophy-ridge">Sophy Ridge</a></li>
+<li class="leaf menu-mlid-1422"><a href="/about-college/anya-saunders">Anya Saunders</a></li>
+<li class="leaf menu-mlid-1423"><a href="/about-college/alyn-shipton">Alyn Shipton</a></li>
+<li class="last leaf active-trail active menu-mlid-1424"><a href="/about-college/niall-stanage" class="active-trail active">Niall Stanage</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-1482"><a href="/about-college/comedy-writers">Comedy Writers</a></li>
+<li class="collapsed menu-mlid-1389"><a href="/about-college/fiction-writers">Fiction Writers</a></li>
+<li class="collapsed menu-mlid-1390"><a href="/about-college/screenwriters-playwrights-and-directors">Screenwriters, Playwrights and Directors</a></li>
+<li class="collapsed menu-mlid-1391"><a href="/about-college/critics-scholars-and-academics">Critics, Scholars and Academics</a></li>
+<li class="last collapsed menu-mlid-1392"><a href="/about-college/graduates-and-postgraduates">Graduates and Postgraduates</a></li>
+</ul></li>
+<li class="last collapsed menu-mlid-1661"><a href="/about-college/hall-writers-forum" title="Hall Writers&#039; Forum">Hall Writers&#039; Forum</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-872"><a href="/about-college/chapel">Chapel</a></li>
+<li class="collapsed menu-mlid-475"><a href="/about-college/library">Library</a></li>
+<li class="collapsed menu-mlid-1848"><a href="/about-college/music-st-edmund-hall">Music</a></li>
+<li class="collapsed menu-mlid-1870"><a href="/about-college/st-edmund-hall-research-expo-2015">Research Expo 2015</a></li>
+<li class="collapsed menu-mlid-1863"><a href="/about-college/st-edmund-hall-centre-creative-brain">Centre for the Creative Brain</a></li>
+<li class="collapsed menu-mlid-1691"><a href="/about-college/about-china-growth-centre">The China Growth Centre (CGC)</a></li>
+<li class="leaf menu-mlid-1692"><a href="/about-college/oxford-chinese-economy-programme">Oxford Chinese Economy Programme (OXCEP)</a></li>
+<li class="collapsed menu-mlid-1379"><a href="/about-college/hall-archive">St Edmund Hall Archive</a></li>
+<li class="leaf menu-mlid-938"><a href="/about-college/policies-accounts-and-legal-documents">Policies, Accounts and Legal Documents</a></li>
+<li class="last leaf menu-mlid-1289"><a href="/about-college/job-vacancies">Job Vacancies</a></li>
+</ul></div>
+  </div>
+</div>  </div>
+      </div>
+      
+            <div class="sidebar-second region-2">
+        
+          <div class="region region-sidebar-second">
+    
+<div id="block-cck-blocks-field-sidebar-reference" class="block block-cck-blocks">
+
+    
+  <div class="content">
+    <div class="field field-name-field-sidebar-reference field-type-node-reference field-label-hidden"><div class="field-items"><div class="field-item even"><div id="node-1303" class="node node-imageblock clearfix" about="/niall-stanage-pic2" typeof="sioc:Item foaf:Document"><div class="inner">
+
+  
+  <div class="content">
+    <span class="print-link"></span><div class="field field-name-field-imageblock-image-1 field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="http://www.seh.ox.ac.uk/sites/default/files/styles/popup/public/NiallStanagePic.jpg?itok=FaYqowRX" title="" class="colorbox" rel="gallery-node-1303"><img typeof="foaf:Image" src="http://www.seh.ox.ac.uk/sites/default/files/styles/linkblock/public/NiallStanagePic.jpg?itok=QCAx7oQa" width="170" height="170" alt="" title="" /></a></div></div></div>  </div>
+
+  
+</div></div>
+</div></div></div>  </div>
+</div>
+<div id="block-block-8" class="block block-block emptyblock">
+
+    
+  <div class="content">
+     <p>Empty block: will not display. Used to occupy r-h column only.</p>   </div>
+</div>  </div>
+      </div>
+      
+    </div></div> <!-- /#main, /#main-wrapper -->
+
+
+
+  </div></div> <!-- /#page, /#page-wrapper -->
+</div>
+
+<div id="footer"><div class="section region-full">
+    <div class="region region-footer">
+    
+<div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+     <ul><li><a href="/about-college/about-site">About the site</a></li><li><a href="/sitemap">Site Map</a></li><li><a href="/user">Site admin</a></li></ul><ul><li><a href="/contact-us/visiting-college">Visiting the College</a></li><li><a href="/about-college/job-vacancies">Job Vacancies</a></li><li><a href="/freedom-information-act-2000-publication-scheme">Freedom of Information</a></li></ul><ul><li><a href="https://weblearn.ox.ac.uk/portal/hierarchy/colleges/seh/" target="_blank">WebLearn</a></li><li><a href="http://www.teddyhall.co.uk" target="_blank">JCR Website</a></li><li><a href="http://mcr.seh.ox.ac.uk/" target="_blank">MCR Website</a></li></ul><ul><li><a href="/admissions/applying-st-edmund-hall">Undergraduate Study</a></li><li><a href="/admissions/postgraduate-admissions">Postgraduate Study</a></li><li><a href="/admissions/visiting-students">Visiting Students</a></li></ul><ul><li><a href="https://www.aularians.com/" target="_blank">Aularian Connect Website</a></li></ul><ul><li style="text-align: right"><a href="http://www.ox.ac.uk" target="_blank"><img height="100" width="100" class="media-image media-element file-media-original" typeof="foaf:Image" src="http://www.seh.ox.ac.uk/sites/default/files/oxfordlogo.gif" alt="" title="" /></a></li></ul>  </div>
+</div>
+<div id="block-block-7" class="block block-block charity">
+
+    
+  <div class="content">
+     <p>Registered Charity Number: 1137470</p>   </div>
+</div>  </div>
+</div></div> <!-- /.section, /#footer -->
+
+
+  
+  
+    <div class="region region-page-bottom">
+    <div id="fb-root"></div><script type="text/javascript">
+     window.fbAsyncInit = function() {
+       FB.init({
+         appId: "",
+         status: true,
+         cookie: true,
+         xfbml: true,
+         channelUrl: "http:\/\/www.seh.ox.ac.uk\/fb_social\/channel"
+         });
+
+         FB.Event.subscribe("edge.create", function(href, widget) {
+_gaq.push(["_trackEvent", "Facebook like", "Drupal", href]);
+});
+     };
+     (function() {
+       var e = document.createElement('script');
+       e.async = true;
+       e.src = document.location.protocol + '//connect.facebook.net/en_GB/all.js';
+       document.getElementById('fb-root').appendChild(e);
+     }());
+  </script>  </div>
+</body>
+</html>

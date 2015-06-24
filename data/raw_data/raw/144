@@ -1,0 +1,161 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>Oxford Talks</title>
+<link href="http://talks.ox.ac.uk/images/favicon-ox-uni.ico?1427720013" rel="shortcut icon" />
+<script src="/javascripts/calendar.js?1427720013" type="text/javascript"></script>
+<script src="/javascripts/calendar-setup.js?1427720013" type="text/javascript"></script>
+<script src="/javascripts/calendar-en.js?1427720013" type="text/javascript"></script>
+<script src="/javascripts/behaviour.js?1427720013" type="text/javascript"></script>
+<script src="/javascripts/prototype.js?1427720013" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1427720013" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1427720013" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1427720013" type="text/javascript"></script>
+<script src="/javascripts/application.js?1427720013" type="text/javascript"></script>
+<link href="/stylesheets/talks-screen.css?1427720013" media="all" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/calendar-blue.css?1427720013" media="all" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/talks-screen-ox.css?1427720013" media="all" rel="stylesheet" type="text/css" />
+<link href="/stylesheets/talks-print.css?1427720013" media="print" rel="stylesheet" type="text/css" />
+<meta http-equiv="content-type" content="text-html; charset=utf-8"/>
+<meta name="Keywords" content="talks, seminars, University of Cambridge"/>
+</head>
+
+	<body class='application'>
+		<!-- header -->
+<div id="navigation">
+<div class="skiplink"><a href="#startcontent" accesskey="2">Skip over navigation</a>&nbsp;|&nbsp;<a href="http://www.cam.ac.uk/computing/accesskeys.html" accesskey="0">Access key help</a></div> 
+<div id="insert"><span class="noshow">|</span><a href="http://talks.ox.ac.uk/search/" accesskey="4"><img alt="[Search]" height="18" src="http://talks.ox.ac.uk/images/search.gif?1427720013" width="53" /></a><span class="noshow">|</span><a href="http://talks.ox.ac.uk/index"><img alt="[A-Z Index]" height="18" src="http://talks.ox.ac.uk/images/az.gif?1427720013" width="53" /></a><span class="noshow">|</span><a href="http://talks.ox.ac.uk/document/Contact"><img alt="[Contact]" height="18" src="http://talks.ox.ac.uk/images/contact.gif?1427720013" width="53" /></a></div>
+</div>
+		<table id="header" summary="page header">
+<tr>
+
+<td class="deptitle"><a href="http://talks.ox.ac.uk/"><img alt="[Oxford Talks]" src="http://talks.ox.ac.uk/images/OxfordTalksLogo.png?1427720013" /></a></td>
+<td class='flash'></td>
+<td class="identifier"><a href="http://www.ox.ac.uk"><img alt="[The University of Oxford]" src="http://talks.ox.ac.uk/images/identifier2-ox.gif?1427720013" /></a></td>
+</tr>
+</table>
+<div id="topbgline" class='line'>&nbsp;</div>
+<!-- end header -->
+
+		<!-- breadcrumbs -->
+
+
+
+<div id="bread">
+<p><a href=http://www.ox.ac.uk>The University of Oxford</a>&nbsp;&gt;&nbsp;<a href="/">Oxford Talks</a></p>
+</div>
+<!-- end breadcrumbs -->
+
+
+		<table id="container" summary="page content">
+			<tr>
+				<td class="left">
+					<script type="text/javascript">Behaviour.register(leftbar_rules)</script>
+
+<div class='fullwidthlinks'>
+
+<form action="/search" id="smallsearch" method="post">
+	<input id="search" name="search" size="10" type="text" value="" />&nbsp;<input name="commit" type="submit" value="Go" />
+	<a href="http://talks.ox.ac.uk/index">Browse A-Z</a>
+</form>
+
+
+	<h2>Log in</h2>
+
+
+<a href="http://talks.ox.ac.uk/login/go_to_secure_webauth?return_url=%2Fdocument%2FGetting+Involved">Oxford users (SSO)<img alt="details" src="http://talks.ox.ac.uk/images/redarrow.gif?1427720013" /></a>
+<a href="/login/other_users?return_url=%2Fdocument%2FGetting+Involved">Other users<img alt="details" src="http://talks.ox.ac.uk/images/redarrow.gif?1427720013" /></a>
+<a href="http://talks.ox.ac.uk/user/new">No account?<img alt="details" src="http://talks.ox.ac.uk/images/redarrow.gif?1427720013" /></a>
+
+
+
+
+<h2>Help</h2>
+<a href="http://talks.ox.ac.uk/document/Introduction">An Introduction<img alt="details" src="http://talks.ox.ac.uk/images/redarrow.gif?1427720013" /></a>
+<a href="/document/Adding%20a%20talk" class="click">Adding a talk<img alt="details" src="http://talks.ox.ac.uk/images/redarrow.gif?1427720013" /></a>
+<a href="http://talks.ox.ac.uk/document/Documentation">User Guides<img alt="details" src="http://talks.ox.ac.uk/images/redarrow.gif?1427720013" /></a>
+<a href="/document/Getting%20Involved" class="click">Getting Involved<img alt="details" src="http://talks.ox.ac.uk/images/redarrow.gif?1427720013" /></a>
+
+<h2>Information On</h2>
+<p>If you are looking for <b>Graduate or Post Doc Training opportunities</b> then please visit the <a href=" https://weblearn.ox.ac.uk/graduatetraining" target="_blank">Graduate Training tool in WebLearn</a></p>
+
+
+
+</div>
+
+				</td>
+				<td class="centre">
+					<a name="startcontent" id="startcontent"></a>
+					<h1>Getting Involved</h1>
+
+<p><strong>Oxford Talks Needs You!</strong></p>
+
+
+	<p>In order to be as useful as possible, Oxford Talks needs volunteers. We need talks and seminars from across the University. We need seminar organisers to publish their events here. We need awareness so students use Oxford Talks as their first point of call in finding out What&#8217;s Going On.</p>
+
+
+	<p>You can help in 4 ways:</p>
+
+
+	<ol>
+	<li>If your department has seminars which are not already on the site, tell them about Oxford Talks.</li>
+		<li>If they don&#8217;t mind, add your department&#8217;s seminars to Oxford Talks yourself. If you want to take ownership over talks already on the site, <a href="mailto:oxtalks-contact@it.ox.ac.uk">get in touch</a>.</li>
+		<li>If you find an iCal link to departmental talks, <a href="mailto:oxtalks-contact@it.ox.ac.uk">email it to us</a>. We have software which can automatically add those talks to Oxford Talks.</li>
+		<li><a href="mailto:oxtalks-contact@it.ox.ac.uk">Get in touch</a> and tell us how useful Oxford Talks has been for you.</li>
+	</ol>
+
+
+	<p>Thanks for reading, and we hope to make Oxford Talks even more useful than it is already.</p>
+
+
+	<p><strong>The Oxford Talks Team</strong></p>
+
+
+				</td>
+				<td class="right" width='200px'>
+				    <h1>Seminar Organisers!</h1>
+<p>Please use the New Oxford Talks for editing and adding talks. <a href="/document/New Oxford Talks">Read More</a></p>
+
+
+
+				</td>
+			</tr>
+		</table>
+		<!-- footer -->
+<div id="bottombgline" class='line'>&nbsp;</div>
+<p class="cfooter"><a href="http://talks.ox.ac.uk/document/Contact">Contact Us</a>
+ | <a href="http://talks.ox.ac.uk/document/Documentation">Help and Documentation</a>
+ | <a href="/document/Privacy%20and%20Publicity" class="click">Privacy and Publicity</a>
+ | <a href="http://talks.ox.ac.uk/document/Cookies">Cookies</a>
+ | <a href="http://talks.ox.ac.uk/document/Accessibility">Accessibility</a>
+<br />
+Oxford Talks is based on talks.cam which is &copy; University of Cambridge.
+<!--If you wish to give level of conformance after testing, edit this and uncomment it-->
+<!--
+<br />
+<a href="http://www.w3.org/WAI/WCAG1AAA-Conformance">WAI AAA conformant</a>
+--></p>
+<!--  end footer -->
+<!-- Google Analytics code (used to be) appended here upon deployment, now statically included -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37957799-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type =
+'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</body>
+</html>

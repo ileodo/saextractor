@@ -1,0 +1,1032 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><base href="http://nds.medsci.ox.ac.uk/team/academic/alison-halliday/" />
+    <script src="//use.typekit.net/xxg4dqg.js"></script>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-title" content="Haiku" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" /><title>Alison Halliday — NDS</title><link rel="stylesheet" type="text/css" href="http://nds.medsci.ox.ac.uk/portal_css/Turnkey%20Theme/resourcecollective.cookielawcookielaw-cachekey-cb6fa140d79630107d05e03a8fe7e3a6.css" /><link rel="stylesheet" type="text/css" href="http://nds.medsci.ox.ac.uk/portal_css/Turnkey%20Theme/themebootstrapcssbootstrap-cachekey-117eae3ca93a300b2cccfad10fc467b4.css" /><link rel="stylesheet" type="text/css" href="http://nds.medsci.ox.ac.uk/portal_css/Turnkey%20Theme/themebootstrapcssscreen-cachekey-dfb0bc084fc7a43b5d2d87cc9adae967.css" /><link rel="canonical" href="http://nds.medsci.ox.ac.uk/team/academic/alison-halliday" /><link rel="shortcut icon" type="image/x-icon" href="http://nds.medsci.ox.ac.uk//favicon.ico" /><link rel="apple-touch-icon" href="http://nds.medsci.ox.ac.uk//apple-touch-icon.png" /><link rel="search" href="http://nds.medsci.ox.ac.uk/@@search" title="Search this site" /><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjsvendorrespond-cachekey-2173005a4a16792a1c88d1d30028e106.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourceplone.app.jquery-cachekey-cf4202f9449bc3e37e95e49140ca99d8.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/vendor/bootstrap.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorjquery.trunk8-cachekey-e1640b27dd4e878f6f13fe51e9f1562d.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/plone_javascript_variables-cachekey-d81ec20c97f9e3acff76c8f9b2a5e8c7.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourceplone.app.jquerytools-cachekey-a2ac0d7cfafbbee7da80e892e32579f9.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourceplone.app.jquerytools.overlayhelpers-cachekey-5a484c5d3c64b993dcdc5e09ec9577c5.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourcecollective.cookielawcookielaw_init-cachekey-90c10cdb52a226d19d33da2926583c9a.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/modernizr-cachekey-97c5ed226e58402e77a60b61325cbd6b.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/mark_special_links-cachekey-29897bd24f4394755b6362f672939837.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjsplone-cachekey-6cb77ea25f23720a08ec3a2726ea6db5.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorselect2-cachekey-bc6c93bffd0fb53bb2e95d500a5be6ae.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorjquery.quicksearch-cachekey-a6a36707cbd39863b20104e4640f7460.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/plugins/vendor/jquery.html5-placeholder-shim.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/vendor/hammer.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginshaikujquery.navigation-portlets-cachekey-ba0a98bb141c8ef535756d59d7b65968.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendormasonry-cachekey-14e55cfcce79eac0310739a9ade5a68e.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorimagesloaded-cachekey-31848ea140a074e73cfc9af5861261e0.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/turnkey-various.js"></script><script type="text/javascript" src="http://nds.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourcehaiku.feedback.jsjquery.validate-cachekey-00efc56b0e29a637cacfebf313cfbf73.js"></script><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script>
+    <link href="http://nds.medsci.ox.ac.uk/++theme++sublime-ce-soir/screen.css" rel="stylesheet" />
+  
+    <link href="http://nds.medsci.ox.ac.uk/++theme++sublime-ce-soir/style.css" rel="stylesheet" />
+  </head><body class="template-view portaltype-profilepage site-Plone section-team subsection-academic subsection-academic-alison-halliday userrole-anonymous no-toolbar mount-nds" dir="ltr"><div id="cookienotification">
+
+    <div class="cookielaw-site">Cookies on this website</div>
+
+    <div class="cookielaw-text">We use cookies to ensure that we give you the best experience on our website. If you click 'Continue' we'll assume that you are happy to receive all cookies and you won't see this message again. Click 'Find out more' for information on how to change your cookie settings.</div>
+
+    <div class="cookielaw-buttons">
+      <ul class="list-unstyled"><li>
+          <a class="cookie-continue" href="http://nds.medsci.ox.ac.uk/@@enable-cookies?came_from=http://nds.medsci.ox.ac.uk/team/academic/alison-halliday">Continue</a>
+        </li>
+        <li>
+          <a href="http://nds.medsci.ox.ac.uk/cookies">Find out more</a>
+        </li>
+      </ul></div>
+</div><div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-hidden="true"></div><div id="site-header" class="container">
+
+            
+
+            
+
+            <header class="row" style="margin-bottom:20px"><div class="col-sm-6">
+                    <h2><a id="primary-logo" title="NDS" accesskey="1" href="http://nds.medsci.ox.ac.uk">
+    <img src="http://nds.medsci.ox.ac.uk/images/logos/primary-logo/@@images/image" title="NDS" alt="NDS" /></a></h2>
+                </div>
+                <div class="col-sm-6">
+                    <div class="pull-right">
+                        
+  <a target="_blank" href="http://www.ox.ac.uk" title="University of Oxford">
+    <img class="img-responsive logo-secondary" src="http://nds.medsci.ox.ac.uk/images/logos/secondary-logo/@@images/image" title="University of Oxford" alt="University of Oxford" /></a>
+
+                    </div>
+                    <ul id="site-actions" class="list-unstyled list-inline pull-right"><li id="siteaction-staff-intranet"><a href="https://sharepoint.nexus.ox.ac.uk/sites/nds" accesskey="" title="Staff Intranet">Staff Intranet</a></li>
+    <li id="siteaction-accessibility"><a href="http://nds.medsci.ox.ac.uk/accessibility" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-cookie-policy"><a href="http://nds.medsci.ox.ac.uk/cookies" accesskey="" title="Cookies">Cookies</a></li>
+    <li id="siteaction-contact-us"><a href="http://nds.medsci.ox.ac.uk/about-us/contact-us" accesskey="" title="Contact us">Contact us</a></li>
+    <li id="siteaction-login"><a href="https://nds.medsci.ox.ac.uk/team/academic/alison-halliday" accesskey="" title="Log in">Log in</a></li>
+
+</ul></div>
+            </header><nav role="navigation"><div class="row">
+                    <div class="col-sm-10">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle btn btn-default btn-block" data-toggle="collapse" data-target="#site-bar">
+                                <span>Menu</span>
+                            </button>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="site-bar">
+                            <ul id="portal-globalnav" class="nav nav-pills"><li id="portaltab-index_html" class="plain"><a href="http://nds.medsci.ox.ac.uk" title="">Home</a></li><li id="portaltab-about-us" class="plain"><a href="http://nds.medsci.ox.ac.uk/about-us" title="">About us</a></li><li id="portaltab-news" class="plain"><a href="http://nds.medsci.ox.ac.uk/news" title="">News</a></li><li id="portaltab-events" class="plain"><a href="http://nds.medsci.ox.ac.uk/events" title="">Events</a></li><li id="portaltab-research" class="plain"><a href="http://nds.medsci.ox.ac.uk/research" title="">Research</a></li><li id="portaltab-publications" class="plain"><a href="http://nds.medsci.ox.ac.uk/publications" title="">Publications</a></li><li id="portaltab-study-with-us" class="plain"><a href="http://nds.medsci.ox.ac.uk/study-with-us" title="">Study with us</a></li><li id="portaltab-team" class="active"><a href="http://nds.medsci.ox.ac.uk/team" title="">Our team</a></li></ul></div>
+                    </div>
+                    <div class="col-sm-2">
+                        <form action="http://nds.medsci.ox.ac.uk/@@search" id="site-search" class="form-inline" role="form">
+                            <div class="input-group">
+                                <label class="sr-only" for="SearchableText">Search</label>
+                                <input type="text" class="form-control" name="SearchableText" id="SearchableText" placeholder="Search" /><span class="input-group-btn">
+                                    <button class="btn" type="submit"><i class="glyphicon-search"></i></button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </nav><div class="row">
+                <div class="col-md-12">
+                    <ol class="breadcrumb" id="site-breadcrumbs"><li><span class="glyphicon glyphicon-home"></span></li><li><a href="http://nds.medsci.ox.ac.uk/team">Our team</a></li><li><a href="http://nds.medsci.ox.ac.uk/team/academic">Academics</a></li><li class="active">Alison Halliday</li></ol></div>
+            </div>
+
+        </div><div id="content" class="container ">
+
+                            
+
+                            
+
+            <div id="content-source">
+                
+
+                
+
+                <div id="container">
+
+                    
+
+                    <div id="drag-and-drop-wrapper" class="row">
+
+                        <div class="col-md-4 column column-layout">
+                            
+                            
+                                
+
+    <div class="tile tile-image not-removable not-draggable" data-tile-type="image" data-tile-uid="ef4687e553c84fa28ac3a12980d732bd" data-tile-image-scales="mini,24x24,medium_thumb,1200x1200,thumb,feature,listing,tile,preview,layouttile,600x600,200x200,icon,128x128,large_thumb,large,slide,400x400,slide_large,64x64,800x800,32x32" id="portrait">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        <div class="tile-content">
+
+            
+                
+                <figure><img src="http://nds.medsci.ox.ac.uk/team/academic/alison-halliday/portrait/@@images/b514ffc3-2234-4fd5-9059-cd74e4abf63b.jpeg" alt="" title="" height="390" width="300" /></figure></div>
+
+    </div>
+
+
+
+                            
+                            
+                                
+
+    <div class="tile tile-contact not-removable" data-tile-type="contact" data-tile-uid="56b6fc99885c4adda3e606ada5fe56ef" id="contact">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        <div class="box-featured">
+            <h3>Contact information</h3>
+            <table class="table"><tbody><tr class="email"><td>Email</td>
+                      <td><a href="mailto:alison.halliday@nds.ox.ac.uk">alison.halliday@nds.ox.ac.uk</a></td>
+                    </tr></tbody></table></div>
+    </div>
+
+
+
+                            
+                            
+                                
+
+    <div class="tile tile-connections" data-tile-type="connections" data-tile-uid="36696eb686ea41f4901f19d7532a8b5d" id="connectionstile-10">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        <div class="tile-content">
+            <h3>My connections</h3>
+            <ul id="connections" class="medium-list connections-list"></ul><ul id="research-groups" class="medium-list connections-list"><li data-tile-item-uid="de92e909f0734d458e8c883a49b4b86a" data-tile-type="file">
+                        <a href="http://nds.medsci.ox.ac.uk/research/acst2" title="Asymptomatic Carotid Surgery Trial 2 (ACST-2)">
+                            <span>Asymptomatic Carotid Surgery Trial 2 (ACST-2)</span>
+                        </a>
+                        <span class="detail">Research Group</span>
+                    </li>
+                
+            </ul></div>
+
+    </div>
+
+
+
+                            
+                            
+                                
+                            
+                            
+                            <div class="tile tile-dummy"></div>
+                        </div>
+
+                        <div class="col-md-4 column column-layout">
+                            
+                            
+                                
+
+    <div class="tile tile-profile not-removable not-draggable" data-tile-type="profile" data-tile-uid="6395c21f5dd244eaa2d2f473c7ff49c1" id="profile">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        <h1><span class="firstname">Alison</span>  <span class="lastname">Halliday</span></h1>
+        <h6></h6>
+        <hr /><h3 class="no-underline">Academic</h3>
+        
+            <ul class="small-list"><li>Professor of Vascular Surgery</li>
+                
+            </ul></div>
+
+
+
+                            
+                            
+                                
+
+    <div class="tile tile-text" data-tile-type="text" data-tile-uid="1fb5d6e148404c64a57a00130acb046c" id="text">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        
+
+        <div class="tile-content rich-text"><ul><li>Principal Investigator in the Asymptomatic Carotid Surgery Trial (ACST-2),     one of the world's largest clinical surgery trials, involving thousands of     patients from 30 countries;   our     group reported that prophylactic surgery removing tight carotid artery     narrowing (carotid endarterectomy) prevents future fatal &amp; disabling     strokes for at least 10 yrs; this finding has changed worldwide surgical     and stroke practice (Lancet 2004, 2010)</li>
+<li>National Audit; Our group instigated and reported (the UK Carotid     Surgery Audit (2005-8), the largest National Audit of carotid surgery in     the UK -  this work highlighted     shportcomings in the NHS process of referral and of carrying out prompt     carotid artery surgery; we work with the National Stroke Strategy     providing a driver for preventing Stroke by improving surgical services British Medical Journal, 2009)</li>
+<li>Collaborative research; government-funded (NIHR), I work with the     University of Oxford Clinical Trial Service Unit (CTSU),  evaluating  2 stroke prevention technologies in     ACST-2, a large International Trial comparing Carotid Endarterectomy with     Carotid Artery Stenting. This work enables surgeons, stroke physicians,     neurologists, cardiologists and interventional radiologists from many     countries to work together.</li>
+</ul><p> </p></div>
+
+    </div>
+
+
+                            
+                            
+                            <div class="tile tile-dummy"></div>
+                        </div>
+
+                        <div class="col-md-4 column column-layout">
+                            
+                            
+                                
+
+    <div class="tile tile-pubs not-removable not-draggable" data-tile-type="pubs" data-tile-uid="697f958317874a6391d1ac28aaff7c51" id="publications">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        <div class="tile-content">
+
+            
+                <ul id="all-pubs" style="display:none" class="medium-list"><li id="publication-419375" class="pub-item" data-tile-item-uid="d58cd730798848ee90367835bf15309b">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/419375" title="Carotid artery stenting in patients with acute coronary syndrome: a possible primary therapy for symptomatic carotid stenosis." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/419375/modal-view" class="state-synced">Carotid artery stenting in patients with acute coronary syndrome: a possible primary therapy for symptomatic carotid stenosis.</a>
+            <p class="details">
+                Casana R. et al, (2013), J Endovasc Ther, 20, 546 - 551
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-396858" class="pub-item" data-tile-item-uid="6e6ea79cb49146009e3e5ef7d0cf8660">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/396858" title="Risk of stroke from new carotid artery occlusion in the Asymptomatic Carotid Surgery Trial-1." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/396858/modal-view" class="state-synced">Risk of stroke from new carotid artery occlusion in the Asymptomatic Carotid Surgery Trial-1.</a>
+            <p class="details">
+                den Hartog AG. et al, (2013), Stroke, 44, 1652 - 1659
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-411119" class="pub-item" data-tile-item-uid="caac2efe10034cfca4408f18a4788fcc">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/411119" title="The prevalence of abdominal aortic aneurysm, carotid stenosis, peripheral arterial disease and atrial fibrillation among 280,000 screened British and Irish Adults" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/411119/modal-view" class="state-synced">The prevalence of abdominal aortic aneurysm, carotid stenosis, peripheral arterial disease and atrial fibrillation among 280,000 screened British and Irish Adults</a>
+            <p class="details">
+                Bulbulia R. et al, (2013), Vascular Medicine, 18, 155 - 155
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-216098" class="pub-item" data-tile-item-uid="6ed9e4852f64416d9203c37353c5d863">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/216098" title="Carotid artery stenting: the 2011 NICE guidelines." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/216098/modal-view" class="state-synced">Carotid artery stenting: the 2011 NICE guidelines.</a>
+            <p class="details">
+                Neequaye SK. and Halliday AW., (2012), Heart, 98, 274 - 275
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-239751" class="pub-item" data-tile-item-uid="1baccab2d76545e09225d734a58e0f3a">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/239751" title="Current practice of carotid endarterectomy in the UK." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/239751/modal-view" class="state-synced">Current practice of carotid endarterectomy in the UK.</a>
+            <p class="details">
+                Rudarakanchana N. et al, (2012), Br J Surg, 99, 209 - 216
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-252443" class="pub-item" data-tile-item-uid="05e1d69d86b045bbb5af08ef86f04004">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/252443" title="Current practice of carotid endarterectomy in the UK" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/252443/modal-view" class="state-synced">Current practice of carotid endarterectomy in the UK</a>
+            <p class="details">
+                Rudarakanchana N. et al, (2012), British Journal of Surgery, 99, 209 - 216
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-170244" class="pub-item" data-tile-item-uid="770d5d9faf89403a95ac8c6ebef98dbf">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/170244" title="Asymptomatic carotid disease and cardiac surgery consensus." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/170244/modal-view" class="state-synced">Asymptomatic carotid disease and cardiac surgery consensus.</a>
+            <p class="details">
+                Stansby G. et al, (2011), Angiology, 62, 457 - 460
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-252442" class="pub-item" data-tile-item-uid="2aac8aa1ff614e1aa54799f15408ed0b">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/252442" title="Invited commentary: outcome of carotid artery interventions among female patients, 2004 to 2005." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/252442/modal-view" class="state-synced">Invited commentary: outcome of carotid artery interventions among female patients, 2004 to 2005.</a>
+            <p class="details">
+                Halliday A., (2011), J Vasc Surg, 53, 1464 - 1465
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-252441" class="pub-item" data-tile-item-uid="45851445e0a947afb64768594365efe7">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/252441" title="Controversies in neurology: asymptomatic carotid stenosis--intervention or just stick to medical therapy. The argument for carotid endarterectomy." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/252441/modal-view" class="state-synced">Controversies in neurology: asymptomatic carotid stenosis--intervention or just stick to medical therapy. The argument for carotid endarterectomy.</a>
+            <p class="details">
+                Hirt L. and Halliday A., (2011), J Neural Transm, 118, 631 - 636
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-120278" class="pub-item" data-tile-item-uid="362fe3b97494465b8766670c671fe0aa">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/120278" title="Best medical treatment for a symptomatic carotid artery stenosis Reply" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/120278/modal-view" class="state-synced">Best medical treatment for a symptomatic carotid artery stenosis Reply</a>
+            <p class="details">
+                Halliday A. et al, (2011), Lancet, 377, 123 - 124
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-252451" class="pub-item" data-tile-item-uid="d5555496fff04d678c1fd71c2d874c47">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/252451" title="The risk of occlusion and associated events in the Asymptomatic Carotid Surgery Trial: a 10-year prospective study" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/252451/modal-view" class="state-synced">The risk of occlusion and associated events in the Asymptomatic Carotid Surgery Trial: a 10-year prospective study</a>
+            <p class="details">
+                den Hartog AG. et al, (2011), British Journal of Surgery, 98, 11 - 11
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-252455" class="pub-item" data-tile-item-uid="aab3ee4497534f9f96815c88a2d4dbd1">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/252455" title="Combined medical therapy and carotid endarterectomy for asymptomatic stenosis: 10-year stroke prevention in ACST-1" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/252455/modal-view" class="state-synced">Combined medical therapy and carotid endarterectomy for asymptomatic stenosis: 10-year stroke prevention in ACST-1</a>
+            <p class="details">
+                Halliday A. and Collaborators ACST., (2011), British Journal of Surgery, 98, 9 - 9
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-252445" class="pub-item" data-tile-item-uid="cb066fdc5981409796463eb0119aa5ad">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/252445" title="NICE carotid artery stenting: A summary of the 2011 guidelines" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/252445/modal-view" class="state-synced">NICE carotid artery stenting: A summary of the 2011 guidelines</a>
+            <p class="details">
+                Neequaye SK. and Halliday AW., (2011), Heart
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-97244" class="pub-item" data-tile-item-uid="199f5b2a05544adf959639245f1981ac">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/97244" title="Intensive lowering of LDL cholesterol with 80 mg versus 20 mg simvastatin daily in 12,064 survivors of myocardial infarction: a double-blind randomised trial." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/97244/modal-view" class="state-synced">Intensive lowering of LDL cholesterol with 80 mg versus 20 mg simvastatin daily in 12,064 survivors of myocardial infarction: a double-blind randomised trial.</a>
+            <p class="details">
+                Study of the Effectiveness of Additional Reductions in Cholesterol and Homocysteine (SEARCH) Collaborative Group None. et al, (2010), Lancet, 376, 1658 - 1669
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-79855" class="pub-item" data-tile-item-uid="c48eab81deca4eddb4adcaa94f3cfb16">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/79855" title="10-year stroke prevention after successful carotid endarterectomy for asymptomatic stenosis (ACST-1): a multicentre randomised trial." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/79855/modal-view" class="state-synced">10-year stroke prevention after successful carotid endarterectomy for asymptomatic stenosis (ACST-1): a multicentre randomised trial.</a>
+            <p class="details">
+                Halliday A. et al, (2010), Lancet, 376, 1074 - 1084
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-132247" class="pub-item" data-tile-item-uid="d65f89ba24f04df4bb8079ade68f2e65">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/132247" title="Carotid artery stenting compared with endarterectomy in patients with symptomatic carotid stenosis (International Carotid Stenting Study): an interim analysis of a randomised controlled trial" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/132247/modal-view" class="state-synced">Carotid artery stenting compared with endarterectomy in patients with symptomatic carotid stenosis (International Carotid Stenting Study): an interim analysis of a randomised controlled trial</a>
+            <p class="details">
+                Ederle J. et al, (2010), Lancet, 375, 985 - 997
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309121" class="pub-item" data-tile-item-uid="2d26945bed614f629b14601237dbc184">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309121" title="Carotid artery stenosis." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309121/modal-view" class="state-synced">Carotid artery stenosis.</a>
+            <p class="details">
+                Halliday A. and Norris JW., (2010), Bmj, 340
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-310182" class="pub-item" data-tile-item-uid="be9f41d352c74d0c86b52de097bfb66c">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/310182" title="The United Kingdom EVAR Trial Investigators. Endovascular versus Open Repair of Abdominal Aortic Aneurysm" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/310182/modal-view" class="state-synced">The United Kingdom EVAR Trial Investigators. Endovascular versus Open Repair of Abdominal Aortic Aneurysm</a>
+            <p class="details">
+                Halliday AW., (2010), New England Journal of Medicine
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309115" class="pub-item" data-tile-item-uid="1674182aaf1d4bb6a6a3bb914600e679">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309115" title="Asymptomatic Carotid Surgery Trial-2 (ACST-2): rationale for a randomised clinical trial comparing carotid endarterectomy with carotid artery stenting in patients with asymptomatic carotid artery stenosis." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309115/modal-view" class="state-synced">Asymptomatic Carotid Surgery Trial-2 (ACST-2): rationale for a randomised clinical trial comparing carotid endarterectomy with carotid artery stenting in patients with asymptomatic carotid artery stenosis.</a>
+            <p class="details">
+                Rudarakanchana N. et al, (2009), Eur J Vasc Endovasc Surg, 38, 239 - 242
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-119915" class="pub-item" data-tile-item-uid="3390ae0bed80429ea92ba34f5980b6cf">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/119915" title="Waiting times for carotid endarterectomy in UK: observational study." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/119915/modal-view" class="state-synced">Waiting times for carotid endarterectomy in UK: observational study.</a>
+            <p class="details">
+                Halliday AW. et al, (2009), Bmj, 338
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309107" class="pub-item" data-tile-item-uid="40f4c6eabe7b475cbcfe3756f5b79a74">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309107" title="Assessment of carotid compliance using real time vascular ultrasound image analysis in Marfan syndrome" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309107/modal-view" class="state-synced">Assessment of carotid compliance using real time vascular ultrasound image analysis in Marfan syndrome</a>
+            <p class="details">
+                Kiotsekoglou A. et al, (2007), Circulation, 116, 461 - 461
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309108" class="pub-item" data-tile-item-uid="2a6f5978c68f4550bb37e7331a106033">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309108" title="Characterisation of progenitor cells in human atherosclerotic vessels." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309108/modal-view" class="state-synced">Characterisation of progenitor cells in human atherosclerotic vessels.</a>
+            <p class="details">
+                Torsney E. et al, (2007), Atherosclerosis, 191, 259 - 264
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309112" class="pub-item" data-tile-item-uid="ab432f259df845429acaa8389c89a6db">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309112" title="The prevalence of thrombophilia in patients with symptomatic peripheral vascular disease." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309112/modal-view" class="state-synced">The prevalence of thrombophilia in patients with symptomatic peripheral vascular disease.</a>
+            <p class="details">
+                Vig S. et al, (2006), Br J Surg, 93, 577 - 581
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309119" class="pub-item" data-tile-item-uid="b2386a3c329943d2bccf46b9229e1b2e">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309119" title="Prevalence of thrombophilia in patients with coronary artery and peripheral vascular disease" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309119/modal-view" class="state-synced">Prevalence of thrombophilia in patients with coronary artery and peripheral vascular disease</a>
+            <p class="details">
+                Vig S. et al, (2004), British Journal of Surgery, 91, 1234 - 1234
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309111" class="pub-item" data-tile-item-uid="d7af01fbfe654b8bba378309d5ea182e">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309111" title="Prevalence and risk of thrombophilia defects in vascular patients." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309111/modal-view" class="state-synced">Prevalence and risk of thrombophilia defects in vascular patients.</a>
+            <p class="details">
+                Vig S. et al, (2004), Eur J Vasc Endovasc Surg, 28, 124 - 131
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-79652" class="pub-item" data-tile-item-uid="54e0f00239524782a90f1f83836c3209">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/79652" title="Prevention of disabling and fatal strokes by successful carotid endarterectomy in patients without recent neurological symptoms: randomised controlled trial." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/79652/modal-view" class="state-synced">Prevention of disabling and fatal strokes by successful carotid endarterectomy in patients without recent neurological symptoms: randomised controlled trial.</a>
+            <p class="details">
+                Halliday A. et al, (2004), Lancet, 363, 1491 - 1502
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309120" class="pub-item" data-tile-item-uid="ea2072d0e9a347cabe28c3be53fd1c6b">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309120" title="Identification of a high-risk subgroup in patients with coronary and peripheral arterial disease" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309120/modal-view" class="state-synced">Identification of a high-risk subgroup in patients with coronary and peripheral arterial disease</a>
+            <p class="details">
+                Vig S. et al, (2004), British Journal of Surgery, 91, 143 - 143
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309103" class="pub-item" data-tile-item-uid="bcb32666e8b946c7b44b4fa5403a9c15">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309103" title="Is ultrasound sufficient for vascular imaging prior to carotid endarterectomy?" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309103/modal-view" class="state-synced">Is ultrasound sufficient for vascular imaging prior to carotid endarterectomy?</a>
+            <p class="details">
+                Norris JW. and Halliday A., (2004), Stroke, 35, 370 - 371
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309125" class="pub-item" data-tile-item-uid="741ab07c26d445119f69f3122ae2b556">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309125" title="Hypercoagulability predicts poor outcome from coronary intervention in patients with peripheral vascular disease" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309125/modal-view" class="state-synced">Hypercoagulability predicts poor outcome from coronary intervention in patients with peripheral vascular disease</a>
+            <p class="details">
+                Sleight SP. et al, (2003), Arteriosclerosis Thrombosis and Vascular Biology, 23, A23 - A23
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309109" class="pub-item" data-tile-item-uid="1057c5e883b84019bb5a0d09ad0d3627">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309109" title="Asymptomatic carotid stenosis in patients on medical treatment alone." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309109/modal-view" class="state-synced">Asymptomatic carotid stenosis in patients on medical treatment alone.</a>
+            <p class="details">
+                Sleight SP. et al, (2002), Eur J Vasc Endovasc Surg, 23, 519 - 523
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309105" class="pub-item" data-tile-item-uid="39b7e0c7f2a24376a5b6d1dfe26151b1">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309105" title="Effect of best medical treatment on carotid stenosis in patients with diabetes from the Asymptomatic Carotid Surgery Trial" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309105/modal-view" class="state-synced">Effect of best medical treatment on carotid stenosis in patients with diabetes from the Asymptomatic Carotid Surgery Trial</a>
+            <p class="details">
+                Sleight SP. et al, (2002), British Journal of Surgery, 89, 519 - 519
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-309104" class="pub-item" data-tile-item-uid="7c35c81f76c2476887dfb9a3143abdfe">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/309104" title="Poor outcome following revascularization predicted by thromboelastography" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/309104/modal-view" class="state-synced">Poor outcome following revascularization predicted by thromboelastography</a>
+            <p class="details">
+                Vig S. et al, (2001), British Journal of Surgery, 88, 621 - 622
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                </ul><h3 id="recent_pubs_label">Recent Publications</h3>
+                <span id="recent_pubs_limit" class="hide">5</span>
+                <ul id="recent-pubs" class="medium-list"><li id="publication-419375" class="pub-item" data-tile-item-uid="d58cd730798848ee90367835bf15309b">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/419375" title="Carotid artery stenting in patients with acute coronary syndrome: a possible primary therapy for symptomatic carotid stenosis." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/419375/modal-view" class="state-synced">Carotid artery stenting in patients with acute coronary syndrome: a possible primary therapy for symptomatic carotid stenosis.</a>
+            <p class="details">
+                Casana R. et al, (2013), J Endovasc Ther, 20, 546 - 551
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-396858" class="pub-item" data-tile-item-uid="6e6ea79cb49146009e3e5ef7d0cf8660">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/396858" title="Risk of stroke from new carotid artery occlusion in the Asymptomatic Carotid Surgery Trial-1." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/396858/modal-view" class="state-synced">Risk of stroke from new carotid artery occlusion in the Asymptomatic Carotid Surgery Trial-1.</a>
+            <p class="details">
+                den Hartog AG. et al, (2013), Stroke, 44, 1652 - 1659
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-411119" class="pub-item" data-tile-item-uid="caac2efe10034cfca4408f18a4788fcc">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/411119" title="The prevalence of abdominal aortic aneurysm, carotid stenosis, peripheral arterial disease and atrial fibrillation among 280,000 screened British and Irish Adults" data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/411119/modal-view" class="state-synced">The prevalence of abdominal aortic aneurysm, carotid stenosis, peripheral arterial disease and atrial fibrillation among 280,000 screened British and Irish Adults</a>
+            <p class="details">
+                Bulbulia R. et al, (2013), Vascular Medicine, 18, 155 - 155
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-216098" class="pub-item" data-tile-item-uid="6ed9e4852f64416d9203c37353c5d863">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/216098" title="Carotid artery stenting: the 2011 NICE guidelines." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/216098/modal-view" class="state-synced">Carotid artery stenting: the 2011 NICE guidelines.</a>
+            <p class="details">
+                Neequaye SK. and Halliday AW., (2012), Heart, 98, 274 - 275
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-239751" class="pub-item" data-tile-item-uid="1baccab2d76545e09225d734a58e0f3a">
+                            
+
+    
+
+        
+            <a href="http://nds.medsci.ox.ac.uk/publications/239751" title="Current practice of carotid endarterectomy in the UK." data-toggle="modal" data-target="#modal" data-remote="http://nds.medsci.ox.ac.uk/publications/239751/modal-view" class="state-synced">Current practice of carotid endarterectomy in the UK.</a>
+            <p class="details">
+                Rudarakanchana N. et al, (2012), Br J Surg, 99, 209 - 216
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                </ul><a class="more" href="http://nds.medsci.ox.ac.uk/publications?author=alison-halliday" title="View 27 more">View 27 more »</a>
+            
+
+        </div>
+
+    </div>
+
+
+
+                            
+                            
+                            <div class="tile tile-dummy"></div>
+                        </div>
+
+                    </div><!-- End drag-and-drop-wrapper -->
+
+                </div><!-- End container -->
+
+            
+            </div>
+
+            
+
+        
+                        </div><footer id="site-footer" class="container"><hr /><div class="row" style="margin-bottom:20px">
+
+        <div class="col-md-4">
+            
+                <a id="footer-logo" target="_blank" href="http://www.medsci.ox.ac.uk" title="Medical Sciences Division, University of Oxford">
+                    <img class="img-responsive logo-footer" src="http://nds.medsci.ox.ac.uk/images/logos/footer-logo/@@images/image" title="Medical Sciences Division, University of Oxford" alt="Medical Sciences Division, University of Oxford" /></a>
+            
+        </div>
+
+        <div class="col-md-8">
+            
+                <div id="site-copyright">
+                    ©
+                    2015
+                    Nuffield Department of Surgical Sciences, John Radcliffe Hospital, Headington, Oxford, OX3 9DU
+                </div>
+            
+            
+                <ul id="footer-nav" class="list-inline"><li>
+                            <a href="http://www.admin.ox.ac.uk/foi" title="Freedom of Information" target="_blank">Freedom of Information</a>
+                        </li>
+                    
+                    
+                        <li>
+                            <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy" title="Privacy Policy" target="_blank">Privacy Policy</a>
+                        </li>
+                    
+                    
+                        <li>
+                            <a href="http://www.ox.ac.uk/copyright" title="Copyright Statement" target="_blank">Copyright Statement</a>
+                        </li>
+                    
+                    
+                        <li>
+                            <a href="http://www.ox.ac.uk/accessibility" title="Accessibility Statement" target="_blank">Accessibility Statement</a>
+                        </li>
+                    
+                </ul></div>
+    </div>
+
+
+
+    </footer>
+    
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-13194819-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body></html>

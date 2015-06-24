@@ -80,6 +80,15 @@
              description="number of seminar in text">
         <list policy="sum">seminar.wd</list>
     </feature>
+
+    <feature id="f14"
+             name="#ratio:text[LOCATION-TIME]"
+             description="ratio between LOCATION and TIME entities"
+             policy="div">
+        <list policy="sum">location.ent</list>
+        <list policy="sum">datetime.ent</list>
+
+    </feature>
     <!-- already labeled with same hash, url, same content_hash-->
 
 </featurespace>

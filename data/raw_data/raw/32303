@@ -1,0 +1,188 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	Sign In - Admissions
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=chemistry-layout&amp;s=21&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Admissions User Sign In Page" />
+<meta property="og:description" content="Admissions User Sign In Page" />
+<link rel="search" type="application/opensearchdescription+xml" title="Admissions Site Search" href="http://admissions.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	
+<link rel='shortcut icon' href='/Data/Sites/21/skins/chemistry-layout/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script></head>
+<body id="ctl00_Body" class="pagebody loginpage">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="5" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzYzNTI5MDQxD2QWAmYPZBYCAgMPFgIeBWNsYXNzBRJwYWdlYm9keSBsb2dpbnBhZ2UWAgIDD2QWEAINDw8WAh4HVmlzaWJsZWhkZAIXDw8WAh8BaGRkAiMPDxYCHwFoZGQCJw8PFgIeCEltYWdlVXJsBTUvRGF0YS9TaXRlcy8yMS9za2lucy9jaGVtaXN0cnktbGF5b3V0L2hlYWRlcnBob3RvLmpwZ2RkAikPDxYGHghDc3NDbGFzcwUQbGVmdHNpZGUgY21zem9uZR4EXyFTQgICHwFoZBYCAgEPDxYCHwFoZBYCAgIPZBYCZhA8KwAJAgAPFggeC18hRGF0YUJvdW5kZx4MRGF0YVNvdXJjZUlEBRFQYWdlTWFwRGF0YVNvdXJjZR4NUGF0aFNlcGFyYXRvcgR8Hg1OZXZlckV4cGFuZGVkZ2QIFCsABAULMDowLDA6MSwwOjIUKwACFgweBFRleHQFE0FkbWlzc2lv" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="bnMgQ3JpdGVyaWEeBVZhbHVlBSQ3MzM5MzI2MS0yZWY3LTQ4ZjItOTE2ZC1mN2M3ODhlODViZjEeC05hdmlnYXRlVXJsBRp+L2FkbWlzc2lvbnMtY3JpdGVyaWEuYXNweB4IRGF0YVBhdGgFAzg0OB4JRGF0YUJvdW5kZx4QUG9wdWxhdGVPbkRlbWFuZGhkFCsAAhYMHwkFE0Z1cnRoZXIgaW5mb3JtYXRpb24fCgUkN2FkZDlmMjYtZDQ0MC00Yzc0LTgwMmQtZGJjNWZmMjRmNzI3HwsFGn4vZnVydGhlci1pbmZvcm1hdGlvbi5hc3B4HwwFAzg0OR8NZx8OaGQUKwACFgwfCQUJT3BlbiBkYXlzHwoFJDQ3MWMyODRmLTYxZWUtNDBhOC1hYWJhLWU4ZDIyOWNjNGJhMB8LBRB+L29wZW4tZGF5cy5hc3B4HwwFAzg1MB8NZx8OZxQrAAMFBzA6MCwwOjEUKwACFgwfCQUJSnVs" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="eSAyMDE1HwoFJGE0MTkzOThkLWNiMjgtNDZhMC1iNGE2LTM1MzFlNmRhODM0Mh8LBRB+L2p1bHktMjAxNS5hc3B4HwwFAzg1MR8NZx8OaGQUKwACFgwfCQUOU2VwdGVtYmVyIDIwMTUfCgUkNDJjMzZmZDItZDI5ZS00MjQxLTlmMDAtMjNhOGI4MGU0MzM3HwsFFX4vc2VwdGVtYmVyLTIwMTUuYXNweB8MBQM5OTUfDWcfDmhkBQ1jdGwwMCRjdGwwNHxuZAIrDw8WBB8DBTlhcnQtbGF5b3V0LWNlbGwgYXJ0LWNvbnRlbnQtd2lkZSBjZW50ZXItbm9tYXJnaW5zIGNtc3pvbmUfBAICZBYCAgUPZBYCAgMPZBYGAgUPZBYCAgEPZBYCZg88KwAKAQAPFgQeD0xvZ2luRXJyb3JDb3VudGYeEkRlc3RpbmF0aW9uUGFnZVVybAUfaHR0cDovL2FkbWlzc2lvbnMuY2hlbS5veC5h" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="Yy51a2QWAmYPZBYCAgEPZBYKAgsPEA8WBB4HQ2hlY2tlZGgfCQUcUmVtZW1iZXIgTWUgT24gVGhpcyBDb21wdXRlcmRkZGQCDQ8PFgIfAWhkFgICAQ9kFgJmDw8WAh4HRW5hYmxlZGhkZAIPDw8WBh8JBQdTaWduIEluHwMFPCBqcWJ1dHRvbiB1aS1idXR0b24gdWktd2lkZ2V0IHVpLXN0YXRlLWRlZmF1bHQgdWktY29ybmVyLWFsbB8EAgJkZAITDw8WBB8LBTtodHRwOi8vYWRtaXNzaW9ucy5jaGVtLm94LmFjLnVrL1NlY3VyZS9SZWNvdmVyUGFzc3dvcmQuYXNweB8JBRBSZWNvdmVyIFBhc3N3b3JkZGQCFQ8PFgYfCwU0aHR0cDovL2FkbWlzc2lvbnMuY2hlbS5veC5hYy51ay9TZWN1cmUvUmVnaXN0ZXIuYXNweB8JBQhSZWdpc3Rlch8BaGRkAgcPZBYCAgEPDxYC" />
+<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="HwFoZBYCZg8WAh8JBRl3aXRoIHlvdXIgV2luZG93cyBMaXZlIElEZAIJD2QWAgIBDxYCHwkFAk9yZAItDw8WBh8DBRFyaWdodHNpZGUgY21zem9uZR8EAgIfAWhkZAI7Dw8WAh8BaGRkGAIFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBS1jdGwwMCRtYWluQ29udGVudCRsb2dpbjEkTG9naW5DdHJsJFJlbWVtYmVyTWUFFWN0bDAwJFNpdGVNZW51MSRjdGwwMA8PZAUkMDhiZDBlZDAtNWU0OC00NzE0LWFhOTgtMWZiOTQ5MzI2NGE2ZN41xNVkgHsijB4LWj8qPDImc28D" />
+
+
+<script src="/ScriptResource.axd?d=EHWBFVSWDap_XQ_f-DdPnRIFtYlp7qloWf8E-c_pw9lbfIlFYZX-NWF4yFrDSwYWajicVe30fw0G13MBrguNr_81NuPq592ItKI_frsocFrUdcnz3xNwz2ozYPuzUBOsC1s5izc_J8Q03gn262AmXueXPgNtWKgrQkhA_5AGLCbFhnFzZLVM__0n24ZbSzxOp0n0wj8B_bG9hxoW4_qNR7FiJoXy4oUtoBiGrcXfL_WwpeE7kGOaoU2NYxyteRKrUQr7tbLf0DtSgZMo8rlPxtvLuznmM_AJMv1y3FTeWOg8-5JuhxdGCHj4y_sfQFsStPAEMOhz1CmYE58WimRbYCeUEY5oDgJV928fb645ygaQNwCwg6u0ruY0ll_5ezFnxPH2Ag2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="88FDF362" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAapVY6kqlcPm1IyTbcEbrXcQByq9jlQk/1tLp1uoarmY6zwXBGyR1YavJ5y6qNTyRcGz941vGC/6lSKdV570ibeY3Letv4eKHRG9tUCNyCwKH7SvcSw6rXyqq+WqxWXas/YOs/Lvu5OFBoB9RD2PESMAXYE5Q==" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://admissions.chem.ox.ac.uk/Default.aspx'>Admissions</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+	    
+		
+	    <div class="topnav">
+            <ul>
+            
+            <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+            <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+            
+            
+            
+            
+            
+            <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+            <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx">Sign In</a></li>
+            
+            </ul>  
+        </div>    
+        <div id="ctl00_InsecurePanel1" class="addthisbutton">
+	
+		      
+        
+</div>
+    </div>
+    <div id="wrapcenter">
+        <img id="ctl00_imgs1" class="headerphoto" border="0" usemap="#headerMap" src="/Data/Sites/21/skins/chemistry-layout/headerphoto.jpg" alt="Department of Chemsitry" />
+<map name="headerMap" id="Map">
+  <area shape="rect" coords="6,30,504,96" href="http://www.chem.ox.ac.uk" />
+  <area shape="rect" coords="533,17,798,103" href="http://www.ox.ac.uk" />
+</map>
+	    
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content-wide center-nomargins cmszone">
+	
+            
+	        
+	        
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id="ctl00_mainContent_pnlLogin" class="panelwrapper login">
+		
+<div class="modulecontent">
+<fieldset>
+    <legend>
+        Sign In
+    </legend>
+    
+    <div id="ctl00_mainContent_pnlStandardLogin" class="floatpanel">
+			
+    
+        <div id="ctl00_mainContent_login1_LoginCtrl_pnlLContainer">
+				
+            <div class="settingrow idrow">
+                <strong>
+                    <label for="ctl00_mainContent_login1_LoginCtrl_UserName">Email</label>
+                    
+                </strong>
+                <br />
+                <input name="ctl00$mainContent$login1$LoginCtrl$UserName" type="text" maxlength="100" id="ctl00_mainContent_login1_LoginCtrl_UserName" class="normaltextbox signinbox" />
+            </div>
+            <div class="settingrow passwordrow">
+                <strong>
+                    <label for="ctl00_mainContent_login1_LoginCtrl_Password">Password</label>
+                </strong>
+                <br />
+                <input name="ctl00$mainContent$login1$LoginCtrl$Password" type="password" id="ctl00_mainContent_login1_LoginCtrl_Password" class="normaltextbox passwordbox" />
+            </div>
+            <div class="settingrow rememberrow">
+                <input id="ctl00_mainContent_login1_LoginCtrl_RememberMe" type="checkbox" name="ctl00$mainContent$login1$LoginCtrl$RememberMe" /><label for="ctl00_mainContent_login1_LoginCtrl_RememberMe">Remember Me On This Computer</label>
+            </div>
+            
+            <div class="settingrow buttonrow">
+                <input type="submit" name="ctl00$mainContent$login1$LoginCtrl$Login" value="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$mainContent$login1$LoginCtrl$Login&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_mainContent_login1_LoginCtrl_Login" class=" jqbutton ui-button ui-widget ui-state-default ui-corner-all" />
+                <br />
+                
+            </div>
+            <div class="settingrow registerrow">
+                <a id="ctl00_mainContent_login1_LoginCtrl_lnkPasswordRecovery" class="lnkpasswordrecovery" href="http://admissions.chem.ox.ac.uk/Secure/RecoverPassword.aspx">Recover Password</a>&nbsp;&nbsp;
+                
+            </div>
+        
+			</div>
+    &nbsp;
+
+
+    
+		</div>
+    <div class="floatpanel">
+    
+    
+    
+    </div>
+    
+</fieldset>
+</div>
+
+	</div> 
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>	
+
+	    
+</div>
+	    		
+	</div>
+	<div id="wrapfooter">
+	    <br class="clear" />
+	    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+	    <a href='/Secure/Login.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> | 
+	    &copy; 2008 - 2015 Department of Chemistry - University of Oxford
+	    <br /><br />
+		<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+		<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+		<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://admissions.chem.ox.ac.uk/csshandler.ashx?skin=chemistry-layout'  title='Valid CSS'>CSS</a> |
+        <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+	</div>
+</div>
+<script type="text/javascript">
+function HideMenuToolbar(){ $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow");}
+function ShowMenuToolbar(){ $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow");}
+$(document).ready(function(){ 
+  $("span.downarr a").click(function() {HideMenuToolbar(); Set_Cookie('openstate', 'closed')});
+  $("span.showbar a").click(function() {ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+  $("span.downarr a, span.showbar a").click(function() { return false; });	
+	var openState = Get_Cookie('openstate');
+	if(openState != null){ if(openState == 'closed'){HideMenuToolbar();} if(openState == 'open'){ShowMenuToolbar();}}
+});	
+</script>
+
+
+<div>
+	<input type="hidden" name="ctl00$ctl04" id="ctl00_ctl04" />
+</div>
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

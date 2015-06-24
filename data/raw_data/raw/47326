@@ -1,0 +1,1318 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta name="verify-v1" content="ArFRVMiwDUElwTyhIynUxmerdDbLpIUMcvZDcwPYd9s=" >
+<link rel="unapi-server" type="application/xml" title="unAPI" href="/unapi">
+    <link rel="stylesheet" href="/base.css" type="text/css" media="screen and (min-device-width: 481px)"/>
+    <link rel="stylesheet" href="/mobile.css" type="text/css" media="handheld" />
+	<link rel="stylesheet" href="/orastyle.css" type="text/css" media="screen and (min-device-width: 481px)"/>
+	<!--[if lte IE 8]><link rel="stylesheet" href="/orastyle.css" type="text/css" media="screen"/><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="/oraiestyle.css" type="text/css" media="screen"/><![endif]-->
+	<!--[if lte IE 7]><link rel="stylesheet" href="/oraie7style.css" type="text/css" media="screen"/><![endif]-->
+	<link rel="stylesheet" href="/jquery.hoverscroll.css" type="text/css" />
+	
+  <title> Browse - Search through the archive</title>
+
+	<script type="text/javascript" src="/scripts/jquery.js"></script>
+	<script type="text/javascript" src="/scripts/jquery.backstretch.min.js"></script>
+	<script type="text/javascript" src="/scripts/jquery.hoverscroll.js"></script>
+	<script type='text/javascript' src="/scripts/clearsearch.js"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+});
+</script>
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>	
+<script type='text/javascript'>
+  $(document).ready( function() {
+
+  $('a.delete').click( function() {
+    var theAnchor = this;
+    var redirectURL = $(this).attr('data-url');
+    if ( confirm('Are you sure you want to delete this?' ) )
+      $.ajax({
+        type: 'DELETE',
+        url: $(this).attr('href'),
+        dataType: 'json',
+        success: function() {
+            var toRemove = $(theAnchor).attr('data-remove');
+            $("#" + toRemove).remove();
+            window.location.replace(redirectURL);
+        },
+        error: function (XMLHttpRequest, textStatus, errorThrown) {
+          alert("Ooooops!, request failed with status: " + XMLHttpRequest.status + ' ' + XMLHttpRequest.responseText);
+        }
+      });
+    return false;
+  });
+});
+        </script>
+</head>
+<body>
+<div id="wrapper">
+	<div id="headerback"></div>
+    <div id="header">
+		<a id="skip" href="#main">Skip to Content</a>
+		<div id="logo">
+			<a href="/">
+				<img src="/oramainlogo.png" alt="Oxford University Research Archive Logo" />
+			</a>
+		</div>
+		<ul id="headernav">
+			<li><a href="/search/detailed">Search</a></li>
+			<li><a href="/information/contribute">Contribute</a></li>
+			<li><a href="/browse">Browse</a></li>
+			<li><a href="/catalog">Catalog</a></li>
+			<li class="last"><a href="http://www.bodleian.ox.ac.uk/ora">Help</a></li>
+		</ul>
+		<div id="bodlogo">
+			<a href="http://www.bodleian.ox.ac.uk">
+				<img src="/bodtrans.png" alt="Bodleian Library Logo" />
+			</a>
+		</div>
+    </div>
+    <!-- Put alert notices here -->
+    <!-- <div class="alert">
+      Planned interruption to ORA on Tuesdays from 7am to 11am over the coming month.
+      <a href="/information/latest">Read more</a>
+    </div> -->
+	<div id="page_content">
+		
+
+
+
+
+
+
+
+<div id="main">
+  <div id="links">
+    <p><a href="/search/detailed">SEARCH</a><a href="/information/contribute">CONTRIBUTE</a><a class="active" href="/browse">BROWSE</a></p>
+  </div>
+  <div id="search">
+  <form action="/search/detailed" method="get">
+    <label for="q">Search Terms</label>
+    <input type="text" id="q" name="q" alt="Search" value>
+    <label for="ft">Filter</label>
+    <select id="ft" name="filtercontainsFullText">
+      <option value="">All records</option>
+      <option value="true">Records with Full Text</option>
+    </select>
+    <input id="commit" name="search" type="submit" value="SEARCH">
+  </form>
+  <a href="http://www.bodleian.ox.ac.uk/ora/about/search-tips" target="_blank">Help</a>
+  <div class="clear"></div>
+</div>
+
+
+  <div id="browse" class="bfield">
+		<div class="browsetop">
+			<div class="browseleft">
+			<a href="/browse" align="right">Back to Browse</a>
+                        </div>
+			<div class="browseright">
+			Sort by:
+				&nbsp;&nbsp;<b>Count</b>
+			&nbsp;&nbsp;|
+				<a href="/browse/faculty?sort=index&start=0">Name</a>
+			</div>
+                <div class="clear"></div>
+		
+<div class="paginated_results">
+        
+<span class="numbers">
+<span class="pagination_label highlighted_page">
+<a href="/browse/faculty?start=0&sort=count">&#171;</a>
+</span>
+		
+		
+<span class="pagination_label highlighted_page">
+            
+			
+			
+			
+<a href="/browse/faculty?start=0&sort=count">1</a>
+</span>
+<span class="pagination_label">
+            
+			
+			
+			
+<a href="/browse/faculty?start=500&sort=count">2</a>
+</span>
+<span class="pagination_label">
+            
+			
+			
+			
+<a href="/browse/faculty?start=1000&sort=count">3</a>
+</span>
+<span class="pagination_label">
+            
+			
+			
+			
+<a href="/browse/faculty?start=1500&sort=count">4</a>
+</span>
+<span class="pagination_label">
+            
+			
+			
+			
+<a href="/browse/faculty?start=2000&sort=count">5</a>
+</span>
+<span class="ellipse">&#133;</span>
+<span class="pagination_label">
+<a href="/browse/faculty?start=2000&sort=count">&#187;</a>
+</span>
+</span><!--class=numbers-->
+
+</div><!--class=paginated_results-->
+<p>&nbsp;</p>
+
+
+                <div class="clear"></div>
+		</div>
+				
+		<div id="browseleft">
+		<div id="faculty">
+		<ul>
+		<li id="bl1"><a id="ba1" href="#">Faculty</a></li>
+		</ul>		
+		</div>
+		</div>
+		<div id="browseright">
+		<div>
+		<ul>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Politics%20and%20Int%20Relations%22">Politics and Int Relations</a> - (494)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Engineering%20Science%22">Mathematical,Physical &amp; Life Sciences Division - Engineering Science</a> - (482)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Centre%20for%20the%20Environment%20-%20Transport%20Studies%20Unit%22">Social Sciences Division - Centre for the Environment - Transport Studies Unit</a> - (460)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%20and%20Physical%20Sciences%20Division%22">Mathematical and Physical Sciences Division</a> - (443)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Physics%20-%20Astrophysics%22">Mathematical,Physical &amp; Life Sciences Division - Physics - Astrophysics</a> - (366)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Zoology%22">Mathematical,Physical &amp; Life Sciences Division - Zoology</a> - (334)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Economics%22">Social Sciences Division - Economics</a> - (300)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Environment%2CCentre%20for%20the%20-%20Geography%2CSchool%20of%22">Social Sciences Division - Environment,Centre for the - Geography,School of</a> - (259)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%22">Medical Sciences Division</a> - (256)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Philosophy%20Faculty%22">Humanities Division - Philosophy Faculty</a> - (254)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Queen%20Elizabeth%20House%2CDepartment%20of%20International%20Development%22">Social Sciences Division - Queen Elizabeth House,Department of International Development</a> - (246)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Mathematical%20Institute%22">Mathematical,Physical &amp; Life Sciences Division - Mathematical Institute</a> - (241)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Politics%20and%20International%20Relations%22">Social Sciences Division - Politics and International Relations</a> - (229)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Experimental%20Psychology%22">Medical Sciences Division - Experimental Psychology</a> - (205)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Anthropology%20and%20Museum%20Ethnography%2CSchool%20of%20-%20Social%20%26%20Cultural%20Anthropology%2CInstitute%20of%22">Social Sciences Division - Anthropology and Museum Ethnography,School of - Social &amp; Cultural Anthropology,Institute of</a> - (202)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20History%20Faculty%22">Humanities Division - History Faculty</a> - (200)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%22">Humanities Division</a> - (186)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Modern%20History%22">Faculty of Modern History</a> - (184)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Biochemistry%22">Medical Sciences Division - Biochemistry</a> - (183)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Faculty%20of%20Law%22">Social Sciences Division - Faculty of Law</a> - (169)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Social%20Studies%22">Faculty of Social Studies</a> - (164)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Life%20and%20Environmental%20Sciences%20Division%22">Life and Environmental Sciences Division</a> - (162)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20and%20Life%20Sciences%20Division%20-%20Department%20of%20Computer%20Science%22">Mathematical, Physical and Life Sciences Division - Department of Computer Science</a> - (157)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Materials%22">Mathematical,Physical &amp; Life Sciences Division - Materials</a> - (155)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Educational%20Studies%22">Social Sciences Division - Educational Studies</a> - (140)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Earth%20Sciences%22">Mathematical,Physical &amp; Life Sciences Division - Earth Sciences</a> - (139)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20English%20Language%20and%20Literature%22">Humanities Division - English Language and Literature</a> - (138)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Chemistry%20-%20Inorganic%20Chemistry%20Laboratory%22">Mathematical,Physical &amp; Life Sciences Division - Chemistry - Inorganic Chemistry Laboratory</a> - (137)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of</a> - (125)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%22">Social Sciences Division</a> - (125)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Chemistry%20-%20Physical%20and%20Theoretical%20Chemistry%20Laboratory%22">Mathematical,Physical &amp; Life Sciences Division - Chemistry - Physical and Theoretical Chemistry Laboratory</a> - (123)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Psychiatry%22">Medical Sciences Division - Psychiatry</a> - (121)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20English%20Language%20and%20Literature%22">Faculty of English Language and Literature</a> - (118)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Literae%20Humaniores%22">Faculty of Literae Humaniores</a> - (117)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Oriental%20Studies%20Faculty%22">Humanities Division - Oriental Studies Faculty</a> - (117)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Physiology%2CAnatomy%20and%20Genetics%2CDepartment%20of%22">Medical Sciences Division - Physiology,Anatomy and Genetics,Department of</a> - (116)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Chemistry%20-%20Chemistry%20Research%20Laboratory%22">Mathematical,Physical &amp; Life Sciences Division - Chemistry - Chemistry Research Laboratory</a> - (115)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Classics%20Faculty%22">Humanities Division - Classics Faculty</a> - (113)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Pathology%22">Medical Sciences Division - Pathology</a> - (113)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Faculty%20of%20Law%20-%20Socio-Legal%20Studies%2CCentre%20for%22">Social Sciences Division - Faculty of Law - Socio-Legal Studies,Centre for</a> - (111)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Statistics%22">Mathematical,Physical &amp; Life Sciences Division - Statistics</a> - (109)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Chemistry%20-%20Organic%20Chemistry%22">Mathematical,Physical &amp; Life Sciences Division - Chemistry - Organic Chemistry</a> - (106)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22The%20Bodleian%20Libraries%22">The Bodleian Libraries</a> - (106)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Vaccinology%20and%20Tropical%20Medicine%2CCentre%20for%20%28CCVTM%29%22">Medical Sciences Division - Clinical Vaccinology and Tropical Medicine,Centre for (CCVTM)</a> - (103)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22SSD%2C%20Queen%20Elizabeth%20House%2C%20Department%20of%20International%20Development%22">SSD, Queen Elizabeth House, Department of International Development</a> - (101)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Computer%20Science%2CDepartment%20of%22">Mathematical,Physical &amp; Life Sciences Division - Computer Science,Department of</a> - (99)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Sociology%22">Sociology</a> - (94)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Theology%20Faculty%22">Humanities Division - Theology Faculty</a> - (92)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Department%20of%20Computer%20Science%22">Mathematical, Physical &amp; Life Sciences Division - Department of Computer Science</a> - (92)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Physics%20-%20Atmospheric%2COceanic%20and%20Planetary%20Physics%22">Mathematical,Physical &amp; Life Sciences Division - Physics - Atmospheric,Oceanic and Planetary Physics</a> - (92)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Neurology%22">Medical Sciences Division - Clinical Neurology</a> - (90)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Anthropology%20and%20Museum%20Ethnography%2CSchool%20of%20-%20Social%20and%20Cultural%20Anthropology%2CInstitute%20of%22">Social Sciences Division - Anthropology and Museum Ethnography,School of - Social and Cultural Anthropology,Institute of</a> - (89)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Plant%20Sciences%22">Mathematical,Physical &amp; Life Sciences Division - Plant Sciences</a> - (88)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Computing%20Laboratory%22">Mathematical,Physical &amp; Life Sciences Division - Computing Laboratory</a> - (84)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Physics%20-%20Atomic%20%26%20Laser%20Physics%22">Mathematical,Physical &amp; Life Sciences Division - Physics - Atomic &amp; Laser Physics</a> - (83)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Physical%20Sciences%22">Faculty of Physical Sciences</a> - (79)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Classics%20Faculty%20-%20Classical%20Languages%20and%20Literature%22">Humanities Division - Classics Faculty - Classical Languages and Literature</a> - (79)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%22">Mathematical,Physical &amp; Life Sciences Division</a> - (78)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20-%20Wellcome%20Trust%20Centre%20for%20Human%20Genetics%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of - Wellcome Trust Centre for Human Genetics</a> - (74)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Paediatrics%2CDepartment%20of%22">Medical Sciences Division - Paediatrics,Department of</a> - (74)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Public%20Health%22">Medical Sciences Division - Public Health</a> - (74)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Physics%20-%20Condensed%20Matter%20Physics%22">Mathematical,Physical &amp; Life Sciences Division - Physics - Condensed Matter Physics</a> - (73)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Sociology%22">Social Sciences Division - Sociology</a> - (72)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Anthropology%20and%20Geography%22">Faculty of Anthropology and Geography</a> - (68)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Theology%22">Faculty of Theology</a> - (67)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Physics%22">Mathematical,Physical &amp; Life Sciences Division - Physics</a> - (67)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Medieval%20and%20Modern%20Languages%20and%20Literature%22">Faculty of Medieval and Modern Languages and Literature</a> - (64)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Environment%2CCentre%20for%20the%20-%20Environmental%20Change%20Institute%22">Social Sciences Division - Environment,Centre for the - Environmental Change Institute</a> - (63)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22International%20Development%22">International Development</a> - (62)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Physics%20-%20Particle%20Physics%22">Mathematical,Physical &amp; Life Sciences Division - Physics - Particle Physics</a> - (61)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Public%20Health%20-%20Primary%20Care%22">Medical Sciences Division - Public Health - Primary Care</a> - (60)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Economics%20-%20Centre%20for%20the%20study%20of%20African%20Economies%22">Social Sciences Division - Economics - Centre for the study of African Economies</a> - (60)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Continuing%20Education%22">Continuing Education</a> - (57)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Molecular%20Medicine%2CWeatherall%20Institute%20of%22">Medical Sciences Division - Molecular Medicine,Weatherall Institute of</a> - (57)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Environment%2CCentre%20for%20the%22">Social Sciences Division - Environment,Centre for the</a> - (57)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Physics%20-%20Theoretical%20Physics%22">Mathematical,Physical &amp; Life Sciences Division - Physics - Theoretical Physics</a> - (56)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Music%20Faculty%22">Humanities Division - Music Faculty</a> - (55)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Anthropology%20and%20Museum%20Ethnography%2CSchool%20of%20-%20Anthropology%22">Social Sciences Division - Anthropology and Museum Ethnography,School of - Anthropology</a> - (51)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Politics%20and%20International%20Relations%20-%20Reuters%20Institute%20for%20the%20Study%20of%20Journalism%22">Social Sciences Division - Politics and International Relations - Reuters Institute for the Study of Journalism</a> - (51)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22OULS%20-%20Oxford%20University%20Library%20Services%22">OULS - Oxford University Library Services</a> - (48)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Oxford%20Internet%20Institute%22">Social Sciences Division - Oxford Internet Institute</a> - (45)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%20Forestry%20Institute%2C%20Department%20of%20Plant%20Sciences%22">Oxford Forestry Institute, Department of Plant Sciences</a> - (43)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Psychology%22">Department of Psychology</a> - (42)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22SKOPE%22">SKOPE</a> - (42)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Oriental%20Studies%22">Faculty of Oriental Studies</a> - (40)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Archaeology%2CSchool%20of%20-%20Archaeology%20%26%20the%20History%20of%20Art%2CResearch%20Laboratory%20for%22">Social Sciences Division - Archaeology,School of - Archaeology &amp; the History of Art,Research Laboratory for</a> - (40)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Commonwealth%20Foresty%20Institute%2C%20Department%20of%20Forestry%22">Commonwealth Foresty Institute, Department of Forestry</a> - (39)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Biology%22">Department of Biology</a> - (39)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Social%20Policy%20and%20Social%20Work%22">Social Sciences Division - Social Policy and Social Work</a> - (39)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Geography%22">Department of Geography</a> - (38)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22The%20Bodleian%20Health%20Care%20Libraries%22">The Bodleian Health Care Libraries</a> - (38)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Medieval%20and%20Modern%20Languages%20Faculty%20-%20German%22">Humanities Division - Medieval and Modern Languages Faculty - German</a> - (37)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Linguistics%20%26%20Phonetics%20-%20Comparative%20Philology%20and%20General%20Linguistics%22">Humanities Division - Linguistics &amp; Phonetics - Comparative Philology and General Linguistics</a> - (36)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20-%20NDM%20John%20Radcliffe%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of - NDM John Radcliffe</a> - (36)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Pharmacology%22">Medical Sciences Division - Pharmacology</a> - (36)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Radiation%2COncology%20and%20Biology%22">Medical Sciences Division - Radiation,Oncology and Biology</a> - (36)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Anthropology%22">Anthropology</a> - (35)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Linguistics%20%26%20Phonetics%20-%20Phonetics%22">Humanities Division - Linguistics &amp; Phonetics - Phonetics</a> - (35)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Archaeology%2CSchool%20of%20-%20Archaeology%2CInstitute%20of%22">Social Sciences Division - Archaeology,School of - Archaeology,Institute of</a> - (34)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20-%20Division%20of%20Structural%20Biology%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of - Division of Structural Biology</a> - (33)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Classics%20Faculty%20-%20Ancient%20History%22">Humanities Division - Classics Faculty - Ancient History</a> - (32)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Earth%20Sciences%22">Department of Earth Sciences</a> - (31)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Cardiovascular%20Medicine%22">Medical Sciences Division - Cardiovascular Medicine</a> - (31)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Laboratory%20Sciences%22">Medical Sciences Division - Clinical Laboratory Sciences</a> - (31)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Obstetrics%20%26%20Gynaecology%22">Medical Sciences Division - Obstetrics &amp; Gynaecology</a> - (31)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Archaeology%2CSchool%20of%22">Social Sciences Division - Archaeology,School of</a> - (31)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dept.%20of%20Zoology%22">Dept. of Zoology</a> - (30)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Linguistics%20%26%20Phonetics%22">Humanities Division - Linguistics &amp; Phonetics</a> - (30)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Philosophy%22">Faculty of Philosophy</a> - (29)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Medical%20Oncology%22">Medical Sciences Division - Medical Oncology</a> - (29)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dept.%20of%20Engineering%20Science%22">Dept. of Engineering Science</a> - (28)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Medieval%20and%20Modern%20Languages%20Faculty%22">Humanities Division - Medieval and Modern Languages Faculty</a> - (28)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Philosophy%22">Department of Philosophy</a> - (27)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Music%22">Faculty of Music</a> - (27)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Medieval%20and%20Modern%20Languages%20Faculty%20-%20French%22">Humanities Division - Medieval and Modern Languages Faculty - French</a> - (27)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Malaria%20Public%20Health%20and%20Epidemiology%20Group%22">Malaria Public Health and Epidemiology Group</a> - (26)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Other%20-%20Life%20Sciences%20Interface%20Doctoral%20Training%20Centre%22">Mathematical,Physical &amp; Life Sciences Division - Other - Life Sciences Interface Doctoral Training Centre</a> - (26)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20E-Research%20Centre%2COxford%22">Mathematical,Physical &amp; Life Sciences Division - E-Research Centre,Oxford</a> - (25)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Social%20Policy%20and%20Intervention%22">Social Sciences Division - Social Policy and Intervention</a> - (25)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Economics%22">Department of Economics</a> - (24)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20NDORMS%20%28Nuffield%20Department%20of%20Orthopaedics%2CRheumatology%20and%20Musculoskeletal%20Sciences%29%22">Medical Sciences Division - NDORMS (Nuffield Department of Orthopaedics,Rheumatology and Musculoskeletal Sciences)</a> - (24)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Anthropology%20and%20Museum%20Ethnography%2CSchool%20of%20-%20Cognitive%20%26%20Evolutionary%20Anthropology%2CInstitute%20of%22">Social Sciences Division - Anthropology and Museum Ethnography,School of - Cognitive &amp; Evolutionary Anthropology,Institute of</a> - (24)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Biological%20Sciences%22">Faculty of Biological Sciences</a> - (23)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Chemistry%20-%20Chemical%20Biology%22">Mathematical,Physical &amp; Life Sciences Division - Chemistry - Chemical Biology</a> - (22)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%20Institute%20for%20Energy%20Studies%22">Oxford Institute for Energy Studies</a> - (22)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Biological%20Sciences%22">School of Biological Sciences</a> - (22)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Plant%20Sciences%22">Department of Plant Sciences</a> - (21)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Mathematical%20Sciences%22">Faculty of Mathematical Sciences</a> - (21)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Classics%20Faculty%20-%20Classical%20Archaeology%22">Humanities Division - Classics Faculty - Classical Archaeology</a> - (21)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Environment%2CCentre%20for%20the%20-%20Transport%20Studies%20Unit%22">Social Sciences Division - Environment,Centre for the - Transport Studies Unit</a> - (21)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20-%20Anaesthetics%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of - Anaesthetics</a> - (20)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Centre%20for%20the%20Environment%20-%20Environmental%20Change%20Institute%22">Social Sciences Division - Centre for the Environment - Environmental Change Institute</a> - (20)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dept.%20of%20Plant%20Sciences%22">Dept. of Plant Sciences</a> - (19)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Faculty%20of%20Law%20-%20Criminology%2CCentre%20for%22">Social Sciences Division - Faculty of Law - Criminology,Centre for</a> - (19)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Anthropology%22">Department of Anthropology</a> - (17)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dept.%20of%20Educational%20Studies%22">Dept. of Educational Studies</a> - (17)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20-%20Clinical%20Trial%20Service%20Unit%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of - Clinical Trial Service Unit</a> - (17)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Pharmacology%22">Medical Sciences Division - Clinical Pharmacology</a> - (17)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Surgery%22">Medical Sciences Division - Surgery</a> - (17)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22OUCS%20-%20Oxford%20University%20Computing%20Services%22">OUCS - Oxford University Computing Services</a> - (17)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dept.%20of%20Politics%20and%20International%20Relations%22">Dept. of Politics and International Relations</a> - (16)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20History%20Faculty%20-%20History%20of%20Medicine%22">Humanities Division - History Faculty - History of Medicine</a> - (16)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Anaesthetics%2CNuffield%20Department%20of%22">Medical Sciences Division - Anaesthetics,Nuffield Department of</a> - (16)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Sherrington%20Building%2CLe%20Gros%20Clark%20Building%22">Medical Sciences Division - Sherrington Building,Le Gros Clark Building</a> - (16)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20-%20Oxford%20Centre%20for%20Diabetes%2CEndocrinology%20%26%20Metabolism%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of - Oxford Centre for Diabetes,Endocrinology &amp; Metabolism</a> - (15)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Orthopaedic%20Surgery%22">Medical Sciences Division - Orthopaedic Surgery</a> - (15)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Geography%20and%20the%20Environment%22">School of Geography and the Environment</a> - (15)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Area%20Studies%2CSchool%20of%20Interdisciplinary%20-%20African%20Studies%22">Social Sciences Division - Area Studies,School of Interdisciplinary - African Studies</a> - (15)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22British%20Academy%20Centenary%20Research%20Project%2CSchool%20of%20Biological%20Sciences%22">British Academy Centenary Research Project,School of Biological Sciences</a> - (14)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Chemistry%22">Department of Chemistry</a> - (14)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Physics%22">Department of Physics</a> - (14)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Zoology%22">Department of Zoology</a> - (14)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22History%20Faculty%22">History Faculty</a> - (14)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Malaria%20Public%20Health%20%26%20Epidemiology%20Group%22">Malaria Public Health &amp; Epidemiology Group</a> - (14)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20and%20Life%20Sciences%20Division%22">Mathematical, Physical and Life Sciences Division</a> - (14)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%2C%20MPLS%2C%20Department%20of%20Materials%22">Oxford, MPLS, Department of Materials</a> - (14)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Said%20Business%20School%22">Said Business School</a> - (14)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Environment%2C%20Centre%20for%20the%20-%20Transport%20Studies%20Unit%22">Social Sciences Division - Environment, Centre for the - Transport Studies Unit</a> - (14)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dept.%20of%20Economics%22">Dept. of Economics</a> - (13)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Oriental%20Studies%20Faculty%20-%20Chinese%20Studies%22">Humanities Division - Oriental Studies Faculty - Chinese Studies</a> - (13)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Mathematical%20Institute%22">Mathematical, Physical &amp; Life Sciences Division - Mathematical Institute</a> - (13)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Ophthalmology%22">Medical Sciences Division - Ophthalmology</a> - (13)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Pathogen%20Research%2CThe%20Peter%20Medawar%20Building%20for%22">Medical Sciences Division - Pathogen Research,The Peter Medawar Building for</a> - (13)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%2C%20SSD%2C%20Research%20Laboratory%20for%20Archaeology%20and%20the%20History%20of%20Art%22">Oxford, SSD, Research Laboratory for Archaeology and the History of Art</a> - (13)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Anthropology%20and%20Museum%20Ethnography%2CSchool%20of%20-%20Cognitive%20and%20Evolutionary%20Anthropology%2CInstitute%20of%22">Social Sciences Division - Anthropology and Museum Ethnography,School of - Cognitive and Evolutionary Anthropology,Institute of</a> - (13)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Unit%20of%20Tropical%20Silviculture%2C%20Department%20of%20Forestry%22">Unit of Tropical Silviculture, Department of Forestry</a> - (13)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22University%20of%20Oxford%22">University of Oxford</a> - (13)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Archaeology%22">Department of Archaeology</a> - (12)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Linguistics%22">Department of Linguistics</a> - (12)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Medicine%22">Department of Medicine</a> - (12)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Medieval%20and%20Modern%20Languages%20Faculty%20-%20Italian%22">Humanities Division - Medieval and Modern Languages Faculty - Italian</a> - (12)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Public%20Health%20-%20Public%20Health%22">Medical Sciences Division - Public Health - Public Health</a> - (12)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%2C%20SSD%2C%20International%20Development%22">Oxford, SSD, International Development</a> - (12)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Mechanical%20Engineering%22">Department of Mechanical Engineering</a> - (11)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Sociology%22">Department of Sociology</a> - (11)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20History%22">Faculty of History</a> - (11)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20-%20Cancer%20Epidemiology%20Unit%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of - Cancer Epidemiology Unit</a> - (11)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22SSD%2CQueen%20Elizabeth%20House%2CDepartment%20of%20International%20Development%22">SSD,Queen Elizabeth House,Department of International Development</a> - (11)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Save%20the%20Children%2C%20UK%22">Save the Children, UK</a> - (11)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Geography%22">School of Geography</a> - (11)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Smith%20School%20of%20Enterprise%20and%20the%20Environment%22">Smith School of Enterprise and the Environment</a> - (11)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Statistics%20in%20Medicine%22">Centre for Statistics in Medicine</a> - (10)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Computer%20Science%22">Computer Science</a> - (10)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20History%20Faculty%20-%20History%20of%20Art%2CDepartment%20of%22">Humanities Division - History Faculty - History of Art,Department of</a> - (10)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Physics%22">Mathematical, Physical &amp; Life Sciences Division - Physics</a> - (10)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Zoology%22">Mathematical, Physical &amp; Life Sciences Division - Zoology</a> - (10)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Psychology%22">School of Psychology</a> - (10)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Anthropology%20and%20Museum%20Ethnography%2CSchool%20of%20-%20Anthropology%20and%20Mind%2CCentre%20for%22">Social Sciences Division - Anthropology and Museum Ethnography,School of - Anthropology and Mind,Centre for</a> - (10)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20School%20of%20Anthropology%20and%20Museum%20Ethnography%20-%20Institute%20of%20Social%20%26%20Cultural%20Anthropology%22">Social Sciences Division - School of Anthropology and Museum Ethnography - Institute of Social &amp; Cultural Anthropology</a> - (10)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Materials%20Science%20and%20Metallurgy%22">Department of Materials Science and Metallurgy</a> - (9)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Paediatrics%22">Department of Paediatrics</a> - (9)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Clinical%20Medicine%22">Faculty of Clinical Medicine</a> - (9)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Medieval%20and%20Modern%20Languages%20Faculty%20-%20Spanish%22">Humanities Division - Medieval and Modern Languages Faculty - Spanish</a> - (9)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20-%20Human%20Genetics%2CWellcome%20Trust%20Centre%20for%20Human%20Genetics%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of - Human Genetics,Wellcome Trust Centre for Human Genetics</a> - (9)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20Anaesthetics%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of Anaesthetics</a> - (9)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Public%20Health%20-%20National%20Perinatal%20Epidemiology%20Unit%22">Medical Sciences Division - Public Health - National Perinatal Epidemiology Unit</a> - (9)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Queen%20Elizabeth%20House%22">Queen Elizabeth House</a> - (9)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Archaeology%22">School of Archaeology</a> - (9)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Area%20Studies%2CSchool%20of%20Interdisciplinary%20-%20Contemporary%20China%20Studies%20Programme%22">Social Sciences Division - Area Studies,School of Interdisciplinary - Contemporary China Studies Programme</a> - (9)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Mathematical%20Sciences%22">Department of Mathematical Sciences</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Mechanical%2CMaterials%20and%20Manufacturing%20Engineering%22">Department of Mechanical,Materials and Manufacturing Engineering</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Physics%20and%20Astronomy%22">Department of Physics and Astronomy</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Psychiatry%22">Department of Psychiatry</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Statistics%22">Department of Statistics</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Elliott%20School%20of%20International%20Affairs%22">Elliott School of International Affairs</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Ruskin%20School%20of%20Drawing%20and%20Fine%20Art%22">Humanities Division - Ruskin School of Drawing and Fine Art</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Physics%20-%20Atomic%20%26%20Laser%20Physics%22">Mathematical, Physical &amp; Life Sciences Division - Physics - Atomic &amp; Laser Physics</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22McDonald%20Institute%20for%20Archaeological%20Research%22">McDonald Institute for Archaeological Research</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20-%20Centre%20for%20Cellular%20and%20Molecular%20Physiology%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of - Centre for Cellular and Molecular Physiology</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Pain%20Research%22">Pain Research</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Anthropology%20and%20Museum%20Ethnography%22">School of Anthropology and Museum Ethnography</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Area%20Studies%2CSchool%20of%20Interdisciplinary%20-%20Nissan%20Institute%20of%20Japanese%20Studies%22">Social Sciences Division - Area Studies,School of Interdisciplinary - Nissan Institute of Japanese Studies</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Centre%20for%20the%20Environment%20-%20School%20of%20Geography%22">Social Sciences Division - Centre for the Environment - School of Geography</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22The%20Bodleian%20Libraries%20-%20Conservation%20and%20Collection%20Care%22">The Bodleian Libraries - Conservation and Collection Care</a> - (8)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22CDT%20in%20Cyber%20Security%22">CDT in Cyber Security</a> - (7)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Infectious%20and%20Tropical%20Diseases%22">Department of Infectious and Tropical Diseases</a> - (7)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Classics%22">Faculty of Classics</a> - (7)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Institute%20of%20Evolutionary%20Biology%22">Institute of Evolutionary Biology</a> - (7)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Chemistry%20-%20Physical%20and%20Theoretical%20Chemistry%20Laboratory%22">Mathematical, Physical &amp; Life Sciences Division - Chemistry - Physical and Theoretical Chemistry Laboratory</a> - (7)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Engineering%20Science%22">Mathematical, Physical &amp; Life Sciences Division - Engineering Science</a> - (7)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Oxford%20E-Research%20Centre%22">Mathematical, Physical &amp; Life Sciences Division - Oxford E-Research Centre</a> - (7)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Vaccinology%20and%20Tropical%20Medicine%2C%20Centre%20for%20%28CCVTM%29%22">Medical Sciences Division - Clinical Vaccinology and Tropical Medicine, Centre for (CCVTM)</a> - (7)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Paediatrics%2CDepartment%20of%20-%20Paediatrics%22">Medical Sciences Division - Paediatrics,Department of - Paediatrics</a> - (7)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Middle%20East%20Centre%20at%20St%20Antony%27s%20College%22">Middle East Centre at St Antony&#39;s College</a> - (7)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22ASUC%22">ASUC</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Chemistry%20and%20Biochemistry%22">Department of Chemistry and Biochemistry</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Computer%20Science%22">Department of Computer Science</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Earth%20and%20Planetary%20Sciences%22">Department of Earth and Planetary Sciences</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Mathematics%20and%20Statistics%22">Department of Mathematics and Statistics</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dept.%20of%20Sociology%22">Dept. of Sociology</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Environmental%20Change%20Institute%22">Environmental Change Institute</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Psychological%20Studies%22">Faculty of Psychological Studies</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Tropical%20Medicine%22">Faculty of Tropical Medicine</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Geography%22">Geography</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Laboratory%20of%20Physiology%22">Laboratory of Physiology</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Law%22">Law</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22MPLS%2C%20Department%20of%20Materials%22">MPLS, Department of Materials</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Chemistry%20-%20Chemistry%20Research%20Laboratory%22">Mathematical, Physical &amp; Life Sciences Division - Chemistry - Chemistry Research Laboratory</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Computing%20Laboratory%22">Mathematical, Physical &amp; Life Sciences Division - Computing Laboratory</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Other%20-%20Life%20Sciences%20Interface%20Doctoral%20Training%20Centre%22">Mathematical, Physical &amp; Life Sciences Division - Other - Life Sciences Interface Doctoral Training Centre</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Other%20-%20Systems%20Biology%20Doctoral%20Training%20Centre%22">Mathematical,Physical &amp; Life Sciences Division - Other - Systems Biology Doctoral Training Centre</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2CNuffield%20Department%20of%20-%20Structural%20Genomics%20Consortium%22">Medical Sciences Division - Clinical Medicine,Nuffield Department of - Structural Genomics Consortium</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Public%20Health%20-%20Unit%20of%20Health%20Care%20Epidemiology%22">Medical Sciences Division - Public Health - Unit of Health Care Epidemiology</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Pitt%20Rivers%20Museum%22">Pitt Rivers Museum</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Physics%22">School of Physics</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Social%20Sciences%22">School of Social Sciences</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Sir%20William%20Dunn%20School%20of%20Pathology%22">Sir William Dunn School of Pathology</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Wellcome%20Trust%20Centre%20for%20Human%20Genetics%22">Wellcome Trust Centre for Human Genetics</a> - (6)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Evidence-Based%20Medicine%22">Centre for Evidence-Based Medicine</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Animal%20and%20Plant%20Sciences%22">Department of Animal and Plant Sciences</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Entomology%22">Department of Entomology</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Microbiology%22">Department of Microbiology</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Neurology%22">Department of Neurology</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Pathology%22">Department of Pathology</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Politics%20and%20International%20Relations%22">Department of Politics and International Relations</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Primary%20Care%20Health%20Sciences%22">Department of Primary Care Health Sciences</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Linguistics%2C%20Philology%20and%20Phonetics%22">Faculty of Linguistics, Philology and Phonetics</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Physiological%20Sciences%22">Faculty of Physiological Sciences</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22ISIS%20Facility%22">ISIS Facility</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Institute%20for%20Theoretical%20Physics%22">Institute for Theoretical Physics</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Institute%20of%20Archaeology%22">Institute of Archaeology</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Institute%20of%20Evolutionary%20Biology%2CSchool%20of%20Biological%20Sciences%22">Institute of Evolutionary Biology,School of Biological Sciences</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Jenner%20Institute%22">Jenner Institute</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Jet%20Propulsion%20Laboratory%22">Jet Propulsion Laboratory</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Judge%20Business%20School%22">Judge Business School</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Leverhulme%20Centre%20for%20Human%20Evolutionary%20Studies%22">Leverhulme Centre for Human Evolutionary Studies</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22MPLS%2C%20Physics%2C%20Condensed%20Matter%20Physics%22">MPLS, Physics, Condensed Matter Physics</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Macquarie%20Centre%20for%20Cognitive%20Science%22">Macquarie Centre for Cognitive Science</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Malaria%20Public%20Health%20and%20Epidemiology%20Group%2CCentre%20for%20Geographic%20Medicine%22">Malaria Public Health and Epidemiology Group,Centre for Geographic Medicine</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2CPhysical%20%26%20Life%20Sciences%20Division%20-%20Department%20of%20Computer%20Science%22">Mathematical,Physical &amp; Life Sciences Division - Department of Computer Science</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Clinical%20Medicine%2C%20Nuffield%20Department%20of%22">Medical Sciences Division - Clinical Medicine, Nuffield Department of</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Department%20of%20Physiology%2C%20Anatomy%20and%20Genetics%22">Medical Sciences Division - Department of Physiology, Anatomy and Genetics</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%20University%20Computing%20Laboratory%22">Oxford University Computing Laboratory</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Politics%20and%20International%20Relations%22">Politics and International Relations</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Economics%22">School of Economics</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Geography%20and%20the%20Environment%2C%20University%20of%20Oxford%22">School of Geography and the Environment, University of Oxford</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Medicine%22">School of Medicine</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Policy%20and%20Intervention%22">Social Policy and Intervention</a> - (5)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Archaeology%22">Archaeology</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Board%20of%20the%20Faculty%20of%20Mathematical%20Sciences%22">Board of the Faculty of Mathematical Sciences</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Business%20School%22">Business School</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Cardiff%20School%20of%20Biosciences%22">Cardiff School of Biosciences</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Labour%20Market%20Studies%22">Centre for Labour Market Studies</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Clarendon%20Laboratory%22">Clarendon Laboratory</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Committee%20for%20the%20School%20of%20Management%20Studies%22">Committee for the School of Management Studies</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Clinical%20Psychology%22">Department of Clinical Psychology</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Economics%2C%20University%20of%20Oxford%22">Department of Economics, University of Oxford</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Experimental%20Psychology%22">Department of Experimental Psychology</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Genetics%22">Department of Genetics</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Geology%20and%20Geochemistry%22">Department of Geology and Geochemistry</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20History%20and%20Archaeology%22">Department of History and Archaeology</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Human%20Sciences%22">Department of Human Sciences</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Immunology%22">Department of Immunology</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Life%20Sciences%22">Department of Life Sciences</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Mathematics%22">Department of Mathematics</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Medical%20Genetics%22">Department of Medical Genetics</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Meteorology%22">Department of Meteorology</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Obstetrics%20and%20Gynaecology%22">Department of Obstetrics and Gynaecology</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Palaeontology%22">Department of Palaeontology</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Physiology%22">Department of Physiology</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Primary%20Health%20Care%22">Department of Primary Health Care</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Social%20Medicine%22">Department of Social Medicine</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dept.%20of%20Biochemistry%22">Dept. of Biochemistry</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Earth%20Sciences%22">Earth Sciences</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Earth%20and%20Biosphere%20Institute%2CSchool%20of%20Geography%22">Earth and Biosphere Institute,School of Geography</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Economics%22">Economics</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Economics%20Department%22">Economics Department</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Emerging%20Pathogens%20Institute%22">Emerging Pathogens Institute</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Health%20Policy%20Unit%22">Health Policy Unit</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Medieval%20and%20Modern%20Languages%20Faculty%20-%20Portuguese%22">Humanities Division - Medieval and Modern Languages Faculty - Portuguese</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Institute%20of%20Development%20Studies%22">Institute of Development Studies</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Judge%20Institute%20of%20Management%22">Judge Institute of Management</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22MPLS%2C%20Department%20of%20Computer%20Science%22">MPLS, Department of Computer Science</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22MPLS%2C%20Department%20of%20Physics%22">MPLS, Department of Physics</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Chemistry%20-%20Inorganic%20Chemistry%20Laboratory%22">Mathematical, Physical &amp; Life Sciences Division - Chemistry - Inorganic Chemistry Laboratory</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Physics%20-%20Condensed%20Matter%20Physics%22">Mathematical, Physical &amp; Life Sciences Division - Physics - Condensed Matter Physics</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Physics%20-%20Theoretical%20Physics%22">Mathematical, Physical &amp; Life Sciences Division - Physics - Theoretical Physics</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Statistics%22">Mathematical, Physical &amp; Life Sciences Division - Statistics</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20and%20Life%20Sciences%20Division%20-%20Chemistry%20-%20Chemistry%20Research%20Laboratory%22">Mathematical, Physical and Life Sciences Division - Chemistry - Chemistry Research Laboratory</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20and%20Life%20Sciences%20Division%20-%20Chemistry%20-%20Physical%20and%20Theoretical%20Chemistry%20Laboratory%22">Mathematical, Physical and Life Sciences Division - Chemistry - Physical and Theoretical Chemistry Laboratory</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Paediatrics%2CDepartment%20of%20-%20Childhood%20Cancer%20Research%20Group%22">Medical Sciences Division - Paediatrics,Department of - Childhood Cancer Research Group</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22OULS%22">OULS</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%20University%20Clinical%20Research%20Unit%22">Oxford University Clinical Research Unit</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Psychology%20Department%22">Psychology Department</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Biosciences%22">School of Biosciences</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Conservation%20Sciences%22">School of Conservation Sciences</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20GeoSciences%22">School of GeoSciences</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Queen%20Elizabeth%20House%2C%20Department%20of%20International%20Development%22">Social Sciences Division - Queen Elizabeth House, Department of International Development</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Visual%20Development%20Unit%2CDepartment%20of%20Experimental%20Psychology%22">Visual Development Unit,Department of Experimental Psychology</a> - (4)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22All%20Souls%22">All Souls</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Biological%20Control%20and%20Spatial%20Ecology%22">Biological Control and Spatial Ecology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Cancer%20Epidemiology%20Unit%22">Cancer Epidemiology Unit</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Cardiff%20School%20of%20Social%20Sciences%22">Cardiff School of Social Sciences</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Offshore%20Foundation%20Systems%22">Centre for Offshore Foundation Systems</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Philosophy%20of%20Natural%20and%20Social%20Science%22">Centre for Philosophy of Natural and Social Science</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Quantum%20Computation%22">Centre for Quantum Computation</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20on%20Migration%2CPolicy%20and%20Society%22">Centre on Migration,Policy and Society</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Committee%20for%20Comparative%20Philology%20and%20General%20Linguistics%22">Committee for Comparative Philology and General Linguistics</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Computational%20Ecology%20and%20Environmental%20Science%22">Computational Ecology and Environmental Science</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Computer%20Science%20Department%22">Computer Science Department</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Applied%20Mathematics%22">Department of Applied Mathematics</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Civil%20Engineering%22">Department of Civil Engineering</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Clinical%20Genetics%22">Department of Clinical Genetics</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Clinical%20Neuroscience%22">Department of Clinical Neuroscience</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Clinical%20Neurosciences%22">Department of Clinical Neurosciences</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Community%20Medicine%2CFaculty%20of%20Medicine%22">Department of Community Medicine,Faculty of Medicine</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Earth%20Science%20and%20Engineering%22">Department of Earth Science and Engineering</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Earth%20and%20Ocean%20Sciences%22">Department of Earth and Ocean Sciences</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Educational%20Studies%22">Department of Educational Studies</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Electrical%20and%20Electronic%20Engineering%22">Department of Electrical and Electronic Engineering</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Environmental%20Science%22">Department of Environmental Science</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Environmental%20Science%2CPolicy%20and%20Management%22">Department of Environmental Science,Policy and Management</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Geology%22">Department of Geology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Government%22">Department of Government</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Human%20Evolution%22">Department of Human Evolution</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Integrative%20Biology%22">Department of Integrative Biology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Materials%22">Department of Materials</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Materials%20Science%20and%20Engineering%22">Department of Materials Science and Engineering</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Pediatrics%22">Department of Pediatrics</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Physics%2CFaculty%20of%20Arts%20%26%20Sciences%22">Department of Physics,Faculty of Arts &amp; Sciences</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Public%20Health%20and%20Policy%22">Department of Public Health and Policy</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Radiology%22">Department of Radiology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Rheumatology%22">Department of Rheumatology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Zoology%20and%20Emerging%20Pathogens%20Institute%22">Department of Zoology and Emerging Pathogens Institute</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dept.%20for%20Continuing%20Education%22">Dept. for Continuing Education</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dept.%20of%20Social%20Policy%20and%20Social%20Work%22">Dept. of Social Policy and Social Work</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Dipartimento%20di%20Chimica%20e%20Fisica%20della%20Terra%20ed%20Applicazione%20alle%20Georisorse%20e%20ai%20Rischi%20Naturali%22">Dipartimento di Chimica e Fisica della Terra ed Applicazione alle Georisorse e ai Rischi Naturali</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Division%20of%20Malaria%20Control%22">Division of Malaria Control</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Education%22">Education</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Ethox%20Centre%22">Ethox Centre</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Experimental%20Psychology%22">Experimental Psychology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Biological%20Sciences%20Division%22">Faculty of Biological Sciences Division</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Economics%22">Faculty of Economics</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Law%22">Faculty of Law</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Medicine%22">Faculty of Medicine</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Faculty%20of%20Medicine%2CDivision%20of%20Neurology%22">Faculty of Medicine,Division of Neurology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Green%20Templeton%22">Green Templeton</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Harris%20Manchester%22">Harris Manchester</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Harris%20Manchester%20College%2C%20Oxford%22">Harris Manchester College, Oxford</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Health%20Services%20Research%20Unit%22">Health Services Research Unit</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Human%20and%20Life%20Sciences%22">Human and Life Sciences</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Medieval%20and%20Modern%20Languages%20Faculty%20-%20Modern%20Greek%22">Humanities Division - Medieval and Modern Languages Faculty - Modern Greek</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Humanities%20Division%20-%20Medieval%20and%20Modern%20Languages%20Faculty%20-%20Russian%22">Humanities Division - Medieval and Modern Languages Faculty - Russian</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22IT%20Services%22">IT Services</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Inorganic%20Chemistry%22">Inorganic Chemistry</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Institute%20for%20Empirical%20Research%20in%20Economics%22">Institute for Empirical Research in Economics</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Institute%20of%20Anthropology%22">Institute of Anthropology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Institute%20of%20Integrative%20and%20Comparative%20Biology%2CFaculty%20of%20Biological%20Sciences%22">Institute of Integrative and Comparative Biology,Faculty of Biological Sciences</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Laboratory%20of%20Computational%20Engineering%22">Laboratory of Computational Engineering</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22MSD%2C%20Department%20of%20Biochemistry%22">MSD, Department of Biochemistry</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mahidol-Oxford%20Tropical%20Medicine%20Research%20Unit%2CFaculty%20of%20Tropical%20Medicine%22">Mahidol-Oxford Tropical Medicine Research Unit,Faculty of Tropical Medicine</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Department%20of%20Computer%20Science%20-%20Oxford%20University%20Computing%20Laboratory%22">Mathematical, Physical &amp; Life Sciences Division - Department of Computer Science - Oxford University Computing Laboratory</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20E-Research%20Centre%2C%20Oxford%22">Mathematical, Physical &amp; Life Sciences Division - E-Research Centre, Oxford</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20%26%20Life%20Sciences%20Division%20-%20Materials%22">Mathematical, Physical &amp; Life Sciences Division - Materials</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Mathematical%2C%20Physical%20and%20Environmental%20Sciences%20Division%22">Mathematical, Physical and Environmental Sciences Division</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Public%20Health%20-%20Centre%20for%20Health%2CLaw%20and%20Emerging%20Technologies%20%28HeLEX%29%22">Medical Sciences Division - Public Health - Centre for Health,Law and Emerging Technologies (HeLEX)</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Medical%20Sciences%20Division%20-%20Public%20Health%20-%20Health%20Economics%20Research%20Centre%22">Medical Sciences Division - Public Health - Health Economics Research Centre</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22National%20Centre%20for%20e-Social%20Science%22">National Centre for e-Social Science</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22National%20Perinatal%20Epidemiology%20Unit%22">National Perinatal Epidemiology Unit</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Neurosciences%20Unit%22">Neurosciences Unit</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Nuffield%22">Nuffield</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%22">Oxford</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%20Forestry%20Institute%22">Oxford Forestry Institute</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%20Institute%20of%20Ageing%22">Oxford Institute of Ageing</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%20Internet%20Institute%22">Oxford Internet Institute</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%20Uehiro%20Centre%20for%20Practical%20Ethics%22">Oxford Uehiro Centre for Practical Ethics</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%2C%20MPLS%2C%20Chemistry%2C%20Physical%20and%20Theoretical%20Chem%22">Oxford, MPLS, Chemistry, Physical and Theoretical Chem</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%2C%20MPLS%2C%20Engineering%20Science%22">Oxford, MPLS, Engineering Science</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Oxford%2C%20MSD%2C%20Experimental%20Psychology%22">Oxford, MSD, Experimental Psychology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22SSD%2C%20Department%20of%20Economics%22">SSD, Department of Economics</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Chemistry%22">School of Chemistry</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Earth%20and%20Environment%22">School of Earth and Environment</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Geographical%20Sciences%22">School of Geographical Sciences</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Geography%20and%20Environmental%20Science%22">School of Geography and Environmental Science</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Geography%20and%20the%20Environment%2C%20Oxford%20University%22">School of Geography and the Environment, Oxford University</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Geography%2CArchaeology%20and%20Palaeoecology%22">School of Geography,Archaeology and Palaeoecology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Geography%2CEarth%20and%20Environmental%20Sciences%22">School of Geography,Earth and Environmental Sciences</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Humanities%22">School of Humanities</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Informatics%22">School of Informatics</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Law%22">School of Law</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22School%20of%20Population%20Health%22">School of Population Health</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Area%20Studies%2CSchool%20of%20Interdisciplinary%20-%20Latin%20American%20Centre%22">Social Sciences Division - Area Studies,School of Interdisciplinary - Latin American Centre</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Centre%20for%20the%20Environment%22">Social Sciences Division - Centre for the Environment</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Economics%20-%20Centre%20for%20the%20Study%20of%20African%20Economies%22">Social Sciences Division - Economics - Centre for the Study of African Economies</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20Environment%2C%20Centre%20for%20the%20-%20Environmental%20Change%20Institute%22">Social Sciences Division - Environment, Centre for the - Environmental Change Institute</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20European%20Studies%20at%20Oxford%22">Social Sciences Division - European Studies at Oxford</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Social%20Sciences%20Division%20-%20School%20of%20Archaeology%20-%20Institute%20of%20Archaeology%22">Social Sciences Division - School of Archaeology - Institute of Archaeology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Space%20Science%20and%20Technology%20Department%22">Space Science and Technology Department</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Transport%20Studies%20Group%22">Transport Studies Group</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Visual%20Development%20Unit%2CDepartment%20of%20Psychology%22">Visual Development Unit,Department of Psychology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Wellbeing%20in%20Developing%20Countries%20ESRC%20Research%20Group%22">Wellbeing in Developing Countries ESRC Research Group</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Wellcome%20Trust%20Centre%20for%20Cell%20Biology%22">Wellcome Trust Centre for Cell Biology</a> - (3)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Academic%20Centre%20for%20Defence%20Mental%20Health%22">Academic Centre for Defence Mental Health</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Aerosols%2CClouds%2Cand%20Climate%22">Aerosols,Clouds,and Climate</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Anatomy%20and%20Genetics%22">Anatomy and Genetics</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Ancient%20Hist%20%26%20Classical%20Arch%22">Ancient Hist &amp; Classical Arch</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Biochemistry%22">Biochemistry</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Bioinformatics%20Institute%20and%20Department%20of%20Computer%20Science%22">Bioinformatics Institute and Department of Computer Science</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Biological%20Psychology%20and%20Neuropsychology%22">Biological Psychology and Neuropsychology</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Bodleian%20Library%22">Bodleian Library</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Center%20for%20International%20Health%20and%20Development%22">Center for International Health and Development</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Center%20for%20International%20Health%20and%20Development%2CBoston%20University%20School%20of%20Public%20Health%22">Center for International Health and Development,Boston University School of Public Health</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Center%20of%20Functionally%20Integrative%20Neuroscience%22">Center of Functionally Integrative Neuroscience</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Chinese%20Studies%22">Centre for Chinese Studies</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Doctoral%20Training%20in%20Cyber%20Security%22">Centre for Doctoral Training in Cyber Security</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Education%20and%20Industry%22">Centre for Education and Industry</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Integrated%20Genomic%20Medical%20Research%22">Centre for Integrated Genomic Medical Research</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Local%20Economic%20Development%22">Centre for Local Economic Development</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Physical%20Activity%20and%20Nutrition%22">Centre for Physical Activity and Nutrition</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Suicide%20Prevention%22">Centre for Suicide Prevention</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Sustainable%20Development%22">Centre for Sustainable Development</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20Violence%20Prevention%22">Centre for Violence Prevention</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20for%20the%20Environment%22">Centre for the Environment</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Centre%20on%20Migration%20Policy%20and%20Society%22">Centre on Migration Policy and Society</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Child%20and%20Newborn%20Health%20Group%22">Child and Newborn Health Group</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Child%20and%20Youth%20Studies%20Group%22">Child and Youth Studies Group</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Climatic%20Research%20Unit%2CSchool%20of%20Environmental%20Sciences%22">Climatic Research Unit,School of Environmental Sciences</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Clinical%20Neurology%22">Clinical Neurology</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22College%20of%20Marine%20Science%22">College of Marine Science</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Committee%20for%20Archaeology%22">Committee for Archaeology</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22DIEM%22">DIEM</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Applied%20Physics%22">Department of Applied Physics</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Biochemistry%22">Department of Biochemistry</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Biochemistry%20and%20Biophysics%22">Department of Biochemistry and Biophysics</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Biochemistry%20and%20Immunology%22">Department of Biochemistry and Immunology</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Biological%20Sciences%22">Department of Biological Sciences</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Biological%20and%20Environmental%20Sciences%22">Department of Biological and Environmental Sciences</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Biology%20and%20Biochemistry%22">Department of Biology and Biochemistry</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Cardiovascular%20Research%22">Department of Cardiovascular Research</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Cellular%20and%20Molecular%20Medicine%22">Department of Cellular and Molecular Medicine</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Chemical%20Engineering%22">Department of Chemical Engineering</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Clinical%20Biochemistry%22">Department of Clinical Biochemistry</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Clinical%20Epidemiology%2CBiostatistics%20and%20Bioinformatics%2CAcademic%20Medical%20Centre%22">Department of Clinical Epidemiology,Biostatistics and Bioinformatics,Academic Medical Centre</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Clinical%20Neurological%20Sciences%22">Department of Clinical Neurological Sciences</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Clinical%20Neurology%22">Department of Clinical Neurology</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Community%20Medicine%22">Department of Community Medicine</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Computing%22">Department of Computing</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Earth%20Science%22">Department of Earth Science</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Economics%20and%20Finance%22">Department of Economics and Finance</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Education%22">Department of Education</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20English%22">Department of English</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Environmental%20Science%20and%20Engineering%22">Department of Environmental Science and Engineering</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Environmental%20Science%2CPolicy%2Cand%20Management%22">Department of Environmental Science,Policy,and Management</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Epidemiology%20and%20Public%20Health%22">Department of Epidemiology and Public Health</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Family%20and%20Preventive%20Medicine%22">Department of Family and Preventive Medicine</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Forest%20Resources%22">Department of Forest Resources</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Geography%20and%20the%20Environment%22">Department of Geography and the Environment</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Geological%20Sciences%22">Department of Geological Sciences</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Geology%20and%20Mineralogy%22">Department of Geology and Mineralogy</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Health%20Policy%20and%20Management%22">Department of Health Policy and Management</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Hepatology%22">Department of Hepatology</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Information%20Science%22">Department of Information Science</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Italian%22">Department of Italian</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Management%22">Department of Management</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Materials%20Science%22">Department of Materials Science</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Medical%20Genetics%20and%20Faculty%20of%20Medicine%2CDivision%20of%20Neurology%22">Department of Medical Genetics and Faculty of Medicine,Division of Neurology</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Medical%20Microbiology%2CAcademic%20Medical%20Center%22">Department of Medical Microbiology,Academic Medical Center</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Medicine%2CHarborview%20Medical%20Center%22">Department of Medicine,Harborview Medical Center</a> - (2)</li>
+                    
+		    <li><a href="/search/detailed?q=*:*&filterf_faculty=%22Department%20of%20Metallurgy%20and%20Materials%22">Department of Metallurgy and Materials</a> - (2)</li>
+		</ul>
+		</div>
+		</div>
+		<div class="browsetop"><div class="searchbottom">
+<div class="paginated_results">
+        
+<span class="numbers">
+<span class="pagination_label highlighted_page">
+<a href="/browse/faculty?start=0&sort=count">&#171;</a>
+</span>
+		
+		
+<span class="pagination_label highlighted_page">
+            
+			
+			
+			
+<a href="/browse/faculty?start=0&sort=count">1</a>
+</span>
+<span class="pagination_label">
+            
+			
+			
+			
+<a href="/browse/faculty?start=500&sort=count">2</a>
+</span>
+<span class="pagination_label">
+            
+			
+			
+			
+<a href="/browse/faculty?start=1000&sort=count">3</a>
+</span>
+<span class="pagination_label">
+            
+			
+			
+			
+<a href="/browse/faculty?start=1500&sort=count">4</a>
+</span>
+<span class="pagination_label">
+            
+			
+			
+			
+<a href="/browse/faculty?start=2000&sort=count">5</a>
+</span>
+<span class="ellipse">&#133;</span>
+<span class="pagination_label">
+<a href="/browse/faculty?start=2000&sort=count">&#187;</a>
+</span>
+</span><!--class=numbers-->
+
+</div><!--class=paginated_results-->
+<p>&nbsp;</p>
+
+</div></div> 
+		<div class="clear"></div>
+	</div>
+</div>
+
+		<div class="clear">&nbsp;</div>
+	</div>
+</div>
+
+<div id="footer">
+	<div id="footerlogo">
+		<div id="footimg">
+			<a href="http://www.ox.ac.uk">
+				<img src="/oxlogo.png" alt="University of Oxford Logo" />
+			</a>
+		</div>
+		<span id="copytext">Site Copyright &#169; 2008 Oxford University Research Archive. All rights reserved.</span>
+		<span class="rt">Site not yet optimized for viewing in mobile devices.</span>
+	</div>
+	<div id="footerblue">
+	<div id="footerblueinner">
+	
+		<ul id="footer_list">
+		<li><a href="/information/disclaimer">Disclaimer and Data Protection statement</a></li>
+		<li><a href="/information/cookies">Cookies</a></li>
+		<li><a href="/information/accessibility">Accessibility statement</a></li>
+		<li><a href="http://www.bodleian.ox.ac.uk/ora/deposit-in-ora/copyright_and_other_legal_issues">Copyright</a></li>
+		<li><a href="http://www.bodleian.ox.ac.uk/ora/about/ora-policies/take-down-policy">Take-down procedure and complaints</a></li>
+		<li><a href="mailto:ora@bodleian.ox.ac.uk">Contact</a></li>
+		</ul>
+		
+
+	
+	</div>
+	</div>
+</div>
+
+<!-- Piwik Tracking code -->
+<noscript><p><img src="http://orastats.bodleian.ox.ac.uk/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+
+<script type="text/javascript">
+ var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    //var u=(("https:" == document.location.protocol) ? "https" : "http") + "://orastats.bodleian.ox.ac.uk/";
+    var u="http://orastats.bodleian.ox.ac.uk/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<!-- End Piwik Tracking Code -->
+
+<!-- Google analytics tag -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24831671-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End Google analytics tag -->
+
+</body>
+</html>
+

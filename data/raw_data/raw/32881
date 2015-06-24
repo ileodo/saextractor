@@ -1,0 +1,341 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	Year 1 - Undergraduate Course
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=printerfriendly&amp;s=6&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Undergraduate Course Site Search" href="http://course.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	<meta name="viewport" content="width=670, initial-scale=0.45, minimum-scale=0.45" />
+<link rel='shortcut icon' href='/Data/Sites/6/skins/printerfriendly/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://course.chem.ox.ac.uk/year-1.aspx' /></head>
+<body class="pagebody">
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="17" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIDD2QWDAIXDw8WAh4HVmlzaWJsZWhkZAIjDw8WAh8AaGRkAiUPDxYEHghDc3NDbGFzcwU5YXJ0LWxheW91dC1jZWxsIGFydC1zaWRlYmFyMSBsZWZ0c2lkZSBsZWZ0MmNvbHVtbiBjbXN6b25lHgRfIVNCAgJkFgICAQ9kFgICAg9kFgJmEDwrAAkCAA8WCB4LXyFEYXRhQm91bmRnHgxEYXRhU291cmNlSUQFEVBhZ2VNYXBEYXRhU291cmNlHg1QYXRoU2VwYXJhdG9yBHweDU5ldmVyRXhwYW5kZWRkZAgUKwAFBQ8wOjAsMDoxLDA6MiwwOjMUKwACFgweBFRleHQFGU1pY2hhZWxtYXMgWWVhciAxICgyMDE0KSAeBVZhbHVlBSRkOWYyMjlkOC0zMjM5LTRhNDYtYTJmYy04NGY4MjIyY2Y4NTQeC05hdmlnYXRlVXJsBR5+L21p" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="Y2hhZWxtYXMteWVhci0xLTIwMTQtLmFzcHgeCERhdGFQYXRoBQMzNDEeCURhdGFCb3VuZGceEFBvcHVsYXRlT25EZW1hbmRnFCsACgUjMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2LDA6NywwOjgUKwACFgwfBwUyQXRvbWljIFN0cnVjdHVyZSBhbmQgUGVyaW9kaWMgVHJlbmRzIFllYXIgMSAoMjAxNCkfCAUkODZlNDBiZTUtMzc1MC00ZjYzLWE5NWItOTAyYzBkMGFjMDJlHwkFN34vYXRvbWljLXN0cnVjdHVyZS1hbmQtcGVyaW9kaWMtdHJlbmRzLXllYXItMS0yMDE0LmFzcHgfCgUDNDU1HwtnHwxoZBQrAAIWDB8HBTJJb25pYyBNb2RlbCBhbmQgU3RydWN0dXJlcyBvZiBTb2xpZHMgWWVhciAxICgyMDE0KR8IBSRmZjVmODg5YS03MGQ0LTQxZmItYmRiZC0y" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="NWJhYzI0MDU3MTEfCQU3fi9pb25pYy1tb2RlbC1hbmQtc3RydWN0dXJlcy1vZi1zb2xpZHMteWVhci0xLTIwMTQuYXNweB8KBQM0NTYfC2cfDGhkFCsAAhYMHwcFL0ludHJvZHVjdGlvbiB0byBPcmdhbmljIENoZW1pc3RyeSBZZWFyIDEgKDIwMTQpHwgFJDA4OWM5OTIxLWFlOGEtNDQ5Ni04OGIzLThhZWIwNjE0YjA3MB8JBTR+L2ludHJvZHVjdGlvbi10by1vcmdhbmljLWNoZW1pc3RyeS15ZWFyLTEtMjAxNC5hc3B4HwoFAzQ1Nx8LZx8MaGQUKwACFgwfBwUnT3JiaXRhbHMgYW5kIE1lY2hhbmlzbXMgMSBZZWFyIDEgKDIwMTQpHwgFJGUwYjRlZTc5LTU3NjItNDJkNy1iZmQ0LWNhNjEyNTViODhlMR8JBSx+L29yYml0YWxzLWFuZC1tZWNoYW5pc21zLTEteWVh" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="ci0xLTIwMTQuYXNweB8KBQM0NTgfC2cfDGhkFCsAAhYMHwcFSEZvdW5kYXRpb25zIG9mIFBoeXNpY2FsIENoZW1pc3RyeTogQ2hlbWljYWwgVGhlcm1vZHluYW1pY3MgWWVhciAxICgyMDE0KR8IBSQ5MzQ2YjM2NC00M2U1LTQ1NDMtOTA4Ni1mODk5YTJiOTg4NGIfCQVMfi9mb3VuZGF0aW9ucy1vZi1waHlzaWNhbC1jaGVtaXN0cnktY2hlbWljYWwtdGhlcm1vZHluYW1pY3MteWVhci0xLTIwMTQuYXNweB8KBQM0NTkfC2cfDGhkFCsAAhYMHwcFWlRoZSBQaHlzaWNhbCBCYXNpcyBvZiBDaGVtaXN0cnk6IFByb3BlcnRpZXMgb2YgR2FzZXMgYW5kIENsYXNzaWNhbCBNZWNoYW5pY3MgWWVhciAxICgyMDE0KR8IBSQ4NDYxZTI0NS02ZmZkLTQ3YjYtODY3Ny0yNDlm" />
+<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="M2U0N2QxYTYfCQVefi90aGUtcGh5c2ljYWwtYmFzaXMtb2YtY2hlbWlzdHJ5LXByb3BlcnRpZXMtb2YtZ2FzZXMtYW5kLWNsYXNzaWNhbC1tZWNoYW5pY3MteWVhci0xLTIwMTQuYXNweB8KBQM0NjAfC2cfDGhkFCsAAhYMHwcFQVRoZSBQaHlzaWNhbCBCYXNpcyBvZiBDaGVtaXN0cnk6IFRoZSBSb2xlIG9mIENoYXJnZSBZZWFyIDEgKDIwMTQpHwgFJDkyODU2Y2Q4LTBkZTMtNDM3MS1iODc3LTk5NWQ1YjRjNjNiMx8JBUd+L3RoZS1waHlzaWNhbC1iYXNpcy1vZi1jaGVtaXN0cnktdGhlLXJvbGUtb2YtY2hhcmdlLXllYXItMS0yMDE0LTEuYXNweB8KBQM0NjEfC2cfDGhkFCsAAhYMHwcFM1RoZSBDYWxjdWx1cyBvZiBPbmUgYW5kIFR3byBWYXJpYWJsZXMgWWVh" />
+<input type="hidden" name="__VIEWSTATE5" id="__VIEWSTATE5" value="ciAxICgyMDE0KR8IBSQxOGIyYzI1YS0xMzI3LTQwMzctYTdmZC0yZGE0MmQ0MGI1ZWMfCQU4fi90aGUtY2FsY3VsdXMtb2Ytb25lLWFuZC10d28tdmFyaWFibGVzLXllYXItMS0yMDE0LmFzcHgfCgUDNDYyHwtnHwxoZBQrAAIWDB8HBSVJbnRyb2R1Y3Rpb24gdG8gVmVjdG9ycyBZZWFyIDEgKDIwMTQpHwgFJDIwYjY4ZmIwLWI4MjgtNGM4NC1hZWE2LTgzOWQ3MWQxODgyZR8JBSp+L2ludHJvZHVjdGlvbi10by12ZWN0b3JzLXllYXItMS0yMDE0LmFzcHgfCgUDNjk3HwtnHwxoZBQrAAIWDB8HBRRIaWxhcnkgWWVhciAxICgyMDE1KR8IBSQzMWY3MzY0YS1hY2ZmLTRjN2YtYmU0My1lZWQwNTI3ODg4MDAfCQUZfi9oaWxhcnkteWVhci0xLTIwMTUuYXNweB8KBQMz" />
+<input type="hidden" name="__VIEWSTATE6" id="__VIEWSTATE6" value="NDIfC2cfDGcUKwANBTEwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjksMDoxMCwwOjExFCsAAhYMHwcFP01vbGVjdWxhciBTaGFwZXMsIFN5bW1ldHJ5IGFuZCBNb2xlY3VsYXIgT3JiaXRhbHMgWWVhciAxICgyMDE1KR8IBSQ2MTQxZWEwNC01NTAyLTRiZDgtODNjYS01MTMwODZkYTBmM2MfCQVDfi9tb2xlY3VsYXItc2hhcGVzLXN5bW1ldHJ5LWFuZC1tb2xlY3VsYXItb3JiaXRhbHMteWVhci0xLTIwMTUuYXNweB8KBQM3MzAfC2cfDGhkFCsAAhYMHwcFM0FjaWRzLCBCYXNlcyBhbmQgU29sdXRpb25zIEVxdWlsaWJyaWEgWWVhciAxICgyMDE1KR8IBSQ3YmI3OGFlZC03MzZkLTQxMzktYTVmOS03ZjE0ZTIwMzg5NTAfCQU3fi9hY2lkcy1i" />
+<input type="hidden" name="__VIEWSTATE7" id="__VIEWSTATE7" value="YXNlcy1hbmQtc29sdXRpb25zLWVxdWlsaWJyaWEteWVhci0xLTIwMTUuYXNweB8KBQM3MzEfC2cfDGhkFCsAAhYMHwcFIU5vbi1NZXRhbCBDaGVtaXN0cnkgWWVhciAxICgyMDE1KR8IBSQwMDc5YzQ4OC1jMjZhLTQ1ZmQtYTkxNi1kMWI4MWVjMjk3ZGMfCQUmfi9ub24tbWV0YWwtY2hlbWlzdHJ5LXllYXItMS0yMDE1LmFzcHgfCgUDNDE1HwtnHwxoZBQrAAIWDB8HBSVDb3JlIENhcmJvbnlsIENoZW1pc3RyeSBZZWFyIDEgKDIwMTUpHwgFJDQwYjIyMDA2LWE0MmUtNDczMi05OWQ4LThkYTBiNmQzMjI2MR8JBSp+L2NvcmUtY2FyYm9ueWwtY2hlbWlzdHJ5LXllYXItMS0yMDE1LmFzcHgfCgUDNDE2HwtnHwxoZBQrAAIWDB8HBT9TdWJzdGl0dXRpb24gYW5kIEVs" />
+<input type="hidden" name="__VIEWSTATE8" id="__VIEWSTATE8" value="aW1pbmF0aW9uIG9mIFNhdHVyYXRlZCBDYXJib25zIFllYXIgMSAoMjAxNSkfCAUkMjMwYTE3ZDQtZmIzYy00ZTY3LWEzZDMtMDZlOTA0Y2M5N2VlHwkFRH4vc3Vic3RpdHV0aW9uLWFuZC1lbGltaW5hdGlvbi1vZi1zYXR1cmF0ZWQtY2FyYm9ucy15ZWFyLTEtMjAxNS5hc3B4HwoFAzQxNx8LZx8MaGQUKwACFgwfBwUpQ2hlbWlzdHJ5IG9mIEPigJNDIHBpIEJvbmRzIFllYXIgMSAoMjAxNSkfCAUkMGM2YzhkODEtMTI5Yy00YWYyLTlhMGQtMjczYTJjY2E1NGFhHwkFLn4vY2hlbWlzdHJ5LW9mLWPigJNjLXBpLWJvbmRzLXllYXItMS0yMDE1LmFzcHgfCgUDNDE4HwtnHwxoZBQrAAIWDB8HBR5FbGVjdHJvY2hlbWlzdHJ5IFllYXIgMSAoMjAxNSkfCAUkMjZkZjgy" />
+<input type="hidden" name="__VIEWSTATE9" id="__VIEWSTATE9" value="YWMtMWI4Yi00NGIzLThmMDgtZmFkMTViOWNmOGQ4HwkFI34vZWxlY3Ryb2NoZW1pc3RyeS15ZWFyLTEtMjAxNS5hc3B4HwoFAzQyMB8LZx8MaGQUKwACFgwfBwVBVGhlIFBoeXNpY2FsIEJhc2lzIG9mIENoZW1pc3RyeTogVGhlIFJvbGUgb2YgQ2hhcmdlIFllYXIgMSAoMjAxNSkfCAUkYmZiNTdhNTgtMjBlZS00N2JlLTgxZjEtOWIzMTFmM2RiYWVmHwkFRX4vdGhlLXBoeXNpY2FsLWJhc2lzLW9mLWNoZW1pc3RyeS10aGUtcm9sZS1vZi1jaGFyZ2UteWVhci0xLTIwMTUuYXNweB8KBQM0MjEfC2cfDGhkFCsAAhYMHwcFM1F1YW50dW0gVGhlb3J5IG9mIEF0b21zIGFuZCBNb2xlY3VsZXMgWWVhciAxICgyMDE1KR8IBSRiYjgyYjMxMy01MTFkLTQyM2UtYjk5OS1j" />
+<input type="hidden" name="__VIEWSTATE10" id="__VIEWSTATE10" value="YjExY2ViM2FmZmQfCQU4fi9xdWFudHVtLXRoZW9yeS1vZi1hdG9tcy1hbmQtbW9sZWN1bGVzLXllYXItMS0yMDE1LmFzcHgfCgUDNDIzHwtnHwxoZBQrAAIWDB8HBR9SZWFjdGlvbiBLaW5ldGljcyBZZWFyIDEgKDIwMTUpHwgFJDQ1ZWFmNDU5LThlMzYtNDM5YS05MWM4LTVmYTU2M2IzNmQyMR8JBSR+L3JlYWN0aW9uLWtpbmV0aWNzLXllYXItMS0yMDE1LmFzcHgfCgUDNDI0HwtnHwxoZBQrAAIWDB8HBVVDb21wbGV4IE51bWJlcnMsIE11bHRpcGxlIEludGVncmFscyBhbmQgT3JkaW5hcnkgRGlmZmVyZW50aWFsIEVxdWF0aW9ucyBZZWFyIDEgKDIwMTUpHwgFJDRjMWZhODM2LTIyOGEtNDRmMC1hMmIzLWFlM2RmNWJhZDQzZh8JBVl+L2NvbXBsZXgtbnVtYmVy" />
+<input type="hidden" name="__VIEWSTATE11" id="__VIEWSTATE11" value="cy1tdWx0aXBsZS1pbnRlZ3JhbHMtYW5kLW9yZGluYXJ5LWRpZmZlcmVudGlhbC1lcXVhdGlvbnMteWVhci0xLTIwMTUuYXNweB8KBQM0MjUfC2cfDGhkFCsAAhYMHwcFLVZlY3RvciBBbGdlYnJhIGFuZCBEZXRlcm1pbmFudHMgWWVhciAxICgyMDE1KR8IBSRjNmRkNWRjMS0xZTdlLTQyY2YtYmQyNS1kMTljYTM1Y2Y1YjkfCQUyfi92ZWN0b3ItYWxnZWJyYS1hbmQtZGV0ZXJtaW5hbnRzLXllYXItMS0yMDE1LmFzcHgfCgUDNDI2HwtnHwxoZBQrAAIWDB8HBRVUcmluaXR5IFllYXIgMSAoMjAxNSkfCAUkYzdkNTJlN2UtMGZhYi00YjQ1LWFlYWYtOTcyZGM1M2RhNmJlHwkFGn4vdHJpbml0eS15ZWFyLTEtMjAxNS5hc3B4HwoFAzM0Mx8LZx8MZxQrAAgFGzA6MCww" />
+<input type="hidden" name="__VIEWSTATE12" id="__VIEWSTATE12" value="OjEsMDoyLDA6MywwOjQsMDo1LDA6NhQrAAIWDB8HBShUcmFuc2l0aW9uIE1ldGFsIENoZW1pc3RyeSBZZWFyIDEgKDIwMTUpHwgFJGJkZmIwM2Y0LTFiYWEtNGY1MC05ZjJjLWViY2I1Mzk5NTMwMh8JBS1+L3RyYW5zaXRpb24tbWV0YWwtY2hlbWlzdHJ5LXllYXItMS0yMDE1LmFzcHgfCgUDMzQ0HwtnHwxoZBQrAAIWDB8HBR1SZXZpc2lvbiB0b3BpY3MgWWVhciAxICgyMDE1KR8IBSQxZDY5ODRkNC03NDAxLTQyZmQtOTc2Ni00YmViNmU2NWUyMjcfCQUifi9yZXZpc2lvbi10b3BpY3MteWVhci0xLTIwMTUuYXNweB8KBQQxODQyHwtnHwxoZBQrAAIWDB8HBTJJbnRyb2R1Y3Rpb24gdG8gQmlvbG9naWNhbCBDaGVtaXN0cnkgWWVhciAxICgyMDE1KR8IBSQ4NzFm" />
+<input type="hidden" name="__VIEWSTATE13" id="__VIEWSTATE13" value="MmViYS0zZWIyLTQxMzMtODM2Mi1jOWNhY2MwNzkxOGEfCQU3fi9pbnRyb2R1Y3Rpb24tdG8tYmlvbG9naWNhbC1jaGVtaXN0cnkteWVhci0xLTIwMTUuYXNweB8KBQMzNDUfC2cfDGhkFCsAAhYMHwcFKlJldmlzaW9uIGFuZCBQcm9ibGVtIFNvbHZpbmcgWWVhciAxICgyMDE1KR8IBSQ0YzE4MmM3OC04MjQ2LTQ4YjUtODRiZS1lNjYyODhhMThiNDgfCQUvfi9yZXZpc2lvbi1hbmQtcHJvYmxlbS1zb2x2aW5nLXllYXItMS0yMDE1LmFzcHgfCgUEMTQ3OB8LZx8MaGQUKwACFgwfBwU4SW50cm9kdWN0aW9uIHRvIE9yZ2FuaWMgU3ludGhlc2lzICh0YXN0ZXIpIFllYXIgMSAoMjAxNSkfCAUkNDdhYTBkYjktMzhjMi00MmI0LTllZGEtM2JiYjM2MTIwYTBjHwkFO34v" />
+<input type="hidden" name="__VIEWSTATE14" id="__VIEWSTATE14" value="aW50cm9kdWN0aW9uLXRvLW9yZ2FuaWMtc3ludGhlc2lzLXRhc3Rlci15ZWFyLTEtMjAxNS5hc3B4HwoFBDE4NTUfC2cfDGhkFCsAAhYMHwcFHlN0YXRlcyBvZiBNYXR0ZXIgWWVhciAxICgyMDE1KR8IBSRkM2VhZDM3Yi0xYjNmLTQwMmEtYTFlZi0xOWM1MmEwMDFmYTQfCQUjfi9zdGF0ZXMtb2YtbWF0dGVyLXllYXItMS0yMDE1LmFzcHgfCgUDMzY0HwtnHwxoZBQrAAIWDB8HBRxNYXRyaXggQWxnZWJyYSBZZWFyIDEgKDIwMTUpHwgFJGQwN2RlMjc5LWVhOTAtNGViYS1hYjJlLTY1OWZlYzllYjQ3NR8JBSF+L21hdHJpeC1hbGdlYnJhLXllYXItMS0yMDE1LmFzcHgfCgUDMzY1HwtnHwxoZBQrAAIWDB8HBRRQaHlzaWNzIGZvciBDaGVtaXN0cx8IBSQ4ZGRjYjk1" />
+<input type="hidden" name="__VIEWSTATE15" id="__VIEWSTATE15" value="NS0yYzdiLTRiZDQtYThkNy0yNDliMzY4NDdjYjcfCQUbfi9waHlzaWNzLWZvci1jaGVtaXN0cy5hc3B4HwoFAzY1MR8LZx8MaGQFD2N0bDAwJGN0bDA1fG5ubmQCJw8PFgQfAQU1YXJ0LWxheW91dC1jZWxsIGFydC1jb250ZW50IGNlbnRlci1sZWZ0bWFyZ2luIGNtc3pvbmUfAgICZBYCAgUPZBYCZg9kFgICAg9kFgICAw9kFgICAw9kFgICAQ9kFgQCAQ8PFgIfAGhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIeCkNhbGxiYWNrSUQFKWN0bDAwJG1haW5Db250ZW50JGN0bDAwJFJhdGluZyRVc2VyUmF0aW5nZAINDw8WAh8AaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh8NBS9jdGwwMCRtYWluQ29udGVudCRjdGwwMCRSYXRpbmdCb3R0b20kVXNlclJhdGluZ2QCKQ8P" />
+<input type="hidden" name="__VIEWSTATE16" id="__VIEWSTATE16" value="FgYfAQURcmlnaHRzaWRlIGNtc3pvbmUfAgICHwBoZGQCNw8PFgIfAGhkZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUVY3RsMDAkUGFnZU1lbnUxJGN0bDAwBRVjdGwwMCRTaXRlTWVudTEkY3RsMDAPD2QFJDhlMzYzN2VkLThiY2ItNGY3NC1hNmJiLTQzNzk1NmQxMjA0N2RezyFaAlFVDt4fUEoplr3gSHXP3g==" />
+
+
+<script src="/ScriptResource.axd?d=EHWBFVSWDap_XQ_f-DdPnRIFtYlp7qloWf8E-c_pw9lbfIlFYZX-NWF4yFrDSwYWajicVe30fw0G13MBrguNr_81NuPq592ItKI_frsocFrUdcnz3xNwz2ozYPuzUBOsC1s5izc_J8Q03gn262AmXueXPgNtWKgrQkhA_5AGLCbFhnFzZLVM__0n24ZbSzxOp0n0wj8B_bG9hxoW4_qNR7FiJoXy4oUtoBiGrcXfL_WwpeE7kGOaoU2NYxyteRKrUQr7tbLf0DtSgZMo8rlPxtvLuznmM_AJMv1y3FTeWOg8-5JuhxdGCHj4y_sfQFsStPAEMOhz1CmYE58WimRbYCeUEY5oDgJV928fb645ygaQNwCwg6u0ruY0ll_5ezFnxPH2Ag2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAANRWQKs7VHlho+3E8SCcW/nluqpT+SRPGaj6Cukd6ylpw/INqdqdR6WrdirVNBGS8mCAe+qRGg0mLySGSVLgknB6YFIZw==" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://course.chem.ox.ac.uk/Default.aspx'>Undergraduate Course</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+	    
+
+<div class="AspNet-Menu-Horizontal" id="ctl00_SiteMenu1_ctl00">
+		<ul class="AspNet-Menu">
+			<li class="AspNet-Menu-Leaf">
+				<a href="/home.aspx" class="AspNet-Menu">
+					<span>Home</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/bridging.aspx" class="AspNet-Menu">
+					<span>Bridging</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf AspNet-Menu-SelectedLeaf">
+				<a href="/year-1.aspx" class="AspNet-Menu AspNet-Menu-SelectedLeaf">
+					<span>Year 1</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/year-2.aspx" class="AspNet-Menu">
+					<span>Year 2</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/year-3.aspx" class="AspNet-Menu">
+					<span>Year 3</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/part-ii-year.aspx" class="AspNet-Menu">
+					<span>Part II Year</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/supplementary-sub.aspx" class="AspNet-Menu">
+					<span>Supplementary Sub.</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/practicals.aspx" class="AspNet-Menu">
+					<span>Practicals</span></a>
+			</li>
+		</ul>
+
+</div>
+
+
+	    <div class="topnav">
+            <ul>
+            
+            <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+            <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+            
+            
+            
+            
+            
+            <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+            <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2fyear-1.aspx%3fskin%3dprinterfriendly">Sign In</a></li>
+            
+            </ul>  
+        </div>    
+        
+    </div>
+    <div id="wrapcenter">
+	    <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+	
+		    <div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+
+	<div class="AspNet-TreeView" id="ctl00_PageMenu1_ctl00">
+			<ul id="ctl00_PageMenu1_ctl00_UL">
+				<li class="AspNet-TreeView-Root">
+					<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/michaelmas-year-1-2014-.aspx" title="Expand this node.">&nbsp;</a>
+					<a href="/michaelmas-year-1-2014-.aspx">
+						Michaelmas Year 1 (2014) </a>
+					<ul class="AspNet-TreeView-Hide treehide">
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/atomic-structure-and-periodic-trends-year-1-2014.aspx">
+								Atomic Structure and Periodic Trends Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/ionic-model-and-structures-of-solids-year-1-2014.aspx">
+								Ionic Model and Structures of Solids Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/introduction-to-organic-chemistry-year-1-2014.aspx">
+								Introduction to Organic Chemistry Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/orbitals-and-mechanisms-1-year-1-2014.aspx">
+								Orbitals and Mechanisms 1 Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/foundations-of-physical-chemistry-chemical-thermodynamics-year-1-2014.aspx">
+								Foundations of Physical Chemistry: Chemical Thermodynamics Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/the-physical-basis-of-chemistry-properties-of-gases-and-classical-mechanics-year-1-2014.aspx">
+								The Physical Basis of Chemistry: Properties of Gases and Classical Mechanics Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/the-physical-basis-of-chemistry-the-role-of-charge-year-1-2014-1.aspx">
+								The Physical Basis of Chemistry: The Role of Charge Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/the-calculus-of-one-and-two-variables-year-1-2014.aspx">
+								The Calculus of One and Two Variables Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/introduction-to-vectors-year-1-2014.aspx">
+								Introduction to Vectors Year 1 (2014)</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root">
+					<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/hilary-year-1-2015.aspx" title="Expand this node.">&nbsp;</a>
+					<a href="/hilary-year-1-2015.aspx">
+						Hilary Year 1 (2015)</a>
+					<ul class="AspNet-TreeView-Hide treehide">
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/molecular-shapes-symmetry-and-molecular-orbitals-year-1-2015.aspx">
+								Molecular Shapes, Symmetry and Molecular Orbitals Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/acids-bases-and-solutions-equilibria-year-1-2015.aspx">
+								Acids, Bases and Solutions Equilibria Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/non-metal-chemistry-year-1-2015.aspx">
+								Non-Metal Chemistry Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/core-carbonyl-chemistry-year-1-2015.aspx">
+								Core Carbonyl Chemistry Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/substitution-and-elimination-of-saturated-carbons-year-1-2015.aspx">
+								Substitution and Elimination of Saturated Carbons Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/chemistry-of-c–c-pi-bonds-year-1-2015.aspx">
+								Chemistry of C–C pi Bonds Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/electrochemistry-year-1-2015.aspx">
+								Electrochemistry Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/the-physical-basis-of-chemistry-the-role-of-charge-year-1-2015.aspx">
+								The Physical Basis of Chemistry: The Role of Charge Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/quantum-theory-of-atoms-and-molecules-year-1-2015.aspx">
+								Quantum Theory of Atoms and Molecules Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/reaction-kinetics-year-1-2015.aspx">
+								Reaction Kinetics Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/complex-numbers-multiple-integrals-and-ordinary-differential-equations-year-1-2015.aspx">
+								Complex Numbers, Multiple Integrals and Ordinary Differential Equations Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/vector-algebra-and-determinants-year-1-2015.aspx">
+								Vector Algebra and Determinants Year 1 (2015)</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root">
+					<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/trinity-year-1-2015.aspx" title="Expand this node.">&nbsp;</a>
+					<a href="/trinity-year-1-2015.aspx">
+						Trinity Year 1 (2015)</a>
+					<ul class="AspNet-TreeView-Hide treehide">
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/transition-metal-chemistry-year-1-2015.aspx">
+								Transition Metal Chemistry Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/revision-topics-year-1-2015.aspx">
+								Revision topics Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/introduction-to-biological-chemistry-year-1-2015.aspx">
+								Introduction to Biological Chemistry Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/revision-and-problem-solving-year-1-2015.aspx">
+								Revision and Problem Solving Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/introduction-to-organic-synthesis-taster-year-1-2015.aspx">
+								Introduction to Organic Synthesis (taster) Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/states-of-matter-year-1-2015.aspx">
+								States of Matter Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/matrix-algebra-year-1-2015.aspx">
+								Matrix Algebra Year 1 (2015)</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/physics-for-chemists.aspx">
+						Physics for Chemists</a>
+				</li>
+			</ul>
+
+	</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+		    <a id="startcontent"></a>
+		    
+	    
+</div>
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+            
+	        
+	        
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module802" class=" moduletitle">Year 1</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<p><img title="Year 1" src="/Data/Sites/6/GalleryImages/WebImages/year1-wordle.png" alt="Year 1" width="550" height="246" /></p>
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+	    
+</div>
+	    		
+	</div>
+	<div id="wrapfooter">
+	    <br class="clear" />
+	    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+	    <a href='/year-1.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> | 
+	    &copy; 2008 - 2015 Departmental of Chemistry
+	    <br /><br />
+		<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+		<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+		<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://course.chem.ox.ac.uk/csshandler.ashx?skin=printerfriendly'  title='Valid CSS'>CSS</a> |
+        <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+	</div>
+</div>
+
+
+
+
+<div>
+	<input type="hidden" name="ctl00$ctl05" id="ctl00_ctl05" />
+</div>
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script>
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript"> 
+try{
+var mojoPageTracker = _gat._getTracker("UA-49363107-1");
+
+mojoPageTracker._setCustomVar(1, "member-type", "anonymous", 1);mojoPageTracker._trackPageview();
+} catch(err) {} </script></form>
+</body>
+</html>

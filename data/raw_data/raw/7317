@@ -1,0 +1,132 @@
+<!--array(29) {
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTP_HOST"]=>
+  string(20) "england.prm.ox.ac.uk"
+  ["HTTP_CONNECTION"]=>
+  string(10) "keep-alive"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(13) "gzip, deflate"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_USER_AGENT"]=>
+  string(49) "python-requests/2.5.1 CPython/2.7.9 Darwin/14.3.0"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["SERVER_SIGNATURE"]=>
+  string(128) "<address>Apache/2.2.3 (Debian) PHP/5.2.0-8+etch16 mod_ssl/2.2.3 OpenSSL/0.9.8c Server at england.prm.ox.ac.uk Port 80</address>
+"
+  ["SERVER_SOFTWARE"]=>
+  string(69) "Apache/2.2.3 (Debian) PHP/5.2.0-8+etch16 mod_ssl/2.2.3 OpenSSL/0.9.8c"
+  ["SERVER_NAME"]=>
+  string(20) "england.prm.ox.ac.uk"
+  ["SERVER_ADDR"]=>
+  string(11) "163.1.55.96"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(11) "163.1.134.1"
+  ["DOCUMENT_ROOT"]=>
+  string(16) "/var/www/england"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["SCRIPT_FILENAME"]=>
+  string(26) "/var/www/england/index.php"
+  ["REMOTE_PORT"]=>
+  string(5) "58802"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(41) "section=englishness&id=Mary-MacLeod-Banks"
+  ["REDIRECT_URL"]=>
+  string(36) "/englishness-Mary-MacLeod-Banks.html"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.1"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(41) "section=englishness&id=Mary-MacLeod-Banks"
+  ["REQUEST_URI"]=>
+  string(36) "/englishness-Mary-MacLeod-Banks.html"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1434625055)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(41) "section=englishness&id=Mary-MacLeod-Banks"
+  }
+  ["argc"]=>
+  int(1)
+}
+--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="Keywords" content="statistics, databases, English, Englishness, English collections, the other within, Pitt Rivers museum, museum" /><meta name="Description" content="Analysing the English collections at the Pitt Rivers Museum" /><meta name="author" content="David Harris, www.inetlab.co.uk & Daniel Burt, www.sunnymedia.co.uk" /><title>Mary MacLeod Banks</title><script type="text/javascript" src="js/mootools-1.11.js"></script><script type="text/javascript" src="js/slimbox.js"></script>	<link rel="stylesheet" href="css/reset-fonts-grids.css" type="text/css" /><link rel="stylesheet" href="css/england.prm.css" type="text/css" /></head><body><div id="doc4" class="yui-t3"><div id="hd">	<h1>ENGLAND: THE OTHER WITHIN</h1>	<h2>Analysing the English Collections at the Pitt Rivers Museum</h2>		<ul class="navbar">	 <li class="tab01"><a href="/">Home</a></li>	 <li class="tab02"><a href="englishness-analysis-overview.html">Analysis</a></li>	 <li class="tab03"><a href="englishness-english-databases.html">Databases</a></li>	 <li class="tab04"><a href="englishness-object-biographies.html">Articles</a></li>	 <li class="tabend05"><a href="map-objects.html">Map</a></li>	</ul></div> <!-- close hd--><p id="breadcrumb">You are here: <a href="">Home</a> &gt; Englishness Mary MacLeod Banks </p><div id="bd"> 	<div id="yui-main"> 		<div class="yui-b">			<div class="yui-g content"> 			<!-- start article -->			<h2>Mary MacLeod Banks</h2>
+<h2 class="author">Alison Petch,<br /> Researcher 'The Other Within' project</h2>
+<p>M.M. Banks (1861-1951), as she usually signed her papers, was President of the Folk-Lore Society from 1937 to 1939. Mrs Banks' father, D.C. McConnel, was a pioneer in Queensland, Australia where he arrived in 1840. Mary was born in 1861 in Edinburgh, she was educated in Europe but spent a great deal of her childhood in Queensland. She married an English architect, Alfred Banks but unfortuately he died as they returned to the UK. During her younger years she worked with Octavia Hill, and did rent-collecting in East London. She travelled widely through Europe, though her base was in London. She first joined the society in 1906 and became a member of the Council in 1912. She was the first recipient of the Society's Medal for Folk Lore Research in 1947, awarded for her work on Calendar Customs, a particular interest of hers. She was also a member of the Royal Historical Society, and the Philological Society. During the Second World War she was resident in Oxford when she had quite a lot of contact with the Pitt Rivers Museum and continued her work with the Society. Her neice wrote to Laurence Gomme, the President, that Mrs Banks 'interest in the work and her association with you all, was ... the greatest pleasure in her life'.</p>
+<p>She published many papers in <em>Folklore</em>. One of these papers was a summary of the Museums that held folk collections in England. But most dealt with specific traditions and festivals in England and elsewhere. Her 1938 Presidential address was titled, 'Syncretism in a Symbol'.</p>
+<h3>Banks' donations to the Pitt Rivers Museum</h3>
+<p>She donated a total of 11 artefacts to the Museum, between 1928 and 1943 (in three donations). There were artefacts from Moravia (now in the Czech Republic), a horse-brass from Germany, a chamber pot from Aberdeen used as a 'wedding-charm', and from London:</p>
+<blockquote>
+<p>Five (stamped) brass ornaments worn on a horses&rsquo; harness. 28 [inserted] early Saracen type [end of insertion] plain crescent, 29 crescent and star, 30 circle and star pattern, 31 diamond star pattern, 32 prancing horse England. (Collected in London). [1943.10.28-32]</p>
+</blockquote>
+<p>These were donated when Mrs Banks was living in Oxford, presumably to avoid the bombing in London during the Second World War. She must have obtained the remainder of her artefacts during her travels in Europe, and the horse-brasses whilst she was resident in London before the war.</p>
+<p>Her personal connection to the Museum and to Balfour, the curator until 1939 can be gleaned from her obituary for him in Folklore:</p>
+<blockquote>
+<p>But it is as a friend that Professor Balfour was most highly esteemed by those who had the privilege of knowing him and who were able to value his readiness to discuss baffling problems with others whose knowledge was insignificant compated with his own, who had experienced his welcome of small gifts to his museum as though they were priceless treasures, and his encouragement of every undertaking in the friendly spirit of a cooperator. It was one of the greatest pleasures of a congress here and abroad to meet him there; for many years his absence will be felt as a blank and a deprivation.[Banks, 1939: 111-2]</p>
+</blockquote>
+<p><strong>Further Reading</strong></p>
+<p>M. M. Banks 1945       	    	'Folk Museums and Collections in England'<cite> <em>Folklore</em></cite><em>,</em> Vol. 56, No. 1  (Mar., 1945), pp. 218-222</p>
+<p>Banks, Mary M. 'Obituary Notice: Henry Balfour' <cite><em>Folklore</em></cite><em>,</em> Vol. 50, No. 1  (Mar., 1939), pp. 111-112</p>
+<p>E. F. C. L. 1952 'Mary Macleod Banks'<cite> <em>Folklore</em></cite><em>,</em> Vol. 63, No. 1  (Mar., 1952), pp. 42-43</p>
+<ul id="journalInfo">
+</ul> 			<!-- end article -->			</div> 		</div> 	</div> 	<div class="yui-b">	<!-- YOUR NAVIGATION GOES HERE -->			<div id="themed-articles" class="widget">			<h2><span>&nbsp;Themed Articles &nbsp;</span></h2>			<ul>
+<li> <a href="englishness-what-is-an-english-object.html">What is an English object?</a></li>
+<li> <a href="englishness-acq.events1.html">Acquisition Events</a></li>
+ <li> <a href="englishness-RAI-fellows.html"> Anthropological Institute in 1900</a></li>
+<li> <a href="englishness-Bell-collection.html">The Bell collection of stone tools</a></li>
+<li> <a href="englishness-Blackwood-and-Otmoor.html"> Blackwood and Otmoor</a></li>
+ <li> <a href="englishness-calendar-related.html">Calendar-related artefacts</a></li>
+<li> <a href="englishness-Canziani-Introduction.html">Estella Canziani</a></li><li> <a href="englishness-Parsons-Keys.html">Catherine Parsons' Keys</a></li>
+<li> <a href="englishness-named-counties-characteristics.html">Characterising  Five 'named counties'</a></li>
+<li> <a href="englishness-funeral-objects.html">Death-related artefacts</a></li>
+<li> <a href="englishness-PRM-Artefact-Documentation.html">Documentation of PRM objects</a></li>
+<li> <a href="englishness-English-folklorists.html">English folklorists</a></li>
+<li> <a href="englishness-Ethnology-etc.html">Ethnology, Ethnography, Anthropology</a></li>
+<li> <a href="englishness-Ethnographical-Survey-of-the-UK.html">Ethnographical Survey of the UK</a></li>
+<li> <a href="englishness-Ellen-Ettlinger.html">Ellen Ettlinger</a></li>
+<li> <a href="englishness-London-gunmakers.html">London gunmakers</a></li>
+<li> <a href="englishness-Museum-of-England.html">Museum of England</a></li>
+<li><a href="../englishness-introduction-to-oxfordshire.html">Oxfordshire collections</a></li>
+<li> <a href="englishness-Pitt-Rivers-archaeology-England.html">Pitt Rivers and archaeology in England</a></li>
+<li> <a href="englishness-English-purchased-artefacts-intro.html">Purchase of English objects</a></li>
+<li> <a href="englishness-Scrimshaw-at-the-PRM.html">Scrimshaw</a></li>
+<li> <a href="englishness-PRM-Teaching-Introduction.html">Teaching at the Pitt Rivers Museum</a></li>
+<li> <a href="englishness-Technologies-and-Materials.html">Technologies and materials</a></li>
+</ul>
+
+		</div>		<div id="english-folklorists" class="widget">			<h2><span>&nbsp;English folklorists &nbsp;</span></h2>			<ul>
+<li> <a href="englishness-English-folklorists.html">English folklorists introduction</a></li>
+<li> <a href="englishness-Mary-MacLeod-Banks.html">Mary MacLeod Banks</li>
+<li> <a href="englishness-Winifred-Susan-Blackman.html">Winifred Susan Blackman</li>
+<li> <a href="englishness-Canziani-Introduction.html">Estella 
+Canziani</li>
+<li> <a href="englishness-George-Reginald-Carline.html">George Reginald Carline</li>
+<li> <a href="englishness-Edward-Clodd.html">Edward Clodd</a></li>
+<li> <a href="englishness-Frederick-Thomas-Elworthy.html">Frederick Thomas Elworthy</a></li>
+<li> <a href="englishness-Ellen-Ettlinger.html">Ellen Ettlinger</a></li>
+<li> <a href="englishness-Laurence-Gomme.html">Laurence Gomme</a></li>
+<li> <a href="englishness-Hartland.html">Edwin Sidney Hartland</a></li>
+<li> <a href="englishness-Christina-Hole.html">Christina Hole</a></li>
+<li> <a href="englishness-Joseph-Jacobs.html">Joseph Jacobs</a></li>
+<li> <a href="englishness-Edward-Lovett.html">Edward Lovett</a></li>
+<li> <a href="englishness-Percy-Manning.html">Percy Manning</a></li>
+<li> <a href="englishness-Barbara-Freire-Marreco.html">Barbara Freire-Marreco</a></li>
+<li> <a href="englishness-Margaret-Murray.html">Margaret Murray</a></li>
+<li> <a href="englishness-John-Linton-Myres.html">John Linton Myres</a></li>
+<li> <a href="englishness-Frederick-York-Powell.html">Frederick York Powell</a></li>
+<li> <a href="englishness-temple.html">Richard Carnac Temple</a></li>
+<li> <a href="englishness-Arthur-Robinson-Wright.html">Arthur Robinson Wright</a></li>
+<li> <a href="englishness-PRM-and-FLS.html">PRM staff and the Folklore Society</a></li>
+<li> <a href="englishness-FLS-members-and-donors.html">Folklore Society members and donors</a></li>		</div>	</div> </div> <!-- end of page <div class="spacer">&nbsp;</div>-->	<div id="ft">    <div align="right">        <script type="text/javascript">// Google Internal Site Search script- By JavaScriptKit.com (http://www.javascriptkit.com)// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/// This notice must stay intact for use//Enter domain of site to search.var domainroot="england.prm.ox.ac.uk"function Gsitesearch(curobj){curobj.q.value="site:"+domainroot+" "+curobj.qfront.value}</script><ul><li><form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">Search the Other Within website:<input name="q" type="hidden" /><input name="qfront" type="text" style="width: 120px" />&nbsp; <input type="submit" value="Search" /></form></li></ul></div>	</div> </div><!-- ENG2(163.1.55.83) --></body></html>

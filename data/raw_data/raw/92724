@@ -1,0 +1,248 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	SGD Group - People
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=styleshout-techmania&amp;s=31&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Steve Davies Group Site Search" href="http://davies.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	
+<link rel='shortcut icon' href='/Data/Sites/31/skins/styleshout-techmania/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://davies.chem.ox.ac.uk/people.aspx' /></head>
+<body id="ctl00_Body" class="pagebody">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="5" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIDD2QWAgIDD2QWDAIXDw8WAh4HVmlzaWJsZWhkZAIjDw8WAh8AaGRkAicPDxYEHghDc3NDbGFzcwU5YXJ0LWxheW91dC1jZWxsIGFydC1zaWRlYmFyMSBsZWZ0c2lkZSBsZWZ0MmNvbHVtbiBjbXN6b25lHgRfIVNCAgJkFgICAQ9kFgICAg9kFgJmEDwrAAkCAA8WCB4LXyFEYXRhQm91bmRnHgxEYXRhU291cmNlSUQFEVBhZ2VNYXBEYXRhU291cmNlHg1QYXRoU2VwYXJhdG9yBHweDU5ldmVyRXhwYW5kZWRkZAgUKwAIBRswOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYUKwACFgweBFRleHQFFlByb2Zlc3NvciBTdGV2ZSBEYXZpZXMeBVZhbHVlBSRjNzRiYTdhOC0xY2QzLTQxYmYtOGE4YS05MjI2MDcxNjhjNzUeC05h" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="dmlnYXRlVXJsBQp+L1NHRC5hc3B4HghEYXRhUGF0aAUEMTE2MR4JRGF0YUJvdW5kZx4QUG9wdWxhdGVPbkRlbWFuZGhkFCsAAhYMHwcFCVBvc3QtRG9jcx8IBSRjNDkxNjM1My0yNzQ1LTQ3ZTAtOTY1NC00ODg3OTZmNzBjOTMfCQUUfi9TR0QtUG9zdC1Eb2NzLmFzcHgfCgUEMTE2Mx8LZx8MaGQUKwACFgwfBwUQRC5QaGlsLiBTdHVkZW50cx8IBSRiMWUwZTU0ZC1jMjYwLTQxNDMtOTE0OC04ZDg2ZDZmMTNhYmYfCQURfi9TR0QtRFBoaWxzLmFzcHgfCgUEMTE2NB8LZx8MaGQUKwACFgwfBwUSTVNjIChSZXMpIFN0dWRlbnRzHwgFJDNiYzk5NTYwLTMwNWUtNGFlMC05NGZjLTAzNmMwZjhjZjA3Nx8JBRJ+L21zY3N0dWRlbnRzLmFzcHgfCgUEMTU3NB8LZx8MaGQU" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="KwACFgwfBwUQUGFydCBJSSBTdHVkZW50cx8IBSRkNjc0OTdmZC05MTJiLTRiZWYtOWQ4ZC1lZDE1ODFjM2ZiMWEfCQUTfi9TR0QtUGFydC1JSXMuYXNweB8KBQQxMTY1HwtnHwxoZBQrAAIWDB8HBRFBY2FkZW1pYyBWaXNpdG9ycx8IBSRlODQxOWQ3MC0zY2IwLTQwOTQtODI1Yy00MzFmZjE1ZWQzNTMfCQUTfi9TR0QtdmlzaXRvcnMuYXNweB8KBQQxMTY2HwtnHwxoZBQrAAIWDB8HBRhNZWRpY2luYWwgQ2hlbWlzdHJ5IFRlYW0fCAUkNDE4NzBlY2UtOGJkMy00ZWE3LThmOTgtNGQ1NzgwZWY0NTVhHwkFE34vbWVkY2hlbV90ZWFtLmFzcHgfCgUEMTE5OB8LZx8MaGQFDGN0bDAwJGN0bDA0fGQCKQ8PFgQfAQU1YXJ0LWxheW91dC1jZWxsIGFydC1jb250ZW50IGNl" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="bnRlci1sZWZ0bWFyZ2luIGNtc3pvbmUfAgICZBYCAgUPZBYCZg9kFgICAg9kFgICAw9kFgICAw9kFgICAQ9kFgQCAQ8PFgIfAGhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIeCkNhbGxiYWNrSUQFKWN0bDAwJG1haW5Db250ZW50JGN0bDAwJFJhdGluZyRVc2VyUmF0aW5nZAINDw8WAh8AaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh8NBS9jdGwwMCRtYWluQ29udGVudCRjdGwwMCRSYXRpbmdCb3R0b20kVXNlclJhdGluZ2QCKw8PFgYfAQURcmlnaHRzaWRlIGNtc3pvbmUfAgICHwBoZGQCOQ8PFgIfAGhkZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUVY3RsMDAkUGFnZU1lbnUxJGN0bDAwBRVjdGwwMCRTaXRlTWVudTEkY3RsMDAPD2QFJDNh" />
+<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="NmMxYjM5LTJmMzgtNGI2ZC1hNjNiLTU1MTJhNThjN2FiY2TEMKIB9DnE44NL16N13kqtH0X4qA==" />
+
+
+<script src="/ScriptResource.axd?d=EHWBFVSWDap_XQ_f-DdPnRIFtYlp7qloWf8E-c_pw9lbfIlFYZX-NWF4yFrDSwYWajicVe30fw0G13MBrguNr_81NuPq592ItKI_frsocFrUdcnz3xNwz2ozYPuzUBOsC1s5izc_J8Q03gn262AmXueXPgNtWKgrQkhA_5AGLCbFhnFzZLVM__0n24ZbSzxOp0n0wj8B_bG9hxoW4_qNR7FiJoXy4oUtoBiGrcXfL_WwpeE7kGOaoU2NYxyteRKrUQr7tbLf0DtSgZMo8rlPxtvLuznmM_AJMv1y3FTeWOg8-5JuhxdGCHj4y_sfQFsStPAEMOhz1CmYE58WimRbYCeUEY5oDgJV928fb645ygaQNwCwg6u0ruY0ll_5ezFnxPH2Ag2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAO1mKGZbEb2YdEWB/iRU5teluqpT+SRPGaj6Cukd6ylp37SvcSw6rXyqq+WqxWXas8zm1wX2R3RYNOJBvDRuYXatgcOYg==" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://davies.chem.ox.ac.uk/Default.aspx'>Steve Davies Group</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+	    
+
+<div class="AspNet-Menu-Horizontal" id="ctl00_SiteMenu1_ctl00">
+		<ul class="AspNet-Menu">
+			<li class="AspNet-Menu-Leaf">
+				<a href="/home.aspx" class="AspNet-Menu">
+					<span>Home</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/research.aspx" class="AspNet-Menu">
+					<span>Research</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/publications.aspx" class="AspNet-Menu">
+					<span>Publications</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf AspNet-Menu-SelectedLeaf">
+				<a href="/people.aspx" class="AspNet-Menu AspNet-Menu-SelectedLeaf">
+					<span>People</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/contact.aspx" class="AspNet-Menu">
+					<span>Contact</span></a>
+			</li>
+		</ul>
+
+</div>
+
+
+	    <div class="topnav">
+            <ul>
+            
+            <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+            <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+            
+            
+            
+            
+            
+            <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+            <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2fpeople.aspx">Sign In</a></li>
+            
+            </ul>  
+        </div>    
+        <div id="ctl00_InsecurePanel1" class="addthisbutton">
+	
+		      
+        
+</div>
+    </div>
+    <div id="wrapcenter">
+	    <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+	
+		    
+
+	<div class="AspNet-TreeView" id="ctl00_PageMenu1_ctl00">
+			<ul id="ctl00_PageMenu1_ctl00_UL">
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/SGD.aspx">
+						Professor Steve Davies</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/SGD-Post-Docs.aspx">
+						Post-Docs</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/SGD-DPhils.aspx">
+						D.Phil. Students</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/mscstudents.aspx">
+						MSc (Res) Students</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/SGD-Part-IIs.aspx">
+						Part II Students</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/SGD-visitors.aspx">
+						Academic Visitors</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/medchem_team.aspx">
+						Medicinal Chemistry Team</a>
+				</li>
+			</ul>
+
+	</div>
+
+
+		    <a id="startcontent"></a>
+		    
+	    
+</div>
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+            
+	        
+	        
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module2088" class=" moduletitle">The SGD Group</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<p style="text-align: justify">&nbsp;<br />
+The group currently consists of about&nbsp;25 people. We are based on the ground floor of the <a href="http://www.chem.ox.ac.uk/crl/" target="_blank">Chemistry Research Laboratory</a>.</p>
+
+<p><img alt="SGD Group 2013" height="366" src="/Data/Sites/31/photos/group1.jpg" style="display: block; margin-left: auto; margin-right: auto" width="650" /></p>
+
+<p>&nbsp;For more information about <a href="http://davies.chem.ox.ac.uk/SGD.aspx" target="_self">Steve</a> and the other members of the group, follow the links on the left hand side of this page.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+
+
+</div>
+
+	    
+</div>
+	    		
+	</div>
+	<div id="wrapfooter">
+	    <br class="clear" />
+	    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+	    <a href='/people.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> | 
+	    &copy; 2008 - 2015 Department of Chemistry - University of Oxford
+	    <br /><br />
+		<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+		<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+		<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://davies.chem.ox.ac.uk/csshandler.ashx?skin=styleshout-techmania'  title='Valid CSS'>CSS</a> |
+        <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+	</div>
+</div>
+<script type="text/javascript">
+function HideMenuToolbar(){ $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow");}
+function ShowMenuToolbar(){ $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow");}
+$(document).ready(function(){ 
+  $("span.downarr a").click(function() {HideMenuToolbar(); Set_Cookie('openstate', 'closed')});
+  $("span.showbar a").click(function() {ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+  $("span.downarr a, span.showbar a").click(function() { return false; });	
+	var openState = Get_Cookie('openstate');
+	if(openState != null){ if(openState == 'closed'){HideMenuToolbar();} if(openState == 'open'){ShowMenuToolbar();}}
+});	
+</script>
+
+
+<div>
+	<input type="hidden" name="ctl00$ctl04" id="ctl00_ctl04" />
+</div>
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

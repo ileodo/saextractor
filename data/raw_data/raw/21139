@@ -1,0 +1,334 @@
+
+<!DOCTYPE html>
+<html lang="en-GB">
+
+<head>
+  <title>OxTran (Oxford Transport Network) | Transport Studies Unit | University of Oxford</title>
+  <meta charset="ISO-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Favicon and touch icons -->
+<link rel="shortcut icon" href="http://www.tsu.ox.ac.uk/favicon.ico">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/icons/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon" href="/img/icons/apple-touch-icon.png">  <meta name="description" content="OxTran (Oxford Transport Network). The Transport Studies Unit (TSU) at the University of Oxford seeks to advance innovative approaches to the study of 'transport futures' over time and space. The TSU takes an interdisciplinary approach to the study of transport futures, drawing on relevant, state-of-the art developments in geography, environmental and transport studies, economics, sociology, psychology and the engineering sciences. We also draw on the full spectrum of available methods and underpinning philosophies for our research projects.">
+  <meta name="keywords" content="oxtran, transport, network, Oxford, Transport Studies Unit, geography">
+  <meta name="author" content="Chris White">
+    
+  <!-- Styles -->
+  <link href="/css/bootstrap.css" media="all" rel="stylesheet" type="text/css"> <!-- Bootstrap core CSS -->
+  <link href="/css/tsu.css" media="all" rel="stylesheet" type="text/css">
+    
+  <!-- Google Include -->
+
+<!-- Google Webmaster Tools Verification -->
+<meta name="google-site-verification" content="NAso_Rfqy7Uz3Li6pTE0mlSgWhAWBZi1pe2tznPA_xo">
+
+<!-- Google Analytics Tracker -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1616117-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- Common Scripts -->
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- HTML5 Shim: #125 v3.7.0    See: https://github.com/aFarkas/html5shiv -->
+<!-- Respond: #252              See: https://github.com/scottjehl/Respond -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="/js/html5shiv.js" type="text/javascript" ></script> 
+  <script src="/js/respond.js" type="text/javascript" ></script> 
+<![endif]-->
+</head>
+
+<body>
+  <!-- Start of Wrapper -->
+  <div id="wrapper" class="container section-title">
+    
+    <!-- Start of Masthead -->
+    <div id="wrapper-header" class="container"><div class="row">
+      <header role="banner">
+        <!-- TSU Header -->
+
+<div class="hidden"><a href="#content">Skip to content</a></div>
+
+<!-- Start of Masthead -->
+<div class="col-12 col-lg-12">
+  <h1 class="hidden">Transport Studies Unit, University of Oxford</h1>
+  <div class="clearfix logos">
+    <a href="http://www.ox.ac.uk"><img src="/img/titles/ox-brand.png" alt="University of Oxford" class="pull-right"></a>
+    <!--<a href="/" id="banner-tsu"><img src="/img/titles/masthead-tsu0.png" alt="Transport Studies Unit"></a>-->
+    <a href="/"><img src="/img/titles/logo-tsu.png" alt="Transport Studies Unit" class="pull-left" id="banner-tsu"></a>
+    <a href="/"><img src="/img/titles/masthead-tsu.png" alt="Transport Studies Unit"></a>
+  </div>
+</div>
+<!-- End of Masthead-->
+          
+        <!-- Start of Navigation: Breadcrumb -->
+        <div class="container"><div class="row">
+          <div class="col-sm-6 col-md-10"><nav id="nav-breadcrumb" role="navigation">
+            <ul class="breadcrumb">
+              <li><a href="/">Home</a></li>
+              <li>OxTran</li>
+            </ul>
+          </nav></div>
+          <div id="search-box" class="col-sm-6 col-md-2">
+            <form id="searchform" method="get" action="http://googlesearch.it.ox.ac.uk/search" class="form-inline" role="search">
+<fieldset>
+    
+  <input type="hidden" name="as_sitesearch" value="tsu.ox.ac.uk">
+  <input name="UnitPicture" value="http://www.tsu.ox.ac.uk/i/titles/tsu-logo.png" type="hidden">
+  <input name="client" value="oxford" type="hidden"> 
+  <input name="proxystylesheet" value="oxford" type="hidden"> 
+  <input name="output" value="xml_no_dtd" type="hidden">
+  <input name="Unit" value="TSU" type="hidden">  
+    
+  <div class="form-group pull-right">
+    <label class="sr-only" for="input-search">Search</label>
+    <button type="submit" name="Go" value="Search" class="btn btn-sm btn-default pull-right"><img src="/img/icons/search-black.png" alt="go"></button>
+    <input name="q" id="input-search" class="form-control input-sm pull-right" onfocus="clearsearch();" maxlength="2048" placeholder="Search" type="text">
+  </div>
+    
+</fieldset>
+</form>
+          </div>
+        </div></div>
+        <!-- End of Navigation: Breadcrumb -->
+      </header>
+    </div></div>
+    <!-- End of Masthead -->
+    
+    <!-- Start of Content Wrapper -->
+    <div id="wrapper-content" class="container"><div class="row">
+          
+        <div class="col-md-10 col-md-offset-2" id="page-title"><h2>OxTran (Oxford Transport Network)</h2></div>
+          
+        </div><div class="row">
+        <!-- Start of Navigation: Side -->
+        <div class="col-md-2" id="navigation">
+          
+          <nav role="navigation" id="nav-about">
+  <h1>About Us</h1>
+  <img src="/img/titles/nav-about.png" alt="About" id="nav-about-banner">
+  <ul class="nav nav-pills nav-stacked">
+    <li><a href="/">Home</a></li>
+    <li ><a href="/mission.html">Our Mission</a></li>
+    <li ><a href="/contacts.html">Contact Us</a></li>
+    <li ><a href="/people/">People</a></li>
+    <li ><a href="/events/">Events</a></li>
+    <li ><a href="/podcasts/">Podcasts</a></li>
+    <li ><a href="/news/">News</a></li>
+    <li ><a href="/course/">Global Challenges in Transport: Oxford Leadership Programme</a></li>
+    <!--<li ><a href="/course/sulp/">Sustainable Urbanisation International Leadership Programme</a></li>-->
+  </ul>
+</nav><!-- /menu-about -->
+<nav role="navigation" id="nav-research">
+  <h1>Our Research</h1>
+  <img src="/img/titles/nav-research.png" alt="Research" id="nav-research-banner">
+  <ul class="nav nav-pills nav-stacked">
+    <li ><a href="/research/">Research Programme</a></li>
+    <li ><a href="/research/theme-eecc/">Energy and the Environment</a></li>
+    <li ><a href="/research/theme-peg/">Governance and Public Policy</a></li>
+    <li ><a href="/research/theme-msc/">Culture and Society</a></li>
+    <li ><a href="/research/theme-hw/">Health and Wellbeing</a></li>
+    <li ><a href="/graduates/">Graduate Research</a></li>
+    <li ><a href="/pubs/">Publications</a></li>
+    <li ><a href="/pubs/wpapers.html">Working Papers</a></li>
+    <li ><a href="/trj/"><i>Transport Reviews</i> Journal</a></li>
+  </ul>
+</nav><!-- /menu-research -->
+
+<ul class="nav nav-pills nav-stacked" style="margin-top: 2em;">
+  <li><a href="https://twitter.com/TSUOxford"><img src="/img/icons/twitter_32.png" class="pull-left" style="margin: 0.3em 0.5em 0 0;"> Follow us on Twitter</a></li>
+  <li><a href="https://www.facebook.com/tsu.ox.ac.uk"><img src="/img/icons/facebook_32.png" class="pull-left" style="margin: 0.3em 0.5em 0 0;"> Follow us on Facebook</a></li>
+</ul>
+
+<div id="soge-banner">
+  <a href="http://www.geog.ox.ac.uk" title="Part of the School of Geography and the Environment"><img src="/img/titles/geog-brand-pos.png" alt="Part of the School of Geography and the Environment"></a>
+</div>
+         
+        </div>
+        <!-- End of Navigation: Side -->
+          
+        <!-- Start of Content -->
+        <div class="col-md-8" id="content"><main id="main" role="main">
+            
+          <article role="article">
+            <!--<header><h3>Article Header</h3></header>-->
+            <!--<div class="col-md-3 pull-right highlight">
+              highlight something about this article
+            </div>-->
+            <h4>Linking Transport Studies Unit to the transport community in and around Oxford</h4>
+              
+            <p>
+            OxTran aims to involve those interested in transport policy and practice in the Oxford area more closely with Transport Studies Unit. We hope to engage in a two way dialogue that will publicise events and issues in the area and help disseminate research that TSU is doing that is of benefit to the wider transport community.
+          </p>
+          
+          <!--<ul class="contents_shortcut">
+          <li><a href="#events">Upcoming transport events and news in and around Oxford</a></li>
+          <li><a href="#commentary">Commentary on transport issues</a></li>
+          <li><a href="#thought">Thought for the month</a></li>
+          <li><a href="#links">Links to other transport organisations and web sites in the Oxford Area</a></li>
+          </ul>-->
+            
+          <h3 id="events" style="margin-top: 2em;">Upcoming Transport Events and News</h3>
+            
+          <!--<table class="table" id="current-events">  
+            <tr><td style="width: 100px;"><img src="/events/ht13_seminars.png" alt="&copy; Dennis Schroeder / NREL (2011)"></td><td><span class="event-date">January - February 2013, SoGE, Oxford</span><h5><a href="./ht12_seminars/">TSU Seminar Series: Transitioning towards Electric Vehicles</a></h5><p>A series of seminars on the theme of 'Transitioning towards Electric Vehicles' delivered during Hilary Term 2013 in the School of Geography and the Environment, Oxford.</p></td></tr>
+          </table>-->
+            
+          <p class="alert alert-info" style="margin-top: 2em;">
+          Please send information on any local transport events you would like mentioned here to <a href="mailto:oxtran@tsu.ox.ac.uk">oxtran@tsu.ox.ac.uk</a>
+          </p>
+            
+          <h3 id="commentary" style="margin-top: 2em;">Commentary on Current Transport Issues</h3>
+          <p class="alert alert-info" style="margin-top: 2em;">
+          Please send any commentaries on current issues  you would like mentioned here to <a href="mailto:oxtran@tsu.ox.ac.uk">oxtran@tsu.ox.ac.uk</a>
+          </p>
+          
+          <h3 id="thought" style="margin-top: 2em;">Thought for the month</h3>
+          <div class="alert alert-success" style="padding-bottom: 0;">
+            <p></p>
+            <img src="/people/gstokes0.png" style="position: relative; float: left; margin-left: 0.5em;" alt="Gordon Stokes">
+            <blockquote style="margin-left: 67px; border-left: 5px solid #468847;">
+            <p style="font-size: 1em; margin-bottom: 0;">"Raising the motorway speed limit raises many questions but perhaps the biggest question relates to how the justification for increasing it is because so many break the current limit, and that economic gain will derive from people getting to their destinations quicker.  But that means they'll have travel faster than they currently do, and that will surely mean breaking the new 80mph limit.  So what happens then?  Do we raise it to 90mph?" (<i>Gordon Stokes</i>)</p>
+            </blockquote>
+            </div>
+            
+            
+          <h3 id="links" style="margin-top: 2em;">Links</h3>
+          <p>
+          Links to web pages of local transport interest, or with useful information about travelling locally.
+          </p>
+          <ul>
+          <li><a href="http://www.oxfordshire.gov.uk/roadsandtransport">Oxfordshire County Council</a></li>
+          <li><a href="http://www.oxfordcivicsoc.org.uk">Oxford Civic Society</a></li>
+          <li><a href="http://www.cyclox.org/">Cyclox - Cycling campaign for Oxford</a></li>
+          <li><a href="http://www.sustrans.org.uk/map?searchKey=oxford&amp;searchType=search&amp;Search=Find#451185,206087,2">Sustrans cycle route mapping around Oxford</a></li>
+          <li><a href="http://oxfordshire.acislive.com/">Real time bus information - Oxfordshire</a></li>
+          <li><a href="http://oxfordshire.acislive.com/pda/basic_pda.asp?SysId=35">Real time bus information county map (navigate to your area)</a></li>
+          <li><a href="http://oxfordshire.acislive.com/pda/basic_pda.asp?sysid=35&amp;mapid=196&amp;mapLevel=2&amp;naptan=0">Real time bus information map for central Oxford</a></li>
+          <li><a href="http://www.oxfordbus.co.uk/">Oxford Bus Company</a></li>
+          <li><a href="http://www.stagecoachbus.com/localdefault.aspx?Tag=Oxfordshire">Stagecoach Buses Oxfordshire</a></li>
+          <li><a href="http://www.bbc.co.uk/travelnews/oxford/">BBC Oxfordshire Transport News</a></li>
+          <li><a href="http://www.oxfordmail.co.uk/li/traffic.in.Oxford/">Oxford Mail local transport news</a></li>
+          <li><a href="http://www.livedepartureboards.co.uk/fgw/summary.aspx?T=OXF&amp;x=53&amp;y=7">Real time Oxford Station train times</a></li>
+          <li><a href="http://www.firstgreatwestern.co.uk/Content.aspx?id=5190">Current First Great Western train timetables</a></li>
+          <li><a href="http://www.oxpa.org.uk/">Oxfordshire Pedestrians Association</a></li>
+          </ul>
+          <p style="margin-bottom: 0;">... and , of course,</p>
+          <ul>
+          <li><a href="http://www.tsu.ox.ac.uk/">Transport Studies Unit</a></li>
+          </ul>
+            
+          <p style="margin-top: 2em;">
+          OxTran welcomes contributions from all within the Oxford area. It is moderated by Gordon Stokes and Karen Lucas of the TSU.  Please send contributions and suggestions to <a href="mailto:oxtran@tsu.ox.ac.uk">oxtran@tsu.ox.ac.uk</a>
+          </p>
+            <!--<footer>
+              <h5>Related information</h5>
+              <p>More information about this article is in the article footer</p>
+            </footer>-->
+          </article>
+            
+          
+        </main></div>
+        <!-- End of Content -->
+        
+        <!-- Start of Aside -->
+        <div class="col-md-2" id="aside"><aside id="complementary" role="complementary">
+          <section id="complementary-content">
+            <p>&nbsp;</p>
+          </section>
+        </aside></div>
+        <!-- End of Aside -->
+        
+      </div></div>
+    <!-- End of Content Wrapper-->
+    
+    <!-- Start of Footer -->  
+    <div class="container"><div class="row">
+      <footer id="colophon" role="contentinfo">
+        <!-- TSU Colophon -->
+<div id="colophon-legal" class="pull-left">
+  <ul class="nav nav-pills">
+    <li><a title="About this website" href="/about/">About this Website</a></li>
+    <li><a title="Privacy and Cookies" href="/about/privacy.html">Privacy &amp; Cookies</a></li>
+    <li><a title="Accessibility" href="/about/accessibility.html">Accessibility</a></li>
+    <li><a title="Copyright" href="http://www.ox.ac.uk/copyright.html">Copyright &copy; 2015</a></li>
+    <li><a title="Contact Us" href="/contacts.html">Contact Us</a></li>
+    <li><a title="Search" href="/search/">Search</a></li>
+  </ul>
+  <p class="muted">Transport Studies Unit, University of Oxford, South Parks Road, Oxford, OX1 3QY, UK | <a href="mailto:enquiries@tsu.ox.ac.uk" class="muted">enquiries@tsu.ox.ac.uk</a> | Tel: +44 (0)1865 285066 | Fax: +44 (0)1865 275885<br>Part of the <a href="http://www.geog.ox.ac.uk" class="muted">School of Geography and the Environment</a> | <a href="mailto:webmaster@tsu.ox.ac.uk" class="muted">webmaster@tsu.ox.ac.uk</a> | Page last modified: Thursday, 06 March 2014, 13:52:06 GMT</p>
+  <div class="fb-like" data-href="http://www.tsu.ox.ac.uk" data-send="true" data-width="450" data-show-faces="false" data-font="verdana"></div>
+  <div class="g-plusone" data-size="medium" data-annotation="inline" data-width="300"></div>
+</div>
+<div id="colophon-social" class="pull-right">
+  <a href="https://www.facebook.com/tsu.ox.ac.uk" alt="Like us on Facebook"><img src="/img/icons/facebook_32.png" alt="Facebook icon"></a>
+  <a href="https://twitter.com/TSUOxford" alt="Follow us on Twitter"><img src="/img/icons/twitter_32.png" alt="Twitter icon"></a>
+  <a href="https://itunes.apple.com/gb/itunes-u/transport-studies-unit-podcasts/id381703164?mt=10"><img src="/img/icons/itunes-u_32.png" alt="iTunes icon"></a>
+  <a href="http://rss.oucs.ox.ac.uk/oxitems/generatersstwo2.php?channel_name=ouce/news"><img src="/img/icons/rss_32.png" alt="RSS icon"></a>
+</div>
+
+      </footer>
+    </div></div>
+    <!-- Start of Footer -->  
+      
+  </div>
+  <!-- End of Wrapper -->
+    
+  <!-- Start of Javascript -->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!-- No need to tie into a specific version - just call the latest -->
+<script type="text/javascript" src="http://code.jquery.com/jquery.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<!-- All compiled (v3.1.1) plugins included -->
+<script type="text/javascript" src="/js/bootstrap.js"></script>
+
+<!-- Carousel -->
+<script type="text/javascript">$('.carousel').carousel({interval: 5000})</script>
+
+<!-- OUCS Cookie Banner -->
+<!--<script type="text/javascript" src="http://www.oucs.ox.ac.uk/shared/stylesheet/js/jquery-1.7.2.min.js"></script> replaced by jquery above-->
+<script type="text/javascript" src="http://www.oucs.ox.ac.uk/shared/stylesheet/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://www.oucs.ox.ac.uk/shared/stylesheet/analytics/analytics.js"></script>
+<script type="text/javascript">
+  optionalAnalytics({
+  doNotTrack: false,
+  analyticsID: "UA-1616117-4",
+  privacyPolicyURL: "/about/privacy.html",
+  domain: '.tsu.ox.ac.uk',
+  bannerText: '<div class="alert alert-info"><h3 class="pull-left">Cookies:</h3><button type="button" class="btn btn-mini btn-primary pull-right" id="analytics-accept">Accept and dismiss</button>We use analytics cookies to ensure we give you the best experience on our website. If you prefer not to receive cookies, you may <a id="analytics-reject">disable them</a>. See our <a id="analytics-policy">privacy policy</a> for more information, and to change your preference later.</div>'
+  });
+</script>
+
+<!-- Facebook Like Button -->
+<div id="fb-root"></div>
+<script type="text/javascript">
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- Google +1 Button -->
+<script type="text/javascript">
+  window.___gcfg = {lang: 'en-GB'};
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<!-- End of JavaScript --></body>
+</html>

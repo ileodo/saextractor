@@ -1,0 +1,1451 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://podcasts.ox.ac.uk/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Green Templeton College | University of Oxford Podcasts - Audio and Video Lectures</title>
+  <style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/modules/system/system.base.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.menus.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.messages.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.theme.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/modules/field/theme/field.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/google_appliance/theme/google_appliance.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/node/node.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/search/search.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/user/user.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/views/css/views.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/default.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/layout.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/style.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/podcasts/themes/betacast/custom.css?nps7e5");
+</style>
+<style type="text/css" media="print">
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/print.css?nps7e5");
+</style>
+  <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie6.css";</style>
+<![endif]--><!--[if gt IE 6]>
+      <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie7.css";</style>
+<![endif]--><!--[if gt IE 7]>
+      <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie8.css";</style>
+<![endif]-->  <script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/drupal.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/ajax.js?v=7.35"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/views/js/base.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/progress.js?v=7.35"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/views/js/ajax_view.js?nps7e5"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jwplayer.key="1DVFGWjiExVevwKOLsJRD3aMUuMGRzDelQvniVm0wDE="
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"betacast","theme_token":"tdxEVzzay_ZyScs5flwrYNXKHucGXFUV6TkPV3KxxpQ","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"sites\/all\/modules\/google_appliance\/theme\/google_appliance.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/podcasts\/themes\/betacast\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/podcasts\/themes\/betacast\/custom.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:0afe474ae73629abdc6cbf8d45d6e1f4":{"view_name":"taxonomy_term","view_display_id":"page","view_args":"313","view_path":"taxonomy\/term\/313","view_base_path":"taxonomy\/term\/%","view_dom_id":"0afe474ae73629abdc6cbf8d45d6e1f4","pager_element":0},"views_dom_id:5f48a490d80383d2873c74a57f50ce83":{"view_name":"taxonomy_term","view_display_id":"other","view_args":"313","view_path":"taxonomy\/term\/313","view_base_path":"taxonomy\/term\/%","view_dom_id":"5f48a490d80383d2873c74a57f50ce83","pager_element":0},"views_dom_id:af7c21a8d2dc38d1242726da34c094b9":{"view_name":"taxonomy_term","view_display_id":"units","view_args":"313","view_path":"taxonomy\/term\/313","view_base_path":"taxonomy\/term\/%","view_dom_id":"af7c21a8d2dc38d1242726da34c094b9","pager_element":0},"views_dom_id:f65c762388908e1d543613d41fd59619":{"view_name":"taxonomy_term","view_display_id":"other","view_args":"313","view_path":"taxonomy\/term\/313","view_base_path":"taxonomy\/term\/%","view_dom_id":"f65c762388908e1d543613d41fd59619","pager_element":0},"views_dom_id:fddd6aacfd215ba4e82f61b5b453eb38":{"view_name":"taxonomy_term","view_display_id":"units","view_args":"313","view_path":"taxonomy\/term\/313","view_base_path":"taxonomy\/term\/%","view_dom_id":"fddd6aacfd215ba4e82f61b5b453eb38","pager_element":0}}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26636073-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-313" >
+  <div id="googledesc">
+    Over 4000 free audio and video lectures, seminars and teaching resources from Oxford University.
+  </div>
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    <div id="skipnav"><a href="#content">Skip to Content</a> <a href="#navigation">Skip to Navigation</a></div>  
+<div id="page-wrapper">
+<div id="page" class="page with-navigation with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo-title">
+          <a href="http://www.ox.ac.uk/" title="University of Oxford Website" rel="home" id="logo">
+        <img src="http://podcasts.ox.ac.uk/sites/podcasts/themes/betacast/logo.png" alt="University of Oxford Logo"/>
+      </a>
+    
+          <div id="name-and-slogan">
+
+                    <div id="site-name">
+              <a href="/" title="Podcasts Homepage" rel="home">Podcasts</a>
+            </div>
+        
+        
+      </div>
+    	
+    </div> <!-- /logo-title -->
+          <div id="header-region">
+          <div class="region region-header">
+    <div id="block-google_appliance-ga_block_search_form" class="block block-google-appliance block-odd first last block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <form action="/units/green-templeton-college" method="post" id="google-appliance-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search Google Appliance</h2>
+    <div class="form-item form-type-textfield form-item-search-keys">
+  <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+ <input type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-qgUGXI90DDjq0Bk2lPLU9cHlmUhBaAzN49mLvzRzCZk" />
+<input type="hidden" name="form_id" value="google_appliance_block_form" />
+  
+</div>
+</div></form>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+      </div>
+    
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+
+    <div id="content">
+      <div id="content-inner" class="inner column center">
+
+                  <div id="content-header">
+
+            
+                          <div id="highlight">  <div class="region region-highlight">
+    <div id="block-views-taxonomy_term_block-block_1" class="block block-views block-odd first last block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-block view-id-taxonomy_term_block view-display-id-block_1 view-dom-id-1bda0fbb0fc5b1e2538e8e9cbb10ee2d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../">Home</a> &raquo; <a href="../units">Departments &amp; Colleges</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+</div>
+            	    
+	    
+                          <h1 class="title">Green Templeton College</h1>
+            
+                         
+            
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd first block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term view-id-taxonomy_term view-display-id-page view-dom-id-0afe474ae73629abdc6cbf8d45d6e1f4">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-4fe1b9e327ca7a2764923f12a9eb258c" class="block block-views block-even block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-block view-id-taxonomy_term_block view-display-id-block_unit_details view-dom-id-b306a8d21edbe08e2935c52e6af94ed6">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-unit-image">        <div class="field-content"><img typeof="foaf:Image" src="http://podcasts.ox.ac.uk/sites/podcasts/files/styles/large/public/images/units/Green%252520templeton_1_0.jpg?itok=tX_bAwoR" width="220" height="220" /></div>  </div>  
+  <div class="views-field views-field-nothing-2">    <h3 class="views-label views-label-nothing-2">Relevant Links</h3>    <span class="field-content"><ul>
+<li><a href="http://www.gtc.ox.ac.uk/">Green Templeton College</a></li>
+<li><a href="http://www.ox.ac.uk/colleges/">Colleges</a></li>
+<li><a href="http://www.campaign.ox.ac.uk/" target="_blank">The Campaign</a></li>
+<li><a href="http://www.ox.ac.uk/welcome/" target="_blank">Welcome to the University</a></li>
+</ul></span>  </div>  
+  <div class="views-field views-field-description">        <div class="field-content"><p>Green Templeton College is the University of Oxford’s newest college. International in membership and outlook, lively and supportive in spirit, and with an intellectual agenda focusing on issues relating to human welfare, it aims to lead the way in graduate education in Oxford.</p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-taxonomy_term_block-block_2" class="block block-views block-odd block-odd clearfix">
+  <div class="block-inner">
+
+                <h2 class="block-title">Series associated with Green Templeton College</h2>
+          		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-block view-id-taxonomy_term_block view-display-id-block_2 view-dom-id-68cf4f836d2e1a0e59010d314c4e003f">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-series-album-cover">        <div class="field-content"><a href="/series/green-templeton-college"><img typeof="foaf:Image" src="http://podcasts.ox.ac.uk/sites/podcasts/files/styles/thumbnail/public/images/series/originals/AlbumCoverGTC_2_1.jpg?itok=yJRojHdq" width="50" height="50" /></a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-series-album-cover">        <div class="field-content"><a href="/series/green-templeton-lectures-2013-feeding-better-future"><img typeof="foaf:Image" src="http://podcasts.ox.ac.uk/sites/podcasts/files/styles/thumbnail/public/images/series/originals/AlbumCoverGTC_3.jpg?itok=lR1RZYHY" width="50" height="50" /></a></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-field-series-album-cover">        <div class="field-content"><a href="/series/green-templeton-lectures-2014-tyranny-normal"><img typeof="foaf:Image" src="http://podcasts.ox.ac.uk/sites/podcasts/files/styles/thumbnail/public/images/series/originals/default-radcliffe_1_9.jpg?itok=m3GnOyPg" width="50" height="50" /></a></div>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-field-series-album-cover">        <div class="field-content"><a href="/series/pharmaceutical-industry-past-present-and-future"><img typeof="foaf:Image" src="http://podcasts.ox.ac.uk/sites/podcasts/files/styles/thumbnail/public/images/series/originals/AlbumCoverPharma_0_2.jpg?itok=5MTiVVM3" width="50" height="50" /></a></div>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field views-field-field-series-album-cover">        <div class="field-content"><a href="/series/uncertainty-part-decision-relevant-information"><img typeof="foaf:Image" src="http://podcasts.ox.ac.uk/sites/podcasts/files/styles/thumbnail/public/images/series/originals/uncertainty-ac-300_0_2.jpg?itok=8CdTzeGL" width="50" height="50" /></a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-taxonomy_term-units" class="block block-views block-even last block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term view-id-taxonomy_term view-display-id-units view-dom-id-af7c21a8d2dc38d1242726da34c094b9">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-7" >
+         <thead>
+      <tr>
+                  <th class="views-field views-field-counter" >
+            #          </th>
+                  <th class="views-field views-field-field-licence" >
+                      </th>
+                  <th class="views-field views-field-title" >
+            Episode Title          </th>
+                  <th class="views-field views-field-body" >
+            Description          </th>
+                  <th class="views-field views-field-field-people" >
+            People          </th>
+                  <th class="views-field views-field-created" >
+            Date          </th>
+                  <th class="views-field views-field-field-media-files" >
+            Media Files          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-counter" >
+            1          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/archie-cochrane-lecture-2015-malaria-control-past-present-and-future">Archie Cochrane Lecture 2015 : Malaria control; past, present and future</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Nicholas John White, Professor of Tropical Medicine, University of Oxford and Mahidol University, Physician, John Radcliffe Hospital gives the Archie Cochrane 2015 lecture.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/nicholas-john-white" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nicholas John White</a>          </td>
+                  <td class="views-field views-field-created" >
+            16 Jun 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1040081/download?token=2YiHb4ekqql1NYjVPY54VckPSAtnWI867ZSl_L3mF-g" type="audio/mpeg; length=55969502"></a> <span class="file-size">(53.38 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            2          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/sanjaya-lall-lecture-2015">Sanjaya Lall lecture 2015</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Abhijit Banerjee  (Sanjaya Lall Visiting Professor) delivers the 2015 Sajaya Lall Lecture.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/abhijit-banerjee" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Abhijit Banerjee</a>, <a href="/people/ingrid-lunt" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ingrid Lunt</a>, <a href="/people/john-vickers" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">John Vickers</a>, <a href="/people/vincent-crawford" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Vincent Crawford</a>          </td>
+                  <td class="views-field views-field-created" >
+            08 Jun 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1039995/download?token=u4BcNKDXfCKDB73O5A2c9w7SyPCDurDIU8z1g1dLjsA" type="video/mp4; length=1289753018"></a> <span class="file-size">(1.2 GB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039993/download?token=e8nRrcSpzatDupxPGyO0m0ippKdWyjQ0vMrczjxEqMs" type="audio/mpeg; length=50935495"></a> <span class="file-size">(48.58 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            3          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/childrens-worlds-through-childrens-literature-lecture-4">Children&#039;s Worlds through Children&#039;s Literature - Lecture 4</a>          </td>
+                  <td class="views-field views-field-body" >
+            Fourth lecture in the Green Templeton College lecture 2015.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/david-rudd" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">David Rudd</a>          </td>
+                  <td class="views-field views-field-created" >
+            30 Mar 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039613/download?token=lY9fsujN8WZfrjf4SY_ANCPVZCzZChP5wf3aanFHPDU" type="audio/mpeg; length=38950325"></a> <span class="file-size">(37.15 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            4          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/global-childhoods-lecture-3">Global Childhoods - Lecture 3</a>          </td>
+                  <td class="views-field views-field-body" >
+            Third lecture in the Green Templeton Colege 2015 lecture series.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/karen-wells" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Karen Wells</a>          </td>
+                  <td class="views-field views-field-created" >
+            30 Mar 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039614/download?token=WGMyNAfMrzJJCslmv7O-qNfXR2rOtV_kmL-OWca3drc" type="audio/mpeg; length=40732068"></a> <span class="file-size">(38.85 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            5          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/children-and-internet-lecture-2">Children and the Internet- Lecture 2</a>          </td>
+                  <td class="views-field views-field-body" >
+            Second lecture in the Green Templeton College 2015 lecture series.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/sonia-livingstone" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sonia Livingstone</a>          </td>
+                  <td class="views-field views-field-created" >
+            30 Mar 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039615/download?token=NTDKE6XnNRDmvB4LplUU8cF0qewEQp0u2sI7uycGpZ8" type="audio/mpeg; length=33942947"></a> <span class="file-size">(32.37 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            6          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/children-war-insecurity-and-conflict-lecture-1">Children, War, Insecurity and Conflict - Lecture 1</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Navi Pillay, UN High Commissioner for Human Rights 2008-2014 gives the first Green Templeton College Lecture in 2015 on war and human rights.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/navi-pillay" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Navi Pillay</a>          </td>
+                  <td class="views-field views-field-created" >
+            27 Mar 2015          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1039609/download?token=IfAxeZhudkDj1ZyMxFr6W3TgsoufDk9I2zHB_XvzLTw" type="audio/mpeg; length=35398084"></a> <span class="file-size">(33.76 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            7          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/new-patterns-innovation-barclay-lecture-2014">New Patterns of Innovation: Barclay Lecture 2014</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor David Gann, Vice-President and Chair in Innovation and Technology Management, Imperial College, London, gives the 2014 Barclay Lecture at Green Templeton College          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/david-gann-0" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">David Gann</a>          </td>
+                  <td class="views-field views-field-created" >
+            13 Nov 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1035512/download?token=uoRB2PIzwKIb0DwZoPyIIlsbvBJS3DyD7j-OvpMc2K0" type="audio/mpeg; length=53314593"></a> <span class="file-size">(50.84 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            8          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/mcgovern-lecture-2014-john-p-mcgovern-and-his-oxford-connection-biographers-perspective">McGovern Lecture 2014: John P McGovern and his Oxford Connection: A Biographer&#039;s Perspective</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Bryant Boutwell, University of Texas Health Science Center at Houston gives the 2014 McGovern Lecture at Green Templeton College          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/bryant-boutwell" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Bryant Boutwell</a>          </td>
+                  <td class="views-field views-field-created" >
+            12 Nov 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1035506/download?token=aVEcbcxWnpanAYihHFd-bpviTRCs7UdPrVEQsydH1z0" type="audio/mpeg; length=59413913"></a> <span class="file-size">(56.66 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            9          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/ordinary-people-do-extraordinary-things-what-do-lives-olympians-tell-us-about-champion-us">Ordinary People do Extraordinary Things: What Do the Lives of Olympians Tell Us About the Champion in Us All?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Peter Keen, Director of Sport at Loughborough University, gives a talk for the 2014 Green Templeton College lecture series          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/peter-keen" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Peter Keen</a>          </td>
+                  <td class="views-field views-field-created" >
+            02 Jul 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1034491/download?token=eIUoeoaFJ4Ez9LoBkWYPUejSK5fQABEIAbxF8ErIRTk" type="audio/mpeg; length=42982732"></a> <span class="file-size">(40.99 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            10          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/i-dont-way-i-look-psychological-consequences-appearance-norms">&quot;I Don&#039;t Like the Way I Look&quot;: the Psychological Consequences of Appearance Norms</a>          </td>
+                  <td class="views-field views-field-body" >
+            Societal interest in &#039;looks&#039; has a long history. Until recently, this interest has been considered largely benign: however, norms of appearance have become progressively more extreme and are now unattainable for the vast majority of people.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/nicole-rumsey" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nicole Rumsey</a>          </td>
+                  <td class="views-field views-field-created" >
+            02 Jul 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1034492/download?token=bgZRSISXCi7_ORhxfQvW4zxx04udAU3qgdwCA5yKVz8" type="audio/mpeg; length=50168272"></a> <span class="file-size">(47.84 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            11          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/cinematically-challenged">Cinematically Challenged</a>          </td>
+                  <td class="views-field views-field-body" >
+            Mainstream Hollywood cinema, the dominant medium of the twentieth century, represented the disabled more fully than most minorities, but what (or who) are these images really about?          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/adam-mars-jones" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Adam Mars-Jones</a>          </td>
+                  <td class="views-field views-field-created" >
+            02 Jul 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1034493/download?token=oLX0PsGhz_oNJJq-XSvr7dmcoewJdgtuid4kkWufjAk" type="audio/mpeg; length=43838630"></a> <span class="file-size">(41.81 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            12          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/do-we-face-secular-stagnation-panel-discussion">Do We Face Secular Stagnation? Panel Discussion </a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Paul Krugman, Sanjaya Lall Visiting Professor, leads a panel discussion on whether the world&#039;s economy is facing &#039;secular stagnation&#039; 5 years after the credit crunch.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/paul-krugman" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Paul Krugman</a>, <a href="/people/lord-adair-turner" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Lord Adair Turner</a>, <a href="/people/lord-robert-skidelsky" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Lord Robert Skidelsky</a>, <a href="/people/david-watson" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">David Watson</a>          </td>
+                  <td class="views-field views-field-created" >
+            14 May 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1034588/download?token=VKjPFz3xYUfxy_NmvlxonAmBRDFNaaux__OIFZ4f660" type="video/mp4; length=532382896"></a> <span class="file-size">(507.72 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1026749/download?token=v7TtcOA8btJh5jQAYsFDVfOTLcqDFeqI3ZyPZd6iZYk" type="audio/mpeg; length=69047692"></a> <span class="file-size">(65.85 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            13          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/real-life-tortoise-loses-leading-international-media-business-twenty-first-century-gtc"> In real life the tortoise loses: Leading an international media business in the twenty first century: GTC Barclay Lecture 2013</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dame Helen Alexander, Chairman of UBM plc, the Port of London Authority (PLA) and Incisive Media gives the 2013 Barclay Lecture           </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/dame-helen-alexander" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Dame Helen Alexander</a>          </td>
+                  <td class="views-field views-field-created" >
+            10 Dec 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1027556/download?token=mU4cIDVUiuUx84fSlKk31xUoxKyUURnlHfVxYpFuc00" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            14          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/spirit-scientific-rigour-kochs-postulates-and-20th-century-medicine-gtc-mcgovern-lecture"> A spirit of scientific rigour: Koch&#039;s postulates and 20th century medicine: GTC McGovern Lecture 2013</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Christoph Gradmann, Department of Community Medicine, Institute of Health and Society, University of Oslo gives the 2013 McGovern Lecture in the history of medicine          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/christoph-gradmann" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Christoph Gradmann</a>          </td>
+                  <td class="views-field views-field-created" >
+            10 Dec 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1027562/download?token=xLTq4uL1HaVGWHExzkR7Egq-XjW7iWuVkTFsK6woijg" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            15          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/can-kindness-save-nhs">Can kindness save the NHS?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Mr John Ballatt, Director of The Openings Consultancy gives a talk for the HEXI/MiM Speaker Series          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/john-ballatt" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">John Ballatt</a>          </td>
+                  <td class="views-field views-field-created" >
+            27 Nov 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1027856/download?token=IT4-FUBsre6w5LceS8nOomdiCjrbUaCTlKcXFIqnVp0" type="audio/mpeg; length=65928213"></a> <span class="file-size">(62.87 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            16          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/cochrane-lecture-2013-trials-emergency-care">Cochrane Lecture 2013: Trials In Emergency Care</a>          </td>
+                  <td class="views-field views-field-body" >
+            Ian Roberts, lecturer in Clinical Trials Unit, LSHTM, gives the 2013 Cochrane lecture on Trials in Emergency Care. He discusses the need for clinical trials in emergency situations and explains how such trials can and should be conducted.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/ian-roberts" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ian Roberts</a>          </td>
+                  <td class="views-field views-field-created" >
+            18 Jun 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1029631/download?token=TbHx_OPPH9iT5gQJuth-DeqTH-z-YXN1ZXD9h0gLgWY" type="audio/mpeg; length=58464268"></a> <span class="file-size">(55.76 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            17          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/global-malnutrition-can-we-make-difference">Global Malnutrition: Can We Make A Difference?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Global hunger affects nearly a billion people. The five major forms of malnutrition worldwide are: Protein-energy malnutrition, iron, iodine, zinc and vitamin A deficiencies.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/jeyakumar-henry" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Jeyakumar Henry</a>          </td>
+                  <td class="views-field views-field-created" >
+            19 Feb 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030366/download?token=0glNS69D3XE0I36k1qhMduCswl_uh6njAzuxLi5uz9Q" type="audio/mpeg; length=43662284"></a> <span class="file-size">(41.64 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            18          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/food-democracy-food-control-and-social-dimension-modern-food-policy">Food Democracy, Food Control and the Social Dimension of Modern Food Policy</a>          </td>
+                  <td class="views-field views-field-body" >
+            This lecture, given by Tim Lang, Professor of Food Policy, Centre for Food Policy, City University, London, focuses on the politics and social fissures that cut across contemporary food policy concerns.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/tim-lang" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Tim Lang</a>          </td>
+                  <td class="views-field views-field-created" >
+            19 Feb 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030314/download?token=csvhh6UJb4W6bLgSONs-101RxVYZiNAA0GJBCJN7eng" type="audio/mpeg; length=53630208"></a> <span class="file-size">(51.15 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            19          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/role-nutrition-mental-health-and-performance-changing-diets-changing-minds">The Role of Nutrition in Mental Health and Performance: Changing Diets, Changing Minds</a>          </td>
+                  <td class="views-field views-field-body" >
+            Human diets have changed dramatically over the last century, and the impact of industrialisation on our food supply has had devastating consequences for public health.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/alex-richardson" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Alex Richardson</a>          </td>
+                  <td class="views-field views-field-created" >
+            19 Feb 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030367/download?token=3uMEgrM56ujSRaCrmVwjy9DmBL2L8tnCrXiigUhSc10" type="audio/mpeg; length=54992699"></a> <span class="file-size">(52.45 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            20          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/one-billion-hungry-can-we-feed-world">One Billion Hungry: Can We Feed the World?</a>          </td>
+                  <td class="views-field views-field-body" >
+            More than six decades after the Green Revolution aimed at ending world hunger, regular food shortages, malnutrition, and poverty still plague vast swaths of the world.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/gordon-conway" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Gordon Conway</a>          </td>
+                  <td class="views-field views-field-created" >
+            19 Feb 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030368/download?token=2Pl9vMTRxkiNMJT5X0osDc6Wq90KoetJcQ4VHZx9j2Q" type="audio/mpeg; length=47093711"></a> <span class="file-size">(44.91 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            21          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/communicating-risk-and-uncertainty-climate-science-part-two">Communicating Risk and Uncertainty in Climate Science part two</a>          </td>
+                  <td class="views-field views-field-body" >
+            Peter Scott, Met Office, gives a talk for the Communicating Risk and Uncertainty conference, held at Green Templton College, Oxford on 15th Novemeber 2012.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/peter-scott" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Peter Scott</a>          </td>
+                  <td class="views-field views-field-created" >
+            21 Dec 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030428/download?token=LP0OeJisOjXeQPmXrDvyiaXOlM7xULE2IIww_eF9lgY" type="audio/mpeg; length=14161360"></a> <span class="file-size">(13.51 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            22          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/communicating-risk-and-uncertainty-climate-science-part-one">Communicating Risk and Uncertainty in Climate Science part one</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Chris Rapley, UCL, gives a talk for the Communicating Risk and Uncertainty conference, held at Green Templton College, Oxford on 15th Novemeber 2012. Introduced by Richard Black, former BBC Correspondent.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/chris-rapley" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Chris Rapley</a>, <a href="/people/richard-black" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Richard Black</a>          </td>
+                  <td class="views-field views-field-created" >
+            21 Dec 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030461/download?token=cj9jCzF2Uhi_SMk8n_qVPerv3HZUsL4ZNE9gan3dWHk" type="audio/mpeg; length=16631916"></a> <span class="file-size">(15.86 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            23          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/public-understanding-risk-and-uncertainy-part-two">Public Understanding of Risk and Uncertainy - part two</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Emily Shuckburgh, BAS/DECC, gives a talk for the Communicating Risk and Uncertainty conference, held at Green Templton College, Oxford on 15th Novemeber 2012.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/emily-shuckburgh" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Emily Shuckburgh</a>          </td>
+                  <td class="views-field views-field-created" >
+            21 Dec 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030462/download?token=-sN6e4Cem1nv08Xr9y4_9K3tBRpkgux8-2CNiWnz44I" type="audio/mpeg; length=18866744"></a> <span class="file-size">(17.99 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            24          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/public-understanding-risk-and-uncertainy-part-one">Public Understanding of Risk and Uncertainy - part one</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Nick Pidgeon, Cardiff University, gives a talk for the Communicating Risk and Uncertainty conference, held at Green Templeton College, Oxford on 15th November 2012.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/nick-pidgeon" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nick Pidgeon</a>          </td>
+                  <td class="views-field views-field-created" >
+            21 Dec 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030463/download?token=mDxrUP2NU_vp6TFELhAb1t8D1drIUV8P6X14ZgEo9u8" type="audio/mpeg; length=23549517"></a> <span class="file-size">(22.46 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            25          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/communicating-risk-and-uncertainty-opening-address">Communicating Risk and Uncertainty Opening Address</a>          </td>
+                  <td class="views-field views-field-body" >
+            Opening Address by Professor Speigelhalter, Winton Professor of the Public Understanding of Risk, Cambridge University.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/david-speigelhalter" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">David Speigelhalter</a>          </td>
+                  <td class="views-field views-field-created" >
+            20 Dec 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030464/download?token=_BRVp2rZW-PMnFHDkWo2Da1tcZ7zkXv-36CS-KEKLqs" type="audio/mpeg; length=22732825"></a> <span class="file-size">(21.68 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            26          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/experience-different-sectors-communicating-risk-and-uncertainty-part-one">The Experience of Different Sectors in Communicating Risk and Uncertainty part one</a>          </td>
+                  <td class="views-field views-field-body" >
+            Wendy Jarrett, Associate Director, Media Relations, National Institute for Clinical Excellence (NICE) gives a talk for the Communicating Risk and Uncertainty conference, held at Green Templeton College, Oxford.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/wendy-jarrett" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Wendy Jarrett</a>          </td>
+                  <td class="views-field views-field-created" >
+            20 Dec 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030465/download?token=8JP4Jq1QW0HIyOlamEKX0UVOYKJSdKsRlx644usv4ys" type="audio/mpeg; length=12380018"></a> <span class="file-size">(11.81 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            27          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/can-stories-change-world-promises-and-challenges-web-based-patient-feedback-improving-care">Can stories change the world? Promises and challenges of web-based patient feedback for improving care</a>          </td>
+                  <td class="views-field views-field-body" >
+            Health Experiences Institute/Management in Medicine (HEXI/MiM) speaker event.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/james-munro" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">James Munro</a>, <a href="/people/malte-ziewitz" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Malte Ziewitz</a>, <a href="/people/louise-locock" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Louise Locock</a>          </td>
+                  <td class="views-field views-field-created" >
+            22 Nov 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030592/download?token=Cqn9WHdd__xB1z4XXGfAnUMeN1DhvLk2VIbqQN9xPpw" type="audio/mpeg; length=67691608"></a> <span class="file-size">(64.56 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            28          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/mcgovern-lecture-2012-halving-premature-death">McGovern Lecture 2012: Halving Premature Death</a>          </td>
+                  <td class="views-field views-field-body" >
+            Sir Richard Peto, GTC Fellow, Professor of Medical Statistics and Epidemiology at the University of Oxford, gives the annual McGovern Lecture.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/sir-richard-peto" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sir Richard Peto</a>          </td>
+                  <td class="views-field views-field-created" >
+            13 Nov 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030636/download?token=_tVr4VUgXr2SPY48Krwwg_RfSKttke_JwKftt_g4JCE" type="audio/mpeg; length=65732628"></a> <span class="file-size">(62.69 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            29          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/leaders-we-need-healthcare">The Leaders We Need for Healthcare</a>          </td>
+                  <td class="views-field views-field-body" >
+            Podcast from Green Templeton College recorded on Thursday 13th July 2012. With Dr Michael Maccoby, Associate Fellow of the Saïd Business School President of the Maccoby Group in Washington.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/michael-maccoby" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Michael Maccoby</a>          </td>
+                  <td class="views-field views-field-created" >
+            15 Jul 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030895/download?token=mhnyxuLSFuj9b6DG7zG6VNIo0W2whCOuqN-cBWkcp0A" type="audio/mpeg; length=49548402"></a> <span class="file-size">(47.25 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            30          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/uncertain-climate">An Uncertain Climate</a>          </td>
+                  <td class="views-field views-field-body" >
+            Chris Rapley, Professor of Climate Science, University College London, gives the final lecture in the Uncertainty series.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/chris-rapley" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Chris Rapley</a>          </td>
+                  <td class="views-field views-field-created" >
+            03 Jul 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028548/download?token=pvLSi3zDt49uoyK9-YnkGOvgAaq9xva_Hqrx-x0nbO8" type="video/mp4; length=416124396"></a> <span class="file-size">(396.85 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030987/download?token=F1G8xTHa5DQcg1G20M0WgHECgIUsSOiqJcWSKfATmlM" type="audio/mpeg; length=55267159"></a> <span class="file-size">(52.71 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            31          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/uncertainty-risk-and-decision-making-medical-care">Uncertainty, risk and decision making in medical care</a>          </td>
+                  <td class="views-field views-field-body" >
+            What should patients and clinicians make of uncertainty, risk and decision making in medical care? Dr Angela Coulter delivers a lecture at Green Templeton College as part of the Uncertainty series.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/angela-coulter" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Angela Coulter</a>          </td>
+                  <td class="views-field views-field-created" >
+            03 Jul 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028552/download?token=wuIXFIkht57rKiBbTj16nJWkJBI-ZP6xOs-AEdTuatI" type="video/mp4; length=259236673"></a> <span class="file-size">(247.23 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030991/download?token=GL6SliN_8IOAZQvU1QP3jxI9kagerB__fvt88e-tl2c" type="audio/mpeg; length=45166690"></a> <span class="file-size">(43.07 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            32          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/imagination-management">Imagination in Management</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Per Olof Berg, Head of Marketing Section, Stockholm University School of Business, gives the 2012 Richard Normann lecture for Green Templeton College.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/olaf-berg" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Olaf Berg</a>          </td>
+                  <td class="views-field views-field-created" >
+            18 Jun 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031112/download?token=rToKjNXTp0pRYvNzz5XamYgz9-LipgHxnnAiT6s4tUo" type="audio/mpeg; length=61902010"></a> <span class="file-size">(59.03 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            33          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/doctor-patient-relationship-art-ancient-greece-present-day">The Doctor-Patient Relationship in Art From Ancient Greece to the Present Day</a>          </td>
+                  <td class="views-field views-field-body" >
+            Podcast from Green Templeton College recorded on Thursday 7th June 2012. With Professor Alan Emery, GTC Honorary Fellow.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/alan-emery" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Alan Emery</a>          </td>
+                  <td class="views-field views-field-created" >
+            18 Jun 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031130/download?token=Xe4S-8HVpYhFVBpJ2HSM8BToYVp4-r66XoKOJwlK5c8" type="audio/mpeg; length=52777152"></a> <span class="file-size">(50.33 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            34          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/moral-leadership-healthcare-organisations">Moral Leadership in Healthcare Organisations</a>          </td>
+                  <td class="views-field views-field-body" >
+            Green Templeton College Health Experiences Institute/Management in Medicine (HEXI/MiM) Lecture on 30th April 2012.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/suzanne-shale" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Suzanne Shale</a>, <a href="/people/murray-anderson-wallace" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Murray Anderson-Wallace</a>, <a href="/people/paul-brankin" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Paul Brankin</a>          </td>
+                  <td class="views-field views-field-created" >
+            18 Jun 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030960/download?token=NL2MNS5IKIy7hYhkwN-h-wNVRLzfooCpPti0zZTEG4U" type="audio/mpeg; length=45319507"></a> <span class="file-size">(43.22 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            35          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/uncertainty-risk-and-decision-making-view-environmental-social-sciences">Uncertainty, risk and decision making: A view from the Environmental Social Sciences</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Nick Pidgeon gives a talk for the Uncertainty, Risk and Decision Making seminar series.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/nick-pidgeon" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nick Pidgeon</a>          </td>
+                  <td class="views-field views-field-created" >
+            05 Apr 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1030990/download?token=73GVGjMk3d8BxETzIUGywEIMd9Ba51_gMH1xPkiaPIs" type="audio/mpeg; length=51936477"></a> <span class="file-size">(49.53 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1028551/download?token=8Rp3NLq8_9tSrM8DwC_QGyJsAip5x4CfOOz657xjscs" type="video/mp4; length=372175720"></a> <span class="file-size">(354.93 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            36          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/patient-experience-cold-climate-putting-patients-first-time-recession">Patient Experience in a Cold Climate: Putting Patients First at a Time of Recession.</a>          </td>
+                  <td class="views-field views-field-body" >
+            Panel discussion form Green Templeton College.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/joanna-foster" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Joanna Foster</a>, <a href="/people/bruce-laurie" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Bruce Laurie</a>, <a href="/people/afl-troughton" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Afl Troughton</a>, <a href="/people/karen-luxford" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Karen Luxford</a>          </td>
+                  <td class="views-field views-field-created" >
+            23 Mar 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031522/download?token=m8EI-dRolwP7dtMiz72QcoYLDnJqm5KMm2mdS-TehKk" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            37          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/biting-more-can-be-chewed-how-us-state-became-prisoner-its-own-rhetoric-about-evil">Biting More Than Can Be Chewed: How the US State Became a Prisoner of Its Own Rhetoric about Evil</a>          </td>
+                  <td class="views-field views-field-body" >
+            In the aftermath of September 11, US foreign policy makers adopted an understanding of the nature of the enemy they were facing by adopting ideas of radical evil associated with the totalitarian regimes of Hitler and Stalin.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/alan-wolfe" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Alan Wolfe</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 Mar 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031546/download?token=7pV6EDnfdUeRfKRypfWL3Gw7fdn2ZiwebMceLMtmeLE" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            38          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/world-i-see-it">The World As I See It</a>          </td>
+                  <td class="views-field views-field-body" >
+            This lecture will take a personal global perspective of states in crisis, focusing broadly on threats and opportunities.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/shaukat-aziz" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Shaukat Aziz</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 Mar 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031547/download?token=G4qOcMW9hxUl7ZEnn_IzSA7IJb2xiSbcLskmTYvagHE" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            39          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/success-spite-crisis-story-south-korea">Success in Spite of Crisis: The Story of South Korea</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Ringen will establish the success story, show that it was not &#039;plain sailing&#039; but a backdrop of continuous crisis and explain why the end result was still success.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/stein-ringen" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Stein Ringen</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 Mar 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031548/download?token=Xkx3rEhRMqdSmW_vY0M9s73HVMoLxlMn0lAOjDfRfAg" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            40          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/behind-arab-awakening-dynamics-civil-resistance">Behind the Arab Awakening: Dynamics of Civil Resistance</a>          </td>
+                  <td class="views-field views-field-body" >
+            Far more important than poverty or deprivation is prolonged sharing of knowledge and skills from other movements, translated publications, and distillation of researchers&#039; insights.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/mary-elizabeth-king" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Mary Elizabeth King</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 Mar 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031549/download?token=-HEHaGuxmk8nkSKbPcQ1iJzcErsSrE-grBLXoxvcSBg" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            41          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/what-will-happen-african-states">What Will Happen to African States?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Africa&#039;s vast commodity reserves, young populations and nascent economies all indicate great potential for the continent in the future. But will Africa&#039;s governments and state institutions be able to make the most of these opportunities?          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/paul-collier" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Paul Collier</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 Mar 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031550/download?token=rZkQWzC3Uj99QieCd23eIWP-7hNZVsLETwQ_B0Q5cSU" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            42          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/dealing-uncertainties-uk-energy-policy-some-lessons-experience">Dealing with uncertainties in UK energy policy: Some lessons from experience</a>          </td>
+                  <td class="views-field views-field-body" >
+            Jim Watson (Director, Sussex Energy Group) delivers a lecture as part of the 2012 Green Templeton College &quot;Uncertainty...&quot; lecture series.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/jim-watson" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Jim Watson</a>          </td>
+                  <td class="views-field views-field-created" >
+            02 Mar 2012          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031579/download?token=J0JH3WVSk9xoXKoOjT7YcJqejLMZsjUcQEFRXjnA1wA" type="audio/mpeg; length=51636893"></a> <span class="file-size">(49.24 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1029037/download?token=MMFgMwFdDIBpPbk_WHMyWskF5aiHhNLqGTif3HvvlsI" type="video/mp4; length=313776699"></a> <span class="file-size">(299.24 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            43          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/body-fluids-physiology-pre-modern-western-medicine">A body of fluids? Physiology in pre-modern western medicine</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Helen King (Professor of Classical Studies, The Open University) delivers the 2011 McGovern Lecture.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/helen-king" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Helen King</a>          </td>
+                  <td class="views-field views-field-created" >
+            25 Nov 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031749/download?token=vSt2gZ70K7g7qWhWANGs1gC4b0inLX9PcyExDa5nPAg" type="audio/mpeg; length=64719469"></a> <span class="file-size">(61.72 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            44          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/health-economics-policy-fray-insights-us-healthcare-reform">Health economics in the policy fray: insights from US healthcare reform</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Richard G Frank, Margaret T Morris Professor of Health Economics, Harvard Medical School gives a lecture on health policy in the US.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/richard-g-frank" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Richard G Frank</a>          </td>
+                  <td class="views-field views-field-created" >
+            23 Nov 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031864/download?token=ptU22rwDuUjE4qTqWCqiNenREemGYNp8scqQ2HebmBQ" type="audio/mpeg; length=42789568"></a> <span class="file-size">(40.81 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            45          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/bit-time-travel-social-change-adolescents-uk-1970s-and-some-thoughts-about-adolescent">A bit of time travel: Social change for adolescents in the UK since the 1970s and some thoughts about adolescent welfare</a>          </td>
+                  <td class="views-field views-field-body" >
+            Keynote address from the Human Welfare Conference at Green Templeton College. Dr Ann Hagell runs a Nuffield Foundation initiative on time trends in adolescent mental health and has been Editor-in-Chief of the Journal of Adolescence since 2000.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/ann-hagell" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ann Hagell</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 Jun 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1031748/download?token=6DNWXOFPYR4uhc9aTB88RjRb5DUjq-6w8EmcBVWKR54" type="audio/mpeg; length=45257924"></a> <span class="file-size">(43.16 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            46          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/lowering-cholesterol-significantly-archie-cochrane-lecture-2011">Lowering Cholesterol Significantly: Archie Cochrane Lecture 2011</a>          </td>
+                  <td class="views-field views-field-body" >
+            Colin Baigent leads the CTSU&#039;s Vascular Overviews Group, which recently reported a meta-analysis of the findings among 170,000 participants in 26 randomised trials of cholesterol-lowering drugs in The Lancet.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/colin-baigent" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Colin Baigent</a>          </td>
+                  <td class="views-field views-field-created" >
+            24 May 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032252/download?token=5F3cO5Tr9N7G_U8ABt5dUDB9lcKJZBq5CrEEUeAg1mM" type="audio/mpeg; length=56680831"></a> <span class="file-size">(54.06 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            47          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/defence-management">In Defence of Management</a>          </td>
+                  <td class="views-field views-field-body" >
+            Barbara Czarniawska, professor of Management Studies, University of Gothenburg, gives the 2011 Richard Normann lecture at Green Templeton College.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/barbara-czarniawska" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Barbara Czarniawska</a>          </td>
+                  <td class="views-field views-field-created" >
+            21 Mar 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032415/download?token=-_0nIOka2gHbCwuRLg6Zv6jaETACXQc1gifb4sOy_g4" type="audio/mpeg; length=45725355"></a> <span class="file-size">(43.61 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            48          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/living-coalition-2-schools">Living with the Coalition - 2 Schools</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Chris Husbands, Director of the Institute of Education, University of London, gives a talk examining how the policies and practice of the new Coalition government affect the schools system.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/chris-husbands" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Chris Husbands</a>          </td>
+                  <td class="views-field views-field-created" >
+            28 Feb 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032623/download?token=frSz-UeXMRxCdRPLijdhKNkgZ1-K4jHbDgtnr0BdumE" type="audio/mpeg; length=35010896"></a> <span class="file-size">(33.39 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            49          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/how-will-new-coalition-government-affect-universities-uk">How will the new coalition government affect Universities in the UK?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor David Eastwood (Vice Chancellor, University of Birmingham) gives a talk for Green Templeton College Lecture series on how the Coalition government&#039;s policies will affect UK Universities.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/david-eastwood" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">David Eastwood</a>          </td>
+                  <td class="views-field views-field-created" >
+            23 Feb 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032653/download?token=azOyTkpp01oWq_jk6eAXvjVxxo8dOmQSJVrMidsPOVY" type="audio/mpeg; length=38706841"></a> <span class="file-size">(36.91 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            50          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/living-coalition-health-system">Living with the Coalition - The Health System</a>          </td>
+                  <td class="views-field views-field-body" >
+            Sir John Tooke gives a lecture at Green Templeton College on 17th January 2011 entitled &#039;Living with the Coalition - The Health System.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/sir-john-tooke" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sir John Tooke</a>          </td>
+                  <td class="views-field views-field-created" >
+            08 Feb 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032771/download?token=gVyp-2UV4Pf-Tdxizh7hsox07fbzZs8ceJD4Qk9pNKs" type="audio/mpeg; length=32167650"></a> <span class="file-size">(30.68 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            51          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/towards-new-professionalism-changing-face-medicine-uk">Towards a new professionalism - the changing face of medicine in the UK</a>          </td>
+                  <td class="views-field views-field-body" >
+            Niall Dickson, Chief Executive at the GMC, discusses professionalism and patient care in Medicine with Dame Fiona Caldicott, Chairman of the Oxford Radcliffe Hospitals NHS trust and former President of the Royal College of Psychiatrists.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/niall-dickson" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Niall Dickson</a>          </td>
+                  <td class="views-field views-field-created" >
+            27 May 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033181/download?token=x59eYY8kZfpE8FZYmcFPNW7_RGsD_7fDOVZiXuDC9Ak" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            52          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/empowering-theories-management-studies">Empowering Theories in Management Studies</a>          </td>
+                  <td class="views-field views-field-body" >
+            Professor Gagliardi will analyse the relationship between thinking and experiencing in the production of knowledge before going on to hypothesise the distinctive traits of an &#039;empowering theory&#039;.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/pasquale-gagliardi" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Pasquale Gagliardi</a>          </td>
+                  <td class="views-field views-field-created" >
+            29 Mar 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032695/download?token=iPyKdHiM_e7KfM24zAVhxmbZKk151AfzZOKvcIrnHJs" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            53          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/trusting-news">Trusting the News</a>          </td>
+                  <td class="views-field views-field-body" >
+            This lecture series seeks to explore and explain the sources and forms of uncertainty in key aspects of contemporary life.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/stephen-coleman" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Stephen Coleman</a>          </td>
+                  <td class="views-field views-field-created" >
+            24 Mar 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033225/download?token=_gWczUGoK9xLEieJ9a2NE2CRl4h_QKWSgeWfzUmh6c8" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            54          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/whats-all-fuss-about-when-individual-risks-meet-policy-uncertainties-health">What&#039;s all the fuss about? When individual risks meet policy uncertainties in health</a>          </td>
+                  <td class="views-field views-field-body" >
+            This lecture series seeks to explore and explain the sources and forms of uncertainty in key aspects of contemporary life.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/david-spiegelhalter" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">David Spiegelhalter</a>          </td>
+                  <td class="views-field views-field-created" >
+            24 Mar 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033224/download?token=DyvIxWdSURVES7wS8DjiOHRoxieIBbXmS2WhF4iGO80" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            55          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/patient-experience-how-can-we-do-better">Patient experience - how can we do better?</a>          </td>
+                  <td class="views-field views-field-body" >
+            This is the first in a series of events sponsored by Green Templeton College in association with the Health Experiences Research Group.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/cynthia-bower" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cynthia Bower</a>          </td>
+                  <td class="views-field views-field-created" >
+            24 Feb 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033274/download?token=896K6e24qfVVhMXrJh9DckyMGDnWFGHeB6tlsf7E9vA" type="audio/mpeg; length=0"></a> <span class="file-size">(0 bytes)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            56          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/there-healthy-future-big-pharma-0">Is there a healthy future for Big Pharma?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Patterson will review the background to the pharmaceutical crisis and the different ways that companies are approaching the issues. The lecture will review both the research and development and business issues facing the industry and its investors.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/john-patterson" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">John Patterson</a>, <a href="/people/sophia-tickell" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sophia Tickell</a>          </td>
+                  <td class="views-field views-field-created" >
+            04 Feb 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033030/download?token=Lu9fP1EBxXwuNP5N8AV7QrcNdZRaV5V0henQrK0Bmv4" type="audio/mpeg; length=45563995"></a> <span class="file-size">(43.45 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            57          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/there-healthy-future-big-pharma">Is there a healthy future for Big Pharma?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Patterson will review the background to the pharmaceutical crisis and the different ways that companies are approaching the issues. The lecture will review both the research and development and business issues facing the industry and its investors.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/john-patterson" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">John Patterson</a>, <a href="/people/sophia-tickell" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sophia Tickell</a>          </td>
+                  <td class="views-field views-field-created" >
+            04 Feb 2010          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033030/download?token=Lu9fP1EBxXwuNP5N8AV7QrcNdZRaV5V0henQrK0Bmv4" type="audio/mpeg; length=45563995"></a> <span class="file-size">(43.45 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            58          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/pharma-perspective-healthcare-needs-and-innovation-drug-discovery-0">A Pharma perspective on healthcare needs and innovation in drug discovery</a>          </td>
+                  <td class="views-field views-field-body" >
+            The third Green Templeton Lecture 2009 explores how, by harnessing innovation to meet unmet medical needs, pharma companies can deliver significant value to patients, payers and shareholders.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/patrick-vallance" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Patrick Vallance</a>, <a href="/people/philip-bloomer" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Philip Bloomer</a>          </td>
+                  <td class="views-field views-field-created" >
+            09 Jun 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032696/download?token=RhOsHdkJfG4atppZiWeuH6fAxKTEqsDukMbT8BE4VlM" type="audio/mpeg; length=55663174"></a> <span class="file-size">(53.08 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            59          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/pharma-perspective-healthcare-needs-and-innovation-drug-discovery">A Pharma perspective on healthcare needs and innovation in drug discovery</a>          </td>
+                  <td class="views-field views-field-body" >
+            The third Green Templeton Lecture 2009 explores how, by harnessing innovation to meet unmet medical needs, pharma companies can deliver significant value to patients, payers and shareholders.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/patrick-vallance" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Patrick Vallance</a>, <a href="/people/philip-bloomer" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Philip Bloomer</a>          </td>
+                  <td class="views-field views-field-created" >
+            09 Jun 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032696/download?token=RhOsHdkJfG4atppZiWeuH6fAxKTEqsDukMbT8BE4VlM" type="audio/mpeg; length=55663174"></a> <span class="file-size">(53.08 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            60          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/pharmaceutical-companies-government-and-society-0">Pharmaceutical Companies, Government and Society</a>          </td>
+                  <td class="views-field views-field-body" >
+            This lecture will explore, from a historical perspective, the relationship between an emerging pharmaceutical industry, the establishment of drug regulatory authorities, and - most recently - the development of health technology assessment.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/sir-michael-rawlins" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sir Michael Rawlins</a>          </td>
+                  <td class="views-field views-field-created" >
+            04 Jun 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033031/download?token=5e0rgTETwfp0oHS3fnChKzb59hllawV6aupSOU89f_o" type="audio/mpeg; length=44565460"></a> <span class="file-size">(42.5 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            61          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/pharmaceutical-companies-government-and-society">Pharmaceutical Companies, Government and Society</a>          </td>
+                  <td class="views-field views-field-body" >
+            This lecture will explore, from a historical perspective, the relationship between an emerging pharmaceutical industry, the establishment of drug regulatory authorities, and - most recently - the development of health technology assessment.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/sir-michael-rawlins" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Sir Michael Rawlins</a>          </td>
+                  <td class="views-field views-field-created" >
+            04 Jun 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033031/download?token=5e0rgTETwfp0oHS3fnChKzb59hllawV6aupSOU89f_o" type="audio/mpeg; length=44565460"></a> <span class="file-size">(42.5 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            62          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/pharmaceutical-industry-origin-and-evolution-0">Pharmaceutical Industry: Origin and Evolution</a>          </td>
+                  <td class="views-field views-field-body" >
+            Tilli Tansey, Professor of History of Modern Medical Sciences, University College London traces the evolution of the modern pharmaceutical industry from the mid nineteenth century to the final decades of the twentieth century.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/tilli-tansey" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Tilli Tansey</a>          </td>
+                  <td class="views-field views-field-created" >
+            19 May 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033032/download?token=BJgnxlRA76PP4xX6qfhUQRBtZ-SgOXeIlEUM0Nuo6kU" type="audio/mpeg; length=66962848"></a> <span class="file-size">(63.86 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            63          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/pharmaceutical-industry-origin-and-evolution">Pharmaceutical Industry: Origin and Evolution</a>          </td>
+                  <td class="views-field views-field-body" >
+            Tilli Tansey, Professor of History of Modern Medical Sciences, University College London traces the evolution of the modern pharmaceutical industry from the mid nineteenth century to the final decades of the twentieth century.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/tilli-tansey" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Tilli Tansey</a>          </td>
+                  <td class="views-field views-field-created" >
+            19 May 2009          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033032/download?token=BJgnxlRA76PP4xX6qfhUQRBtZ-SgOXeIlEUM0Nuo6kU" type="audio/mpeg; length=66962848"></a> <span class="file-size">(63.86 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-counter" >
+            64          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/myologist-house">A Myologist in the House</a>          </td>
+                  <td class="views-field views-field-body" >
+            Lord Walton of Detchant gave the 12th annual Alan Emery Lecture at Green Templeton College, Oxford on 5 June 2008. His lecture was entitled &quot;A Myologist in the House&quot;.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/lord-walton-detchant" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Lord Walton of Detchant</a>          </td>
+                  <td class="views-field views-field-created" >
+            03 Jul 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1033204/download?token=-gLF8AVZcwivQ2attidgYp_EHO0-Q7c1slrAmVxG-3A" type="audio/mpeg; length=10939458"></a> <span class="file-size">(10.43 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+        </div>
+
+        
+      </div>
+      
+          
+    </div> <!-- /content-inner /content -->
+    
+
+          <div id="navigation" class="menu with-primary">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-227 first"><a href="/">Home</a></li>
+<li class="menu-1196"><a href="/series" title="Browse all series">Series</a></li>
+<li class="menu-600"><a href="/people" title="Browse contributors to podcasts">People</a></li>
+<li class="menu-602"><a href="/units" title="Browse all departments and colleges">Depts &amp; Colleges</a></li>
+<li class="menu-1621 last"><a href="/open">Open Education</a></li>
+</ul>              </div>
+    
+     <!-- /sidebar-first -->
+
+     <!-- /sidebar-second -->
+    
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-block-3" class="block block-block block-odd first last block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <p>This website uses cookies for Google Analytics tracking - please see our <a href="http://podcasts.ox.ac.uk/privacy">Privacy Policy</a></p>
+<p><a href="http://podcasts.ox.ac.uk/about">About</a> | <a href="http://podcasts.ox.ac.uk/accessibility">Accessibility</a> | <a href="http://www.oucs.ox.ac.uk/podcasts/how-to-podcast.xml.ID=publish">Contribute</a> | <a href="http://podcasts.ox.ac.uk/copyright">Copyright</a> | <a href="http://podcasts.ox.ac.uk/contact">Contact us</a> | <a href="http://podcasts.ox.ac.uk/privacy">Privacy</a></p>
+<p><a href="http://mediapub.it.ox.ac.uk/">MediaPub Publishing Portal for Oxford Podcast Contributors</a></p>
+<p><a href="http://talks.ox.ac.uk/" target="">Upcoming Talks in Oxford</a></p>
+<p><a target="_blank" href="http://www.ox.ac.uk/copyright.html">© 2011-2014 The University of Oxford</a></p>
+		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+</div> <!-- /page-wrapper -->  </body>
+</html>

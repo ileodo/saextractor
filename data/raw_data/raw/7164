@@ -1,0 +1,137 @@
+<!--array(29) {
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTP_HOST"]=>
+  string(20) "england.prm.ox.ac.uk"
+  ["HTTP_CONNECTION"]=>
+  string(10) "keep-alive"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(13) "gzip, deflate"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_USER_AGENT"]=>
+  string(49) "python-requests/2.5.1 CPython/2.7.9 Darwin/14.3.0"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["SERVER_SIGNATURE"]=>
+  string(128) "<address>Apache/2.2.3 (Debian) PHP/5.2.0-8+etch16 mod_ssl/2.2.3 OpenSSL/0.9.8c Server at england.prm.ox.ac.uk Port 80</address>
+"
+  ["SERVER_SOFTWARE"]=>
+  string(69) "Apache/2.2.3 (Debian) PHP/5.2.0-8+etch16 mod_ssl/2.2.3 OpenSSL/0.9.8c"
+  ["SERVER_NAME"]=>
+  string(20) "england.prm.ox.ac.uk"
+  ["SERVER_ADDR"]=>
+  string(11) "163.1.55.96"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(11) "163.1.134.1"
+  ["DOCUMENT_ROOT"]=>
+  string(16) "/var/www/england"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["SCRIPT_FILENAME"]=>
+  string(26) "/var/www/england/index.php"
+  ["REMOTE_PORT"]=>
+  string(5) "58800"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(42) "section=englishness&id=lace-makers-bobbins"
+  ["REDIRECT_URL"]=>
+  string(37) "/englishness-lace-makers-bobbins.html"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.1"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(42) "section=englishness&id=lace-makers-bobbins"
+  ["REQUEST_URI"]=>
+  string(37) "/englishness-lace-makers-bobbins.html"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1434625055)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(42) "section=englishness&id=lace-makers-bobbins"
+  }
+  ["argc"]=>
+  int(1)
+}
+--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="Keywords" content="statistics, databases, English, Englishness, English collections, the other within, Pitt Rivers museum, museum" /><meta name="Description" content="Analysing the English collections at the Pitt Rivers Museum" /><meta name="author" content="David Harris, www.inetlab.co.uk & Daniel Burt, www.sunnymedia.co.uk" /><title>Lace maker's bobbins</title><script type="text/javascript" src="js/mootools-1.11.js"></script><script type="text/javascript" src="js/slimbox.js"></script>	<link rel="stylesheet" href="css/reset-fonts-grids.css" type="text/css" /><link rel="stylesheet" href="css/england.prm.css" type="text/css" /></head><body><div id="doc4" class="yui-t3"><div id="hd">	<h1>ENGLAND: THE OTHER WITHIN</h1>	<h2>Analysing the English Collections at the Pitt Rivers Museum</h2>		<ul class="navbar">	 <li class="tab01"><a href="/">Home</a></li>	 <li class="tab02"><a href="englishness-analysis-overview.html">Analysis</a></li>	 <li class="tab03"><a href="englishness-english-databases.html">Databases</a></li>	 <li class="tab04"><a href="englishness-object-biographies.html">Articles</a></li>	 <li class="tabend05"><a href="map-objects.html">Map</a></li>	</ul></div> <!-- close hd--><p id="breadcrumb">You are here: <a href="">Home</a> &gt; Englishness Lace Makers Bobbins </p><div id="bd"> 	<div id="yui-main"> 		<div class="yui-b">			<div class="yui-g content"> 			<!-- start article -->			<h1>Lace maker's bobbins</h1>
+<h2 class="author">Nicolette Makovicky,<br />Wolfson College</h2>
+<p><div id="media_0" class="imageR"><a href="image-admin/d/1221-2/1918_16_28.jpg" title="1918.16.28 Wooden lace bobbin with bead and button weights." rel="lightbox[graphic]"><img src="image-admin/d/1220-2/1918_16_28.jpg" alt="1918.16.28 Wooden lace bobbin with bead and button weights." /></a><p>1918.16.28 Wooden lace bobbin with bead and button weights.</p></div> <div id="media_1" class="imageR"><a href="image-admin/d/1225-2/1918_16_29.jpg" title="1918.16.29 Wooden lace bobbin with bead and button weights" rel="lightbox[graphic]"><img src="image-admin/d/1224-2/1918_16_29.jpg" alt="1918.16.29 Wooden lace bobbin with bead and button weights" /></a><p>1918.16.29 Wooden lace bobbin with bead and button weights</p></div> <div id="media_2" class="imageR"><a href="image-admin/d/1229-2/1918_16_39.jpg" title="1918.16.39 Wooden window bobbin with bead weights." rel="lightbox[graphic]"><img src="image-admin/d/1228-2/1918_16_39.jpg" alt="1918.16.39 Wooden window bobbin with bead weights." /></a><p>1918.16.39 Wooden window bobbin with bead weights.</p></div> <div id="media_3" class="imageR"><a href="image-admin/d/1233-2/1918_16_41.jpg" title="1918.16.41 Bone or ivory bobbin with bead weights and punched with the name 'Hannah'." rel="lightbox[graphic]"><img src="image-admin/d/1232-2/1918_16_41.jpg" alt="1918.16.41 Bone or ivory bobbin with bead weights and punched with the name 'Hannah'." /></a><p>1918.16.41 Bone or ivory bobbin with bead weights and punched with the name 'Hannah'.</p></div> <div id="media_4" class="imageR"><a href="image-admin/d/1237-2/1918_16_42.jpg" title="1918.16.42 Bone or ivory bobbin with bead weights and bound with metal wire." rel="lightbox[graphic]"><img src="image-admin/d/1236-2/1918_16_42.jpg" alt="1918.16.42 Bone or ivory bobbin with bead weights and bound with metal wire." /></a><p>1918.16.42 Bone or ivory bobbin with bead weights and bound with metal wire.</p></div>Under large glass case to one side of the ground floor of the Pitt Rivers Museum stands a lace maker's pillow on a lace maker's 'horse', a specially constructed wooden stand. A half-finished sample of lace is pinned to the pillow, a mass of bobbins handing from the pins used to create the intricate pattern. This lace maker's pillow seems to be a small piece of English history marooned amongst the shrunken heads, baskets and shields of the ethnographic collection. In fact, the museum owns more than a thousand items related to the craft, from samples of lace to the paraphernalia of a lace maker pins, scissors, parchment and a flask shaped like a globe that was used to disperse the light of a candle. The largest and most important part of this is a large collection of bobbins. Unlike lace makers in the traditional centres of lace making in Belgium, Flanders and France who used large numbers of identical, plain bobbins, each bobbin on the pillow of an English lace maker was different. Hand carved or turned on a treadle lathe, bobbins were commonly made of wood or bone and could be intricately carved, painted, inlaid with pewter, wire-bound or inscribed with names and dates.</p>
+<p>Until the mid-nineteenth century, the craft of lace making provided occupation for thousands of women in the East Midlands (Bedfordshire, Hertfordshire, Northamptonshire and the borders of Berkshire and Oxfordshire), as well as in Devon, Somerset and Wiltshire. In Oxfordshire, lace was made in and around the market town of Bicester. It was from the nearby village of Launton, that the then curator of the Pitt Rivers, Henry Balfour, purchased a set of thirty bobbins, lace samples and parchment lace patterns from a Mrs. M. Butler in 1903. Although there are no records of when lace started being made in Launton, records show that already in 1808 a school was set up to teach the children of local labourers reading, catechism and lace making. We will never know whether Mrs. Butler attended such a lace school, which were common in all areas of England where lace was made, but the samples which Henry Balfour purchased along with her bobbins show us that she was a proficient lace maker already in her early teens. One sample is of a type of lace called 'Bucks Point' - a fine, white lace with delicate designs - and is marked as having been made by Mrs. Butler in 1840, when she was just 13 years old [1918.16.46].</p>
+<p>However, it is Mrs. Butler's bobbins that allow us some insight into her work and her life. Every bobbin she used was unique; different people would have given them to her and she would have personalized them by adding her own decoration. Of the collection, five stand out. All have the typical shape for East Midlands bobbins - long (3-4 inches or 9-10 centimetres), ending in a decorative ring of beads called a 'spangle', or 'jinkum' in parts of Oxfordshire. Bobbin making was a profession and while most lace makers were female, bobbin makers were invariable male. Although it was unusual for bobbin makers to mark or sign their work, collectors have been able to identify the work of enough makers to see that the profession often ran through several generations of the same family. They supplied lace shops in villages and towns with bobbins and often travelled around rural areas selling their wares. They carried with them both the cheapest, plain wooden bobbins and more expensive, bone bobbins for those who could afford them. Bobbins were sold with or without spangles.</p>
+<p>Spangles not only added colour to the bobbins, but added some extra weight to the bobbins in order to create tension in the tread from which the lace was being made. Spangles also functioned to keep bobbins in the right place on the pillow when they were not being used. Without spangles, the bobbins might roll off the sides of the pillow and become entangled. To the casual observer, the beads that make up the spangle seem quite ordinary, but in fact they were specially made to be used on bobbins. Called 'square cuts' or 'cut beads', they had a rough texture and were sometimes impressed with the side of file while they were still hot in order to create a scored finish. This was done so that the beads had a grip on the cloth of the pillow and stopped the bobbin from moving about. However, 'square cuts' were expensive - 4 pennies a piece in 1870s, a time when lace makers made between 3 and 9 shillings a week - so many lace makers bought penny necklaces from fairs and village shops to make their own spangles.</p>
+<p>Lace makers would sometimes thread charms and mementoes onto their spangles, such as buttons, shells or coins. One finds brass buttons from military uniforms on two of the bobbins from Mrs. Butler's collection. One very slender, finely turned bobbin called an 'old maid' bobbin has a spangle threaded with two green and two amber beads, and a large button from the Royal Marines Light Infantry [1918.16.28]. Dark, hard-grained woods or fruitwoods like cherry and plum were the preferred materials for bobbins. The rich, dark patina on this bobbin, however, comes from years of use. Another, slightly fatter bobbin is decorated with two small copper buttons from a Royal Navy uniform, along with an unusual, jet-black glass button [1918.16.29]. Although it is impossible to tell where Mrs. Butler obtained these buttons, it is possible that they were mementoes from male relatives who joined the armed forces. Another bobbin from the collection with a personal touch is made out of bone and has the name 'Hannah' inscribed around the base [1918.16.41]. The name was drilled into the shaft of the bobbin by the maker and then coloured in with red ink.</p>
+<p>Bone was a popular material for inscribed bobbins, not only because it was more hardy than wood, but because the text stood out better against the light background. Bobbins inscribed with names, like Mrs. Butler's, were extremely common. Bobbins were made to commemorate births and deaths, as well as family relations ('Amlia Roberts born March 21 1856' and 'Dear Uncle 1871') and many bobbins carried blessings and religious messages ('Seek Salvation'). However, it is probably the bobbins that carry messages of love that tickle our imagination today. A bobbin maker would probably have had a stock of 'standard' expressions of affection ('Forget me not'), while special inscriptions that included the name of a sweetheart had to be made to order. Bobbins were a common gift young men gave to their sweethearts, sometimes hand-carving them by themselves, rather than ordering one from a professional maker. A lace maker's collection of bobbins, then, was like a very personal, material record of her family relations, friendships and love life.</p>
+<p>The power of a gift of a bobbin to create bonds between persons was exploited by people from beyond a lace maker's immediate circle of friends and family. Bobbins with the names of political candidates and their slogans were distributed at election time and some lace dealers gave their workers bobbins as gifts. Lace makers generally worked for more than one dealer and these gifts may have been an attempt from the dealers' side to monopolize the services of particularly talented craftswomen. The commercial nature of bobbin making, however, is probably best illustrated by the phenomena of the 'hanging bobbin': bobbins that were made to commemorate the public hangings and proved extremely popular souvenirs. They were inscribed with the name of the criminal and the year of their execution ('Joseph Castle hung 1860').</p>
+<p>Two of Mrs. Butler's other bobbins show off other popular ways of decorating bone bobbins. One is a so-called 'bound bobbin' and is decorated by a brass wire that is wound around grooves on the shaft of the bobbin and a spangle threaded with two white 'square cuts' and a large blue bead [1918.16.42]. While it was being used, the brass wire would have become highly polished and shone golden against the bone. Over time, the elaborate pewter inlay of another of Mrs. Butler's bobbins would have shone silver [1918.16.42]. This type of decoration was called 'butterfly' and was made by carving decorative grooves into the bobbin, putting it into a mould and then pouring molten pewter into it which set as it cooled. However, the most impressive bobbin of Mrs. Butler's collection may be the turned wooden 'church window' bobbin [1918.16.39]. These bobbins got their name from the four vertical slits on the shaft, which resemble the long, narrow windows of churches. Inside their hollow shafts, a miniature bobbin (a 'baby') was inserted which slides and rattles as the bobbin was being used. Even though the bobbin and the 'baby' are often said to be carved at once out a single piece of wood, they were always carved separately, the 'baby' being just thick enough to be pushed into the hollow.</p>
+<p>A lace maker's bobbin and pillow can be seen as representative of her world. The bobbins and their decorations not only reflected her personal and family history, but all sorts of events of local and national significance. Looking at Mrs. Butler's bobbins, however, also shows how a large number of specialist trades grew up around the lace making. From the bobbin makers and the pillow makers, to the carpenters who made the lace maker's horses and the bead makers who made 'square cuts', the lace making cottage industry provided a large part of the population in and around Oxford, the East Midlands and South Eastern England with an occupation.</p>
+<p>Find out more about lace techniques <a href="../englishness-Lace-Techniques.html">here</a>.</p>
+<h3>Further Reading</h3>
+<p>Buck, A. (1991) In the Cause of English Lace. The Life and Work of Catherine C. Channer 1874-1949. Bedford: Ruth Bean Publishers.<br /> Earnshaw, P. (1985) Lace in Fashion: From the 16th to the 20th Centuries. Guildford: Gorse Publications.<br /> Hopewell, J. (1999) Pillow Lace and Bobbins. Princes Risborough: Shire Publications Ltd.<br /> Huetson, T. L. (1984) Lace and Bobbins. A History and Collector's Guide. Newton Abbot: David &amp; Charles.<br /> Toomer, H. (1989) Lace: A guide to identification of old lace types and techniques. London: B.T. Batsford Ltd.<br /> Verdon, N. (2002) Rural Women Workers in 19th Century England: Gender, Work, and Wages. Woodbridge: Boydell Press.</p>
+<h3>Websites</h3>
+<p>Branscombe Parish <a href="http://www.geocities.com/Athens/1491/lace.html">http://www.geocities.com/Athens/1491/lace.html</a><br />British History Online <a href="http://www.british-history.ac.uk/report.aspx?compid=63742">http://www.british-history.ac.uk/report.aspx?compid=63742</a><br />The Cowper and Newton Museum, Olney<br /><a href="http://www.mkheritage.co.uk/cnm/lace/index.html">http://www.mkheritage.co.uk/cnm/lace/index.html</a><br />Oxfordshire Country Council <a href="http://www.oxfordshire.gov.uk/heritagesearch">www.oxfordshire.gov.uk/heritagesearch</a></p> 			<!-- end article -->			</div> 		</div> 	</div> 	<div class="yui-b">	<!-- YOUR NAVIGATION GOES HERE -->			<div id="object-biographies" class="widget">			<h2><span>&nbsp;Object biographies &nbsp;</span></h2>			<p>Detailed biographies for selected English objects</p>
+<ul>
+<li><a href="englishness-dandy-plate.html">Dandy-horse plate</a></li>
+<li><a href="englishness-witchs-ladder.html">Witch's ladder</a> </li>
+<li><a href="englishness-tylors-onion.html">Tylor's bewitched onion</a></li>
+
+<li><a href="englishness-divining-rods.html">Divining rods</a></li>
+<li><a href="englishness-endowing-purse.html">Endowing purse</a></li>
+<li><a href="englishness-pocket-compass-sundial.html">Pocket compass and sundial</a></li>
+<li><a href="englishness-ethiopia-in-england.html">Ethiopia in England</a></li>
+<li><a href="englishness-sailors-charm.html">Caul: A Sailor's Charm</a></li>
+<li><a href="englishness-baker-rifle.html">Baker rifle</a></li>
+<li><a href="englishness-whit-horn.html">Whit horn</a></li>
+<li><a href="englishness-slug-on-a-thorn.html">Slug on a thorn</a></li>
+<li><a href="englishness-kennedys-mandolin.html">Kennedy's mandolin</a></li>
+<li><a href="englishness-morris-dancers-costume.html">Morris dancer's costume</a></li>
+<li><a href="englishness-morris-dancers-bells.html">Morris dancers' bells</a></li>
+<li><a href="englishness-loop-of-rowan-tree.html">A Loop of Rowan Tree</a></li>
+<li><a href="englishness-british-cavalry-sabre.html">A British Cavalry Sabre</a></li>
+<li><a href="englishness-lace-makers-bobbins.html">Lace maker's bobbins</a></li>
+<li><a href="englishness-beds-maltese-and-yak-lace.html">Lace making</a></li>
+<li><a href="englishness-water-pipe.html">
+Water pipe</a></li>
+<li><a href="englishness-whittle-and-dub.html">
+Whittle and dub</a></li>
+<li><a href="englishness-watch-cocks.html">
+Watch cock</a></li>
+<li><a href="englishness-token.html">
+Token</a></li>
+<li><a href="englishness-Lucky-Newbiggin-stone.html">
+Lucky stone</a></li>
+<li><a href="englishness-Votive-rags.html">
+Votive rags</a></li>
+<li><a href="englishness-Dorset-hag-stone.html">
+Dorset hag stone</a></li>
+<li><a href="englishness-'Blackfoot'-shirt.html">
+'Blackfoot' shirt</a></li>
+<li><a href="englishness-Ceremonial-trowel.html">
+Ceremonial trowel and tankard</a></li>
+<li><a href="englishness-Aran-Island-photograph.html">
+Ettlinger photograph catalogue card</a></li>
+<li><a href="englishness-Balfour-in-the-Upper-Gallery.html">
+Balfour in the Upper Gallery</a></li>
+<li><a href="englishness-Stoolbat.html">
+Stoolbat</a></li>
+<li><a href="englishness-Smallest-doll.html">
+World's smallest doll?</a></li>
+<li><a href="englishness-Mousetrap.html">
+A triple mousetrap</a></li>
+<li><a href="englishness-Bell-mark-casts.html">
+Bell mark casts</a></li>
+<li><a href="englishness-Knuckleduster.html">
+Knuckleduster</a></li>
+<li><a href="englishness-Phleme.html">
+A blood letting instrument</a></li>
+<li><a href="englishness-Miners-lamp.html">
+Miner's lamps</a></li>
+</ul>		</div>	</div> </div> <!-- end of page <div class="spacer">&nbsp;</div>-->	<div id="ft">    <div align="right">        <script type="text/javascript">// Google Internal Site Search script- By JavaScriptKit.com (http://www.javascriptkit.com)// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/// This notice must stay intact for use//Enter domain of site to search.var domainroot="england.prm.ox.ac.uk"function Gsitesearch(curobj){curobj.q.value="site:"+domainroot+" "+curobj.qfront.value}</script><ul><li><form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">Search the Other Within website:<input name="q" type="hidden" /><input name="qfront" type="text" style="width: 120px" />&nbsp; <input type="submit" value="Search" /></form></li></ul></div>	</div> </div><!-- ENG2(163.1.55.83) --></body></html>

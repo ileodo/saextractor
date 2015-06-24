@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+<head>
+    <meta http-equiv="Content-type" value="text/html; charset=utf8" />
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+
+    <meta name="twitter:widgets:csp" content="on">
+
+	
+
+	<!-- CSS
+	  ================================================== -->
+	<link rel="stylesheet" type="text/css" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/styles/flexslider.css" />
+	<link rel="stylesheet" type="text/css" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/styles/reset.css" />
+			<link rel="stylesheet" type="text/css" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/styles/color-grey.css" />
+				<link rel="stylesheet" type="text/css" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/styles/light.css?v=3" />
+		<link rel="stylesheet" type="text/css" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/styles/style.css" />
+	<link rel="stylesheet" type="text/css" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/styles/skeleton.css" />
+	<link rel="stylesheet" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/styles/prettyPhoto.css" type="text/css" media="screen" />
+
+	<!-- Mobile Specific Metas
+	  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	
+
+
+		
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Events | Oxford University Sport</title>
+<meta name="description" content="Details of Oxford University Sport facilities and the Sports&#039; Federation, contact details for clubs, and information about outreach activities."/>
+<link rel="canonical" href="http://www.sport.ox.ac.uk/news-and-events/events/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Events | Oxford University Sport" />
+<meta property="og:description" content="Details of Oxford University Sport facilities and the Sports&#039; Federation, contact details for clubs, and information about outreach activities." />
+<meta property="og:url" content="http://www.sport.ox.ac.uk/news-and-events/events/" />
+<meta property="og:site_name" content="Oxford University Sport" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.sport.ox.ac.uk\/","name":"Oxford University Sport"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Oxford University Sport &raquo; Feed" href="http://www.sport.ox.ac.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Oxford University Sport &raquo; Comments Feed" href="http://www.sport.ox.ac.uk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.sport.ox.ac.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.sport.ox.ac.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-theme-css'  href='http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.min.css?ver=1.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-timepicker-css'  href='http://www.sport.ox.ac.uk/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.sport.ox.ac.uk/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-fullcalendar-css'  href='http://www.sport.ox.ac.uk/wp-content/plugins/wp-fullcalendar/includes/css/main.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://www.sport.ox.ac.uk/wp-content/plugins/tablepress/css/default.min.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-basic-css'  href='http://www.sport.ox.ac.uk/wp-content/plugins/ubermenu/standard/styles/basic.css?ver=2.3.0.2' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-40174772-2', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/www.sport.ox.ac.uk\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/www.sport.ox.ac.uk\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"http:\/\/www.sport.ox.ac.uk\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"0","is_ssl":"","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.55'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPFC = {"ajaxurl":"http:\/\/www.sport.ox.ac.uk\/wp-admin\/admin-ajax.php","firstDay":"1","wpfc_theme":"1","wpfc_limit":"3","wpfc_limit_txt":"more ...","wpfc_theme_css":"http:\/\/www.sport.ox.ac.uk\/wp-content\/plugins\/wp-fullcalendar\/includes\/css\/ui-themes\/smoothness.css","wpfc_qtips":"","wpfc_qtips_classes":"ui-tooltip-light","wpfc_qtips_my":"top center","wpfc_qtips_at":"bottom center","wpfc_locale":{"firstDay":"1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/plugins/wp-fullcalendar/includes/js/main.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/js/prettyPhoto.js?ver=3.1.3'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/js/main.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/js/jquery.isotope.js?ver=1.5.1'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/js/jquery.infinitescroll.min.js?ver=2.0'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/js/jquery.flexslider.js?ver=1.1.0'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/js/jquery.nivo.slider.pack.js?ver=2.7.1'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/js/tour.js?ver=1.0.8.15'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sport.ox.ac.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sport.ox.ac.uk/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://www.sport.ox.ac.uk/?p=5461' />
+<script type="text/javascript">
+(function(url){
+if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+var wfscr = document.createElement('script');
+wfscr.type = 'text/javascript';
+wfscr.async = true;
+wfscr.src = url + '&r=' + Math.random();
+(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+})('//www.sport.ox.ac.uk/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=F9EFD8FC90A298F43DF6C9EA8A27334D');
+</script>
+<!-- UberMenu CSS - Controlled through UberMenu Options Panel 
+================================================================ -->
+<style type="text/css" id="ubermenu-style-generator-css">
+/* Image Text Padding */
+#megaMenu .ss-nav-menu-with-img > a > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > a > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > a > .wpmega-item-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-item-description{
+  padding-left: 32px;
+}	
+</style>
+<!-- end UberMenu CSS -->
+		
+				<script type="text/javascript" src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/js/jquery.slide.brick.js"></script>
+
+	<!-- IE hack
+	  ================================================== -->
+	<!--[if IE 7 ]>
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/styles/ie7.css" />
+		<script type="text/javascript" src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/js/ie7.js"></script>
+	<![endif]-->
+	<!--[if IE 8 ]>
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/styles/ie8.css" />
+		<script type="text/javascript" src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/js/ie8.js"></script>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Favicons
+	================================================== -->
+		<link rel="shortcut icon" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/favicon.ico">
+			<link rel="apple-touch-icon" href="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/apple-touch-icon-114x114.png">
+	
+	<!-- Heading Font
+	================================================== -->
+
+		<style>
+	.guidewrap,h1,h2,h3,h4,h5,#logo{font-family:'PT Sans', sans-serif;}
+	.ie9 .guidewrap,.ie9 h1,.ie9 h2,.ie9 h3,.ie9 h4,.ie9 h5,.ie9 #logo{font-family:'PT Sans', sans-serif !important;}
+
+	</style>
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+
+	<!-- If hide subtitle of menu
+	================================================== -->
+
+	
+	<!-- If hide subtitle of menu
+	================================================== -->
+	</head>
+<body class="page page-id-5461 page-child parent-pageid-74 page-template page-template-template-events page-template-template-events-php green_theme">
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--[if lt IE 8]><p style="width: 100%;" class="messagebox_orange">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]-->
+<div id="header" class="clearfix">
+	<div class="headerbar">
+	<div class="container">
+		<div class="socialicons">
+			<div id="navi_header" class="menu-header-container"><ul id="menu-header" class="menu"><li id="menu-item-3569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3569"><a href="http://www.sport.ox.ac.uk/about-us/opening-hours/">Opening Hours<span class='subtitle'></span></a></li>
+<li id="menu-item-3570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3570"><a href="http://www.sport.ox.ac.uk/about-us/contact-us/">Contact Us<span class='subtitle'></span></a></li>
+<li id="menu-item-8474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8474"><a href="http://www.ousportshop.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.ousportshop.com/', 'Nike Teamwear');">Nike Teamwear<span class='subtitle'></span></a></li>
+<li id="menu-item-2704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2704"><a href="http://www.oushop.com/Sport-and-Leisure" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.oushop.com/Sport-and-Leisure', 'University Shop');" target="_blank">University Shop<span class='subtitle'></span></a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a target="_blank" href="http://www.ox.ac.uk">University of Oxford<span class='subtitle'></span></a></li>
+<li id="menu-item-2874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2874"><a target="_blank" href="https://www.giving.ox.ac.uk/page.aspx?pid=2698&#038;id=7bb3ad0f-8007-4986-9cb3-3299733603f9">Donate<span class='subtitle'></span></a></li>
+</ul></div>		</div><!--socialions-->
+
+		<form id="search_header" name="" method="get" class="search-form_header" action="http://www.sport.ox.ac.uk/">
+			<input type="text" onBlur="if (this.value == '') {this.value = 'SEARCH...';}" onFocus="if (this.value == 'SEARCH...') {this.value = '';}" id="s" name="s" value="SEARCH..." class="textboxsearch_header">
+			<input type="submit" value="" class="submitsearch_header" name="submitsearch">
+		</form>
+
+	</div><!--End container-->
+
+	</div><!--End headerbar-->
+	<div class="line_main"></div>
+		<div class="container">
+			<h1 id="logo"><a href="http://www.sport.ox.ac.uk/" title="Oxford University Sport"><img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/ous-logo.jpg" alt="Oxford University Sport" /></a></h1>
+			<div class="fr" id="ox-logo">
+				<a href="http://www.ox.ac.uk/">
+					<img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/ox-logo.jpg" alt="University of Oxford" />
+				</a>
+			</div>
+			<div class="navwrap">
+				 <div id="megaMenu" class="megaMenuContainer megaMenu-nojs megaResponsive megaResponsiveToggle wpmega-withjs megaMenuOnHover megaMenuHorizontal wpmega-noconflict megaMinimizeResiduals megaResetStyles"><div id="megaMenuToggle" class="megaMenuToggle">Menu&nbsp; <span class="megaMenuToggle-icon"></span></div><ul id="megaUber" class="megaMenu"><li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-0 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.sport.ox.ac.uk/"><span class='subtitle'></span><span class="wpmega-link-title">Home</span></a></li><li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-1 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.sport.ox.ac.uk/about-us/"><span class='subtitle'></span><span class="wpmega-link-title">About Us</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-3342" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/about-us/how-to-find-us/"><span class='subtitle'></span><span class="wpmega-link-title">How to Find Us</span></a></li><li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/about-us/contact-us/"><span class='subtitle'></span><span class="wpmega-link-title">Contact Us</span></a></li><li id="menu-item-3343" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/about-us/opening-hours/"><span class='subtitle'></span><span class="wpmega-link-title">Opening Hours</span></a></li><li id="menu-item-190" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/about-us/staff/"><span class='subtitle'></span><span class="wpmega-link-title">The Staff</span></a></li><li id="menu-item-3344" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/about-us/history/"><span class='subtitle'></span><span class="wpmega-link-title">Historic Sporting Highlights</span></a></li><li id="menu-item-185" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/about-us/support-sport/"><span class='subtitle'></span><span class="wpmega-link-title">Support Sport</span></a></li><li id="menu-item-3345" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/about-us/our-partners/"><span class='subtitle'></span><span class="wpmega-link-title">Our Partners</span></a></li></ul>
+</li><li id="menu-item-1669" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.sport.ox.ac.uk/news-and-events/news/"><span class='subtitle'></span><span class="wpmega-link-title">News &#038; Events</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-688" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/news-and-events/news/"><span class='subtitle'></span><span class="wpmega-link-title">News</span></a></li><li id="menu-item-7325" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/news-and-events/events/?layout=grid"><span class='subtitle'></span><span class="wpmega-link-title">Events</span></a></li><li id="menu-item-689" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/news-and-events/blog/"><span class='subtitle'></span><span class="wpmega-link-title">Blog</span></a></li><li id="menu-item-3348" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/news-and-events/latest-annual-review/"><span class='subtitle'></span><span class="wpmega-link-title">Latest Annual Review</span></a></li></ul>
+</li><li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-3 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.sport.ox.ac.uk/facilities/"><span class='subtitle'></span><span class="wpmega-link-title">Facilities</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-8561" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/about-us/support-sport/"><span class='subtitle'></span><span class="wpmega-link-title">Sports Centre Redevelopment</span></a></li><li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/facilities/iffley-road/"><span class='subtitle'></span><span class="wpmega-link-title">Iffley Road</span></a></li><li id="menu-item-534" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/facilities/marston-road/"><span class='subtitle'></span><span class="wpmega-link-title">Marston Road Sports Ground</span></a></li><li id="menu-item-537" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/facilities/university-parks/"><span class='subtitle'></span><span class="wpmega-link-title">University Parks</span></a></li><li id="menu-item-9574" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/facilities/training-courses/"><span class='subtitle'></span><span class="wpmega-link-title">Training and Courses</span></a></li><li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/facilities/virtual-tour/"><span class='subtitle'></span><span class="wpmega-link-title">Virtual Tour</span></a></li><li id="menu-item-3351" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/facilities/venue-hire/"><span class='subtitle'></span><span class="wpmega-link-title">Venue Hire</span></a></li></ul>
+</li><li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-4 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.sport.ox.ac.uk/membership/"><span class='subtitle'></span><span class="wpmega-link-title">Membership</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-3352" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/membership/membership/"><span class='subtitle'></span><span class="wpmega-link-title">Membership</span></a></li><li id="menu-item-606" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/membership/swimming/"><span class='subtitle'></span><span class="wpmega-link-title">Swimming</span></a></li><li id="menu-item-609" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/membership/classes/"><span class='subtitle'></span><span class="wpmega-link-title">Fitness Classes</span></a></li><li id="menu-item-3353" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/membership/personal-training/"><span class='subtitle'></span><span class="wpmega-link-title">Personal Training</span></a></li><li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/membership/current-offers/"><span class='subtitle'></span><span class="wpmega-link-title">Current Offers</span></a></li></ul>
+</li><li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-5 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.sport.ox.ac.uk/student-sport/"><span class='subtitle'></span><span class="wpmega-link-title">Student Sport</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/student-sport/sports-federation/"><span class='subtitle'></span><span class="wpmega-link-title">The Sports Federation</span></a></li><li id="menu-item-9628" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/student-sport/sports-clubs/"><span class='subtitle'></span><span class="wpmega-link-title">Sports Clubs A to Z</span></a></li><li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/student-sport/college-sport/"><span class='subtitle'></span><span class="wpmega-link-title">College Sport</span></a></li><li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/student-sport/varsity/"><span class='subtitle'></span><span class="wpmega-link-title">Varsity</span></a></li><li id="menu-item-448" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/student-sport/resources/"><span class='subtitle'></span><span class="wpmega-link-title">Club Documents</span></a></li><li id="menu-item-9629" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="http://www.sport.ox.ac.uk/student-sport/college-sports-map/"><span class='subtitle'></span><span class="wpmega-link-title">Map of Sports Facilities and Grounds</span></a></li></ul>
+</li></ul></div>			</div><!--End navwrap-->
+			<div class="clear"></div>
+			</div><!--End container-->
+</div>
+
+<div id="clum2_wrap" class="container contentpage">
+        <div class="event-filter clearfix">
+        <h2>Events</h2>
+        <div class="inner-filter">
+                        <form action="http://www.sport.ox.ac.uk/news-and-events/events/">
+                <label for="event-type">Filter Events</label>
+                <select name="event-type" id="event-type">
+                    <option value="">By Type</option>
+                                            <option value="15">Closures</option>
+                                            <option value="295">Courses</option>
+                                            <option value="14">Fitness Classes</option>
+                                            <option value="12">Meetings</option>
+                                            <option value="249">Non-Sport Events</option>
+                                            <option value="13">Social Events</option>
+                                            <option value="11">Sporting Events</option>
+                                            <option value="10">Varsity Fixtures</option>
+                                    </select>
+                <select name="event-date" id="event-date">
+                    <option value="">By Date</option>
+                                        
+                        <option value="2015-06">June 2015</option>
+                                        
+                        <option value="2015-07">July 2015</option>
+                                        
+                        <option value="2015-08">August 2015</option>
+                                        
+                        <option value="2015-09">September 2015</option>
+                                        
+                        <option value="2015-10">October 2015</option>
+                                        
+                        <option value="2015-11">November 2015</option>
+                                        
+                        <option value="2015-12">December 2015</option>
+                                    </select>
+                <input type="hidden" name="layout" value="grid" />
+                <button type="submit">Filter</button>
+            </form>
+                        <div class="layout-icons">
+                <a href="/news-and-events/events/?pno=2%3Flayout%3Dgrid%3Flayout%3Dcalendar%3Flayout%3Dlist?layout=list" class="icon-list"><span class="tooltip">List View<span class="tip">&nbsp;</span></span></a>
+                <a href="/news-and-events/events/?pno=2%3Flayout%3Dgrid%3Flayout%3Dcalendar%3Flayout%3Dlist?layout=grid" class="icon-grid"><span class="tooltip">Grid View<span class="tip">&nbsp;</span></span></a>
+                <a href="/news-and-events/events/?pno=2%3Flayout%3Dgrid%3Flayout%3Dcalendar%3Flayout%3Dlist?layout=calendar" class="icon-calendar"><span class="tooltip">Calendar View<span class="tip">&nbsp;</span></span></a>
+            </div>
+        </div>
+    </div>
+        	<div id="clum2_main">
+        <div class="layout-grid">
+                    
+    <a href="http://www.sport.ox.ac.uk/events/circuits-outdoor-2-2015-06-18/" class="l-event classes">
+        <span class="bg-img">
+            <img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/300x200.png" alt="" />
+        </span>
+        <span class="event-img">
+            <img width="310" height="175" src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/11/Outdoor-Circuits-1-310x175.jpg" class="attachment-310x200 wp-post-image" alt="Outdoor Circuits 1" />
+        </span>
+        <span class="event-content">
+            <span class="event-title">
+                Circuits (Outdoor)
+            </span>
+            <span class="event-date">
+                Date: Thu 18th June, 2015 6:30 pm - 7:30 pm
+            </span>
+        </span>
+    </a>
+    <a href="http://www.sport.ox.ac.uk/events/spinning-12-2015-06-18/" class="l-event classes">
+        <span class="bg-img">
+            <img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/300x200.png" alt="" />
+        </span>
+        <span class="event-img">
+            <img width="310" height="174" src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/11/OUSD-Spining-310x174.jpg" class="attachment-310x200 wp-post-image" alt="OUSD Spining" />
+        </span>
+        <span class="event-content">
+            <span class="event-title">
+                Spinning
+            </span>
+            <span class="event-date">
+                Date: Thu 18th June, 2015 7:15 am - 8:00 am
+            </span>
+        </span>
+    </a>
+    <a href="http://www.sport.ox.ac.uk/events/spinning-13-2015-06-19/" class="l-event classes">
+        <span class="bg-img">
+            <img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/300x200.png" alt="" />
+        </span>
+        <span class="event-img">
+            <img width="310" height="174" src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/11/OUSD-Spining-310x174.jpg" class="attachment-310x200 wp-post-image" alt="OUSD Spining" />
+        </span>
+        <span class="event-content">
+            <span class="event-title">
+                Spinning
+            </span>
+            <span class="event-date">
+                Date: Fri 19th June, 2015 7:00 pm - 7:45 pm
+            </span>
+        </span>
+    </a>
+    <a href="http://www.sport.ox.ac.uk/events/boxercise-3-2015-06-22/" class="l-event classes">
+        <span class="bg-img">
+            <img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/300x200.png" alt="" />
+        </span>
+        <span class="event-img">
+            <img width="300" height="200" src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/11/image2-300x200.jpg" class="attachment-310x200 wp-post-image" alt="Boxercise 2" />
+        </span>
+        <span class="event-content">
+            <span class="event-title">
+                Boxercise
+            </span>
+            <span class="event-date">
+                Date: Mon 22nd June, 2015 6:30 pm - 7:30 pm
+            </span>
+        </span>
+    </a>
+    <a href="http://www.sport.ox.ac.uk/events/spinning-9-2015-06-22/" class="l-event classes">
+        <span class="bg-img">
+            <img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/300x200.png" alt="" />
+        </span>
+        <span class="event-img">
+            <img width="310" height="174" src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/11/OUSD-Spining-310x174.jpg" class="attachment-310x200 wp-post-image" alt="OUSD Spining" />
+        </span>
+        <span class="event-content">
+            <span class="event-title">
+                Spinning
+            </span>
+            <span class="event-date">
+                Date: Mon 22nd June, 2015 6:30 pm - 7:15 pm
+            </span>
+        </span>
+    </a>
+    <a href="http://www.sport.ox.ac.uk/events/circuits-4-2015-06-23/" class="l-event classes">
+        <span class="bg-img">
+            <img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/300x200.png" alt="" />
+        </span>
+        <span class="event-img">
+            <img width="310" height="174" src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/11/Indoor-Circuits-6-310x174.jpg" class="attachment-310x200 wp-post-image" alt="Indoor Circuits 6" />
+        </span>
+        <span class="event-content">
+            <span class="event-title">
+                Circuits
+            </span>
+            <span class="event-date">
+                Date: Tue 23rd June, 2015 7:30 pm - 8:30 pm
+            </span>
+        </span>
+    </a>
+    <a href="http://www.sport.ox.ac.uk/events/spinning-10-2015-06-23/" class="l-event classes">
+        <span class="bg-img">
+            <img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/300x200.png" alt="" />
+        </span>
+        <span class="event-img">
+            <img width="310" height="174" src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/11/OUSD-Spining-310x174.jpg" class="attachment-310x200 wp-post-image" alt="OUSD Spining" />
+        </span>
+        <span class="event-content">
+            <span class="event-title">
+                Spinning
+            </span>
+            <span class="event-date">
+                Date: Tue 23rd June, 2015 6:15 pm - 7:00 pm
+            </span>
+        </span>
+    </a>
+    <a href="http://www.sport.ox.ac.uk/events/spinning-11-2015-06-24/" class="l-event classes">
+        <span class="bg-img">
+            <img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/300x200.png" alt="" />
+        </span>
+        <span class="event-img">
+            <img width="310" height="174" src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/11/OUSD-Spining-310x174.jpg" class="attachment-310x200 wp-post-image" alt="OUSD Spining" />
+        </span>
+        <span class="event-content">
+            <span class="event-title">
+                Spinning
+            </span>
+            <span class="event-date">
+                Date: Wed 24th June, 2015 6:00 pm - 7:00 pm
+            </span>
+        </span>
+    </a>
+    <a href="http://www.sport.ox.ac.uk/events/circuits-outdoor-2-2015-06-25/" class="l-event classes">
+        <span class="bg-img">
+            <img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/300x200.png" alt="" />
+        </span>
+        <span class="event-img">
+            <img width="310" height="175" src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/11/Outdoor-Circuits-1-310x175.jpg" class="attachment-310x200 wp-post-image" alt="Outdoor Circuits 1" />
+        </span>
+        <span class="event-content">
+            <span class="event-title">
+                Circuits (Outdoor)
+            </span>
+            <span class="event-date">
+                Date: Thu 25th June, 2015 6:30 pm - 7:30 pm
+            </span>
+        </span>
+    </a>
+    <a href="http://www.sport.ox.ac.uk/events/spinning-12-2015-06-25/" class="l-event classes">
+        <span class="bg-img">
+            <img src="http://www.sport.ox.ac.uk/wp-content/themes/creative-ous/img/300x200.png" alt="" />
+        </span>
+        <span class="event-img">
+            <img width="310" height="174" src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/11/OUSD-Spining-310x174.jpg" class="attachment-310x200 wp-post-image" alt="OUSD Spining" />
+        </span>
+        <span class="event-content">
+            <span class="event-title">
+                Spinning
+            </span>
+            <span class="event-date">
+                Date: Thu 25th June, 2015 7:15 am - 8:00 am
+            </span>
+        </span>
+    </a><span class="em-pagination" > <strong><span class="page-numbers current">1</span></strong> <a class="page-numbers" href="/news-and-events/events/?pno=2" title="2">2</a>  <a class="page-numbers" href="/news-and-events/events/?pno=3" title="3">3</a>  <a class="page-numbers" href="/news-and-events/events/?pno=4" title="4">4</a>  <a class="page-numbers" href="/news-and-events/events/?pno=5" title="5">5</a>  <a class="page-numbers" href="/news-and-events/events/?pno=6" title="6">6</a>  <a class="page-numbers" href="/news-and-events/events/?pno=7" title="7">7</a>  <a class="page-numbers" href="/news-and-events/events/?pno=8" title="8">8</a>  <a class="page-numbers" href="/news-and-events/events/?pno=9" title="9">9</a>  <a class="page-numbers" href="/news-and-events/events/?pno=10" title="10">10</a>  <a class="next page-numbers" href="/news-and-events/events/?pno=2" title="2">&gt;</a>  <a class="next page-numbers" href="/news-and-events/events/?pno=13" title="13">&gt;&gt;</a> </span>
+        </div>
+    	</div><!--clum2 main-->
+    	<div id="clum2_sidebar_left">
+	<ul class="clum2_sidebar_unit">
+	<li id="nav_menu-5" class="widget-container widget_nav_menu"><div class="menu-news-sub-nav-container"><ul id="menu-news-sub-nav" class="menu"><li id="menu-item-668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-668"><a href="http://www.sport.ox.ac.uk/news-and-events/news/">News<span class='subtitle'></span></a></li>
+<li id="menu-item-6606" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5461 current_page_item menu-item-6606"><a href="http://www.sport.ox.ac.uk/news-and-events/events/">Events<span class='subtitle'></span></a></li>
+<li id="menu-item-667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-667"><a href="http://www.sport.ox.ac.uk/news-and-events/blog/">Blog<span class='subtitle'></span></a></li>
+<li id="menu-item-666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-666"><a href="http://www.sport.ox.ac.uk/news-and-events/olympics/">Olympics<span class='subtitle'></span></a></li>
+<li id="menu-item-665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-665"><a href="http://www.sport.ox.ac.uk/?page_id=663">Annual Review<span class='subtitle'></span></a></li>
+</ul></div></li>
+        <form action="http://www.sport.ox.ac.uk/news-and-events/events/" class="past-events">
+        <h3>Archive</h3>
+        <select name="past-events" id="past-event" class="fll">
+            <option value="">Select date</option>
+                        
+                <option value="2015-06">June 2015</option>
+                        
+                <option value="2015-05">May 2015</option>
+                        
+                <option value="2015-04">April 2015</option>
+                        
+                <option value="2015-03">March 2015</option>
+                        
+                <option value="2015-02">February 2015</option>
+                        
+                <option value="2015-01">January 2015</option>
+                        
+                <option value="2014-12">December 2014</option>
+                        
+                <option value="2014-11">November 2014</option>
+                        
+                <option value="2014-10">October 2014</option>
+                        
+                <option value="2014-09">September 2014</option>
+                        
+                <option value="2014-08">August 2014</option>
+                        
+                <option value="2014-07">July 2014</option>
+                        
+                <option value="2014-06">June 2014</option>
+                    </select>
+        <button type="submit" class="flr button">Search</button>
+    </form>
+    
+		</ul><!--clum2_sidebar_unit-->
+			<div class="info-point">
+			<h3 class="info_title">
+				Information Point
+			</h3>
+			<ul>
+									<li><a href="http://www.sport.ox.ac.uk/about-us/contact-us/">Contact Us</a></li>
+									<li><a href="http://www.sport.ox.ac.uk/about-us/how-to-find-us/">How to Find Us</a></li>
+									<li><a href="http://www.sport.ox.ac.uk/about-us/opening-hours/">Opening Hours</a></li>
+									<li><a href="http://www.sport.ox.ac.uk/student-sport/resources/">Club Documents</a></li>
+									<li><a href="http://www.sport.ox.ac.uk/student-sport/resources/register-a-trip/">Book Vehicles and Register a Trip</a></li>
+							</ul>
+		</div>
+	</div><!--clum2_sidebar-->        </div><!--End clum2_wrap-->
+<div class="clear"></div>
+<!--Back Top button-->
+<div id="top"></div>
+<div id="footer">
+	<div id="footbox" class="container">
+		<div id="footer_trggle" class="footer_open"></div><p class="fr">Let's get social</p>
+		<div class="footinfo">&copy; 2015 OUS </div>
+		<div id="navi_footer" class="nav"><ul id="menu-footer-navigation" class="menu"><li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a href="http://www.sport.ox.ac.uk/about-us/contact-us/">Contact Us<span class='subtitle'></span></a></li>
+<li id="menu-item-1680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1680"><a href="http://www.sport.ox.ac.uk/about-us/opening-hours/">Opening Hours<span class='subtitle'></span></a></li>
+<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a href="http://www.sport.ox.ac.uk/about-us/careers/">Careers<span class='subtitle'></span></a></li>
+<li id="menu-item-1683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1683"><a href="http://www.sport.ox.ac.uk/about/">About this site<span class='subtitle'></span></a></li>
+<li id="menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-739"><a href="http://www.sport.ox.ac.uk/sitemap/">Sitemap<span class='subtitle'></span></a></li>
+<li id="menu-item-3140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3140"><a href="http://www.sport.ox.ac.uk/about-us/contact-us/feedback/">Feedback<span class='subtitle'></span></a></li>
+</ul></div>	</div><!--footbox-->
+</div><!--footer-->
+<div class="clear"></div>
+	<div id="footunder">
+	<div id="footunderwrap" class="container">
+		<div class="textinfo">
+			<h2>Twitter</h2>
+				<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/OxfordUniSport" data-widget-id="323728238419525632" data-chrome="noheader nofooter transparent">Tweets by @OxfordUniSport</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div><!--textinfo-->
+		<div class="textinfo">
+			<h2>Newsletter Signup</h2>
+			<div role="form" class="wpcf7" id="wpcf7-f58-o1" dir="ltr">
+<div class="screen-reader-response"></div>
+<form name="" action="/news-and-events/events/?pno=2%3Flayout%3Dgrid%3Flayout%3Dcalendar%3Flayout%3Dlist#wpcf7-f58-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="58" />
+<input type="hidden" name="_wpcf7_version" value="4.1.2" />
+<input type="hidden" name="_wpcf7_locale" value="" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f58-o1" />
+<input type="hidden" name="_wpnonce" value="81c63ea7ff" />
+</div>
+<p>If you would like to know more about Oxford University Sport and get the latest news, sign up to our email newsletter below.</p>
+<p><label class="visuallyhidden">Your Name (required)</label><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name" /></span> </p>
+<p><label class="visuallyhidden">Your Email (required)</label><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address" /></span> </p>
+<p><span class="wpcf7-form-control-wrap news-email-wrap" style="display:none !important;visibility:hidden !important;"><input class="wpcf7-form-control wpcf7-text"  type="text" name="news-email" value="" size="40" tabindex="-1" /><br><small>Please leave this field empty.</small></span></p>
+<p id="footer-submit"><input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>			<h2 class="facebook">Social</h2>
+			<div class="fb-like-box" data-href="http://www.facebook.com/oxfordunisport" data-width="290" data-show-faces="false" data-colorscheme="dark" data-stream="false" data-header="false"></div>
+			<p>View our videos on <a href="http://www.youtube.com/oxfordunisport">YouTube</a>.</p>
+		</div><!--textinfo-->
+		<div class="textinfo last">
+			<h2>Sponsors &amp; Partners</h2>
+												<a href="http://www.sport.ox.ac.uk/about-us/our-sponsors/" target="_blank" rel="nofollow">
+										<img src="http://www.sport.ox.ac.uk/wp-content/uploads/2014/01/advert-nike-bp-250-59.png" alt="" class="sponsor" />
+									</a>
+																<a href="http://www.sport.ox.ac.uk/about-us/our-partners/" target="_blank" rel="nofollow">
+										<img src="http://www.sport.ox.ac.uk/wp-content/uploads/2013/04/Adverts-3.png" alt="" class="sponsor" />
+									</a>
+									</div><!--textinfo-->
+
+	<script type="text/javascript">
+		jQuery(document).ready(function($){
+			// Click (open) footer
+				//$('#footer_trggle').trigger('click');
+				$('#footer_trggle').removeClass('footer_open');
+				$('#footer_trggle').addClass('footer_close');
+				$('#footunder').slideDown();
+		});
+	</script>
+	</div><!--footunderwrap-->
+	</div><!--footunder-->
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/plugins/ubermenu/core/js/hoverIntent.js?ver=4.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uberMenuSettings = {"speed":"300","trigger":"hoverIntent","orientation":"horizontal","transition":"slide","hoverInterval":"20","hoverTimeout":"400","removeConflicts":"on","autoAlign":"off","noconflict":"off","fullWidthSubs":"off","androidClick":"on","iOScloseButton":"on","loadGoogleMaps":"off","repositionOnLoad":"off"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/plugins/ubermenu/core/js/ubermenu.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-includes/js/comment-reply.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.sport.ox.ac.uk\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-timepicker/jquery-ui-timepicker-addon.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.sport.ox.ac.uk/wp-content/plugins/contact-form-7-datepicker/js/jquery-ui-sliderAccess.js?ver=4.2.2'></script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ace467a210","applicationID":"5343656","transactionName":"YgAGYUoHW0MCVxdbXVtKJVZMD1peTEAGX0JZBBBQFQNDVQ1AEA==","queueTime":0,"applicationTime":972,"ttGuid":"","agentToken":"","atts":"TkcFFwIdSE0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

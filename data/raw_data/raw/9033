@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="Keywords" content="Tibet, Tibetan History, 1920 -1950, photographs, museum" /><meta name="Description" content="showing photographs from Tibet" /><meta name="author" content="David Harris, www.inetlab.co.uk" /><title>The Tibet Album: British Photography in Central Tibet 1920-1950</title><link rel="stylesheet" href="tibet.css" type="text/css" /><link rel="stylesheet" type="text/css" media="print" href="tibetPrint.css" /> <script type="text/javascript" src="tibet.js"></script></head><body> <div style="width:100%"><div id="header">    <div id="logo">      <!--<img src="graphics/tibetAlbum.gif" width="283" height="56" alt="Tibet Album" />-->    </div><!-- close logo-->     <div id="myAlbum">      <div id="myAlbumBook">      <h1><!--<img src="graphics/myAlbum.gif" width="52" height="35" alt="my Album">-->My Tibet Album</h1>      <p>No of photos selected: 0 <a href="my-tibet-album.php">View your album</a></p>      </div>    </div><!-- close myAlbum-->    <!--<img src="graphics/prm_bm_logos.gif" width="122" height="56" alt="A joint project by the British Museum and the Pitt Rivers Museum" style="float:right;margin-right:1em;" />-->      <form method="get" id="query" action="thumbnails.php" >      <fieldset class="invisible">         <input class="quicksearch" name="q" type="text" id="searchbox" value="" size="15" />         <input type="submit" name="go" value="search" id="go" /><br />         <div id="searchRadio">          <input name="t" type="radio" value="" checked="checked" /> photos          <input name="t" type="radio" value="web"  /> all pages         </div>        </fieldset>        <p>&nbsp;<!-- <a href="#">advanced search</a> --></p>      </form></div><!-- close header--><div id="navigation">  <ul>      <li><a href="index.php"><span class="tabClose"><span id="t_home">Home</span></span></a></li>    <li><a href="tibet_photographers.html"><span class="tabClose"><span id="t_photographers">Photographers</span></span></a></li>    <li id="current"><a href="tibet_collections.html"><span class="tabClose"><span id="t_collections">Collections</span></span></a></li>    <li><a href="tibet_places.html"><span class="tabClose"><span id="t_places">Places</span></span></a></li>    <li><a href="tibet_dates.html"><span class="tabClose"><span id="t_dates">Dates</span></span></a></li>    <li><a href="tibet_people.html"><span class="tabClose"><span id="t_people">People</span></span></a></li>   </ul>   <!--<img src="graphics/prm_bm_logo_tabsize.gif" width="179" height="25" alt="A joint project by the British Museum and the Pitt Rivers Museum" style="float:right;margin:0.5em 1em 0 0;" />-->   <div id="institutions">     <div id="prmLink">      <h1 title="The Pitt Rivers Museum"><a href="http://www.prm.ox.ac.uk/" title="The Pitt Rivers Museum"><span>The Pitt Rivers Museum</span></a></h1>     </div>     <div id="bmLink">      <h1 title="The British Museum"><a href="http://www.thebritishmuseum.ac.uk/" title="The British Museum"><span>The British Museum</span></a></h1>     </div>   </div></div><!-- close navigation--><!--<div class="spacer">&nbsp;</div>--></div><div id="breadcrumb"><a href="index.php">Home</a> > Hopkinson thumbnail results</div><div class="pageContent"><div id="thumbKey">
+<img src="graphics/expand.gif" width="16" height="16" alt="Enlarge photo - example" /> - Enlarge photo<br />
+
+
+<img src="graphics/addToAlb.gif" width="16" height="16" alt="Add to Album - example" /> - add photo to your album
+</div>
+<h1>Tibet thumbnail results</h1>
+<p>Showing page 1, with 30 thumbnails per page,  of 772 total thumbnails</p>
+<p class="pageNavigation">
+1 <a href="thumbnails.php?collection=Hopkinson&amp;o=30&amp;r=30">2</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=60&amp;r=30">3</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=90&amp;r=30">4</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=120&amp;r=30">5</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=150&amp;r=30">6</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=180&amp;r=30">7</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=210&amp;r=30">8</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=240&amp;r=30">9</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=270&amp;r=30">10</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=300&amp;r=30">11</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=330&amp;r=30">12</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=360&amp;r=30">13</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=390&amp;r=30">14</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=420&amp;r=30">15</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=450&amp;r=30">16</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=480&amp;r=30">17</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=510&amp;r=30">18</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=540&amp;r=30">19</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=570&amp;r=30">20</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=600&amp;r=30">21</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=630&amp;r=30">22</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=660&amp;r=30">23</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=690&amp;r=30">24</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=720&amp;r=30">25</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=750&amp;r=30">26</a> 
+</p>
+<div id="thumbnailResults">
+
+<div class="thumbnail" id="thdiv1"><a href="photo_BMH.A.10.1.html"><img src="photos/opt/95/BMH.A.10.1-O.jpg" id="thumb_1"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.10.1</p><p><a href="photo_BMH.A.10.1.html"><SPAN>March into Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv1','thumbnailBig','thumbnail');toggleImage('thumb_1','BMH.A.10.1-O.jpg');togIm('exp1','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp1" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.10.1" onClick="setCookie('BMH.A.10.1');swIm('alb1','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb1" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv2"><a href="photo_BMH.A.100.1.html"><img src="photos/opt/95/BMH.A.100.1-O.jpg" id="thumb_2"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.100.1</p><p><a href="photo_BMH.A.100.1.html"><SPAN>Woman carrying load in Chumbi Valley village</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv2','thumbnailBig','thumbnail');toggleImage('thumb_2','BMH.A.100.1-O.jpg');togIm('exp2','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp2" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.100.1" onClick="setCookie('BMH.A.100.1');swIm('alb2','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb2" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv3"><a href="photo_BMH.A.11.1.html"><img src="photos/opt/95/BMH.A.11.1-O.jpg" id="thumb_3"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.11.1</p><p><a href="photo_BMH.A.11.1.html"><SPAN STYLE= "font-style:italic;" >Chorten </SPAN>  <SPAN>on road to Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv3','thumbnailBig','thumbnail');toggleImage('thumb_3','BMH.A.11.1-O.jpg');togIm('exp3','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp3" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.11.1" onClick="setCookie('BMH.A.11.1');swIm('alb3','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb3" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv4"><a href="photo_BMH.A.12.1.html"><img src="photos/opt/95/BMH.A.12.1-O.jpg" id="thumb_4"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.12.1</p><p><a href="photo_BMH.A.12.1.html"><SPAN>Young monk at Cholung Riton</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv4','thumbnailBig','thumbnail');toggleImage('thumb_4','BMH.A.12.1-O.jpg');togIm('exp4','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp4" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.12.1" onClick="setCookie('BMH.A.12.1');swIm('alb4','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb4" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv5"><a href="photo_BMH.A.13.1.html"><img src="photos/opt/95/BMH.A.13.1-O.jpg" id="thumb_5"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.13.1</p><p><a href="photo_BMH.A.13.1.html"><SPAN>Cholung Ritro near Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv5','thumbnailBig','thumbnail');toggleImage('thumb_5','BMH.A.13.1-O.jpg');togIm('exp5','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp5" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.13.1" onClick="setCookie('BMH.A.13.1');swIm('alb5','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb5" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv6"><a href="photo_BMH.A.14.1.html"><img src="photos/opt/95/BMH.A.14.1-O.jpg" id="thumb_6"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.14.1</p><p><a href="photo_BMH.A.14.1.html"><SPAN>Prayer wheels at Cholung Ritro, near Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv6','thumbnailBig','thumbnail');toggleImage('thumb_6','BMH.A.14.1-O.jpg');togIm('exp6','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp6" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.14.1" onClick="setCookie('BMH.A.14.1');swIm('alb6','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb6" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv7"><a href="photo_BMH.A.15.1.html"><img src="photos/opt/95/BMH.A.15.1-O.jpg" id="thumb_7"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.15.1</p><p><a href="photo_BMH.A.15.1.html"><SPAN>Monks at Cholung Ritro, near Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv7','thumbnailBig','thumbnail');toggleImage('thumb_7','BMH.A.15.1-O.jpg');togIm('exp7','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp7" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.15.1" onClick="setCookie('BMH.A.15.1');swIm('alb7','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb7" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv8"><a href="photo_BMH.A.16.1.html"><img src="photos/opt/95/BMH.A.16.1-O.jpg" id="thumb_8"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.16.1</p><p><a href="photo_BMH.A.16.1.html"><SPAN>Chorten at Cholung Ritro, near Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv8','thumbnailBig','thumbnail');toggleImage('thumb_8','BMH.A.16.1-O.jpg');togIm('exp8','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp8" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.16.1" onClick="setCookie('BMH.A.16.1');swIm('alb8','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb8" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv9"><a href="photo_BMH.A.17.1.html"><img src="photos/opt/95/BMH.A.17.1-O.jpg" id="thumb_9"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.17.1</p><p><a href="photo_BMH.A.17.1.html"><SPAN>View of Gyantse from near Cholung Ritro</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv9','thumbnailBig','thumbnail');toggleImage('thumb_9','BMH.A.17.1-O.jpg');togIm('exp9','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp9" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.17.1" onClick="setCookie('BMH.A.17.1');swIm('alb9','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb9" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv10"><a href="photo_BMH.A.18.1.html"><img src="photos/opt/95/BMH.A.18.1-O.jpg" id="thumb_10"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.18.1</p><p><a href="photo_BMH.A.18.1.html"><SPAN>View of Gyantse from near Cholung Ritro</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv10','thumbnailBig','thumbnail');toggleImage('thumb_10','BMH.A.18.1-O.jpg');togIm('exp10','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp10" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.18.1" onClick="setCookie('BMH.A.18.1');swIm('alb10','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb10" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv11"><a href="photo_BMH.A.19.1.html"><img src="photos/opt/95/BMH.A.19.1-O.jpg" id="thumb_11"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.19.1</p><p><a href="photo_BMH.A.19.1.html"><SPAN>View of Gyantse from near Cholung Ritro</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv11','thumbnailBig','thumbnail');toggleImage('thumb_11','BMH.A.19.1-O.jpg');togIm('exp11','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp11" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.19.1" onClick="setCookie('BMH.A.19.1');swIm('alb11','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb11" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv12"><a href="photo_BMH.A.20.1.html"><img src="photos/opt/95/BMH.A.20.1-O.jpg" id="thumb_12"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.20.1</p><p><a href="photo_BMH.A.20.1.html"><SPAN>Pasang and horse near Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv12','thumbnailBig','thumbnail');toggleImage('thumb_12','BMH.A.20.1-O.jpg');togIm('exp12','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp12" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.20.1" onClick="setCookie('BMH.A.20.1');swIm('alb12','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb12" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv13"><a href="photo_BMH.A.21.1.html"><img src="photos/opt/95/BMH.A.21.1-O.jpg" id="thumb_13"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.21.1</p><p><a href="photo_BMH.A.21.1.html"><SPAN>Road leading into Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv13','thumbnailBig','thumbnail');toggleImage('thumb_13','BMH.A.21.1-O.jpg');togIm('exp13','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp13" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.21.1" onClick="setCookie('BMH.A.21.1');swIm('alb13','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb13" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv14"><a href="photo_BMH.A.22.1.html"><img src="photos/opt/95/BMH.A.22.1-O.jpg" id="thumb_14"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.22.1</p><p><a href="photo_BMH.A.22.1.html"><SPAN>Horses on path near Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv14','thumbnailBig','thumbnail');toggleImage('thumb_14','BMH.A.22.1-O.jpg');togIm('exp14','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp14" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.22.1" onClick="setCookie('BMH.A.22.1');swIm('alb14','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb14" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv15"><a href="photo_BMH.A.23.1.html"><img src="photos/opt/95/BMH.A.23.1-O.jpg" id="thumb_15"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.23.1</p><p><a href="photo_BMH.A.23.1.html"><SPAN>The road leading from Gyantse to Lhasa</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv15','thumbnailBig','thumbnail');toggleImage('thumb_15','BMH.A.23.1-O.jpg');togIm('exp15','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp15" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.23.1" onClick="setCookie('BMH.A.23.1');swIm('alb15','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb15" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv16"><a href="photo_BMH.A.24.1.html"><img src="photos/opt/95/BMH.A.24.1-O.jpg" id="thumb_16"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.24.1</p><p><a href="photo_BMH.A.24.1.html"><SPAN>The road leading from Gyantse to Lhasa</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv16','thumbnailBig','thumbnail');toggleImage('thumb_16','BMH.A.24.1-O.jpg');togIm('exp16','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp16" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.24.1" onClick="setCookie('BMH.A.24.1');swIm('alb16','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb16" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv17"><a href="photo_BMH.A.25.1.html"><img src="photos/opt/95/BMH.A.25.1-O.jpg" id="thumb_17"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.25.1</p><p><a href="photo_BMH.A.25.1.html"><SPAN>The Taring family at home near Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv17','thumbnailBig','thumbnail');toggleImage('thumb_17','BMH.A.25.1-O.jpg');togIm('exp17','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp17" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.25.1" onClick="setCookie('BMH.A.25.1');swIm('alb17','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb17" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv18"><a href="photo_BMH.A.26.1.html"><img src="photos/opt/95/BMH.A.26.1-O.jpg" id="thumb_18"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.26.1</p><p><a href="photo_BMH.A.26.1.html"><SPAN>Taring family and Hopkinson </SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv18','thumbnailBig','thumbnail');toggleImage('thumb_18','BMH.A.26.1-O.jpg');togIm('exp18','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp18" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.26.1" onClick="setCookie('BMH.A.26.1');swIm('alb18','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb18" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv19"><a href="photo_BMH.A.27.1.html"><img src="photos/opt/95/BMH.A.27.1-O.jpg" id="thumb_19"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.27.1</p><p><a href="photo_BMH.A.27.1.html"><SPAN>The Taring family at home near Gyantse</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv19','thumbnailBig','thumbnail');toggleImage('thumb_19','BMH.A.27.1-O.jpg');togIm('exp19','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp19" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.27.1" onClick="setCookie('BMH.A.27.1');swIm('alb19','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb19" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv20"><a href="photo_BMH.A.28.1.html"><img src="photos/opt/95/BMH.A.28.1-O.jpg" id="thumb_20"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.28.1</p><p><a href="photo_BMH.A.28.1.html"><SPAN>View of Gyantse from north</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv20','thumbnailBig','thumbnail');toggleImage('thumb_20','BMH.A.28.1-O.jpg');togIm('exp20','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp20" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.28.1" onClick="setCookie('BMH.A.28.1');swIm('alb20','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb20" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv21"><a href="photo_BMH.A.29.1.html"><img src="photos/opt/95/BMH.A.29.1-O.jpg" id="thumb_21"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.29.1</p><p><a href="photo_BMH.A.29.1.html"><SPAN>View of Gyantse from north</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv21','thumbnailBig','thumbnail');toggleImage('thumb_21','BMH.A.29.1-O.jpg');togIm('exp21','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp21" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.29.1" onClick="setCookie('BMH.A.29.1');swIm('alb21','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb21" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv22"><a href="photo_BMH.A.30.1.html"><img src="photos/opt/95/BMH.A.30.1-O.jpg" id="thumb_22"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.30.1</p><p><a href="photo_BMH.A.30.1.html"><SPAN>Pasang and children in Gyantse Fort</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv22','thumbnailBig','thumbnail');toggleImage('thumb_22','BMH.A.30.1-O.jpg');togIm('exp22','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp22" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.30.1" onClick="setCookie('BMH.A.30.1');swIm('alb22','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb22" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv23"><a href="photo_BMH.A.31.1.html"><img src="photos/opt/95/BMH.A.31.1-O.jpg" id="thumb_23"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.31.1</p><p><a href="photo_BMH.A.31.1.html"><SPAN>Arthur Hopkinson in travelling gear</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv23','thumbnailBig','thumbnail');toggleImage('thumb_23','BMH.A.31.1-O.jpg');togIm('exp23','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp23" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.31.1" onClick="setCookie('BMH.A.31.1');swIm('alb23','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb23" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv24"><a href="photo_BMH.A.34.1.html"><img src="photos/opt/95/BMH.A.34.1-O.jpg" id="thumb_24"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.34.1</p><p><a href="photo_BMH.A.34.1.html"><SPAN>Children near Dochen</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv24','thumbnailBig','thumbnail');toggleImage('thumb_24','BMH.A.34.1-O.jpg');togIm('exp24','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp24" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.34.1" onClick="setCookie('BMH.A.34.1');swIm('alb24','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb24" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv25"><a href="photo_BMH.A.35.1.html"><img src="photos/opt/95/BMH.A.35.1-O.jpg" id="thumb_25"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.35.1</p><p><a href="photo_BMH.A.35.1.html"><SPAN>Tibetan traders near Dochen</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv25','thumbnailBig','thumbnail');toggleImage('thumb_25','BMH.A.35.1-O.jpg');togIm('exp25','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp25" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.35.1" onClick="setCookie('BMH.A.35.1');swIm('alb25','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb25" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv26"><a href="photo_BMH.A.36.1.html"><img src="photos/opt/95/BMH.A.36.1-O.jpg" id="thumb_26"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.36.1</p><p><a href="photo_BMH.A.36.1.html"><SPAN>Tibetan traders near Dochen</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv26','thumbnailBig','thumbnail');toggleImage('thumb_26','BMH.A.36.1-O.jpg');togIm('exp26','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp26" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.36.1" onClick="setCookie('BMH.A.36.1');swIm('alb26','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb26" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv27"><a href="photo_BMH.A.37.1.html"><img src="photos/opt/95/BMH.A.37.1-O.jpg" id="thumb_27"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.37.1</p><p><a href="photo_BMH.A.37.1.html"><SPAN>Nepalese trader and Tibetan servant</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv27','thumbnailBig','thumbnail');toggleImage('thumb_27','BMH.A.37.1-O.jpg');togIm('exp27','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp27" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.37.1" onClick="setCookie('BMH.A.37.1');swIm('alb27','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb27" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv28"><a href="photo_BMH.A.38.1.html"><img src="photos/opt/95/BMH.A.38.1-O.jpg" id="thumb_28"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.38.1</p><p><a href="photo_BMH.A.38.1.html"><SPAN>Chomolhari from Phari</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv28','thumbnailBig','thumbnail');toggleImage('thumb_28','BMH.A.38.1-O.jpg');togIm('exp28','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp28" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.38.1" onClick="setCookie('BMH.A.38.1');swIm('alb28','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb28" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv29"><a href="photo_BMH.A.39.1.html"><img src="photos/opt/95/BMH.A.39.1-O.jpg" id="thumb_29"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.39.1</p><p><a href="photo_BMH.A.39.1.html"><SPAN>Chomolhari from Gautsa</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv29','thumbnailBig','thumbnail');toggleImage('thumb_29','BMH.A.39.1-O.jpg');togIm('exp29','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp29" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.39.1" onClick="setCookie('BMH.A.39.1');swIm('alb29','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb29" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+
+<div class="thumbnail" id="thdiv30"><a href="photo_BMH.A.40.1.html"><img src="photos/opt/95/BMH.A.40.1-O.jpg" id="thumb_30"  alt="View full details" title="View full details" /></a><br /> &nbsp;<br />
+<p class="lght">BMH.A.40.1</p><p><a href="photo_BMH.A.40.1.html"><SPAN>Young boy near Dochen</SPAN></a></p>
+<span class="greyText"><a href="#" onClick="toggleStyle('thdiv30','thumbnailBig','thumbnail');toggleImage('thumb_30','BMH.A.40.1-O.jpg');togIm('exp30','expand.gif','shrink.gif');return false;"><img src="graphics/expand.gif" width="16" height="16" id="exp30" alt="toggle image size" title="toggle image size" />Enlarge</a></span><br /> 
+<a href="my-tibet-album.php?add=BMH.A.40.1" onClick="setCookie('BMH.A.40.1');swIm('alb30','inAlb.gif');return false;"><img src="graphics/addToAlb.gif" width="16" height="16" id="alb30" alt="Add image to your album" title="Add image to your album"/><span class="greyText">Add to album</span></a><br />
+</div>
+
+</div>
+<p class="pageNavigation">
+1 <a href="thumbnails.php?collection=Hopkinson&amp;o=30&amp;r=30">2</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=60&amp;r=30">3</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=90&amp;r=30">4</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=120&amp;r=30">5</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=150&amp;r=30">6</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=180&amp;r=30">7</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=210&amp;r=30">8</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=240&amp;r=30">9</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=270&amp;r=30">10</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=300&amp;r=30">11</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=330&amp;r=30">12</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=360&amp;r=30">13</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=390&amp;r=30">14</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=420&amp;r=30">15</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=450&amp;r=30">16</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=480&amp;r=30">17</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=510&amp;r=30">18</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=540&amp;r=30">19</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=570&amp;r=30">20</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=600&amp;r=30">21</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=630&amp;r=30">22</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=660&amp;r=30">23</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=690&amp;r=30">24</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=720&amp;r=30">25</a> 
+<a href="thumbnails.php?collection=Hopkinson&amp;o=750&amp;r=30">26</a> 
+</p>
+</div><!-- close pageContent --><div id="footer"><p><a href="tibet_advancedsearch.html">Advanced Search</a> |<a href="tibet_about.html">About</a> | <a href="my-tibet-album.php">My Tibet Album</a> | <a href="tibet_bibliography.html">Further Reading</a>   </p></div> <div style="clear:both;float:left;"> </div></body></html>

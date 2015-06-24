@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<head>
+
+<title>Lincoln Panorama</title>
+<meta http-equiv='content-type' content='text/html; charset=utf-8' />
+<meta name='keywords' content="Lincoln College Oxford Turl Street England U.K."/>
+<meta name='description' content=""/>
+<script>window.siteRoot = '';window.uploadDir = '/uploads/';window.mediaDir = window.uploadDir + 'media/';</script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script type='text/javascript'>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36665038-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<meta name='viewport' content='width=1090, maximum-scale=1.5' />
+<link rel='shortcut icon' href='/favicon.ico' />
+
+<link rel='stylesheet' type='text/css' href='/css/normalize.css' />
+<link href='http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Cabin+Condensed:400,500,600,700' rel='stylesheet' type='text/css'>
+<link rel='stylesheet' type='text/css' href='/css/style.css' />
+<link rel='stylesheet' href='/twitter/jquery.rareform.tweet.css' />
+
+
+<link rel='stylesheet' href='/js/royalslider/royalslider.css'>
+<link rel='stylesheet' href='/js/royalslider/skins/default/rs-default.css'>
+<link rel='stylesheet' href='/js/royalslider/fullWidthNoOverflow.css'>
+<script src='/js/royalslider/jquery-1.8.3.min.js'></script>
+<script src='/js/royalslider/jquery.royalslider.min.js'></script>
+<script type='text/javascript' charset='utf-8' src='/twitter/jquery.tweet.js'></script>
+
+
+<!--[if lte IE 9]>
+	<link rel="stylesheet" type="text/css" href="css/ie9.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="css/ie8.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" href="css/ie7.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script>window.html5 || document.write('<script src="js/html5.js"><\/script>')</script>
+<![endif]-->
+
+</head>
+
+<body>
+
+<div id='topBar'>
+	<div class='innerDiv'>
+		<ul>
+			<li><a href='/Latest-News?tag=Event'>Events</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li><a href='/Latest-News'>News</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li><a href='/contact'>Contact</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li class='navTwitter'><a href='https://twitter.com/LincolnAlumni' target='_blank'><img src='/images/twitterTopBar.png' alt='follow us on twitter' /></a></li>
+			<li class='navFacebook'><a href='https://www.facebook.com/lincolnoxalumni' target='_blank'><img src='/images/facebookTopBar.png' alt='like us on facebook' /></a></li>
+		</ul>
+	</div>
+</div>
+
+<div id='menuBlock'>
+	<div class='innerDiv'>
+		<a href='/./'>
+			<img id='logo' alt='Lincoln Arms' src='/images/logo.png' width='204' height='42' />
+		</a>
+		<div id='nav'>
+			<ul class='sm0'>
+<li><a href='/Home'><span class='sm0i'>Home</span></a></li>
+<li class='menuthis'><a href='/Rectors-Welcome'><span class='sm0i'>About Lincoln</span></a></li>
+<li><a href='/Why-Choose-Lincoln'><span class='sm0i'>Admissions</span></a></li>
+<li><a href='/Current-Students-landing-page'><span class='sm0i'>Current Students</span></a></li>
+<li><a href='/LP-Fellows'><span class='sm0i'>Fellows &amp; Staff</span></a></li>
+<li><a href='/Alumni'><span class='sm0i'>Alumni</span></a></li>
+<li><a href='/Conferencing-at-Lincoln'><span class='sm0i'>Conferences at Lincoln</span></a></li>
+</ul>		</div>
+	</div>
+</div>
+
+
+<div class='rsWrap'>
+  <div class='sliderContainer fullWidth clearfix'>
+    <div id='full-width-slider' class='royalSlider heroSlider rsMinW visibleNearby'>
+
+      <div class='rsContent'>
+        <img class='rsImg' src='/uploads/media/genericSliderPics/Lincoln Pictures 410.jpg' alt='' width='972' height='295' data-rsw='972' data-rsh='295' />
+      </div>
+
+    
+      <div class='rsContent'>
+        <img style='display:block; margin-left:auto; margin-right:auto;' class='rsImg' src='/uploads/media/genericSliderPics/lincolnBanner3.jpg' alt='Lincoln College' width='972' height='295' data-rsw='972' data-rsh='295' />
+      </div>
+      
+      <div class='rsContent'>
+        <img class='rsImg' src='/uploads/media/genericSliderPics/lincolnBanner1.jpg' alt='' width='972' height='295' data-rsw='972' data-rsh='295' />
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script id='addJS'>
+jQuery(document).ready(function($) {
+  $('#full-width-slider').royalSlider({
+    addActiveClass: true,
+    arrowsNav: true,
+    loop: false,
+    keyboardNavEnabled: true,
+    controlsInside: false,
+    imageScaleMode: 'none',
+    arrowsNavAutoHide: false,
+    autoScaleSlider: false, 
+    autoScaleSliderWidth: 972,     
+    autoScaleSliderHeight: 295,
+    slidesSpacing: 0,
+    controlNavigation: 'none',
+    thumbsFitInViewport: false,
+    navigateByClick: false,
+    startSlideId: 1,
+    autoPlay: true,
+    transitionType:'move',
+    globalCaption: false,
+    deeplinking: {
+      enabled: true,
+      change: false
+    },
+
+    /* size of all images http://help.dimsemenov.com/kb/royalslider-jquery-plugin-faq/adding-width-and-height-properties-to-images */
+    imgWidth: 972,
+    imgHeight: 295
+  }).data('royalSlider');
+});
+</script>
+
+<div class='underSlider home'></div>
+
+<div class='columnContainer'>
+  <div class='innerDiv'>
+    <div class='leftSideNav'>
+      
+          <h3 class='fellowsSideNav'>
+            About Lincoln
+          </h3><ul class='sm0'>
+<li><a href='/Rectors-Welcome'><span class='sm0i'>Rector's Welcome</span></a></li>
+<li><a href='/Archives'><span class='sm0i'>Archives</span></a></li>
+<li><a href='/The-Chapel'><span class='sm0i'>The Chapel</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/The-ChapelServices'><span class='sm1i'>Services</span></a></li>
+<li><a href='/The-ChapelTerm-Card'><span class='sm1i'>Term Card</span></a></li>
+<li><a href='/About-the-chaplain'><span class='sm1i'>The Chaplain</span></a></li>
+<li><a href='http://www.lincolncollegechapelchoir.com/'><span class='sm1i'>Lincoln Choir</span></a></li>
+<li><a href='/Organ-and-Choral-Scholarships'><span class='sm1i'>Organ and Choral Scholarships</span></a></li>
+<li><a href='/The-Chapel'><span class='sm1i'>The Chapel</span></a></li>
+<li><a href='/The-ChapelChapel-Restoration'><span class='sm1i'>Chapel Restoration</span></a></li>
+<li><a href='/Getting-married-at-Lincoln'><span class='sm1i'>Weddings</span></a></li>
+<li><a href='/BaptismandConfirmation'><span class='sm1i'>Baptism and Confirmation</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Contact'><span class='sm0i'>Contact</span></a></li>
+<li><a href='/A-Short-History'><span class='sm0i'>History</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/A-Short-History'><span class='sm1i'>A Short History</span></a></li>
+<li><a href='/The-BuildingsThe-Front-Quadrangle'><span class='sm1i'>The Buildings</span></a></li>
+<li><a href='/The-College-Arms'><span class='sm1i'>The College Arms</span></a></li>
+<li><a href='/The-College-Grace'><span class='sm1i'>The College Grace</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/New-Buildings-and-Renovations'><span class='sm0i'>New Buildings and Renovations</span></a></li>
+<li><a href='/IT-at-Lincoln'><span class='sm0i'>IT Information</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/IT-at-Lincoln'><span class='sm1i'>IT at Lincoln</span></a></li>
+<li><a href='/ITStudents'><span class='sm1i'>Students</span></a></li>
+<li><a href='/ITVisitors'><span class='sm1i'>IT for visitors</span></a></li>
+<li><a href='/ITRules'><span class='sm1i'>IT Rules and Regulations</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Library'><span class='sm0i'>Library</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Welcome-to-the-Library'><span class='sm1i'>Welcome to the Library</span></a></li>
+<li><a href='/Library-User-FAQs'><span class='sm1i'>Library User FAQs</span></a></li>
+<li><a href='/Library-Etiquette'><span class='sm1i'>Library Etiquette</span></a></li>
+<li><a href='/Library-alumni'><span class='sm1i'>Alumni</span></a></li>
+<li><a href='/Modern-collections'><span class='sm1i'>Visitors to the Library</span></a></li>
+<li><a href='/Senior-Library'><span class='sm1i'>Senior Library</span></a></li>
+<li><a href='/Library-History'><span class='sm1i'>Library History</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/LinCam'><span class='sm0i'>LinCam</span></a></li>
+<li><a href='/Chaplain-and-Student-Welfare-Coordinator'><span class='sm0i'>Vacancies</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Chaplain-and-Student-Welfare-Coordinator'><span class='sm1i'>Chaplain and Student Welfare Coordinator</span></a></li>
+<li><a href='/Stipendiary-Lectureship-in-German-Litera'><span class='sm1i'>Stipendiary Lecturership in German Literature</span></a></li>
+<li><a href='/Alumni-and-College-Communications-Office'><span class='sm1i'>Alumni and College Communications Officer</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Visiting-Lincoln'><span class='sm0i'>Visiting Lincoln</span></a></li>
+<li><a href='/Virtual-Tour'><span class='sm0i'>Virtual Tour</span></a></li>
+<li class='menuthis leaf'><a href='/Lincoln-Panorama'><span class='sm0i'>Lincoln Panorama</span></a></li>
+<li><a href='/Employee-Handbook'><span class='sm0i'>Policies</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Employee-Handbook'><span class='sm1i'>Employee Handbook</span></a></li>
+<li><a href='/Single-Equality-Scheme'><span class='sm1i'>Single Equality Scheme</span></a></li>
+<li><a href='/College-Equality-Statistics'><span class='sm1i'>College Equality Statistics</span></a></li>
+<li><a href='/Disciplinary-and-Disciplinary-Dismissal-'><span class='sm1i'>Disciplinary and Disciplinary Dismissal Procedures</span></a></li>
+<li><a href='/Grievance-Procedure'><span class='sm1i'>Grievance Procedure</span></a></li>
+<li><a href='/Policies4-Freedom-of-Speech'><span class='sm1i'>Freedom of Speech</span></a></li>
+<li><a href='/Policies5-Data-Protection'><span class='sm1i'>Data Protection</span></a></li>
+<li><a href='/Policies6-Freedom-of-Information'><span class='sm1i'>Freedom of Information</span></a></li>
+<li><a href='/Policies7--IT-Acceptable-Use-Policy'><span class='sm1i'>IT Acceptable Use Policy</span></a></li>
+<li><a href='/Policies8-Health--Safety-including-f'><span class='sm1i'>Health &amp; Safety (including food safety)</span></a></li>
+<li><a href='/Policies10-Guidelines-on-Confidentiali'><span class='sm1i'>Guidelines on Confidentiality in Student Health and Welfare</span></a></li>
+<li><a href='/Absence-through-Sickness-Policy'><span class='sm1i'>Absence through Sickness Policy</span></a></li>
+<li><a href='/Dependent-care-leave'><span class='sm1i'>Dependent care leave, domestic emergency and bereavement leave</span></a></li>
+<li><a href='/Policy-on-the-prevention-of-harassment-a'><span class='sm1i'>Policy on the prevention of harassment and bullying</span></a></li>
+<li><a href='/Prevention-of-Work-Related-Stress-Policy'><span class='sm1i'>Prevention of Work-Related Stress Policy</span></a></li>
+<li><a href='/Capability-Policy'><span class='sm1i'>Capability Policy</span></a></li>
+<li><a href='/Flexible-Working-Policy'><span class='sm1i'>Flexible Working Policy</span></a></li>
+<li><a href='/Parental-Leave-Policy'><span class='sm1i'>Parental Leave Policy</span></a></li>
+<li><a href='/Maternity--Adoption-Policy'><span class='sm1i'>Maternity &amp; Adoption Policy</span></a></li>
+<li><a href='/Paternity-Policy'><span class='sm1i'>Paternity Policy</span></a></li>
+<li><a href='/Expenses-Policy'><span class='sm1i'>Expenses Policy</span></a></li>
+<li><a href='/Policy-Regarding-the-Employment-of-Close'><span class='sm1i'>Policy Regarding the Employment of Close Friends or Relatives</span></a></li>
+<li><a href='/Prevention-of-Bribery-and-Fraud-Policy'><span class='sm1i'>Prevention of Bribery and Fraud Policy</span></a></li>
+<li><a href='/Archives-Policy'><span class='sm1i'>Archives Policy</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Cookies'><span class='sm0i'>Cookies</span></a></li>
+<li><a href='/Search'><span class='sm0i'>Search</span></a></li>
+</ul>    </div>
+    <div class='rightSideMain generic'>
+      <div class='aFellow'>
+
+
+  <h1 class='wtitle'>Panoramic views of Lincoln</h1>
+  
+  <div class='mainArticle' style='clear:none;'>
+    
+    <p>The panoramic tour below allows you to see the Front Quad, the view from the tower, and inside our medieval Hall. Click on the different locations to move around the College. There is a full screen mode (the symbol in the bottom right of the screen) which is really impressive!</p>
+
+<p>Our panoramamic tour was created by photographer Harald Joergens, more of his work including a tour of the Sheldonian Theatre can be seen on <a href="https://www.haraldjoergens.com">his website</a>.</p>
+
+<p>If you are viewing this on a mobile device click <a href="https://www.haraldjoergens.com/panoramas/lincoln-college/files/">here</a>.</p>
+
+<p><iframe allowfullscreen="true" frameborder="1" height="480" marginheight="0" marginwidth="0" mozallowfullscreen="true" name="Lincoln College Oxford Virtual Tour" scrolling="no" src="https://www.haraldjoergens.com/panoramas/lincoln-college/files/" style="float:left; margin-left:0px; margin-bottom:20px; border: 2px solid #BBBBBB" webkitallowfullscreen="true" width="100%">&lt;br /&gt;</iframe></p>
+    
+     
+  </div>
+        </div>
+    </div>
+    
+
+  </div>
+</div>
+
+<div class='footer'>
+	<div class='ifooter'>
+			</div>
+	<div class='tweetBar innerDiv'>
+		<a href='https://twitter.com/LincolnAlumni' target='_blank' /><img class='tweetIcon' src='/images/footerTweet.png' /></a>
+		<!--<p class='footerTweet'>Exciting news! New Lincoln App for iPhones and iPads <a href='https://itunes.apple.com/us/app/lincoln/id660653829?ls=1&mt=8' target='_blank'>https://itunes.apple.com/us/app/lincoln/id660653829?ls=1&mt=8</a> … and Google Play for Android … 3 days ago</p>-->
+        <div class='footerTweet'></div>
+		<div class='tweetNav'>
+			<span id='tweetPrev'><</span>
+			<span id='tweetNext'>></span>
+		</div>
+	</div>
+	<div class='bottomBar innerDiv'>
+		<p><a href='http://tankcms.com' target='_blank' />powered by tank</a> | <a href='http://rareformnewmedia.com/' target='_blank'>web design oxford by rare form</a> | Lincoln College is a Registered Charity no. 1139261</p>
+	</div>
+</div>
+
+<script>
+var numOfTweetsToShow = 20;
+jQuery(function($){
+  $(".footerTweet").tweet({
+  	modpath: '/twitter/',
+    join_text: "auto",
+    username: "LincolnAlumni",
+    count: numOfTweetsToShow,
+    loading_text: "loading tweets...",
+    template: "{text}... {time}"
+  });
+
+  // twitter navigation functionality
+  // disable right click for tweet nav
+  $('.footer .tweetBar .tweetNav').live('contextmenu', function(e){
+	return false;
+  });
+  // disable drag selection for tweetBar
+  $('.footer .tweetBar').attr('unselectable','on').css({
+	'-moz-user-select':'-moz-none',
+	'-moz-user-select':'none',
+	'-o-user-select':'none',
+	'-khtml-user-select':'none', /* you could also put this in a class */
+	'-webkit-user-select':'none',/* and add the CSS class here instead */
+	'-ms-user-select':'none',
+	'user-select':'none'
+  }).bind('selectstart', function(){
+  	return false;
+  });
+
+  var currentTweet = '0';
+  $('.tweet_list li:gt('+currentTweet+')').hide();
+
+  // disable the nav buttons if there is nothing to show
+  var tweetPrevOpacity;
+  var tweetNextOpacity;
+  function checkTweetVal(){
+  	// prev button
+	if (parseFloat(currentTweet)<=0){
+		$('#tweetPrev').css('opacity', '0.4');
+		$('#tweetPrev').css('cursor', 'context-menu');
+
+	} else {
+		$('#tweetPrev').css('opacity', '1.0');
+		$('#tweetPrev').css('cursor', 'pointer');
+	}
+	// next button
+	if (parseFloat(currentTweet)>=parseFloat(numOfTweetsToShow)-1){
+		$('#tweetNext').css('opacity', '0.4');
+		$('#tweetNext').css('cursor', 'context-menu');
+	} else {
+		$('#tweetNext').css('opacity', '1.0');
+		$('#tweetNext:hover').css('cursor', 'pointer');
+	}
+	tweetPrevOpacity = $('#tweetPrev').css('opacity');
+	tweetNextOpacity = $('#tweetNext').css('opacity');
+	//console.log('prev - '+tweetPrevOpacity+',  next - '+tweetNextOpacity);
+  }
+  checkTweetVal();
+ 
+  $('#tweetPrev').click(function(){
+  	checkTweetVal();
+  	if (tweetPrevOpacity === '1'){
+  		if (!$('.tweet_list li:animated').length>0){
+		  	var prevTweet = parseFloat(currentTweet)-1;
+		  	$('.tweet_list li:eq('+currentTweet+')').fadeOut('slow',function(){
+		  		$('.tweet_list li:eq('+prevTweet+')').fadeIn();
+	  		});
+	  		currentTweet = prevTweet;
+	  		//console.log('previous tweet.  currently showing tweet is '+currentTweet);
+	  		checkTweetVal();
+	  	}
+	} else {
+		//console.log('negative value so no going back');
+	}
+  });
+
+  $('#tweetNext').click(function(){
+  	checkTweetVal();
+  	if (tweetNextOpacity === '1'){
+  		if (!$('.tweet_list li:animated').length>0){
+		  	var nextTweet = parseFloat(currentTweet)+1;
+		  	$('.tweet_list li:eq('+currentTweet+')').fadeOut('slow',function(){
+		  		$('.tweet_list li:eq('+nextTweet+')').fadeIn();
+		  	});
+		  	currentTweet = nextTweet;
+		  	//console.log('next tweet.  currently showing tweet is '+currentTweet);
+		  	checkTweetVal();
+		}
+	} else {
+		//console.log('max tweet limit reached, disable click functionality');
+	}
+  });
+});
+
+</script>

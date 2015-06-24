@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xml:lang="en" prefix="og: http://ogp.me/ns#" lang="en-gb"><head>
+  <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+  <link media="all" href="/ss2014/styles/basic.css" rel="stylesheet" type="text/css" />
+  <link media="screen,projection,print" href="/ss2014/styles/layout.css" rel="stylesheet" type="text/css" />
+  <link media="screen,projection,print" href="/ss2014/styles/lookandfeel.css" rel="stylesheet" type="text/css" />
+  <link media="print" href="/styles/print.css" rel="stylesheet" type="text/css" />
+  <link rel="top" href="/ss2014" title="Homepage" />
+  <meta name="author" content="University of Oxford" />
+  <title>University of Oxford</title></head>
+<body>
+<div id="all">
+<div id="header"> <img usemap="#qmacmap" alt="University of Oxford Logo" style="height: 140px; width: 800px; position: relative;" src="/ss2014/images/OX_QMAC_logo_3.png" /><map id="qmacmap" name="qmacmap"><area title="University of Oxford" alt="University of Oxford" href="http://www.ox.ac.uk/" coords="0,0,140,140" shape="rect" /><area title="Home" alt="Home" href="/ss2014" coords="164,0,436,140" shape="rect" /></map>
+</div>
+<div id="tabs">
+<a href="/ss2014" style="width: 80px ! important;">Home</a>
+<a href="/ss2014/people/">People</a>
+<a href="/ss2014/programme">Programme</a>
+<a href="/ss2014/general/" style="width: 120px ! important; padding-left: 30px ! important; padding-right: 30px ! important;">General
+Information</a>
+<a href="/ss2014/Gallery/" style="border-right: 0pt none;">Gallery</a>
+</div>
+<div id="bannerimage"></div>
+<div id="content">
+<div id="breadcrumb"> <span id="breadcrumb-label">You are here: &nbsp;</span>
+<ul>
+  <li> <a href="/ss2014">SS2014</a> </li>
+  <li> <span>Home</span> </li>
+</ul>
+</div>
+<!--start of content-->
+<h2>Overview</h2>
+This
+school will present a range of lectures on quantum
+structures in physics and computer science, with a focus on abstract
+algebraic
+techniques, including category theory. It is an ideal event for PhD
+students,
+as well as more established researchers, who would like to learn more
+about
+these exciting topics close to the research frontier.
+<br />
+
+The
+courses will be accessible to anyone who has taken a
+first course in quantum information. Everyone is welcome to participate.
+Registration
+information can be found below.
+<br />
+&nbsp;
+<br /><span style="font-weight: bold;"></span>This
+event is twinned with a conference in honour of
+Prakash Panangaden on the occasion of his 60th birthday, to be held on
+the
+dates 23--25 May 2014 at the University of Oxford:
+<a href="http://www.cs.ox.ac.uk/pf2014">http://www.cs.ox.ac.uk/pf2014</a><br />
+
+<br /><a href="../PF2014/Spring%20School%20and%20Prakash%20Fest%20Poster.pdf">Please print out the event poster for display in your own institution.</a><br /><span style="font-size: 12pt; font-family: Calibri;"><span style="">
+<h2></h2></span></span>
+The
+school will feature the following courses:<br /><ul><li><span style="font-weight: bold;">Samson Abramsky.</span> <span style="font-style: italic;">Contextual semantics: quantum mechanics and beyond</span></li><li><span style="font-weight: bold;">Jon Barrett.</span> <span style="font-style: italic;">Correlations and contexts: the quantum no-go theorems</span></li><li><span style="font-weight: bold;">Bart Jacobs.</span> <span style="font-style: italic;">Kadison duality</span></li><li><span style="font-weight: bold;">Prakash Panangaden.</span>&nbsp;<span style="font-style: italic;">Stone,
+Gelfand and Pontryagin dualities</span></li><li><span style="font-weight: bold;">Peter Selinger.</span> <span style="font-style: italic;">Number-theoretic methods in quantum information theory</span></li><li><span style="font-weight: bold;">Bob Coecke and Aleks Kissinger.</span>&nbsp;<span style="font-style: italic;">Picturing quantum processes</span></li><li><span style="font-weight: bold;">Chris Heunen and Jamie Vicary.</span> <span style="font-style: italic;">Categorical quantum mechanics</span></li></ul>Abstracts for the courses are given below.<br /><br /><span style="font-weight: bold;">Samson Abramsky.</span> <span style="font-style: italic;">Contextual semantics: quantum mechanics and beyond</span><br /><br />We
+shall show how quantum non-locality and contextuality are naturally
+described and unified in the language of sheaf theory. This leads to
+several concrete developments in quantum information and foundations:<br style="color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);" /><ul><li>a novel classification of multipartite entangled states in terms of<br style="color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);" />their degree of non-locality</li><li>a topological analysis of entanglement monogamy and macroscopic locality</li><li>a cohomological characterisation of contextuality</li><li>a unifying principle for Bell inequalities based on logical<br style="color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);" />consistency conditions</li></ul>We also find that the same structures manifest themselves in a variety of settings in classical computation, including:<br /><ul><li>relational database theory</li><li>constraint satisfaction</li><li>natural language semantics</li></ul><span style="font-weight: bold;">Jon Barrett.</span> <span style="font-style: italic;">Correlations and contexts: the quantum no-go theorems</span><br /><br />Abstract to be announced.<br /><br /><span style="font-weight: bold;">Bart Jacobs.</span> <span style="font-style: italic;">Kadison duality</span><br /><br />There
+is a little known duality in functional analysis that is appropriately
+called Kadison duality. It connects complete order unit spaces and
+convex compact Hausdorff spaces. This connection gives a precise
+formalisation of the duality in terms of C*-algebras. The lectures
+present the essential steps of the proof of Kadison duality---which are
+scattered around in the literature---and also show where the duality is
+relevant. Familiarity is assumed with basic category theory, linear
+algebra, and topology. C*-algebras will be used in the examples.<br /><br /><span style="font-weight: bold;">Prakash Panangaden.</span>&nbsp;<span style="font-style: italic;">Stone,
+Gelfand and Pontryagin dualities</span><br /><br />The
+word “duality” is tossed around in almost all areas of mathematics and
+physics (and even parts of computer science). Roughly speaking it
+allows one to view two, apparently different, mathematical universes as
+“mirror images of each other.” In mathematics the most venerable and
+well-known such duality is the familiar duality between a vector space
+and the space of linear functionals on a vector space. More
+sophisticated versions of this arise in functional analysis. In physics
+one talks about dualities between electric and magnetic fields and more
+sophisticated versions of that duality arise in non-abelian gauge
+theories.<br /><br />In
+this series of three lectures I will discuss the three dualities
+mentioned in the title. Stone duality relates Boolean algebras with
+certain kinds of topological spaces and is fundamental for logic.
+Variations of this duality arise throughout theoretical computer
+science. The second one on the list is more functional-analytic in
+nature and relates compact Hausdorff spaces to commutative unital
+C*-algebras. This is a stepping stone towards the much deeper dualities
+of interest in quantum mechanics. The third duality, Pontryagin
+duality, is what underlies Fourier theory and will involve group theory.<br /><br />A
+little bit of algebra (groups, rings, algebras) and topology
+(compactness, separation axioms) will be useful background. The
+categorical version of the dualities will be given but the category
+theory used will be elementary, say up to the level of knowing what
+“adjoint functor” means.<br /><br /><span style="font-weight: bold;">Peter Selinger.</span> <span style="font-style: italic;">Number-theoretic methods in quantum information theory</span><br /><br />In
+these lectures, I will discuss the new class of number-theoretic
+algorithms in quantum information theory that have come out in the last
+two years or so. These algorithms solve the well-known problem of
+decomposing a given unitary operator into gates of a specified gate
+set, either exactly (known as exact synthesis), or within some given
+accuracy (known as approximate synthesis). For almost 20 years, the
+standard solution to this problem had been the Solovay-Kitaev
+algorithm, which is based on geometric methods of approximation by
+repeated refinement. For example, in the case of approximate synthesis
+of single-qubit operators, the Solovay-Kitaev algorithm achieves gate
+counts of O(log^c(1/epilson)), where c is a constant greater than 3. By
+contrast, the new number-theoretic algorithms achieve gate counts of
+O(log(1/epsilon)), and in some cases these algorithms can even be shown
+to be optimal in an absolute sense. I will introduce the relevant
+concepts from algebraic number theory, review the current state of the
+art in both exact and approximate synthesis for the Clifford+T gate
+base, and comment on open problems in this still very young field.<br /><br /><span style="font-weight: bold;">Bob Coecke and Aleks Kissinger.</span> <span style="font-style: italic;">Picturing quantum processes</span><br /><br />We
+present quantum theory, including quantum computing and quantum
+foundations, within an entirely diagrammatical formalism. &nbsp;In
+particular, we give a detailed presentation of the diagrammatic
+language involved, as well as of how to think of quantum theory as a
+theory of processes. &nbsp;The material follows a forthcoming book with
+the same title as this course, and avoids any reference to category
+theory (but the connection will be explained by other lectures at the
+school).<br /><br /><span style="font-weight: bold;">Chris Heunen and Jamie Vicary.</span> <span style="font-style: italic;">Categorical quantum mechanics</span><br /><br />These
+lectures cover monoidal categories and their use in modelling the flow
+of classical and quantum information in quantum mechanics. The lectures
+will cover monoidal categories and the graphical calculus; Frobenius
+algebras and their relation to operator algebras; quantum and classical
+information channels as completely positive maps between algebras; and
+2-categories and their applications to quantum computation.<br style="color: rgb(34, 34, 34); font-family: arial,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);" /><br /><o:p style="font-family: Calibri; font-size: 12pt;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><o:p style="font-family: Calibri;"><span style="font-size: 12pt; font-family: Calibri;"><span style=""><h2>Registration
+&amp; Costs</h2>
+<span class="" style="font-size: 12pt; font-family: Calibri;">Please
+contact <a href="mailto:destiny.chen@cs.ox.ac.uk"><span style="text-decoration: underline;">Destiny Chen</span></a>&nbsp;if you wish to
+participate. The deadline for funding applications has passed, but registration is still possible.<br />
+<br />
+Conference
+fee is £50 per person
+for speakers and participants. Cash (in sterling pounds) payable
+at the arrival registration on 19th May 2014.<br />
+<br />
+Limited
+funding is available for students and young researchers, on travel,
+accommodation and subsistance, out of&nbsp;EPSRC (Grant Reg:
+EP/I03596X/1).&nbsp;Please
+contact </span><a style="font-family: Calibri;" href="mailto:destiny.chen@cs.ox.ac.uk">Destiny
+Chen</a><span style="font-size: 12pt; font-family: Calibri;"> for
+further details prior to your booking.</span>
+<!--end of content--></span></span></o:p></o:p></o:p></o:p></o:p></o:p></o:p></o:p></o:p></o:p></o:p></o:p></o:p></div>
+<div style="font-family: Helvetica,Arial,sans-serif;"></div>
+</div>
+</body></html>

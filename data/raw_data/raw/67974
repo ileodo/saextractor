@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><title>Trinity College Squash Signup</title>
+<link rel="stylesheet" href="/bookings.css" type="text/css" />
+<meta name="author" content="Matthew Somerville" />
+<meta name="description" content="Letting students sign up for the squash courts of Trinity College, Oxford University" />
+<meta name="keywords" content="Trinity,College,JCR,MCR,Trinity College,Trinity College JCR,Trinity College MCR,Oxford University,Oxford,University,student,students,squash,racket,rackets,courts,squash court" />
+<meta name="copyright" content="&copy; 2003 Matthew Somerville" />
+<meta name="generator" content="Two hands and a keyboard, using Zap, Code-Genie, and PHP" />
+<style>
+div.center {
+	text-align: center;
+}
+div.center table {
+	margin: auto;
+	border-spacing: 1px;
+}
+table#weekview td, table#weekview th {
+	padding: 3px;
+}
+</style>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#0000ff" alink="#ff0000" vlink="#000099">
+<table cellpadding="4" cellspacing="0" border="0" width="100%" id="header">
+<tr><td valign="top" align="center"><img alt="" src="picture.gif" border="0" width="100" height="150" /></td><td valign="top"><h1 align="center">Trinity College Squash Signup</h1>
+<table cellpadding="4" cellspacing="0" border="0" width="100%">
+<tr><td valign="top"><form action="./" method="get">
+<p>To view or change your bookings, please enter your university username:
+<input type="text" name="trincode" size="8" maxlength="8" value="" />
+<input type="hidden" name="view" value="1" />
+<input type="submit" value="View bookings" class="subbutton" /></p>
+</form>
+
+<form action="./" method="get"><p>View bookings for week <select name="week"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option selected="selected">7</option><option>8</option></select><input type="submit" value="View this week" class="subbutton" /></p></form></td>
+<td align="right" valign="top"><table class="quickbook" cellpadding="3" cellspacing="0" border="0" bgcolor="#eeeeee"><tr><td><strong>QuickBook</strong>&trade;</td></tr>	<tr><td><form action="index.php" method="post"><input type="hidden" name="book" value="1" /><p><small><select name="day"><option value="0">Sunday</option><option value="1">Monday</option><option value="2">Tuesday</option><option value="3">Wednesday</option><option value="4" selected="selected">Thursday</option><option value="5">Friday</option><option value="6">Saturday</option></select>&nbsp;Week&nbsp;<select name="week"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option selected="selected">8</option></select><br />@&nbsp;<select name="time"><option>09:00</option><option>10:00</option><option>11:00</option><option>12:00</option><option>13:00</option><option>14:00</option><option>15:00</option><option>16:00</option><option>17:00</option><option>18:00</option><option>19:00</option><option>20:00</option><option>21:00</option></select>University Username: <input type="text" name="trincode" value="" size="8" maxlength="8" /><br /><br />University&nbsp;Card:&nbsp;<input type="password" name="pin" value="" size="10" maxlength="10" />&nbsp;<input type="submit" value="Book" class="subbutton" /></small></p></form></td></tr></table></td></tr>
+</table></td></tr></table><p class="error">You cannot book the squash court in the past</p><div id="footer">
+<p style="float: left"><a href="/punts/">Punt Signup</a> .:. <a href="/jcr/">JCR website</a></p>
+<p style="float: right">Designed by <a href="http://www.dracos.co.uk/">Matthew Somerville</a></p>
+</div>
+</body></html>

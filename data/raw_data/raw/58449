@@ -1,0 +1,56 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<title>The Oxford Cantigas de Santa Maria database | Introduction to the Cantigas de Santa Maria - <i>Introdución ás Cantigas de Santa Maria</i></title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link rel="stylesheet" href="style.css" type="text/css">
+        	</head>
+	<body>
+		<div id="header2"></div>
+
+		<div id="topBar">
+		<!-- Language options disabled for now
+		Language: <a href="index.php?p=intro&lang=en">English</a> | <a href="index.php?p=intro&lang=ga">Galego</a>
+		-->
+		</div>
+		<div id="content">
+			    <table cellpadding="0" cellspacing="0">
+      <tr>
+    	<td background="images/tabs/1.gif" class="tabs"><a href="index.php?p=poem_list">Poems</a></td>
+	   	<td background="images/tabs/2.gif" class="tabs"><a href="index.php?p=mss_list">MSS / layout</a></td>
+     	<td background="images/tabs/3.gif" class="tabs"><a href="index.php?p=collections_list">Miracles</a></td>
+    	<td background="images/tabs/4.gif" class="tabs"><a href="index.php?p=keywords">Keywords</a></td>
+    	<td background="images/tabs/6.gif" class="tabs"><a href="index.php?p=pon_list">Poncelet</a></td>
+    	<td background="images/tabs/7.gif" class="tabs"><a href="index.php?p=bib_list">Bibliography</a></td>
+    	<td background="images/tabs/8.gif" class="tabs"><a href="index.php?p=poem_search">Search</a></td>
+	  </tr>
+    </table>
+	<div id="tabbar"><img src="images/tabs/tab_base0.gif" width="745" height="11"></div>
+	<div id="sideNav">
+<li><a href="?p=home">Home - <a href="#gt"><i>Inicio</i></a></a></li>
+<li><a href="?p=welcome">Welcome to the Cantigas de Santa Maria Database <br/>
+<i>Benvido á Base de datos Cantigas de Santa Maria</i></a></li>
+<li><a href="?p=intro">Introduction to the Cantigas de Santa Maria - <i>Introdución ás Cantigas de Santa Maria</i></a></li>
+<li><a href="?p=database">The Cantigas de Santa Maria Database - <i>A base de datos das Cantigas de Santa Maria</i></a></li>
+<li><a href="?p=edition">The Cantigas de Santa Maria Critical Edition</a></li>
+<li><a href="?p=bib">Bibliography - <i>Bibliografía</i></a></li>
+<li><a href="?p=pubs">Publications</a></li>
+<li><a href="?p=mhmts">The Medieval Hispanic Text and Manuscript Seminar</a></li>
+<li><a href="?p=poncelet">The Electronic Poncelet - <i>O Poncelet Dixital</i></a></li>
+<li><a href="?p=home_news">News/ events</a></li>
+<li><a href="?p=links">Useful Links - <i>Ligazóns</i></a></li>
+<li><a href="?p=home_contact">Contact information</a></li>
+<li><a href="?p=mhtms_mt10">Word profiles</a></li>
+</div>
+<div id="main">
+<div class="line1">Introduction to the Cantigas de Santa Maria - <i>Introdución ás Cantigas de Santa Maria</i></div><p align=right><a href="#gt">Texto galego</a><a name="top"></a><p>The <i>Cantigas de Santa Maria</i> (CSM), composed at the Court of King Alfonso X of Castile in the second half of the 13th century, are a vast repertory of poetry in medieval Galician. The 420 compositions include 353 narratives of miracles of the Blessed Virgin Mary - one of the largest such collections - as well as a large number of devotional and liturgical poems, almost all set to music, and many illustrated by miniatures divided into smaller panels. The <i>CSM</i> are thus more than a body of literature or a miracle collection, they are a cultural project of great importance for medieval literature, music, and art, and for the history of patronage. Alfonso X’s ‘Cantigas Project’ occupied most of his reign (1252-1284) and was seen by him as an important part of both his political survival and his personal salvation. He devoted considerable resources to it, though the organisation of its production, and its relationship to other products of the Alfonsine ‘scriptorium’, has not been established in any detail. <br /><br />Four contemporary manuscripts survive: <strong>To</strong> (the Toledo MS, now in the Biblioteca Nacional de Madrid), <strong>T</strong> (the <em>códice rico</em>, in the Escorial Library), <strong>E</strong> (the <em>códice de los músicos</em>, also in the Escorial) and <strong>F</strong> (the Florence MS, in the Biblioteca Nazionale Centrale, Florence). They represent at least three different compilations or stages in the elaboration of the Cantigas Project: an early collection of 100 poems to which appendices were added (To); followed by a much expanded and highly ornamental collection of 400 (T+F) of which the second volume (F) was left in an incomplete and possibly disordered state; and a reference collection of 400 (E) with many imperfections and signs of hasty completion.</p>
+_________________________________________________
+<p><a name="gt"></a>As <i>Cantigas de Santa Maria</i> (<i>CSM</i>), compostas na corte do rei Alfonso X na segunda metade do século XIII, son un extenso repertorio de pezas líricas en galego medieval. As 420 composicións inclúen 353 narracións de milagres de Santa María –unha das máis amplas coleccións deste tipo–, así como un elevado número de poemas devocionais e litúrxicos. Case todas as pezas se transmiten musicalizadas e moitas se iluminaron con miniaturas divididas en escenas. Por esta razón, as CSM son máis que unha obra literaria ou unha colección de milagres: as CSM defínense como un proxecto cultural de enorme valor literario, musical e artístico da Idade Media, así como para a historia do mecenado. O “Proxecto das Cantigas” de Alfonso X ocupou a maior parte do seu reinado (1252-1284) e sería percibido polo rei como un factor esencial para a súa supervivencia política e a súa salvación persoal. Non obstante, aínda que se sabe que o rei consagrou considerábeis recursos a prol deste proxecto, non se determinou con exactitude como sería a organización da súa produción e a súa relación con outros produtos do scriptorium alfonsí.
+<br /><br />Consérvanse catro manuscritos coetáneos: To (o ms. de Toledo, actualmente na Biblioteca Nacional de España), T (o chamado Códice rico, na Real Biblioteca del Monasterio de El Escorial), E (o Códice dos músicos, tamén no Escorial) e F (o ms. de Florencia, na Biblioteca Nazionale Centrale di Firenze). Estes catro cancioneiros representan, polo menos, tres compilacións ou estadios diferentes na elaboración do proxecto das Cantigas: unha primitiva colección de 100 composicións, á cal se engadiron apéndices (To); seguiu unha colección altamente ornamentada e de maior extensión, constituída por 400 cantigas (T+F), cuxo segundo volume (F) ficou incompleto e posiblemente desordenado; finalmente, consérvase unha colección de referencia das 400 composicións (E), que se caracteriza por conter múltiples imperfeccións e sinais de conclusión apresurada.</p>
+<p align=right><a href="#top">Voltar </a></p></div>
+		</div>
+		<div id="contentfoot0"></div>
+		<div id="footer"></div>
+	</body>
+</html>

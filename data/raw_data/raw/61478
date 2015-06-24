@@ -1,0 +1,1299 @@
+<!DOCTYPE html>
+<head>
+
+<title>Lincoln College - Staff</title>
+<meta http-equiv='content-type' content='text/html; charset=utf-8' />
+<meta name='keywords' content="<br />
+<b>Warning</b>:  file_put_contents(/home/www/lincoln/public_html/admin/cache/__THE_PAGE_TREE__) [<a href=function.file-put-contents>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>/home/www/lincoln/public_html/admin/pagetree.php</b> on line <b>159</b><br />"/>
+<meta name='description' content=""/>
+<script>window.siteRoot = '';window.uploadDir = '/uploads/';window.mediaDir = window.uploadDir + 'media/';</script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script type='text/javascript'>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36665038-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<meta name='viewport' content='width=1090, maximum-scale=1.5' />
+<link rel='shortcut icon' href='/favicon.ico' />
+
+<link rel='stylesheet' type='text/css' href='/css/normalize.css' />
+<link href='http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Cabin+Condensed:400,500,600,700' rel='stylesheet' type='text/css'>
+<link rel='stylesheet' type='text/css' href='/css/style.css' />
+<link rel='stylesheet' href='/twitter/jquery.rareform.tweet.css' />
+
+
+<link rel='stylesheet' href='/js/royalslider/royalslider.css'>
+<link rel='stylesheet' href='/js/royalslider/skins/default/rs-default.css'>
+<link rel='stylesheet' href='/js/royalslider/fullWidthNoOverflow.css'>
+<script src='/js/royalslider/jquery-1.8.3.min.js'></script>
+<script src='/js/royalslider/jquery.royalslider.min.js'></script>
+<script type='text/javascript' charset='utf-8' src='/twitter/jquery.tweet.js'></script>
+
+
+<!--[if lte IE 9]>
+	<link rel="stylesheet" type="text/css" href="css/ie9.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="css/ie8.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" href="css/ie7.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script>window.html5 || document.write('<script src="js/html5.js"><\/script>')</script>
+<![endif]-->
+
+</head>
+
+<body>
+
+<div id='topBar'>
+	<div class='innerDiv'>
+		<ul>
+			<li><a href='/Latest-News?tag=Event'>Events</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li><a href='/Latest-News'>News</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li><a href='/contact'>Contact</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li class='navTwitter'><a href='https://twitter.com/LincolnAlumni' target='_blank'><img src='/images/twitterTopBar.png' alt='follow us on twitter' /></a></li>
+			<li class='navFacebook'><a href='https://www.facebook.com/lincolnoxalumni' target='_blank'><img src='/images/facebookTopBar.png' alt='like us on facebook' /></a></li>
+		</ul>
+	</div>
+</div>
+
+<div id='menuBlock'>
+	<div class='innerDiv'>
+		<a href='/./'>
+			<img id='logo' alt='Lincoln Arms' src='/images/logo.png' width='204' height='42' />
+		</a>
+		<div id='nav'>
+			<ul class='sm0'>
+<li><a href='/Home'><span class='sm0i'>Home</span></a></li>
+<li><a href='/Rectors-Welcome'><span class='sm0i'>About Lincoln</span></a></li>
+<li><a href='/Why-Choose-Lincoln'><span class='sm0i'>Admissions</span></a></li>
+<li><a href='/Current-Students-landing-page'><span class='sm0i'>Current Students</span></a></li>
+<li class='menuthis'><a href='/LP-Fellows'><span class='sm0i'>Fellows &amp; Staff</span></a></li>
+<li><a href='/Alumni'><span class='sm0i'>Alumni</span></a></li>
+<li><a href='/Conferencing-at-Lincoln'><span class='sm0i'>Conferences at Lincoln</span></a></li>
+</ul>		</div>
+	</div>
+</div>
+
+
+<div class='underSlider news'></div>
+
+<div class='columnContainer'>
+  <div class='innerDiv'>
+    <div class='leftSideNav'>
+      
+          <h3 class='fellowsSideNav'>
+            Fellows & Staff
+          </h3><ul class='sm0'>
+<li><a href='/LP-Fellows'><span class='sm0i'>Fellows</span></a></li>
+<li class='menuthis leaf'><a href='/Staff'><span class='sm0i'>Staff</span></a></li>
+<li><a href='/SCR-Meal-Booking'><span class='sm0i'>SCR Meal Booking</span></a></li>
+<li><a href='/Fellows-Guest-Rooms'><span class='sm0i'>Fellows' Guest Rooms</span></a></li>
+<li><a href='/Room-Booking-Form'><span class='sm0i'>Teaching and Meeting Rooms</span></a></li>
+<li><a href='/Employee-Handbook'><span class='sm0i'>Policies</span></a></li>
+<li><a href='/Chaplain-and-Student-Welfare-Coordinator'><span class='sm0i'>Vacancies</span></a></li>
+</ul>    </div>
+    <div class='rightSideMain'>
+      <div class='allFellows'>
+
+<div class='fellowSection 0'><div class='positionTitle'><h4>Chaplain</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/RevJackDunn'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/RevJackDunn'>The Rev. Dr Jack Dunn</a>
+        </div>
+        <div class='position'>
+          College Chaplain and Welfare Officer
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.0 table tbody').children().length === 0){
+    $('.fellowSection.0').hide();
+  }
+  </script>
+  </div><div class='fellowSection 1'><div class='positionTitle'><h4>PA to Rector</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsSallyLacey'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/lacey__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrsSallyLacey'>Mrs Sally Lacey</a>
+        </div>
+        <div class='position'>
+          Rector's PA
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.1 table tbody').children().length === 0){
+    $('.fellowSection.1').hide();
+  }
+  </script>
+  </div><div class='fellowSection 2'><div class='positionTitle'><h4>College Office</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/DrLouiseDurning'><img class='fellowImage' src='/uploads/media/lincoln_fellows/.thumbnails/louise durning__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/DrLouiseDurning'>Dr Louise Durning</a>
+        </div>
+        <div class='position'>
+          Senior Tutor
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsJemmaUnderdown'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/jemma__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrsJemmaUnderdown'>Mrs Jemma Underdown</a>
+        </div>
+        <div class='position'>
+          Academic Administrator
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsCarmellaElan-Gaston'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/carmella1__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrsCarmellaElan-Gaston'>Mrs Carmella Elan-Gaston</a>
+        </div>
+        <div class='position'>
+          Graduate Officer and Academic Assistant
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrRichardLittle'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/MrRichardLittle'>Mr Richard Little</a>
+        </div>
+        <div class='position'>
+          Admissions Officer
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/ianmaconnachie'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/ianmaconnachie'>Mr Ian Maconnachie</a>
+        </div>
+        <div class='position'>
+          Schools Liaison Officer
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.2 table tbody').children().length === 0){
+    $('.fellowSection.2').hide();
+  }
+  </script>
+  </div><div class='fellowSection 3'><div class='positionTitle'><h4>Bursary</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrTimKnowles'><img class='fellowImage' src='/uploads/media/lincoln_fellows/.thumbnails/tim knowles__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrTimKnowles'>Mr Tim Knowles</a>
+        </div>
+        <div class='position'>
+          Bursar
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MsLisaCrowder'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/MsLisaCrowder'>Ms Lisa Crowder</a>
+        </div>
+        <div class='position'>
+          Bursar's Secretary
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsRachelKing'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/rachel__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrsRachelKing'>Mrs Rachel King</a>
+        </div>
+        <div class='position'>
+          Bursar's Secretary
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.3 table tbody').children().length === 0){
+    $('.fellowSection.3').hide();
+  }
+  </script>
+  </div><div class='fellowSection 4'><div class='positionTitle'><h4>Accounts</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsCeliaHarker'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/MrsCeliaHarker'>Mrs Celia Harker</a>
+        </div>
+        <div class='position'>
+          College Accountant
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsSusanWilliams'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/MrsSusanWilliams'>Mrs Susan Williams</a>
+        </div>
+        <div class='position'>
+          Accounts Office Manager
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr></table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.4 table tbody').children().length === 0){
+    $('.fellowSection.4').hide();
+  }
+  </script>
+  </div><div class='fellowSection 5'><div class='positionTitle'><h4>Domestic Bursary</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/James Mirabal'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/James Mirabal'>James Mirabal</a>
+        </div>
+        <div class='position'>
+          Domestic Bursar
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsLauraBurton'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/LB__41x40.JPG' /></a>
+        <div class='title'>
+          <a href='Staff/MrsLauraBurton'>Mrs Laura Burton</a>
+        </div>
+        <div class='position'>
+          Domestic Bursar's Assistant
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/LucyTarrant'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/lucyt(1)__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/LucyTarrant'>Ms Lucy Tarrant</a>
+        </div>
+        <div class='position'>
+          Accommodation Manager
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/LucyHetherington'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/LH__41x40.JPG' /></a>
+        <div class='title'>
+          <a href='Staff/LucyHetherington'>Ms Lucy Hetherington</a>
+        </div>
+        <div class='position'>
+          Conference and Events Officer
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/RebeccaUpright'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/RU__41x40.JPG' /></a>
+        <div class='title'>
+          <a href='Staff/RebeccaUpright'>Mrs Rebecca Upright</a>
+        </div>
+        <div class='position'>
+          Domestic Bursary assistant
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.5 table tbody').children().length === 0){
+    $('.fellowSection.5').hide();
+  }
+  </script>
+  </div><div class='fellowSection 6'><div class='positionTitle'><h4>Library</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsFionaPiddock'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/FionaPiddock__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrsFionaPiddock'>Mrs Fiona Piddock</a>
+        </div>
+        <div class='position'>
+          Librarian
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/SarahCusk'><img class='fellowImage' src='/uploads/media/.thumbnails/Commonwealth article senior library 024__41x40.JPG' /></a>
+        <div class='title'>
+          <a href='Staff/SarahCusk'>Dr Sarah Cusk</a>
+        </div>
+        <div class='position'>
+          Antiquarian Cataloguer
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MissLucyMatheson'><img class='fellowImage' src='/uploads/media/.thumbnails/matheson__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MissLucyMatheson'>Miss Lucy Matheson</a>
+        </div>
+        <div class='position'>
+          Assistant Librarian
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.6 table tbody').children().length === 0){
+    $('.fellowSection.6').hide();
+  }
+  </script>
+  </div><div class='fellowSection 7'><div class='positionTitle'><h4>IT Office</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrMikeWhite'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/mw__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrMikeWhite'>Mr Mike White</a>
+        </div>
+        <div class='position'>
+          IT Manager
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrPeterGood'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/MrPeterGood'>Mr Peter Good</a>
+        </div>
+        <div class='position'>
+          IT Assistant
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr></table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.7 table tbody').children().length === 0){
+    $('.fellowSection.7').hide();
+  }
+  </script>
+  </div><div class='fellowSection 8'><div class='positionTitle'><h4>Development Office</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsSusanHarrison'><img class='fellowImage' src='/uploads/media/.thumbnails/Development Director 1__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrsSusanHarrison'>Ms Susan Harrison</a>
+        </div>
+        <div class='position'>
+          Development Director
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MissBevCousins'><img class='fellowImage' src='/uploads/media/Staff Photos/.thumbnails/bev__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MissBevCousins'>Miss Bev Cousins</a>
+        </div>
+        <div class='position'>
+          Alumni and Communications Officer
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MsHannahThomas'><img class='fellowImage' src='/uploads/media/.thumbnails/susan__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MsHannahThomas'>Ms Susan Davison</a>
+        </div>
+        <div class='position'>
+          Development and Events Administrator
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MsRachelGibbs'><img class='fellowImage' src='/uploads/media/.thumbnails/Website photo__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MsRachelGibbs'>Ms Rachel Gibbs</a>
+        </div>
+        <div class='position'>
+          Development Officer
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/JMitchell'><img class='fellowImage' src='/uploads/media/.thumbnails/DSCN1441__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/JMitchell'>Miss Jane Mitchell</a>
+        </div>
+        <div class='position'>
+          Campaign Officer
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.8 table tbody').children().length === 0){
+    $('.fellowSection.8').hide();
+  }
+  </script>
+  </div><div class='fellowSection 9'><div class='positionTitle'><h4>HR</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MsNinaThompson'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/MsNinaThompson'>Ms Nina Thompson</a>
+        </div>
+        <div class='position'>
+          HR Manager
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.9 table tbody').children().length === 0){
+    $('.fellowSection.9').hide();
+  }
+  </script>
+  </div><div class='fellowSection 10'><div class='positionTitle'><h4>Archives</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/LindsayMcCormack'><img class='fellowImage' src='/uploads/media/.thumbnails/New Archivist__41x40.JPG' /></a>
+        <div class='title'>
+          <a href='Staff/LindsayMcCormack'>Ms Lindsay McCormack</a>
+        </div>
+        <div class='position'>
+          Archivist
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.10 table tbody').children().length === 0){
+    $('.fellowSection.10').hide();
+  }
+  </script>
+  </div><div class='fellowSection 11'><div class='positionTitle'><h4>College Doctor and Nurse</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsSandraWollner'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/MrsSandraWollner'>Ms Midge Curran</a>
+        </div>
+        <div class='position'>
+          College Nurse
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/NaomiDrury'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/NaomiDrury'>Dr Naomi Drury</a>
+        </div>
+        <div class='position'>
+          College Doctor
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr></table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.11 table tbody').children().length === 0){
+    $('.fellowSection.11').hide();
+  }
+  </script>
+  </div><div class='fellowSection 12'><div class='positionTitle'><h4>Buttery Kitchen and Deep Hall</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrJimMurden'><img class='fellowImage' src='/uploads/media/.thumbnails/Current Chef Richard Malloy and retired Butler Kevin Egleston with the Rector__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrJimMurden'>Mr Richard Malloy</a>
+        </div>
+        <div class='position'>
+          Chef
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/KatieAli'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/KatieAli'>Ms Katie Ali</a>
+        </div>
+        <div class='position'>
+          Hall Supervisor
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrTonyDaly'><img class='fellowImage' src='/uploads/media/.thumbnails/003__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrTonyDaly'>Mr Tony Daly</a>
+        </div>
+        <div class='position'>
+          Head Butler
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrSimonFaulkner'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/MrSimonFaulkner'>Mr Simon Faulkner</a>
+        </div>
+        <div class='position'>
+          Deep Hall Manager
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/PatrickJeremy'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/PatrickJeremy'>Mr Patrick Jeremy</a>
+        </div>
+        <div class='position'>
+          Senior Sous-Chef
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrMichalPaech'><img class='fellowImage' src='/uploads/media/.thumbnails/blank__41x40.png' /></a>
+        <div class='title'>
+          <a href='Staff/MrMichalPaech'>Mr Michal Paech</a>
+        </div>
+        <div class='position'>
+          Assistant Butler
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr></table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.12 table tbody').children().length === 0){
+    $('.fellowSection.12').hide();
+  }
+  </script>
+  </div><div class='fellowSection 13'><div class='positionTitle'><h4>Maintenance</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrRichardNoonan'><img class='fellowImage' src='/uploads/media/.thumbnails/Richard 004__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrRichardNoonan'>Mr Richard Noonan</a>
+        </div>
+        <div class='position'>
+          Clerk of Works
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/AnthonyDeeley'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/AnthonyDeeley'>Anthony Deeley</a>
+        </div>
+        <div class='position'>
+          Electrician
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/TrevorAllen'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/TrevorAllen'>Trevor Allen</a>
+        </div>
+        <div class='position'>
+          Electrician
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MichaelGoulding'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/MichaelGoulding'>Michael Goulding</a>
+        </div>
+        <div class='position'>
+          Maintenance Assistant
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/PaulGreen'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/PaulGreen'>Paul Green</a>
+        </div>
+        <div class='position'>
+          Carpenter &amp; Joiner
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/StuartMoir'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/StuartMoir'>Stuart Moir</a>
+        </div>
+        <div class='position'>
+          Maintenance Charge Hand
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/RobertWilliams'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/RobertWilliams'>Robert Williams</a>
+        </div>
+        <div class='position'>
+          Plumber &amp; Gas Engineer
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.13 table tbody').children().length === 0){
+    $('.fellowSection.13').hide();
+  }
+  </script>
+  </div><div class='fellowSection 14'><div class='positionTitle'><h4>Housekeeping</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrsLynnArcher'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/MrsLynnArcher'>Lynn Archer</a>
+        </div>
+        <div class='position'>
+          Housekeeper
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/LynnDeeley'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/LynnDeeley'>Lynn Deeley</a>
+        </div>
+        <div class='position'>
+          Head Scout
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/DariuszKabala'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/DariuszKabala'>Dariusz Kabala</a>
+        </div>
+        <div class='position'>
+          Head Scout
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/SueNicholls'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/SueNicholls'>Sue Nicholls</a>
+        </div>
+        <div class='position'>
+          Head Scout
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr></table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.14 table tbody').children().length === 0){
+    $('.fellowSection.14').hide();
+  }
+  </script>
+  </div><div class='fellowSection 15'><div class='positionTitle'><h4>Lodge</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/SteveRedding'><img class='fellowImage' src='/uploads/media/.thumbnails/staff photos 002__41x40.JPG' /></a>
+        <div class='title'>
+          <a href='Staff/SteveRedding'>Steve Redding</a>
+        </div>
+        <div class='position'>
+          Lodge Manager
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/BenAkeh-Osu'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/BenAkeh-Osu'>Ben Akeh-Osu</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/PhillipAndrews'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/PhillipAndrews'>Phillip Andrews</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/PeterBannister'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/PeterBannister'>Peter Bannister</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/SusanBurden'><img class='fellowImage' src='/uploads/media/the_lodge/.thumbnails/P1010003__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/SusanBurden'>Susan Burden</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/BenCrouch'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/BenCrouch'>Ben Crouch</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/PeterKoyio'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/PeterKoyio'>Peter Koyio</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/AbidMahmood'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/AbidMahmood'>Abid Mahmood</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/JamesMenzies'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/JamesMenzies'>James Menzies</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/RichardNeave'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/RichardNeave'>Richard Neave</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/RohanRamdeen'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/RohanRamdeen'>Rohan Ramdeen</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/PrzemekRosinski'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/PrzemekRosinski'>Przemek Rosinski</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </tr><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/KevinWhite'><img class='fellowImage' src='/uploads/media/blank.png' /></a>
+        <div class='title'>
+          <a href='Staff/KevinWhite'>Kevin White</a>
+        </div>
+        <div class='position'>
+          Porter
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.15 table tbody').children().length === 0){
+    $('.fellowSection.15').hide();
+  }
+  </script>
+  </div><div class='fellowSection 16'><div class='positionTitle'><h4>Gardens</h4></div><table><tr>
+      <td valign=top>
+      
+      <div class='fellow'>
+        <a href='Staff/MrDigbyStyles'><img class='fellowImage' src='/uploads/media/.thumbnails/Digby Styles Head Gardener__41x40.jpg' /></a>
+        <div class='title'>
+          <a href='Staff/MrDigbyStyles'>Digby Styles</a>
+        </div>
+        <div class='position'>
+          Head Gardener
+        </div>
+        <div style='clear:both'></div>
+      </div>
+      
+      </td>
+      </table>
+
+  <script>
+  // The the job role doesn't have any staff doing the job, hide the job role
+  if ($('.fellowSection.16 table tbody').children().length === 0){
+    $('.fellowSection.16').hide();
+  }
+  </script>
+  </div>
+
+
+      </div>
+    </div>
+    
+
+  </div>
+</div>
+
+<div class='footer'>
+	<div class='ifooter'>
+			</div>
+	<div class='tweetBar innerDiv'>
+		<a href='https://twitter.com/LincolnAlumni' target='_blank' /><img class='tweetIcon' src='/images/footerTweet.png' /></a>
+		<!--<p class='footerTweet'>Exciting news! New Lincoln App for iPhones and iPads <a href='https://itunes.apple.com/us/app/lincoln/id660653829?ls=1&mt=8' target='_blank'>https://itunes.apple.com/us/app/lincoln/id660653829?ls=1&mt=8</a> … and Google Play for Android … 3 days ago</p>-->
+        <div class='footerTweet'></div>
+		<div class='tweetNav'>
+			<span id='tweetPrev'><</span>
+			<span id='tweetNext'>></span>
+		</div>
+	</div>
+	<div class='bottomBar innerDiv'>
+		<p><a href='http://tankcms.com' target='_blank' />powered by tank</a> | <a href='http://rareformnewmedia.com/' target='_blank'>web design oxford by rare form</a> | Lincoln College is a Registered Charity no. 1139261</p>
+	</div>
+</div>
+
+<script>
+var numOfTweetsToShow = 20;
+jQuery(function($){
+  $(".footerTweet").tweet({
+  	modpath: '/twitter/',
+    join_text: "auto",
+    username: "LincolnAlumni",
+    count: numOfTweetsToShow,
+    loading_text: "loading tweets...",
+    template: "{text}... {time}"
+  });
+
+  // twitter navigation functionality
+  // disable right click for tweet nav
+  $('.footer .tweetBar .tweetNav').live('contextmenu', function(e){
+	return false;
+  });
+  // disable drag selection for tweetBar
+  $('.footer .tweetBar').attr('unselectable','on').css({
+	'-moz-user-select':'-moz-none',
+	'-moz-user-select':'none',
+	'-o-user-select':'none',
+	'-khtml-user-select':'none', /* you could also put this in a class */
+	'-webkit-user-select':'none',/* and add the CSS class here instead */
+	'-ms-user-select':'none',
+	'user-select':'none'
+  }).bind('selectstart', function(){
+  	return false;
+  });
+
+  var currentTweet = '0';
+  $('.tweet_list li:gt('+currentTweet+')').hide();
+
+  // disable the nav buttons if there is nothing to show
+  var tweetPrevOpacity;
+  var tweetNextOpacity;
+  function checkTweetVal(){
+  	// prev button
+	if (parseFloat(currentTweet)<=0){
+		$('#tweetPrev').css('opacity', '0.4');
+		$('#tweetPrev').css('cursor', 'context-menu');
+
+	} else {
+		$('#tweetPrev').css('opacity', '1.0');
+		$('#tweetPrev').css('cursor', 'pointer');
+	}
+	// next button
+	if (parseFloat(currentTweet)>=parseFloat(numOfTweetsToShow)-1){
+		$('#tweetNext').css('opacity', '0.4');
+		$('#tweetNext').css('cursor', 'context-menu');
+	} else {
+		$('#tweetNext').css('opacity', '1.0');
+		$('#tweetNext:hover').css('cursor', 'pointer');
+	}
+	tweetPrevOpacity = $('#tweetPrev').css('opacity');
+	tweetNextOpacity = $('#tweetNext').css('opacity');
+	//console.log('prev - '+tweetPrevOpacity+',  next - '+tweetNextOpacity);
+  }
+  checkTweetVal();
+ 
+  $('#tweetPrev').click(function(){
+  	checkTweetVal();
+  	if (tweetPrevOpacity === '1'){
+  		if (!$('.tweet_list li:animated').length>0){
+		  	var prevTweet = parseFloat(currentTweet)-1;
+		  	$('.tweet_list li:eq('+currentTweet+')').fadeOut('slow',function(){
+		  		$('.tweet_list li:eq('+prevTweet+')').fadeIn();
+	  		});
+	  		currentTweet = prevTweet;
+	  		//console.log('previous tweet.  currently showing tweet is '+currentTweet);
+	  		checkTweetVal();
+	  	}
+	} else {
+		//console.log('negative value so no going back');
+	}
+  });
+
+  $('#tweetNext').click(function(){
+  	checkTweetVal();
+  	if (tweetNextOpacity === '1'){
+  		if (!$('.tweet_list li:animated').length>0){
+		  	var nextTweet = parseFloat(currentTweet)+1;
+		  	$('.tweet_list li:eq('+currentTweet+')').fadeOut('slow',function(){
+		  		$('.tweet_list li:eq('+nextTweet+')').fadeIn();
+		  	});
+		  	currentTweet = nextTweet;
+		  	//console.log('next tweet.  currently showing tweet is '+currentTweet);
+		  	checkTweetVal();
+		}
+	} else {
+		//console.log('max tweet limit reached, disable click functionality');
+	}
+  });
+});
+
+</script>

@@ -1,0 +1,296 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en-gb" prefix="og: http://ogp.me/ns#">
+<head>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+<link media="all" href="/styles/basic.css" rel="stylesheet" type="text/css"/>
+<link media="all" href="/styles/csbasic.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/layout.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/mainnav.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/lookandfeel.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/cslayout.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/csmainnav.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/cslookandfeel.css" rel="stylesheet" type="text/css"/>
+<link media="print" href="/styles/csprint.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="/javascript/rss.js?version=4"></script>
+<script type="text/javascript" src="/javascript/csmenu.js"></script>
+
+<link rel="icon" href="/favicon.ico" type="images/x-icon" /> 
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="top" href="/" title="Homepage"/>
+<meta name="author" content="University of Oxford" />
+
+<title>Cyber Security Centre: Automotive Security: the Bad and the Ugly</title>
+<meta name="keywords" content="Cyber Security Centre Seminar Series"></meta>
+<meta name="description" content="Seminars of the Cyber Security Centre at Oxford"></meta>
+<meta property="og:title"
+      content="Cyber Security Centre: Automotive Security: the Bad and the Ugly"></meta>
+<meta property="og:description"
+      content="Seminars of the Cyber Security Centre at Oxford"></meta>
+<meta property="og:type" content="website"></meta>
+<meta property="og:image"
+      content="http://www.cs.ox.ac.uk/images/CSC_globeL_uni_rgb_corrected_scaled.jpg"></meta>
+<meta property="og:url" content="http://www.cs.ox.ac.uk/seminars/1387.html"></meta>
+<meta property="og:site_name" content="Cyber Security Centre"></meta>
+<meta property="og:locale" content="en_GB"></meta>
+<script type="text/javascript" src="/javascript/rss.js"></script>
+<script type="text/javascript">
+// <![CDATA[
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25164877-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script>
+</head>
+<body style="background-image: none;">
+<!-- all div starts -->
+<div id="all" style="border: 15px solid white; width: 960px; margin-left: auto; margin-right: auto">
+
+<div style="border-bottom: 10px solid white;position: relative; width: 960px" id="csbanner"><!-- 156 -->
+<img src="/images/CSC_globeL_uni_rgb_corrected_scaled.jpg" style="height: 140px;position: relative; left: -1px; top: -1px" alt="University of Oxford Logo" usemap="#compscimap"/>
+<map name="compscimap" id="compscimap"><area shape="rect" coords="0,0,140,140" href="http://www.ox.ac.uk/" alt="University of Oxford" title="University of Oxford"/><area shape="rect" coords="164,0,527,140" href="http://www.cybersecurity.ox.ac.uk/" alt="Cyber Security Centre - Home" title="Cyber Security Centre - Home"/></map>
+<!-- searchbox div starts -->
+<div style="position: absolute; right: 0px; top: 15px;" id="topnav">
+
+<div style="position: absolute; right: 0px; height: 1.5em">
+<form action="/search/" id="searchbox_015502513156171547487:pcshjhkjzqe" >
+<!--
+<div class="searchspan">
+<input type="text" class="searchinput" maxlength="128" autocomplete="off" name="q" value="Search" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}"/><input type="submit" name="sa" value=""  class="searchbutton"/> 
+</div>
+-->
+<input type="hidden" name="cx" value="015502513156171547487:pcshjhkjzqe" />
+<input type="hidden" name="cof" value="FORID:11" />
+
+</form>
+</div>
+
+<!--
+<div class="headLinks" style="position: absolute; top: 2.8em; right: 1px; width: 360px; padding: 4px; text-align: right; font-size: 90%;">
+<a href="/contact.html">Contact us</a>
+</div>
+-->
+
+</div>
+
+</div>
+
+<div id="pageurl" style="display: none">
+www.cs.ox.ac.uk/seminars/1387.html
+</div>
+
+<!-- header div ends -->
+
+<!-- breadcrumb div starts -->
+
+
+
+<div id="content">
+   <h1>Automotive Security: the Bad and the Ugly</h1>
+   <p>
+      <a href="https://www.cs.bham.ac.uk/~garciaf/index.html">Flavio Garcia</a>  
+      (University of Birmingham)
+      
+   </p>
+   <h2>
+      Info
+      
+   </h2>
+   <table>
+      <tr>
+         <td class="personInfo">
+            <p>
+               <b>Date</b>
+            </p>
+         </td>
+         <td>
+            <p>19th June 2015 (week 8, Trinity Term 2015)</p>
+         </td>
+      </tr>
+      <tr>
+         <td class="personInfo">
+            <p>
+               <b>Time</b>
+            </p>
+         </td>
+         <td>
+            <p>14:00</p>
+         </td>
+      </tr>
+      <tr>
+         <td class="personInfo">
+            <p>
+               <b>Place</b>
+            </p>
+         </td>
+         <td>
+            <p>Tony Hoare Room, Robert Hooke Building</p>
+         </td>
+      </tr>
+   </table>
+   <h2>Abstract</h2><p>The automotive industry has undergone a mayor transformation process where everything from the car key to the vehicle diagnostics
+   became digital. Modern vehicles have several wireless interfaces and are interconnected with various devices and also to the
+   Internet. This connectivity adds great functionality and user friendliness but it also introduces several security and privacy
+   threats. This talk identifies some of the vulnerabilities and main challenges in the complex automotive ecosystem and discusses
+   possible ways forward.</p>
+   <!---->
+   <h2>
+      Further info
+      
+   </h2>
+   <table>
+      <tr>
+         <td class="personInfo">
+            <p>
+               <b>Related series</b>
+            </p>
+         </td>
+         <td>
+            <p class="listedLinks">
+               <div>
+                  <a href="/seminars/cybersecurity">Cyber Security Seminars</a>   
+                  
+                  <a style="cursor: pointer; text-decoration: none"
+                     onclick="icalLink('http://www.cs.ox.ac.uk/feeds/SeminarSeries-cybersecurity.ics','Cyber Security Seminars')"
+                     href="javascript:void(0)">
+                     <img src="/images/ical.gif"></img> 
+                     <span style="text-decoration: underline">Subscribe to this seminar series calendar.</span>
+                  </a>
+               </div>
+            </p>
+         </td>
+      </tr>
+   </table>
+   
+  
+
+
+
+
+	
+	
+	
+
+
+<div class="socialshare" style="border-style: dashed">
+<div><h3 style="font-weight: bold; font-size: 9pt">SHARE THIS:</h3></div>
+
+<span>
+<a id="facebook" href="http://facebook.com/sharer.php?u=https%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1387.html&amp;t=Department+of+Computer+Science&amp;"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/facebook.png"/></a>
+</span>
+
+
+
+<span>
+<a id="twitter" href="http://twitter.com?status=Department+of+Computer+Science @CompSciOxford https%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1387.html&amp;"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/twitter.png"/></a>
+</span>
+
+
+
+<span>
+<a id="googleplus" href="https://plus.google.com/share?url=https%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1387.html&amp;hl=en-GB"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/google.png"/></a>
+</span>
+
+<span>
+<a id="pinterest" href="https://pinterest.com/pin/create/link/?url=https%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1387.html&amp;description=Department+of+Computer+Science&amp;"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/pinterest.png"/></a>
+</span>
+
+<span>
+<a href="http://digg.com/submit?url=https%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1387.html&amp;"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/digg.png"/></a>
+</span>
+
+<span>
+<a href="http://www.stumbleupon.com/submit?url=https%3A%2F%2Fwww.cs.ox.ac.uk/seminars/1387.html&amp;"><img width="24" height="24" title="" alt="" src="/images/icons/24/socicon/stumbleupon.png"/></a>
+</span>
+
+</div>
+<script type="text/javascript">
+// <![CDATA[
+
+
+var pageTitle=document.title;
+
+if(pageTitle)
+{
+	if(encodeURIComponent){pageTitle=encodeURIComponent(pageTitle);}
+	else
+	if(encodeURLComponent){pageTitle=encodeURLComponent(pageTitle);}
+	else
+	if(escape){pageTitle=escape(pageTitle);}
+	
+	
+	var anchorIds=["facebook","twitter","pinterest"];
+	for(var i=0;i<anchorIds.length;i++)
+	{
+		var anchor=HtmlUpdater.$(anchorIds[i]);
+		if(!anchor){continue;}
+		if(!anchor.href){continue;}
+		
+		var href=anchor.href;
+		
+		var eq=href.lastIndexOf("=");
+		var at=href.indexOf('@');
+		
+		if(at==-1)
+		{
+			anchor.href=href.substring(0,eq+1)+pageTitle+"&";
+		}
+		else
+		{
+			anchor.href=href.substring(0,eq+1)+document.title+" "+href.substring(at);
+		}
+	}
+
+}
+
+// ]]>
+</script>
+</div>
+<div id="sidebar">
+
+<!--  mainnav div starts -->
+<div id="nav">     
+ <h2 id="mainsections">Main sections</h2>
+ <!--
+ <ul class="mainnav" >
+  <li>
+   <a href="http://www.cybersecurity.ox.ac.uk/" title="" class="menu" >Cyber Security Centre</a>
+  </li>
+  <li>
+   <a href="/directors.html" title="Executive group">Executive group</a>
+  </li>
+  <li>
+   <a href="/allpeople.html" title="All people">People</a>
+  </li>
+  <li>
+   <a href="/partners.html" title="Partners" class="menu">Partners</a>
+  </li>
+  
+  <li>
+   <a href="/projects.html" title="Research projects" class="menu">Research projects</a>
+  </li>
+  <li>
+   <a href="/education.html" title="Education" class="menu">Education</a>
+  </li>
+  <li>
+   <a href="/seminars/cybersecurity" title="Seminar series" class="menu">Seminars</a>
+  </li>
+   <li>
+   <a href="./contact.html" title="Contact us" class="menu">Contact us</a>
+  </li>  
+ </ul>
+ -->
+
+
+
+</div>
+<!-- all div ends -->
+</body>
+</html>

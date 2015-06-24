@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Proteomics &amp; Metabolomics - Oxford Stone Group</title>
+			<link rel="stylesheet" media="screen" href="/osg/_static/website/stylesheets/general.css" type="text/css" />
+	<link rel="stylesheet" media="print" href="/osg/_static/website/stylesheets/print.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/osg/_static/website/stylesheets/jquery.lightbox-0.5.css" type="text/css" /><link rel="stylesheet" media="screen" href="/osg/_static/website/stylesheets/jquery-ui-1.10.4.custom.min.css" type="text/css" />	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+	<script src="/osg/_static/website/javascripts/jquery.lightbox-0.5.min.js" type="text/javascript"></script><script src="/osg/_static/website/javascripts/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>		<link rel="shortcut icon" href="/osg/_static/website/images/icons/favicon.ico" type="image/x-icon" />
+</head>
+<body class="ndm">
+	<div id="header-wrapper">
+		<div id="header">
+			<a href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-ou-osg" src="/osg/_static/website/images/ox-square-border.gif" alt="Oxford University logo" /></a>
+			<div class = "logo-pair">
+			<a href="http://www.ndm.ox.ac.uk/" title="Link to NDM homepage" target="_blank"><img class="logo-ndm-osg" src="/osg/_static/website/images/ndm-rectangle-border.gif" alt="NDM logo" /></a>
+			<br />
+			<a href="http://www.nds.ox.ac.uk/" title="Link to NDS homepage" target="_blank"><img class="logo-nds-osg" src="/osg/_static/website/images/logo-nds.gif" alt="NDS logo" /></a>
+			</div>
+			<h1 class="osg"><a href="/osg/" title="Link to Oxford Stone Group homepage"><img src="/osg/_static/website/images/heading1-osg.gif" alt="Oxford Stone Group" /></a></h1>
+			<ul id="primary-menu">
+							<li><span><a  href="/osg/clinical-team-2" title="Clinical Team">Clinical Team</a></span></li>
+							<li class="current"><span><a  href="/osg/research" title="Research">Research</a></span></li>
+							<li><span><a  href="/osg/for-medical-professionals" title="For Medical Professionals">For Medical Professionals</a></span></li>
+							<li><span><a  href="/osg/patient-information" title="Patient information">Patient information</a></span></li>
+							<li><span><a  href="/osg/donations" title="Donations">Donations</a></span></li>
+						</ul>
+			<!--
+			<form class="search wtchg-search" action="/osg/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onFocus="if(this.value == 'Search...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/osg/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form>
+			-->
+			<form style="float:right;" class="search" id="cse-search-box" action="/_search">		
+				<input type="hidden" name="cx" value="013190107294343682755:mugnd-a2dh8" />
+				<input type="hidden" name="ie" value="UTF-8" />
+				<input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+				<input type="hidden" name="nojs" value="1" />
+			</form>
+		</div>
+	</div>
+	<div id="content-wrapper">
+									<ul id="secondary-menu" class="group">
+							<li><a  class="secondary-menu-link" href="/osg/lithotripsy" title="Lithotripsy">Lithotripsy</a></li>
+							<li><a  class="secondary-menu-link" href="/osg/genetics-2" title="Genetics">Genetics</a></li>
+							<li class="current"><a  class="secondary-menu-link" href="/osg/proteomics-metabolomics" title="Proteomics &amp; Metabolomics">Proteomics &amp; Metabolomics</a></li>
+							<li><a  class="secondary-menu-link" href="/osg/epidemiology" title="Epidemiology">Epidemiology</a></li>
+							<li><a  class="secondary-menu-link" href="/osg/veterinary-research" title="Veterinary Research">Veterinary Research</a></li>
+							<li><a  class="secondary-menu-link" href="/osg/biobank" title="Biobank">Biobank</a></li>
+							<li><a  class="secondary-menu-link" href="/osg/clinical-research" title="Clinical Research">Clinical Research</a></li>
+							</ul>	
+				<script type="text/javascript">
+$( document ).ready(function() {
+	$("a.research_group_link").each(function(index) {
+		if ($("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").length > 0) {
+			$("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").append(this);
+		}
+		else {
+			$(this).hide();
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+$(function() {
+	$('a.lightbox').lightBox({
+		overlayOpacity: 0.6,
+		imageLoading: '/osg/_static/website/images/lightbox/lightbox-ico-loading.gif',
+		imageBtnClose: '/osg/_static/website/images/lightbox/lightbox-btn-close.gif',
+		imageBtnPrev: '/osg/_static/website/images/lightbox/lightbox-btn-prev.gif',
+		imageBtnNext: '/osg/_static/website/images/lightbox/lightbox-btn-next.gif',
+		imageBlank: '/osg/_static/website/images/lightbox/lightbox-blank.gif'
+	});
+});
+</script>
+<div id="content">
+	<h1>Proteomics and Metabolomics</h1>
+<p>This work is a collaboration with the <a href="http://www.tdi.ox.ac.uk/mass-spectrometry">proteomics research group</a> of<a href="/principal-investigators/researcher/benedikt-kessler"> Dr Benedikt Kessler</a> in the <a href="http://www.tdi.ox.ac.uk/home">Target Discovery Institute</a> in Oxford. This work investigates the proteins and metabolites in urine that may be involved in stone formation.</p>
+<p>&nbsp;</p>
+<div class="image_container left" style="width: 300px;"><img src="/osg/_asset/image/rebeccaphoto2-2.jpeg/fit/300/300/FF0000" alt="Rebeccaphoto2" /></div>
+<h1 style="font-size: 29px;">Dr Rebecca Konietzny</h1>
+<p><a href="mailto: rebecca.konietzny@ndm.ox.ac.uk">email Rebecca</a></p>
+<p class="MsoNormal">Rebecca is a post-doctoral scientist in Benedikt Kessler&rsquo;s Proteomics lab and has expertise in clinical proteomics and metabolomics. Originally she has a background in hypoxia and virology. A collaboration with <a title="Professor Chris Pugh" href="/osg/professor-chris-pugh">Chris Pugh</a> and David Hughes started in March 2010 and she successfully identified BK viral proteins in urine of renal transplant recipients by mass spectrometry. The reactivation of this virus is often connected to <span lang="EN-US">BK-virus associated nephropathy (BKVAN).</span>&nbsp;Rebecca has been working with the Oxford Stone Group. We have established an in vivo SILAC cell culture model to identify secreted proteins after exposure to calcium oxalate crystals. Furthermore we are interested in the identification of Metobolites in urine of Stone Formers. Rebecca is operating a high accuracy time of flight mass spectrometer (Agilent QTOF 6520) and has expertise in confocal microscopy. Recently Rebecca has been working with RapidFire technology to develop a high-throughput metabolomic platform for clinical samples. &nbsp;</p>
+<p class="MsoNormal">Rebecca has been supported by the <a href="http://www.oxfordbrc.org/">Oxford Biomedical Research Centre</a>&nbsp;and is now funded by NIHR RCF.</p></div>
+<div id="side-bar">
+	<div class="side-box">
+		<h3>Proteomics &amp; Metabolomics</h3>
+		<ul>
+						<li><a  href="/osg/renal-tubular-cells-containing-calcium-oxalate-crystals" title="Renal tubular cells containing calcium oxalate crystals">Renal tubular cells containing calcium oxalate crystals</a>			</li>
+					</ul>
+	</div>
+</div>
+		<div id="footer">
+			<p>
+				© 2015 Offices of the Nuffield Professor of Medicine, Nuffield Department of Clinical Medicine, University of Oxford<br />
+				Henry Wellcome Building for Molecular Physiology, Old Road Campus, Headington, Oxford OX3 7BN
+			</p>
+						<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/osg/_static/website/images/newt-favicon.gif" alt="newt pinfox" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/osg/_static/website/images/pinfox-favicon.gif" alt="pinfox favicon" /> Pinfox</a></p>
+			<p>
+				<a href="/osg/">Home</a>
+				| <a href="/osg/_sitemap">Site Map</a>
+				| <a href="/osg/contact">Contact</a>
+								| <a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a>
+				| <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> 
+				| <a href="http://www.ox.ac.uk/copyright.html" target="_blank">Copyright</a>
+				| <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a>
+				| <a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a>
+				| <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a>
+				 | <a href="/osg/_admin/view/71">Edit</a>			</p>
+		</div>
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35229963-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script></body>
+</html>

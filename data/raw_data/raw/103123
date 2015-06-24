@@ -1,0 +1,46 @@
+<html><head><title>An implementation of an electronic spreadsheet system - MSc Thesis Repository</title><script type="text/javascript" src="/msctheses/javascript/auto.js"><!-- padder --></script><style type="text/css" media="screen">@import url(/msctheses/style/auto.css);</style><style type="text/css" media="print">@import url(/msctheses/style/print.css);</style><link rel="icon" href="/msctheses/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/msctheses/favicon.ico" type="image/x-icon"><link rel="Top" href="/msctheses/"><link rel="Search" href="/msctheses/cgi/search"><meta content="Wing, Kai Leung" name="eprints.creators_name"><meta content="thesis" name="eprints.type"><meta content="2009-09-14 11:36:45" name="eprints.lastmod"><meta content="show" name="eprints.metadata_visibility"><meta content="An implementation of an electronic spreadsheet system" name="eprints.title"><meta content="unpub" name="eprints.ispublished"><meta content="compsci" name="eprints.subjects"><meta content="none" name="eprints.full_text_status"><meta content="1987" name="eprints.date"><meta content="published" name="eprints.date_type"><meta content="Oxford University Computing Laboratory" name="eprints.institution"><meta content="Computing Laboratory" name="eprints.department"><meta content="masters" name="eprints.thesis_type"><meta content="Wing, Kai Leung (1987) An implementation of an electronic spreadsheet system. Masters thesis, Oxford University Computing Laboratory." name="eprints.citation"><link rel="schema.DC" href="http://purl.org/DC/elements/1.0/"><meta content="An implementation of an electronic spreadsheet system" name="DC.title"><meta content="Wing, Kai Leung" name="DC.creator"><meta content="Computer Science" name="DC.subject"><meta content="1987" name="DC.date"><meta content="Thesis" name="DC.type"><meta content="NonPeerReviewed" name="DC.type"><meta content="Wing, Kai Leung (1987) An implementation of an electronic spreadsheet system. Masters thesis, Oxford University Computing Laboratory." name="DC.identifier"><meta content="http://www.cs.ox.ac.uk:8088/228/" name="DC.relation"><link rel="alternate" href="/msctheses/cgi/export/228/HTML/msctheses-eprint-228.html" title="HTML Citation" type="text/html; charset=utf-8"><link rel="alternate" href="/msctheses/cgi/export/228/Text/msctheses-eprint-228.txt" title="ASCII Citation" type="text/plain; charset=utf-8"><link rel="alternate" href="/msctheses/cgi/export/228/ContextObject/msctheses-eprint-228.xml" title="OpenURL ContextObject" type="text/xml"><link rel="alternate" href="/msctheses/cgi/export/228/EndNote/msctheses-eprint-228.enw" title="EndNote" type="text/plain"><link rel="alternate" href="/msctheses/cgi/export/228/BibTeX/msctheses-eprint-228.bib" title="BibTeX" type="text/plain"><link rel="alternate" href="/msctheses/cgi/export/228/MODS/msctheses-eprint-228.xml" title="MODS" type="text/xml"><link rel="alternate" href="/msctheses/cgi/export/228/COinS/msctheses-eprint-228.txt" title="OpenURL ContextObject in Span" type="text/plain"><link rel="alternate" href="/msctheses/cgi/export/228/DIDL/msctheses-eprint-228.xml" title="DIDL" type="text/xml"><link rel="alternate" href="/msctheses/cgi/export/228/XML/msctheses-eprint-228.xml" title="EP3 XML" type="text/xml"><link rel="alternate" href="/msctheses/cgi/export/228/JSON/msctheses-eprint-228.js" title="JSON" type="text/javascript; charset=utf-8"><link rel="alternate" href="/msctheses/cgi/export/228/DC/msctheses-eprint-228.txt" title="Dublin Core" type="text/plain"><link rel="alternate" href="/msctheses/cgi/export/228/RIS/msctheses-eprint-228.ris" title="Reference Manager" type="text/plain"><link rel="alternate" href="/msctheses/cgi/export/228/EAP/msctheses-eprint-228.xml" title="Eprints Application Profile" type="text/xml"><link rel="alternate" href="/msctheses/cgi/export/228/Simple/msctheses-eprint-228.txt" title="Simple Metadata" type="text/plain"><link rel="alternate" href="/msctheses/cgi/export/228/Refer/msctheses-eprint-228.refer" title="Refer" type="text/plain"><link rel="alternate" href="/msctheses/cgi/export/228/METS/msctheses-eprint-228.xml" title="METS" type="text/xml"><style type="text/css" media="screen">@import url(/style/nojs.css);</style><script type="text/javascript" src="/msctheses/javascript/jscss.js"><!-- padder --></script></head><body bgcolor="#ffffff" text="#000000">
+    
+    <div class="ep_tm_header ep_noprint">
+      <div class="ep_tm_logo"><a href="/msctheses/"><img alt="Logo" src="/msctheses/images/sitelogo.gif"></a></div>
+      <div><a class="ep_tm_archivetitle" href="/msctheses/">MSc Thesis Repository</a></div>
+
+  <ul class="ep_tm_menu"><li><a href="/msctheses">Home</a></li><li><a href="/msctheses/information.html">About</a></li><li><a href="/msctheses/view/year/">Browse by Year</a></li><li><a href="/msctheses/view/subjects/">Browse by Subject</a></li><li><a href="/msctheses/view/divisions/">Browse by Division</a></li><li><a href="/msctheses/view/creators/">Browse by Author</a></li></ul>
+
+  <table class="ep_tm_searchbar" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td align="left"><a href="/msctheses/cgi/users/home">Login</a>  |  <a href="/msctheses/cgi/register">Create Account</a></td>
+      <td align="right" style="white-space: nowrap">
+        <form method="get" accept-charset="utf-8" action="/msctheses/cgi/search" style="display:inline">
+          <input class="ep_tm_searchbarbox" size="20" type="text" name="q">
+          <input class="ep_tm_searchbarbutton" value="Search" type="submit" name="_action_search">
+          <input type="hidden" name="_action_search" value="Search">
+          <input type="hidden" name="_order" value="bytitle">
+          <input type="hidden" name="basic_srchtype" value="ALL">
+          <input type="hidden" name="_satisfyall" value="ALL">
+        </form>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center">
+  
+  <table width="720" class="ep_tm_main"><tr><td align="left">
+    <h1 class="ep_tm_pagetitle">An implementation of an electronic spreadsheet system</h1>
+    <div class="ep_summary_content"><div class="ep_summary_content_left"></div><div class="ep_summary_content_right"></div><div class="ep_summary_content_top"></div><div class="ep_summary_content_main"><p style="margin-bottom: 1em" class="ep_block"><span class="person_name">Wing, Kai Leung</span> (1987) <em>An implementation of an electronic spreadsheet system.</em> Masters thesis, Oxford University Computing Laboratory.</p><p style="margin-bottom: 1em" class="ep_block">Full text not available from this repository.</p><br><table style="margin-bottom: 1em" cellpadding="3" class="ep_block" border="0"><tr><th valign="top" class="ep_row">Item Type:</th><td valign="top" class="ep_row">Thesis (Masters)</td></tr><tr><th valign="top" class="ep_row">Subjects:</th><td valign="top" class="ep_row"><a href="/msctheses/view/subjects/compsci.html">Computer Science</a></td></tr><tr><th valign="top" class="ep_row">Divisions:</th><td valign="top" class="ep_row"><a href="/msctheses/view/divisions/comlab.html">Computing Laboratory</a></td></tr><tr><th valign="top" class="ep_row">ID Code:</th><td valign="top" class="ep_row">228</td></tr><tr><th valign="top" class="ep_row">Deposited By:</th><td valign="top" class="ep_row"><span class="ep_name_citation"><span class="person_name">Repository Administrator</span></span></td></tr><tr><th valign="top" class="ep_row">Last Modified:</th><td valign="top" class="ep_row">14 Sep 2009 12:36</td></tr></table><p align="right">Repository Staff Only: <a href="/msctheses/cgi/users/home?screen=EPrint::View&amp;eprintid=228">item control page</a></p></div><div class="ep_summary_content_bottom"></div><div class="ep_summary_content_after"></div></div>
+  </td></tr></table>
+</div>
+
+
+<div class="ep_tm_footer ep_noprint">
+  <hr noshade="noshade" class="ep_ruler">
+  <hr class="ep_tm_last">
+  <div style="float: right; margin-left: 1em"><a href="http://eprints.org/software/"><img alt="EPrints Logo" src="/msctheses/images/eprintslogo.gif" border="0"></a></div>
+  <div style="font-size: 80%;">
+    <div>MSc Thesis Repository is powered by <em><a href="http://eprints.org/software/">EPrints 3</a></em> which is developed by the <a href="http://www.ecs.soton.ac.uk/">School of Electronics and Computer Science</a> at the University of Southampton. <a href="/msctheses/eprints/">More information and software credits</a>.</div>
+  </div>
+</div>
+
+
+  </body></html>

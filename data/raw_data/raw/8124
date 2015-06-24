@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Welcome to the Pitt Rivers Museum History, 1884 - 1945</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css" media="all">@import "relationalb.css";</style>
+<map name="logofloat">
+<area shape="rect" coords="378,4,441,67" href="collector_seligman.html" title="Charles Seligman" alt="Charles Seligman" >
+<area shape="rect" coords="302,8,372,75" href="collector_blackwood.html" title="Beatrice Blackwood" alt="Beatrice Blackwood" >
+<area shape="poly" coords="197,15,200,35,236,35,236,15,197,15" href="timeline_prm_1820.html" title="PRM Museum" alt="PRM Museum" >
+<area shape="poly" coords="223,71,243,40,246,11,275,11,280,43,293,69,223,71" href="collector_hutton.html" title="John Hutton" alt="John Hutton" >
+<area shape="poly" coords="150,71,154,11,194,11,198,41,208,53,216,71,150,71" href="collector_balfour.html" title="Henry Balfour" alt="Henry Balfour" >
+<area shape="rect" coords="76,0,142,72" href="collector_tylor.html" title="Edward Tylor" alt="Edward Tylor" >
+<area shape="rect" coords="0,0,68,75" href="collector_pittrivers.html" title="Augustus Fox" alt="Augustus Fox" >
+</map>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<div id="tabz">
+<ul>
+  <li id="current"><a href="index.php">Home</a></li>
+  <li><a href="about.php">Introduction</a></li>
+  <li><a href="named-collectors.php">Named Collectors</a></li>
+  <li><a href="timeline.php">Timelines</a></li>
+  <li><a href="collector.php">Explore Collector Relationships</a></li>
+  <li><a href="table-of-contents.php">Statistics</a></li>
+  <li><a href="papers.php">Papers</a></li>
+</ul>
+</div>
+<div id="header">
+  <div id="logo">
+   <a href="index.php"><img src="graphics/floating-logo.gif" width="444" height="75" alt="The Relational Museum" border="0" usemap="#logofloat" /></a>
+  </div>
+ <div id="headSearch">
+    <form id ="search" name="search" method="get" action="search.php">
+    <img src="graphics/site_search.gif" width="60" height="25" alt="Search" border="0" /><input name="q" type="text" id="searchbox" /><input name="go" type="image" src="graphics/go.gif" alt="go" width="30" height="25" border="0" />
+    </form>
+  </div>
+</div>
+<div id="content">
+<!--end header --><h2>Pitt Rivers Museum </h2><h2>The website of the 'The Relational Museum' project 2002 - 2006 </h2><p>This website aims to give information about the history of the Pitt Rivers Museum [PRM] from before its foundation in 1884 to the present day (mainly concentrating on the period up to 1945), its collections and staff. The site also gives access to the detailed statistics produced during the research project which show where the collections came from, what types of artefacts are included and information about the individuals who contributed to the Museum.</p><p>The contents of these pages were written by the full-time members of the Project Team - Alison Petch, Frances Larson, Chris Gosden and Mike O'Hanlon.</p><h3>Introductions to the:</h3><div class="homeRow">  <div class="homeInfo">  <a href="about.php"><img src="graphics/icons/about.gif" border="0" width="46" height="43" alt="Introduction to the project" /></a>  <a href="about.php">Project and methodology</a>.  </div>  <div class="homeInfo">  <a href="about_stats.html"><img src="graphics/icons/stats.gif" border="0" width="46" height="43" alt="Introduction to the statistics prepared by the research team" /></a>  <a href="about_stats.html">Statistics prepared by the research team</a>.  </div>  <div class="homeInfo">  <a href="about_linked.html"><img src="graphics/icons/linked.gif" border="0" width="46" height="43" alt="Introduction to the Individuals linked to the PRM collections" /></a>  <a href="about_linked.html">Individuals linked to the PRM collections</a>.  </div>  <div class="homeInfo">  <a href="named-collectors.php"><img src="graphics/icons/named.gif" border="0" width="46" height="43" alt="Introduction to the Named collectors" /></a>  <a href="named-collectors.php">Named collectors</a>, examined in detail during the project.  </div></div><div class="homeRow">  <div class="homeInfo">  <a href="about_prm.html"><img src="graphics/icons/genhistory.gif" border="0" width="46" height="43" alt="Introduction to the General history of the Museum" /></a>  <a href="about_prm.html">General history of the Museum</a>.  </div>  <div class="homeInfo">  <a href="about_monograph.html"><img src="graphics/icons/infinity.gif" border="0" width="46" height="43" alt="About the monograph to be published at the end of the project" /></a>  The <a href="about_monograph.html">monograph</a> to be published at the end of the project.  </div>  <div class="homeInfo">  <a href="about_progress.html"><img src="graphics/icons/progress.gif" border="0" width="46" height="43" alt="Progress reports from the team" /></a>  <a href="about_progress.html">Progress reports</a> compiled by the research team.  </div></div><h3>Useful links:</h3><div class="homeRow">  <div class="homeInfo">  <a href="http://pittweb2.prm.ox.ac.uk:591/"><img src="graphics/icons/database.gif" border="0" width="46" height="43" alt="Pitt Rivers Museum catalogue databases" /></a> <a href="http://pittweb2.prm.ox.ac.uk:591/">Pitt Rivers Museum catalogue databases</a>.  </div>  <div class="homeInfo">  <a href="http://www.prm.ox.ac.uk/"><img src="graphics/icons/prmfloat.gif" border="0" width="46" height="43" alt="Pitt Rivers Museum today" /></a>  see the <a href="http://www.prm.ox.ac.uk/">Pitt Rivers Museum</a> today  </div></div><p>For further information about the project or its findings please email <a href="mailto:prm@prm.ox.ac.uk">prm@prm.ox.ac.uk</a></p><div id="spacer"></div>
+</div>
+<div id="ERSC">
+<div id="ERSCIm"><img src="graphics/ESRC.gif" alt="ERSC logo" width="88" height="76" border="0" /></div>
+<p>The financial support of this project by the ESRC is gratefully acknowledged.</p>
+</div>
+<div id="Footer"><p> Pitt Rivers Museum, South Parks Road Oxford.<br>
+&copy; Copyright 2006, University of Oxford<br>
+<a href="mailto:prm@prm.ox.ac.uk">Website Feedback</a></p></div>
+
+</body>
+</html>

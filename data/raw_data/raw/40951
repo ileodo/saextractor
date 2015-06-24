@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 7]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en" dir="ltr"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  extensions: ['tex2jax.js'],
+  jax: ['input/TeX','output/HTML-CSS'],
+  tex2jax: {
+    inlineMath: [ ['$','$'], ['\\(','\\)'] ],
+    processEscapes: true,
+    processClass: 'tex2jax',
+    ignoreClass: 'html'
+  },
+  showProcessingMessages: false,
+  messageStyle: 'none'
+});
+</script><link rel="shortcut icon" href="http://www.maths.ox.ac.uk/sites/all/themes/maths/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>Past OxPDE Special Seminar | Mathematical Institute</title>
+<style>
+@import url("http://www.maths.ox.ac.uk/modules/system/system.base.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/modules/system/system.menus.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/modules/system/system.messages.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/modules/system/system.theme.css?nq3jgc");
+</style>
+<style>
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/ldap/ldap_user/ldap_user.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/calendar/css/calendar_multiday.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/collapsiblock/collapsiblock.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/modules/comment/comment.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/date/date_api/date.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/date/date_repeat_field/date_repeat_field.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/enb/enb.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/modules/field/theme/field.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/fitvids/fitvids.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/maths/maths_fixups/maths_fixups.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/modules/node/node.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/modules/search/search.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/modules/user/user.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/views/css/views.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/maths/maths_ldap/maths_ldap.css?nq3jgc");
+</style>
+<style>
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/ldap/ldap_servers/ldap_servers.admin.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/lightbox2/css/lightbox.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/panels/css/panels.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/text_resize/text_resize.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/modules/ctools/css/collapsible-div.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/libraries/superfish/css/superfish.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/libraries/superfish/css/superfish-smallscreen.css?nq3jgc");
+</style>
+<style media="screen">
+@import url("http://www.maths.ox.ac.uk/sites/all/themes/adaptivetheme/at_core/css/at.settings.style.headings.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/themes/adaptivetheme/at_core/css/at.settings.style.image.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/themes/adaptivetheme/at_core/css/at.layout.css?nq3jgc");
+</style>
+<style>
+@import url("http://www.maths.ox.ac.uk/sites/all/themes/pixture_reloaded/color/colors.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/themes/pixture_reloaded/css/pixture_reloaded.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/themes/pixture_reloaded/css/pixture_reloaded.settings.style.css?nq3jgc");
+@import url("http://www.maths.ox.ac.uk/sites/all/themes/maths/maths.css?nq3jgc");
+</style>
+<link type="text/css" rel="stylesheet" href="http://www.maths.ox.ac.uk/sites/default/files/public/adaptivetheme/maths_files/maths.responsive.layout.css?nq3jgc" media="only screen" />
+<style media="screen">
+@import url("http://www.maths.ox.ac.uk/sites/default/files/public/adaptivetheme/maths_files/maths.fonts.css?nq3jgc");
+</style>
+<style media="print">
+@import url("http://www.maths.ox.ac.uk/sites/all/themes/maths/print.css?nq3jgc");
+</style>
+
+<!--[if lt IE 9]>
+<style media="screen">
+@import url("http://www.maths.ox.ac.uk/sites/default/files/public/adaptivetheme/maths_files/maths.lt-ie9.layout.css?nq3jgc");
+</style>
+<![endif]-->
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.js?v=1.8.2"></script>
+<script src="http://www.maths.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.maths.ox.ac.uk/misc/drupal.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/libraries/fitvids/jquery.fitvids.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/jquery_update/replace/misc/jquery.form.js?v=2.69"></script>
+<script src="http://www.maths.ox.ac.uk/misc/ajax.js?v=7.35"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/collapsiblock/collapsiblock.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/fitvids/fitvids.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/math_media_fix/math_media_fix.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/iframe/iframe.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/lightbox2/js/lightbox.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/mathjax/mathjax.js?nq3jgc"></script>
+<script src="/sites/all/libraries/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/ctools/js/dependent.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/ctools/js/auto-submit.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/views/js/base.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/ctools/js/collapsible-div.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/misc/progress.js?v=7.35"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/views/js/ajax_view.js?nq3jgc"></script>
+<script>var text_resize_scope = "main-content";
+          var text_resize_minimum = "8";
+          var text_resize_maximum = "25";
+          var text_resize_line_height_allow = 0;
+          var text_resize_line_height_min = "16";
+          var text_resize_line_height_max = "36";</script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/text_resize/text_resize.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/google_analytics/googleanalytics.js?nq3jgc"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-2505335-1", {"cookieDomain":".maths.ox.ac.uk"});ga("send", "pageview");</script>
+<script src="http://www.maths.ox.ac.uk/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/libraries/superfish/sfsmallscreen.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/libraries/superfish/supposition.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/libraries/superfish/superfish.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/libraries/easing/jquery.easing.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/libraries/superfish/supersubs.js?nq3jgc"></script>
+<script src="http://www.maths.ox.ac.uk/sites/all/modules/superfish/superfish.js?nq3jgc"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"maths","theme_token":"l-VGsfagyEGkrCFFToSJXf8XK1hTRfPrrl-RXbiyEbw","jquery_version":"1.8","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/collapsiblock\/collapsiblock.js":1,"sites\/all\/modules\/fitvids\/fitvids.js":1,"sites\/all\/modules\/math_media_fix\/math_media_fix.js":1,"sites\/all\/modules\/iframe\/iframe.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/mathjax\/mathjax.js":1,"\/sites\/all\/libraries\/mathjax\/MathJax.js?config=TeX-AMS-MML_HTMLorMML":1,"sites\/all\/modules\/ctools\/js\/dependent.js":1,"sites\/all\/modules\/ctools\/js\/auto-submit.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/modules\/ctools\/js\/collapsible-div.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"0":1,"sites\/all\/modules\/text_resize\/text_resize.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/easing\/jquery.easing.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/superfish\/superfish.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/ldap\/ldap_user\/ldap_user.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/collapsiblock\/collapsiblock.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"sites\/all\/modules\/enb\/enb.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/fitvids\/fitvids.css":1,"sites\/all\/modules\/maths\/maths_fixups\/maths_fixups.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/maths\/maths_ldap\/maths_ldap.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/text_resize\/text_resize.css":1,"sites\/all\/modules\/ctools\/css\/collapsible-div.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.headings.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.settings.style.image.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/pixture_reloaded\/color\/colors.css":1,"sites\/all\/themes\/pixture_reloaded\/css\/pixture_reloaded.css":1,"sites\/all\/themes\/pixture_reloaded\/css\/pixture_reloaded.settings.style.css":1,"sites\/all\/themes\/maths\/maths.css":1,"public:\/\/adaptivetheme\/maths_files\/maths.responsive.layout.css":1,"public:\/\/adaptivetheme\/maths_files\/maths.fonts.css":1,"sites\/all\/themes\/maths\/print.css":1,"public:\/\/adaptivetheme\/maths_files\/maths.lt-ie9.layout.css":1}},"collapsiblock":{"blocks":{"block-user-login":"4","block-block-1":"1","block-logic-block-page-navigation":"1","block-menu-block-3":"1","block-fieldblock-b03b00a3561eae0a63c17bdda556f735":"1","block-fieldblock-d5b7f9c307b8b050d861b67ff3c9ef55":"1","block-menu-block-2":"1","block-menu-menu-groups":"1","block-menu-block-4":"1"},"default_state":1,"slide_type":1,"slide_speed":200,"block_title":".block-title","block":".block","block_content":".block-content"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)private:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"CTools":{"dependent":{"edit-field-seminar-date-value-value":{"values":{"edit-field-seminar-date-value-op":["\u003C","\u003C=","=","!=","\u003E=","\u003E","regular_expression","contains"]},"num":1,"type":"hide"},"edit-field-seminar-date-value-min":{"values":{"edit-field-seminar-date-value-op":["between","not between"]},"num":1,"type":"hide"},"edit-field-seminar-date-value-max":{"values":{"edit-field-seminar-date-value-op":["between","not between"]},"num":1,"type":"hide"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:d3c13f6ec12fcaeba455620a4191f1d8":{"view_name":"events","view_display_id":"page_2","view_args":"680\/1990--now","view_path":"events\/past\/680\/1990--now","view_base_path":"events\/past","view_dom_id":"d3c13f6ec12fcaeba455620a4191f1d8","pager_element":0}}},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":"1"},"superfish":{"1":{"id":"1","sf":{"animation":{"opacity":"show","height":["show","easeInSine"]},"speed":"fast"},"plugins":{"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"\u003Cimg src=\u0022\/sites\/all\/themes\/maths\/images\/icon-mobile-menu.png\u0022 alt=\u0022\u0022\u003E Main Menu"},"supposition":true,"supersubs":true}}},"adaptivetheme":{"maths":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-stack","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:481px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:480px)","smalltouch_portrait":"only screen and (max-width:320px)"}}}});</script>
+<!--[if lt IE 9]>
+<script src="http://www.maths.ox.ac.uk/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?nq3jgc"></script>
+<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-events page-events-past page-events-past- page-events-past-680 page-events-past-1990--now site-name-hidden atr-1.x site-name-mathematical-institute section-events page-views maths bs-n bb-n mb-dd mbp-l rc-0">
+  <div id="skip-link" class="nocontent">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="texture-overlay">
+  <div id="page" class="container page ssc-n ssw-n ssa-l sss-n btc-n btw-b bta-l bts-n ntc-n ntw-b nta-l nts-n ctc-n ctw-b cta-l cts-n ptc-n ptw-b pta-l pts-n">
+
+    <header id="header" class="clearfix" role="banner">
+      <div class="header-inner clearfix">
+
+                  <!-- start: Branding -->
+          <div id="branding" class="branding-elements clearfix">
+
+                          <div id="logo">
+                <a href="http://www.ox.ac.uk" title="University of Oxford" class="active"><img class="site-logo oxlogo image-style-none" typeof="foaf:Image" src="/sites/all/themes/maths/images/banner-oxlogo.png" alt="Maths" /><img class="site-logo oxlogo-mobile image-style-none" typeof="foaf:Image" src="/sites/all/themes/maths/images/banner-oxlogo-mobile.png" alt="Maths" /></a><a href="/" title="Mathematical Institute" class="active"><img class="site-logo mathlogo image-style-none" typeof="foaf:Image" src="/sites/all/themes/maths/images/banner-mathlogo.png" alt="Maths" /></a><a href="/" title="Mathematical Institute" class="active"><img class="site-logo mathlogo-print image-style-none" typeof="foaf:Image" src="/sites/all/themes/maths/images/banner-mathlogo-print.png" alt="Maths" /></a>              </div>
+            
+                          <!-- start: Site name and Slogan hgroup -->
+              <div id="name-and-slogan" class="element-invisible h-group" id="name-and-slogan">
+
+                                  <h1 id="site-name" class="element-invisible" id="site-name"><a href="/" title="Home page">Mathematical Institute</a></h1>
+                
+                
+              </div><!-- /end #name-and-slogan -->
+            
+          </div><!-- /end #branding -->
+        
+        <div class="region region-header"><div class="region-inner clearfix"><section id="block-user-login" class="block block-user odd first block-count-1 block-region-header block-login"  role="form"><div class="block-inner clearfix">  
+      <h2 class="block-title">Login</h2>
+  
+  <div class="block-content content"><form action="https://www.maths.ox.ac.uk/events/past/680/1990--now?destination=events/past/680/1990--now%3Ffield_seminar_date_value%5Bmax%5D%3D%26field_seminar_date_value%5Bmin%5D%3D%26field_seminar_date_value%5Bvalue%5D%3D%26field_seminar_date_value_op%3D%253C" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Username" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Password" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"></div><input type="hidden" name="form_build_id" value="form-koq6-DJZ9DXfvpGDH__Hfyq8Wz1mZpB9KAgj-DDAu5E" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div id="webauth-link"><a href="/webauth/login">Webauth Login (Undergraduates only)</a></div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form></div>
+  </div></section><div id="block-block-3" class="block block-block no-title even last block-count-2 block-region-header block-3" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="tex2jax"><strong><a href="/user" rel="nofollow">Login</a></strong></div></div>
+  </div></div></div></div>        
+      </div>
+
+    </header> <!-- /header -->
+
+    <div id="menu-bar" class="nav clearfix"><nav id="block-superfish-1" class="block block-superfish menu-wrapper menu-bar-wrapper clearfix odd first block-count-3 block-region-menu-bar block-1" >  
+      <h2 class="element-invisible block-title">Main menu</h2>
+  
+  <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-9 sf-parent-items-6 sf-single-items-3"><li id="menu-420-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-9 sf-parent-children-3 sf-single-children-6 menuparent"><a href="/about-us" class="sf-depth-1 menuparent">About Us</a><ul><li id="menu-1853-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about-us/contact-us" class="sf-depth-2">Contact Us</a></li><li id="menu-1140-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/about-us/travel-maps" class="sf-depth-2">Travel &amp; Maps</a></li><li id="menu-476-1" class="middle odd sf-item-3 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/about-us/our-building" class="sf-depth-2 menuparent">Our Building</a><ul><li id="menu-3069-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/about-us/our-building/patrick-farrell-wins-2015-wilkinson-prize" class="menu-node-unpublished menu-node-unpublished sf-depth-3">Patrick Farrell wins 2015 WIlkinson Prize</a></li><li id="menu-2999-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/about-us/our-building/summer-marcus-marcus-du-sautoy-hay-glastonbury-and-wilderness-festivals" class="sf-depth-3">Summer with Marcus -  Marcus du Sautoy at the Hay, Glastonbury and Wilderness festivals</a></li></ul></li><li id="menu-1265-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/about-us/supporting-mathematics" class="sf-depth-2 menuparent">Supporting Mathematics</a><ul><li id="menu-1267-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/about-us/supporting-mathematics/supporting-students" class="sf-depth-3">Supporting Students</a></li><li id="menu-1268-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/about-us/supporting-mathematics/general-fund" class="sf-depth-3">General Fund</a></li><li id="menu-1266-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/about-us/supporting-mathematics/new-building" class="sf-depth-3">New Building</a></li><li id="menu-1269-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/about-us/supporting-mathematics/making-gift" class="sf-depth-3">Making a Gift</a></li><li id="menu-1270-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/about-us/supporting-mathematics/key-contacts" class="sf-depth-3">Key Contacts</a></li></ul></li><li id="menu-2049-1" class="middle odd sf-item-5 sf-depth-2 sf-total-children-2 sf-parent-children-0 sf-single-children-2 menuparent"><a href="/about-us/alumni" class="sf-depth-2 menuparent">Alumni</a><ul><li id="menu-1173-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/about-us/alumni/newsletters" class="sf-depth-3">Newsletters</a></li><li id="menu-1280-1" class="last even sf-item-2 sf-depth-3 sf-no-children"><a href="/about-us/alumni/alumni-garden-party" class="sf-depth-3">Alumni Garden Party</a></li></ul></li><li id="menu-1123-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/about-us/history" class="sf-depth-2">History</a></li><li id="menu-2153-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/news" class="sf-depth-2">News</a></li><li id="menu-1319-1" class="middle even sf-item-8 sf-depth-2 sf-no-children"><a href="/news/awards-and-prizes" title="" class="sf-depth-2">Awards &amp; Prizes</a></li><li id="menu-866-1" class="last odd sf-item-9 sf-depth-2 sf-no-children"><a href="/about-us/vacancies" title="" class="sf-depth-2">Vacancies</a></li></ul></li><li id="menu-523-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-3 sf-parent-children-2 sf-single-children-1 menuparent"><a href="/study-here" class="sf-depth-1 menuparent">Study Here</a><ul><li id="menu-2154-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-16 sf-parent-children-4 sf-single-children-12 menuparent"><a href="/study-here/undergraduate-study" class="sf-depth-2 menuparent">Undergraduate Study</a><ul><li id="menu-2039-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/why-oxford" class="sf-depth-3">Why Oxford?</a></li><li id="menu-2044-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/mathematics-university" class="sf-depth-3">Mathematics at University</a></li><li id="menu-2161-1" class="middle odd sf-item-3 sf-depth-3"><a href="/study-here/undergraduate-study/which-course" class="sf-depth-3">Which Course?</a></li><li id="menu-2093-1" class="middle even sf-item-4 sf-depth-3"><a href="/study-here/undergraduate-study/how-apply" class="sf-depth-3">How to Apply</a></li><li id="menu-1176-1" class="middle odd sf-item-5 sf-depth-3"><a href="/study-here/undergraduate-study/open-days" class="sf-depth-3">Open Days</a></li><li id="menu-2067-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/our-offer" class="sf-depth-3">Our Offer</a></li><li id="menu-2099-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/maths-admissions-test" class="sf-depth-3">Maths Admissions Test</a></li><li id="menu-2098-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/interviews" class="sf-depth-3">Interviews</a></li><li id="menu-2167-1" class="middle odd sf-item-9 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/frequently-asked-questions" class="sf-depth-3">Frequently Asked Questions</a></li><li id="menu-2162-1" class="middle even sf-item-10 sf-depth-3"><a href="/study-here/undergraduate-study/outreach" class="sf-depth-3">Outreach</a></li><li id="menu-2073-1" class="middle odd sf-item-11 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/financial-support" class="sf-depth-3">Financial Support</a></li><li id="menu-2156-1" class="middle even sf-item-12 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/careers" class="sf-depth-3">Careers</a></li><li id="menu-2097-1" class="middle odd sf-item-13 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/which-college" class="sf-depth-3">Which College?</a></li><li id="menu-1113-1" class="middle even sf-item-14 sf-depth-3 sf-no-children"><a href="/study-here/prospective-undergraduates/how-apply/admissions-criteria" class="sf-depth-3">Admissions Criteria</a></li><li id="menu-1175-1" class="middle odd sf-item-15 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/practice-problems" class="sf-depth-3">Practice Problems</a></li><li id="menu-1115-1" class="last even sf-item-16 sf-depth-3 sf-no-children"><a href="/study-here/undergraduate-study/bridging-gap" class="sf-depth-3">Bridging The Gap</a></li></ul></li><li id="menu-2038-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-9 sf-parent-children-6 sf-single-children-3 menuparent"><a href="/study-here/postgraduate-study" class="sf-depth-2 menuparent">Postgraduate Study</a><ul><li id="menu-2048-1" class="first odd sf-item-1 sf-depth-3"><a href="/study-here/postgraduate-study/doctor-philosophy" class="sf-depth-3">Doctor of Philosophy</a></li><li id="menu-2024-1" class="middle even sf-item-2 sf-depth-3"><a href="/study-here/postgraduate-study/partial-differential-equations-epsrc-cdt" class="sf-depth-3">Partial Differential Equations (EPSRC CDT)</a></li><li id="menu-2219-1" class="middle odd sf-item-3 sf-depth-3"><a href="/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt" class="sf-depth-3">Industrially Focused Mathematical Modelling (EPSRC CDT)</a></li><li id="menu-2043-1" class="middle even sf-item-4 sf-depth-3"><a href="/study-here/postgraduate-study/msc-mathematical-modelling-and-scientific-computing" class="sf-depth-3">MSc in Mathematical Modelling and Scientific Computing</a></li><li id="menu-2055-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/study-here/postgraduate-study/msc-mathematical-and-theoretical-physics" class="sf-depth-3">MSc in Mathematical and Theoretical Physics</a></li><li id="menu-2200-1" class="middle even sf-item-6 sf-depth-3"><a href="/study-here/postgraduate-study/msc-mathematics-and-foundations-computer-science" class="sf-depth-3">MSc in Mathematics and the Foundations of Computer Science</a></li><li id="menu-2246-1" class="middle odd sf-item-7 sf-depth-3"><a href="/study-here/postgraduate-study/msc-mathematical-finance-part-time" class="sf-depth-3">MSc in Mathematical Finance (part-time)</a></li><li id="menu-2381-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/members/students/postgraduate-courses/msc-mcf" title="" class="sf-depth-3">MSc in Mathematical and Computational Finance</a></li><li id="menu-1455-1" class="last odd sf-item-9 sf-depth-3 sf-no-children"><a href="/study-here/postgraduate-study/mathematical-finance-short-courses" class="sf-depth-3">Mathematical Finance Short Courses</a></li></ul></li><li id="menu-2034-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="https://www1.maths.ox.ac.uk/members/students" title="" class="sf-depth-2">Current Students</a></li></ul></li><li id="menu-535-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-8 sf-parent-children-1 sf-single-children-7 menuparent"><a href="/research" class="sf-depth-1 menuparent">Research</a><ul><li id="menu-605-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/research/research-groups" class="sf-depth-2">Research Groups</a></li><li id="menu-2877-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/research/ref" class="sf-depth-2">Research Excellence Framework</a></li><li id="menu-1142-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="http://eprints.maths.ox.ac.uk/" title="" class="sf-depth-2">Eprints Archive</a></li><li id="menu-612-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/research/theses-archive" title="" class="sf-depth-2 menuparent">Theses Archive</a><ul><li id="menu-613-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children"><a href="/research/theses-archive/submission-instructions" class="sf-depth-3">Submission Instructions</a></li></ul></li><li id="menu-1918-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/research/study-groups" class="sf-depth-2">Study Groups</a></li><li id="menu-1546-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="http://openaccess.ox.ac.uk/" title="" class="sf-depth-2">Open Access Oxford</a></li><li id="menu-2050-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="https://www1.maths.ox.ac.uk/members/research-facilitation" title="" class="sf-depth-2">Research Facilitation</a></li><li id="menu-1387-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="/research/impact-strategy" class="sf-depth-2">Impact Strategy</a></li></ul></li><li id="menu-368-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/people" class="sf-depth-1 menuparent">People</a><ul><li id="menu-1820-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/people/key-contacts" class="sf-depth-2">Key Contacts</a></li><li id="menu-1819-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/people/find" title="" class="sf-depth-2">Maths People Search</a></li><li id="menu-1817-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="http://www.ox.ac.uk/gsearch" title="" class="sf-depth-2">University People Search</a></li><li id="menu-1972-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/people/find/list" title="" class="sf-depth-2">People Lists</a></li></ul></li><li id="menu-536-1" class="active-trail middle odd sf-item-5 sf-depth-1 sf-total-children-6 sf-parent-children-3 sf-single-children-3 menuparent"><a href="/events" class="sf-depth-1 menuparent">Events</a><ul><li id="menu-2210-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-4 sf-parent-children-1 sf-single-children-3 menuparent"><a href="/events/conference-facilities" class="sf-depth-2 menuparent">Conference Facilities</a><ul><li id="menu-2213-1" class="first odd sf-item-1 sf-depth-3"><a href="/events/conference-facilities/rooms" class="sf-depth-3">Rooms</a></li><li id="menu-2212-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/node/12910" class="sf-depth-3">Catering</a></li><li id="menu-2217-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/node/12915" class="sf-depth-3">Booking</a></li><li id="menu-2291-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="https://www1.maths.ox.ac.uk/about-us/travel-maps" title="" class="sf-depth-3">How to find us</a></li></ul></li><li id="menu-2416-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/events/public-lectures-events" class="sf-depth-2">Public Lectures &amp; Events</a></li><li id="menu-2094-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/events/list" title="" class="sf-depth-2">Departmental Seminars &amp; Events</a></li><li id="menu-1914-1" class="middle even sf-item-4 sf-depth-2 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="/events/special-lectures" class="sf-depth-2 menuparent">Special Lectures</a><ul><li id="menu-1159-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/events/special-lectures/brooke-benjamin-lecture" class="sf-depth-3">Brooke Benjamin Lecture</a></li><li id="menu-1174-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/events/special-lectures/colloquia" class="sf-depth-3">Colloquia</a></li><li id="menu-1172-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="http://www.maths.ox.ac.uk/groups/ociam/events/alan-tayler-lecture" class="sf-depth-3">Alan Tayler Lecture</a></li><li id="menu-1917-1" class="last even sf-item-4 sf-depth-3 sf-no-children"><a href="http://www.simonyi.ox.ac.uk/simonyi-lectures" title="" class="sf-depth-3">The Simonyi Lecture</a></li></ul></li><li id="menu-1298-1" class="middle odd sf-item-5 sf-depth-2 sf-total-children-4 sf-parent-children-2 sf-single-children-2 menuparent"><a href="/events/conferences" class="sf-depth-2 menuparent">Conferences</a><ul><li id="menu-2583-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/events/conferences/new-directions-numerical-computation" class="sf-depth-3">New Directions in Numerical Computation</a></li><li id="menu-2351-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/events/conferences/bamc-2016" class="sf-depth-3">BAMC 2016</a></li><li id="menu-2316-1" class="middle odd sf-item-3 sf-depth-3"><a href="/events/conferences/women-maths" class="sf-depth-3">Women in Maths</a></li><li id="menu-1436-1" class="last even sf-item-4 sf-depth-3"><a href="/events/conferences/past-events" class="sf-depth-3">Past events</a></li></ul></li><li id="menu-2095-1" class="active-trail last even sf-item-6 sf-depth-2 sf-no-children"><a href="/events/past" class="sf-depth-2">Past Events</a></li></ul></li><li id="menu-1790-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-16 sf-parent-children-14 sf-single-children-2 menuparent"><a href="/members" class="sf-depth-1 menuparent">Members</a><ul><li id="menu-2026-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-7 sf-parent-children-2 sf-single-children-5 menuparent"><a href="/members/students" class="sf-depth-2 menuparent">Students</a><ul><li id="menu-2041-1" class="first odd sf-item-1 sf-depth-3"><a href="/members/students/undergraduate-courses" class="sf-depth-3">Undergraduate Courses</a></li><li id="menu-2092-1" class="middle even sf-item-2 sf-depth-3"><a href="/members/students/postgraduate-courses" class="sf-depth-3">Postgraduate Courses</a></li><li id="menu-2078-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/students/departmental-and-university-regulations" class="sf-depth-3">Departmental and University Regulations</a></li><li id="menu-851-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/members/students/lecture-lists" class="sf-depth-3">Lecture Lists</a></li><li id="menu-1921-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="http://www0.maths.ox.ac.uk/courses" title="" class="sf-depth-3">Course Materials</a></li><li id="menu-2198-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="https://www0.maths.ox.ac.uk/node/add/course-work" title="" class="sf-depth-3">Submit Course Work</a></li><li id="menu-1922-1" class="last odd sf-item-7 sf-depth-3 sf-no-children"><a href="http://www0.maths.ox.ac.uk/opencourseware" title="" class="sf-depth-3">OpenCourseWare</a></li></ul></li><li id="menu-1088-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-9 sf-parent-children-1 sf-single-children-8 menuparent"><a href="/members/teaching-staff" class="sf-depth-2 menuparent">Teaching Staff</a><ul><li id="menu-1089-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/members/teaching-staff/class-scheme" class="sf-depth-3">Class Scheme</a></li><li id="menu-1090-1" class="middle even sf-item-2 sf-depth-3"><a href="/members/teaching-staff/examinations" class="sf-depth-3">Examinations</a></li><li id="menu-1244-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/teaching-staff/copyright-guidance" class="sf-depth-3">Copyright Guidance</a></li><li id="menu-1243-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/members/teaching-staff/opencourseware" title="" class="sf-depth-3">OpenCourseWare</a></li><li id="menu-2476-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/members/teaching-staff/information-lecturers-prelims-or-part-courses" title="Information for Lecturers of Prelims or Part A Courses" class="sf-depth-3">Information for Lecturers of Prelims or Part A Courses</a></li><li id="menu-1502-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/members/teaching-staff/information-lecturers-part-b-or-part-c-courses" class="sf-depth-3">Information for Lecturers of Part B or Part C Courses</a></li><li id="menu-1371-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/members/teaching-staff/information-supervisors-undergraduate-projects" class="sf-depth-3">Information for Supervisors of Undergraduate Projects</a></li><li id="menu-1093-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/members/teaching-staff/programme-specifications" class="sf-depth-3">Programme Specifications</a></li><li id="menu-2585-1" class="last odd sf-item-9 sf-depth-3 sf-no-children"><a href="/members/teaching-staff/termly-news-letter-mathematics-tutors" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished sf-depth-3">Termly News Letter to Mathematics Tutors</a></li></ul></li><li id="menu-2387-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/members/newcomers" class="sf-depth-2">Newcomers</a></li><li id="menu-1905-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/members/admin-teams-staff" class="sf-depth-2">Admin Teams / Staff</a></li><li id="menu-1943-1" class="middle odd sf-item-5 sf-depth-2 sf-total-children-19 sf-parent-children-0 sf-single-children-19 menuparent"><a href="/members/building-information" class="sf-depth-2 menuparent">Building Information</a><ul><li id="menu-2400-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/members/building-information/accessibility" class="sf-depth-3">Accessibility</a></li><li id="menu-1944-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/members/building-information/security-safety-and-reporting-building-issues" class="sf-depth-3">Security, Safety and Reporting Building Issues</a></li><li id="menu-2064-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/building-information/heating-lighting-ventilation-shade" class="sf-depth-3">Heating, Lighting, Ventilation &amp; Shade</a></li><li id="menu-2082-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/members/building-information/kitchens-and-common-room" class="sf-depth-3">Kitchens and Common Room</a></li><li id="menu-863-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/members/building-information/teaching-meeting-rooms-communal-spaces" class="sf-depth-3">Teaching &amp; Meeting Rooms &amp; Communal Spaces</a></li><li id="menu-2071-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/members/building-information/toilets-showers" class="sf-depth-3">Toilets &amp; Showers</a></li><li id="menu-2363-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/members/building-information/first-aid-privacy-room" class="sf-depth-3">First Aid / Privacy Room</a></li><li id="menu-2066-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/members/building-information/power-and-data" class="sf-depth-3">Power and Data</a></li><li id="menu-2671-1" class="middle odd sf-item-9 sf-depth-3 sf-no-children"><a href="/members/building-information/telephones" class="sf-depth-3">Telephones</a></li><li id="menu-2063-1" class="middle even sf-item-10 sf-depth-3 sf-no-children"><a href="/members/building-information/furniture" class="sf-depth-3">Furniture</a></li><li id="menu-2065-1" class="middle odd sf-item-11 sf-depth-3 sf-no-children"><a href="/members/building-information/wall-fixings" class="sf-depth-3">Wall Fixings</a></li><li id="menu-2062-1" class="middle even sf-item-12 sf-depth-3 sf-no-children"><a href="/members/building-information/cycle-parking" class="sf-depth-3">Cycle Parking</a></li><li id="menu-1871-1" class="middle odd sf-item-13 sf-depth-3 sf-no-children"><a href="/members/building-information/parking-travel" class="sf-depth-3">Parking &amp; Travel</a></li><li id="menu-2084-1" class="middle even sf-item-14 sf-depth-3 sf-no-children"><a href="/members/building-information/cleaning" class="sf-depth-3">Cleaning</a></li><li id="menu-2086-1" class="middle odd sf-item-15 sf-depth-3 sf-no-children"><a href="/members/building-information/smoking" class="sf-depth-3">Smoking</a></li><li id="menu-2085-1" class="middle even sf-item-16 sf-depth-3 sf-no-children"><a href="/members/building-information/waste-recycling-environmental-sustainability" class="sf-depth-3">Waste, Recycling &amp; Environmental Sustainability</a></li><li id="menu-2081-1" class="middle odd sf-item-17 sf-depth-3 sf-no-children"><a href="/members/building-information/stationery-office-supplies" class="sf-depth-3">Stationery &amp; Office Supplies</a></li><li id="menu-2083-1" class="middle even sf-item-18 sf-depth-3 sf-no-children"><a href="/members/building-information/postal-mail-services" class="sf-depth-3">Postal Mail Services</a></li><li id="menu-2060-1" class="last odd sf-item-19 sf-depth-3 sf-no-children"><a href="/members/building-information/cafe-catering" class="sf-depth-3">Cafe &amp; Catering</a></li></ul></li><li id="menu-1233-1" class="middle even sf-item-6 sf-depth-2 sf-total-children-1 sf-parent-children-0 sf-single-children-1 menuparent"><a href="/members/room-booking" class="sf-depth-2 menuparent">Room Booking</a><ul><li id="menu-2072-1" class="firstandlast odd sf-item-1 sf-depth-3 sf-no-children"><a href="/members/room-booking/room-booking-calendar" class="sf-depth-3">Room Booking Calendar</a></li></ul></li><li id="menu-2158-1" class="middle odd sf-item-7 sf-depth-2 sf-total-children-6 sf-parent-children-0 sf-single-children-6 menuparent"><a href="/members/library" class="sf-depth-2 menuparent">Library</a><ul><li id="menu-1221-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/members/library/admission-contact-hours" class="sf-depth-3">Admission, Contact, Hours</a></li><li id="menu-1411-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/members/library/other-e-resources" class="sf-depth-3">Other E-Resources</a></li><li id="menu-1223-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/library/oxford-libraries" class="sf-depth-3">Oxford Libraries</a></li><li id="menu-1622-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/members/library/inter-library-loan" class="sf-depth-3">Inter-Library Loan</a></li><li id="menu-1605-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/members/library/e-books" class="sf-depth-3">e-books</a></li><li id="menu-2159-1" class="last even sf-item-6 sf-depth-3 sf-no-children"><a href="/members/library-0/library/publisher-catalogues" class="sf-depth-3">Publisher Catalogues</a></li></ul></li><li id="menu-2023-1" class="middle even sf-item-8 sf-depth-2 sf-total-children-10 sf-parent-children-4 sf-single-children-6 menuparent"><a href="/members/it" class="sf-depth-2 menuparent">IT</a><ul><li id="menu-644-1" class="first odd sf-item-1 sf-depth-3"><a href="/members/it/support" class="sf-depth-3">Support</a></li><li id="menu-633-1" class="middle even sf-item-2 sf-depth-3"><a href="/members/it/faqs" class="sf-depth-3">FAQs</a></li><li id="menu-1218-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/it/it-facilities-access" class="sf-depth-3">IT Facilities Access</a></li><li id="menu-1217-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/members/it/info-new-users" class="sf-depth-3">Info for New Users</a></li><li id="menu-1304-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/members/it/remote-access" class="sf-depth-3">Remote Access</a></li><li id="menu-643-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/members/it/gnome-desktop" class="sf-depth-3">GNOME Desktop</a></li><li id="menu-1206-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/members/it/basic-unix" class="sf-depth-3">Basic UNIX</a></li><li id="menu-716-1" class="middle even sf-item-8 sf-depth-3"><a href="/members/it/software-personal-machines" class="sf-depth-3">Software for Personal Machines</a></li><li id="menu-585-1" class="middle odd sf-item-9 sf-depth-3"><a href="/members/it/it-notices-policies" class="sf-depth-3">IT Notices &amp; Policies</a></li><li id="menu-1552-1" class="last even sf-item-10 sf-depth-3 sf-no-children"><a href="/members/it/it-status" class="sf-depth-3">IT Status</a></li></ul></li><li id="menu-1224-1" class="middle odd sf-item-9 sf-depth-2 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/members/research-facilitation" class="sf-depth-2 menuparent">Research Facilitation</a><ul><li id="menu-1253-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/members/research-facilitation/funding-opportunities" class="sf-depth-3">Funding opportunities</a></li><li id="menu-1252-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/members/research-facilitation/epsrc-research-base" class="sf-depth-3">EPSRC research base</a></li><li id="menu-1235-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/research-facilitation/personal-fellowships" class="sf-depth-3">Personal fellowships</a></li><li id="menu-1314-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/members/research-facilitation/after-funds-are-awarded" class="sf-depth-3">After funds are awarded</a></li><li id="menu-1309-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/members/research-facilitation/research-committee-funding" class="sf-depth-3">Research Committee funding</a></li></ul></li><li id="menu-1874-1" class="middle even sf-item-10 sf-depth-2 sf-total-children-5 sf-parent-children-1 sf-single-children-4 menuparent"><a href="/members/personnel-hr" class="sf-depth-2 menuparent">Personnel / HR</a><ul><li id="menu-2386-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="https://www0.maths.ox.ac.uk/leave" title="" class="sf-depth-3">Absences</a></li><li id="menu-1875-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/members/personnel-hr/harassment" class="sf-depth-3">Harassment</a></li><li id="menu-1876-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/personnel-hr/pdr" class="sf-depth-3">PDR</a></li><li id="menu-852-1" class="middle even sf-item-4 sf-depth-3"><a href="/members/personnel-hr/reward-recognition-scheme" class="sf-depth-3">Reward &amp; Recognition Scheme</a></li><li id="menu-2388-1" class="last odd sf-item-5 sf-depth-3 sf-no-children"><a href="/members/personnel-hr/accommodation" class="sf-depth-3">Accommodation</a></li></ul></li><li id="menu-1872-1" class="middle odd sf-item-11 sf-depth-2 sf-total-children-1 sf-parent-children-1 sf-single-children-0 menuparent"><a href="/members/departmental-faculty-services" class="sf-depth-2 menuparent">Departmental Faculty Services</a><ul><li id="menu-1953-1" class="firstandlast odd sf-item-1 sf-depth-3"><a href="/members/departmental-faculty-services/reception" class="sf-depth-3">Reception</a></li></ul></li><li id="menu-1878-1" class="middle even sf-item-12 sf-depth-2 sf-total-children-1 sf-parent-children-1 sf-single-children-0 menuparent"><a href="/members/governance" title="Meeting dates 2014-15" class="sf-depth-2 menuparent">Governance</a><ul><li id="menu-580-1" class="firstandlast odd sf-item-1 sf-depth-3"><a href="/members/governance/committees" title="" class="sf-depth-3">Committees</a></li></ul></li><li id="menu-1881-1" class="middle odd sf-item-13 sf-depth-2 sf-total-children-13 sf-parent-children-1 sf-single-children-12 menuparent"><a href="/members/policies" class="sf-depth-2 menuparent">Policies</a><ul><li id="menu-627-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/members/policies/academic-complaints" title="" class="sf-depth-3">Academic Complaints</a></li><li id="menu-3068-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/members/policies/room-booking" class="sf-depth-3">Room Booking</a></li><li id="menu-1555-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/policies/conflict-interest" class="sf-depth-3">Conflict of Interest</a></li><li id="menu-587-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/members/policies/disability" title="" class="sf-depth-3">Disability</a></li><li id="menu-3056-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/members/policies/carers-expenses-conference-attendance" class="sf-depth-3">Carer&#039;s expenses for conference attendance</a></li><li id="menu-1919-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/members/policies/people-categories" class="sf-depth-3">People Categories</a></li><li id="menu-2846-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/members/policies/visitors" class="menu-node-unpublished sf-depth-3">Visitors</a></li><li id="menu-1920-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/members/policies/access-control" class="sf-depth-3">Access Control</a></li><li id="menu-595-1" class="middle odd sf-item-9 sf-depth-3"><a href="/members/policies/data-protection" title="" class="sf-depth-3">Data Protection</a></li><li id="menu-588-1" class="middle even sf-item-10 sf-depth-3 sf-no-children"><a href="/members/policies/freedom-information" class="sf-depth-3">Freedom of Information</a></li><li id="menu-2668-1" class="middle odd sf-item-11 sf-depth-3 sf-no-children"><a href="https://www.maths.ox.ac.uk/members/it/it-notices-policies/information-security-policy" title="" class="sf-depth-3">Information Security</a></li><li id="menu-1903-1" class="middle even sf-item-12 sf-depth-3 sf-no-children"><a href="https://www.maths.ox.ac.uk/members/it/it-notices-policies" title="" class="sf-depth-3">IT</a></li><li id="menu-1904-1" class="last odd sf-item-13 sf-depth-3 sf-no-children"><a href="https://www1.maths.ox.ac.uk/members/health-safety" title="" class="sf-depth-3">Health &amp; Safety</a></li></ul></li><li id="menu-859-1" class="middle even sf-item-14 sf-depth-2 sf-total-children-9 sf-parent-children-0 sf-single-children-9 menuparent"><a href="/members/health-safety" class="sf-depth-2 menuparent">Health &amp; Safety</a><ul><li id="menu-864-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/members/health-safety/statement" class="sf-depth-3">Statement</a></li><li id="menu-860-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/members/health-safety/dse" class="sf-depth-3">DSE</a></li><li id="menu-861-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/health-safety/first-aid" class="sf-depth-3">First Aid</a></li><li id="menu-865-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/members/health-safety/foreign-travel" class="sf-depth-3">Foreign Travel</a></li><li id="menu-1232-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/members/health-safety/general-risk-assessment-info-events" class="sf-depth-3">General Risk Assessment Info for Events</a></li><li id="menu-862-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/members/health-safety/motor-insurance" class="sf-depth-3">Motor Insurance</a></li><li id="menu-1374-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/members/health-safety/work-place-temperature" class="sf-depth-3">Work Place Temperature</a></li><li id="menu-1600-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/members/health-safety/children-visiting-department" class="sf-depth-3">Children visiting the department</a></li><li id="menu-1379-1" class="last odd sf-item-9 sf-depth-3 sf-no-children"><a href="/members/health-safety/induction" class="sf-depth-3">Induction</a></li></ul></li><li id="menu-2296-1" class="middle odd sf-item-15 sf-depth-2 sf-total-children-9 sf-parent-children-0 sf-single-children-9 menuparent"><a href="/members/good-practice" class="sf-depth-2 menuparent">Good Practice</a><ul><li id="menu-1553-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/members/good-practice/action-plan" class="sf-depth-3">Action Plan</a></li><li id="menu-1514-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/members/good-practice/graduates" class="sf-depth-3">Graduates</a></li><li id="menu-1527-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/good-practice/parents-and-carers" class="sf-depth-3">Parents and Carers</a></li><li id="menu-1517-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/members/good-practice/postdoctoral-researchers" class="sf-depth-3">Postdoctoral Researchers</a></li><li id="menu-1571-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/members/good-practice/resources-women" class="sf-depth-3">Resources for Women</a></li><li id="menu-1513-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/members/good-practice/staff" class="sf-depth-3">Staff</a></li><li id="menu-1556-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/members/good-practice/surveys-feedback" class="sf-depth-3">Surveys Feedback</a></li><li id="menu-1516-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/members/good-practice/undergraduates" class="sf-depth-3">Undergraduates</a></li><li id="menu-1521-1" class="last odd sf-item-9 sf-depth-3 sf-no-children"><a href="/members/good-practice/steering-group" class="sf-depth-3">Steering Group</a></li></ul></li><li id="menu-2457-1" class="last even sf-item-16 sf-depth-2 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="/members/extra-mathematical-activity" class="sf-depth-2 menuparent">Extra Mathematical Activity</a><ul><li id="menu-2482-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/members/extra-mathematical-activity/art-workshops" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished sf-depth-3">Art Workshops</a></li><li id="menu-2465-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/members/extra-mathematical-activity/bake" class="menu-node-unpublished sf-depth-3">Bake Off</a></li><li id="menu-2480-1" class="last odd sf-item-3 sf-depth-3 sf-no-children"><a href="/members/extra-mathematical-activity/mathematical-craft" class="sf-depth-3">Mathematical Craft</a></li></ul></li></ul></li><li id="menu-2279-1" class="middle odd sf-item-7 sf-depth-1 sf-no-children"><a href="/" title="" class="sf-depth-1">Admin</a></li><li id="menu-2477-1" class="middle even sf-item-8 sf-depth-1 sf-no-children"><a href="/events/next" class="sf-depth-1">Forthcoming Events</a></li><li id="menu-3026-1" class="last odd sf-item-9 sf-depth-1 sf-no-children"><a href="/node/13767" class="sf-depth-1">YRM2015</a></li></ul>
+  </nav><div id="block-search-form" class="block block-search no-title menu-wrapper menu-bar-wrapper clearfix even block-count-4 block-region-menu-bar block-form"  role="search">  
+  
+  <form action="https://www.maths.ox.ac.uk/events/past/680/1990--now?field_seminar_date_value%5Bmax%5D=&amp;field_seminar_date_value%5Bmin%5D=&amp;field_seminar_date_value%5Bvalue%5D=&amp;field_seminar_date_value_op=%3C" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-z0-ef2mojIVGp7S9CVsWVEThjoIHg_oTnLxdH4rqjRQ" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+  </div><section id="block-text-resize-0" class="block block-text-resize menu-wrapper menu-bar-wrapper clearfix odd last block-count-5 block-region-menu-bar block-0" >  
+      <h2 class="element-invisible block-title">Text Resize</h2>
+  
+  <a href="javascript:;" class="changer" id="text_resize_decrease"><sup>-</sup>A</a> <a href="javascript:;" class="changer" id="text_resize_reset">A</a> <a href="javascript:;" class="changer" id="text_resize_increase"><sup>+</sup>A</a><div id="text_resize_clear"></div>
+  </section></div>
+    <!-- Messages and Help -->
+        
+    <!-- Breadcrumbs -->
+    <div id="breadcrumb" class="clearfix"><nav class="breadcrumb-wrapper clearfix" role="navigation" aria-labelledby="breadcrumb-label"><h2 id="breadcrumb-label" class="element-invisible">You are here</h2><ol id="crumbs" class="clearfix"><li class="crumb crumb-first"><a href="/">Home</a></li><li class="crumb"><span class="crumb-separator"> &#187; </span><a href="/events">Events</a></li><li class="crumb"><span class="crumb-separator"> &#187; </span><a href="/events/past">Past Events</a></li><li class="crumb crumb-last"><span class="crumb-separator"> &#187; </span><a href="/events/past/680">Past OxPDE Special Seminar</a></li></ol></nav></div>
+    
+    <!-- Three column 3x33 Gpanel -->
+    
+    <div id="columns">
+      <div class="columns-inner clearfix">
+
+        <div id="content-column">
+          <div class="content-inner">
+
+            
+            <section id="main-content" role="main">
+
+                                            <header id="main-content-header" class="clearfix">
+
+                  
+                                      <h1 id="page-title">Past OxPDE Special Seminar</h1>
+                  
+                </header>
+                            
+                              <div id="content">
+                  <div id="block-system-main" class="block block-system no-title odd first last block-count-6 block-region-content block-main" >  
+  
+  <div class="view view-events view-id-events view-display-id-page_2 view-dom-id-d3c13f6ec12fcaeba455620a4191f1d8">
+            <div class="view-header">
+      <a href="/events/list/680/1990--now">Forthcoming events in this series</a>    </div>
+  
+      <div class="view-filters">
+      <form class="ctools-auto-submit-full-form" action="https://www.maths.ox.ac.uk/events/past/680/1990--now" method="get" id="views-exposed-form-events-page-2" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-field-seminar-date-value-wrapper" class="views-exposed-widget views-widget-filter-field_seminar_date_value">
+                  <label for="edit-field-seminar-date-value">
+            Event Date          </label>
+                          <div class="views-operator">
+            <div class="form-item form-type-select form-item-field-seminar-date-value-op">
+  <select id="edit-field-seminar-date-value-op" name="field_seminar_date_value_op" class="form-select"><option value="&lt;" selected="selected">Is less than</option><option value="&lt;=">Is less than or equal to</option><option value="=">Is equal to</option><option value="!=">Is not equal to</option><option value="&gt;=">Is greater than or equal to</option><option value="&gt;">Is greater than</option><option value="between">Is between</option><option value="not between">Is not between</option><option value="empty">Is empty (NULL)</option><option value="not empty">Is not empty (NOT NULL)</option><option value="regular_expression">Regular expression</option><option value="contains">Contains</option></select>
+</div>
+          </div>
+                <div class="views-widget">
+          <div id="edit-field-seminar-date-value-value-wrapper"><div id="edit-field-seminar-date-value-value-inside-wrapper"><div  class="container-inline-date"><div class="form-item form-type-date-select form-item-field-seminar-date-value-value">
+  <div id="edit-field-seminar-date-value-value"  class="date-padding clearfix"><div class="form-item form-type-select form-item-field-seminar-date-value-value-year">
+  <label class="element-invisible" for="edit-field-seminar-date-value-value-year">Year </label>
+ <div class="date-year"><select class="date-year form-select" id="edit-field-seminar-date-value-value-year" name="field_seminar_date_value[value][year]"><option value="" selected="selected">-Year</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option></select></div>
+</div>
+<div class="form-item form-type-select form-item-field-seminar-date-value-value-month">
+  <label class="element-invisible" for="edit-field-seminar-date-value-value-month">Month </label>
+ <div class="date-month"><select class="date-month form-select" id="edit-field-seminar-date-value-value-month" name="field_seminar_date_value[value][month]"><option value="" selected="selected">-Month</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select></div>
+</div>
+<div class="form-item form-type-select form-item-field-seminar-date-value-value-day">
+  <label class="element-invisible" for="edit-field-seminar-date-value-value-day">Day </label>
+ <div class="date-day"><select class="date-day form-select" id="edit-field-seminar-date-value-value-day" name="field_seminar_date_value[value][day]"><option value="" selected="selected">-Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select></div>
+</div>
+</div>
+</div>
+</div></div></div><div id="edit-field-seminar-date-value-min-wrapper"><div id="edit-field-seminar-date-value-min-inside-wrapper"><div  class="container-inline-date"><div class="form-item form-type-date-select form-item-field-seminar-date-value-min">
+  <label for="edit-field-seminar-date-value-min">Start date </label>
+ <div id="edit-field-seminar-date-value-min"  class="date-padding clearfix"><div class="form-item form-type-select form-item-field-seminar-date-value-min-year">
+  <label class="element-invisible" for="edit-field-seminar-date-value-min-year">Year </label>
+ <div class="date-year"><select class="date-year form-select" id="edit-field-seminar-date-value-min-year" name="field_seminar_date_value[min][year]"><option value="" selected="selected">-Year</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option></select></div>
+</div>
+<div class="form-item form-type-select form-item-field-seminar-date-value-min-month">
+  <label class="element-invisible" for="edit-field-seminar-date-value-min-month">Month </label>
+ <div class="date-month"><select class="date-month form-select" id="edit-field-seminar-date-value-min-month" name="field_seminar_date_value[min][month]"><option value="" selected="selected">-Month</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select></div>
+</div>
+<div class="form-item form-type-select form-item-field-seminar-date-value-min-day">
+  <label class="element-invisible" for="edit-field-seminar-date-value-min-day">Day </label>
+ <div class="date-day"><select class="date-day form-select" id="edit-field-seminar-date-value-min-day" name="field_seminar_date_value[min][day]"><option value="" selected="selected">-Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select></div>
+</div>
+</div>
+</div>
+</div></div></div><div id="edit-field-seminar-date-value-max-wrapper"><div id="edit-field-seminar-date-value-max-inside-wrapper"><div  class="container-inline-date"><div class="form-item form-type-date-select form-item-field-seminar-date-value-max">
+  <label for="edit-field-seminar-date-value-max">End date </label>
+ <div id="edit-field-seminar-date-value-max"  class="date-padding clearfix"><div class="form-item form-type-select form-item-field-seminar-date-value-max-year">
+  <label class="element-invisible" for="edit-field-seminar-date-value-max-year">Year </label>
+ <div class="date-year"><select class="date-year form-select" id="edit-field-seminar-date-value-max-year" name="field_seminar_date_value[max][year]"><option value="" selected="selected">-Year</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option></select></div>
+</div>
+<div class="form-item form-type-select form-item-field-seminar-date-value-max-month">
+  <label class="element-invisible" for="edit-field-seminar-date-value-max-month">Month </label>
+ <div class="date-month"><select class="date-month form-select" id="edit-field-seminar-date-value-max-month" name="field_seminar_date_value[max][month]"><option value="" selected="selected">-Month</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select></div>
+</div>
+<div class="form-item form-type-select form-item-field-seminar-date-value-max-day">
+  <label class="element-invisible" for="edit-field-seminar-date-value-max-day">Day </label>
+ <div class="date-day"><select class="date-day form-select" id="edit-field-seminar-date-value-max-day" name="field_seminar_date_value[max][day]"><option value="" selected="selected">-Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select></div>
+</div>
+</div>
+</div>
+</div></div></div>        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input class="ctools-use-ajax ctools-auto-submit-click js-hide form-submit" type="submit" id="edit-submit-events" name="" value="Apply" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article id="node-14265" class="node node-event node-promoted article odd node-full ia-n clearfix" role="article">
+      <header class="node-header">
+    </header>
+  
+  
+  <div class="node-content">
+    <div class="event-col first">
+      <div class="field field-name-field-seminar-date field-type-date field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="date datefrom">1 June 2015</div><div class="time timefrom">10:00</div></div></div></div>      <div class="field field-name-field-seminar-location field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/69">L5</a></li></ul></div>    </div>
+    <div class="event-col middle">
+      <div class="field title">
+        <a href="/node/14265" rel="bookmark">Examples of 2d incompressible  flows and certain model equations</a>
+      </div>
+      <div>
+        <div class="field field-name-field-seminar-speaker field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Vladimir Sverak</div></div></div>        <div class="field field-name-field-seminar-university field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/2565">University of Minnesota</a></li></ul></div>      </div>
+      <div class="ctools-collapsible-container ctools-collapsed"><div class="ctools-collapsible-handle">Abstract</div><div class="ctools-collapsible-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="tex2jax"><p>We will discuss 2d Euler and Boussinesq (incompressible) flows&nbsp;related to a possible boundary blow-up scenario for the 3d axi-symmetric&nbsp;case suggested by G. Luo and T. Hou, together with some easier model&nbsp;problems relevant for that situation.</p>
+</div></div></div></div></div></div>
+          </div>
+    <div class="event-col last">
+      <div class="field field-name-field-seminar-series field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even">OxPDE Special Seminar</li></ul></div>      <div class="field view-all-link">
+        <a href="/events/list/680/all">
+          View all
+        </a>
+      </div>
+            <div class="field feed-link">
+        <a href="webcal://www.maths.ox.ac.uk/events/list/680/all/calendar.ics" class="ical-icon">
+          Add to My Calendar
+        </a>
+      </div>
+    </div>
+      </div>
+
+  
+  
+  </article>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article id="node-13893" class="node node-event node-promoted article even node-full ia-n clearfix" role="article">
+      <header class="node-header">
+    </header>
+  
+  
+  <div class="node-content">
+    <div class="event-col first">
+      <div class="field field-name-field-seminar-date field-type-date field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="date datefrom">10 February 2015</div><div class="time timefrom">11:00</div><div class="datetimeglue">to</div><div class="time timeuntil">13:00</div></div></div></div>      <div class="field field-name-field-seminar-location field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/44">C1</a></li></ul></div>    </div>
+    <div class="event-col middle">
+      <div class="field title">
+        <a href="/node/13893" rel="bookmark">Some analytic problems on liquid crystals (part 2)</a>
+      </div>
+      <div>
+        <div class="field field-name-field-seminar-speaker field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Min-Chun Hong</div></div></div>        <div class="field field-name-field-seminar-university field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/2192">The University of Queensland</a></li></ul></div>      </div>
+      <div class="ctools-collapsible-container ctools-collapsed"><div class="ctools-collapsible-handle">Abstract</div><div class="ctools-collapsible-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="tex2jax"><p>1) &nbsp; &nbsp; &nbsp;The Hardt-Lin's problem and a new approximation of a relaxed energy for harmonic maps.<br>
+	<br>
+	We introduce a new approximation for &nbsp;the relaxed energy $F$ of the Dirichlet energy and prove that the minimizers of the approximating functional converge to a minimizer $u$ of the relaxed energy for harmonic maps, and that $u$ is &nbsp;partially regular without using the concept of Cartesian currents.<br>
+	<br>
+	2) &nbsp;Partial regularity in liquid crystals &nbsp;for &nbsp;the Oseen-Frank model: &nbsp;a new proof of the result of Hardt, Kinderlehrer and Lin.<br>
+	<br>
+	Hardt, Kinderlehrer and Lin (\cite {HKL1}, \cite {HKL2}) proved that a minimizer $u$ is smooth on some open subset<br>
+	$\Omega_0\subset\Omega$ and moreover $\mathcal H^{\b} (\Omega\backslash \Omega_0)=0$ for some positive $\b &lt;1$, where<br>
+	$\mathcal H^{\b}$ is the Hausdorff measure. &nbsp; We will present a new proof of Hardt, Kinderlehrer and Lin.<br>
+	<br>
+	&nbsp;3) &nbsp; &nbsp; &nbsp;Global existence of solutions of the Ericksen-Leslie system for &nbsp;the Oseen-Frank model.<br>
+	<br>
+	The dynamic flow of liquid crystals is described by the Ericksen-Leslie system. The Ericksen-Leslie system is a system of &nbsp;the Navier-Stokes equations coupled with the gradient flow for the Oseen-Frank model, &nbsp; which generalizes the heat flow for harmonic maps &nbsp;into the $2$-sphere. &nbsp; In this talk, we will outline a proof of global existence of solutions of the Ericksen-Leslie system for a general Oseen-Frank &nbsp;model in 2D.</p>
+</div></div></div></div></div></div>
+          </div>
+    <div class="event-col last">
+      <div class="field field-name-field-seminar-series field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even">OxPDE Special Seminar</li></ul></div>      <div class="field view-all-link">
+        <a href="/events/list/680/all">
+          View all
+        </a>
+      </div>
+            <div class="field feed-link">
+        <a href="webcal://www.maths.ox.ac.uk/events/list/680/all/calendar.ics" class="ical-icon">
+          Add to My Calendar
+        </a>
+      </div>
+    </div>
+      </div>
+
+  
+  
+  </article>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <article id="node-13892" class="node node-event node-promoted article odd node-full ia-n clearfix" role="article">
+      <header class="node-header">
+    </header>
+  
+  
+  <div class="node-content">
+    <div class="event-col first">
+      <div class="field field-name-field-seminar-date field-type-date field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="date datefrom">3 February 2015</div><div class="time timefrom">11:00</div><div class="datetimeglue">to</div><div class="time timeuntil">13:00</div></div></div></div>      <div class="field field-name-field-seminar-location field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/44">C1</a></li></ul></div>    </div>
+    <div class="event-col middle">
+      <div class="field title">
+        <a href="/node/13892" rel="bookmark">Some analytic problems on liquid crystals (part 1)</a>
+      </div>
+      <div>
+        <div class="field field-name-field-seminar-speaker field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Min-Chun Hong</div></div></div>        <div class="field field-name-field-seminar-university field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/2192">The University of Queensland</a></li></ul></div>      </div>
+      <div class="ctools-collapsible-container ctools-collapsed"><div class="ctools-collapsible-handle">Abstract</div><div class="ctools-collapsible-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="tex2jax"><p>1) &nbsp; &nbsp; &nbsp;The Hardt-Lin's problem and a new approximation of a relaxed energy for harmonic maps.<br>
+	<br>
+	We introduce a new approximation for &nbsp;the relaxed energy $F$ of the Dirichlet energy and prove that the minimizers of the approximating functional converge to a minimizer $u$ of the relaxed energy for harmonic maps, and that $u$ is &nbsp;partially regular without using the concept of Cartesian currents.<br>
+	<br>
+	2) &nbsp;Partial regularity in liquid crystals &nbsp;for &nbsp;the Oseen-Frank model: &nbsp;a new proof of the result of Hardt, Kinderlehrer and Lin.<br>
+	<br>
+	Hardt, Kinderlehrer and Lin (\cite {HKL1}, \cite {HKL2}) proved that a minimizer $u$ is smooth on some open subset<br>
+	$\Omega_0\subset\Omega$ and moreover $\mathcal H^{\b} (\Omega\backslash \Omega_0)=0$ for some positive $\b &lt;1$, where<br>
+	$\mathcal H^{\b}$ is the Hausdorff measure. &nbsp; We will present a new proof of Hardt, Kinderlehrer and Lin.<br>
+	<br>
+	&nbsp;3) &nbsp; &nbsp; &nbsp;Global existence of solutions of the Ericksen-Leslie system for &nbsp;the Oseen-Frank model.<br>
+	<br>
+	The dynamic flow of liquid crystals is described by the Ericksen-Leslie system. The Ericksen-Leslie system is a system of &nbsp;the Navier-Stokes equations coupled with the gradient flow for the Oseen-Frank model, &nbsp; which generalizes the heat flow for harmonic maps &nbsp;into the $2$-sphere. &nbsp; In this talk, we will outline a proof of global existence of solutions of the Ericksen-Leslie system for a general Oseen-Frank &nbsp;model in 2D.</p>
+</div></div></div></div></div></div>
+          </div>
+    <div class="event-col last">
+      <div class="field field-name-field-seminar-series field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even">OxPDE Special Seminar</li></ul></div>      <div class="field view-all-link">
+        <a href="/events/list/680/all">
+          View all
+        </a>
+      </div>
+            <div class="field feed-link">
+        <a href="webcal://www.maths.ox.ac.uk/events/list/680/all/calendar.ics" class="ical-icon">
+          Add to My Calendar
+        </a>
+      </div>
+    </div>
+      </div>
+
+  
+  
+  </article>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <article id="node-11353" class="node node-event article even node-full ia-n clearfix" role="article">
+      <header class="node-header">
+    </header>
+  
+  
+  <div class="node-content">
+    <div class="event-col first">
+      <div class="field field-name-field-seminar-date field-type-date field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="date datefrom">21 May 2014</div><div class="time timefrom">15:00</div></div></div></div>      <div class="field field-name-field-seminar-location field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/69">L5</a></li></ul></div>    </div>
+    <div class="event-col middle">
+      <div class="field title">
+        <a href="/node/11353" rel="bookmark">Pointwise estimates for degenerate elliptic systems</a>
+      </div>
+      <div>
+        <div class="field field-name-field-seminar-speaker field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Dr Dominic Breit</div></div></div>        <div class="field field-name-field-seminar-university field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/1545">LMU Munich</a></li></ul></div>      </div>
+      <div class="ctools-collapsible-container ctools-collapsed"><div class="ctools-collapsible-handle">Abstract</div><div class="ctools-collapsible-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="tex2jax"><p>We consider degenerate elliptic systems like the p-Laplacian &nbsp;system with p&gt;1 and zero boundary data. The r.h.s. is given in &nbsp;divergence from div F. We prove a pointwise estimate (in terms of the &nbsp;sharp maximal function) bounding the gradient of the solution via the &nbsp;function F. This recovers several known results about local regularity &nbsp;estimates in L^q, BMO and C^a. Our pointwise inequality extends also &nbsp;to boundary points. So these &nbsp;regularity estimates hold globally as &nbsp;well. The global estimates in BMO and C^a are new.</p></div></div></div></div></div></div>
+          </div>
+    <div class="event-col last">
+      <div class="field field-name-field-seminar-series field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even">OxPDE Special Seminar</li></ul></div>      <div class="field view-all-link">
+        <a href="/events/list/680/all">
+          View all
+        </a>
+      </div>
+            <div class="field feed-link">
+        <a href="webcal://www.maths.ox.ac.uk/events/list/680/all/calendar.ics" class="ical-icon">
+          Add to My Calendar
+        </a>
+      </div>
+    </div>
+      </div>
+
+  
+  
+  </article>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <article id="node-11268" class="node node-event article odd node-full ia-n clearfix" role="article">
+      <header class="node-header">
+    </header>
+  
+  
+  <div class="node-content">
+    <div class="event-col first">
+      <div class="field field-name-field-seminar-date field-type-date field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="date datefrom">2 May 2014</div><div class="time timefrom">17:00</div></div></div></div>      <div class="field field-name-field-seminar-location field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/69">L5</a></li></ul></div>    </div>
+    <div class="event-col middle">
+      <div class="field title">
+        <a href="/node/11268" rel="bookmark">Relaxation in BV under non-standard growth conditions</a>
+      </div>
+      <div>
+        <div class="field field-name-field-seminar-speaker field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Dr Parth Soneji</div></div></div>        <div class="field field-name-field-seminar-university field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/1574">Ludwig Maximilians Universitat</a></li></ul></div>      </div>
+      <div class="ctools-collapsible-container ctools-collapsed"><div class="ctools-collapsible-handle">Abstract</div><div class="ctools-collapsible-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="tex2jax"><p>Morrey's lower semicontinuity theorem for quasiconvex integrands is a 
+classical result that establishes the existence of minimisers to 
+variational problems by the Direct Method, provided the integrand 
+satisfies "standard" growth conditions (i.e. when the growth and 
+coercivity exponents match). This theorem has more recently been refined
+ to consider convergence in Sobolev Spaces below the growth exponent of 
+the integrand: such results can be used to show existence of solutions 
+to a "Relaxed minimisation problem" when we have "non-standard'" growth 
+conditions. <br /> <br />When the integrand satisfies linear coercivity 
+conditions, it is much more useful to consider the space of functions of
+ Bounded Variation, which has better compactness properties than 
+$W^{1,1}$. We review the key results in the standard growth case, before
+ giving an overview of recent results that we have obtained in the 
+non-standard case. We find that new techniques and ideas are required in
+ this setting, which in fact provide us with some interesting (and 
+perhaps unexpected) corollaries on the general nature of quasiconvex 
+functions.&nbsp;</p></div></div></div></div></div></div>
+          </div>
+    <div class="event-col last">
+      <div class="field field-name-field-seminar-series field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even">OxPDE Special Seminar</li></ul></div>      <div class="field view-all-link">
+        <a href="/events/list/680/all">
+          View all
+        </a>
+      </div>
+            <div class="field feed-link">
+        <a href="webcal://www.maths.ox.ac.uk/events/list/680/all/calendar.ics" class="ical-icon">
+          Add to My Calendar
+        </a>
+      </div>
+    </div>
+      </div>
+
+  
+  
+  </article>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <article id="node-11184" class="node node-event article even node-full ia-n clearfix" role="article">
+      <header class="node-header">
+    </header>
+  
+  
+  <div class="node-content">
+    <div class="event-col first">
+      <div class="field field-name-field-seminar-date field-type-date field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="date datefrom">12 March 2014</div><div class="time timefrom">16:00</div></div></div></div>      <div class="field field-name-field-seminar-location field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/69">L5</a></li></ul></div>    </div>
+    <div class="event-col middle">
+      <div class="field title">
+        <a href="/node/11184" rel="bookmark">Nonlocal self-improving properties</a>
+      </div>
+      <div>
+        <div class="field field-name-field-seminar-speaker field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Rosario Mingione</div></div></div>        <div class="field field-name-field-seminar-university field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/1882">Parma</a></li></ul></div>      </div>
+      <div class="ctools-collapsible-container ctools-collapsed"><div class="ctools-collapsible-handle">Abstract</div><div class="ctools-collapsible-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="tex2jax"></div></div></div></div></div></div>
+          </div>
+    <div class="event-col last">
+      <div class="field field-name-field-seminar-series field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even">OxPDE Special Seminar</li></ul></div>      <div class="field view-all-link">
+        <a href="/events/list/680/all">
+          View all
+        </a>
+      </div>
+            <div class="field feed-link">
+        <a href="webcal://www.maths.ox.ac.uk/events/list/680/all/calendar.ics" class="ical-icon">
+          Add to My Calendar
+        </a>
+      </div>
+    </div>
+      </div>
+
+  
+  
+  </article>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    <article id="node-11139" class="node node-event article odd node-full ia-n clearfix" role="article">
+      <header class="node-header">
+    </header>
+  
+  
+  <div class="node-content">
+    <div class="event-col first">
+      <div class="field field-name-field-seminar-date field-type-date field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="date datefrom">7 March 2014</div><div class="time timefrom">17:00</div></div></div></div>      <div class="field field-name-field-seminar-location field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/67">L3</a></li></ul></div>    </div>
+    <div class="event-col middle">
+      <div class="field title">
+        <a href="/node/11139" rel="bookmark">Icosahedral clusters: the stem cell of the solid state?</a>
+      </div>
+      <div>
+        <div class="field field-name-field-seminar-speaker field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Jean Taylor</div></div></div>        <div class="field field-name-field-seminar-university field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/2009">Rutgers University</a></li></ul></div>      </div>
+      <div class="ctools-collapsible-container ctools-collapsed"><div class="ctools-collapsible-handle">Abstract</div><div class="ctools-collapsible-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">&lt;p&gt;Recent experimental work has determined the atomic structure of a quasicrystalline Cd-Yb alloy. It highlights the elegant role of polyhedra with icosahedral symmetry. Other work suggests that while chunks of periodic crystals and disordered glass predominate in the solid state, there are many hints of icosahedral clusters. This talk is based on a recent Mathematical Intelligencer article on quasicrystals with Marjorie Senechal.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;The seminar will be followed by a drinks reception and forms part of a longer &lt;a href=&quot;http://www.maths.ox.ac.uk/groups/oxpde/events/women-pdes&quot;&gt;PDE and CoV related Workshop&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;To register for the seminar and drinks reception go to&amp;nbsp;&lt;a href=&quot;http://doodle.com/acw6bbsp9dt5bcwb&quot;&gt;http://doodle.com/acw6bbsp9dt5bcwb&lt;/a&gt;&lt;/p&gt;</div></div></div></div></div>
+          </div>
+    <div class="event-col last">
+      <div class="field field-name-field-seminar-series field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even">OxPDE Special Seminar</li></ul></div>      <div class="field view-all-link">
+        <a href="/events/list/680/all">
+          View all
+        </a>
+      </div>
+            <div class="field feed-link">
+        <a href="webcal://www.maths.ox.ac.uk/events/list/680/all/calendar.ics" class="ical-icon">
+          Add to My Calendar
+        </a>
+      </div>
+    </div>
+      </div>
+
+  
+  
+  </article>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    <article id="node-11039" class="node node-event article even node-full ia-n clearfix" role="article">
+      <header class="node-header">
+    </header>
+  
+  
+  <div class="node-content">
+    <div class="event-col first">
+      <div class="field field-name-field-seminar-date field-type-date field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="date datefrom">29 January 2014</div><div class="time timefrom">15:00</div></div></div></div>      <div class="field field-name-field-seminar-location field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/70">L6</a></li></ul></div>    </div>
+    <div class="event-col middle">
+      <div class="field title">
+        <a href="/node/11039" rel="bookmark">Existence and regularity results for the heat flow of higher dimensional H-systems</a>
+      </div>
+      <div>
+        <div class="field field-name-field-seminar-speaker field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Professor Chiara Leone </div></div></div>        <div class="field field-name-field-seminar-university field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/2311">Universita Degli Studi &#039;Frederic II&#039; di Napoli</a></li></ul></div>      </div>
+      <div class="ctools-collapsible-container ctools-collapsed"><div class="ctools-collapsible-handle">Abstract</div><div class="ctools-collapsible-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="tex2jax"><p>In this talk we will show the existence&nbsp; of a regular "small" weak solution
+to the flow of the higher dimensional H-systems with initial-boundary
+conditions. We also analyze its time asymptotic bahavior and we give a
+stability result.</p></div></div></div></div></div></div>
+          </div>
+    <div class="event-col last">
+      <div class="field field-name-field-seminar-series field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even">OxPDE Special Seminar</li></ul></div>      <div class="field view-all-link">
+        <a href="/events/list/680/all">
+          View all
+        </a>
+      </div>
+            <div class="field feed-link">
+        <a href="webcal://www.maths.ox.ac.uk/events/list/680/all/calendar.ics" class="ical-icon">
+          Add to My Calendar
+        </a>
+      </div>
+    </div>
+      </div>
+
+  
+  
+  </article>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    <article id="node-10992" class="node node-event article odd node-full ia-n clearfix" role="article">
+      <header class="node-header">
+    </header>
+  
+  
+  <div class="node-content">
+    <div class="event-col first">
+      <div class="field field-name-field-seminar-date field-type-date field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="date datefrom">17 January 2014</div><div class="time timefrom">14:00</div><div class="datetimeglue">to</div><div class="time timeuntil">15:30</div></div></div></div>      <div class="field field-name-field-seminar-location field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/67">L3</a></li></ul></div>    </div>
+    <div class="event-col middle">
+      <div class="field title">
+        <a href="/node/10992" rel="bookmark">The positive Jacobian constraint in elasticity theory and orientation-preserving Young measures</a>
+      </div>
+      <div>
+        <div class="field field-name-field-seminar-speaker field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Filip Rindler</div></div></div>        <div class="field field-name-field-seminar-university field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/2663">University of Warwick</a></li></ul></div>      </div>
+      <div class="ctools-collapsible-container ctools-collapsed"><div class="ctools-collapsible-handle">Abstract</div><div class="ctools-collapsible-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="tex2jax"><p>In elasticity theory, one naturally requires
+that the Jacobian determinant of the deformation is positive or even a-priori
+prescribed (for example incompressibility). However, such strongly non-linear
+and non-convex constraints are difficult to deal with in mathematical models.
+In this talk, which is based on joint work with K. Koumatos (Oxford) and E.
+Wiedemann (UBC/PIMS), I will present various recent results on how this
+constraint can be manipulated in subcritical Sobolev spaces, where the
+integrability exponent is less than the dimension.</p>
+<p> In particular, I will give a
+characterization theorem for Young measures under this side constraint, which
+are widely used in the Calculus of Variations to model limits of nonlinear
+functions of weakly converging "generating" sequences. This is in the
+spirit of the celebrated Kinderlehrer--Pedregal Theorem and based on convex
+integration and "geometry" in matrix space.</p>
+<p> Finally, applications to
+the minimization of integral functionals, the theory of semiconvex hulls,
+incompressible extensions, and approximation of weakly orientation-preserving
+maps by strictly orientation-preserving ones in Sobolev spaces are given.</p></div></div></div></div></div></div>
+          </div>
+    <div class="event-col last">
+      <div class="field field-name-field-seminar-series field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even">OxPDE Special Seminar</li></ul></div>      <div class="field view-all-link">
+        <a href="/events/list/680/all">
+          View all
+        </a>
+      </div>
+            <div class="field feed-link">
+        <a href="webcal://www.maths.ox.ac.uk/events/list/680/all/calendar.ics" class="ical-icon">
+          Add to My Calendar
+        </a>
+      </div>
+    </div>
+      </div>
+
+  
+  
+  </article>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    <article id="node-10991" class="node node-event article even node-full ia-n clearfix" role="article">
+      <header class="node-header">
+    </header>
+  
+  
+  <div class="node-content">
+    <div class="event-col first">
+      <div class="field field-name-field-seminar-date field-type-date field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="date datefrom">17 January 2014</div><div class="time timefrom">09:30</div><div class="datetimeglue">to</div><div class="time timeuntil">11:00</div></div></div></div>          </div>
+    <div class="event-col middle">
+      <div class="field title">
+        <a href="/node/10991" rel="bookmark">Analysis of the free-boundary Euler equations</a>
+      </div>
+      <div>
+        <div class="field field-name-field-seminar-speaker field-type-text field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even">Daniel Coutand</div></div></div>        <div class="field field-name-field-seminar-university field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even"><a href="/taxonomy/term/1336">Heriot-Watt University</a></li></ul></div>      </div>
+      <div class="ctools-collapsible-container ctools-collapsed"><div class="ctools-collapsible-handle">Abstract</div><div class="ctools-collapsible-content"><div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-full"><div class="field-items"><div class="field-item even"><div class="tex2jax"></div></div></div></div></div></div>
+          </div>
+    <div class="event-col last">
+      <div class="field field-name-field-seminar-series field-type-taxonomy-term-reference field-label-hidden view-mode-full"><ul class="field-items"><li class="field-item even">OxPDE Special Seminar</li></ul></div>      <div class="field view-all-link">
+        <a href="/events/list/680/all">
+          View all
+        </a>
+      </div>
+            <div class="field feed-link">
+        <a href="webcal://www.maths.ox.ac.uk/events/list/680/all/calendar.ics" class="ical-icon">
+          Add to My Calendar
+        </a>
+      </div>
+    </div>
+      </div>
+
+  
+  
+  </article>
+  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list item-list-pager"><ul class="pager"><li class="pager-current even first">1</li><li class="pager-item odd"><a title="Go to page 2" href="/events/past/680/1990--now?field_seminar_date_value_op=%3C&amp;field_seminar_date_value[max]=&amp;field_seminar_date_value[min]=&amp;field_seminar_date_value[value]=&amp;page=1">2</a></li><li class="pager-item even"><a title="Go to page 3" href="/events/past/680/1990--now?field_seminar_date_value_op=%3C&amp;field_seminar_date_value[max]=&amp;field_seminar_date_value[min]=&amp;field_seminar_date_value[value]=&amp;page=2">3</a></li><li class="pager-item odd"><a title="Go to page 4" href="/events/past/680/1990--now?field_seminar_date_value_op=%3C&amp;field_seminar_date_value[max]=&amp;field_seminar_date_value[min]=&amp;field_seminar_date_value[value]=&amp;page=3">4</a></li><li class="pager-next even"><a title="Go to next page" href="/events/past/680/1990--now?field_seminar_date_value_op=%3C&amp;field_seminar_date_value[max]=&amp;field_seminar_date_value[min]=&amp;field_seminar_date_value[value]=&amp;page=1">next ›</a></li><li class="pager-last odd last"><a title="Go to last page" href="/events/past/680/1990--now?field_seminar_date_value_op=%3C&amp;field_seminar_date_value[max]=&amp;field_seminar_date_value[min]=&amp;field_seminar_date_value[value]=&amp;page=3">last »</a></li></ul></div>  
+  
+      
+<div class="more-link">
+  <a href="/events/past/680/1990--now?field_seminar_date_value_op=%3C&amp;field_seminar_date_value[value]&amp;field_seminar_date_value[min]&amp;field_seminar_date_value[max]">
+    More events  </a>
+</div>
+  
+  
+  
+</div>
+  </div>                </div>
+              
+              <!-- Feed icons (RSS, Atom icons etc -->
+              
+            </section> <!-- /main-content -->
+
+            
+          </div>
+        </div> <!-- /content-column -->
+
+                
+      </div>
+    </div> <!-- /columns -->
+
+    
+    <!-- four-4x25 Gpanel -->
+    
+          <footer id="footer" role="contentinfo">
+        <div id="footer-inner" class="clearfix">
+          <div class="region region-footer"><div class="region-inner clearfix"><div id="block-block-1" class="block block-block no-title odd first last block-count-7 block-region-footer block-1" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><div class="tex2jax"><p><a href="https://twitter.com/OxUniMaths" target="_blank" rel="nofollow"><img alt="Twitter Logo" title="Follow us on twitter" height="81" width="100" style="height: 43px; width: 53px; float: left;" class="media-element file-default file-small-image image-style-thumbnail" src="http://www.maths.ox.ac.uk/system/files/styles/thumbnail/private/media/Twitter_logo_blue.png?itok=OJQQSfAH" /></a></p>
+
+<p><a href="/members/good-practice" rel="nofollow" title="Good Practice"><img alt="LMS Good Practice Scheme Logo" title="The Department is a supporter of the LMS Good Practice Scheme" height="76" width="100" style="width: 66px; height: 50px; float: right;" class="media-element file-small-image image-style-thumbnail" src="http://www.maths.ox.ac.uk/sites/default/files/public/styles/thumbnail/public/media/gps-logo.png?itok=IOP5TxTZ" /><img alt="Athena Swan Bronze Award" title="The Department holds an Athena Swan Bronze Award" height="202.5" width="360" style="line-height: 1.5; text-align: center; height: 55px; width: 100px; float: right; margin-left: 10px; margin-right: 10px;" class="media-element file-default image-style-medium" src="http://www.maths.ox.ac.uk/sites/default/files/public/styles/medium/public/media/athena-swan-bronze-logo.png?itok=yAfeDVwo" /></a></p>
+
+<p style="text-align:center"><a href="/members/it/it-notices-policies/copyright" rel="nofollow" title="Copyright Statement">© Mathematical Institute</a><br>
+	Website <a href="/members/it/it-notices-policies/website-accessibility" rel="nofollow" title="Website Accessibility Statement">Accessibility Statement</a> &amp; <a href="/members/it/it-notices-policies/website-cookies" rel="nofollow" title="Website Cookies">Cookies Statement</a></p>
+</div></div>
+  </div></div></div></div>          <p class="attribute-creator"></p>
+        </div>
+      </footer>
+    
+  </div> <!-- /page -->
+</div> <!-- /texture overlay -->
+  </body>
+</html>

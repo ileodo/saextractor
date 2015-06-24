@@ -1,0 +1,394 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="description" content="
+	What&#8217;s in an IP address?	" />
+	<title>
+	What&#8217;s in an IP address? | Listening for Impact	</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://blogs.it.ox.ac.uk/listeningforimpact/wp-content/themes/oucs-proj-notitle/style.css" />
+		<link rel="pingback" href="http://blogs.it.ox.ac.uk/listeningforimpact/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Listening for Impact &raquo; Feed" href="http://blogs.it.ox.ac.uk/listeningforimpact/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Listening for Impact &raquo; Comments Feed" href="http://blogs.it.ox.ac.uk/listeningforimpact/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Listening for Impact &raquo; What&#8217;s in an IP address? Comments Feed" href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/19/whats-in-an-ip-address/feed/" />
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/listeningforimpact/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/listeningforimpact/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.it.ox.ac.uk/listeningforimpact/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.it.ox.ac.uk/listeningforimpact/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Sifting signal from noise' href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/18/sifting-signal-from-noise/' />
+<link rel='next' title='Fishing with a broken net' href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/26/fishing-with-a-broken-net/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/19/whats-in-an-ip-address/' />
+<link rel='shortlink' href='http://wp.me/p-1w' />
+
+		<style type="text/css" media="screen">
+			#catapult-cookie-bar {
+				display: none;
+				direction: ltr;
+				color: #ddd;
+				min-height: 30px;
+				position: fixed;
+				left: 0;
+				top: 0;
+				width: 100%;
+				z-index: 99999;
+				padding:6px 20px 4px;
+				background-color: #464646;
+				text-align:left;
+			}
+			#catapult-cookie-bar a {
+				color: #fff;;
+			}
+			button#catapultCookie {
+				margin:0 20px;
+				line-height:20px;
+				background:#45AE52;
+				border:none;
+				color: #fff;;
+				padding:4px 12px;
+				border-radius: 3px;
+				cursor: pointer;
+				font-size: 13px;
+				font-weight: bold;
+			}
+		</style><meta id="syntaxhighlighteranchor" name="syntaxhighlighter-version" content="3.1.3" />
+
+<style>
+#branding
+{
+background: #002147  url("http://blogs.it.ox.ac.uk/listeningforimpact/files/2010/11/project-header.png") no-repeat 0px 0px;
+}
+
+</style>
+
+</head>
+
+<body class="single single-post postid-94 single-format-standard">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<div id="site-title">
+					<span>
+						<a href="http://blogs.it.ox.ac.uk/listeningforimpact/" title="Listening for Impact" rel="home">Listening for Impact</a>
+					</span>
+				</div>				
+				<div id="site-description">A JISC funded study on the impact of podcasting from Oxford</div>
+
+										
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu"><ul><li ><a href="http://blogs.it.ox.ac.uk/listeningforimpact/" title="Home">Home</a></li><li class="page_item page-item-312"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/publications/">Publications</a></li><li class="page_item page-item-6"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/the-project/">The Project</a></li></ul></div>
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+
+
+			<div id="post-94" class="post-94 post type-post status-publish format-standard hentry category-quantative category-tech-moderate category-wp2-initial-rapid-analysis">
+			<h2 class="entry-title"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/19/whats-in-an-ip-address/" title="Permalink to What&#8217;s in an IP address?" rel="bookmark">What&#8217;s in an IP address?</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/19/whats-in-an-ip-address/" title="11:01 pm" rel="bookmark"><span class="entry-date">November 19, 2010</span></a> <span class="meta-sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.it.ox.ac.uk/listeningforimpact/author/oucs0028/" title="View all posts by Carl Marshall">Carl Marshall</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>I want to take a moment to talk a little more about the technical disconnect between technical tracking approaches and actual people and their actions, and perhaps float an idea from another field that might be of interest to this discussion.</p>
+<p>First up, we&#8217;ve talked already about how a &#8220;hit&#8221; in a log file is the footprint of a computer left on a server, and how that footprint leaves an IP address. Well, we need to complicate that view a little further to aide understanding&#8230;</p>
+<div id="attachment_114" class="wp-caption aligncenter" style="width: 501px"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/files/2010/11/Blog-Diagrams.005.png"><img class="size-large wp-image-114  " title="Whats behind that IP address" src="http://blogs.it.ox.ac.uk/listeningforimpact/files/2010/11/Blog-Diagrams.005-1024x640.png" alt="There are many possible entities behind a single IP address" width="491" height="307" /></a><p class="wp-caption-text">There are many possible entities behind a single IP address</p></div>
+<p>What the above diagram is illustrating is a range of possible entities behind an IP address. At its root, an Internet Protocol Address is 4 sets of numbers between 0 &amp; 255, joined by a dot/period. This is the means by which, on one level [1], networks are traversed to allow information to find a given destination.<span id="more-94"></span></p>
+<p>At its simplest, this is the address to finding <strong>one</strong> computer/device. Having found this one computer we then have to appreciate that it could be being used by zero or more actual people. Why Zero? Automated programs can be causing our podcasts to be downloaded &#8211; in fact, automated downloading of multiple podcasts is at the heart of the technology. We can&#8217;t assume that one download is being used by just one person, it could be between zero (not listened/viewed) and many people (files passed along, groups watching together, etc).</p>
+<p>So, that&#8217;s at its simplest. However, the nature of the internet where the population of the planet exceeds the available number of IP addresses suggests that there isn&#8217;t a guaranteed one-to-one relationship between addresses and people. However, there are also more computers than there are IP addresses, which means that an IP address could easily mean multiple computers.</p>
+<p>The above diagram gives an idea that multiple people can use a computer, multiple computers can share a router (e.g. typical home broadband use has one IP address for the property, shared amongst all the users and computers in that house) and multiple routers can share the IP address of their Internet Service Provider (ISP). For the latter, if you&#8217;ve heard of Dynamic IP addresses in relation to your own broadband provision, then you likely have a private IP address, and that we would see your download as being from your ISP and it&#8217;s IP address. If you have a Static IP address, then that may apply to your home router, or perhaps even the one computer. We as system administrators and log analysers though, can&#8217;t tell.</p>
+<p>On the plus side though, each &#8220;hit&#8221; is at least one action/download&#8230; most of the time (see posts referencing  http 206 status codes and CDNs).</p>
+<h2>Talking of countries again&#8230;</h2>
+<p>I mentioned geographical information derived from your IP address. Well, I was curious to know what the distribution of IP addresses was compared to the populations of a given country. To do that I looked up population by country in a quick internet search and got&#8230;</p>
+<div id="attachment_110" class="wp-caption aligncenter" style="width: 513px"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/files/2010/11/Screen-shot-2010-11-19-at-11.42.10.png"><img class="size-full wp-image-110 " title="Population by Country" src="http://blogs.it.ox.ac.uk/listeningforimpact/files/2010/11/Screen-shot-2010-11-19-at-11.42.10.png" alt="Population by Country" width="503" height="403" /></a><p class="wp-caption-text">Population by Country</p></div>
+<p>&#8230; and then did a similar pie chart comparing the number of IP addresses allocated to each country&#8230;</p>
+<div id="attachment_111" class="wp-caption aligncenter" style="width: 500px"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/files/2010/11/Screen-shot-2010-11-19-at-11.42.48.png"><img class="size-full wp-image-111 " title="IP addresses by country" src="http://blogs.it.ox.ac.uk/listeningforimpact/files/2010/11/Screen-shot-2010-11-19-at-11.42.48.png" alt="IP addresses by country" width="490" height="435" /></a><p class="wp-caption-text">IP addresses by country</p></div>
+<p>As we can see, America clearly dominate the allocation of IP addresses, and the most populous country in the world (China) appears as a distant second when it comes to IP addresses. Contrast this with the <a title="Sifting Signal From Noise" href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/18/sifting-signal-from-noise/">snapshot I showed you of IP addresses</a> accessing one of our servers in a short timeperiod and you can conclude that it&#8217;s not a consistent percentage of a population accessing content, and that time and trends over time are critical factors to look at for analysis.</p>
+<h2>This sounds a little like TV/Radio audience figures&#8230;</h2>
+<p>This mystery over how many people are represented by an IP address, and indeed how many times a podcast is view/listened to and by how many people per download, caused me to consider the TV and Radio industries. The analog development of these mediums made assessing viewer/listener numbers very challenging as there was no easy feedback mechanism between the broadcaster and the audience. This led to advertisers who were usually paying for these broadcasts to want to know the impact of their advertising, or at least, the potential impact. Various systems have been used over the years, but it fair to say most of them have been based on qualitative methods involving sample audiences and surveys/diary keeping or similar. The <a title="Audience Measurement" href="http://en.wikipedia.org/wiki/Audience_measurement">wikipedia article on Audience Measurement</a> is a reasonable introduction to these methods for the curious.</p>
+<p>It would be interesting if this or a similar project could develop some form of qualitative and/or quantitive measure that could similarly estimate the number of people who have listened/viewed a podcast that has been downloaded. I fear it is beyond our scope at this stage though. One criticism of such an approach as noted by the wikipedia article is:</p>
+<blockquote><p>Diary-based radio ratings in the U.S. may inflate listenership, because it is only measured in 15-minute increments. Listening at any time during a quarter-hour counts as listening for the entire duration, even if the actual time was just for a song or two.</p></blockquote>
+<p>This reflects similar concerns and queries about the unknown usage patterns of people who download podcasts, and the compromises needing to be made to use such an estimate.</p>
+<h2>Finally, another use for IP address analysis</h2>
+<p>It is not uncommon for new IP addresses (new from the point of the observer) to be counted as a metric for measuring growth via new audiences. This is one metric that I have not yet seen mentioned in the TIDSR guides but I think would be valuable to perform as a longitudinal study of our data.</p>
+<p>For those who want to see a few more opinions or get a personal security related viewpoint on IP Address tracing, try reading:</p>
+<ul>
+<li><a href="http://ezinearticles.com/?The-Myth-and-the-Truth-of-the-IP-Address-Tracing&amp;id=1456235">The Myth and the Truth of the IP Address Tracing</a> By Leo Notenboom</li>
+<li><a href="http://news.cnet.com/8301-13554_3-10042206-33.html">What does your IP address say about you?</a> by Michael Horowitz</li>
+</ul>
+<p>Carl</p>
+<p>Footnotes:</p>
+<ol>
+<li>I&#8217;m not going anywhere near the context of physical layer switching and MAC addresses and glossing over Network Address Translation in general. Though as a small point, our Log Files don&#8217;t record enough details to be able to detect a NAT machine as the destination, and even if they did, I&#8217;m not sure this would be particularly useful information.</li>
+</ol>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">
+					Posted in </span> <a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/quantative/" title="View all posts in Quantitative" rel="category tag">Quantitative</a>, <a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-moderate/" title="View all posts in Tech-Moderate" rel="category tag">Tech-Moderate</a>, <a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp2-initial-rapid-analysis/" title="View all posts in WP2: Initial Rapid Analysis" rel="category tag">WP2: Initial Rapid Analysis</a>					
+				</span>
+				<span class="meta-sep">|</span>
+								<span class="comments-link"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/19/whats-in-an-ip-address/#comments" title="Comment on What&#8217;s in an IP address?">2 Comments</a></span>
+							</div><!-- #entry-utility -->
+		</div><!-- #post-94 -->
+
+		
+<!-- You can start editing here. -->
+
+	<h3 id="comments">2 Responses to &#8220;What&#8217;s in an IP address?&#8221;</h3>
+
+	<div class="navigation">
+		<div class="alignleft"></div>
+		<div class="alignright"></div>
+	</div>
+
+	<ol class="commentlist">
+			<li class="pingback even thread-even depth-1" id="comment-14">
+				<div id="div-comment-14" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/18/sifting-signal-from-noise/' rel='external nofollow' class='url'>Sifting signal from noise | Listening for Impact</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/19/whats-in-an-ip-address/comment-page-1/#comment-14">
+			November 26, 2010 at 6:44 pm</a>		</div>
+
+		<p>[...] this is an anonymised (for this posting) visitor IP address. Read What&#8217;s In An IP Address to learn more about what this can [...]</p>
+
+		<div class="reply">
+					</div>
+				</div>
+		</li><!-- #comment-## -->
+		<li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-82">
+				<div id="div-comment-82" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/08/basic-log-file-analysis-with-analog/' rel='external nofollow' class='url'>Basic Log File Analysis With Analog | Listening for Impact</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/19/whats-in-an-ip-address/comment-page-1/#comment-82">
+			January 27, 2011 at 11:03 am</a>		</div>
+
+		<p>[...] files from you&#8221; (their emphasis, not ours) we already know this is wrong as detailed in What&#8217;s In An IP Address. Given the large number (Approximately 24,000 distinct IP addresses were found in this data [...]</p>
+
+		<div class="reply">
+					</div>
+				</div>
+		</li><!-- #comment-## -->
+	</ol>
+
+	<div class="navigation">
+		<div class="alignleft"></div>
+		<div class="alignright"></div>
+	</div>
+ 
+
+
+	
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+		<li id="recent-posts-4" class="widget-container widget_recent_entries">		<h3 class="widget-title">Latest Updates</h3>		<ul>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/2013/04/11/368/" title="Archived">Archived</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/2011/07/07/the-joy-of-stats/" title="The joy of stats">The joy of stats</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/2011/05/24/the-impact-of-cookie-law/" title="The impact of Cookie law">The impact of Cookie law</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/2011/05/23/impact-and-embedding-of-digitised-resources/" title="Impact and Embedding of Digitised Resources">Impact and Embedding of Digitised Resources</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/2011/04/12/what-staff-think-of-oxford%e2%80%99s-podcasting-activities/" title="What Staff think of Oxford’s Podcasting Activities">What Staff think of Oxford’s Podcasting Activities</a>
+						</li>
+				</ul>
+		</li><li id="categories-4" class="widget-container widget_categories"><h3 class="widget-title">Navigate by Category</h3>		<ul>
+	<li class="cat-item cat-item-199"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/jisc/" title="View all posts filed under JISC">JISC</a> (1)
+</li>
+	<li class="cat-item cat-item-299"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/" title="View all posts filed under Project">Project</a> (20)
+<ul class='children'>
+	<li class="cat-item cat-item-581"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp1-project-team/" title="View all posts filed under WP1: Project Team">WP1: Project Team</a> (3)
+</li>
+	<li class="cat-item cat-item-582"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp2-initial-rapid-analysis/" title="View all posts filed under WP2: Initial Rapid Analysis">WP2: Initial Rapid Analysis</a> (12)
+</li>
+	<li class="cat-item cat-item-583"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp3-website-enhancement/" title="View all posts filed under WP3: Website Enhancement">WP3: Website Enhancement</a> (3)
+</li>
+	<li class="cat-item cat-item-586"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp6-publishing-to-more-channels/" title="View all posts filed under WP6: Publishing to more channels">WP6: Publishing to more channels</a> (2)
+</li>
+	<li class="cat-item cat-item-587"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp7-embedding-toolkit/" title="View all posts filed under WP7: Embedding Toolkit">WP7: Embedding Toolkit</a> (2)
+</li>
+	<li class="cat-item cat-item-588"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp8-project-evaluation/" title="View all posts filed under WP8: Project Evaluation">WP8: Project Evaluation</a> (1)
+</li>
+	<li class="cat-item cat-item-589"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp9-final-report/" title="View all posts filed under WP9: Final Report">WP9: Final Report</a> (1)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-537"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/qualitative/" title="View all posts filed under Qualitative">Qualitative</a> (6)
+</li>
+	<li class="cat-item cat-item-538"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/quantative/" title="View all posts filed under Quantitative">Quantitative</a> (12)
+<ul class='children'>
+	<li class="cat-item cat-item-542"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/quantative/statistics/" title="View all posts filed under Statistics">Statistics</a> (6)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-541"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-heavy/" title="View all posts filed under Tech-Heavy">Tech-Heavy</a> (6)
+</li>
+	<li class="cat-item cat-item-539"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-lite/" title="View all posts filed under Tech-Lite">Tech-Lite</a> (10)
+</li>
+	<li class="cat-item cat-item-540"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-moderate/" title="View all posts filed under Tech-Moderate">Tech-Moderate</a> (7)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (3)
+</li>
+		</ul>
+</li><li id="search-4" class="widget-container widget_search"><h3 class="widget-title">Search the site</h3><form role="search" method="get" id="searchform" action="http://blogs.it.ox.ac.uk/listeningforimpact">
+    <div><label class="screen-reader-text" for="s">Search for:</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Search" />
+    </div>
+</form></li><li id="tag_cloud-4" class="widget-container widget_tag_cloud"><h3 class="widget-title">Category Cloud</h3><div class="tagcloud"><a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/jisc/' class='tag-link-199' title='1 topic' style='font-size: 8pt;'>JISC</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/' class='tag-link-299' title='3 topics' style='font-size: 13.185185185185pt;'>Project</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/qualitative/' class='tag-link-537' title='6 topics' style='font-size: 17.506172839506pt;'>Qualitative</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/quantative/' class='tag-link-538' title='12 topics' style='font-size: 22pt;'>Quantitative</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/quantative/statistics/' class='tag-link-542' title='6 topics' style='font-size: 17.506172839506pt;'>Statistics</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-heavy/' class='tag-link-541' title='6 topics' style='font-size: 17.506172839506pt;'>Tech-Heavy</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-lite/' class='tag-link-539' title='10 topics' style='font-size: 20.79012345679pt;'>Tech-Lite</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-moderate/' class='tag-link-540' title='7 topics' style='font-size: 18.37037037037pt;'>Tech-Moderate</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/uncategorized/' class='tag-link-1' title='3 topics' style='font-size: 13.185185185185pt;'>Uncategorized</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp1-project-team/' class='tag-link-581' title='3 topics' style='font-size: 13.185185185185pt;'>WP1: Project Team</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp2-initial-rapid-analysis/' class='tag-link-582' title='12 topics' style='font-size: 22pt;'>WP2: Initial Rapid Analysis</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp3-website-enhancement/' class='tag-link-583' title='3 topics' style='font-size: 13.185185185185pt;'>WP3: Website Enhancement</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp6-publishing-to-more-channels/' class='tag-link-586' title='2 topics' style='font-size: 11.111111111111pt;'>WP6: Publishing to more channels</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp7-embedding-toolkit/' class='tag-link-587' title='2 topics' style='font-size: 11.111111111111pt;'>WP7: Embedding Toolkit</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp8-project-evaluation/' class='tag-link-588' title='1 topic' style='font-size: 8pt;'>WP8: Project Evaluation</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp9-final-report/' class='tag-link-589' title='1 topic' style='font-size: 8pt;'>WP9: Final Report</a></div>
+</li><li id="meta-4" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="https://blogs.it.ox.ac.uk/listeningforimpact/wp-login.php?action=shibboleth">Log in</a></li>
+			<li><a href="http://blogs.it.ox.ac.uk/listeningforimpact/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogs.it.ox.ac.uk/listeningforimpact/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>						</ul>
+</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+			<div id="footer-widget-area" role="complementary">
+					<div id="first" class="widget-area">
+						<ul class="xoxo">
+							<li id="archives-4" class="widget-container widget_archive"><h3 class="widget-title">In the past</h3>		<ul>
+			<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2013/04/' title='April 2013'>April 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2011/07/' title='July 2011'>July 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2011/05/' title='May 2011'>May 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2011/04/' title='April 2011'>April 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2011/03/' title='March 2011'>March 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2011/02/' title='February 2011'>February 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/' title='December 2010'>December 2010</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/' title='November 2010'>November 2010</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/10/' title='October 2010'>October 2010</a></li>
+		</ul>
+</li>						</ul>
+					</div><!-- #first .widget-area -->
+
+				<div id="second" class="widget-area">
+					<ul class="xoxo">
+						<li id="pages-3" class="widget-container widget_pages"><h3 class="widget-title">Site Pages</h3>		<ul>
+			<li class="page_item page-item-312"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/publications/">Publications</a></li>
+<li class="page_item page-item-6"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/the-project/">The Project</a></li>
+		</ul>
+		</li>					</ul>
+				</div><!-- #second .widget-area -->
+
+				<div id="third" class="widget-area">
+					<ul class="xoxo">
+						<li id="calendar-4" class="widget-container widget_calendar"><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>November 2010</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/10/" title="View posts for October 2010">&laquo; Oct</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/" title="View posts for December 2010">Dec &raquo;</a></td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td>
+	</tr>
+	<tr>
+		<td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td>
+	</tr>
+	<tr>
+		<td>15</td><td><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/16/" title="A sky full of stars">16</a></td><td>17</td><td><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/18/" title="Connecting the dots, Sifting signal from noise">18</a></td><td><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/19/" title="What&#8217;s in an IP address?">19</a></td><td>20</td><td>21</td>
+	</tr>
+	<tr>
+		<td>22</td><td>23</td><td>24</td><td>25</td><td><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/26/" title="Fishing with a broken net">26</a></td><td>27</td><td>28</td>
+	</tr>
+	<tr>
+		<td><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/29/" title="News Coverage Analysis, Feedback from Oxford Students (Part 1)">29</a></td><td>30</td>
+		<td class="pad" colspan="5">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li>					</ul>
+				</div><!-- #third .widget-area -->
+
+
+			</div><!-- #footer-widget-area -->
+
+			<div id="site-info">
+				<p>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/" title="Listening for Impact" rel="home">
+					Listening for Impact				</a> </p>
+				<p class="disclaimer" >The views expressed on this blog are those of the project team and not necessarily those of the University of Oxford IT Services.</p>
+			</div>
+
+			<div id="site-generator">powered by <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">WordPress</a><br/>
+      <a href="http://blogs.oucs.ox.ac.uk/">IT Services Blogs</a> hosted by <a href="http://www.it.ox.ac.uk/" title="University of Oxford IT Services">University of Oxford IT Services</a>
+			</div>
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!catapultReadCookie("catAccCookies")){//If the cookie has not been set
+				jQuery("#catapult-cookie-bar").show();
+							}
+		});
+	</script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/listeningforimpact/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js?ver=1.8'></script>
+<!--stats_footer_test--><div id="catapult-cookie-bar">This site uses cookies<button id="catapultCookie" tabindex=1 onclick="catapultAcceptCookies();">Okay, thanks</button><a tabindex=1 href="http://blogs.it.ox.ac.uk/listeningforimpact/cookie-policy">Find out more</a></div>
+</body>
+</html>

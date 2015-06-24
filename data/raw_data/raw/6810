@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>TERMINALFOUR Site Manager - Login</title>
+<meta name="robots" content="noindex, nofollow" />
+<link rel="SHORTCUT ICON" href="/terminalfour/skin/SM/static/common/ico/t4.ico"/>
+<link href="/terminalfour/skin/SM/static/common/global.css" rel="stylesheet" type="text/css" media="screen" /><!--[if lte IE 6]><link href="/terminalfour/skin/SM/static/common/iefix.css" rel="stylesheet" type="text/css" media="screen" /><style type="text/css">#wrap-login, h1.logo { behavior: url('/terminalfour/skin/SM/static/common//iepngfix.htc') }</style><![endif]--><!--[if lt IE 6]><link href="/terminalfour/skin/SM/static/common/ielegacy.css" rel="stylesheet" type="text/css" media="screen" /><![endif]--><link href="/terminalfour/skin/SM/static/common/print.css" rel="stylesheet" type="text/css" media="print" />
+<script type="text/javascript" src="/terminalfour/skin/SM/static/common/BrowserSniffer.js"></script>
+<script type="text/javascript" src="/terminalfour/skin/SM/static/common/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/terminalfour/skin/SM/static/common/jquery.cookie.js"></script>
+<script type="text/javascript" src="/terminalfour/skin/SM/static/common/jQueryGrowl.js"></script>
+<script type="text/javascript">//<![CDATA[
+var $j = jQuery.noConflict();
+function doLoad ()
+{
+	var oUsername;
+ 
+	if (is_ie4)
+		oUsername = document.all["username"];
+	else if (is_ie5up || is_nav5up)
+		oUsername = document.getElementById ("username");
+	if (oUsername)
+	oUsername.focus ();	
+}
+$j(document).ready(function(){$j('input#login-username').focus();if(window.location.search != ""){$j.cookie('redirectUrl', window.location.pathname+window.location.search, {});}})
+//]]></script>
+<script type="text/javascript">
+//<![CDATA[
+function setLoginOption(v){$j('#sSelectedContext').val(v);}
+//]]></script>
+</head>
+<body onload="doLoad ();" class="login">
+<form action="SiteManager" method="post" id="loginForm">
+<input type="hidden" name="ctfn" value="internal"/>
+<input type="hidden" name="intF" value="10"/>
+<div id="wrap-login"><h1 class="login-title"><span>TERMINALFOUR Site Manager</span></h1><div class="login-customlogo"></div><div id="login-mainForm"><div class="login-inputRow"><label for="login-username" style="width:80px;">Username</label> <input type="text" value="" name="login_un" id="login-username"/></div><div class="login-inputRow"><label for="login-password" style="width:80px;">Password</label> <input type="password" value="" name="login_pwd" id="login-password"/></div><div class="login-inputRow ar">
+<button  style="cursor:pointer;cursor:hand;" type="submit">Login</button></div></div>
+<p id="login-footer" style="clear:both;">Copyright &copy; All Rights Reserved 1999-2011, <a href="http://www.terminalfour.com" target="_blank"><strong>TERMINAL</strong>FOUR Solutions Ltd.</a></p></div>
+<script type="text/javascript">//<![CDATA[
+if (document.getElementById)
+{
+	var oTable = document.getElementById ("mainTable");
+	if (oTable)
+		oTable.style.height=document.body.clientHeight;
+}
+//	make sure the server knows which context we've selected
+var oSelected = document.createElement ('input');
+var oForm = document.getElementById ('loginForm');
+oSelected.setAttribute ('type','hidden');
+oSelected.setAttribute ('id', 'sSelectedContext');
+oSelected.setAttribute ('name','sSelectedContext');
+oSelected.setAttribute ('value', 'local');
+var oForm = document.getElementById ('loginForm');
+oForm.appendChild (oSelected);
+//]]></script>
+</form>
+<!-- End Main Placeholding Table --> 
+</body>
+</html>

@@ -1,0 +1,453 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <title>Secondments - University of Oxford</title>
+<!-- three column -->
+
+    <link rel="icon" type="image/gif" href="/media/global/wwwadminoxacuk/styleassets/images/favicon.gif" />
+    <link rel="shortcut icon" type="image/gif" href="/media/global/wwwadminoxacuk/styleassets/images/favicon.gif" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Cache-Control" content="max-age=10800" />
+    <meta name="description" content="Secondments, Current vacancies at the University of Oxford" />
+    <meta name="keywords" content="university of oxford, vacancies, jobs, vacancy, job, Oxford University, opportunities, research, posts, academic, professorships, lecturerships, lectureships, AC, " />
+    <meta http-equiv="imagetoolbar" content="No" />
+    <meta name="DC.Author" content="Personnel Services" />
+    <meta name="DC.Coverage" content="unlimited" />
+    <meta name="DC.Creator" content="University of Oxford" />
+    <meta name="DC.Date.modified" content="24 Apr 14" />
+    <meta name="DC.Description" content="Secondments, Current vacancies at the University of Oxford" />
+    <meta name="DC.Format" content="application/xhtml" />
+    <meta name="DC.Language" content="en" />
+    <meta name="DC.Publisher" content="University of Oxford" />
+    <meta name="DC.Rights" content="Copyright University of Oxford" />
+    <meta name="DC.subject" content="Secondments, university of oxford, vacancies, jobs, vacancy, job, Oxford University, opportunities, research, posts, academic, professorships, lecturerships, lectureships, AC, " />
+    <meta name="DC.title" content="Secondments, Current vacancies at the University of Oxford" />
+    
+    <!-- Add NO ARCHIVE meta tag if required -->
+    
+    <script type="text/javascript">
+var ga_array = "oxweb";
+/*
+if (typeof [['_setAccount', 'UA-1979755-1'],['_setDomainName', 'ox.ac.uk']] != "undefined")
+{
+	ga_array = [['_setAccount', 'UA-1979755-1'],['_setDomainName', 'ox.ac.uk']];
+}
+else
+{
+	ga_array = [['_setAccount', "[['_setAccount', 'UA-1979755-1'],['_setDomainName', 'ox.ac.uk']]"]];
+}*/
+</script>
+    <!-- javascript file includes -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/jquery.js">
+</script><!-- jquery -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/jquery.clickOrEnter.js">
+</script><!-- jquery.clickOrEnter.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/all.js">
+</script><!-- all.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/page_setup.js">
+</script><!-- page_setup.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/quicklinks.js">
+</script><!-- quicklinks.js -->
+
+    <!-- Related Content Advanced -->
+    
+    
+    <!-- CSS file combined from subversion-->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/all-t4-production.css" />
+    <!-- CSS file for FAQ-->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/FAQ-new.css" />
+    <!-- CSS for Gl More/Less -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/togglePanel.css" />
+    <!-- CSS for general bugFixing -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/generalBugFix.css" />
+    <!-- CSS for oxweb header section nav underline -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/header-section.css" />
+    <!-- CSS for A to Z -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/AtoZ.css" />
+    <!-- CSS for White tables in waf forms -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/waf-white-table.css" />
+
+    
+<!-- Oxweb find-it css --><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwoxacuk/localsites/studentgateway/styleassets/newheader.css" />
+
+    <!-- note: the 'stripy' IE bug seems to have been caused by something in alumni/nav_primary.css,
+    not a change to the main nav_primary. The difference is that before the width was defined on
+    #primary-nav ul  (defined differently for the different images that go into it) but now is
+    not. With width on #primary-nav ul this goes away -->
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/prinav.css" />
+
+
+   <!--[if IE]><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/ie-oxweb.css" /><![endif]-->
+
+    <!--[if IE 6]><script src="/media/global/wwwadminoxacuk/styleassets/js/ie6.js" type="text/javascript"></script><script type="text/javascript" src="/media/global/wwwoxacuk/styleassets/js/pngfix.jquery.js">
+</script><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/ie6.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/togglePanel-IE6.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/AtoZ-IE6_from_production.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/ie6-oxweb.css" /><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwoxacuk/styleassets/ie6.css" /><![endif]-->
+    <!--[if IE 6]><script type="text/javascript" src="/media/global/wwwoxacuk/styleassets/ie6hover.js">
+</script><![endif]-->
+
+    
+    <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwoxacuk/styleassets/ie8.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/IE8-oxweb.css" /><![endif]-->
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/handheld.css" media="handheld" />
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/print.css" media="print" />
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwoxacuk/localsites/studentgateway/styleassets/newheaderprint.css" media="print" />
+
+<link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/oxonly_fix_padlocks.css" media="all" />
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/ie7.css" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwoxacuk/styleassets/ie7.css" /><![endif]-->    
+  </head>
+
+  <body class="section5311">
+ 
+        <!-- header content on page -->
+    <div id="header-wrapper">
+      <div id="header">
+      <div id="ie-min-width1">
+      <div id="ie-min-width2">
+        <ul id="access-links">
+          <li><a id="skipnav" href="#primary-content" accesskey="s">Start of main content</a></li>
+        </ul>
+
+        <div id="logos">
+          <span class="screenonly">
+            <a id="logo" href="http://www.ox.ac.uk">
+              <img src="/media/global/wwwoxacuk/styleassets/logo.gif" alt="University of Oxford" height="78" width="251" class="floated"  />
+            </a>
+          </span>
+          <span class="printonly">
+            <img src="/media/global/wwwoxacuk/styleassets/logo.gif" alt="University of Oxford" height="78" width="251" class="floated"  />
+          </span>
+        </div>
+
+        <div class="find-it-ox">
+          <ul id="shortcuts">
+            <li class="first"><a href="http://www.ox.ac.uk/staff/index.html">Staff</a></li>
+            <li><a href="http://www.ox.ac.uk/students/">Students</a></li>
+            <li><a href="http://www.alumni.ox.ac.uk/">Alumni</a></li>
+            <li><a href="http://www.ox.ac.uk/media/index.html">Media</a></li>
+          </ul>
+          <div class="forms">
+ 		<form id="searchform" action="http://www2.admin.ox.ac.uk/search_multiplex/multiplex.php" method="get">
+ <div>
+  <label for="searchinput">Search</label>
+
+  <input type="text" name="q" id="searchinput" value="Enter search term" />
+  <input type="image" name="submit" alt="Search" src="/media/global/wwwadminoxacuk/styleassets/images/button_search.gif" class="searchbutton" />
+  <input type="hidden" name="access" value="p" />
+  <input type="hidden" name="output" value="xml_no_dtd" />
+  <input type="hidden" name="ie" value="UTF-8" />
+  <input type="hidden" name="client" value="oxford" />
+  <input type="hidden" name="proxystylesheet" value="admin-dev" />
+  <input type="hidden" name="subsite" value="REPLACE" />
+  <input type="hidden" name="subsitename" value="REPLACE WITH SITE NAME" />
+
+  <fieldset>
+
+    <!-- <label for="search-type" class="radio">
+      <input id="search-type" class="radio radio-first" type="radio" 
+             name="search-type" value="subsite" 
+             checked="checked" 
+      />This site</label> -->
+    <label for="search-type2" class="radio">
+      <input id="search-type2" class="radio" type="radio" 
+             name="search-type" value="pages"  
+             checked="checked"
+      />University of Oxford</label>
+    <label for="search-type3" class="radio">
+      <input id="search-type3" class="radio" type="radio" 
+             name="search-type" value="people" 
+      />People</label>
+
+  </fieldset>
+ </div>
+</form>
+ <!-- pull in search_box content item -->
+<!--           <form id="quick-links" method="post" action="http://www.ox.ac.uk/applications/relocate.rm">
+             <div>
+               <label for="quick-link">Quick link</label>
+<select id="quick-link" name="location">
+<option selected="selected" value="">Quick links</option>
+<option value="http://www.ox.ac.uk/blogs.html">Blogs</option>
+<option value="http://www.ox.ac.uk/subsite/chaplains/chaplains/index.html">Chaplains</option>
+<option value="http://www.admin.ox.ac.uk/councilsec/governance/governancestructures/theuniversityasacharity/">Charitable status</option>
+<option value="http://www.ox.ac.uk/contact">Contact Search</option>
+<option value="http://www.ox.ac.uk/about_the_university/introducing_oxford/oxford_faq/index.html">FAQ</option>
+<option value="http://www.ox.ac.uk/feesandfunding/">Fees and Funding (Student)</option>
+<option value="http://www.admin.ox.ac.uk/foi/">Freedom of Information</option>
+<option value="http://www.ox.ac.uk/it/index.html">IT at Oxford</option>
+<option value="http://itunes.ox.ac.uk">iTunes U</option>
+<option value="http://www.ox.ac.uk/about_the_university/jobs/index.html">Jobs and Vacancies</option>
+<option value="http://www.ox.ac.uk/students/academic/lectures">Lecture lists</option>
+<option value="http://www.ox.ac.uk/research/libraries/index.html">Libraries</option>
+<option value="http://www.ox.ac.uk/students/shw/health/meningitis/">Meningitis information</option>
+<option value="http://www.ox.ac.uk/about_the_university/museums_and_collections/index.html">Museums and Collections</option>
+<option value="https://owa.nexus.ox.ac.uk/">Nexus login</option>
+<option value="http://www.ox.ac.uk/subsite/olympics/olympics/index.html">Olympics</option>
+<option value="http://www.admissions.ox.ac.uk/opendays/">Open days</option>
+<option value="http://www.ox.ac.uk/about_the_university/introducing_oxford/oxford_glossary/index.html">Oxford Glossary</option>
+<option value="http://www.oxforduniversityimages.com">Oxford University Image Library</option>
+<option value="http://www.ox.ac.uk/subsite/oxford_university_press/oxford_university_press/index.html">OUP - Oxford University Press</option>
+<option value="http://www.admin.ox.ac.uk/councilsec/compliance/dataprotection/privacypolicy/">Privacy Policy</option>
+<option value="http://www.ox.ac.uk/admissions/prospectuses.html">Prospectuses</option>
+<option value="http://www.ox.ac.uk/staff/about_the_university/services_az/index.html">Services directory</option>
+<option value="http://www.ox.ac.uk/about_the_university/university_year/dates_of_term.html">Term dates</option>
+<option value="http://weblearn.ox.ac.uk/">WebLearn</option>
+</select>
+               <input type="image" class="searchbutton" alt="go" src="/media/global/wwwoxacuk/styleassets/button_go.gif"/>
+             </div>
+           </form> -->
+
+<form id="quick-links" action="">
+<div class="quicklinks_menu quicklinks_tertiary"> <!-- or secondary? -->
+<div class="quicklinks_menu_inner">
+<div class="quicklinks_menu_inner2">
+
+<ul>
+<li><a href="">Quick Links</a></li>
+<li><a href="http://www.ox.ac.uk/public-affairs/social-media-hub">Blogs</a></li>
+<li><a href="http://www.ox.ac.uk/students/welfare/chaplaincy">Chaplains</a></li>
+<li><a href="http://www.admin.ox.ac.uk/councilsec/governance/governancestructures/theuniversityasacharity/">Charitable status</a></li>
+<li><a href="http://www.ox.ac.uk/staff">Contact Search</a></li>
+<li><a href="http://www.ox.ac.uk/about/facts-and-figures/faqs">FAQ</a></li>
+<li><a href="http://www.ox.ac.uk/students/fees-funding/">Fees and Funding (Student)</a></li>
+<li><a href="http://www.admin.ox.ac.uk/councilsec/compliance/foi/">Freedom of Information</a></li>
+<li><a href="http://www.it.ox.ac.uk/want/help">IT at Oxford</a></li>
+<li><a href="http://www.ox.ac.uk/itunes-u">iTunes U</a></li>
+<li><a href="http://www.ox.ac.uk/about/jobs/index.html">Jobs and Vacancies</a></li>
+<li><a href="http://www.ox.ac.uk/students/academic/guidance/lectures">Lecture lists</a></li>
+<li><a href="http://www.ox.ac.uk/research/libraries">Libraries</a></li>
+<li><a href="http://www.ox.ac.uk/students/welfare/health/emergencies">Meningitis information</a> </li>
+<li><a href="http://www.ox.ac.uk/visitors/visiting-oxford/visiting-museums-libraries-places">Museums and Collections</a></li>
+<li><a href="https://owa.nexus.ox.ac.uk/">Nexus login</a></li>
+<li><a href="http://www.ox.ac.uk/about/oxford-people/Oxford-at-the-Olympics">Olympics</a></li>
+<li><a href="http://www.ox.ac.uk/admissions/undergraduate/open-days-outreach/open-events-and-visiting/university-open-days">Open days</a></li>
+<li><a href="http://www.ox.ac.uk/about/organisation/history/oxford-glossary">Oxford Glossary</a></li>
+<li><a href="http://www.oxforduniversityimages.com">Oxford University Image Library</a></li>
+<li><a href="http://www.ox.ac.uk/about/organisation/oxford-university-press">OUP - Oxford University Press</a></li>
+<li><a href="http://www.admin.ox.ac.uk/councilsec/compliance/dataprotection/privacypolicy/">Privacy Policy</a></li>
+<li><a href="http://www.ox.ac.uk/admissions">Prospectuses</a></li>
+<li><a href="http://www.ox.ac.uk/staff/about_the_university/services_az">Services directory</a></li>
+<li><a href="http://www.ox.ac.uk/about/facts-and-figures/dates-of-term">Term dates</a></li>
+<li><a href="http://weblearn.ox.ac.uk/">WebLearn</a></li>
+</ul>
+
+</div>
+</div>
+</div>
+</form>
+         <div class="clear"></div>
+    </div></div>
+    </div>
+        
+        <!-- Primary Nav -->
+
+    <div class="grouped" id="primary-nav">
+      <ul id="nav">
+        <li id="nav-admissions"><a href="http://www.ox.ac.uk/admissions/index.html">Admissions</a>
+        <ul>
+          <li><a href="http://www.ox.ac.uk/admissions/undergraduate_courses/index.html">Undergraduate courses</a></li>
+          <li><a href="http://www.ox.ac.uk/admissions/postgraduate_courses/index.html">Graduate courses</a></li>
+          <li><a href="http://www.ox.ac.uk/admissions/international_students/index.html">International students</a></li>
+          <li><a href="http://www.ox.ac.uk/admissions/lifelong_learning/index.html">Lifelong Learning</a></li>
+          <li><a href="http://www.ox.ac.uk/admissions/online_and_distance_courses/index.html">Online and distance courses</a></li>
+          <li><a href="http://www.ox.ac.uk/admissions/admissions_i/index.html">Admissions i</a></li>
+        </ul>
+      </li>
+      <li id="nav-divisions"><a href="http://www.ox.ac.uk/divisions/index.html">Divisions</a>
+        <ul>
+          <li><a href="http://www.ox.ac.uk/divisions/humanities.html">Humanities</a></li>
+          <li><a href="http://www.ox.ac.uk/divisions/mpls.html">Mathematical, Physical &amp; Life Sciences</a></li>
+          <li><a href="http://www.ox.ac.uk/divisions/medical_sciences.html">Medical Sciences</a></li>
+          <li><a href="http://www.ox.ac.uk/divisions/social_sciences.html">Social Sciences</a></li>
+          <li><a href="http://www.ox.ac.uk/divisions/department_az.html">Department A-Z</a></li>
+        </ul>
+      </li>
+      <li id="nav-colleges"><a href="http://www.ox.ac.uk/colleges/index.html">Colleges</a>
+        <ul>
+          <li><a href="http://www.ox.ac.uk/colleges/colleges_and_halls_az/index.html">Colleges and Halls A-Z</a></li>
+          <li><a href="http://www.ox.ac.uk/colleges/the_collegiate_system/index.html">The collegiate system</a></li>
+          <li><a href="http://www.ox.ac.uk/colleges/choosing_a_college/index.html">Choosing a college</a></li>
+          <li><a href="http://www.ox.ac.uk/colleges/student_comments/index.html">Student comments</a></li>
+          <li><a href="http://www.ox.ac.uk/colleges/map_of_the_colleges_and_halls/index.html">Map of the Colleges and Halls</a></li>
+        </ul>
+      </li>
+      <li id="nav-visitorsandfriends"><a href="http://www.ox.ac.uk/visitors_friends/index.html">Visitors &amp; Friends</a>
+        <ul>
+          <li><a href="http://www.ox.ac.uk/visitors_friends/whats_on/index.html">What's On</a></li>
+          <li><a href="http://www.ox.ac.uk/visitors_friends/visiting_the_university/index.html">Visiting the University</a></li>
+          <li><a href="http://www.ox.ac.uk/visitors_friends/maps_and_directions/index.html">Maps and Directions</a></li>
+          <li><a href="http://www.ox.ac.uk/visitors_friends/get_involved/index.html">Get Involved</a></li>
+          <li><a href="http://www.ox.ac.uk/visitors_friends/oxford_in_the_community/index.html">Oxford in the community</a></li>
+        </ul>
+      </li>
+      <li id="nav-international"><a href="http://www.ox.ac.uk/international/index.html">International</a>
+        <ul>
+          <li><a href="http://www.ox.ac.uk/international/oxford_an_international_university/index.html">Oxford: an international university</a></li>
+          <li><a href="http://www.ox.ac.uk/international/oxford_around_the_globe/index.html">Oxford Around the Globe</a></li>
+          <li><a href="http://www.ox.ac.uk/international/international_collaboration_and_research/index.html">International Collaboration and Research</a></li>
+          <li><a href="http://www.ox.ac.uk/international/international_experiences_for_students/index.html">International Experiences for Students</a></li>
+          <li><a href="http://www.ox.ac.uk/international/support_for_international_students_and_staff/index.html">Support for International Students and Staff</a></li>
+          <li><a href="http://www.ox.ac.uk/international/international_strategy_office/index.html">International Strategy Office</a></li>
+        </ul>
+      </li>
+      <li id="nav-research"><a href="http://www.ox.ac.uk/research/index.html">Research</a>
+        <ul>
+          <li><a href="http://www.ox.ac.uk/research/about_research_at_oxford/index.html">About Research at Oxford</a></li>
+          <li><a href="http://www.ox.ac.uk/research/humanities/index.html">Research in the Humanities</a></li>
+          <li><a href="http://www.ox.ac.uk/research/mathematical_physical_life_sciences/index.html">Research in the Mathematical, Physical &amp; Life Sciences</a></li>
+          <li><a href="http://www.ox.ac.uk/research/medical_sciences/index.html">Research in the Medical Sciences</a></li>
+          <li><a href="http://www.ox.ac.uk/research/social_sciences/index.html">Research in the Social Sciences</a></li>
+          <li><a href="http://www.ox.ac.uk/research/research_vision_and_strategy/index.html">Research vision and strategy</a></li>
+          <li><a href="http://www.ox.ac.uk/research/research_impact/index.html">Research impact</a></li>
+          <li><a href="http://www.ox.ac.uk/research/support_for_researchers/index.html">Support for researchers</a></li>
+          <li><a href="http://partnership.ox.ac.uk/">Partnership</a></li>
+          <li><a href="http://www.ox.ac.uk/research/rae_2008_results/index.html">RAE 2008 results</a></li>
+          <li><a href="http://www.ox.ac.uk/research/libraries/index.html">Libraries</a></li>
+        </ul>
+      </li>
+      <li id="nav-enterprise"><a href="http://partnership.ox.ac.uk/">Partnership</a>
+        <ul>
+          <li><a href="http://partnership.ox.ac.uk/expertise-and-knowledge/">Expertise and Knowledge</a></li>
+          <li><a href="http://partnership.ox.ac.uk/facilities-and-resources/">Facilities and Resources</a></li>
+          <li><a href="http://partnership.ox.ac.uk/partnerships/">Research and Partnerships</a></li>
+          <li><a href="http://partnership.ox.ac.uk/category/case-studies/">Case Studies</a></li>
+          <li><a href="http://partnership.ox.ac.uk/category/news-events/">News and Events</a></li>
+        </ul>
+      </li>
+      <li id="nav-abouttheuniversity"><a href="http://www.ox.ac.uk/about_the_university/index.html">About the University</a>
+        <ul>
+          <li><a href="http://www.ox.ac.uk/about_the_university/introducing_oxford/index.html">Welcome from the Chancellor</a></li>
+          <li><a href="http://www.ox.ac.uk/about_the_university/facts_and_figures/index.html">Facts and Figures</a></li>
+          <li><a href="http://www.ox.ac.uk/about_the_university/oxford_people/index.html">Oxford People</a></li>
+          <li><a href="http://www.ox.ac.uk/about_the_university/museums_and_collections/index.html">Museums and Collections</a></li>
+          <li><a href="http://www.ox.ac.uk/about_the_university/university_year/index.html">The University Year</a></li>
+          <li><a href="http://www.ox.ac.uk/about_the_university/jobs/index.html">Jobs and Vacancies at Oxford University</a></li>
+        </ul>
+      </li>
+    </ul>
+</div>
+</div>
+
+    </div>     </div> 
+    <div id="wrapper">
+      <div id="content">         
+          <a href="/about_the_university/" id="departmental-logo"></a>
+          
+          <div id="breadcrumb">
+            <ol><!-- navigation object : Gl Pre Breadcrumb Locator --><!-- navigation object : Gl Pre Breadcrumb Home Link --> <!-- Removed until main oxweb page is on Site Manager <li><a href="/">Oxweb</a></li> -->
+
+<li>
+  <a href="http://www.ox.ac.uk">Home</a>
+</li><!-- navigation object : Gl Breadcrumbs --><li><a href="/about_the_university/">About the University</a></li><li><a href="/about_the_university/jobs/">Jobs</a></li><li><a href="/about_the_university/jobs/secondments/">Secondments</a></li></ol>
+          </div><div class="clear"></div>
+         
+	  <div id="uas-wrapper">
+            <div id="secondary-content">
+              <!-- Area Name -->
+               <span class="mainSection">About the University</span>
+              <!-- Main Left Nav -->
+              <ul id="secondary-nav"><li><a href="/about_the_university/jobs/">Jobs</a>
+<ul class="multilevel-linkul-0" title="">
+<li><a href="/about_the_university/jobs/academic/">Academic</a></li>
+<li><a href="/about_the_university/jobs/research/">Research</a></li>
+<li><a href="/about_the_university/jobs/professionalandmanagement/">Professional and Management</a></li>
+<li><a href="/about_the_university/jobs/supportandtechnical/">Support and Technical</a></li>
+<li><span class="currentsection">Secondments</span></li>
+<li><a href="/about_the_university/jobs/apprentice/">Apprenticeships</a></li>
+<li><a href="/about_the_university/jobs/collegevacancies/">College vacancies</a></li>
+<li><a href="/about_the_university/jobs/other/">Affiliated organisations</a></li>
+<li><a href="http://www.admin.ox.ac.uk/tss/">Temporary Staffing Service</a></li>
+
+</ul>
+</li></ul>
+
+              <!-- Under Left Nav -->
+	      
+            </div>
+              
+            <div id="primary-content">
+<a name="152181"></a><h1>Secondments</h1>
+
+
+
+
+
+<p>If you are already working for the University and are interested in undertaking a secondment you can find <a href="http://www.admin.ox.ac.uk/personnel/recruit/secondments/">more information here</a> about how secondments work and whether you are eligible to apply for one.&nbsp;</p>
+<p>If you are eligible to apply, take a look at the secondments currently being advertised below.&nbsp; If there is nothing available at the moment, keep checking back as job adverts are being loaded all the time.</p>
+<p>Information about any <a href="http://www.admin.ox.ac.uk/personnel/recruit/secondments/university/">secondments currently being advertised within the University</a></p>
+<p>Information about any <a href="http://www.admin.ox.ac.uk/personnel/recruit/secondments/college/">secondments currently being advertised with colleges</a></p>
+<!-- navigation object : Gl Footer Link -->
+                <ul id="content-extras">
+  <li class="back-to-top"><a href="#wrapper"><span>Back to top</span></a></li>
+ <!-- <li class="send">
+		<script type="text/javascript">
+			$(document).ready(function(){    
+			var jQryDoc= document.URL;
+			var jQryText = "" + jQryDoc +"";
+			$("div.recommendpage").html("<a href=\"mailto:?subject=Recommended: Available Templates&body="+jQryText+"\"><span>Recommend this page<\/span><\/a>");
+			});
+		</script>
+		
+		<div class="recommendpage"></div>
+		<noscript><a href="mailto:?subject=Recommended: Available Templates"><span>Recommend this page</span></a></noscript>
+</li>-->
+<li class="page-recommend" ><a href="/recommendthispage/?pageurl=/about_the_university/jobs/secondments/&amp;pagename=Secondments" >Recommend this page</a></li>
+</ul>
+
+            </div>
+ 
+            <!-- Tertiary Content -->
+            <div id="tertiary-content">  
+              <!-- navigation object : GL RHS -->
+            </div>
+          </div>
+
+          <!--[if IE 6]><div class="clear"></div><![endif]-->
+        </div>
+
+        <div id="footer">
+          <dl id="footer-updated"><dt>Last updated</dt> <dd>24 Apr 14</dd></dl>
+
+
+<!-- navigation object : Gl Oxweb Footer -->        <ul class="extras">
+          <li class="first">
+            <a href="http://www.ox.ac.uk/site_map.html" class="sitemap" title="oxweb">Site map</a>
+          </li>
+          <li>
+            <a href="http://www.ox.ac.uk/copyright.html">Legal notice</a>
+          </li>
+          <li>
+            <a href="mailto:webcms@admin.ox.ac.uk">Contact this site's webmaster</a>
+          </li>
+          <li>
+            <a href="http://www.ox.ac.uk/about_this_site.html">About this site</a>
+          </li>
+          <li>
+            <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/">Privacy Policy</a>
+          </li>
+        </ul>
+
+        <div class="clear"></div>
+      </div>
+    </div>
+<script>
+ 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ 
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ 
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ 
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+ 
+ 
+  ga('create', 'UA-1979755-1', 'ox.ac.uk');
+ 
+  ga('send', 'pageview');
+ 
+ 
+ 
+</script>
+  </body>
+</html>

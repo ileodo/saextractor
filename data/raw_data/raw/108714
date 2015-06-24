@@ -1,0 +1,512 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="podcast,audio,video,lecture,teaching materials" />
+<meta name="description" content="Prof. Sir Roger Penrose on the idea of artificial intelligence and whether consciousness can be replicated by a computer - a discussion of new physics which may take us closer to explaining the mind." />
+<link rel="shortcut icon" href="http://podcasts.ox.ac.uk/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/50057" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/consciousness-and-computability" />
+  <title>Consciousness and Computability | University of Oxford Podcasts - Audio and Video Lectures</title>
+  <style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/modules/system/system.base.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.menus.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.messages.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.theme.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/modules/field/theme/field.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/google_appliance/theme/google_appliance.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/node/node.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/search/search.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/user/user.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/views/css/views.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/quicktabs/css/quicktabs.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/default.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/layout.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/style.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/podcasts/themes/betacast/custom.css?nps7e5");
+</style>
+<style type="text/css" media="print">
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/print.css?nps7e5");
+</style>
+  <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie6.css";</style>
+<![endif]--><!--[if gt IE 6]>
+      <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie7.css";</style>
+<![endif]--><!--[if gt IE 7]>
+      <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie8.css";</style>
+<![endif]-->  <script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/drupal.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/ajax.js?v=7.35"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/progress.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/views/js/base.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/quicktabs/js/quicktabs.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/libraries/jwplayer/jwplayer.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/textarea.js?v=7.35"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/views/js/ajax_view.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/form.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/collapse.js?nps7e5"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jwplayer.key="1DVFGWjiExVevwKOLsJRD3aMUuMGRzDelQvniVm0wDE="
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"betacast","theme_token":"QIFOl5a73xOA3OGJ0MhMxtEH5FY0NNqNsNy0FUyZG80","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"sites\/all\/modules\/quicktabs\/js\/quicktabs.js":1,"sites\/all\/libraries\/jwplayer\/jwplayer.js":1,"misc\/textarea.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"misc\/form.js":1,"misc\/collapse.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"sites\/all\/modules\/google_appliance\/theme\/google_appliance.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/podcasts\/themes\/betacast\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/quicktabs\/css\/quicktabs.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/podcasts\/themes\/betacast\/custom.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:7603c30c3e66b5b32f4f25f1e0477675":{"view_name":"taxonomy_term_files","view_display_id":"block_1","view_args":"50057","view_path":"node\/50057","view_base_path":null,"view_dom_id":"7603c30c3e66b5b32f4f25f1e0477675","pager_element":0},"views_dom_id:b9ee69e0fe4fed567b206fe892e8b737":{"view_name":"taxonomy_term_files","view_display_id":"block_1","view_args":"50057","view_path":"node\/50057","view_base_path":null,"view_dom_id":"b9ee69e0fe4fed567b206fe892e8b737","pager_element":0}}},"quicktabs":{"qt_media_player":{"name":"media_player","tabs":{"1":{"vid":"file_player","display":"audio","args":"%1","view_path":"node%2F50057","view_dom_id":2,"ajax_args":"50057","actual_args":["50057"]}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax"}},"ajax":{"edit-feedback-submit--2":{"callback":"speed_form_blocks_callback","wrapper":"replace_textfield_feedback","effect":"fade","progress":{"type":"throbber"},"event":"mousedown","keypress":true,"prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Let us know"}}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26636073-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-50057 node-type-episode" >
+  <div id="googledesc">
+    Over 4000 free audio and video lectures, seminars and teaching resources from Oxford University.
+  </div>
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    <div id="skipnav"><a href="#content">Skip to Content</a> <a href="#navigation">Skip to Navigation</a></div>  
+<div id="page-wrapper">
+<div id="page" class="page with-navigation with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo-title">
+          <a href="http://www.ox.ac.uk/" title="University of Oxford Website" rel="home" id="logo">
+        <img src="http://podcasts.ox.ac.uk/sites/podcasts/themes/betacast/logo.png" alt="University of Oxford Logo"/>
+      </a>
+    
+          <div id="name-and-slogan">
+
+                    <div id="site-name">
+              <a href="/" title="Podcasts Homepage" rel="home">Podcasts</a>
+            </div>
+        
+        
+      </div>
+    	
+    </div> <!-- /logo-title -->
+          <div id="header-region">
+          <div class="region region-header">
+    <div id="block-google_appliance-ga_block_search_form" class="block block-google-appliance block-odd first last block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <form action="/consciousness-and-computability?qt-media_player=1" method="post" id="google-appliance-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search Google Appliance</h2>
+    <div class="form-item form-type-textfield form-item-search-keys">
+  <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+ <input type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-8m0Gl6A_CmPMwZYWbC0iSXm6zPOIX0tU2ZPMVDB21aA" />
+<input type="hidden" name="form_id" value="google_appliance_block_form" />
+  
+</div>
+</div></form>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+      </div>
+    
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+
+    <div id="content">
+      <div id="content-inner" class="inner column center">
+
+                  <div id="content-header">
+
+            
+            	    
+	    
+                          <h1 class="title">Consciousness and Computability</h1>
+            
+                         
+            
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-quicktabs-media_player" class="block block-quicktabs block-odd first block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div  id="quicktabs-media_player" class="quicktabs-wrapper quicktabs-style-nostyle"><div class="item-list"><ul class="quicktabs-tabs quicktabs-style-nostyle"><li class="active first last"><a href="/consciousness-and-computability?qt-media_player=1#qt-media_player" id="quicktabs-tab-media_player-1" class="active">Audio</a></li>
+</ul></div><div id="quicktabs-container-media_player" class="quicktabs_main quicktabs-style-nostyle"><div  id="quicktabs-tabpage-media_player-1" class="quicktabs-tabpage "><div class="view view-file-player view-id-file_player view-display-id-audio view-dom-id-02579217adc72098c18036b1f69f6295">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-ox-jwplayer-entity">        <span class="field-content"><div id='ox-jwplayer-1030878'>
+</div>
+
+<script type='text/javascript'>
+  jwplayer('ox-jwplayer-1030878').setup({
+      file: 'http://media.podcasts.ox.ac.uk/physics/physphil/06_roger_penrose.mp3',
+      image: '', title: '',
+      aspectratio: '16:9',
+      fallback: 'true',
+      primary: 'flash',
+      height: '40',
+      width: '640',
+   });
+</script>
+</span>  </div>  
+  <span class="views-field views-field-field-duration">    <span class="views-label views-label-field-duration">Duration: </span>    <span class="field-content">0:24:40</span>  </span>       |   
+  <span class="views-field views-field-created">    <span class="views-label views-label-created">Added: </span>    <span class="field-content">28 Aug 2012</span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div></div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-9cc1c9f798b2cf5320fc857a6160e501" class="block block-views block-even block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-node-episode view-id-node_episode view-display-id-block_node_document view-dom-id-68b3d02bf582f9dc6c35e2c3c2c97caa">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-body">        <div class="field-content">Prof. Sir Roger Penrose on the idea of artificial intelligence and whether consciousness can be replicated by a computer - a discussion of new physics which may take us closer to explaining the mind. </div>  </div>  
+  <div class="views-field views-field-field-series">    <span class="views-label views-label-field-series">Series: </span>    <div class="field-content"><a href="/series/physics-and-philosophy-arguments-experiments-and-few-things-between" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Physics and Philosophy: Arguments, Experiments and a Few Things in Between</a></div>  </div>  
+  <div class="views-field views-field-field-people">    <span class="views-label views-label-field-people">People: </span>    <div class="field-content"><div class="item-list"><ul><li class="first"><a href="/people/roger-penrose" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Roger Penrose</a></li>
+<li class="last"><a href="/people/ankita-anirban" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Ankita Anirban</a></li>
+</ul></div></div>  </div>  
+  <div class="views-field views-field-field-keywords">    <span class="views-label views-label-field-keywords">Keywords: </span>    <div class="field-content"><div class="item-list"><ul><li class="first"><a href="/keywords/consciousness" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">consciousness</a></li>
+<li><a href="/keywords/ai" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">AI</a></li>
+<li><a href="/keywords/philosophy" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">philosophy</a></li>
+<li><a href="/keywords/mind" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">mind</a></li>
+<li><a href="/keywords/artifical-intelligence" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">artifical intelligence</a></li>
+<li><a href="/keywords/computer" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">computer</a></li>
+<li><a href="/keywords/computation" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">computation</a></li>
+<li><a href="/keywords/maths" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">maths</a></li>
+<li><a href="/keywords/mathematics" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">mathematics</a></li>
+<li><a href="/keywords/physics" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">physics</a></li>
+<li class="last"><a href="/keywords/math" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">math</a></li>
+</ul></div></div>  </div>  
+  <div class="views-field views-field-field-unit">    <span class="views-label views-label-field-unit">Oxford Unit: </span>    <div class="field-content"><div class="item-list"><ul><li class="first last"><a href="/units/department-physics" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Department of Physics</a></li>
+</ul></div></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-system-main" class="block block-system block-odd block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div id="node-50057" class="node node-episode node-odd node-odd">
+	<div class="node-inner">
+    
+    
+    		    
+    
+  	<div class="content">
+  	    	</div>
+  	
+      	
+    	    <div class="links"></div>
+	          
+	</div> <!-- /node-inner -->
+</div> <!-- /node-->
+
+		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-7d44543faf09036ea50f4aa6478de0d6" class="block block-views block-even block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-node-episode view-id-node_episode view-display-id-block_node_autokeywords view-dom-id-4c73b96c5ec7ec1a64508479a92f7f0f">
+        
+  
+  
+      <div class="view-content">
+      
+
+<fieldset class="collapsible collapsed">
+  <legend><span class="fieldset-legend">Automatic Keywords</span></legend>
+<div class="fieldset-wrapper">
+  
+  <h3>Automatic Keywords</h3>
+  <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+          No automatic keywords have yet been generated for this podcast episode.    </div>
+</div>
+ 
+</fieldset>    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-node_episode-block_node_licence" class="block block-views block-odd last block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-node-episode view-id-node_episode view-display-id-block_node_licence view-dom-id-f7cfb09f2cbd757fb097e5e430d504f2">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-licence">        <div class="field-content"><a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/ - Part of the UKOER initiative" class="licence">Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+        </div>
+
+        
+      </div>
+      
+          
+    </div> <!-- /content-inner /content -->
+    
+
+          <div id="navigation" class="menu with-primary">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-227 first"><a href="/">Home</a></li>
+<li class="menu-1196"><a href="/series" title="Browse all series">Series</a></li>
+<li class="menu-600"><a href="/people" title="Browse contributors to podcasts">People</a></li>
+<li class="menu-602"><a href="/units" title="Browse all departments and colleges">Depts &amp; Colleges</a></li>
+<li class="menu-1621 last"><a href="/open">Open Education</a></li>
+</ul>              </div>
+    
+     <!-- /sidebar-first -->
+
+          <div id="sidebar-second" class="column sidebar second">
+        <div id="sidebar-second-inner" class="inner">
+            <div class="region region-sidebar-second">
+    <div id="block-views-7fb1f6b862c4070e376799696ff82656" class="block block-views block-odd first block-odd clearfix">
+  <div class="block-inner">
+
+                <h2 class="block-title">More in this Series...</h2>
+          		
+		<div class="content" >
+		  <div class="view view-node-episode view-id-node_episode view-display-id-block_node_about_series view-dom-id-15c0c5360f4f51aadd3eab24cfbf1607">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-series-album-cover">        <div class="field-content"><a href="/series/physics-and-philosophy-arguments-experiments-and-few-things-between"><img typeof="foaf:Image" src="http://podcasts.ox.ac.uk/sites/podcasts/files/styles/medium/public/images/series/originals/physphil-ac-cc_0_2_0.jpg?itok=b7ejA6e2" width="100" height="100" /></a></div>  </div>  
+  <div class="views-field views-field-field-series">        <div class="field-content"><a href="/series/physics-and-philosophy-arguments-experiments-and-few-things-between" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Physics and Philosophy: Arguments, Experiments and a Few Things in Between</a></div>  </div>  
+  <div class="views-field views-field-description">        <div class="field-content"><p>A series which explores some of the links between physics and philosophy, two of the most fundamental ways with which we try to answer our questions about the world around us. A number of the most pertinent topics which bridge the disciplines are discussed - the nature of space and time, the unpredictable results of quantum mechanics and their surprising consequences and perhaps most fundamentally, the nature of the mind and how far science can go towards explaining and understanding it....</p></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-taxonomy_term_files-block_1" class="block block-views block-even block-even clearfix">
+  <div class="block-inner">
+
+                <h2 class="block-title">Subscribe</h2>
+          		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-block_1 view-dom-id-7603c30c3e66b5b32f4f25f1e0477675">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-itunes-u-audio-code">        <div class="field-content"><span class="itunesu"><a href="https://itunes.apple.com/gb/itunes-u/id549117621">iTunes U Audio</a></span></div>  </div>  </div>
+    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-attachment_6">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-mediapub-nid">        <div class="field-content"><span class="feed_audio"><a href="http://mediapub.it.ox.ac.uk/feeds/129288/audio.xml">Audio RSS Feed</a></span></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-attachment_4">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div><div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-attachment_5">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-file_player-block_1" class="block block-views block-odd block-odd clearfix">
+  <div class="block-inner">
+
+                <h2 class="block-title">Download Media</h2>
+          		
+		<div class="content" >
+		  <div class="view view-file-player view-id-file_player view-display-id-block_1 view-dom-id-b420d9d1076da3ce0734be1da203f6f7">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">  
+  <span class="views-field views-field-type">        <span class="field-content"><a href="http://media.podcasts.ox.ac.uk/physics/physphil/06_roger_penrose.mp3">Audio</a></span>  </span>  
+  <span class="views-field views-field-filesize">        <span class="field-content">(11.41 MB)</span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-speed_form_blocks-feedback" class="block block-speed-form-blocks block-even last block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <form action="/consciousness-and-computability?qt-media_player=1" method="post" id="speed-form-blocks-form-maker" accept-charset="UTF-8"><div><div class="" id="replace_textfield_feedback"><div class="form-item form-type-textarea form-item-feedback-feedback-textarea">
+  <label for="edit-feedback-feedback-textarea">Please give us your feedback </label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-feedback-feedback-textarea" name="feedback_feedback_textarea" cols="60" rows="5" class="form-textarea"></textarea></div>
+</div>
+<input type="hidden" name="feedback_message" value="Thanks for your feedback" />
+<input type="hidden" name="delta" value="feedback" />
+<input type="hidden" name="feedback_page" value="/consciousness-and-computability?qt-media_player=1" />
+<input type="submit" id="edit-feedback-submit--2" name="op" value="Let us know" class="form-submit" /></div><div class="form-actions form-wrapper" id="edit-actions--2"></div><input type="hidden" name="form_build_id" value="form-mwQGn7Vwqnxhzuiw5e-lcnrvIfsTsZhO5_tDaBXx3Sg" />
+<input type="hidden" name="form_id" value="speed_form_blocks_form_maker" />
+</div></form>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+        </div>
+      </div>
+     <!-- /sidebar-second -->
+    
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-block-3" class="block block-block block-odd first last block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <p>This website uses cookies for Google Analytics tracking - please see our <a href="http://podcasts.ox.ac.uk/privacy">Privacy Policy</a></p>
+<p><a href="http://podcasts.ox.ac.uk/about">About</a> | <a href="http://podcasts.ox.ac.uk/accessibility">Accessibility</a> | <a href="http://www.oucs.ox.ac.uk/podcasts/how-to-podcast.xml.ID=publish">Contribute</a> | <a href="http://podcasts.ox.ac.uk/copyright">Copyright</a> | <a href="http://podcasts.ox.ac.uk/contact">Contact us</a> | <a href="http://podcasts.ox.ac.uk/privacy">Privacy</a></p>
+<p><a href="http://mediapub.it.ox.ac.uk/">MediaPub Publishing Portal for Oxford Podcast Contributors</a></p>
+<p><a href="http://talks.ox.ac.uk/" target="">Upcoming Talks in Oxford</a></p>
+<p><a target="_blank" href="http://www.ox.ac.uk/copyright.html">© 2011-2014 The University of Oxford</a></p>
+		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+</div> <!-- /page-wrapper -->  </body>
+</html>

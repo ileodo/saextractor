@@ -1,0 +1,385 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../../sites/all/themes/oxford_connect/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="find-pi.html" />
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]--><meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="find-pi.html" />
+  <title>Find Pi! | Oxford Connect</title>
+  <link type="text/css" rel="stylesheet" href="../../../sites/oxfordconnect.conted.ox.ac.uk/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../sites/oxfordconnect.conted.ox.ac.uk/files/css/css_BbY33qutjWUAVpbb5hss405gyool5VlitGlmI8S0yoU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../sites/oxfordconnect.conted.ox.ac.uk/files/css/css_eJz-HwHM7J5VHzLve9pJu1nHuO7cDD9RZh_KnVnS5As.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-bottom{background:#CF7A30;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="../../../sites/oxfordconnect.conted.ox.ac.uk/files/css/css_T3cXwwr1YTvQlCCGW8iZDiFxNoFSZHkP2LDhKwIAatc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../sites/oxfordconnect.conted.ox.ac.uk/files/css/css_hsbiqgrkrLSxpSgIwTZKo2gLjcCXwPsy5v7awx726x0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../sites/oxfordconnect.conted.ox.ac.uk/files/css/css_7m5TY1Odaaes1nOTjiKcipBY0-e7oxxbuypkMAQaqs0.css" media="print" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://oxfordconnect.conted.ox.ac.uk/themes/bartik/css/ie.css?nfc2qw" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://oxfordconnect.conted.ox.ac.uk/themes/bartik/css/ie6.css?nfc2qw" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="../../../sites/oxfordconnect.conted.ox.ac.uk/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="../../../sites/oxfordconnect.conted.ox.ac.uk/files/js/js_45JniWrXrY8q8AEVIV6GFupI5scizolw-FrujytMgiY.js"></script>
+<script type="text/javascript" src="../../../sites/oxfordconnect.conted.ox.ac.uk/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script type="text/javascript" src="../../../sites/oxfordconnect.conted.ox.ac.uk/files/js/js_Wqnz0-mHnR8B9WAVIZH7xE9SKzIkP0sYoziakMRqBcI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-38317686-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"oxford_connect","theme_token":"hEBVPrC7_3tHCT6oN93k5MbVC_pH7i-0knFssxMYRCw","js":{"sites\/all\/modules\/eu-cookie-compliance\/js\/eu_cookie_compliance.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/mathjax\/mathjax.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/video_filter\/video_filter.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/eu-cookie-compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus_default.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"sites\/all\/themes\/oxford_connect\/css\/oxford_connect.css":1,"sites\/all\/themes\/oxford_connect\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true,"__drupal_alter_by_ref":["default"]},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_html_info":"\n\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EYes, I agree\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, I want to find out more\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide this message\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore information on cookies\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/\/about-site\/privacy-and-cookies-policy","popup_position":0,"popup_language":"en"},"mathjax":{"path":"cdn"},"nice_menus_options":{"delay":"800","speed":"fast"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-72 node-type-event-page footer-columns" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="../../../index.html" title="Oxford Connect: Home" rel="home" id="logo">
+        <img src="../../../sites/all/themes/oxford_connect/logo.png" alt="Oxford Connect: Home" />
+      </a>
+      <a href="http://www.ox.ac.uk/" title="University of Oxford"><img src="../../../sites/all/themes/oxford_connect/ox75.png" width="75" height="75" id="oxfordlogo"></a>
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name" class="element-invisible">
+              <strong>
+                <a href="../../../index.html" title="Home" rel="home"><span>Oxford Connect</span></a>
+              </strong>
+            </div>
+                  
+                  <div id="site-slogan">
+            Connect with concepts, ideas and research from the University of Oxford          </div>
+        
+      </div> <!-- /#name-and-slogan -->
+    
+      <div class="region region-header">
+    <div id="block-nice-menus-1" class="block block-nice-menus">
+
+    
+  <div class="content">
+    <ul class="nice-menu nice-menu-left nice-menu-main-menu" id="nice-menu-1"><li class="menu-242 menu-path-front first odd "><a href="../../../index.html">Home</a></li>
+<li class="menu-418 menuparent  menu-path-node-3  even last"><a href="../../../about-oxford-connect.html">About Oxford Connect</a><ul><li class="menu-511 menu-path-node-81 first odd "><a href="../../../about-oxford-connect/press.html">Press</a></li>
+<li class="menu-512 menuparent  menu-path-node-80  even "><a href="../../../about-oxford-connect/terms-and-conditions.html">Terms and conditions</a><ul><li class="menu-516 menu-path-node-83 first odd last"><a href="../../../about-oxford-connect/terms-and-conditions/ownership-liability-and-use.html">Ownership, Liability and Use</a></li>
+</ul></li>
+<li class="menu-417 menu-path-node-2  odd last"><a href="../../../about-oxford-connect/privacy-and-cookies.html">Privacy and cookies</a></li>
+</ul></li>
+</ul>
+  </div>
+</div>
+<div id="block-views-header-event-image-block" class="block block-views">
+
+    <h2 class="element-invisible">Header Event image</h2>
+  
+  <div class="content">
+    <div class="view view-header-event-image view-id-header_event_image view-display-id-block view-dom-id-0660ee734e91f985de52bbac41226c35">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-logo">        <div class="field-content"><a href="../pi-day-live-marcus-du-sautoy.html"><img typeof="foaf:Image" src="../../../sites/oxfordconnect.conted.ox.ac.uk/files/styles/header_image/public/eventlogos/Marcus_Pi_09a19.jpg?itok=DBTUpfFK" width="124" height="75" alt="Pi Day Live with Marcus du Sautoy" title="Pi Day Live with Marcus du Sautoy" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="../../../index.html">Home</a></div></div>
+    
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          Find Pi!        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-menu-menu-pi-day" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf"><a href="../../../index.html" title="">Pi Day Live</a></li>
+<li class="leaf active-trail"><a href="find-pi.html" class="active-trail active">Find Pi!</a></li>
+<li class="leaf"><a href="event-format.html">Event format</a></li>
+<li class="leaf"><a href="technical-support.html">Technical support</a></li>
+<li class="leaf"><a href="../../../about-oxford-connect/press.html#e1" title="">Press</a></li>
+<li class="last leaf"><a href="credits.html">Credits</a></li>
+</ul>  </div>
+</div>
+<div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-72" class="node node-event-page node-full clearfix" about="/events/2013/pi-day-live-marcus-du-sautoy/find-pi" typeof="sioc:Item foaf:Document">
+
+      <span property="dc:title" content="Find Pi!" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2013-02-04T10:36:26+00:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/users/david-white" typeof="sioc:UserAccount" property="foaf:name" datatype="">David White</span> on Mon, 2013-02-04 10:36</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Pi is the ratio of the circumference of a circle to its diameter: 3.14159 to 5 decimal places and often written as ‘Л’. This ratio will always be the same number, no matter what circle you use to work it out. Pi is a very old number; the ancient Egyptians and the Babylonians knew of its existence even though they could not calculate it with the accuracy we can today.</p>
+<p>Even though pi to a few decimal places is accurate enough most of the time mathematicians have pushed the limits of computing technology to calculate pi to over one trillion digits. But can we still calculate pi using ancient techniques?</p>
+<p>During the Pi Day Live event, we asked the question: if everyone taking part tries techniques from the pre-computerised age and we then take an average of the results will we be able to derive pi to one, two, three or more, decimal places? Can we do better than the ancient Greeks or have we lost the ability to rediscover this amazing number without using computers and maybe even without calculators?</p>
+<p>Pi Day Live is over but you can still take part. Try one of the techniques below and add your results to the 'What's your pi' form on the homepage.</p>
+<h2>Four ways to calculate pi</h2>
+<ol><li><strong><a href="#circles">Circles and pi</a> [Level = easy]</strong></li>
+<li><strong><a href="#marbles">Marbles and pi</a> [Level = easy/medium]</strong></li>
+<li><strong><a href="#needles">Needles and pi</a> [Level = medium]</strong></li>
+<li><strong><a href="#rivers">Rivers and pi</a> [Level = pretty much impossible, but really interesting]</strong></li>
+</ol><p>(If you wish, let us know how you get on via <a title="Twitter" href="http://www.twitter.com/oxuniconnect" target="_blank">@OxUniConnect</a>, <a href="mailto:oxfordconnect@conted.ox.ac.uk">oxfordconnect@conted.ox.ac.uk</a> or our <a title="Facebook" href="http://www.facebook.com/OxUniConnect" target="_blank">Facebook page</a>.)</p>
+<div class="boxout">
+<h3>Top tip for teachers:</h3>
+<ul><li>Pick a method or methods that suit the ‘level’ of your pupils</li>
+<li>Why not challenge your class to put away their calculators if the method you choose involves maths that your pupils can manage with a little mental arithmetic?</li>
+</ul></div>
+<hr /><h2 id="circles" class="newsection">Circles and pi [Level = easy]</h2>
+<h3>Equipment</h3>
+<ul><li>1 flat circular object, such as a plate, cup, or a CD</li>
+<li>1 piece of string</li>
+<li>1 ruler</li>
+</ul><h3>How does it work?</h3>
+<p>Pi is defined as the ratio of the circumference of a circle to its diameter. So the most direct way to measure pi is to take anything that you can find that is circular and measure the circumference and divide it by the diameter.</p>
+<h3>Method</h3>
+<ol><li>Take your piece of string and wrap it around the widest part of your circular object.</li>
+<li>Mark the string at the point where it meets.</li>
+<li>Using your ruler, measure the length between the end of your string and the mark you made, and note this down. This is your object’s circumference.</li>
+<li>Now lay your ruler across the widest part of your object and measure the length of this.</li>
+<li>Make a note of the number you get; this is your object’s diameter.</li>
+<li><strong>Take the object’s circumference (the bigger number) and divide it by its diameter.</strong></li>
+</ol><h3>Thinking further</h3>
+<p>How accurate is this? How truly circular are the things you are measuring? If you used a One Direction CD, will you have the guts to share this fact with the rest of us?</p>
+<h3>Read more about it…</h3>
+<ul><li><a href="http://nrich.maths.org/2490">Pi, a Very Special Number</a>, from the NRICH website</li>
+<li><a href="http://www.teachervision.fen.com/math/lesson-plan/3430.html">Discovering the Magical Pi</a>, from the Teacher Vision website</li>
+</ul><hr /><h2 id="marbles" class="newsection">Marbles and pi [Level = easy/medium]</h2>
+<h3>Equipment</h3>
+<ul><li>A bag of marbles</li>
+<li>A very flat surface</li>
+</ul><h3>How does it work?</h3>
+<p>One of the first calculations of pi by the Egyptians was believed to have involved a method similar to the one we are using in this experiment. The area of a circle is pi times the radius squared. It should therefore be possible to calculate pi using some marbles and some simple division and multiplication. </p>
+<h3>Method</h3>
+<p>Make a solid circle out of the marbles. If your marbles start to roll, reconsider the flatness of your surface. Once you have a circle of marbles, do the following:</p>
+<ol><li>Count the number of marbles from one side of the circle to the other. This is your D value.</li>
+<li>Count the number of marbles you used to create the whole of your circle. This is your v value.</li>
+</ol><p>Use these values to solve this equation to give you an approximation of pi:</p>
+<div class="largemaths">${v\over (D/2)^2} = л$</div>
+<div class="largemaths"> </div>
+<div><img src="../../../sites/oxfordconnectdev.conted.ox.ac.uk/files/u5/images/Activity_Marbles.jpg" alt="Marbles" title="Marbles" width="392" height="267" /></div>
+<p>You can use any number of marbles you think will work</p>
+<h3>Thinking further</h3>
+<ul><li>How close was your result to pi? How accurate is this technique? What would make it more accurate?</li>
+<li>Does using more marbles give you a more accurate result?</li>
+<li>Do you think this would work if your marbles were a bit dented or wonky?</li>
+</ul><h3>Read more about it…</h3>
+<ul><li>On <a href="http://numberwarrior.wordpress.com/2008/03/05/on-the-egyptian-value-for-pi/">the Ancient Egyptian Value for pi</a>, from The Number Warrior blog</li>
+<li><a href="http://www.youtube.com/watch?v=6eKY9YKaAj8">Amazing math methods</a>, a video on YouTube by Momen Ahmed</li>
+</ul><hr /><h2 id="needles" class="newsection">Needles and pi [Level = medium]</h2>
+<h3>Equipment</h3>
+<ul><li>A piece of paper, on which are drawn/printed lines that are 50mm apart</li>
+<li>A match with the head cut off, or something similar, which is less than 50mm long</li>
+<li>(Actually, as long as the distance between your lines is wider than the thing you are throwing the experiment works. We have suggested 50mm because it’s a handy size for a table-top activity.)</li>
+</ul><h3>How does it work?</h3>
+<p>In this experiment we are going to try what is probably one of the most curious ways to calculate pi - Buffon’s needle problem. Buffon's needle problem, which is about 200 years old, asks this question: Suppose a needle is dropped on a floor, made of parallel strips of wood of equal width. What is the probability that the needle will lie across a line between two strips?</p>
+<p>The solution, which assumes that the needle is shorter than the width of the strips, can be used to approximate pi.</p>
+<p><em>If you can’t decide which experiment to choose, do this one because we are keen to gather as much data as possible to create the biggest Buffon needle experiment in history.</em></p>
+<h3>Method</h3>
+<p>Place your piece of paper on a flat surface and drop your match (or similar object) on to the paper, from a height of about 50mm. (The exact height isn’t important, just don’t go so close to the paper that you can affect where the match lands.) Drop the match and record whether it lands either not touching a line or touching/crossing a line. Do this 100 times. (If the match rolls off the paper, don’t count that turn.)</p>
+<p>When you are done, do the following:</p>
+<ol><li>Calculate the proportion of times the match crossed/touched a line. As you’ve dropped the match 100 times, this is pretty easy; if the match crossed/touched a line 42 times, the proportion is 0.42. (This assumes that you have thrown the match exactly 100 times). This figure is your p value.</li>
+<li>Note the spacing between the lines on your paper. This figure is your x value.</li>
+<li>Note the length of the match you used to drop on your paper. This is your L value.</li>
+</ol><p>Use these values to solve this equation:</p>
+<div class="largemaths">${2L\over xp} = л$</div>
+<table class="layouttable" border="0"><tbody><tr><td>
+<div><img src="../../../sites/oxfordconnectdev.conted.ox.ac.uk/files/u5/images/Activity_Buffon1.jpg" alt="'Needle' across a line" title="Across a line" width="291" height="218" /></div>
+<div>Crossing a line</div>
+</td>
+<td>
+<div><img src="../../../sites/oxfordconnectdev.conted.ox.ac.uk/files/u5/images/Activity_Buffon2.jpg" alt="Between lines" width="292" height="217" /></div>
+<div>Not crossing a line</div>
+</td>
+</tr></tbody></table><h3>Thinking further</h3>
+<ul><li>When we tried this experiment, our result was 2.63. We used a cylindrical piece of Lego that was 60mm long and the spacing between the lines on our paper was 70mm. The person responsible for dropping the piece of Lego 100 times is not known for his steady hands.</li>
+<li>Our result demonstrates why we want as many people as possible to try this experiment. How close is your result to pi? How does your result compare with others who have the same line spacing as you but are using a different sized match? Will our combined results average to a figure that is close to pi?</li>
+<li>Can you scale the experiment up? What happens if you are throwing an object that is much bigger? (Remember, your stick must always be shorter than the space between your lines.)</li>
+<li>Does collecting more than a hundred results improve the accuracy of the activity?</li>
+</ul><div class="boxout">
+<h3>Top tip for teachers:</h3>
+<p>It’s probably best for pupils to work in pairs with one throwing the match/object and another noting down the times it crosses a line or lands between lines.</p>
+</div>
+<h3>Read more about it…</h3>
+<ul><li>Activity: <a href="http://www.mathsisfun.com/activity/buffons-needle.html">Buffon’s Needle</a>, from MathsIsFun.com</li>
+<li><a href="http://mste.illinois.edu/reese/buffon/buffon.html">Buffon’s Needle – An Analysis and Simulation</a> by George Reese, Director of the Office of Math, Science and Technology Education, University of Illinois</li>
+</ul><hr /><h2 id="rivers" class="newsection">Rivers and pi [Level = pretty much impossible, but really interesting]</h2>
+<p>Professor Hans-Henrik Stolum has made a fascinating discovery about the ratio between the actual length of rivers from source to mouth and the distance from source to mouth as the crow flies. It is approximately 3.14 and the mathematics behind this is explained in <a href="http://www.factodiem.com/2010/03/pi.html">this blog post</a>.</p>
+<p>If you have access to a very large scale map of a river and a lot of patience you can, with the aid of a pencil, ball of string and a ruler, try to replicate a calculation made by an earth scientist with a fully equipped geo-physics lab.</p>
+<h3>Equipment</h3>
+<ul><li>1 very large-scale map of an entire river, which runs from source to mouth</li>
+<li>1 ball of string</li>
+<li>1 ruler</li>
+<li>A beverage of your choice</li>
+</ul><h3>Method</h3>
+<p>Use your string to measure the length of the river from source to mouth. Make a note of the distance. Drink your beverage if you think you’re about to lose patience. Now take your ruler and measure on the map the shortest distance between the river’s source and its mouth. Divide your string distance by your ruler distance. Feel smug that you gave this experiment a go. </p>
+<h3>Thinking further</h3>
+<p>When we tried this experiment, using the shortest river we could find on Google maps and the biggest printer in the building, our result was 1.45 (not great). How close was your result to pi? What are the limitations of using a map to replicate Stolum’s work?</p>
+<h3>Read more about it…</h3>
+<ul><li><a href="http://raaf.org/pdfs/meandering_river.pdf">River Meandering as a Self-Organization Process</a>, Stolum’s paper in PDF format</li>
+</ul></div></div></div><div class="field field-name-field-related-event field-type-node-reference field-label-inline clearfix"><div class="field-label">Event:&nbsp;</div><div class="field-items"><div class="field-item even" property=""><a href="../pi-day-live-marcus-du-sautoy.html">Pi Day Live with Marcus du Sautoy</a></div></div></div><span property="dc:title" content="Find Pi!" class="rdf-meta element-hidden"></span>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-firstcolumn">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="http://oxfordconnect.conted.ox.ac.uk/events/2013/pi-day-live-marcus-du-sautoy/find-pi?destination=node/72" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first last"><a href="../../../user/password.html" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-icw5QNla6Cb7LKPFPQWuO9AIQf_jHQUlmbqnv_c0iMY" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+          <div class="region region-footer-secondcolumn">
+    <div id="block-system-navigation" class="block block-system block-menu">
+
+    <h2>Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first last collapsed"><a href="../../../node/add/activity-submission.html">Add content</a></li>
+</ul>  </div>
+</div>
+  </div>
+          <div class="region region-footer-thirdcolumn">
+    <div id="block-search-form" class="block block-search">
+
+    <h2>Search</h2>
+  
+  <div class="content">
+    <form action="http://oxfordconnect.conted.ox.ac.uk/events/2013/pi-day-live-marcus-du-sautoy/find-pi" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-BhpLpNhTX6QrTgJoHXSCLhuf-PoNq5fOLwkLtNwGDE0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+              </div> <!-- /#footer-columns -->
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-views-64fd8a02aed9d0e03a739c1db30eee41" class="block block-views">
+
+    <h2>Oxford Connect, by:</h2>
+  
+  <div class="content">
+    <div class="view view-footer-event-partner-image view-id-footer_event_partner_image view-display-id-footer_partner_block view-dom-id-9b270cb2f8a1aff6a780fa2a9737a63f">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-field-partner-logo">        <div class="field-content"><a href="http://www.ox.ac.uk/"><img typeof="foaf:Image" src="../../../sites/oxfordconnect.conted.ox.ac.uk/files/styles/footer_image/public/partnerlogos/ox_brand_blue_pos_rect8dd2.png?itok=_6xnstPh" width="200" height="62" alt="The University of Oxford" /></a></div>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-field-partner-logo">        <div class="field-content"><a href="http://www.conted.ox.ac.uk/"><img typeof="foaf:Image" src="../../../sites/oxfordconnect.conted.ox.ac.uk/files/styles/footer_image/public/partnerlogos/conted_rect529d.png?itok=brW1d2fd" width="200" height="60" alt="" /></a></div>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-field-partner-logo">        <div class="field-content"><a href="http://www.netskills.ac.uk/"><img typeof="foaf:Image" src="../../../sites/oxfordconnect.conted.ox.ac.uk/files/styles/footer_image/public/partnerlogos/netskills_site_logo71de.png?itok=PkmXfTzB" width="200" height="36" alt="" /></a></div>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-menu-menu-footer-menu" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf"><a href="../../../about-oxford-connect/press.html" title="">Press</a></li>
+<li class="leaf"><a href="../../../about-oxford-connect/privacy-and-cookies.html" title="">Privacy and cookies</a></li>
+<li class="last leaf"><a href="../../../about-oxford-connect/terms-and-conditions.html" title="">Terms and conditions</a></li>
+</ul>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  <script type="text/javascript" src="../../../sites/oxfordconnect.conted.ox.ac.uk/files/js/js_Dpwj9_jdZx11LB9vWakYPT-NglBvlNPbjDg8kKHykyQ.js"></script>
+</body>
+
+<!-- Mirrored from oxfordconnect.conted.ox.ac.uk/events/2013/pi-day-live-marcus-du-sautoy/find-pi by HTTrack Website Copier/3.x [XR&CO'2010], Thu, 12 Mar 2015 09:49:03 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+</html>

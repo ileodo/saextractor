@@ -1,0 +1,382 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.futureoffood.ox.ac.uk/sites/futureoffood.ox.ac.uk/files/favico.gif" type="image/gif" />
+<meta name="description" content="Unit For Biocultural Variation And Obesity - Seminar Series - Hilary Term 2014
+Thursdays 1-2pm, 61 Banbury Road (Seminar Room) Oxford OX2 6PE
+Conveners: Stanley Ulijaszek &amp; Amy McLennan
+ALL WELCOME
+Thursday 13 March
+	Eleanor Bryant, Department of Psychology, Bradford University
+The status of disinhibition and its role in predicting eating behaviour" />
+<link rel="shortlink" href="/node/453" />
+<link rel="canonical" href="/events/ubvo-seminar-status-disinhibition-and-its-role-predicting-eating-behaviour" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>UBVO Seminar - The status of disinhibition and its role in predicting eating behaviour | Future of Food</title>
+  <style type="text/css" media="all">
+@import url("http://www.futureoffood.ox.ac.uk/modules/system/system.base.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/modules/system/system.menus.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/modules/system/system.messages.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/modules/system/system.theme.css?npd6jn");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.futureoffood.ox.ac.uk/modules/comment/comment.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/sites/all/modules/date/date_api/date.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/modules/field/theme/field.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/modules/node/node.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/modules/search/search.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/modules/user/user.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/sites/all/modules/views/css/views.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/sites/all/modules/ckeditor/css/ckeditor.css?npd6jn");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.futureoffood.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/sites/all/libraries/superfish/css/superfish.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/sites/all/libraries/superfish/css/superfish-vertical.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/sites/all/libraries/superfish/css/superfish-navbar.css?npd6jn");
+@import url("http://www.futureoffood.ox.ac.uk/sites/all/modules/views_slideshow/views_slideshow.css?npd6jn");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.futureoffood.ox.ac.uk/sites/all/themes/fof/css/mainstyle.css?npd6jn");
+</style>
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="http://www.futureoffood.ox.ac.uk/sites/all/themes/fof/css/ie-hacks8.css?npd6jn" media="all" />
+<![endif]-->
+
+<!--[if gt IE 8]>
+<link type="text/css" rel="stylesheet" href="http://www.futureoffood.ox.ac.uk/sites/all/themes/fof/css/ie-hacks9.css?npd6jn" media="all" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.futureoffood.ox.ac.uk/sites/all/themes/fof/css/ie-hacks7.css?npd6jn" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/misc/drupal.js?npd6jn"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/libraries/superfish/jquery.hoverIntent.minified.js?npd6jn"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/libraries/superfish/jquery.bgiframe.min.js?npd6jn"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/libraries/superfish/superfish.js?npd6jn"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/libraries/superfish/supersubs.js?npd6jn"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/libraries/superfish/supposition.js?npd6jn"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/libraries/superfish/sftouchscreen.js?npd6jn"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/modules/views_slideshow/js/views_slideshow.js?npd6jn"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/modules/google_analytics/googleanalytics.js?npd6jn"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1161194-17"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/themes/fof/js/jquery.example.min.js?npd6jn"></script>
+<script type="text/javascript" src="http://www.futureoffood.ox.ac.uk/sites/all/themes/fof/js/search-form-text.js?npd6jn"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"fof","theme_token":"CcRW4cqbXjHPz545lY6AsXN4tMzAAa543_g1IUjXP1c","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/fof\/js\/jquery.example.min.js":1,"sites\/all\/themes\/fof\/js\/search-form-text.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/themes\/fof\/css\/mainstyle.css":1,"public:\/\/google_fonts.css":1,"sites\/all\/themes\/fof\/css\/ie-hacks8.css":1,"sites\/all\/themes\/fof\/css\/ie-hacks9.css":1,"sites\/all\/themes\/fof\/css\/ie-hacks7.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+  <link href='http://fonts.googleapis.com/css?family=Bitter:400,700,400italic' rel='stylesheet' type='text/css'>
+
+  
+  
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-453 node-type-events" > 
+    <div id="headerback"></div>
+<div id="container">
+	<div id="header">
+		<div id="logoholder">
+			<a href="/" title="Home"><img src="/sites/all/themes/fof/css/images/foflogo.png" alt="Home" /></a>
+		</div>
+<div id="oxlogos" style="float:right; margin-top: 18px;"> <a href="http://www.ox.ac.uk/" target="_blank"><img src="/sites/all/themes/fof/css/images/oxforduniversity-logo.png" width="102" height="102" alt="Oxford University Logo"/></a>	
+        <a href="http://www.oxfordmartin.ox.ac.uk/" target="_blank"><img  src="/sites/all/themes/fof/css/images/oxfordmartingschool-logo.png" width="102" height="102" alt="Oxford Martin School Logo" /></a>
+
+    </div>
+    <div id="contactdets">
+					</div>
+		<div class="clear"></div>
+	</div>
+	    <div id="slidershadow"></div>
+	<div id="main">
+		<div id="leftstuff">
+			
+  <div class="region region-leftarea">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="collapsed"><a href="/about-programme-future-food">About Us</a></li>
+<li class="collapsed"><a href="/what-food-system">About the Food System</a></li>
+<li class="collapsed"><a href="/people" title="">Research Network</a></li>
+<li class="collapsed"><a href="/students">Information for Students</a></li>
+<li class="leaf"><a href="/project">Projects</a></li>
+<li class="collapsed"><a href="/policy">Policy</a></li>
+<li class="leaf"><a href="/organisations-oxford-area">Partnerships</a></li>
+<li class="collapsed"><a href="/theme">Themes</a></li>
+<li class="expanded active-trail"><a href="/events" class="active-trail">Events</a><ul class="menu"><li class="first leaf"><a href="/past-events" title="">Past Events</a></li>
+<li class="leaf"><a href="/video-audio">Video &amp; Audio</a></li>
+<li class="last leaf"><a href="/international-food-conferences">International Food Conferences</a></li>
+</ul></li>
+<li class="leaf"><a href="/news" title="">News</a></li>
+<li class="leaf"><a href="/blog">Blog</a></li>
+<li class="last collapsed"><a href="/contact-us">Contact</a></li>
+</ul>  </div>
+
+</div><!-- /.block -->
+<div id="block-views-latest-news-block" class="block block-views">
+
+        <h2>Latest News</h2>
+    
+  <div class="content">
+    <div class="view view-latest-news view-id-latest_news view-display-id-block view-dom-id-474e293faf409323d4f95135bc065e09">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-created-2">        <span class="field-content"><span class="bignum"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-16T10:45:00+01:00">16</span></span><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-16T10:45:00+01:00">Jun</span></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/grants-available-workshop-brazil-next-generation-sequencing-agriculture">Grants available: Workshop in Brazil on next generation sequencing in agriculture</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="clear"></div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-created-2">        <span class="field-content"><span class="bignum"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-16T10:00:00+01:00">16</span></span><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-16T10:00:00+01:00">Jun</span></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/job-opportunity-junior-policy-analyst-sustainable-agriculture-oecd-paris">Job Opportunity: Junior Policy Analyst - Sustainable Agriculture OECD [PARIS]</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="clear"></div></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-created-2">        <span class="field-content"><span class="bignum"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-10T16:45:00+01:00">10</span></span><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-10T16:45:00+01:00">Jun</span></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/job-opportunities-innovative-food-systems-education-coordinators-teaching-fellow">Job Opportunities: Innovative Food Systems Education Coordinators (Teaching Fellow)</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="clear"></div></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-created-2">        <span class="field-content"><span class="bignum"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-05-28T15:00:00+01:00">28</span></span><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-05-28T15:00:00+01:00">May</span></span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/news/research-fellow-crop-plant-modelling-and-food-security-kew-gardens-london">Research Fellow in Crop Plant Modelling and Food Security, Kew Gardens [LONDON]</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="clear"></div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+			<div class="clear"></div>
+		</div>
+		<div id="cont">
+			<span id="messages"></span><h1>UBVO Seminar - The status of disinhibition and its role in predicting eating behaviour</h1>           
+			
+  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    	<div id="node-453" class="node node-events clearfix" about="/events/ubvo-seminar-status-disinhibition-and-its-role-predicting-eating-behaviour" typeof="sioc:Item foaf:Document">
+ <div id="node-left"> 
+<div class="node-data">
+<div>
+<h5>Website</h5>
+<a href="http://oxfordobesity.org/?page_id=225">Visit the website</a><br/></div>
+<div>
+<h5>Themes</h5>
+<div class="field field-name-field-themes field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/theme/nutrition" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Nutrition</a></div></div></div></div>
+<div>
+<h5>Tags</h5>
+<div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/tags/ubvo" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">UBVO</a></div><div class="field-item odd"><a href="/tags/obesity" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">obesity</a></div><div class="field-item even"><a href="/tags/eating-behaviour" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">eating behaviour</a></div></div></div></div>
+</div>
+</div>
+<div id="node-article-right" class="half">
+
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><h3 style="font-family: Verdana, Arial, serif; color: rgb(0, 31, 70); margin-top: 6px; font-weight: normal; text-transform: capitalize;">
+	Unit For Biocultural Variation And Obesity - Seminar Series - Hilary Term 2014</h3>
+<p style="color: rgb(0, 0, 0); font-family: arial;">Thursdays 1-2pm, 61 Banbury Road (Seminar Room) Oxford OX2 6PE</p>
+<p style="color: rgb(0, 0, 0); font-family: arial;">Conveners: Stanley Ulijaszek &amp; Amy McLennan</p>
+<p style="color: rgb(0, 0, 0); font-family: arial;">ALL WELCOME</p>
+<p style="color: rgb(0, 0, 0); font-family: arial;">Thursday 13 March<br />
+	Eleanor Bryant, Department of Psychology, Bradford University</p>
+<p style="color: rgb(0, 0, 0); font-family: arial;">The status of disinhibition and its role in predicting eating behaviour</p>
+<!--break--></div></div></div>
+
+  </div>
+
+
+
+</div>
+
+</div><!-- /.node -->
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+		</div>
+		<div id="rightstuff">
+			
+  <div class="region region-rightarea">
+    <div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/events/ubvo-seminar-status-disinhibition-and-its-role-predicting-eating-behaviour" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Ox-ksIGuoWhNdrqdNBzH72nEI55ig3HT3cOjCVtUpso" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+</div><!-- /.block -->
+<div id="block-views-related-content-block" class="block block-views">
+
+        <h2>Pages with Similar Theme</h2>
+    
+  <div class="content">
+    <div class="view view-related-content view-id-related_content view-display-id-block view-dom-id-b80dd12d7d234ebf55586c2a127f07e7">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-type">        <span class="field-content">Events » </span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/events/fat-or-sugar-what-does-evidence-tell-us-about-priorities-weight-control"> Fat or sugar: What does the evidence tell us about the priorities for weight control?</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-type">        <span class="field-content">Events » </span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/events/ubvo-seminar-series-cognitive-profile-obesity-and-its-translation-new-cognitive-behavioural"> UBVO Seminar Series: A cognitive profile of obesity and its translation into new cognitive-behavioural health care interventions</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-type">        <span class="field-content">Events » </span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/events/ubvo-seminar-series-how-literary-studies-can-help-us-understand-eating-disorders"> UBVO Seminar Series: How literary studies can help us understand eating disorders</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-type">        <span class="field-content">Events » </span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/events/ubvo-seminar-series-anorexia-self-care-desire-stasis-and-not-eating"> UBVO Seminar Series: Anorexia as self-care: desire, stasis and not eating</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-type">        <span class="field-content">Events » </span>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/events/ubvo-seminar-series-liminal-patienthood-eating-disorders-ward"> UBVO Seminar Series: liminal patienthood on an eating disorders ward</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+<div id="block-block-6" class="block block-block">
+
+        <h2>Sign up to our Newsletter</h2>
+    
+  <div class="content">
+    <p>Keep informed about forthcoming events by signing up to our monthly newsletter:</p>
+<p><a href="/mailchimp/subscribe"><img alt="" src="/sites/futureoffood.ox.ac.uk/files/arrow.png" style="width: 33px; height: 34px; float: right;" /></a></p>
+<p><a href="/mailchimp/subscribe">Go to sign up page</a></p>
+  </div>
+
+</div><!-- /.block -->
+<div id="block-block-7" class="block block-block">
+
+        <h2>Twitter @oxfutureoffood</h2>
+    
+  <div class="content">
+    <p><a class="twitter-timeline" data-widget-id="308526924324552705" href="https://twitter.com/oxfutureoffood">Tweets by @oxfutureoffood</a> </p>
+<script>
+<!--//--><![CDATA[// ><!--
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+//--><!]]>
+</script>  </div>
+
+</div><!-- /.block -->
+<div id="block-views-from-the-blog-block" class="block block-views">
+
+        <h2>From the Blog</h2>
+    
+  <div class="content">
+    <div class="view view-from-the-blog view-id-from_the_blog view-display-id-block view-dom-id-fecc90fa9519eb6d0ef0fb9b94879dcd">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-image">        <div class="field-content"><img typeof="foaf:Image" src="http://www.futureoffood.ox.ac.uk/sites/futureoffood.ox.ac.uk/files/styles/from_the_blog/public/ccafs-climate-smart-agriculture-nyando-blog.jpg?itok=BpcmMu1b" width="200" height="100" alt="" /></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/negotiating-hunger-agriculture-and-un-climate-talks">Negotiating Hunger: Agriculture and the UN Climate Talks</a></span>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><a href="http://www.futureoffood.ox.ac.uk/blog/negotiating-hunger-agriculture-and-un-climate-talks"><div class="arrow"></div></a></span>  </div>  
+  <div class="views-field views-field-nothing-1">        <span class="field-content"><div class="clear"></div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+<div id="footer">
+	
+  <div class="region region-footarea">
+    <div id="block-block-1" class="block block-block">
+
+      
+  <div class="content">
+    <p>Oxford Martin Programme on the Future of Food<br />
+	c/o Department of Zoology<br />
+	South Parks Road<br />
+	Oxford<br />
+	OX1 3PS</p>
+  </div>
+
+</div><!-- /.block -->
+<div id="block-block-3" class="block block-block">
+
+      
+  <div class="content">
+    <p><a href="http://www.oxfordmartin.ox.ac.uk/privacy/">Privacy</a><br /><a href="http://www.oxfordmartin.ox.ac.uk/accessibility/">Accessibility</a><br /><a href="http://www.ox.ac.uk/copyright.html">Copyright</a><br /><a href="/photo-credits">Photo Credits</a><br />
+Site by <a href="http://www.global-initiative.com/" target="_blank">Initiative</a></p>
+  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+</div>
+<div id="footerback"></div>
+<div id="footershadow"></div>
+
+      <script type="text/javascript">
+  
+jQuery(document).ready(function() {
+  
+    jQuery('#search-block-form .form-text').example('Enter search terms');
+
+  });
+  </script>
+</body>
+</html>

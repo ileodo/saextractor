@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"> 
+	<title>WHO immunization week malaria - Nuffield Department of Medicine</title>
+			<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/normalize.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/general.css" type="text/css" />
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" media="print" href="/_static/website/stylesheets/print.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery.lightbox-0.5.css" type="text/css" /><link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery-ui-1.10.4.custom.min.css" type="text/css" />	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+	<script src="/_static/website/javascripts/jquery.lightbox-0.5.min.js" type="text/javascript"></script><script src="/_static/website/javascripts/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>		<link rel="shortcut icon" href="/_static/website/images/icons/favicon.ico" type="image/x-icon" />
+	
+</head>
+<body class="ndm">
+		<div id="header-wrapper">
+		<div id="header">
+			<a href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-box" src="/_static/website/images/ox-square-border.gif" alt="Oxford University logo" /></a>
+			<ul id="header-menu">
+				<li><a class="link-home" href="/" title="Home">Home</a></li>
+				<li><a class="link-site-map" href="/_sitemap" title="Site Map">Site Map</a></li>
+				<li><a class="link-contact" href="/contact" title="Contact">Contact</a></li>
+				<li><a class="link-twitter1" href="https://twitter.com/NDMOxford" title="Twitter" target="_blank">@NDMOxford</a></li>
+				<li><a id="link-edit" class="link-edit" href="/_admin/view/2610" title="Edit">Edit</a></li>				<li>
+					<!-- <form class="search" action="/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onfocus="if(this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form></li> -->
+					
+			<form class="search" id="cse-search-box" action="/_search">
+					
+			 <input type="hidden" name="cx" value="013190107294343682755:ydgidd4jjni" />
+			 <input type="hidden" name="ie" value="UTF-8" />
+			 <input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+			 
+			 <input type="hidden" name="nojs" value="1" />
+		   </form></li>
+					
+			</ul>
+						<a href="/" title="Link to Nuffield Department of Medicine homepage"><img style="margin-top:1px" id="logo-ndm" src="/_static/website/images/logo-ndm-new.png"  alt="Nuffield Department of Medicine logo" /></a>
+			<h1><a href="/" title="Link to Nuffield Department of Medicine homepage"><img src="/_static/website/images/heading1-ndm2.gif" alt="Nuffield Department of Medicine" /></a></h1>
+			<h2 id="ndm-medSciLink"><a href="http://www.medsci.ox.ac.uk/" title="Link to Medical Sciences Division homepage" target="_blank"><img src="/_static/website/images/heading2-medsci2.gif" alt="Medical Sciences Division" /></a></h2>
+			<ul id="primary-menu">
+							<li><span><a  href="/home" title="Home">Home</a></span></li>
+							<li><span><a  href="/research" title="Research">Research</a></span></li>
+							<li><span><a  href="/graduate-studies" title="Graduate Studies">Graduate Studies</a></span></li>
+							<li><span><a  href="/clinical-care" title="Clinical Care">Clinical Care</a></span></li>
+							<li><span><a  href="/seminars" title="Seminars">Seminars</a></span></li>
+							<li><span><a  href="/international" title="International">International</a></span></li>
+							<li class="current"><span><a  href="/outreach" title="Outreach">Outreach</a></span></li>
+							<li><span><a  href="/about-us" title="About us">About us</a></span></li>
+							<li><span><a  href="/jobs" title="Jobs">Jobs</a></span></li>
+							<li><span><a  href="/tools" title="Tools">Tools</a></span></li>
+							<li><span><a  href="/sops" title="SOPs">SOPs</a></span></li>
+						</ul>
+		</div>
+	</div>
+	<div id="content-wrapper">
+									<ul id="secondary-menu" class="group">
+							<li><a  class="secondary-menu-link" href="/public-engagement" title="Public Engagement">Public Engagement</a></li>
+							<li><a  class="secondary-menu-link" href="/upcoming-outreach-events" title="Upcoming Outreach Events">Upcoming Outreach Events</a></li>
+							<li><a  class="secondary-menu-link" href="/news-past-outreach-events" title="News &amp; Past Outreach Events">News &amp; Past Outreach Events</a></li>
+							<li><a  class="secondary-menu-link" href="/research-impact-3" title="Research Impact">Research Impact</a></li>
+							<li class="current"><a  class="secondary-menu-link" href="/research-campaigns-2" title="Research campaigns">Research campaigns</a></li>
+							<li><a  class="secondary-menu-link" href="/mobile-apps" title="Mobile Apps">Mobile Apps</a></li>
+							</ul>	
+				<script type="text/javascript">
+$( document ).ready(function() {
+	$("a.research_group_link").each(function(index) {
+		if ($("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").length > 0) {
+			$("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").append(this);
+		}
+		else {
+			$(this).hide();
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+$(function() {
+	$('a.lightbox').lightBox({
+		overlayOpacity: 0.6,
+		imageLoading: '/_static/website/images/lightbox/lightbox-ico-loading.gif',
+		imageBtnClose: '/_static/website/images/lightbox/lightbox-btn-close.gif',
+		imageBtnPrev: '/_static/website/images/lightbox/lightbox-btn-prev.gif',
+		imageBtnNext: '/_static/website/images/lightbox/lightbox-btn-next.gif',
+		imageBlank: '/_static/website/images/lightbox/lightbox-blank.gif'
+	});
+});
+</script>
+<div id="content">
+	<h1>Immunization Week 2014</h1>
+<h2>Malaria Vaccines</h2>
+<div class="image_container left" style="width: 220px;"><img src="/_asset/image/adrianhill.jpeg" alt="AdrianHill" /></div>
+<p>The last week of April each year is <a href="http://www.who.int/campaigns/immunization-week/2014/en/">Immunization Week</a>. Whilst many diseases can be prevented by vaccination, there is currently <a href="http://www.ndm.ox.ac.uk/adrian-hill-malaria-vaccines">no licensed vaccine for malaria</a> &ndash; a disease that affects many millions of people each year with a high mortality rate.</p>
+<p>NDM spoke to <a href="http://www.ndm.ox.ac.uk/principal-investigators/researcher/adrian-hill">Professor Adrian Hill</a>, Director of the<a href="http://www.jenner.ac.uk/"> Jenner Institute</a> and a leader in malaria vaccine development, about his aspirations to develop a highly effective licensed vaccine that could eventually help eradicate malaria.</p>
+<p><strong>Q: Why do we need a malaria vaccine?</strong></p>
+<p><strong>Adrian Hill:</strong> Malaria is one of the biggest killers of children in the developing world. It leads to well over half a million childhood deaths in Africa alone every year. It causes hundreds of millions of clinical cases of malaria in many parts of the world and we are struggling to control the disease with the tools that we have today. These are spraying insecticide, using anti-malarial drugs (often in combinations as we need multiple drugs to treat the infection now), and deploying bed nets. Even using all of these approaches and spending over $1billion a year to try and control malaria, we still have this huge mortality and morbidity. We need something new to reduce the disease burden substantially and to eventually try and eliminate malaria. The best technology for doing that is a malaria vaccine.</p>
+<div class="image_container right" style="width: 215px;"><img src="/_asset/image/mosquito-2.jpeg" alt="Mosquito" /></div>
+<p><strong>Q: Can you explain the advantages and disadvantages of the existing malaria vaccine approaches, which target different stages of the malaria life-cycle?</strong></p>
+<p><strong>AH: </strong>The pre-erythrocytic is the first stage of infection after a mosquito bite and the stage of the life-cycle where most progress in developing a malaria vaccine has been made. Several groups have designed vaccines to tackle the sporozoite, the parasite form that is injected by a mosquito. You need very high levels of antibody response for this approach to work but the leading vaccine developed by GlaxoSmithKline is promising and shows some consistent but partial efficacy. It is currently in late-stage clinical trials and may even be licensed in the next few years.</p>
+<p>Our own approach was originally to target the liver-stage of infection, which comes directly after the sporozoite stage. To do this we have developed new technologies to induce &lsquo;cellular immunity&rsquo;, which involves white blood cells that can kill the parasite inside a liver cell. We have a vaccine that is currently in trials in Africa with initial results looking very promising.</p>
+<p>The next stage of malaria infection is the blood stage. This is an obvious stage to target for vaccine development because it is the blood stage that causes the signs and symptoms of the disease. What has been found is that the parasite is very genetically variable at this stage and it has been a tough target for vaccine development. Most of the vaccines that have been tested have not shown any efficacy at the blood stage. However, there are some exciting new candidates coming along, particularly from the work of <a href="http://www.ndm.ox.ac.uk/simon-draper-progress-in-malaria-vaccine-research">Dr Simon Draper&rsquo;s</a> group at the Jenner Institute, and a new blood stage vaccine based on the PfRH5 antigen is currently undergoing clinical testing.</p>
+<p>Finally, you have the <a href="http://www.ndm.ox.ac.uk/sumi-biswas-can-we-block-malaria-transmission">transmission-blocking stage</a>. Not as much attention has been given to this stage because it doesn&rsquo;t prevent someone getting malaria but rather stops an infected person transmitting the disease to somebody else. This is an interesting approach and it does work in some models, but it is still at a very early stage of clinical development. However, a lot more interest has been shown in this approach in the last couple of years because it might be crucial for eradicating malaria and that is something that we would eventually aspire to do, after we can get the disease under control by deploying other vaccine types.</p>
+<p><strong>Q: Over the last ten to fifteen years what have been the biggest advances in developing a malaria vaccine?</strong></p>
+<p><strong>AH:</strong> I have been in the field for the last ten/fifteen years and there has been a huge progress from just getting a little bit of efficacy in some vaccine trials to now protecting most people and getting towards a really high level of efficacy with some vaccine regimes. Some of those vaccine regimes are fairly complicated and might be difficult to use in Africa, but at least we can show now that we can protect most people against malaria with some vaccine candidates. That is real progress, going from under little efficacy to very high efficacy in about a decade.</p>
+<p><strong>Q: What are the challenges that we still need to tackle in order to have an available malaria vaccine?</strong></p>
+<p><strong>AH</strong><strong>: </strong>The goal is to have a licensed deployable malaria vaccine, something that we are still working towards. It is likely that there will be a single-component licensed vaccine available in the next few years but it is unlikely to have very high efficacy so this won&rsquo;t be the final malaria vaccine but is a good start. Second-generation malaria vaccines are being developed and are coming along very quickly. These look to be much more effective although they will be a bit more difficult to manufacture and possibly to deploy, and a probably bit more expensive than a first generation vaccine. &nbsp;But they are what is really needed if we are serious about reducing mortality from malaria and eventually eradicating it. There are still big challenges ahead and many years of work but it is very clear that a lot of progress is being made and that the field is more exciting today than it has ever been. It has been shown that a vaccine for malaria is feasible and the challenge now is to take these improved vaccines from the proof of concept stage that we are currently at in small clinical trials, to licensing them and then right through to deployment to vaccinate millions of children in Africa every year.</p></div>
+<div id="side-bar">
+	<div class="side-box">
+		<h3>Research campaigns</h3>
+		<ul>
+						<li><a  href="/world-no-tobacco-day-2015" title="World No Tobacco Day 2015">World No Tobacco Day 2015</a>			</li>
+						<li><a  href="/ebola-vaccines-2015" title="Ebola vaccines 2015">Ebola vaccines 2015</a>			</li>
+						<li><a  href="/making-vaccines-more-effective" title="Making Vaccines More Effective">Making Vaccines More Effective</a>			</li>
+						<li><a  href="/world-malaria-day-2015" title="World Malaria Day 2015">World Malaria Day 2015</a>			</li>
+						<li><a  href="/world-health-day-2015" title="World Health Day 2015">World Health Day 2015</a>			</li>
+						<li><a  href="/tb-day-2015" title="TB day 2015">TB day 2015</a>			</li>
+						<li><a  href="/a-new-way-to-administer-tb-vaccines" title="A new way to administer TB vaccines">A new way to administer TB vaccines</a>			</li>
+						<li><a  href="/who-tb-day-2014" title="WHO TB day 2014">WHO TB day 2014</a>			</li>
+						<li><a  href="/who-aids-day" title="WHO AIDS day">WHO AIDS day</a>			</li>
+						<li><a  href="/hiv-a-personal-story" title="HIV: A personal story">HIV: A personal story</a>			</li>
+						<li><a  href="/who-hepatitis-day" title="WHO hepatitis day">WHO hepatitis day</a>			</li>
+						<li><a  href="/who-world-blood-donor-day-2014" title="WHO world blood donor day">WHO world blood donor day</a>			</li>
+						<li><a  href="/who-no-tobacco-day-2014" title="WHO no tobacco day 2014">WHO no tobacco day 2014</a>			</li>
+						<li><a  href="/who-immunization-week-flu" title="WHO immunization week flu">WHO immunization week flu</a>			</li>
+						<li><a  href="/who-world-malaria-day-2014" title="WHO world malaria day 2014">WHO world malaria day 2014</a>			</li>
+						<li class="current"><a  href="/who-immunization-week-malaria" title="WHO immunization week malaria">WHO immunization week malaria</a>			</li>
+						<li><a  href="/who-world-health-day-2014" title="WHO world health day 2014">WHO world health day 2014</a>			</li>
+						<li><a  href="/world-blood-donor-day-2015" title="World Blood Donor Day 2015">World Blood Donor Day 2015</a>			</li>
+					</ul>
+	</div>
+</div>
+				<div id="footer">
+			<a style="float:left; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/athena-swan" title="Link to Athena SWAN NDM pages" target="_blank"><img class="logo-athena" src="/_static/website/images/athena-swan-silver.png" alt="Athena SWAN logo" /></a><a style="float:right; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/working-for-ndm" title="Link to Working for NDM" target="_blank"><img src="/_static/website/images/ndm-men-coloured.jpg" alt="Nuffield Department of Clincial Medicine logo" /></a>
+			<p>
+				© 2015 Offices of the Nuffield Professor of Medicine, Nuffield Department of Medicine, University of Oxford<br />
+				Henry Wellcome Building for Molecular Physiology, Old Road Campus, Headington, Oxford OX3 7BN
+			</p>
+			
+			<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img alt="newt favicon" src="/_static/website/images/newt-favicon.gif" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img alt="pinfox favicon" src="/_static/website/images/pinfox-favicon.gif" /> Pinfox</a></p>
+			<p>
+				<a href="/">Home</a>
+				| <a href="/_sitemap">Site Map</a>
+				| <a href="/contact">Contact</a>
+								| <a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a>
+				| <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> 
+				| <a href="http://www.ox.ac.uk/copyright.html" target="_blank">Copyright</a>
+				| <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a>
+				| <a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a>
+				| <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a>
+			</p>
+		</div>
+			</div>
+	
+	
+	<script>
+		$(document).ready(function(){
+			$('input[name="nojs"]','#cse-search-box').remove();	
+		});
+	</script>
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5929760-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

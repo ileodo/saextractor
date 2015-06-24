@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<!-- Sorry no IE7 support! -->
+<!-- @see http://foundation.zurb.com/docs/index.html#basicHTMLMarkup -->
+
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head><script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setSiteSpeedSampleRate',100]);</script>
+  <meta charset="utf-8"/>
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:400" rel="stylesheet"/>
+<meta name="viewport" content="width=device-width, maximum-scale = 1.0"/>
+<meta http-equiv="ImageToolbar" content="false"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet"/>
+<link rel="shortcut icon" href="http://www.asc.ox.ac.uk/sites/stage.all-souls.ox.ac.uk/themes/allsouls/favicon.ico"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="/event/writers-talks-and-seminar-series-orienting-fiction-7"/>
+<link rel="shortlink" href="/node/840"/>
+  <title>All Souls College Oxford</title>
+  <link rel="stylesheet" href="http://www.asc.ox.ac.uk/A.modules,,_system,,_system.base.css,,qnphahw+modules,,_system,,_system.messages.css,,qnphahw+modules,,_system,,_system.theme.css,,qnphahw+sites,,_all,,_modules,,_jquery_update,,_replace,,_ui,,_themes,,_base,,_minified,,_jquery.ui.core.min.css,,qnphahw+sites,,_all,,_modules,,_jquery_update,,_replace,,_ui,,_themes,,_base,,_minified,,_jquery.ui.theme.min.css,,qnphahw+sites,,_all,,_modules,,_jquery_update,,_replace,,_ui,,_themes,,_base,,_minified,,_jquery.ui.button.min.css,,qnphahw+sites,,_all,,_modules,,_jquery_update,,_replace,,_ui,,_themes,,_base,,_minified,,_jquery.ui.resizable.min.css,,qnphahw+sites,,_all,,_modules,,_jquery_update,,_replace,,_ui,,_themes,,_base,,_minified,,_jquery.ui.dialog.min.css,,qnphahw+sites,,_all,,_modules,,_calendar,,_css,,_calendar_multiday.css,,qnphahw+sites,,_all,,_modules,,_date,,_date_api,,_date.css,,qnphahw+sites,,_all,,_modules,,_date,,_date_popup,,_themes,,_datepicker.1.7.css,,qnphahw+modules,,_field,,_theme,,_field.css,,qnphahw,Mcc.-Ck1It07aI.css.pagespeed.cf.mc9ngNMJgO.css"/>
+
+<link rel="stylesheet" href="http://www.asc.ox.ac.uk/A.modules,,_node,,_node.css,,qnphahw+modules,,_search,,_search.css,,qnphahw+modules,,_user,,_user.css,,qnphahw+sites,,_all,,_modules,,_views,,_css,,_views.css,,qnphahw,Mcc.yIP0KVfV-h.css.pagespeed.cf.ybi-KVyEje.css"/><link rel="stylesheet" href="http://www.asc.ox.ac.uk/sites/all/modules/ckeditor/css/ckeditor.css?nphahw"/>
+<link rel="stylesheet" href="http://www.asc.ox.ac.uk/sites/all/modules/A.ctools,,_css,,_ctools.css,,qnphahw+panels,,_css,,_panels.css,,qnphahw,Mcc.OLZuXTSJEm.css.pagespeed.cf.tb-PCpd2GZ.css"/>
+
+<!--[if lte IE 9]>
+<link rel="stylesheet" href="http://www.asc.ox.ac.uk/sites/stage.all-souls.ox.ac.uk/themes/allsouls/css/ie_lte9.css?nphahw" />
+<![endif]-->
+<link rel="stylesheet" href="http://www.asc.ox.ac.uk/sites/A.all,,_modules,,_panels,,_plugins,,_layouts,,_onecol,,_onecol.css,,qnphahw+stage.all-souls.ox.ac.uk,,_themes,,_zurb-foundation,,_css,,_foundation.min.css,,qnphahw+stage.all-souls.ox.ac.uk,,_themes,,_allsouls,,_css,,_custom.css,,qnphahw+stage.all-souls.ox.ac.uk,,_themes,,_allsouls,,_css,,_slick.css,,qnphahw,Mcc.QRFRMwpIBA.css.pagespeed.cf.3zIHtNRNEn.css"/>
+
+  <script src="http://www.asc.ox.ac.uk/sites/stage.all-souls.ox.ac.uk/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js"></script>
+<script src="http://www.asc.ox.ac.uk/sites/stage.all-souls.ox.ac.uk/files/js/js_oyc7Kk_MWEgcdAFN6EvQhy5Nl9IHa9dZGqTkN2luIl0.js"></script>
+<script src="http://www.asc.ox.ac.uk/sites/stage.all-souls.ox.ac.uk/files/js/js_wr_JpMjWuY-Ch9t6l9QDl7sgNCgJ6LF2NYUrIfc4YYg.js"></script>
+<script src="http://www.asc.ox.ac.uk/sites/stage.all-souls.ox.ac.uk/files/js/js_xBx5cFjMSKNIIompqbYrv8jXRrgffMn5ruvgVkjcuc8.js"></script>
+<script>jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"allsouls","theme_token":"24PzV-hXtZjT9EGY54JaIk7K2xzANHTfdXPMXp6qewo","jquery_version":"1.7","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/linkit\/js\/linkit.js":1,"misc\/progress.js":1,"sites\/all\/modules\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/stage.all-souls.ox.ac.uk\/themes\/allsouls\/js\/vendor\/custom.modernizr.js":1,"sites\/stage.all-souls.ox.ac.uk\/themes\/allsouls\/js\/foundation.min.js":1,"sites\/stage.all-souls.ox.ac.uk\/themes\/allsouls\/js\/vendor\/slick.min.js":1,"sites\/stage.all-souls.ox.ac.uk\/themes\/allsouls\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/stage.all-souls.ox.ac.uk\/themes\/allsouls\/css\/ie_lte9.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/stage.all-souls.ox.ac.uk\/themes\/zurb-foundation\/css\/normalize.css":1,"sites\/stage.all-souls.ox.ac.uk\/themes\/zurb-foundation\/css\/foundation.min.css":1,"sites\/stage.all-souls.ox.ac.uk\/themes\/allsouls\/css\/custom.css":1,"sites\/stage.all-souls.ox.ac.uk\/themes\/allsouls\/css\/slick.css":1}},"linkit":{"autocompletePath":"http:\/\/www.asc.ox.ac.uk\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"\/linkit\/dashboard\/","currentInstance":{}}});</script>
+  <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-840 node-type-event-series standard-left-navigation section-event">
+  <div class="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<!-- .off-canvas-wrap -->
+<div class="off-canvas-wrap">
+	<div class="inner-wrap">
+		<nav class="row top-header">
+			<section class="logo-column columns large-8 medium-8 no-padding">
+				<h1 class="title">
+                          <a href="/"><img src="http://www.asc.ox.ac.uk/sites/stage.all-souls.ox.ac.uk/themes/allsouls/xlogo.png.pagespeed.ic.JFBqzTtJLt.png" alt="All Souls College Oxford " title="All Souls College Oxford " id="logo"/></a>
+                      </h1>
+			</section>
+			<section class="columns large-4 medium-4 header-right show-for-medium-up no-padding">
+        <div class="row">
+			   <div class="header-contact columns large-12 medium-12 small-12">
+			     <span class="item telephone">T: +44 (0)1865 279 379</span>
+           <span class="item visiting"><a href="/visiting">Visiting</a></span>
+			     <span class="item contact"><a href="/contact">Contact</a></span>
+			     <span class="item login"><a href="/login">Log in</a></span>
+			   </div>
+         <div class="header-search-box columns large-12 medium-12 small-12">
+          <form action="/event/writers-talks-and-seminar-series-orienting-fiction-7" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline row collapse">
+  <div class="small-8 large-10 medium-10 columns"><div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." class="small-8 columns form-text" type="text" id="edit-search-block-form--4" name="search_block_form" value="" size="15" maxlength="128"/>
+</div>
+</div>
+  <div class="small-4 large-2 medium-2 columns"><button class="postfix small-4 large-2 columns form-submit" id="edit-submit--2" name="op" value="Search" type="submit"><span class="label">Search</span><i class='fi-magnifying-glass'></i></button>
+</div>
+  <input type="hidden" name="form_build_id" value="form-urkpspM8Li9ixHclwrIU7G_Ast-lCatkAwzM3ZbtcY8"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+
+ </div></form>         </div>
+       </div>
+			</section>
+		</nav>
+		<aside class="left-off-canvas-menu">
+			<div class="trigger-exit-off-canvas">
+				<i class="fi-x"></i>
+			</div>
+			<div class="main-offcanvas-menu"><div class="panel-display panel-1col clearfix" id="mini-panel-menu_left_column">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-menu-tree pane-main-menu sidemenu backup">
+  
+        <h2 class="pane-title">
+      <a href="/diary" class="active-trail active-trail active-trail">Diary</a>    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-6 menu-name-main-menu parent-mlid-main-menu:0 menu-level-2">
+  <ul class="menu"><li class="first last leaf active-trail active menu-mlid-1400"><a href="/event/writers-talks-and-seminar-series-orienting-fiction-7" class="menu-position-link active-trail active">Writers&#039; Talks and Seminar Series: Orienting Fiction </a><div class="menu-arrow-right"></div></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div>                         <section class="block block-panels-mini block-panels-mini-menu-and-content-off-canvas">
+
+      
+      <div class="panel-display panel-1col clearfix" id="mini-panel-menu_and_content_off_canvas">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-menu-tree pane-main-menu sidemenu">
+  
+        <h2 class="pane-title">
+      Sections    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-4 menu-name-main-menu parent-mlid-main-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1455"><a href="/all-souls-college-oxford">Home</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1447"><a href="/about-all-souls">About</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1088"><a href="/people-section">People</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1052"><a href="/lectures-seminars-0">Lectures and Seminars</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-844"><a href="/appointments">Appointments</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1177"><a href="/research-0">Research</a><div class="menu-arrow-right"></div></li>
+<li class="leaf active-trail menu-mlid-1062"><a href="/diary" class="active-trail">Diary</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1547"><a href="/chapel-allsouls">The Chapel</a><div class="menu-arrow-right"></div></li>
+<li class="last leaf menu-mlid-1175"><a href="/library">The Codrington Library</a><div class="menu-arrow-right"></div></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-search-form">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/event/writers-talks-and-seminar-series-orienting-fiction-7" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline row collapse">
+  <div class="small-8 large-10 medium-10 columns"><div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="small-8 columns form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128"/>
+</div>
+</div>
+  <div class="small-4 large-2 medium-2 columns"><button class="postfix small-4 large-2 columns form-submit" id="edit-submit" name="op" value="Search" type="submit"><span class="label">Search</span><i class='fi-magnifying-glass'></i></button>
+</div>
+  <input type="hidden" name="form_build_id" value="form-npyKFxGPNn4i9R8Ns5aU1L36-8DoWk9pGC1KF-HtxaI"/>
+<input type="hidden" name="form_id" value="search_block_form"/>
+</div>
+
+ </div></form>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  
+</section>                </aside>
+
+		<!--.page -->
+		<div role="document" class="page">
+
+		  	              <nav class="main-dropdown-menu bar">
+                <div class="row">
+                  <div class="columns large-12 medium-12 show-for-medium-up">
+                    <ul id="main-menu" class="main-nav left"><li><a href="/all-souls-college-oxford">Home</a></li><li><a href="/about-all-souls">About</a></li><li><a href="/people-section">People</a></li><li><a href="/lectures-seminars-0">Lectures and Seminars</a></li><li><a href="/appointments">Appointments</a></li><li><a href="/research-0">Research</a></li><li class="active-trail"><a href="/diary">Diary</a></li><li><a href="/chapel-allsouls">The Chapel</a></li><li><a href="/library">The Codrington Library</a></li></ul>                  </div>
+                </div>
+              </nav>
+                        <nav class="main-mobile-menu-bar hide-for-medium-up">
+              <div class="left-small"><a href="#" class="left-off-canvas-toggle menu-icon"><span>Menu</span></a></div>
+            </nav>
+
+			<!--.l-header region -->
+			<header role="banner" class="l-header">
+
+
+              
+            </header>
+			<!--/.l-header -->
+
+  
+  
+  
+  <main role="main" class="row l-main">
+    <h2 class="element-invisible">You are here</h2><ul class="breadcrumbs"><li><a href="/">Home</a></li><li><a href="/diary">Diary</a></li><li class="current"><a href="#">Writers' Talks and Seminar Series: Orienting Fiction </a></li></ul>	<div class="large-12 main columns">
+      
+      <a id="main-content"></a>
+
+      
+      
+                            
+      
+        
+      
+        <div class="row collapse row-top">
+    <div class="large-12 columns"></div>
+  </div>
+
+      <div class="row row-center-1 collapse">
+      <div class="large-4 medium-4 small-12 columns first">
+        <div class="content-wrapper"><div class="content equalize">
+          <div class="panel-pane pane-panels-mini pane-menu-left-column">
+  
+      
+  
+  <div class="pane-content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-menu_left_column">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-menu-tree pane-main-menu sidemenu backup">
+  
+        <h2 class="pane-title">
+      <a href="/diary" class="active-trail">Diary</a>    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-2 menu-name-main-menu parent-mlid-main-menu:0 menu-level-2">
+  <ul class="menu"><li class="first last leaf active-trail active menu-mlid-1400"><a href="/event/writers-talks-and-seminar-series-orienting-fiction-7" class="menu-position-link active-trail active">Writers&#039; Talks and Seminar Series: Orienting Fiction </a><div class="menu-arrow-right"></div></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+        </div></div>
+      </div>
+      <div class="large-8 medium-8 small-12 columns last equalize">
+        <div class="content">
+          <div class="panel-pane pane-node-title border-top-gold">
+  
+      
+  
+  <div class="pane-content">
+    <h1>Writers&#039; Talks and Seminar Series: Orienting Fiction </h1>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-event-venue">
+  
+        <h2 class="pane-title">
+      Series venues    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-event-venue field-type-taxonomy-term-reference field-label-hidden field-wrapper clearfix"><ul class="links"><li class="taxonomy-term-reference-0" class="field-item even">All Souls College</li></ul></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-series-convenor">
+  
+        <h2 class="pane-title">
+      Series Convenor    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-series-convenor field-type-text field-label-hidden field-wrapper">Marina Warner </div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-body">
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden field-wrapper Array field"><p><em>With the support of La Maison Française d’Oxford and Mohamed-Salah Omri, OCCT and St John’s College. </em></p>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-views-panes pane-events-events-in-series-panel-pane-2">
+  
+      
+  
+  <div class="pane-content">
+    <div class="view view-events-events-in-series view-id-events_events_in_series view-display-id-panel_pane_2 view-dom-id-b1d1775cf4fe46ea431440c310e2a4fc">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content row"><div class="column large-4 medium-4 small-6"><span class="day"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-04-30T15:00:00+01:00">30</span></span><span class="month"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-04-30T15:00:00+01:00">April</span></span></div>
+<div class="column large-8 medium-8 small-6">Writers&#039; Talks and Seminar Series: Orienting Fiction – &#039;Story-Bearers: Dante and Sindbad&#039; <span class="read-more small-text">(<a href="/event/writers-talks-and-seminar-series-orienting-fiction-%E2%80%93-story-bearers-dante-and-sindbad">more details...</a>)</span><div class="speaker"><div class="item-list"><ul><li class="first last">Abdelfattah Kilito </li>
+</ul></div></div></div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content row"><div class="column large-4 medium-4 small-6"><span class="day"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-05-07T17:00:00+01:00">7</span></span><span class="month"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-05-07T17:00:00+01:00">May</span></span></div>
+<div class="column large-8 medium-8 small-6">Writers&#039; Talks and Seminar Series: Orienting Fiction – &#039;Stories in Motion/Ways of Dwelling&#039; <span class="read-more small-text">(<a href="/event/writers-talks-and-seminar-series-orienting-fiction-0">more details...</a>)</span><div class="speaker"><div class="item-list"><ul><li class="first last">Marina Warner</li>
+</ul></div></div></div></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content row"><div class="column large-4 medium-4 small-6"><span class="day"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-05-14T17:00:00+01:00">14</span></span><span class="month"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-05-14T17:00:00+01:00">May</span></span></div>
+<div class="column large-8 medium-8 small-6">Writers&#039; Talks and Seminar Series: Orienting Fiction – &#039;&quot;The Wondrous Flitting&quot; of the Holy House: Mary in England&#039; <span class="read-more small-text">(<a href="/event/writers-talks-and-seminar-series-orienting-fiction-1">more details...</a>)</span><div class="speaker"><div class="item-list"><ul><li class="first last">Marina Warner</li>
+</ul></div></div></div></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content row"><div class="column large-4 medium-4 small-6"><span class="day"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-05-21T15:00:00+01:00">21</span></span><span class="month"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-05-21T15:00:00+01:00">May</span></span></div>
+<div class="column large-8 medium-8 small-6">Writers&#039; Talks and Seminar Series: Orienting Fiction – &#039;Vagabond Homeland&#039; <span class="read-more small-text">(<a href="/event/writers-talks-and-seminar-series-orienting-fiction-2">more details...</a>)</span><div class="speaker"><div class="item-list"><ul><li class="first last">Ibrahim Al-Koni</li>
+</ul></div></div></div></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content row"><div class="column large-4 medium-4 small-6"><span class="day"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-05-28T17:00:00+01:00">28</span></span><span class="month"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-05-28T17:00:00+01:00">May</span></span></div>
+<div class="column large-8 medium-8 small-6">Writers&#039; Talks and Seminar Series: Orienting Fiction – &#039;Elissa the Wanderer: Dido in Carthage&#039; <span class="read-more small-text">(<a href="/event/writers-talks-and-seminar-series-orienting-fiction-3">more details...</a>)</span><div class="speaker"><div class="item-list"><ul><li class="first last">Marina Warner</li>
+</ul></div></div></div></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content row"><div class="column large-4 medium-4 small-6"><span class="day"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-04T15:00:00+01:00">4</span></span><span class="month"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-04T15:00:00+01:00">June</span></span></div>
+<div class="column large-8 medium-8 small-6">Writers&#039; Talks and Seminar Series: Orienting Fiction – &#039;La narration dangereuse: nos personnages et la mise-en-abîme&#039; <span class="read-more small-text">(<a href="/event/writers-talks-and-seminar-series-orienting-fiction-4">more details...</a>)</span><div class="speaker"><div class="item-list"><ul><li class="first last">Hoda Barakat</li>
+</ul></div></div></div></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content row"><div class="column large-4 medium-4 small-6"><span class="day"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-12T17:00:00+01:00">12</span></span><span class="month"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-12T17:00:00+01:00">June</span></span></div>
+<div class="column large-8 medium-8 small-6">Writers&#039; Talks and Seminar Series: Orienting Fiction – Film Screening: &#039;Shéhérazade, ou la parole contre la mort&#039; (2011) <span class="read-more small-text">(<a href="/event/writers-talks-and-seminar-series-orienting-fiction-5">more details...</a>)</span><div class="speaker"><div class="item-list"><ul><li class="first last">Nacer Khemir </li>
+</ul></div></div></div></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content row"><div class="column large-4 medium-4 small-6"><span class="day"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-18T17:00:00+01:00">18</span></span><span class="month"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2015-06-18T17:00:00+01:00">June</span></span></div>
+<div class="column large-8 medium-8 small-6">Writers&#039; Talks and Seminar Series: Orienting Fiction – &#039;Riddle Princess: Turandot in Paris&#039; <span class="read-more small-text">(<a href="/event/writers-talks-and-seminar-series-orienting-fiction-6">more details...</a>)</span><div class="speaker"><div class="item-list"><ul><li class="first last">Marina Warner</li>
+</ul></div></div></div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+        </div>
+      </div>
+    </div>
+  
+  <div class="row collapse row-last">
+    <div class="large-12 columns"></div>
+  </div>
+  
+    </div>
+			<!--/.main region -->
+
+    
+      </main>
+			<!--/.main-->
+
+  
+      <!--.footer-columns -->
+			<section class="l-footer-columns">
+              <div class="footer-first large-12 columns">
+              <section class="block block-panels-mini block-panels-mini-footer-standard-responsive">
+
+      
+      
+<div class="row" id="mini-panel-footer_standard_responsive">
+  <div class="large-4 medium-4 small-12 columns">
+    <div class="panel-pane pane-menu-tree pane-menu-footer-menu">
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-menu-footer-menu-1 menu-name-menu-footer-menu parent-mlid-menu-footer-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1025"><a href="/" title="">Home</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1026"><a href="/about-all-souls" title="">About</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1184"><a href="/gallery/gallery" title="">Gallery</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1178"><a href="/people-section" title="">People</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1185"><a href="/lectures-seminars-0" title="">Lectures &amp; Seminars</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1179"><a href="/research-0" title="">Research</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1181"><a href="/appointments" title="">Appointments</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1187"><a href="/chapel-allsouls" title="">The Chapel</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1182"><a href="/contact-all-souls-college" title="">Contact</a><div class="menu-arrow-right"></div></li>
+<li class="last leaf menu-mlid-1188"><a href="/library" title="">The Codrington Library</a><div class="menu-arrow-right"></div></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+  </div>
+  <div class="large-4 medium-4 small-12 columns">
+    <div class="panel-pane pane-node">
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="panelizer-view-mode node node-featured-box node-feature-box node-398 standard-featured-box node-promoted">
+          <div class="row collapse row-top">
+    <div class="large-12 columns"></div>
+  </div>
+
+  <div class="row row-center-1 collapse">
+    <div class="large-6 medium-6 small-12 columns first">
+      <div class="content-wrapper"><div class="content equalize">
+        <div class="panel-pane pane-entity-field pane-node-field-featured-box-image">
+  
+      
+  
+  <div class="pane-content">
+    
+<div class="field field-name-field-featured-box-image field-type-image field-label-hidden field-wrapper">
+    <div class="field-items" class="field-items">
+              <div class="field-item even" class="field-item even">
+        <img typeof="foaf:Image" src="http://www.asc.ox.ac.uk/sites/stage.all-souls.ox.ac.uk/files/153x178xvisiting_college.png.pagespeed.ic.T9jYZfg4w4.jpg" width="153" height="178"/>              </div>
+      </div>
+</div>
+  </div>
+
+  
+  </div>
+      </div></div>
+    </div>
+    <div class="large-6 medium-6 small-12 columns last equalize">
+      <div class="content">
+        <div class="panel-pane pane-entity-field pane-node-field-featured-box-title">
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-featured-box-title field-type-text field-label-hidden field-wrapper">Visiting the College</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-featured-box-body">
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-featured-box-body field-type-text-long field-label-hidden field-wrapper"><p>Members of the public are welcome to visit the College Front and Great Quadrangles and Chapel free of charge from 2.00pm to 4.00pm on weekdays</p>
+<p><a href="/visiting-the-college">More information</a></p>
+</div>  </div>
+
+  
+  </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row collapse row-last">
+    <div class="large-12 columns"></div>
+  </div>
+</div>  </div>
+
+  
+  </div>
+  </div>
+  <div class="large-4 medium-4 small-12 columns">
+    <div class="panel-pane pane-custom pane-1 footer-address">
+  
+      
+  
+  <div class="pane-content">
+    <div class="row"><div class="columns">
+<div class="all-souls-footer-logo">All Souls College</div>
+</div></div>
+<div class="row"><div class="columns">
+<div class="address">
+<div>All Souls College, Oxford OX1 4AL</div>
+<div>T: +44 (0)1865 279379</div>
+</div>
+</div></div>
+<div class="row footer-last-row">
+<div class="columns small-8 medium-8 large-8">
+<div class="footer-links">
+  <ul>
+	<li><a href="/terms">T & Cs</a></li>
+	<li><a href="/privacy">Privacy Policy</a></li>
+</ul>
+</div>
+
+<div class="copyright">©2015 All Souls College</div>
+</div>
+<div class="columns small-4 medium-4 large-4">
+<div class="ou-logo-wrapper"><div class="ou-logo"></div></div>
+</div>
+</div>  </div>
+
+  
+  </div>
+  </div>
+</div> <!-- panels row -->
+  
+</section>        </div>
+                            </section>
+			<!--/.footer-columns-->
+  
+  <!--.l-footer-->
+  <footer class="l-footer panel" role="contentinfo">
+    <div class="squeeze row">
+    
+    </div>
+			</footer>
+			<!--/.footer-->
+
+  
+  </div>
+		<!--/.page -->
+
+		<a class="exit-off-canvas"></a>
+	</div>
+</div>
+<!-- .off-canvas-list -->
+
+      <script>(function($,Drupal,window,document,undefined){$(document).foundation();})(jQuery,Drupal,this,this.document);</script>
+<script type="text/javascript">if(window.parent==window){var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-62431247-1']);_gaq.push(['_setDomainName','www.asc.ox.ac.uk']);_gaq.push(['_setAllowLinker',true]);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src='http://www.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();}</script></body>
+</html>

@@ -1,0 +1,627 @@
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+    
+    
+    
+    
+    
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <!-- Forces IE8+ into newest rendering engine even if on an intranet. This has to be defined before any script/style tags. -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+
+    
+        <base href="http://www.qeh.ox.ac.uk/study/study-video/" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="alternate" data-kss-base-url="kss-base-url" href="http://www.qeh.ox.ac.uk/study/study-video/" />
+
+  
+    <link rel="stylesheet" type="text/css" href="http://www.qeh.ox.ac.uk/portal_css/Custom%20Theme/base-cachekey-3dbb4b0192dee8474da7cc363070d9e6.css" />
+    <style type="text/css" media="screen">@import url(http://www.qeh.ox.ac.uk/portal_css/Custom%20Theme/resourceplonetheme.qehtheme.stylesheetsmain-cachekey-a55bf477807f17c2219ca68a4016f251.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://www.qeh.ox.ac.uk/portal_css/Custom%20Theme/ploneCustom-cachekey-402b0611a86fe132cb1022a499d4cc3d.css" />
+
+  
+    <link rel="stylesheet" data-rel="kinetic-stylesheet" type="text/kss" href="http://www.qeh.ox.ac.uk/portal_kss/Custom%20Theme/at-cachekey-33f2a7f8c01cf4aea7e594acfa8cd8be.kss" />
+  
+    <script type="text/javascript" src="http://www.qeh.ox.ac.uk/portal_javascripts/Custom%20Theme/resourceplone.app.jquery-cachekey-7982498ca961fe1f24ce31db05a14665.js"></script>
+    <script type="text/javascript" src="http://www.qeh.ox.ac.uk/portal_javascripts/Custom%20Theme/slide-cachekey-16481231dc8fc5fac6282fe56eef160c.js"></script>
+
+
+<title>Video &mdash; ODID</title>
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.qeh.ox.ac.uk/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://www.qeh.ox.ac.uk/touch_icon.png" />
+
+
+
+
+
+
+    <link rel="search" href="http://www.qeh.ox.ac.uk/@@search" title="Search this site" />
+
+
+
+        
+        
+        
+        
+        
+		<!--
+        <meta name="viewport" content="width=device-width; initial-scale=0.6666; maximum-scale=1.0; minimum-scale=0.6666" />
+		-->
+        <meta name="generator" content="Plone - http://plone.org" />
+    
+</head>
+
+<body class="template-qehfolder_view portaltype-qehfolder site-qeh section-study icons-on" dir="ltr">
+
+<div id="visual-portal-wrapper">
+
+        <div id="portal-top" class="row">
+<div class="cell width-full position-0"> <!-- TODO: Temporary, this one should be in the template that is inserted -->
+            <div id="portal-header">
+    <p class="hiddenStructure">
+  <a accesskey="2" href="http://www.qeh.ox.ac.uk/study/study-video#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://www.qeh.ox.ac.uk/study/study-video#portal-globalnav">Skip to navigation</a>
+</p>
+
+
+
+<div id="portal-searchbox">
+    <form name="searchform" id="searchGadget_form" action="http://googlesearch.oucs.ox.ac.uk/search">
+		  
+		<label for="searchGadget" class="hiddenStructure">Search Site</label>
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+		<!--
+		<input name="SearchableText"
+               type="text"
+               size="18"
+               value=""
+               title="Search Site"
+               accesskey="4"
+               i18n:attributes="title title_search_site;"
+               tal:attributes="value request/form/SearchableText|nothing;
+                               id search_input_id"
+               class="searchField inputLabel" />	
+		-->		
+			   
+		<input type="hidden" name="as_oq" value="site:www.qeh.ox.ac.uk site:www3.qeh.ox.ac.uk" />
+		<input name="Unit" value="ODID" type="hidden">
+		<input name="client" value="oxford" type="hidden" />
+		<input name="proxystylesheet" value="oxford" type="hidden" /> 
+		<input name="output" value="xml_no_dtd" type="hidden" />
+		<input name="q" id="searchGadget" size="18" onfocus="clearsearch();" title="Search Site" maxlength="2048" value="" class="searchField inputLabel" type="text" />
+
+
+        <input type="image" class="searchButton" name="submit" alt="submit" value="Search" src="http://www.qeh.ox.ac.uk/search_btn.gif" />
+
+        
+
+        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://www.qeh.ox.ac.uk/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+<a id="ox-home" title="University homepage" accesskey="1" href="http://www.ox.ac.uk/">University of Oxford</a>
+   
+   
+
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav"><li class="plain" id="portaltab-index_html"><a href="http://www.qeh.ox.ac.uk" title="">Home</a></li><li class="plain" id="portaltab-about"><a href="http://www.qeh.ox.ac.uk/about" title="">About US</a></li><li class="selected" id="portaltab-study"><a href="http://www.qeh.ox.ac.uk/study" title="">Study</a></li><li class="plain" id="portaltab-research"><a href="http://www.qeh.ox.ac.uk/research" title="">Research</a></li><li class="plain" id="portaltab-people"><a href="http://www.qeh.ox.ac.uk/people" title="">People</a></li><li class="plain" id="portaltab-publications"><a href="http://www.qeh.ox.ac.uk/publications" title="">Publications</a></li><li class="plain" id="portaltab-events-1"><a href="http://www.qeh.ox.ac.uk/events-1" title="">Events</a></li><li class="plain" id="portaltab-alumni"><a href="http://www.qeh.ox.ac.uk/alumni" title="">alumni</a></li></ul>
+
+</div>
+
+</div>
+        </div>
+    <div id="portal-columns" class="row">
+
+        <div id="portal-column-content" class="cell width-3:4 position-1:4">
+
+            <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://www.qeh.ox.ac.uk">Home</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://www.qeh.ox.ac.uk/study">Study</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Video</span>
+         
+    </span>
+
+</div>
+</div>
+            
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+      <div id="qehMain">
+	  <div id="parent-fieldname-text">
+	<div class="panel" id="centre">
+	
+	<h1 id="parent-fieldname-title" class="documentFirstHeading">Video</h1>      
+	<p>Listen to recent graduates and current students talking about what it's like to study at the department:</p>
+<table class="invisible">
+<tbody>
+<tr>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-st4"><img class="image-inline" src="../../resolveuid/dfa86664-5b47-40c4-ad2a-118213c510d2" /></a></td>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-st4">Jure Jeric (MSc in Global Governance &amp; Diplomacy, 2013-14)</a></td>
+</tr>
+<tr>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-student1"><img class="image-inline" alt="promo-vid-1.jpg" src="http://www.qeh.ox.ac.uk/images/promo-vid-1.jpg" title="promo-vid-1.jpg" /></a></td>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-student1">Mannu Chowdhury (MSc in Global Governance &amp; Diplomacy, 2012-13)</a></td>
+</tr>
+<tr>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-student1-1"><img class="image-inline" alt="prom2-vid-2.jpg" src="http://www.qeh.ox.ac.uk/images/prom2-vid-2.jpg" title="prom2-vid-2.jpg" /></a></td>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-student1-1">Suzanne van Ballekom (MSc in Global Governance &amp; Diplomacy, 2012-13)</a></td>
+</tr>
+<tr>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-st3"><img class="image-inline" alt="promo3-vid-1.jpg" src="http://www.qeh.ox.ac.uk/images/promo3-vid-1.jpg" title="promo3-vid-1.jpg" /></a></td>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-st3">Ivaylo Iaydjiev (MSc in Global Governance &amp; Diplomacy, 2012-13)</a></td>
+</tr>
+<tr>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/dphil-student-2"><img class="image-inline" alt="brandt-vid-1.jpg" src="http://www.qeh.ox.ac.uk/images/brandt-vid-1.jpg" title="brandt-vid-1.jpg" /></a></td>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/dphil-student-2">Sabrina Brandt (DPhil in International Development)</a></td>
+</tr>
+<tr>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/dphil-student-1"><img class="image-inline" alt="cassidy-vid-1.jpg" src="http://www.qeh.ox.ac.uk/images/cassidy-vid-1.jpg" title="cassidy-vid-1.jpg" /></a></td>
+<td><a class="internal-link" href="http://www.qeh.ox.ac.uk/study/study-video/dphil-student-1">Jennifer Cassidy (DPhil in International Development)</a></td>
+</tr>
+</tbody>
+</table>
+
+	
+	
+      </div>
+
+      
+	  <div class="panel" id="detail">
+	
+	<p class="caption"><span></span></p>	 
+	<p></p>
+      </div>  
+    
+</div>
+    </div>
+                        </div>
+                    
+
+                    
+                </div>
+            
+        
+            <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+        </div>
+
+        
+        <div id="portal-column-one" class="cell width-1:4 position-0">
+            
+                
+<div class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f7165680a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f7165680a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="http://www.qeh.ox.ac.uk/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-courses">
+
+    
+
+
+        <a class="state-published navTreeFolderish contenttype-qehfolder" href="http://www.qeh.ox.ac.uk/study/courses" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/QEHFolder.gif" alt="QEH Folder" />
+            <span>Degree Courses</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-how-to-apply">
+
+    
+
+
+        <a class="state-published contenttype-qehpage" href="http://www.qeh.ox.ac.uk/study/how-to-apply" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/QEHPage.gif" alt="QEHPage" />
+            <span>How to Apply</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-funding">
+
+    
+
+
+        <a class="state-published contenttype-qehpage" href="http://www.qeh.ox.ac.uk/study/funding" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/QEHPage.gif" alt="QEHPage" />
+            <span>Fees and Funding</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-faq">
+
+    
+
+
+        <a class="state-published contenttype-qehpage" href="http://www.qeh.ox.ac.uk/study/faq" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/QEHPage.gif" alt="QEHPage" />
+            <span>Frequently Asked Questions</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-short-courses">
+
+    
+
+
+        <a class="state-published contenttype-qehpage" href="http://www.qeh.ox.ac.uk/study/short-courses" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/QEHPage.gif" alt="QEHPage" />
+            <span>Short Courses</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-alumni">
+
+    
+
+
+        <a class="state-published navTreeFolderish contenttype-qehfolder" href="http://www.qeh.ox.ac.uk/study/alumni" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/QEHFolder.gif" alt="QEH Folder" />
+            <span>ODID Graduates</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-student-photos">
+
+    
+
+
+        <a class="state-published navTreeFolderish contenttype-qehfolder" href="http://www.qeh.ox.ac.uk/study/student-photos" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/QEHFolder.gif" alt="QEH Folder" />
+            <span>Student Fieldwork</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode navTreeFolderish section-study-video">
+
+    
+
+
+        <a class="state-published navTreeCurrentItem navTreeCurrentNode navTreeFolderish contenttype-qehfolder" href="http://www.qeh.ox.ac.uk/study/study-video" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/QEHFolder.gif" alt="QEH Folder" />
+            <span>Video</span>
+        </a>
+
+        
+            <ul class="navTree navTreeLevel1">
+                
+
+
+
+<li class="navTreeItem visualNoMarker section-mphil">
+
+    
+
+
+        <a class="state-published contenttype-videoq" href="http://www.qeh.ox.ac.uk/study/study-video/mphil" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/Videoq.gif" alt="Videoq" />
+            <span>MPhil Course Video</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-mscggd-st4">
+
+    
+
+
+        <a class="state-published contenttype-videoq" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-st4" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/Videoq.gif" alt="Videoq" />
+            <span>Jure Jeric (MSc GGD)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-mscggd-student1">
+
+    
+
+
+        <a class="state-published contenttype-videoq" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-student1" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/Videoq.gif" alt="Videoq" />
+            <span>Mannu Chowdhury (MSc GGD)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-mscggd-student1-1">
+
+    
+
+
+        <a class="state-published contenttype-videoq" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-student1-1" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/Videoq.gif" alt="Videoq" />
+            <span>Suzanne van Ballekom (MSc GGD)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-mscggd-st3">
+
+    
+
+
+        <a class="state-published contenttype-videoq" href="http://www.qeh.ox.ac.uk/study/study-video/mscggd-st3" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/Videoq.gif" alt="Videoq" />
+            <span>Ivaylo Iaydjiev (MSc GGD)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-dphil-student-1">
+
+    
+
+
+        <a class="state-published contenttype-videoq" href="http://www.qeh.ox.ac.uk/study/study-video/dphil-student-1" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/Videoq.gif" alt="Videoq" />
+            <span>Jennifer Cassidy (DPhil in International Development)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-dphil-student-2">
+
+    
+
+
+        <a class="state-published contenttype-videoq" href="http://www.qeh.ox.ac.uk/study/study-video/dphil-student-2" title="">
+            <img width="16" height="16" src="http://www.qeh.ox.ac.uk/Videoq.gif" alt="Videoq" />
+            <span>Sabrina Brandt (DPhil in International Development)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+            </ul>
+        
+
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+            
+        </div>
+
+        
+        
+    </div>
+
+
+    
+        <div class="row">
+  
+
+
+        <div id="portal-strapline">
+            <p>
+			International Development: increasing well-being and reducing inequality in global society
+			
+            </p>
+        </div>
+		
+		<div id="portal-footer">
+		<address>
+			Oxford Department of International Development<br /> Queen Elizabeth House<br /> 3 Mansfield Road, Oxford OX1 3TB
+		</address>
+		</div>
+
+  
+	<ul id="portal-actions">
+	<li id="siteaction-twitter"><a href="https://twitter.com/ODID_QEH" title="Follow us on Twitter" class="twitterLink"></a></li>
+	<li id="siteaction-facebook"><a href="http://www.facebook.com/pages/ODID-Oxford-Department-of-International-Development/259254037477221" title="Find us on Facebook" class="facebookLink"></a></li>
+	<li id="siteaction-vacancies"><a href="about/vacancies">Vacancies</a></li>
+    <li id="siteaction-sitemap"><a href="sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+	<li id="siteaction-copyright"><a href="http://www.ox.ac.uk/copyright.html" accesskey="3" title="Site Map">Copyright</a></li>
+    <li id="siteaction-contact"><a href="contact-info" accesskey="9" title="Contact">Contact</a></li>
+	
+</ul></div>
+
+
+
+<div id="portal-colophon">
+
+<div class="colophonWrapper">
+<ul>
+<!--
+  <li>
+    <a href="http://plone.org"
+       title="This site was built using the Plone Open Source CMS/WCM."
+       i18n:attributes="title title_built_with_plone;"
+       i18n:translate="label_powered_by_plone">
+      Powered by Plone &amp; Python</a>
+  </li>
+
+  </ul>
+-->
+</ul></div>
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['disableCookies']);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://www4.qeh.ox.ac.uk/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "2"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+<!-- Piwik Image Tracker -->
+<noscript>
+<img src="https://www4.qeh.ox.ac.uk/piwik.php?idsite=2&amp;rec=1" style="border:0" alt="" />
+</noscript>
+<!-- End Piwik -->
+</div>
+
+
+    
+
+</div>
+</body>
+</html>
+
+

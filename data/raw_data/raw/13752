@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Bodleian Music Card Catalogue</title>
+
+	<script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+
+	<!--jsTree /js/jsTree/_docs/  -->
+	<link rel="stylesheet" type="text/css" href="js/jsTree/css/layout.css" />
+
+	<script type="text/javascript" src="js/jsTree/_lib/jquery.cookie.js"></script>
+	<script type="text/javascript" src="js/jsTree/_lib/jquery.hotkeys.js"></script>
+	<script type="text/javascript" src="js/jsTree/jquery.jstree.js"></script>
+
+
+	<!--jsTree-->	
+
+		<style type="text/css" class="source below">
+			#music_alpha a, #maps_mapmaker a { white-space:normal !important; height: auto; padding:1px 2px; } 
+			#music_alpha li > ins, #maps_mapmaker li > ins { vertical-align:top; }
+			#music_alpha .jstree-hovered, #maps_mapmaker .jstree-hovered, #demo4 .jstree-clicked { border:0; }
+		</style>
+
+		<script type="text/javascript" class="source">
+			$(document).ready(function() {
+				$("#music_alpha").jstree({ 
+					"json_data" : {
+						"ajax" : {
+							"url" : "_inc/get_index.php?card=music&root=Music Catalogues",
+							"data" : function (n) { 
+								return { Image : n.attr ? n.attr("Image") : "help" }; 
+							}
+						}
+					},
+					"plugins" : [ "themes", "json_data", "ui" ]
+				}).bind("select_node.jstree", function (e, data) {
+						var theId = data.rslt.obj.data("id");
+						var theStart = data.rslt.obj.data("Image");
+						var theEnd = data.rslt.obj.data("ImageEnd");
+						var theTitle = data.args[0].text;
+						console.log(data.args[0].text);
+						console.log(data.rslt);
+						console.log(data);
+						if ('undefined' != typeof(theId)) {
+							console.log("Loading music index " + theTitle);
+//						alert("Loading music index "+ theStart);
+							$("#frame").attr("src", 
+								"cardbook.php?id="+ theId 
+								+ '&bookStart=' + theStart
+								+ '&bookEnd=' + theEnd
+								+ '&bookTitle=' + theTitle
+								+ '&bookType=music'
+								+ '&bookPage=p'
+							);
+						}
+					});
+			});
+		</script>
+
+	<!--Fix iframe height scaling -->
+	<script type="text/javascript">	
+		$(document).ready(function(){
+   	 	var myheight = ($(document).height() * 0.70);
+    	$('iframe').attr({height:(myheight)});
+    	//alert('Ready ' +myheight);
+  		});
+  		
+  		//$(window).resize(function(){
+   	 	//var myheight = ($(document).height() * 0.86);
+    	//$('iframe').attr({height:(myheight)});
+    	//alert('Window ' +myheight);
+  		//});
+	</script>
+	<!--End Fix iframe height scaling -->
+
+	
+<!-- Back to SOLO -->
+	<script type="text/javascript">
+<!-- 
+
+function refer() {
+  if (!document.referrer) {
+    document.write("<a title=\"Find more books using SOLO (Search Oxford Libraries Online)\" href=\"http://solo.bodleian.ox.ac.uk\"><i class=\"icon-screenshot\"></i> SOLO</a>")
+  }
+  else {
+    document.write("<a title=\"Find more books using SOLO (Search Oxford Libraries Online)\" href=\"http://solo.bodleian.ox.ac.uk\"><i class=\"icon-arrow-left\"></i> SOLO</a>")
+  }
+}
+	//-->
+	</script>
+<!-- /Back to SOLO -->
+   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="js/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }      
+
+			.scrollable {
+					height: 600px;
+					overflow-y: auto;
+			}
+    </style>
+    <link href="js/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
+<style>
+    .floating-box {position:relative;z-index:100; top: 50px; right:10px;  width: 80%; height:90%;}   /* you might need to tweak this */
+</style>
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="favicon.ico">
+
+<!--
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+-->
+  </head>
+
+  <body>
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container bdb-block">
+          <a class="brand music" href="music-index.php">Bodleian Music Card Catalogue</a>
+            <ul class="nav">
+            	<li><a href="music-index.php">Home</a></li>
+             	<li><a href="map-index.php">Maps</a></li>
+<!--
+            	<li><a href="music-index.php?about">About</a></li>
+-->
+            	<li><a  href="mailto:music@bodleian.ox.ac.uk">Contact</a></li>
+<!---->
+            </ul>	
+						<ul class="nav pull-right" id="bodleian-brand" >            
+							<li><a href="http://www.bodleian.ox.ac.uk/">Bodleian Libraries</a></li>
+						</ul>                  
+<!--
+            <form class="navbar-search pull-right" action="music/search" method="get">
+            	<input class="search-query span2" placeholder="Search" type="text" name="q" value="">
+          		//<span class="label">{{ numFound }}  items available</span>
+          	</form>
+-->
+        </div><!--/.container-->
+      </div>
+    </div>   
+    
+
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span3">
+          <div class="well sidebar-nav scrollable">
+
+            <ul class="nav nav-list">
+							<li class="nav-header">Music</li><li id="music_alpha" class="demo"></li> 
+            </ul>
+          </div><!--/.well -->
+        </div><!--/span-->
+        <div class="span9">      
+						<iframe id="frame" 
+										src="music-intro.html?id=&bookType=map"
+										width="100%" height="100%" frameborder="0">
+						</iframe>
+        </div><!--/span-->
+      </div><!--/row-->
+<hr>
+		<footer>
+    	<div class="row-fluid">
+				<div class="span3">
+					<p id="oxford-brand"><a href="http://www.ox.ac.uk">University of Oxford</a></p>
+				</div><!--/span--> 			
+				
+				<div class="span4">   
+					<p><!--<i class="icon-envelope"></i> -->Project contact: <a href="mailto:music@bodleian.ox.ac.uk">music@bodleian.ox.ac.uk</a><br /><!--<i class="icon-envelope"></i> -->Website contact: <a href="mailto:support@bodleian.ox.ac.uk">support@bodleian.ox.ac.uk</a><br /></p>
+					<p>Website &copy; <a href="http://www.bodleian.ox.ac.uk/">Bodleian Libraries</a> 2013</p>
+				</div><!--/span-->    
+				
+				<div class="span5">
+						<p>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/">Creative Commons <!--Attribution-NonCommercial-ShareAlike 2.0 UK: England &amp; Wales--> Licence</a>.&nbsp;<a  style="margin-right:0.5em" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/uk/"><img alt="Creative Commons Licence" style="border-width:0;" src="http://i.creativecommons.org/l/by-nc-sa/2.0/uk/80x15.png" /></a></p>
+							<p><a href="http://www.bodleian.ox.ac.uk/bdlss">Bodleian Digital Library Systems and Services (BDLSS)<!-- ,</a><a href="http://www.ox.ac.uk">University of Oxford</a>--></p>
+					<!--<small>Last Updated: 27th May 2013</small>-->
+				</div><!--/span--> 
+      </div><!--/row-->
+		</footer>
+    </div><!--/.fluid-container-->    
+  </body>
+</html>

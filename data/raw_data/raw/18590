@@ -1,0 +1,524 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+<title>The Policy and Internet Blog | Author Archives</title>
+
+	<link rel="stylesheet" type="text/css" media="all" href="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/style.css" />
+	
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://blogs.oii.ox.ac.uk/policy/feed/" />	
+	<link rel="pingback" href="http://blogs.oii.ox.ac.uk/policy/xmlrpc.php" />
+
+	<link rel="alternate" type="application/rss+xml" title="The Policy and Internet Blog &raquo; Feed" href="http://blogs.oii.ox.ac.uk/policy/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Policy and Internet Blog &raquo; Comments Feed" href="http://blogs.oii.ox.ac.uk/policy/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Policy and Internet Blog &raquo; Posts by Mark Graham Feed" href="http://blogs.oii.ox.ac.uk/policy/author/mark-graham/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blogs.oii.ox.ac.uk\/policy\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sociablecss-css'  href='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/css/sociable.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-623501-12']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/js/sociable.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/js/vuible.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/js/addtofavorites.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/contentslider.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/slides.min.jquery.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/jCarouselLite.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/jquery.tools.min.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/flowplayer/flowplayer-3.2.6.min.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/superfish-1.4.8.js'></script>
+<!-- Graceful Pull-Quotes plugin v2.6.1 -->
+	<link rel="stylesheet" href="http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/graceful-pull-quotes/resources/jspullquotes-core.css" type="text/css" />
+	<link rel="stylesheet" href="http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/graceful-pull-quotes/styles/Default.css" type="text/css" />
+	<script type="text/javascript">
+		var jspq_options = new Array("1", "1", "right", "1", "1", "aside", "pullquote", "pullquote pqRight");
+	</script>
+	<script type="text/javascript" src="http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/graceful-pull-quotes/resources/jspullquotes.js"></script>
+<!-- end pull-quote additions -->
+<link type="text/css" rel="stylesheet" href="http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/simple-pull-quote/css/simple-pull-quote.css" />
+<script type='text/javascript'>var base_url_sociable = 'http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/'</script><script type='text/javascript' src='http://apis.google.com/js/plusone.js'></script><style type='text/css'>img#wpstats{display:none}</style><link href="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/styles/default.css" rel="stylesheet" type="text/css" />
+
+	<script type='text/javascript'>
+	(function($) {
+		$(document).ready(function() { 
+			
+			$('a[href=#top]').click(function(){	$('html, body').animate({scrollTop:0}, 'slow');	return false; });		
+			
+							$("#mediabar .container").jCarouselLite({
+											auto:5000,
+										scroll: 2,
+					speed: 1000,	
+					visible: 4,
+					start: 0,
+					circular: false,
+					btnPrev: "#previous_button",
+					btnNext: "#next_button"
+				});
+						
+			$('#slides').slides({
+								preload: true,
+				autoHeight: true
+			});			
+			
+			$("ul.tabs").tabs("div.panes > div");
+			$("ul.sc_tabs").tabs("div.sc_tabs-content > div");
+		});
+	})(jQuery);
+	</script>
+<link rel="shortcut icon" href="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/framework/admin//images/favicon.ico" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	
+	
+			<link rel="stylesheet" type="text/css" media="all" href="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/custom.css" />
+		
+
+	<!--[if lte IE 8]>
+		<style type="text/css" media="screen">
+			.like {display:none}
+		</style>
+	<![endif]-->
+
+
+</head>
+
+<body class="archive author author-mark-graham author-9 custom-background">
+
+<div id="wrapper">
+
+	<div id="header">	
+		<div id="masthead">
+			<ul id="menu-masthead" class="mastheadnav dropdown"><li id="menu-item-2510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2510"><a href="http://blogs.oii.ox.ac.uk/policy/authors/">Authors</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2519"><a href="http://blogs.oii.ox.ac.uk/policy/all-posts/">All posts</a></li>
+</ul>	
+			 
+			<div id="search">
+				<form id="searchform" action="http://blogs.oii.ox.ac.uk/policy/">
+	<fieldset>
+		<input type="text" id="s" name="s" value="Search in site..." onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"/>
+		<input type="image" id="searchsubmit" src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/images/button_go.gif" alt="Search in site..." /> 
+	</fieldset>
+</form>
+			</div><!-- /search -->
+			<div class="clear"></div>
+		</div>
+		
+				<div id="logo-wrapper">
+		
+		
+		<div id="logo" style="padding:15px 0 10px 0px;">
+		
+							<h1>
+					<a href="http://blogs.oii.ox.ac.uk/policy" title="The Policy and Internet Blog">
+						The Policy and Internet Blog						<span>Understanding public policy online</span>
+					</a>
+				</h1>
+					</div><!-- /logo -->
+		
+		<div id="sub-logos">
+		<!-- OII / OU -->
+		<div id="oxford">
+		<a href="http://www.ox.ac.uk"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/images/oxford_pos.png"  width="90" height="90" alt="Oxford University"  /></a>
+		</div>
+		<div id="oii">
+		<a href="http://www.oii.ox.ac.uk"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/images/oii_pos.png"  alt="Oxford Internet Institute" /></a>
+		</div>
+		</div>
+		
+		</div>
+		
+		<!-- div id="banner">
+					</div -->
+			
+					<div class="clear"></div>		
+		
+		<div id="mainmenu">
+			<ul class="mainnav dropdown">
+				<li ><a href="http://blogs.oii.ox.ac.uk/policy/" title="Understanding public policy online">Home</a></li>
+				<li id="menu-item-917" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-917"><a href="http://blogs.oii.ox.ac.uk/policy/category/politics-government/">Politics &#038; Government</a></li>
+<li id="menu-item-1121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1121"><a href="http://blogs.oii.ox.ac.uk/policy/category/law-regulation/">Law &#038; Regulation</a></li>
+<li id="menu-item-3199" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3199"><a href="http://blogs.oii.ox.ac.uk/policy/category/ethics/">Ethics</a></li>
+<li id="menu-item-920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-920"><a href="http://blogs.oii.ox.ac.uk/policy/category/health/">Health</a></li>
+<li id="menu-item-978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-978"><a href="http://blogs.oii.ox.ac.uk/policy/category/education/">Education</a></li>
+<li id="menu-item-1120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1120"><a href="http://blogs.oii.ox.ac.uk/policy/category/development/">Development</a></li>
+			</ul>
+		</div>
+		
+		<div id="submenu">
+			<ul class="subnav dropdown">
+									<li><a target="_blank" class="gab_rss" href="http://blogs.oii.ox.ac.uk/policy/feed/" rel="nofollow" title="Subscribe to latest posts in RSS">RSS for Entries</a></li>
+					
+										
+											<li><a target="_blank" class="gab_twitter" href="https://twitter.com/policyinternet" rel="nofollow" title="follow on twitter">Follow on Twitter</a></li>
+										
+											<li><a target="_blank" class="gab_facebook" href="https://www.facebook.com/oiioxford" rel="nofollow" title="Connect on facebook">Connect on Facebook</a></li>
+										
+					<li class="date">
+						<script type="text/javascript">
+							var mydate=new Date()
+							var year=mydate.getYear()
+							if (year < 1000)
+							year+=1900
+							var day=mydate.getDay()
+							var month=mydate.getMonth()
+							var daym=mydate.getDate()
+							if (daym<10)
+							daym="0"+daym
+							var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+							var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+							document.write(""+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"")
+						</script>
+					</li>
+							</ul>		
+		
+		</div>
+		<div class="clear"></div>
+	</div><!-- /header --><div id="container">	
+		
+	<div id="bcrum">
+		<a href="http://blogs.oii.ox.ac.uk/policy">Home</a>&nbsp;&raquo;&nbsp;Entries posted by Mark Graham	</div>
+			
+			<div class="gab_authorInfo">
+					<div class="gab_authorPic">
+				<img alt='' src='http://2.gravatar.com/avatar/2be4a03851f3ad21fa4a54609dd4aea2?s=50&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/2be4a03851f3ad21fa4a54609dd4aea2?s=100&amp;d=mm&amp;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />			</div>
+			<strong>Stories written by Mark Graham</strong><br />			<div class="clear"></div>
+		</div>			
+			
+	
+	<div id="post-2969" class="entry post-2969 post type-post status-publish format-standard has-post-thumbnail hentry category-development category-economics tag-crowd-sourcing tag-digital-goods tag-economics-2 tag-labour tag-microwork tag-networks tag-production tag-vpn">
+	
+		<a href="http://blogs.oii.ox.ac.uk/policy/investigating-virtual-production-networks-in-sub-saharan-africa-southeast-asia/" rel="bookmark"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/timthumb.php?src=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fwp-content%2Fuploads%2F2014%2F11%2FIMG_20141021_093257-copy1.jpg&amp;q=90&amp;w=280&amp;h=200&amp;zc=1" class="alignleft" alt="Investigating virtual production networks in Sub-Saharan Africa and Southeast Asia" title="Investigating virtual production networks in Sub-Saharan Africa and Southeast Asia" /></a>			
+		<div class="postexcerpt">
+			<h2 class="archiveTitle">
+				<a href="http://blogs.oii.ox.ac.uk/policy/investigating-virtual-production-networks-in-sub-saharan-africa-southeast-asia/" rel="bookmark" title="Permalink to Investigating virtual production networks in Sub-Saharan Africa and Southeast Asia" >Investigating virtual production networks in Sub-Saharan Africa and Southeast Asia</a>
+			</h2>
+			<div class="author" style="float:left; padding-right:0.3em;">
+				<a href="http://blogs.oii.ox.ac.uk/policy/author/mark-graham/" title="Posts by Mark Graham" class="url fn" rel="author">Mark Graham</a>				 |			</div>
+			<p>What effects will the emergence of new and transformative &#8216;virtual&#8217; economic activities and work (such as &#8216;microwork&#8217; and &#8216;game labour&#8217;) have on social and economic development in Sub-Saharan Africa and Southeast Asia? Mark Graham, PI of a project on Microwork and Virtual Production Networks in Sub-Saharan Africa and Southeast Asia discusses the question of how to discover who is benefitting, what difference remaining barriers and positionalities in SSA and SEA make, and ultimately what difference changing connectivities make in the world&#8217;s economic peripheries. [Read more OII work on virtual labour]</p>
+			
+			<p class="postmeta"><span class="meta_date">3 November 2014</span><span class="meta_permalink"><a href="http://blogs.oii.ox.ac.uk/policy/investigating-virtual-production-networks-in-sub-saharan-africa-southeast-asia/" title="Permalink to Investigating virtual production networks in Sub-Saharan Africa and Southeast Asia" rel="bookmark">Read More</a></span></p>		</div>			
+		<div class="clear"></div>
+	</div>
+	
+	
+
+	<div id="post-2908" class="entry post-2908 post type-post status-publish format-standard has-post-thumbnail hentry category-development category-mapping tag-crowd-sourcing tag-digital-divides tag-mena tag-mena-wikipedia tag-representation tag-wikipedia">
+		<div class="archive_postheader border_bottom_20">
+			<h2 class="archiveTitle">
+				<a href="http://blogs.oii.ox.ac.uk/policy/what-explains-the-worldwide-patterns-in-user-generated-geographical-content/" rel="bookmark" title="What explains the worldwide patterns in user-generated geographical content?">What explains the worldwide patterns in user-generated geographical content?</a>
+			</h2>
+			<div class="author" style="float:left; padding-right:0.3em;">
+				<a href="http://blogs.oii.ox.ac.uk/policy/author/mark-graham/" title="Posts by Mark Graham" class="url fn" rel="author">Mark Graham</a>				 |			</div>
+			<span class="entryDate">8 September 2014</span>
+			<span class="entryComment"></span>
+			<div class="clear"></div>
+		</div>
+		
+		<a href="http://blogs.oii.ox.ac.uk/policy/what-explains-the-worldwide-patterns-in-user-generated-geographical-content/" rel="bookmark"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/timthumb.php?src=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fwp-content%2Fuploads%2F2014%2F08%2FGlobal-content.jpg&amp;q=90&amp;w=190&amp;h=107&amp;zc=1" class="alignleft" alt="What explains the worldwide patterns in user-generated geographical content?" title="What explains the worldwide patterns in user-generated geographical content?" /></a><p>How do we explain the significant inequalities in the geography of user-generated information? Mark Graham, PI of a project Mapping and measuring local knowledge production and representation in the Middle East and North Africa, shows that a large part of the country-level variation can be explained by just three factors. Read the full paper: Graham, M., Hogan, B., Straumann, R.K., and Medhat, A. (2014) Uneven Geographies of User-Generated Information: Patterns of Increasing Informational Poverty (Annals Assoc. Amer. Geog.).</p>
+		<div class="clear"></div>
+
+		<span class="read_on">
+			<a href="http://blogs.oii.ox.ac.uk/policy/what-explains-the-worldwide-patterns-in-user-generated-geographical-content/" title="Permalink to What explains the worldwide patterns in user-generated geographical content?">Continue reading &hellip;</a>		</span>
+	</div><!-- /cat_post -->
+	
+
+	<div id="post-2575" class="entry post-2575 post type-post status-publish format-standard has-post-thumbnail hentry category-development category-mapping tag-crowd-sourcing tag-mena tag-mena-wikipedia tag-representation tag-wikipedia">
+		<div class="archive_postheader border_bottom_20">
+			<h2 class="archiveTitle">
+				<a href="http://blogs.oii.ox.ac.uk/policy/what-is-stopping-greater-representation-of-the-mena-region/" rel="bookmark" title="What is stopping greater representation of the MENA region?">What is stopping greater representation of the MENA region?</a>
+			</h2>
+			<div class="author" style="float:left; padding-right:0.3em;">
+				<a href="http://blogs.oii.ox.ac.uk/policy/author/mark-graham/" title="Posts by Mark Graham" class="url fn" rel="author">Mark Graham</a>				 |			</div>
+			<span class="entryDate">6 August 2014</span>
+			<span class="entryComment"></span>
+			<div class="clear"></div>
+		</div>
+		
+		<a href="http://blogs.oii.ox.ac.uk/policy/what-is-stopping-greater-representation-of-the-mena-region/" rel="bookmark"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/timthumb.php?src=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fwp-content%2Fuploads%2F2014%2F02%2F2454058644_d0a5f781f0_z.jpg&amp;q=90&amp;w=190&amp;h=107&amp;zc=1" class="alignleft" alt="What is stopping greater representation of the MENA region?" title="What is stopping greater representation of the MENA region?" /></a><p>There are obvious gaps in access to the Internet, particularly the participation gap between those who have their say, and those whose voices are pushed to the periphery. Despite the rapid increase in Internet access, there are indications that people in the Middle East and North Africa (MENA) region remain largely absent from websites and services that represent the region to the larger world. Mark Graham, PI of a project Mapping and measuring local knowledge production and representation in the Middle East and North Africa, explores the potential barriers faced by Wikipedia editors from the MENA region.</p>
+		<div class="clear"></div>
+
+		<span class="read_on">
+			<a href="http://blogs.oii.ox.ac.uk/policy/what-is-stopping-greater-representation-of-the-mena-region/" title="Permalink to What is stopping greater representation of the MENA region?">Continue reading &hellip;</a>		</span>
+	</div><!-- /cat_post -->
+	
+
+	<div id="post-2811" class="entry post-2811 post type-post status-publish format-standard hentry category-development category-mapping tag-crowd-sourcing tag-mena tag-mena-wikipedia tag-representation tag-wikipedia">
+		<div class="archive_postheader border_bottom_20">
+			<h2 class="archiveTitle">
+				<a href="http://blogs.oii.ox.ac.uk/policy/how-well-represented-is-the-mena-region-in-wikipedia/" rel="bookmark" title="How well represented is the MENA region in Wikipedia?">How well represented is the MENA region in Wikipedia?</a>
+			</h2>
+			<div class="author" style="float:left; padding-right:0.3em;">
+				<a href="http://blogs.oii.ox.ac.uk/policy/author/mark-graham/" title="Posts by Mark Graham" class="url fn" rel="author">Mark Graham</a>				 |			</div>
+			<span class="entryDate">22 July 2014</span>
+			<span class="entryComment"></span>
+			<div class="clear"></div>
+		</div>
+		
+		<a href="http://blogs.oii.ox.ac.uk/policy/how-well-represented-is-the-mena-region-in-wikipedia/" rel="bookmark"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/timthumb.php?src=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fwp-content%2Fuploads%2F2014%2F02%2FLibya_4924_Pictograms_Tadrart_Acacus_Luca_Galuzzi_2007.jpg&amp;q=90&amp;w=190&amp;h=107&amp;zc=1" class="alignleft" alt="How well represented is the MENA region in Wikipedia?" title="How well represented is the MENA region in Wikipedia?" /></a><p>There are obvious gaps in access to the Internet, particularly the participation gap between those who have their say, and those whose voices are pushed to the periphery. OII Research Fellow Mark Graham, PI of a project Mapping and measuring local knowledge production and representation in the Middle East and North Africa, shows the MENA region tends to be massively underrepresented on Wikipedia — not just in major world languages, but also in its own: Arabic. Despite Wikipedia’s openness, it may simply be reproducing worldviews and knowledge created in the Global North at the expense of the Global South.</p>
+		<div class="clear"></div>
+
+		<span class="read_on">
+			<a href="http://blogs.oii.ox.ac.uk/policy/how-well-represented-is-the-mena-region-in-wikipedia/" title="Permalink to How well represented is the MENA region in Wikipedia?">Continue reading &hellip;</a>		</span>
+	</div><!-- /cat_post -->
+	
+
+	<div id="post-2555" class="entry post-2555 post type-post status-publish format-standard has-post-thumbnail hentry category-development category-mapping tag-crowd-sourcing tag-geography tag-mena tag-mena-wikipedia tag-representation tag-wikipedia">
+		<div class="archive_postheader border_bottom_20">
+			<h2 class="archiveTitle">
+				<a href="http://blogs.oii.ox.ac.uk/policy/the-sum-of-some-human-knowledge-wikipedia-and-representation-in-the-arab-world/" rel="bookmark" title="The sum of (some) human knowledge: Wikipedia and representation in the Arab World">The sum of (some) human knowledge: Wikipedia and representation in the Arab World</a>
+			</h2>
+			<div class="author" style="float:left; padding-right:0.3em;">
+				<a href="http://blogs.oii.ox.ac.uk/policy/author/mark-graham/" title="Posts by Mark Graham" class="url fn" rel="author">Mark Graham</a>				 |			</div>
+			<span class="entryDate">14 July 2014</span>
+			<span class="entryComment"></span>
+			<div class="clear"></div>
+		</div>
+		
+		<a href="http://blogs.oii.ox.ac.uk/policy/the-sum-of-some-human-knowledge-wikipedia-and-representation-in-the-arab-world/" rel="bookmark"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/timthumb.php?src=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fwp-content%2Fuploads%2F2014%2F02%2F2253102926_a0c2390baa_z.jpg&amp;q=90&amp;w=190&amp;h=107&amp;zc=1" class="alignleft" alt="The sum of (some) human knowledge: Wikipedia and representation in the Arab World" title="The sum of (some) human knowledge: Wikipedia and representation in the Arab World" /></a><p>There are obvious gaps in access to the Internet, particularly the participation gap between those who have their say, and those whose voices are pushed to the periphery. There are indications that people in the Middle East and North Africa (MENA) region remain largely absent from websites and services that represent the region to the larger world. OII Research Fellow Mark Graham, PI of a project Mapping and measuring local knowledge production and representation in the Middle East and North Africa, explores this phenomenon through one of the region&#8217;s most visible and most accessed sources of content: Wikipedia.</p>
+		<div class="clear"></div>
+
+		<span class="read_on">
+			<a href="http://blogs.oii.ox.ac.uk/policy/the-sum-of-some-human-knowledge-wikipedia-and-representation-in-the-arab-world/" title="Permalink to The sum of (some) human knowledge: Wikipedia and representation in the Arab World">Continue reading &hellip;</a>		</span>
+	</div><!-- /cat_post -->
+	
+
+	<div id="post-2190" class="entry post-2190 post type-post status-publish format-standard has-post-thumbnail hentry category-development category-mapping category-methods tag-big-data tag-crowd-sourcing tag-mena tag-mena-wikipedia tag-participation tag-representation tag-wikipedia">
+		<div class="archive_postheader border_bottom_20">
+			<h2 class="archiveTitle">
+				<a href="http://blogs.oii.ox.ac.uk/policy/arab-world/" rel="bookmark" title="Who represents the Arab world online?">Who represents the Arab world online?</a>
+			</h2>
+			<div class="author" style="float:left; padding-right:0.3em;">
+				<a href="http://blogs.oii.ox.ac.uk/policy/author/mark-graham/" title="Posts by Mark Graham" class="url fn" rel="author">Mark Graham</a>				 |			</div>
+			<span class="entryDate">1 October 2013</span>
+			<span class="entryComment"></span>
+			<div class="clear"></div>
+		</div>
+		
+		<a href="http://blogs.oii.ox.ac.uk/policy/arab-world/" rel="bookmark"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/timthumb.php?src=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fwp-content%2Fuploads%2F2013%2F09%2FEgypt-thumbnail.png&amp;q=90&amp;w=190&amp;h=107&amp;zc=1" class="alignleft" alt="Who represents the Arab world online?" title="Who represents the Arab world online?" /></a><p>There are obvious gaps in access to the Internet, particularly the participation gap between those who have their say, and those whose voices are pushed to the sidelines. OII Research Fellow Mark Graham, PI of a project examining representation of the Arab world online discusses how despite the rapid increase in Internet access, there are indications that people in the Middle East and North Africa (MENA) region remain largely absent from websites and services that represent the region to the larger world.</p>
+		<div class="clear"></div>
+
+		<span class="read_on">
+			<a href="http://blogs.oii.ox.ac.uk/policy/arab-world/" title="Permalink to Who represents the Arab world online?">Continue reading &hellip;</a>		</span>
+	</div><!-- /cat_post -->
+	
+
+	<div id="post-1451" class="entry post-1451 post type-post status-publish format-standard has-post-thumbnail hentry category-development category-mapping category-methods tag-exclusion tag-geography tag-knowledge-economy tag-visualisation-2">
+		<div class="archive_postheader border_bottom_20">
+			<h2 class="archiveTitle">
+				<a href="http://blogs.oii.ox.ac.uk/policy/mapping-the-uneven-geographies-of-information-worldwide/" rel="bookmark" title="Mapping the uneven geographies of information worldwide">Mapping the uneven geographies of information worldwide</a>
+			</h2>
+			<div class="author" style="float:left; padding-right:0.3em;">
+				<a href="http://blogs.oii.ox.ac.uk/policy/author/mark-graham/" title="Posts by Mark Graham" class="url fn" rel="author">Mark Graham</a>				 |			</div>
+			<span class="entryDate">11 June 2013</span>
+			<span class="entryComment"></span>
+			<div class="clear"></div>
+		</div>
+		
+		<a href="http://blogs.oii.ox.ac.uk/policy/mapping-the-uneven-geographies-of-information-worldwide/" rel="bookmark"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/timthumb.php?src=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fwp-content%2Fuploads%2F2013%2F05%2FFlickr-mapped-around-the-006.jpg&amp;q=90&amp;w=190&amp;h=107&amp;zc=1" class="alignleft" alt="Mapping the uneven geographies of information worldwide" title="Mapping the uneven geographies of information worldwide" /></a><p>The Internet is argued to enable democratisation of information production, but we know remarkably little about contemporary geographies of knowledge, and how these information landscapes are changing over time &#8212; including who is or isn&#8217;t represented. OII researchers Mark Graham and Steffano De Sabbata are mapping these geographies of knowledge, drawing on primary and secondary data to examine key facets of global information geographies &#8212; access, information production, and information representation.</p>
+		<div class="clear"></div>
+
+		<span class="read_on">
+			<a href="http://blogs.oii.ox.ac.uk/policy/mapping-the-uneven-geographies-of-information-worldwide/" title="Permalink to Mapping the uneven geographies of information worldwide">Continue reading &hellip;</a>		</span>
+	</div><!-- /cat_post -->
+	
+		
+			
+</div><!-- /container -->
+		
+<div id="sidebar">
+	<div id="text-11" class="widget widget_text"><div class="widgetinner"><h3 class="widgettitle">ABOUT THIS BLOG</h3>
+			<div class="textwidget"><p>This blog investigates the relationship between the Internet and public policy. It covers work by the <a href="http://www.oii.ox.ac.uk/">Oxford Internet Institute</a>, and work published in its journal Policy &amp; Internet (Wiley-Blackwell).</p>
+<p><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/uploads/2013/04/cover.gif" class="alignleft" alt="Policy and Internet journal" /><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1944-2866/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1944-2866/', 'Policy &amp; Internet']);" >Policy &amp; Internet</a> calls for papers that present genuinely new approaches to policy questions or problems relating to the Internet and related ICTs. Ed-in-Chief: Helen Margetts. <a href="http://mc.manuscriptcentral.com/POI" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://mc.manuscriptcentral.com/POI', 'Submit your paper']);" >Submit your paper</a>.<br />
+<a href="http://mc.manuscriptcentral.com/POI" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://mc.manuscriptcentral.com/POI', '']);" title="Submit your paper to Policy and Internet"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/uploads/2013/10/Submit-paper.png" style="clear:both"  /></a></p>
+<hr />
+</div>
+		</div></div>
+		<div id="recent-posts-4" class="widget widget_recent_entries"><div class="widgetinner">		<h3 class="widgettitle">Latest posts</h3>
+		<ul>
+					<li>
+				<a href="http://blogs.oii.ox.ac.uk/policy/digital-disconnect-parties-pollsters-and-political-analysis-in-ge2015/">Digital Disconnect: Parties, Pollsters and Political Analysis in #GE2015</a>
+						</li>
+					<li>
+				<a href="http://blogs.oii.ox.ac.uk/policy/political-polarization-on-social-media-do-birds-of-a-feather-flock-together-on-twitter/">Political polarization on social media: do birds of a feather flock together on Twitter?</a>
+						</li>
+					<li>
+				<a href="http://blogs.oii.ox.ac.uk/policy/tracing-our-every-move-big-data-and-multi-method-research/">Tracing our every move: Big data and multi-method research</a>
+						</li>
+					<li>
+				<a href="http://blogs.oii.ox.ac.uk/policy/after-dinner-the-best-time-to-create-1-5-million-dollars-of-ground-breaking-science/">After dinner: the best time to create 1.5 million dollars of ground-breaking science</a>
+						</li>
+					<li>
+				<a href="http://blogs.oii.ox.ac.uk/policy/how-can-big-data-be-used-to-advance-dementia-research/">How can big data be used to advance dementia research?</a>
+						</li>
+				</ul>
+		</div></div>
+<div id="text-28" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><a href="http://blogs.oii.ox.ac.uk/policy/all-posts/">View all posts</a></div>
+		</div></div>
+<div class="widget"></div><div id="text-6" class="widget widget_text"><div class="widgetinner"><h3 class="widgettitle">Elections and the Internet</h3>
+			<div class="textwidget"><a href="http://elections.oii.ox.ac.uk/" title="Elections and the Internet"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/uploads/2015/04/0252w-1.jpg" width="298" /></a>Visit the OII's <a href="http://elections.oii.ox.ac.uk/" title="Elections and the Internet">Elections and the Internet</a> website: exploring the extent to which data from the social web can be used to predict interesting social and political phenomena, especially elections.</div>
+		</div></div>
+<div id="text-26" class="widget widget_text"><div class="widgetinner"><h3 class="widgettitle">Special series: big data for policy</h3>
+			<div class="textwidget"><a href="http://blogs.oii.ox.ac.uk/policy/tag/big-data/"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/uploads/2013/11/big-data.jpg"></a></div>
+		</div></div>
+<div class="widget"></div> 
+</div><!-- End of sidebar -->
+
+<div class="clear"></div></div><!-- end of wrapper -->
+
+
+<div id="footer">
+	<div id="footerinner">
+	
+		<div id="foo_widget1">
+			<div id="rss-2" class="widget widget_rss"><div class="widgetinner"><h3 class="widgettitle"><a class='rsswidget' href='http://feeds.feedburner.com/oiinews?format=xml'><img style='border:0' width='14' height='14' src='http://blogs.oii.ox.ac.uk/policy/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.oii.ox.ac.uk/news/feed/'>Latest OII News</a></h3>
+<ul><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/LY1gBq0UeS4/'>Call for Abstracts: CSS&#039;15</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/1POiBaWHfLY/'>Career Achievement Award for the OII&#039;s Grant Blank</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/XDoP6nLy3QI/'>Social Experiments</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/IJa1Gpclnts/'>Read the Latest OII News</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/gnm65Zsodkg/Tangible_Outcomes_of_Internet_Use.pdf'>New Report: Measuring Outcomes of Internet Use</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/VXwT65qVifs/'>CfP: Responsibilities of Online Service Providers</a></li></ul></div></div>
+		</div>
+
+		<div id="foo_widget2">
+			<div id="rss-3" class="widget widget_rss"><div class="widgetinner"><h3 class="widgettitle"><a class='rsswidget' href='http://feeds.feedburner.com/oiievents?format=xml'><img style='border:0' width='14' height='14' src='http://blogs.oii.ox.ac.uk/policy/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.oii.ox.ac.uk/events/feed/'>Forthcoming OII Events</a></h3>
+<ul><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiievents/~3/VXwT65qVifs/'>Workshop &quot;Understanding the Responsibilities of Online Service Providers in Information Societies&quot;</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiievents/~3/LY1gBq0UeS4/'>CCS&#039;15 Satellite Workshop on Computational Social Science</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiievents/~3/iBpVxw-Ykr8/'>#FAIL!  Things that didn&#039;t work out in social media research –  and what we can learn from them</a></li></ul></div></div>
+			<div class="clear"></div>
+		</div>
+		
+		<div id="foo_widget3">	
+			<div id="tag_cloud-3" class="widget widget_tag_cloud"><div class="widgetinner"><h3 class="widgettitle">Blog Tags</h3>
+<div class="tagcloud"><a href='http://blogs.oii.ox.ac.uk/policy/tag/activism/' class='tag-link-15' title='10 topics' style='font-size: 15.604938271605pt;'>activism</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/agenda-setting/' class='tag-link-16' title='10 topics' style='font-size: 15.604938271605pt;'>agenda-setting</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/arab-spring/' class='tag-link-18' title='3 topics' style='font-size: 8pt;'>Arab Spring</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/big-data/' class='tag-link-107' title='21 topics' style='font-size: 20.79012345679pt;'>big data</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/broadband/' class='tag-link-20' title='8 topics' style='font-size: 14.049382716049pt;'>broadband</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/campaigning/' class='tag-link-22' title='9 topics' style='font-size: 14.913580246914pt;'>campaigning</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/censorship/' class='tag-link-23' title='6 topics' style='font-size: 12.320987654321pt;'>censorship</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/child-protection/' class='tag-link-24' title='7 topics' style='font-size: 13.185185185185pt;'>child protection</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/china/' class='tag-link-108' title='8 topics' style='font-size: 14.049382716049pt;'>China</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/collective-action/' class='tag-link-26' title='18 topics' style='font-size: 19.753086419753pt;'>collective action</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/crisis/' class='tag-link-28' title='3 topics' style='font-size: 8pt;'>crisis</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/crowd-sourcing/' class='tag-link-30' title='20 topics' style='font-size: 20.444444444444pt;'>crowd sourcing</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/cybersecurity/' class='tag-link-32' title='3 topics' style='font-size: 8pt;'>cybersecurity</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/data-sharing/' class='tag-link-34' title='6 topics' style='font-size: 12.320987654321pt;'>data-sharing</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/data-protection/' class='tag-link-33' title='13 topics' style='font-size: 17.506172839506pt;'>data protection</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/data-science/' class='tag-link-178' title='25 topics' style='font-size: 22pt;'>data science</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/democracy/' class='tag-link-35' title='6 topics' style='font-size: 12.320987654321pt;'>democracy</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/development-2/' class='tag-link-141' title='4 topics' style='font-size: 9.7283950617284pt;'>development</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/digital-divides/' class='tag-link-39' title='7 topics' style='font-size: 13.185185185185pt;'>digital divides</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/digital-goods/' class='tag-link-41' title='7 topics' style='font-size: 13.185185185185pt;'>digital goods</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/economics-2/' class='tag-link-123' title='12 topics' style='font-size: 16.814814814815pt;'>economics</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/elections/' class='tag-link-121' title='6 topics' style='font-size: 12.320987654321pt;'>elections</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/governance/' class='tag-link-51' title='13 topics' style='font-size: 17.506172839506pt;'>governance</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/government/' class='tag-link-135' title='9 topics' style='font-size: 14.913580246914pt;'>government</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/ict4d/' class='tag-link-126' title='4 topics' style='font-size: 9.7283950617284pt;'>ICT4D</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/ipp2010/' class='tag-link-151' title='7 topics' style='font-size: 13.185185185185pt;'>ipp2010</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/ipp2012/' class='tag-link-152' title='4 topics' style='font-size: 9.7283950617284pt;'>ipp2012</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/media/' class='tag-link-58' title='4 topics' style='font-size: 9.7283950617284pt;'>media</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/mena/' class='tag-link-157' title='8 topics' style='font-size: 14.049382716049pt;'>MENA</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/mena-wikipedia/' class='tag-link-168' title='5 topics' style='font-size: 11.111111111111pt;'>MENA-Wikipedia</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/mobilisation/' class='tag-link-59' title='4 topics' style='font-size: 9.7283950617284pt;'>mobilisation</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/networks/' class='tag-link-61' title='7 topics' style='font-size: 13.185185185185pt;'>networks</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/news-media/' class='tag-link-139' title='4 topics' style='font-size: 9.7283950617284pt;'>news media</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/open-data/' class='tag-link-64' title='4 topics' style='font-size: 9.7283950617284pt;'>open data</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/participation/' class='tag-link-65' title='8 topics' style='font-size: 14.049382716049pt;'>participation</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/personal-data/' class='tag-link-66' title='13 topics' style='font-size: 17.506172839506pt;'>personal data</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/politics/' class='tag-link-132' title='5 topics' style='font-size: 11.111111111111pt;'>politics</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/privacy/' class='tag-link-69' title='12 topics' style='font-size: 16.814814814815pt;'>privacy</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/regulation/' class='tag-link-71' title='12 topics' style='font-size: 16.814814814815pt;'>regulation</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/representation/' class='tag-link-72' title='7 topics' style='font-size: 13.185185185185pt;'>representation</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/social-media/' class='tag-link-77' title='18 topics' style='font-size: 19.753086419753pt;'>social media</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/trust/' class='tag-link-82' title='4 topics' style='font-size: 9.7283950617284pt;'>trust</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/twitter/' class='tag-link-83' title='8 topics' style='font-size: 14.049382716049pt;'>Twitter</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/voting/' class='tag-link-88' title='4 topics' style='font-size: 9.7283950617284pt;'>voting</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/wikipedia/' class='tag-link-143' title='6 topics' style='font-size: 12.320987654321pt;'>Wikipedia</a></div>
+</div></div>
+		</div>
+		
+		<div class="clear"></div>
+		
+	</div><!-- /footerinner -->
+</div><!-- /footer -->
+
+<div id="footer_data">
+	<div id="footer-left-side">
+		Contact the editors: <a href="mailto:policyandinternet@oii.ox.ac.uk">policyandinternet@oii.ox.ac.uk</a>	</div><!-- #site-info -->
+			
+	<div id="footer-right-side">
+		<a href="http://blogs.oii.ox.ac.uk/policy/wp-login.php">Log in</a> - 			
+				 
+			<div style="display:none">
+	<div class="grofile-hash-map-de1dae93b94a24ad5c089fbc675fc1b5">
+	</div>
+	</div>
+
+	<div id="fb-root"></div>
+	<script type='text/javascript'>
+	<!--
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	// -->
+	</script><script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/jetpack/modules/wpgroho.js'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201525.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'89499687',post:'0',tz:'0',srv:'blogs.oii.ox.ac.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '89499687', '0' ]);
+</script>
+	</div> <!-- #footer-right-side -->
+	<div class="clear"></div>
+</div><!-- /footer_data -->
+
+
+
+
+
+
+
+
+</body>
+</html>

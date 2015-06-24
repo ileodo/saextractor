@@ -1,0 +1,163 @@
+
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr" class='com_podcasts view-seminars itemid-138 j25 mm-hover'>
+
+  <head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Oxford Transitional Justice Research, OTJR, CRIM, Oxford, University, criminology research, transition,  Transitional, justice, conflict, network, seminar, otjr.crim" />
+  <title>Seminars</title>
+  <link href="/templates/t3_blank/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/templates/t3_blank/css/themes/otjr/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_podcasts/assets/css/site.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/t3_blank/css/themes/otjr/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/t3_blank/fonts/font-awesome/css/font-awesome.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/t3_blank/css/custom.css" type="text/css" />
+  <script src="/plugins/system/t3/base/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/js/jquery.noconflict.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/bootstrap/js/bootstrap.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/js/jquery.tap.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/js/script.js" type="text/javascript"></script>
+  <script src="/plugins/system/t3/base/js/menu.js" type="text/javascript"></script>
+
+    
+<!-- META FOR IOS & HANDHELD -->
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="YES" />
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- For IE6-8 support of media query -->
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/plugins/system/t3/base/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here-->  
+  
+
+<meta name="google-site-verification" content="" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-39583968-1', 'otjr.crim.ox.ac.uk');
+  ga('send', 'pageview');
+</script>
+<!-- Universal Google Analytics Plugin by PB Web Development -->
+
+</head>
+
+  <body>
+
+    
+<!-- HEADER -->
+<header id="t3-header" class="container t3-header">
+  <div class="row">
+
+    <!-- LOGO -->
+    <div class="span8 logo">
+      <div class="logo-image">
+        <a href="/" title="Oxford Transitional Justice Research">
+                      <img class="logo-img" src="/images/Screen Shot 2015-04-18 at 19.26.19.png" alt="Oxford Transitional Justice Research" />
+                              <span>Oxford Transitional Justice Research</span>
+        </a>
+        <small class="site-slogan hidden-phone">University of Oxford</small>
+      </div>
+    </div>
+    <!-- //LOGO -->
+
+    
+  </div>
+</header>
+<!-- //HEADER -->
+    
+    
+<!-- MAIN NAVIGATION -->
+<nav id="t3-mainnav" class="wrap t3-mainnav navbar-collapse-fixed-top">
+  <div class="container navbar">
+    <div class="navbar-inner">
+    
+      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <i class="icon-reorder"></i>
+      </button>
+
+      <div class="nav-collapse collapse always-show">
+              
+<ul class="nav ">
+<li class="item-101"><a href="/" >Home</a></li><li class="item-114"><a href="/index.php/component/com_cck/Itemid,114/search,profiles/task,search/view,list/" >People</a></li><li class="item-108 deeper dropdown parent"><a class="dropdown-toggle" href="/index.php/component/com_cck/Itemid,108/search,events__all/task,search/view,list/"  data-toggle="dropdown">Events<b class="caret"></b></a><ul class="nav-child unstyled small dropdown-menu"><li class="item-133"><a href="/index.php/component/com_cck/Itemid,133/search,seminars/task,search/view,list/" >Seminars</a></li><li class="item-134"><a href="/index.php/component/com_cck/Itemid,134/search,conferences/task,search/view,list/" >Conferences</a></li><li class="item-143"><a href="/index.php/component/com_cck/Itemid,143/search,past_events/task,search/view,list/" >Past Events</a></li></ul></li><li class="item-115 active deeper dropdown parent"><a class="dropdown-toggle" href="/index.php/podcasts/podcasts"  data-toggle="dropdown">Podcasts<b class="caret"></b></a><ul class="nav-child unstyled small dropdown-menu"><li class="item-138 current active"><a href="/index.php/podcasts/seminars" >Seminars</a></li><li class="item-141"><a href="/index.php/podcasts/book-launches" >Book Launches</a></li><li class="item-142"><a href="/index.php/podcasts/symposiums-and-conerences" >Symposiums and Conferences</a></li></ul></li><li class="item-109 deeper dropdown parent"><a class="dropdown-toggle" href="/index.php/component/com_cck/Itemid,109/search,connact_contacts/task,search/view,list/"  data-toggle="dropdown">Research Network<b class="caret"></b></a><ul class="nav-child unstyled small dropdown-menu"><li class="item-117"><a href="/index.php/component/com_cck/Itemid,117/layout,edit/type,connect_contact/view,form/" >Submit Connect Profile</a></li></ul></li><li class="item-123 deeper dropdown parent"><a class="dropdown-toggle" href="/index.php/working-papers/working-paper-series/368-working-papers.html"  data-toggle="dropdown">Working Papers<b class="caret"></b></a><ul class="nav-child unstyled small dropdown-menu"><li class="item-164"><a href="/index.php/component/com_cck/Itemid,164/search,papers_current/task,search/view,list/" >Past Debates</a></li><li class="item-165"><a href="/index.php/component/com_cck/Itemid,165/search,papers_research/task,search/view,list/" >Research Papers</a></li><li class="item-208"><a href="/index.php/component/com_cck/Itemid,208/search,papers_opeds/task,search/view,list/" >Op-Eds</a></li></ul></li><li class="item-130 deeper dropdown parent"><a class="dropdown-toggle" href="/index.php/component/com_cck/Itemid,130/search,current_projects/task,search/view,list/"  data-toggle="dropdown">Projects<b class="caret"></b></a><ul class="nav-child unstyled small dropdown-menu"><li class="item-137"><a href="/index.php/component/com_cck/Itemid,137/search,current_projects/task,search/view,list/" >Ongoing Projects</a></li><li class="item-129"><a href="/index.php/component/com_cck/Itemid,129/search,past_projects/task,search/view,list/" >Past Projects</a></li></ul></li><li class="item-131"><a href="/index.php/component/com_cck/Itemid,131/search,debates/task,search/view,list/" >Debates</a></li><li class="item-135"><a href="/index.php/partners/36-partners.html" >Partners</a></li></ul>
+
+            </div>
+    </div>
+  </div>
+</nav>
+<!-- //MAIN NAVIGATION -->
+    
+
+    
+<div id="t3-mainbody" class="container t3-mainbody">
+  <div class="row">
+    
+    <!-- MAIN CONTENT -->
+    <div id="t3-content" class="t3-content span12"  data-default="span12">
+      
+<div id="system-message-container">
+</div>
+          <h1>Podcasts: Seminars</h1>
+
+<div id="pagination-top">Page 1 of 4</div><table id="podcast-list-table"><tr><td colspan="3">&nbsp;</td></tr><tr class="podcast-heading"><td colspan="3"><h2>Michaelmas 2013</h2></td></tr><tr class="podcast-subheading"><td width="15%"><strong>Date</strong></td><td width="50%"><strong>Title</strong></td><td width="35%"><strong>Speaker</strong></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 05/11/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2013-11-05-socleg-otjr-gibb.mp3">Transitional Justice in Transitional Libya</a> </h3></td><td><p>Dr. Michael Gibb – Lecturer in Philosophy at University College, Oxford and Project Co-ordinator for No Peace Without Justice, Libya</p></td></tr><tr class="podcast-list-row1"><td class="podcast-list-posted"><p>Posted: 29/10/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2013-10-29-socleg-otjr-akinwumi.mp3">Making sense of past atrocities: Toward methodologies of haunting</a> </h3></td><td><p>Dr. Akin Akinwumi – Researcher, Department of Geography, Simon Fraser University</p></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 22/10/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2013-10-22-socleg-otjr-balardini.mp3">Measuring criminal accountability for past human rights violation in the South Cone: Databases on judicial activity in Argentina, Chile and Peru</a> </h3></td><td><p>Lorena Balardini – Co-ordinator of Research, Centre of Legal and Social Studies, Argentina</p></td></tr><tr class="podcast-list-row1"><td class="podcast-list-posted"><p>Posted: 19/10/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2013-10-19-socleg-otjr-stewart.mp3">Peace through international criminal justice</a> </h3></td><td><p>James Stewart – Deputy Prosecutor of the International Criminal Court</p></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 15/10/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2013-10-15-socleg-otjr-zistel.mp3">Of other spaces: Analysing memorials to mass violence through Foucault's notion of Heterotopia</a> </h3></td><td><p>Prof. Susanne Buckley-Zistel, Director of the Center for Conflict Studies, Philipps-University of Marburg</p></td></tr><tr><td colspan="3">&nbsp;</td></tr><tr class="podcast-heading"><td colspan="3"><h2>Trinity Term 2013</h2></td></tr><tr class="podcast-subheading"><td width="15%"><strong>Date</strong></td><td width="50%"><strong>Title</strong></td><td width="35%"><strong>Speaker</strong></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 11/06/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2013-06-11-socleg-otjr-moon.mp3">Do bones have politics? Forensic knowledge, human remains and the politics of the past</a> </h3></td><td><p>Dr. Claire Moon (Senior Lecturer, Department of Sociology and the Human Rights Centre, London School of Economics and Political Science)</p></td></tr><tr class="podcast-list-row1"><td class="podcast-list-posted"><p>Posted: 04/06/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2013-06-04-socleg-otjr-nichols.mp3">The International Criminal Court and the end of impunity in Kenya</a> </h3></td><td><p>Lionel Nichols (St. Anne's Global Justice Research Fellow, University of Oxford)</p></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 27/05/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2013-05-27-socleg-otjr-rauschenbach.mp3">A critical analysis of involvement and accountability as recounted by individuals accused of international crimes at the ICTY</a> </h3></td><td><p>Dr. Mina Rauschenbach (Research Fellow, Geneva Academy of International Humanitarian Law and Human Rights, University of Geneva)</p></td></tr><tr class="podcast-list-row1"><td class="podcast-list-posted"><p>Posted: 21/05/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2013-05-21-socleg-otjr-robins.mp3">From victims to actors: Participatory approaches to transitional justice in Nepal</a> </h3></td><td><p>Dr. Simon Robins (Humanitarian Practitioner and Associate, Post War Reconstruction and Development Unit, University of York)</p></td></tr><tr><td colspan="3">&nbsp;</td></tr><tr class="podcast-heading"><td colspan="3"><h2>Hilary Term 2013</h2></td></tr><tr class="podcast-subheading"><td width="15%"><strong>Date</strong></td><td width="50%"><strong>Title</strong></td><td width="35%"><strong>Speaker</strong></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 26/03/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr/2013-03-12-socleg-otjr-lessa.mp3">Against Impunity: Challenging Amnesties in the Age of Accountability</a> </h3></td><td><p>Dr. Francesca Lessa, Postdoctoral Researcher (Latin American Centre) and Junior Research Fellow (St Anne's College), University of Oxford</p></td></tr><tr class="podcast-list-row1"><td class="podcast-list-posted"><p>Posted: 06/03/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr/2013-03-06-socleg-otjr-geddes.mp3">Recalibrating the Scales: The Difficult Marriage of Justice and Healing in Africa</a> </h3></td><td><p>Gary Geddes, Award winning writer and author of ‘Drink the Bitter Root: A search for justice and healing in Africa’.</p></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 05/03/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr/2013-03-05-socleg-otjr-combs.mp3">Factfinding Without Facts: The Uncertain Evidentiary Foundations of International Criminal Convictions</a> </h3></td><td><p>Professor Nancy Combs, Vice Dean and Professor of Law, Director of the Human Security Law Center, and Director of the Madrid Summer Law Program, William &amp; Mary Law School.</p></td></tr><tr class="podcast-list-row1"><td class="podcast-list-posted"><p>Posted: 26/02/2013</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr/2013-02-26-socleg-otjr-rush.mp3">Crime, Memory and Transitional Justice in Argentina</a> </h3></td><td><p>Professor Peter Rush, Professor at the Centre for Transitional Legal Studies, London</p></td></tr><tr><td colspan="3">&nbsp;</td></tr><tr class="podcast-heading"><td colspan="3"><h2>Michaelmas Term  2012</h2><p>Termcard</p></td></tr><tr class="podcast-subheading"><td width="15%"><strong>Date</strong></td><td width="50%"><strong>Title</strong></td><td width="35%"><strong>Speaker</strong></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 23/10/2012</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2012-10-23-socleg-otjr-drumbl.mp3">Reimagining Child Soldiers in International Law and Policy</a> </h3></td><td><p>Prof. Mark Drumbl, Class of 1975 Alumni Professor of Law &amp; Director of the Transnational Law Institute, Washington &amp; Lee University</p></td></tr><tr><td colspan="3">&nbsp;</td></tr><tr class="podcast-heading"><td colspan="3"><h2>Trinity Term 2012</h2><p>Termcard</p></td></tr><tr class="podcast-subheading"><td width="15%"><strong>Date</strong></td><td width="50%"><strong>Title</strong></td><td width="35%"><strong>Speaker</strong></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 14/06/2012</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2012-06-14-socleg-otjr-robinson.mp3">Apology, Utopia and Other Catch 22's: Why Criticism of the ICC is Fun, Popular...and Inevitable</a> </h3></td><td><p>Professor Darryl Robinson, Professor of Law, Queen's University, Canada</p></td></tr><tr class="podcast-list-row1"><td class="podcast-list-posted"><p>Posted: 12/06/2012</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2012-06-12-socleg-otjr-mezarobba.mp3">The Price of Omission: Brazilian Government Reparations to Victims of the Military Regime: Oak Series on Amnesty</a> </h3></td><td><p>Dr. Glenda Mezarobba, Research Fellow, Universidade de Campinas</p></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 05/06/2012</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2012-06-05-socleg-otjr-muro.mp3">Who is the Terrorist? Memories, Victims and the Use of Legitimate Violence</a> </h3></td><td><p>Dr. Diego Muro, Santander Visiting Fellow, St. Antony's College</p></td></tr><tr class="podcast-list-row1"><td class="podcast-list-posted"><p>Posted: 22/05/2012</p></td><td><h3 class="podcast-list-title"><a href="http://podcasts.ox.ac.uk/constitutional-accommodation-national-pluralism-post-war-sri-lanka-lessons-present-sri-audio">The Constitutional Accommodation of National Pluralism in Post-War Sri Lanka: The Lessons for the Present from Sri Lanka's Pre-Colonial Past</a> </h3></td><td><p>Asanga Weikala, PhD Candidate, School of Law, University of Edinburgh</p></td></tr><tr class="podcast-list-row0"><td class="podcast-list-posted"><p>Posted: 15/05/2012</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2012-05-15-socleg-otjr-mersky.mp3">Challenges for Transitional Justice: The View from the Latin American Experience</a> </h3></td><td><p>Marcie Mersky, Director of Program Office, International Center for Transitional Justice</p></td></tr><tr class="podcast-list-row1"><td class="podcast-list-posted"><p>Posted: 01/05/2012</p></td><td><h3 class="podcast-list-title"><a href="http://media.podcasts.ox.ac.uk/socleg/otjr_seminars/2012-05-01-socleg-otjr-ainley.mp3">Excesses of Responsibility and the Power of Political Approaches to Accountability</a> </h3></td><td><p>Dr. Kirsten Ainley, Lecturer in International Relations, London School of Economics</p></td></tr></table><div class="pagination"><ul class="pagination-list"><li class="disabled"><a>Start</a></li><li class="disabled"><a>Prev</a></li><li class="active"><a>1</a></li><li><a title="2" href="/index.php/podcasts/seminars?lang=en&amp;limit=20&amp;limitstart=20">2</a></li><li><a title="3" href="/index.php/podcasts/seminars?lang=en&amp;limit=20&amp;limitstart=40">3</a></li><li><a title="4" href="/index.php/podcasts/seminars?lang=en&amp;limit=20&amp;limitstart=60">4</a></li><li><a title="Next" href="/index.php/podcasts/seminars?lang=en&amp;limit=20&amp;limitstart=20">Next</a></li><li><a title="End" href="/index.php/podcasts/seminars?lang=en&amp;limit=20&amp;limitstart=60">End</a></li></ul><br />Page 1 of 4</div>
+ 
+
+
+    </div>
+    <!-- //MAIN CONTENT -->
+
+        
+    
+  </div>
+</div>     
+    
+    
+    
+<!-- NAV HELPER -->
+<nav class="wrap t3-navhelper">
+  <div class="container">
+    
+  </div>
+</nav>
+<!-- //NAV HELPER -->    
+    
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
+
+  <!-- FOOT NAVIGATION -->
+  <div class="container">
+      </div>
+  <!-- //FOOT NAVIGATION -->
+
+  <section class="t3-copyright">
+    <div class="container">
+      <div class="row">
+        <div class="span12 copyright">
+          
+<ul class="nav ">
+<li class="item-174">	<a href="http://www.ox.ac.uk/copyright.html" target="_blank" >Copyright and Disclaimer</a></li></ul>
+
+        </div>
+              </div>
+    </div>
+  </section>
+
+</footer>
+<!-- //FOOTER -->    
+  </body>
+
+</html>

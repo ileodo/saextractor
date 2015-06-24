@@ -1,0 +1,674 @@
+		
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Social Science Library | Renew a book</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width; initial-scale=1.0">
+  <meta name="lastUpdated" content="2014-01-02 21:13:36">
+  <meta name="lastPublished" content="2010-09-21 18:17:12">
+  
+<!-- 2012 Bodleian Libraries Main //-->
+
+<!-- Custom top menu type //-->
+
+<!-- general optional //-->
+
+<!-- User Defined //-->
+
+<!-- System Defined //-->
+<meta name="Title" content="Renew a book" />
+<meta name="Date Published" content="21/09/2010 18:17:PM" />
+
+<!-- Navigation type //-->
+
+<!-- RHS Column Library //-->
+
+<!-- Social Sharing Metadata //-->
+
+<!-- Open Graph Basic //-->
+<meta name="og:title" content="Renew a book" />
+<meta name="og:type" content="website" />
+<meta name="og:url" content="http://www.bodleian.ox.ac.uk/ssl/how/renew" />
+<meta name="og:image" content="http://www.bodleian.ox.ac.uk/__data/resize/resize.php?sa=154,,172516" />
+
+<!-- Open Graph Optional //-->
+<meta name="og:determiner" content="auto" />
+<meta name="og:locale" content="en_GB" />
+<meta name="og:site_name" content="Bodleian Libraries" />
+
+<!-- Twitter Cards Basic //-->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@BodleianLibs" />
+<meta name="twitter:title" content="Renew a book" />
+<meta name="twitter:description" content="" />
+
+<!-- Twitter Cards Optional //-->
+<meta name="twitter:image" content="http://www.bodleian.ox.ac.uk/__data/resize/resize.php?sa=154,,172516" />
+
+
+  <meta property="og:image" content="http://www.bodleian.ox.ac.uk/__data/resize/resize.php?s=50&a="/>
+  <link rel="shortcut icon" href="http://www.bodleian.ox.ac.uk/__data/assets/file/0003/89436/bod-logo-16.ico" />			<link rel="stylesheet" type="text/css" href="http://www.bodleian.ox.ac.uk/__data/assets/file/0019/129142/master.css?v=0.1.13" media="all" />
+								<link rel="stylesheet" type="text/css" href="http://www.bodleian.ox.ac.uk/__data/assets/file/0005/129209/responsive.css?v=0.1.2" media="all" />
+								<link rel="stylesheet" type="text/css" href="http://www.bodleian.ox.ac.uk/__data/assets/file/0019/122365/master.css?v=0.1.60" media="all" />
+								
+
+  <!--[if IE 7]>
+						<![endif]-->
+  <!--[if IE 6]>
+						<link rel="stylesheet" type="text/css" href="http://www.bodleian.ox.ac.uk/__data/assets/file/0017/129212/ie6.css?v=0.1.2" media="all" />
+								<![endif]-->
+  
+  
+			<!--[if lt IE 8]><script src="http://www.bodleian.ox.ac.uk/__data/assets/js_file/0015/121029/IE8.js"></script><![endif]-->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+<script type="text/javascript">if (typeof jQuery == 'undefined') {document.write(unescape("%3Cscript src='http://www.bodleian.ox.ac.uk/__data/assets/js_file/0007/121030/jquery-1.8.2.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+<script type="text/javascript" src="http://www.bodleian.ox.ac.uk/__data/assets/js_file/0009/121032/thirdparty.js"></script><!-- thirdparty.js -->
+<script type="text/javascript" src="http://www.bodleian.ox.ac.uk/__data/assets/js_file/0008/121031/master.js"></script><!-- master.js -->
+<script type="text/javascript" src="http://www.bodleian.ox.ac.uk/__data/assets/js_file/0005/122468/auto_anchors.js"></script><!-- auto_anchors.js -->
+
+<!-- ShareThis -->
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-d23cb29f-4a10-310f-ea9e-17fdba971be", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16864247-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type="text/javascript" src="/__data/assets/js_file/0011/78860/asset_tracking.js"></script>			
+
+
+
+  <meta http-equiv="Last-Modified" content="Thu, 02 Jan 2014 21:13:36 +0000" />
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 18 June 2015 10:10:26
+-->
+
+
+
+</head>
+<body class="floating-footer" data-librarydata-id="185">
+  <div id="top"></div>
+  
+  <div class="cookie-policy">
+  <div class="grid">
+    <div class="twelve">
+      <a href="#" title="Accept and close" class="close"></a>
+      <div class="detail for-desktop">This site uses cookies to support some content and functions, and also Google Analytics. By using this site you agree to their use. <a href="http://www.bodleian.ox.ac.uk/cookies">Find out more and opt out &raquo;</a></div>
+      <div class="detail for-mobile">This site uses cookies to support some content and functions, and also Google Analytics. <a href="http://www.bodleian.ox.ac.uk/cookies">More &raquo;</a></div>
+    </div>
+  </div>
+</div><!-- END .cookie-policy -->  
+  <div class="header grid">
+    <div class="header-links five">
+  <p>
+    <a href="http://www.bodleian.ox.ac.uk/ssl">Home</a>
+    <a href="/">Bodleian Libraries</a>
+    <a href="http://www.bodleian.ox.ac.uk/ssl/contact/ask">Ask a librarian</a>
+    <a href="http://www.bodleian.ox.ac.uk/ssl/contact">Contact</a>
+    <a class="visible-on-mobile goToDesktop" href="http://www.bodleian.ox.ac.uk/ssl">Go to desktop site</a>
+  </p>
+</div><div class="logo long-logo seven">
+  <a href="http://www.bodleian.ox.ac.uk/ssl" title="Homepage">
+    <img src="http://www.bodleian.ox.ac.uk/__data/assets/image/0005/120992/logo.jpg" width="117" height="102" alt="Bodleian Libraries logo" />
+    <span class="page-title">Social Science Library</span>
+    <span class="division">Bodleian Libraries</span>
+    <span class="university">University of Oxford</span>
+  </a>
+</div><div class="search five">
+  <ul class="tab-menu">
+    <li><a href="#search-on-website">Website</a><span class="arrow"></span></li>
+    <li><a href="#search-in-catalogue">Catalogue (SOLO)</a><span class="arrow"></span></li>
+  </ul>
+  <div id="search-on-website" class="tab default">
+    <form action="http://www.bodleian.ox.ac.uk/ssl/site-search" method="get">
+      <div>
+        <input class="text" type="text" placeholder="Search this site" value="" name="query_and" />
+        <input class="submit" type="submit" value="" title="Search" />
+        <input type="hidden" value="site-search-alt" name="form" />
+        <input type="hidden" value="_default_preview" name="profile" />
+        <input type="hidden" value="oxford-bodleian-libraries-web-master" name="collection" />
+        <input type="hidden" value="" name="start_rank" />
+        <input type="hidden" value="1,18|" name="gscope1" />
+      </div>
+    </form>
+  </div>
+
+  <div id="search-in-catalogue" class="tab catalogue">
+    <form action="http://solo.bodleian.ox.ac.uk/primo_library/libweb/action/search.do" method="get">
+      <div>
+
+        <input type="hidden" name="dstmp" value="1434618628" />
+        <input type="hidden" name="dum" value="true" />
+        <input type="hidden" name="vid" value="OXVU1" />
+        <input class="text" type="text" name="vl(freeText0)" placeholder="Search in catalogue (SOLO)" value ="" />
+
+        <input class="submit" type="submit" name="fn" value="search" title="Search" />
+      </div>
+    </form>
+  </div>
+</div>  </div><!-- END .header -->
+
+  <!-- noindex -->
+  <div class="menu  grid">
+  <a href="#" class="menu-button show-menu"><span>Menu</span></a>
+  <a href="#section-menu" class="menu-button show-submenu"><span>Section menu</span></a>
+  <ul class="twelve">
+    <li>
+  <a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources" class="mega_menu">Finding Resources <span class="arrow">a</span>
+</a>
+
+
+       <div class="mmenu"><div class="main-nav-level2-container">
+<div class="nav-column">
+  <h3>Resources by Format</h3><ul class="level-2">
+<li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/resources-by-format2/books">Find Books</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/resources-by-format2/find-e-books">Find e-Books</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/resources-by-format2/journals">Find Journals &amp; Journal Articles</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/resources-by-format2/access-online-resources">Find e-Resources and Databases</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/resources-by-format2/discussion-and-working-papers">Find Discussion &amp; Working Papers</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/resources-by-format2/find-dissertations-and-theses">Find Dissertations &amp; Theses</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/resources-by-format2/find-useful-data-and-statistics">Find Useful Data and Statistics</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/resources-by-format2/electronic-legal-deposit">Electronic Legal Deposit</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/resources-by-format2/ssl-ereadings">SSL eReadings (digitized course readings)</a></li>
+</ul></div><div class="nav-column">
+  <h3>Resources by Subject</h3><ul class="level-2">
+<li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/african-studies">African Studies</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/anthropology">Anthropology</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/criminology">Criminology</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/economics">Economics</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/social-intervention">Evidence-Based Social Intervention</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/geography">Geography</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/international-development">International Development</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/internet-studies">Internet Studies</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/migration-studies">Migration Studies</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/politics">Politics and International Relations</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/public-policy">Public Policy</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/refugee-studies">Refugee Studies</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/russian-and-east-european-studies">Russian and East European Area Studies</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/social-policy">Social Policy</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/social-science-data-and-statistics">Social Science Data and Statistics</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/socio-legal-studies">Socio-Legal Studies</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/sociology">Sociology</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/subjects/find-libraries-by-subject">Find Libraries by Subject</a></li>
+</ul></div><div class="nav-column">
+  <h3>Search Tools</h3><ul class="level-2">
+<li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/search-tools/solo-oxford-libraries-catalogue">SOLO (Oxford Libraries' Catalogue)</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/search-tools/oxlip-electronic-resources">OxLIP+ (Electronic Resources)</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/search-tools/oxford-university-e-journals">Oxford University e-Journals</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/search-tools/subject-browsing-guide">Subject Browsing Guide</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/search-tools/libguides">LibGuides</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/search-tools/copac">COPAC</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/finding-resources/search-tools/worldcat">WorldCat (requires Single Sign-on)</a></li>
+</ul></div>
+</div></div>
+  
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/ssl/services" class="link_list">Using This Library <span class="arrow">a</span>
+</a>
+
+
+  <div class="linkListSubmenu"><div class="main-nav-level2-container">
+  <div class="nav-column">
+    <ul class="level-2">
+      <li><a href="http://www.bodleian.ox.ac.uk/ssl/services/opening-hours">Opening Hours</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/borrowing">Borrowing</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/library-map">Library Map / Floor Plan (PDF)</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/study-spaces">Study Spaces</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/pcs-laptops">PCs, Laptops and Mobile Devices</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/print-copy-scan">Print, Copy and Scan</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/services-for-readers-with-disabilities">Services for readers with disabilities</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/bookstack-materials">Request items from closed stacks</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/interlibrary-loans">Interlibrary Loans (for Bodleian Libraries Readers)</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/interlibrary-loans-for-external-institutions">Interlibrary Loans (for External Institutions)</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/scan-and-deliver">Scan &amp; Deliver</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/borrow-an-e-reader">Borrow an e-Reader</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/equipment">Equipment and Stationery</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/caring-for-the-collection">Caring for the Collection</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/breaks">Take a Break!</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/bodleian-rules-of-conduct">Bodleian Rules of Conduct</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/ssl-events-calendar">SSL Events Calendar</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/ssl/workshops" class="link_list">Research Skills Training <span class="arrow">a</span>
+</a>
+
+
+  <div class="linkListSubmenu"><div class="main-nav-level2-container">
+  <div class="nav-column">
+    <ul class="level-2">
+      <li><a href="http://www.bodleian.ox.ac.uk/ssl/workshops/graduate-search">Graduate Search Clinics</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/workshops/research-skills">Research Skills Toolkits</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/workshops/wiser-programme">Bodleian Workshops</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/workshops/departments">Workshops for Departments</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/workshops/ssl-events-calendar">SSL Events Calendar</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/workshops/training-materials-archive">Training Materials Archive</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/workshops/showcase">Social Science Showcase</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/workshops/libguides-portal">LibGuides Portal</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/ssl/how" class="link_list">How Do I...? <span class="arrow">a</span>
+</a>
+
+
+  <div class="linkListSubmenu"><div class="main-nav-level2-container">
+  <div class="nav-column">
+    <ul class="level-2">
+      <li><a href="http://www.bodleian.ox.ac.uk/ssl/how/find-the-library">Find the Library</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/join">Join the Library</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/findthings">Find things in the Library</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/search-the-catalogue">Search the Catalogue</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/interlibrary-loans-for-oxford-university-readers">Access items not in Oxford</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/access-library-resources-from-offsite">Access library resources from offsite</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/apply-for-a-job-in-the-library">Apply for a job in the Bodleian Libraries</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/discussion-rooms">Book a Discussion Room</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/contact-the-library">Contact the Library</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/find-libraries-by-subject">Find Libraries by Subject</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/login">Log in to the network</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/manage-references-and-citations">Manage references and citations</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/pay-fines-online">Pay for Fines &amp; Lost Books Online</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/recommend-a-book-ssl">Recommend a book</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/recommend-an-e-resource">Recommend an e-resource</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/renew">Renew a book</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/bookstack-materials">Request items from closed stacks</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/reserve">Reserve a book (place a hold)</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/use-e-books">Use e-books</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/how/take-the-ssl-on-holiday3">Take the SSL on holiday</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/ssl/contact" class="page_link">Contact Us <span class="arrow">a</span>
+</a>
+
+
+  
+</li><li class="last">
+  <a href="http://www.bodleian.ox.ac.uk/ssl/feedback" class="">Feedback <span class="arrow">a</span>
+</a>
+
+
+  
+</li>
+  </ul>
+</div><!-- END .menu -->
+  <!-- main content -->
+  <div class="main grid rhs_Yes grid_designers-six">
+  
+  <!-- left navigation -->
+  		
+    <div class="submenu designers-three">
+      
+      
+      
+      
+      
+      
+      <ul class="menu_level_1">
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/find-the-library"> Find the Library</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/join"> Join the Library</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/findthings"> Find things in the Library</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/search-the-catalogue"> Search the Catalogue</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/interlibrary-loans-for-oxford-university-readers"> Access items not in Oxford</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/access-library-resources-from-offsite"> Access library resources from offsite</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/apply-for-a-job-in-the-library"> Apply for a job in the Bodleian Libraries</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/discussion-rooms"> Book a Discussion Room</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/contact-the-library"> Contact the Library</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/find-libraries-by-subject"> Find Libraries by Subject</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/login"> Log in to the network</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/manage-references-and-citations"> Manage references and citations</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/pay-fines-online"> Pay for Fines &amp; Lost Books Online</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/recommend-a-book-ssl"> Recommend a book</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/recommend-an-e-resource"> Recommend an e-resource</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="current">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/renew"> Renew a book</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/bookstack-materials"> Request items from closed stacks</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/reserve"> Reserve a book (place a hold)</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/use-e-books"> Use e-books</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/take-the-ssl-on-holiday3"> Take the SSL on holiday (Summer)</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                
+      </ul>
+    </div><!-- submenu designers-three -->
+  
+							
+    
+  <!-- new left navigation for megamenu and it's children -->
+  			
+  <!-- end new left navigation for megamenu and it's children -->
+  
+  <!-- endnoindex -->
+
+   <!-- Article Header -->
+   
+						
+ 
+    
+
+      <div class="article-header designers-nine">
+         
+			<!--<div class="social-media share-this hidden-on-mobile">-->
+<div class="share-this hidden-on-mobile">
+  <span class='st_facebook_hcount'></span>
+  <span class='st_twitter_hcount'></span>
+  <span class='st_googleplus_hcount'></span>
+</div>			
+         <div class="breadcrumb">
+          
+						
+      <a href="http://www.bodleian.ox.ac.uk/ssl">Home</a>
+   
+			  &raquo;  <a href="http://www.bodleian.ox.ac.uk/ssl/how">How Do I...?</a>  &raquo;            <span>Renew a book</span>
+         </div><!-- breadcrumb-->
+       </div><!-- article-header -->
+       
+
+    <!-- additional content wrapper -->
+    <div class="landing-page designers-nine">
+
+       
+			<h1>Renew a book</h1><!-- Notice Display -->
+
+    
+			
+
+       <!-- main content -->
+       <div class="designers-six alpha">
+          <div class="content">
+              
+		<!---->
+
+
+
+<div id="content_div_70941">
+
+ <p>You can renew items you have out on loan or items from closed stacks that you are consulting in a reading room via <a href="http://solo.bodleian.ox.ac.uk/">SOLO</a>. Books being renewed on the due date must be renewed before midnight.</p> <p>You can renew loans from the SSL a maximum of <b>7</b> times; once the maximum has been reached, books must be returned to the library to be re-issued.</p> <h2>Signing On to SOLO</h2> <p>To renew items you have out on loan or items from closed book stacks that you are consulting in a reading room you first need to <b>Sign In</b>:</p> <p><img style="BORDER-RIGHT: rgb(0,0,0) 0px solid; BORDER-TOP: rgb(0,0,0) 0px solid; BORDER-LEFT: rgb(0,0,0) 0px solid; BORDER-BOTTOM: rgb(0,0,0) 0px solid" height="76" alt="Signing on to SOLO" src="http://www.bodleian.ox.ac.uk/__data/assets/image/0009/95598/Sign-in.jpg" width="494"></p> <h3>Members of Oxford University</h3> <p>Current members of Oxford University should sign on with their <b>Oxford Single Sign On </b>at the next screen. If you do not know your SSO or need to reset your password, please visit the <a href="http://www.oucs.ox.ac.uk/webauth/oxfordusername.xml">Oxford University IT Services SSO webpage</a>.</p> <h3>Non Oxford Members</h3> <p>Other members of Bodleian Libraries should choose ‘<b>Other Bodleian card holders</b>’ at the next screen and sign on with their&nbsp;library card barcode number and their library password. See&nbsp;<a href="http://libguides.bodleian.ox.ac.uk/library-password">LibGuides</a> for&nbsp;instructions on setting and resetting your library password.&nbsp;</p> <p></p> <h2>Renewing Items</h2> <p>1. Sign on to SOLO using the options in the top right hand corner (see above Signing On</p> <p>information)</p> <p>2. Choose <b>My Account </b>(top right of screen)&nbsp;</p> <p>3. Choose <b>Loans</b> (to the left of the screen)</p> <p>4. You will see a&nbsp;list of your current loans in the body of the screen with renewal options on the far right of the screen.</p> <p>In most cases when you click Renew you will see an on&nbsp;screen message reading ‘<b>renew successful’</b>. </p> <p>Occasionally your renewal will fail and you will see the message ‘<b>renew not allowed’</b>. <a href="http://www.bodleian.ox.ac.uk/ssl/contact">Contact the library</a> for assistance. The most common reasons for a renewal failing are:</p> <ul> <li>the item has reached its maximum number of renewals </li><li>the&nbsp;item has been held (reserved by another reader) </li><li>you&nbsp;have a fine of &pound;10 or more on your record.&nbsp;</li></ul> <p></p> <h2>Fines and Blocks</h2> <p>To view your fines or any blocks on your account choose <strong>Fines and Fees </strong>or <strong>Blocks and Messages.</strong></p> <h2>Help with Renewals</h2> <p>If you need help with a renewal please contact the library from which you borrowed the item. The SSL issue desk telephone number is <b>01865 271093</b>.</p> 
+
+</div>
+
+
+
+<div class="clear"></div>
+
+
+
+
+
+
+<!-- image gallery turned of temporary - to turn it on put the - Bottom Images Listing, id: 118547 - from Tools folder to field below
+--><div class="share-for-mobile visible-on-mobile">
+   <span class="st_facebook_hcount"></span>
+   <span class="st_twitter_hcount"></span>
+   <span class="st_googleplus_hcount"></span>
+</div>          </div>
+       </div>
+
+       <!-- right column -->
+       
+			<div class="designers-three omega"><!--<div class="search-content">
+  <form method="get" action="http://www.bodleian.ox.ac.uk/bodley/section-search">
+    <div>
+       <input type="hidden" value="70939" name="section" id="section_node" />
+       <input type="text" value="" name="queries_sectionsearch_query" placeholder="Search in section" class="text" id="sectionsearch" />
+
+       <input type="submit" title="Search" value="" class="submit" />
+    </div>
+  </form>
+</div>-->  <div class="related-links">
+    <h5>Related Links</h5>
+    
+<div id="content_div_130029">
+
+ <ul><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/borrowing">Borrowing from the SSL</a></li><li>&nbsp;&nbsp;<a href="http://libguides.bodleian.ox.ac.uk/solo">SOLO LibGuide</a></li></ul> 
+
+</div>
+
+  </div>
+
+</div>		
+    </div> <!-- additional content wrapper end-->
+
+  </div><!-- END .main -->
+  
+<!-- noindex -->
+
+  <!-- Footer etc -->
+  
+			<div class="grid back-to-top">
+  <a href="#top">Back to top</a>
+</div>		
+  <div id="section-menu" class="submenu submenu-for-mobile grid">
+    <div class="twelve">
+      
+      
+      
+      
+      
+      
+      <ul class="menu_level_1">
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/find-the-library"> Find the Library</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/join"> Join the Library</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/findthings"> Find things in the Library</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/search-the-catalogue"> Search the Catalogue</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/interlibrary-loans-for-oxford-university-readers"> Access items not in Oxford</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/access-library-resources-from-offsite"> Access library resources from offsite</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/apply-for-a-job-in-the-library"> Apply for a job in the Bodleian Libraries</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/discussion-rooms"> Book a Discussion Room</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/contact-the-library"> Contact the Library</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/find-libraries-by-subject"> Find Libraries by Subject</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/login"> Log in to the network</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/manage-references-and-citations"> Manage references and citations</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/pay-fines-online"> Pay for Fines &amp; Lost Books Online</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/recommend-a-book-ssl"> Recommend a book</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/recommend-an-e-resource"> Recommend an e-resource</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="current">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/renew"> Renew a book</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/bookstack-materials"> Request items from closed stacks</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/reserve"> Reserve a book (place a hold)</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/use-e-books"> Use e-books</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/ssl/how/take-the-ssl-on-holiday3"> Take the SSL on holiday (Summer)</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                
+    </ul>
+  </div>
+</div>
+
+				<div class="footer-links">
+  <div class="grid">
+    <div class="within-bodleian footer-links-box three">
+<div id="content_div_129270">
+<strong>Quick links</strong><ul><li><a href="http://www.bodleian.ox.ac.uk/ssl/quick-links/opening-hours">Opening Hours</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/contact">Contact Us</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/quick-links/readers-with-disabilities">Services for readers with disabilities</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/services/borrowing">Borrowing</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/quick-links/keeping-up-to-date">Keeping Up To Date</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/quick-links/research-resources-appointments">Book a Research Appointment</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/quick-links/new-books">New Books</a></li><li><a href="http://www.bodleian.ox.ac.uk/ssl/quick-links/ssl-ereadings">SSL eReadings (WebLearn)</a></li></ul>
+</div>
+    </div>
+    <div class="further-reading footer-links-box three">
+
+ <strong>Search Tools</strong><ul><li><a href="http://solo.bodleian.ox.ac.uk/">SOLO<br />(Oxford Libraries' Catalogue)</a></li><li><a href="http://oxlip-plus.bodleian.ox.ac.uk/">OxLIP+<br /> (Online resources)</a></li><li><a href="http://ejournals.bodleian.ox.ac.uk/">e-Journals</a></li><li><a href="http://ox.libguides.com/">LibGuides<br />(Resources by Subject)</a></li></ul>
+    </div>
+    <div class="address two">
+      <div>
+        <strong>Address</strong>
+        <address>
+<div id="new_div_116769">
+Bodleian Social Science Library<br>University of Oxford<br>Manor Road Building<br>Manor Road<br>Oxford<br>OX1 3UQ
+</div>
+    </address>
+      </div>
+      <a href="http://www.ox.ac.uk/" target="_blank" title="University of Oxford Homepage"><img src="http://www.bodleian.ox.ac.uk/__data/assets/image/0019/116740/footer-university-of-oxford-logo.jpg" width="100" height="100" alt="University of Oxford Logo" /></a>
+    </div>
+    <div class="map four">
+      <div id="library_map"></div>
+      <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyBtgxMIN-8j798f7NPvuaTQa_nVf5i9WWQ&sensor=false"></script>
+      <script type="text/javascript" src="//librarydata.bodleian.ox.ac.uk/libraries/185.js"></script>
+    </div>
+    <div class="info twelve">
+ <ul><li><a href="http://www.bodleian.ox.ac.uk/staff">Staff intranet</a></li><li><a href="http://www.bodleian.ox.ac.uk/bodley/about-us/contact">Contact us</a></li><li><a href="http://www.bodleian.ox.ac.uk/accessibility">Accessibility</a></li><li><a href="http://www.bodleian.ox.ac.uk/terms-of-use">Terms of use</a></li><li><a href="http://www.bodleian.ox.ac.uk/privacy">Privacy</a></li></ul> 
+      <span>&copy; Bodleian Libraries 2015</span>
+    </div>
+  </div>
+</div><!-- END .footer-links --><div class="footer-contact-us">
+  <div class="grid">
+    <div class="twelve">
+<script type="text/javascript">
+  var librarydata_id = $('body').data('librarydata-id');
+  if(librarydata_id != ''){
+    document.write('\x3Cscript type="text/javascript" src="//librarydata.bodleian.ox.ac.uk/libraries/' + librarydata_id  + '/social.js">\x3C/script>');
+  }
+</script>
+<span id="new_div_116716">
+ <p><strong>+44 (0) 1865 271093</strong></p> 
+</span>
+      <a href="#" class="close"></a>
+      <a href="http://www.bodleian.ox.ac.uk/ssl/contact" class="btn contact-us">Contact us</a>
+
+   </div>
+ </div>
+</div><!-- END .footer-contact-us -->			
+<!-- endnoindex -->
+
+
+</body>
+</html>

@@ -1,0 +1,419 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	Introduction to Biological Chemistry Year 1 (2015) - Undergraduate Course
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=chemistry-layout&amp;s=6&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Undergraduate Course Site Search" href="http://course.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	
+<link rel='shortcut icon' href='/Data/Sites/6/skins/chemistry-layout/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://course.chem.ox.ac.uk/introduction-to-biological-chemistry-year-1-2015.aspx' /></head>
+<body id="ctl00_Body" class="pagebody">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="18" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIDD2QWAgIDD2QWDgIXDw8WAh4HVmlzaWJsZWhkZAIjDw8WAh8AaGRkAicPDxYCHghJbWFnZVVybAU0L0RhdGEvU2l0ZXMvNi9za2lucy9jaGVtaXN0cnktbGF5b3V0L2hlYWRlcnBob3RvLmpwZ2RkAikPDxYEHghDc3NDbGFzcwU5YXJ0LWxheW91dC1jZWxsIGFydC1zaWRlYmFyMSBsZWZ0c2lkZSBsZWZ0MmNvbHVtbiBjbXN6b25lHgRfIVNCAgJkFgICAQ9kFgICAg9kFgJmEDwrAAkCAA8WCB4LXyFEYXRhQm91bmRnHgxEYXRhU291cmNlSUQFEVBhZ2VNYXBEYXRhU291cmNlHg1QYXRoU2VwYXJhdG9yBHweDU5ldmVyRXhwYW5kZWRkZAgUKwAFBQ8wOjAsMDoxLDA6MiwwOjMUKwACFgweBFRleHQFGU1pY2hhZWxtYXMg" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="WWVhciAxICgyMDE0KSAeBVZhbHVlBSRkOWYyMjlkOC0zMjM5LTRhNDYtYTJmYy04NGY4MjIyY2Y4NTQeC05hdmlnYXRlVXJsBR5+L21pY2hhZWxtYXMteWVhci0xLTIwMTQtLmFzcHgeCERhdGFQYXRoBQMzNDEeCURhdGFCb3VuZGceEFBvcHVsYXRlT25EZW1hbmRnFCsACgUjMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2LDA6NywwOjgUKwACFgwfCAUyQXRvbWljIFN0cnVjdHVyZSBhbmQgUGVyaW9kaWMgVHJlbmRzIFllYXIgMSAoMjAxNCkfCQUkODZlNDBiZTUtMzc1MC00ZjYzLWE5NWItOTAyYzBkMGFjMDJlHwoFN34vYXRvbWljLXN0cnVjdHVyZS1hbmQtcGVyaW9kaWMtdHJlbmRzLXllYXItMS0yMDE0LmFzcHgfCwUDNDU1HwxnHw1oZBQrAAIWDB8IBTJJ" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="b25pYyBNb2RlbCBhbmQgU3RydWN0dXJlcyBvZiBTb2xpZHMgWWVhciAxICgyMDE0KR8JBSRmZjVmODg5YS03MGQ0LTQxZmItYmRiZC0yNWJhYzI0MDU3MTEfCgU3fi9pb25pYy1tb2RlbC1hbmQtc3RydWN0dXJlcy1vZi1zb2xpZHMteWVhci0xLTIwMTQuYXNweB8LBQM0NTYfDGcfDWhkFCsAAhYMHwgFL0ludHJvZHVjdGlvbiB0byBPcmdhbmljIENoZW1pc3RyeSBZZWFyIDEgKDIwMTQpHwkFJDA4OWM5OTIxLWFlOGEtNDQ5Ni04OGIzLThhZWIwNjE0YjA3MB8KBTR+L2ludHJvZHVjdGlvbi10by1vcmdhbmljLWNoZW1pc3RyeS15ZWFyLTEtMjAxNC5hc3B4HwsFAzQ1Nx8MZx8NaGQUKwACFgwfCAUnT3JiaXRhbHMgYW5kIE1lY2hhbmlzbXMgMSBZZWFyIDEgKDIw" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="MTQpHwkFJGUwYjRlZTc5LTU3NjItNDJkNy1iZmQ0LWNhNjEyNTViODhlMR8KBSx+L29yYml0YWxzLWFuZC1tZWNoYW5pc21zLTEteWVhci0xLTIwMTQuYXNweB8LBQM0NTgfDGcfDWhkFCsAAhYMHwgFSEZvdW5kYXRpb25zIG9mIFBoeXNpY2FsIENoZW1pc3RyeTogQ2hlbWljYWwgVGhlcm1vZHluYW1pY3MgWWVhciAxICgyMDE0KR8JBSQ5MzQ2YjM2NC00M2U1LTQ1NDMtOTA4Ni1mODk5YTJiOTg4NGIfCgVMfi9mb3VuZGF0aW9ucy1vZi1waHlzaWNhbC1jaGVtaXN0cnktY2hlbWljYWwtdGhlcm1vZHluYW1pY3MteWVhci0xLTIwMTQuYXNweB8LBQM0NTkfDGcfDWhkFCsAAhYMHwgFWlRoZSBQaHlzaWNhbCBCYXNpcyBvZiBDaGVtaXN0cnk6IFByb3BlcnRpZXMg" />
+<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="b2YgR2FzZXMgYW5kIENsYXNzaWNhbCBNZWNoYW5pY3MgWWVhciAxICgyMDE0KR8JBSQ4NDYxZTI0NS02ZmZkLTQ3YjYtODY3Ny0yNDlmM2U0N2QxYTYfCgVefi90aGUtcGh5c2ljYWwtYmFzaXMtb2YtY2hlbWlzdHJ5LXByb3BlcnRpZXMtb2YtZ2FzZXMtYW5kLWNsYXNzaWNhbC1tZWNoYW5pY3MteWVhci0xLTIwMTQuYXNweB8LBQM0NjAfDGcfDWhkFCsAAhYMHwgFQVRoZSBQaHlzaWNhbCBCYXNpcyBvZiBDaGVtaXN0cnk6IFRoZSBSb2xlIG9mIENoYXJnZSBZZWFyIDEgKDIwMTQpHwkFJDkyODU2Y2Q4LTBkZTMtNDM3MS1iODc3LTk5NWQ1YjRjNjNiMx8KBUd+L3RoZS1waHlzaWNhbC1iYXNpcy1vZi1jaGVtaXN0cnktdGhlLXJvbGUtb2YtY2hhcmdlLXllYXIt" />
+<input type="hidden" name="__VIEWSTATE5" id="__VIEWSTATE5" value="MS0yMDE0LTEuYXNweB8LBQM0NjEfDGcfDWhkFCsAAhYMHwgFM1RoZSBDYWxjdWx1cyBvZiBPbmUgYW5kIFR3byBWYXJpYWJsZXMgWWVhciAxICgyMDE0KR8JBSQxOGIyYzI1YS0xMzI3LTQwMzctYTdmZC0yZGE0MmQ0MGI1ZWMfCgU4fi90aGUtY2FsY3VsdXMtb2Ytb25lLWFuZC10d28tdmFyaWFibGVzLXllYXItMS0yMDE0LmFzcHgfCwUDNDYyHwxnHw1oZBQrAAIWDB8IBSVJbnRyb2R1Y3Rpb24gdG8gVmVjdG9ycyBZZWFyIDEgKDIwMTQpHwkFJDIwYjY4ZmIwLWI4MjgtNGM4NC1hZWE2LTgzOWQ3MWQxODgyZR8KBSp+L2ludHJvZHVjdGlvbi10by12ZWN0b3JzLXllYXItMS0yMDE0LmFzcHgfCwUDNjk3HwxnHw1oZBQrAAIWDB8IBRRIaWxhcnkgWWVhciAxICgy" />
+<input type="hidden" name="__VIEWSTATE6" id="__VIEWSTATE6" value="MDE1KR8JBSQzMWY3MzY0YS1hY2ZmLTRjN2YtYmU0My1lZWQwNTI3ODg4MDAfCgUZfi9oaWxhcnkteWVhci0xLTIwMTUuYXNweB8LBQMzNDIfDGcfDWcUKwANBTEwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjksMDoxMCwwOjExFCsAAhYMHwgFP01vbGVjdWxhciBTaGFwZXMsIFN5bW1ldHJ5IGFuZCBNb2xlY3VsYXIgT3JiaXRhbHMgWWVhciAxICgyMDE1KR8JBSQ2MTQxZWEwNC01NTAyLTRiZDgtODNjYS01MTMwODZkYTBmM2MfCgVDfi9tb2xlY3VsYXItc2hhcGVzLXN5bW1ldHJ5LWFuZC1tb2xlY3VsYXItb3JiaXRhbHMteWVhci0xLTIwMTUuYXNweB8LBQM3MzAfDGcfDWhkFCsAAhYMHwgFM0FjaWRzLCBCYXNlcyBhbmQgU29sdXRpb25z" />
+<input type="hidden" name="__VIEWSTATE7" id="__VIEWSTATE7" value="IEVxdWlsaWJyaWEgWWVhciAxICgyMDE1KR8JBSQ3YmI3OGFlZC03MzZkLTQxMzktYTVmOS03ZjE0ZTIwMzg5NTAfCgU3fi9hY2lkcy1iYXNlcy1hbmQtc29sdXRpb25zLWVxdWlsaWJyaWEteWVhci0xLTIwMTUuYXNweB8LBQM3MzEfDGcfDWhkFCsAAhYMHwgFIU5vbi1NZXRhbCBDaGVtaXN0cnkgWWVhciAxICgyMDE1KR8JBSQwMDc5YzQ4OC1jMjZhLTQ1ZmQtYTkxNi1kMWI4MWVjMjk3ZGMfCgUmfi9ub24tbWV0YWwtY2hlbWlzdHJ5LXllYXItMS0yMDE1LmFzcHgfCwUDNDE1HwxnHw1oZBQrAAIWDB8IBSVDb3JlIENhcmJvbnlsIENoZW1pc3RyeSBZZWFyIDEgKDIwMTUpHwkFJDQwYjIyMDA2LWE0MmUtNDczMi05OWQ4LThkYTBiNmQzMjI2MR8KBSp+L2NvcmUt" />
+<input type="hidden" name="__VIEWSTATE8" id="__VIEWSTATE8" value="Y2FyYm9ueWwtY2hlbWlzdHJ5LXllYXItMS0yMDE1LmFzcHgfCwUDNDE2HwxnHw1oZBQrAAIWDB8IBT9TdWJzdGl0dXRpb24gYW5kIEVsaW1pbmF0aW9uIG9mIFNhdHVyYXRlZCBDYXJib25zIFllYXIgMSAoMjAxNSkfCQUkMjMwYTE3ZDQtZmIzYy00ZTY3LWEzZDMtMDZlOTA0Y2M5N2VlHwoFRH4vc3Vic3RpdHV0aW9uLWFuZC1lbGltaW5hdGlvbi1vZi1zYXR1cmF0ZWQtY2FyYm9ucy15ZWFyLTEtMjAxNS5hc3B4HwsFAzQxNx8MZx8NaGQUKwACFgwfCAUpQ2hlbWlzdHJ5IG9mIEPigJNDIHBpIEJvbmRzIFllYXIgMSAoMjAxNSkfCQUkMGM2YzhkODEtMTI5Yy00YWYyLTlhMGQtMjczYTJjY2E1NGFhHwoFLn4vY2hlbWlzdHJ5LW9mLWPigJNjLXBpLWJvbmRzLXll" />
+<input type="hidden" name="__VIEWSTATE9" id="__VIEWSTATE9" value="YXItMS0yMDE1LmFzcHgfCwUDNDE4HwxnHw1oZBQrAAIWDB8IBR5FbGVjdHJvY2hlbWlzdHJ5IFllYXIgMSAoMjAxNSkfCQUkMjZkZjgyYWMtMWI4Yi00NGIzLThmMDgtZmFkMTViOWNmOGQ4HwoFI34vZWxlY3Ryb2NoZW1pc3RyeS15ZWFyLTEtMjAxNS5hc3B4HwsFAzQyMB8MZx8NaGQUKwACFgwfCAVBVGhlIFBoeXNpY2FsIEJhc2lzIG9mIENoZW1pc3RyeTogVGhlIFJvbGUgb2YgQ2hhcmdlIFllYXIgMSAoMjAxNSkfCQUkYmZiNTdhNTgtMjBlZS00N2JlLTgxZjEtOWIzMTFmM2RiYWVmHwoFRX4vdGhlLXBoeXNpY2FsLWJhc2lzLW9mLWNoZW1pc3RyeS10aGUtcm9sZS1vZi1jaGFyZ2UteWVhci0xLTIwMTUuYXNweB8LBQM0MjEfDGcfDWhkFCsAAhYMHwgFM1F1" />
+<input type="hidden" name="__VIEWSTATE10" id="__VIEWSTATE10" value="YW50dW0gVGhlb3J5IG9mIEF0b21zIGFuZCBNb2xlY3VsZXMgWWVhciAxICgyMDE1KR8JBSRiYjgyYjMxMy01MTFkLTQyM2UtYjk5OS1jYjExY2ViM2FmZmQfCgU4fi9xdWFudHVtLXRoZW9yeS1vZi1hdG9tcy1hbmQtbW9sZWN1bGVzLXllYXItMS0yMDE1LmFzcHgfCwUDNDIzHwxnHw1oZBQrAAIWDB8IBR9SZWFjdGlvbiBLaW5ldGljcyBZZWFyIDEgKDIwMTUpHwkFJDQ1ZWFmNDU5LThlMzYtNDM5YS05MWM4LTVmYTU2M2IzNmQyMR8KBSR+L3JlYWN0aW9uLWtpbmV0aWNzLXllYXItMS0yMDE1LmFzcHgfCwUDNDI0HwxnHw1oZBQrAAIWDB8IBVVDb21wbGV4IE51bWJlcnMsIE11bHRpcGxlIEludGVncmFscyBhbmQgT3JkaW5hcnkgRGlmZmVyZW50aWFsIEVxdWF0" />
+<input type="hidden" name="__VIEWSTATE11" id="__VIEWSTATE11" value="aW9ucyBZZWFyIDEgKDIwMTUpHwkFJDRjMWZhODM2LTIyOGEtNDRmMC1hMmIzLWFlM2RmNWJhZDQzZh8KBVl+L2NvbXBsZXgtbnVtYmVycy1tdWx0aXBsZS1pbnRlZ3JhbHMtYW5kLW9yZGluYXJ5LWRpZmZlcmVudGlhbC1lcXVhdGlvbnMteWVhci0xLTIwMTUuYXNweB8LBQM0MjUfDGcfDWhkFCsAAhYMHwgFLVZlY3RvciBBbGdlYnJhIGFuZCBEZXRlcm1pbmFudHMgWWVhciAxICgyMDE1KR8JBSRjNmRkNWRjMS0xZTdlLTQyY2YtYmQyNS1kMTljYTM1Y2Y1YjkfCgUyfi92ZWN0b3ItYWxnZWJyYS1hbmQtZGV0ZXJtaW5hbnRzLXllYXItMS0yMDE1LmFzcHgfCwUDNDI2HwxnHw1oZBQrAAIWDh8IBRVUcmluaXR5IFllYXIgMSAoMjAxNSkfCQUkYzdkNTJlN2UtMGZh" />
+<input type="hidden" name="__VIEWSTATE12" id="__VIEWSTATE12" value="Yi00YjQ1LWFlYWYtOTcyZGM1M2RhNmJlHwoFGn4vdHJpbml0eS15ZWFyLTEtMjAxNS5hc3B4HwsFAzM0Mx8MZx8NZx4IRXhwYW5kZWRnFCsACAUbMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2FCsAAhYMHwgFKFRyYW5zaXRpb24gTWV0YWwgQ2hlbWlzdHJ5IFllYXIgMSAoMjAxNSkfCQUkYmRmYjAzZjQtMWJhYS00ZjUwLTlmMmMtZWJjYjUzOTk1MzAyHwoFLX4vdHJhbnNpdGlvbi1tZXRhbC1jaGVtaXN0cnkteWVhci0xLTIwMTUuYXNweB8LBQMzNDQfDGcfDWhkFCsAAhYMHwgFHVJldmlzaW9uIHRvcGljcyBZZWFyIDEgKDIwMTUpHwkFJDFkNjk4NGQ0LTc0MDEtNDJmZC05NzY2LTRiZWI2ZTY1ZTIyNx8KBSJ+L3JldmlzaW9uLXRvcGljcy15ZWFyLTEtMjAx" />
+<input type="hidden" name="__VIEWSTATE13" id="__VIEWSTATE13" value="NS5hc3B4HwsFBDE4NDIfDGcfDWhkFCsAAhYQHwgFMkludHJvZHVjdGlvbiB0byBCaW9sb2dpY2FsIENoZW1pc3RyeSBZZWFyIDEgKDIwMTUpHwkFJDg3MWYyZWJhLTNlYjItNDEzMy04MzYyLWM5Y2FjYzA3OTE4YR8KBTd+L2ludHJvZHVjdGlvbi10by1iaW9sb2dpY2FsLWNoZW1pc3RyeS15ZWFyLTEtMjAxNS5hc3B4HwsFAzM0NR8MZx4IU2VsZWN0ZWRnHw1oHw5nZBQrAAIWDB8IBSpSZXZpc2lvbiBhbmQgUHJvYmxlbSBTb2x2aW5nIFllYXIgMSAoMjAxNSkfCQUkNGMxODJjNzgtODI0Ni00OGI1LTg0YmUtZTY2Mjg4YTE4YjQ4HwoFL34vcmV2aXNpb24tYW5kLXByb2JsZW0tc29sdmluZy15ZWFyLTEtMjAxNS5hc3B4HwsFBDE0NzgfDGcfDWhkFCsAAhYMHwgF" />
+<input type="hidden" name="__VIEWSTATE14" id="__VIEWSTATE14" value="OEludHJvZHVjdGlvbiB0byBPcmdhbmljIFN5bnRoZXNpcyAodGFzdGVyKSBZZWFyIDEgKDIwMTUpHwkFJDQ3YWEwZGI5LTM4YzItNDJiNC05ZWRhLTNiYmIzNjEyMGEwYx8KBTt+L2ludHJvZHVjdGlvbi10by1vcmdhbmljLXN5bnRoZXNpcy10YXN0ZXIteWVhci0xLTIwMTUuYXNweB8LBQQxODU1HwxnHw1oZBQrAAIWDB8IBR5TdGF0ZXMgb2YgTWF0dGVyIFllYXIgMSAoMjAxNSkfCQUkZDNlYWQzN2ItMWIzZi00MDJhLWExZWYtMTljNTJhMDAxZmE0HwoFI34vc3RhdGVzLW9mLW1hdHRlci15ZWFyLTEtMjAxNS5hc3B4HwsFAzM2NB8MZx8NaGQUKwACFgwfCAUcTWF0cml4IEFsZ2VicmEgWWVhciAxICgyMDE1KR8JBSRkMDdkZTI3OS1lYTkwLTRlYmEtYWIyZS02" />
+<input type="hidden" name="__VIEWSTATE15" id="__VIEWSTATE15" value="NTlmZWM5ZWI0NzUfCgUhfi9tYXRyaXgtYWxnZWJyYS15ZWFyLTEtMjAxNS5hc3B4HwsFAzM2NR8MZx8NaGQUKwACFgwfCAUUUGh5c2ljcyBmb3IgQ2hlbWlzdHMfCQUkOGRkY2I5NTUtMmM3Yi00YmQ0LWE4ZDctMjQ5YjM2ODQ3Y2I3HwoFG34vcGh5c2ljcy1mb3ItY2hlbWlzdHMuYXNweB8LBQM2NTEfDGcfDWhkBQ9jdGwwMCRjdGwwNHxubmVkAisPDxYEHwIFNWFydC1sYXlvdXQtY2VsbCBhcnQtY29udGVudCBjZW50ZXItbGVmdG1hcmdpbiBjbXN6b25lHwMCAmQWAgIFD2QWBGYPZBYCAgIPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHwBoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHgpDYWxsYmFja0lEBSljdGwwMCRtYWluQ29udGVudCRjdGwwMCRSYXRp" />
+<input type="hidden" name="__VIEWSTATE16" id="__VIEWSTATE16" value="bmckVXNlclJhdGluZ2QCDQ8PFgIfAGhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIfEAUvY3RsMDAkbWFpbkNvbnRlbnQkY3RsMDAkUmF0aW5nQm90dG9tJFVzZXJSYXRpbmdkAgEPZBYCAgIPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHwBoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHxAFKWN0bDAwJG1haW5Db250ZW50JGN0bDAxJFJhdGluZyRVc2VyUmF0aW5nZAINDw8WAh8AaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh8QBS9jdGwwMCRtYWluQ29udGVudCRjdGwwMSRSYXRpbmdCb3R0b20kVXNlclJhdGluZ2QCLQ8PFgYfAgURcmlnaHRzaWRlIGNtc3pvbmUfAwICHwBoZGQCOw8PFgIfAGhkZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18W" />
+<input type="hidden" name="__VIEWSTATE17" id="__VIEWSTATE17" value="AQUVY3RsMDAkUGFnZU1lbnUxJGN0bDAwBRVjdGwwMCRTaXRlTWVudTEkY3RsMDAPD2QFJDhlMzYzN2VkLThiY2ItNGY3NC1hNmJiLTQzNzk1NmQxMjA0N2TKjfJf+HbBSLMXA2lWP1kSuUXDZg==" />
+
+
+<script src="/ScriptResource.axd?d=EHWBFVSWDap_XQ_f-DdPnRIFtYlp7qloWf8E-c_pw9lbfIlFYZX-NWF4yFrDSwYWajicVe30fw0G13MBrguNr_81NuPq592ItKI_frsocFrUdcnz3xNwz2ozYPuzUBOsC1s5izc_J8Q03gn262AmXueXPgNtWKgrQkhA_5AGLCbFhnFzZLVM__0n24ZbSzxOp0n0wj8B_bG9hxoW4_qNR7FiJoXy4oUtoBiGrcXfL_WwpeE7kGOaoU2NYxyteRKrUQr7tbLf0DtSgZMo8rlPxtvLuznmM_AJMv1y3FTeWOg8-5JuhxdGCHj4y_sfQFsStPAEMOhz1CmYE58WimRbYCeUEY5oDgJV928fb645ygaQNwCwg6u0ruY0ll_5ezFnxPH2Ag2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAARVwgGLu/XCFhrtAI2gkAygluqpT+SRPGaj6Cukd6ylp+Yez0dntcCzzU7IqPPbjrZ+0r3EsOq18qqvlqsVl2rP3L3o/fLoKBwSKUXr57957tWPdjo=" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://course.chem.ox.ac.uk/Default.aspx'>Undergraduate Course</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+	    
+
+<div class="AspNet-Menu-Horizontal" id="ctl00_SiteMenu1_ctl00">
+		<ul class="AspNet-Menu">
+			<li class="AspNet-Menu-Leaf">
+				<a href="/home.aspx" class="AspNet-Menu">
+					<span>Home</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/bridging.aspx" class="AspNet-Menu">
+					<span>Bridging</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf AspNet-Menu-SelectedLeaf">
+				<a href="/year-1.aspx" class="AspNet-Menu AspNet-Menu-SelectedLeaf">
+					<span>Year 1</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/year-2.aspx" class="AspNet-Menu">
+					<span>Year 2</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/year-3.aspx" class="AspNet-Menu">
+					<span>Year 3</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/part-ii-year.aspx" class="AspNet-Menu">
+					<span>Part II Year</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/supplementary-sub.aspx" class="AspNet-Menu">
+					<span>Supplementary Sub.</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/practicals.aspx" class="AspNet-Menu">
+					<span>Practicals</span></a>
+			</li>
+		</ul>
+
+</div>
+
+
+		
+	    <div class="topnav">
+            <ul>
+            
+            <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+            <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+            
+            
+            
+            
+            
+            <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+            <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2fintroduction-to-biological-chemistry-year-1-2015.aspx">Sign In</a></li>
+            
+            </ul>  
+        </div>    
+        <div id="ctl00_InsecurePanel1" class="addthisbutton">
+	
+		      
+        
+</div>
+    </div>
+    <div id="wrapcenter">
+        <img id="ctl00_imgs1" class="headerphoto" border="0" usemap="#headerMap" src="/Data/Sites/6/skins/chemistry-layout/headerphoto.jpg" alt="Department of Chemsitry" />
+<map name="headerMap" id="Map">
+  <area shape="rect" coords="6,30,504,96" href="http://www.chem.ox.ac.uk" />
+  <area shape="rect" coords="533,17,798,103" href="http://www.ox.ac.uk" />
+</map>
+	    <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+	
+		    <div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+
+	<div class="AspNet-TreeView" id="ctl00_PageMenu1_ctl00">
+			<ul id="ctl00_PageMenu1_ctl00_UL">
+				<li class="AspNet-TreeView-Root">
+					<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/michaelmas-year-1-2014-.aspx" title="Expand this node.">&nbsp;</a>
+					<a href="/michaelmas-year-1-2014-.aspx">
+						Michaelmas Year 1 (2014) </a>
+					<ul class="AspNet-TreeView-Hide treehide">
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/atomic-structure-and-periodic-trends-year-1-2014.aspx">
+								Atomic Structure and Periodic Trends Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/ionic-model-and-structures-of-solids-year-1-2014.aspx">
+								Ionic Model and Structures of Solids Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/introduction-to-organic-chemistry-year-1-2014.aspx">
+								Introduction to Organic Chemistry Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/orbitals-and-mechanisms-1-year-1-2014.aspx">
+								Orbitals and Mechanisms 1 Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/foundations-of-physical-chemistry-chemical-thermodynamics-year-1-2014.aspx">
+								Foundations of Physical Chemistry: Chemical Thermodynamics Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/the-physical-basis-of-chemistry-properties-of-gases-and-classical-mechanics-year-1-2014.aspx">
+								The Physical Basis of Chemistry: Properties of Gases and Classical Mechanics Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/the-physical-basis-of-chemistry-the-role-of-charge-year-1-2014-1.aspx">
+								The Physical Basis of Chemistry: The Role of Charge Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/the-calculus-of-one-and-two-variables-year-1-2014.aspx">
+								The Calculus of One and Two Variables Year 1 (2014)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/introduction-to-vectors-year-1-2014.aspx">
+								Introduction to Vectors Year 1 (2014)</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root">
+					<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/hilary-year-1-2015.aspx" title="Expand this node.">&nbsp;</a>
+					<a href="/hilary-year-1-2015.aspx">
+						Hilary Year 1 (2015)</a>
+					<ul class="AspNet-TreeView-Hide treehide">
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/molecular-shapes-symmetry-and-molecular-orbitals-year-1-2015.aspx">
+								Molecular Shapes, Symmetry and Molecular Orbitals Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/acids-bases-and-solutions-equilibria-year-1-2015.aspx">
+								Acids, Bases and Solutions Equilibria Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/non-metal-chemistry-year-1-2015.aspx">
+								Non-Metal Chemistry Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/core-carbonyl-chemistry-year-1-2015.aspx">
+								Core Carbonyl Chemistry Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/substitution-and-elimination-of-saturated-carbons-year-1-2015.aspx">
+								Substitution and Elimination of Saturated Carbons Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/chemistry-of-c–c-pi-bonds-year-1-2015.aspx">
+								Chemistry of C–C pi Bonds Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/electrochemistry-year-1-2015.aspx">
+								Electrochemistry Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/the-physical-basis-of-chemistry-the-role-of-charge-year-1-2015.aspx">
+								The Physical Basis of Chemistry: The Role of Charge Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/quantum-theory-of-atoms-and-molecules-year-1-2015.aspx">
+								Quantum Theory of Atoms and Molecules Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/reaction-kinetics-year-1-2015.aspx">
+								Reaction Kinetics Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/complex-numbers-multiple-integrals-and-ordinary-differential-equations-year-1-2015.aspx">
+								Complex Numbers, Multiple Integrals and Ordinary Differential Equations Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/vector-algebra-and-determinants-year-1-2015.aspx">
+								Vector Algebra and Determinants Year 1 (2015)</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-ChildSelected">
+					<a class="AspNet-TreeView-Collapse" onclick="ExpandCollapse__TreeView(this);return false;" href="/trinity-year-1-2015.aspx" title="Collapse this node.">&nbsp;</a>
+					<a href="/trinity-year-1-2015.aspx">
+						Trinity Year 1 (2015)</a>
+					<ul>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/transition-metal-chemistry-year-1-2015.aspx">
+								Transition Metal Chemistry Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/revision-topics-year-1-2015.aspx">
+								Revision topics Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf AspNet-TreeView-Selected">
+							<a href="/introduction-to-biological-chemistry-year-1-2015.aspx">
+								Introduction to Biological Chemistry Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/revision-and-problem-solving-year-1-2015.aspx">
+								Revision and Problem Solving Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/introduction-to-organic-synthesis-taster-year-1-2015.aspx">
+								Introduction to Organic Synthesis (taster) Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/states-of-matter-year-1-2015.aspx">
+								States of Matter Year 1 (2015)</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/matrix-algebra-year-1-2015.aspx">
+								Matrix Algebra Year 1 (2015)</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/physics-for-chemists.aspx">
+						Physics for Chemists</a>
+				</li>
+			</ul>
+
+	</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+		    <a id="startcontent"></a>
+		    
+	    
+</div>
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+            
+	        
+	        
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module594" class=" moduletitle">Introduction to Biological Chemistry</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<p>Prof. T. Brown, Prof. J.H.P. Bayley, Prof. S.J. Conway &amp; Dr. E. Flashman</p>
+<p>Trinity Term - First Year</p>
+<p>The aim of the course is to provide an introduction to the chemistry of biology with the emphasis on applying chemical principles form all 3 branches of chemistry. An introduction will be given to all the major classes of biological molecules and ions, followed by an introduction to carbohydrate chemistry. The remainder of the course will focus on amino acid, peptide and protein chemistry being described. The emphasis throughout will be on mechanism and functional group inter-conversion (not memorising complex structures).<br /> <br /><strong>Lecture 1</strong><br />The chemical structure and fundamental properties of nucleic acids and their building blocks. The nucleobases that occur in DNA and RNA, their physical properties, the ribose and deoxyribose sugars, nucleosides, nucleotides, and single stranded nucleic acids.</p>
+<p><strong>Lecture 2</strong><br />The chemical structure of double stranded DNA, A, B, and Z-DNA structures, how the structure of the double helix was determined. Chargaff&rsquo;s rules. Watson-Crick A.T and G.C base pairs, the importance of base stacking and hydrogen bonding in stabilising the double helix. Replication, involvement of dNTPs and the importance of enzymatic control to ensure a high level of accuracy. Base mispairing and the structures and physical properties of mispaired bases.</p>
+<p><strong>Lecture 3</strong><br />The molecular mechanisms of transcription and translation (the central dogma of Molecular Biology). The genetic code, structure and function of t-RNAs, brief discussion of the ribosome. The implications of imperfect replication, i.e. how aberrant proteins arise as a result of mutagenesis. Mutagenic lesions (8-oxoG, O6-methyl G, uracil), recognition of incorrect and chemically modified base pairs by DNA repair enzymes.</p>
+<p><strong>Lecture 4</strong><br />The polymerase chain reaction (PCR) and its applications in biology, genetics, forensics. Sanger DNA sequencing, next generation DNA sequencing. Brief discussion of higher order nucleic acid structures such as quadruplexes, their biological significance.</p>
+<p><strong>Lecture 45. The chemical blueprint of a cell</strong></p>
+<p>Molecules of life: water, proteins, nucleic acids, carbohydrates, lipids, small molecules and ions. What is life? Weak and strong chemical bonds and their roles in the cell. Importance of water. Hydrogen bonds, hydrophobic interactions. Membranes and the structure of the cell. Organelles and their functions. Biological energy sources from a chemical perspective. Use of phosphate and thioester chemistry to activate reactions.<br /> <br /> <strong>Lecture 46. Towards a chemical understanding of biology</strong><br /> <br /> Forms of life and evolution: eukarya, bacteria, archaea. Unity of life. What is life reconsidered (viruses, prions)?-. The human genome. Information flow in genetics: DNA, RNA, proteins. What we do not understand? Importance of a chemical understanding of biology. Examples where chemists can contribute to biology/medicine: How do proteins fold?<br /> Thinking about the origin of life. How to kill a cancer cell?<br /> <br /> <strong>Lectures 47,48 Amino Acids and Peptides</strong><br /> <br /> Overview of biological roles of amino acids. Nomenclature (memorising precise structures not required).Acid / base chemistry and physiochemical properties of amino acids and peptides. Amino acid analysis. Significance of amino acid chirality. Synthesis of amino acids.Structure and stereochemistry of amide and ester bonds; importance for protein structure and enzyme catalysis/inhibition.<br /> <br /> <strong>Lecture 49, 50 Peptides and Proteins</strong><br /> <br /> Peptide structure and nomenclature including cis/trans amide bonds. Synthesis of amides / peptides (including, in outline, problems with racemisation, solid phase synthesis). Biological methods of protein / peptide synthesis. Methods for the analysis of primary sequence: chemical (identification of N- and C- terminal residues, Edman sequencing), biological/enzyme-based methods of sequencing (including limitations and need for proteomic analyses).<br /> <br /> <strong>Lecture 51 Protein Structure</strong><br /> <br /> Definition of primary, secondary, tertiary and quaternary protein structures and their relationship. Ramachandran Plots (outline only) emphasising their chemical basis and the special nature of glycine- and proline-residues.Structure of a-helixes, b-strands, and b-turns. Examples of different types of protein structures: globular, fibrous, modular and disordered.Myoglobin and haemoglobin. Factors affecting protein-folding and stabilising tertiary structure. Introduction to membrane protein structures outlining their special features.<br /> <br /> <strong>Lecture 52, 53 Protein function and enzymes</strong><br /> <br /> Overview of protein functions &ndash; brief details with examples of structural proteins (e.g. collagens, modular proteins), enzymes, and signalling proteins (e.g. insulin).Importance of regulation of function (e.g. digestive enzymes such as chymotrypsin). Importance of post-translational modifications including disulfides, proteolysis, metal/cofactor binding, and signalling modifications. Range and roles of enzymes (brief mention of RNA as a biocatalyst).Mechanisms of proteases. Qualitative introduction to theory of enzyme catalysis using triosephosphate isomerase / serine proteases as examples.<br /> <br /> <strong>Lecture 54, 55</strong><br /> <br /> Enzyme Kinetics:Michaelis-Menten equation and its application in understanding enzyme catalysis as applied to roteases.Classification and exemplification of types of enzyme catalysis. Several examples in more detail, e.g. proteases and triosphosphate isomerase.<br /> <br /> <strong>Lecture 56 Enzymes - Inhibition and Application</strong><br /> <br /> Pharmaceutical importance of enzyme inhibition (with examples of mode and action, e.g. penicillin).Uses of inhibition for understanding mechanism and functional assignment.Types of enzyme inhibition and how to distinguish them.Use of enzymes in synthesis.<br /> &nbsp;</p>
+<p><strong>Recommended texts:</strong></p>
+<ol>
+<li>Foundations of Chemical Biology by Dobson, Gerrard and Pratt</li>
+<li>Amino Acid and Peptide Synthesis by John Jones</li>
+<li>Biochemistry 4th Edition by Voet and Voet</li>
+</ol>
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+<div id='ctl00_mainContent_ctl01_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_mainContent_ctl01_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module595" class=" moduletitle">Course Support Material</h2>
+<div id='ctl00_mainContent_ctl01_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl01_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl01_divContent' class=''>
+<p><em>Prof. J.H.P. Bayley</em><br /> <a href="/Data/Sites/6/coursesupportfiles/trinity/hb-sc-year1/IntroBiolChem Y1 Lecture 1 TT 2015.ppt.pdf">Introduction to Biological Chemistry</a><br /><a href="/Data/Sites/6/coursesupportfiles/trinity/hb-sc-year1/Y1 Lecture 3 2015.pdf">Lecture 3</a><br /><a href="/Data/Sites/6/coursesupportfiles/trinity/hb-sc-year1/Y1 Lecture 4 2015.pdf">Lecture 4</a></p>
+<p><em>Prof. S.J. Conway</em><br /> Lecture support for <a href="http://conway.chem.ox.ac.uk/Teaching.html">lectures 4 - 7 </a><br /><a href="/Data/Sites/6/coursesupportfiles/trinity/hb-sc-year1/Chemical Biology problem class.pdf">Chemical Biology problem class</a></p>
+<p><em>Dr. E. Flashman</em><br /> <a href="/Data/Sites/6/coursesupportfiles/trinity/hb-sc-year1/Flashman%20Enzymology Lectures Year 1.pdf">Lecture 1</a><a href="/Data/Sites/6/coursesupportfiles/trinity/hb-sc-year1/flashman-lecture-summary.docx"><br /></a></p>
+<p><em>Prof. T. Brown<br /></em><a href="/Data/Sites/6/coursesupportfiles/trinity/tb-year1/Nucleic acid structure lecture 1.pptx">Nucleic acid structure Lecture 1</a><br /><a href="/Data/Sites/6/coursesupportfiles/trinity/tb-year1/replication language of DNA lecture 2.pptx">Replication language of DNA Lecture 2</a><br /><a href="/Data/Sites/6/coursesupportfiles/trinity/tb-year1/genetic code.doc">Genetic Code</a></p>
+<p>&nbsp;</p>
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl01$hdnIsDirty" id="ctl00_mainContent_ctl01_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl01_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl01_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+	    
+</div>
+	    		
+	</div>
+	<div id="wrapfooter">
+	    <br class="clear" />
+	    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+	    <a href='/introduction-to-biological-chemistry-year-1-2015.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> | 
+	    &copy; 2008 - 2015 Departmental of Chemistry
+	    <br /><br />
+		<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+		<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+		<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://course.chem.ox.ac.uk/csshandler.ashx?skin=chemistry-layout'  title='Valid CSS'>CSS</a> |
+        <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+	</div>
+</div>
+<script type="text/javascript">
+function HideMenuToolbar(){ $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow");}
+function ShowMenuToolbar(){ $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow");}
+$(document).ready(function(){ 
+  $("span.downarr a").click(function() {HideMenuToolbar(); Set_Cookie('openstate', 'closed')});
+  $("span.showbar a").click(function() {ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+  $("span.downarr a, span.showbar a").click(function() { return false; });	
+	var openState = Get_Cookie('openstate');
+	if(openState != null){ if(openState == 'closed'){HideMenuToolbar();} if(openState == 'open'){ShowMenuToolbar();}}
+});	
+</script>
+
+
+<div>
+	<input type="hidden" name="ctl00$ctl04" id="ctl00_ctl04" />
+</div>
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

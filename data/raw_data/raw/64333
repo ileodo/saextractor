@@ -1,0 +1,403 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="http://www.stcatz.ox.ac.uk/sites/default/files/favicon_1.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/node/365" />
+<link rel="canonical" href="/node/365" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Justine Pila | www.stcatz.ox.ac.uk</title>
+  <style>
+@import url("http://www.stcatz.ox.ac.uk/modules/system/system.base.css?nkqxm2");
+</style>
+<style>
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/ldap/ldap_user/ldap_user.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/modules/comment/comment.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/date/date_api/date.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/modules/field/theme/field.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/modules/node/node.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/modules/search/search.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/modules/user/user.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/views/css/views.css?nkqxm2");
+</style>
+<style>
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/ldap/ldap_servers/ldap_servers.admin.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/taxonomy_access/taxonomy_access.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/tb_megamenu/css/bootstrap.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/tb_megamenu/css/base.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/tb_megamenu/css/default.css?nkqxm2");
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/tb_megamenu/css/compatibility.css?nkqxm2");
+</style>
+<style>.tb-megamenu.animate .mega > .mega-dropdown-menu,.tb-megamenu.animate.slide .mega > .mega-dropdown-menu > div{transition-delay:0ms;-webkit-transition-delay:0ms;-ms-transition-delay:0ms;-o-transition-delay:0ms;transition-duration:500ms;-webkit-transition-duration:500ms;-ms-transition-duration:500ms;-o-transition-duration:500ms;}
+</style>
+<style>
+@import url("http://www.stcatz.ox.ac.uk/sites/all/modules/custom_search/custom_search.css?nkqxm2");
+</style>
+<style>
+@import url("http://www.stcatz.ox.ac.uk/sites/all/themes/stcatzsubtheme/css/styles.css?nkqxm2");
+</style>
+<style media="only screen and (min-width: 1200px)">
+@import url("http://www.stcatz.ox.ac.uk/sites/all/themes/stcatzsubtheme/css/layouts/fixed.css?nkqxm2");
+</style>
+<style media="only screen and (min-width: 481px) and (max-width: 1199px)">
+@import url("http://www.stcatz.ox.ac.uk/sites/all/themes/stcatzsubtheme/css/layouts/narrow.css?nkqxm2");
+</style>
+   <meta name="viewport" content="width=device-width, user-scalable=no"><style media="only screen and (max-device-width: 480px)">@import url("http://www.stcatz.ox.ac.uk/themes/stcatzsubtheme/css/layouts/tiny.css");</style>  <script src="http://www.stcatz.ox.ac.uk/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2"></script>
+<script src="http://www.stcatz.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.stcatz.ox.ac.uk/misc/drupal.js?nkqxm2"></script>
+<script src="http://www.stcatz.ox.ac.uk/sites/all/modules/custom_search/js/custom_search.js?nkqxm2"></script>
+<script src="http://www.stcatz.ox.ac.uk/sites/all/modules/tb_megamenu/js/tb-megamenu-frontend.js?nkqxm2"></script>
+<script src="http://www.stcatz.ox.ac.uk/sites/all/modules/tb_megamenu/js/tb-megamenu-touch.js?nkqxm2"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"stcatzsubthmeme","theme_token":"lsv3O9Qklu1TCwmna83rmjuRFdeCNBhfMxTjBHtylqg","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/ldap\/ldap_user\/ldap_user.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/ldap\/ldap_servers\/ldap_servers.admin.css":1,"sites\/all\/modules\/taxonomy_access\/taxonomy_access.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"0":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/themes\/stcatzsubtheme\/system.menus.css":1,"sites\/all\/themes\/stcatzsubtheme\/system.messages.css":1,"sites\/all\/themes\/stcatzsubtheme\/system.theme.css":1,"sites\/all\/themes\/stcatzsubtheme\/css\/styles.css":1,"sites\/all\/themes\/stcatzsubtheme\/css\/layouts\/fixed.css":1,"sites\/all\/themes\/stcatzsubtheme\/css\/layouts\/narrow.css":1}},"custom_search":{"form_target":"_self","solr":0}});</script>
+</head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-365 node-type-people section-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<div id="page">
+<div id="socialbuttons">
+<div id="socialbutton1"><a href="https://www.facebook.com/StCatz" target="_blank">&nbsp;</a></div>
+<div id="socialbutton2"><a href="https://twitter.com/St_Catz" target="_blank">&nbsp;</a></div>
+<div id="socialbutton3"><img src="/sites/all/themes/stcatzsubtheme/images/oxford-university-logo.png"></div>
+</div>
+
+  <header class="header" id="header" role="banner">
+
+    
+    
+    
+    
+  </header>
+
+  <div id="main">
+  
+    
+          <aside class="sidebars">
+          <section class="region region-sidebar-first column sidebar">
+    <div id="block-block-2" class="block block-block first odd">
+
+      
+  <p><a href="/"><img alt="" src="/sites/all/themes/stcatzsubtheme/images/stcatz-crest.png" /></a></p>
+
+</div>
+<div id="block-block-10" class="block block-block even">
+
+      
+  <h2 class="menutitle"><a href="?q=node/6">Prospective Students</a></h2>
+
+</div>
+<div id="block-block-11" class="block block-block odd">
+
+      
+  <h2 class="menutitle"><a href="?q=node/5">The College</a></h2>
+
+</div>
+<div id="block-menu-block-1" class="block block-menu-block even" role="navigation">
+
+        <h2 class="block__title block-title">Prospective Students</h2>
+    
+  <div class="menu-block-wrapper menu-block-1 menu-name-menu-prospective-students parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-collapsed first collapsed menu-mlid-346"><a href="/Undergraduate-Admissions" class="menu__link">Undergraduate Admissions</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-355"><a href="/Postgraduate-Admissions" class="menu__link">Postgraduate Admissions</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-361"><a href="/Scholarships-And-Bursaries" class="menu__link">Scholarships &amp; Bursaries</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-364"><a href="/Visiting-Students-Programme" class="menu__link">Visiting Students Programme</a></li>
+<li class="menu__item is-collapsed last collapsed menu-mlid-365"><a href="/Meet-the-admissions-teams" class="menu__link">Meet the Team</a></li>
+</ul></div>
+
+</div>
+<div id="block-menu-block-4" class="block block-menu-block odd" role="navigation">
+
+        <h2 class="block__title block-title">The College</h2>
+    
+  <div class="menu-block-wrapper menu-block-4 menu-name-menu-the-college parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-collapsed first collapsed menu-mlid-370"><a href="/Academic-Staff" class="menu__link">Academic Staff</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-371"><a href="/Administrative-Staff" class="menu__link">Administrative Staff</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-372"><a href="/Work-With-Us" class="menu__link">Work with Us</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-376"><a href="/About-Us" class="menu__link">About Us</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-379"><a href="/contact/map-and-directions" class="menu__link">Maps &amp; Directions</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-380"><a href="/the-college/term-dates" class="menu__link">Term Dates</a></li>
+</ul></div>
+
+</div>
+<div id="block-views-highlights-view-block" class="block block-views last even">
+
+      
+  <div class="view view-highlights-view view-id-highlights_view view-display-id-block view-dom-id-e6ef48d53557223d377a201a0e82d911">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <span class="views-field views-field-title">        <span class="field-content"><a href="http://www.stcatz.ox.ac.uk/the-college">Find out more about the College</a></span>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+  </section>
+          <section class="region region-sidebar-second column sidebar">
+    <div id="block-block-8" class="block block-block first odd">
+
+      
+  <p><a href="/"><img alt="" src="/sites/all/themes/stcatzsubtheme/images/catz-logo-top.png" /></a></p>
+
+</div>
+<div id="block-tb-megamenu-menu-dropdown-menu" class="block block-tb-megamenu even">
+
+      
+  <div  data-duration="500" data-delay="0" id="tb-megamenu-menu-dropdown-menu" class="tb-megamenu tb-megamenu-menu-dropdown-menu animate slide">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="icon-reorder"></i>
+    </button>
+    <div class="nav-collapse collapse">
+    <ul  class="tb-megamenu-nav nav level-0 items-1">
+  <li  data-id="544" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+  <a href="/" class="dropdown-toggle">
+        
+    See Main Menu          </a>
+  <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-5">
+  <li  data-id="545" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/the-college" class="">
+        
+    The College          </a>
+  </li>
+
+<li  data-id="546" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/prospective-students" class="">
+        
+    Prospective Students          </a>
+  </li>
+
+<li  data-id="547" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/current-students" class="">
+        
+    Current Students          </a>
+  </li>
+
+<li  data-id="548" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/alumni" class="">
+        
+    Alumni & Development          </a>
+  </li>
+
+<li  data-id="549" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+  <a href="/conferences" class="">
+        
+    Conferences          </a>
+  </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+</li>
+</ul>
+      </div>
+  </div>
+
+</div>
+<div id="block-search-form" class="block block-search odd" role="search">
+
+      
+  <form class="search-form" role="search" action="/node/365" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search this site </label>
+ <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search Site" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-co7idr8iBh3Pb5FbNtWF4boHLtZ-T3XWIXT4k9XrPRw" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</div>
+<div id="block-views-related-links-block" class="block block-views even">
+
+        <h2 class="block__title block-title">Related Links</h2>
+    
+  <div class="view view-related-links view-id-related_links view-display-id-block view-dom-id-284da1966992ba591e109381fd42a521">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-related-links">        <div class="field-content"><a href="http://www.law.ox.ac.uk/profile/pilaj">Justine Pila's faculty page</a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-views-static-left-column-block" class="block block-views odd">
+
+      
+  <div class="view view-static-left-column view-id-static_left_column view-display-id-block view-dom-id-66926bc769e09f5f3a4d0354ba5b0010">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+<div id="block-menu-block-9" class="block block-menu-block even" role="navigation">
+
+        <h2 class="block__title block-title">The College Mobile Menu</h2>
+    
+  <div class="menu-block-wrapper menu-block-9 menu-name-menu-the-college parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-collapsed first collapsed menu-mlid-370"><a href="/Academic-Staff" class="menu__link">Academic Staff</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-371"><a href="/Administrative-Staff" class="menu__link">Administrative Staff</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-372"><a href="/Work-With-Us" class="menu__link">Work with Us</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-376"><a href="/About-Us" class="menu__link">About Us</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-379"><a href="/contact/map-and-directions" class="menu__link">Maps &amp; Directions</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-380"><a href="/the-college/term-dates" class="menu__link">Term Dates</a></li>
+</ul></div>
+
+</div>
+<div id="block-menu-block-8" class="block block-menu-block odd" role="navigation">
+
+        <h2 class="block__title block-title">Prospective Students Mobile Menu</h2>
+    
+  <div class="menu-block-wrapper menu-block-8 menu-name-menu-prospective-students parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-collapsed first collapsed menu-mlid-346"><a href="/Undergraduate-Admissions" class="menu__link">Undergraduate Admissions</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-355"><a href="/Postgraduate-Admissions" class="menu__link">Postgraduate Admissions</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-361"><a href="/Scholarships-And-Bursaries" class="menu__link">Scholarships &amp; Bursaries</a></li>
+<li class="menu__item is-collapsed collapsed menu-mlid-364"><a href="/Visiting-Students-Programme" class="menu__link">Visiting Students Programme</a></li>
+<li class="menu__item is-collapsed last collapsed menu-mlid-365"><a href="/Meet-the-admissions-teams" class="menu__link">Meet the Team</a></li>
+</ul></div>
+
+</div>
+<div id="block-views-test-view-block" class="block block-views even">
+
+        <h2 class="block__title block-title">Latest News</h2>
+    
+  <div class="view view-test-view view-id-test_view view-display-id-block view-dom-id-675c6cbfcc289fffcdbfcfc034778a19">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <div class="field-content"><a href="/node/839">St Catz Charity Music Concert</a></div>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content eventdate"></div>  </div>  
+  <div class="newsblurb">        <div><p>Catz student Daniel Shao (2013, Music) and Catz Music Society have organised a music concert in aid of the Oxford branch of ‘Crisis’ (the national charity for single homeless people).</p></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <div class="field-content"><a href="/node/838">Inaugural CatzExchange Conference a Success</a></div>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content eventdate"></div>  </div>  
+  <div class="newsblurb">        <div><p>On 26 February 2015, over fifty Catz undergraduates, graduates, and Fellows got together for a very successful CatzExchange conference.</p></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <div class="field-content"><a href="/node/837">Simon Russell Beale Lecture Podcast</a></div>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content eventdate"></div>  </div>  
+  <div class="newsblurb">        <div><p>Simon Russell Beale delivered his Inaugural Lecture as the Cameron Mackintosh Visiting Professor of Contemporary Theatre on Monday 2 March 2015 at St Catherine's College.</p></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="?q=node/99" class="largebutton">See All Latest News</a>    </div>
+  
+  
+</div>
+</div>
+<div id="block-views-left-column-base-block" class="block block-views last odd">
+
+      
+  <div class="view view-left-column-base view-id-left_column_base view-display-id-block leftbase view-dom-id-3b62e500f8e2e9efdedc352c3b3662c7">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</div>
+  </section>
+      </aside>
+    
+    <div id="content" class="column" role="main">
+                  <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Justine Pila</h1>
+                                          
+
+
+<div  about="/node/365" typeof="sioc:Item foaf:Document" class="ds-1col node node-people node-promoted view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-forename field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Justine N</div></div></div><div class="field field-name-field-surname field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Pila</div></div></div><div class="field field-name-field-profile-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="http://www.stcatz.ox.ac.uk/sites/default/files/Justine%20Pila.jpg" width="187" height="210" alt="" /></div></div></div><div class="field field-name-field-qualifications field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">MA, DipLATHE (BA/LLB Hons, PhD Melb)</div></div></div><div class="field field-name-field-job-titles field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Fellow and Tutor in Law</div><div class="field-item odd">University Lecturer in Intellectual Property Law</div><div class="field-item even">College Counsel</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Teaching</strong></p>
+<p>In the University I teach copyright and patents on the Law Faculty’s undergraduate (FHS) and graduate (BCL/MJur and Diploma in IP Law &amp; Practice) intellectual property courses. In College I teach European Union Law.</p>
+<p><strong>About me</strong></p>
+<p>I was born and educated in Melbourne, Australia. After finishing school I studied mathematics, literature and law as part of a combined BA/LLB Hons degree at the University of Melbourne. I then spent three years in the intellectual property division of a large commercial law firm. From 1998 to 2000 I was legal associate to the Chief Justice of the Australian Federal Court, and in 2000 I returned to Melbourne University to undertake a PhD in patent law funded by a Commonwealth Government/Industry (SPIRT) award and a Melbourne Research Scholarship. Two years into my PhD I moved with my husband and daughter to the United States and began a journey that ended when I came to Oxford in 2004 to take up my current posts.</p>
+<p>For more information about my position at Oxford see my <a href="http://www.law.ox.ac.uk/profile/pilaj">faculty website</a>.</p>
+<p><strong>Research</strong></p>
+<p>My research interests lie in intellectual property law. A list of my publications is available on my <a href="http://www.law.ox.ac.uk/profile/pilaj">faculty website</a>.</p>
+<p><strong>Graduate Supervision</strong></p>
+<p>I have supervised ten doctoral students and several Masters students working in a range of intellectual property areas. Of my four current DPhil students, two are working in copyright and two in patent law. Students interested to work with me should contact me before applying for admission to the Law Faculty’s doctoral programme.</p>
+</div></div></div><div class="field field-name-back-button field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><p><a class="largebutton" href="javascript:history.go(-1)">Back</a></p>
+</div></div></div></div>
+
+          </div>
+
+    <div id="navigation">
+
+      
+      
+    </div>
+
+    
+
+  </div>
+
+    <footer id="footer" class="region region-footer">
+    <div id="block-block-4" class="block block-block first last odd">
+
+      
+  <div id="catzfooter">
+<div id="footer-links"><a href="Cookie-Policy">Cookies Policy</a> | <a href="terms">Terms</a> | <a href="?q=node/98">Admin</a> | <a class="fullsite" href="?desktop=1">View Full Site</a> <a class="mobilesite" href="?mobile=1">View Mobile Site</a><br /><a href="Freedom-of-Information-Act-2000">Freedom of Information Act 2000</a></div>
+<div id="footer-copy">© 2013 St Catherine's College Oxford<br />
+Design and Development by <a href="http://www.imageworks.co.uk" target="_blank">www.imageworks.co.uk</a></div>
+<div id="footer-signoff"><strong>St Catherine's College</strong> Oxford</div>
+</div>
+
+</div>
+  </footer>
+
+</div>
+
+  </body>
+</html>

@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><style type="text/css" media="screen">@import url(http://www.eng.ox.ac.uk/smp/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-40c07cc101aa2eb53e3107b8a86b91c3.css);</style><link rel="stylesheet" type="text/css" media="screen" href="http://www.eng.ox.ac.uk/smp/portal_css/Sunburst%20Theme/reset-cachekey-e4e4c4008bcf1813ccbffc4425d2dca4.css" /><link rel="stylesheet" type="text/css" href="http://www.eng.ox.ac.uk/smp/portal_css/Sunburst%20Theme/base-cachekey-814907e03e3fcbfedccb9abd39d32055.css" /><link rel="stylesheet" type="text/css" media="all" href="http://www.eng.ox.ac.uk/smp/portal_css/Sunburst%20Theme/ploneCustom-cachekey-bccbfd8274c6a4f9e04b4f85a6368065.css" /><link rel="canonical" href="http://www.eng.ox.ac.uk/smp/news" /><link rel="shortcut icon" type="image/x-icon" href="http://www.eng.ox.ac.uk/smp/favicon.ico" /><link rel="apple-touch-icon" href="http://www.eng.ox.ac.uk/smp/touch_icon.png" /><link rel="alternate" href="http://www.eng.ox.ac.uk/smp/news/aggregator/RSS" title="News - RSS 1.0" type="application/rss+xml" /><link rel="alternate" href="http://www.eng.ox.ac.uk/smp/news/aggregator/rss.xml" title="News - RSS 2.0" type="application/rss+xml" /><link rel="alternate" href="http://www.eng.ox.ac.uk/smp/news/aggregator/atom.xml" title="News - Atom" type="application/rss+xml" /><link rel="search" href="http://www.eng.ox.ac.uk/smp/@@search" title="Search this site" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>News — Soft Matter Photonics</title><style type="text/css" media="screen">@import url(/smp/++theme++eng.new.grouptheme.cookie/css/style.css);</style><!--[if lte IE 7]>
+    <style type="text/css" media="all">@import url(/smp/++theme++eng.new.grouptheme.cookie/css/ie7style.css);</style>
+  <![endif]--><style type="text/css" media="print">@import url(/smp/++theme++eng.new.grouptheme.cookie/css/print.css);</style><link rel="stylesheet" type="text/css" href="/smp/++theme++eng.new.grouptheme.cookie/css/jquery.cookiebar.css" /><base href="http://www.eng.ox.ac.uk/smp/news/aggregator" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" /><script type="text/javascript" src="http://www.eng.ox.ac.uk/smp/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-b9fb6bbd17266996f582cfb5f31343f5.js"></script></head><body class="template-folder_summary_view portaltype-collection site-smp section-news subsection-aggregator icons-on userrole-anonymous"><div id="header-wrap">
+    <div id="header">
+      <div id="oxlogo">
+        <a href="http://www.ox.ac.uk" title="University of Oxford"><img src="/smp/++theme++eng.new.grouptheme.cookie/images/oxlogo.gif" width="197" height="61" alt="University of Oxford" /></a>
+      </div>
+      <h1 id="page-heading">
+        <a id="backtohome" href="http://www.eng.ox.ac.uk/smp" title="Home">
+         Soft Matter Photonics
+    </a>
+      </h1>
+      <div id="header-right">
+        <div id="portal-personaltools-wrapper">
+
+<p class="hiddenStructure">Personal tools</p>
+
+
+
+<ul class="actionMenu deactivated" id="portal-personaltools"><li id="anon-personalbar">
+    
+        <a href="http://www.eng.ox.ac.uk/smp/login" id="personaltools-login">Log in</a>
+    
+  </li>
+</ul></div><ul id="siteaction-links"><li id="siteaction-cookies"><a href="/privacy" accesskey="1" title="Learn how we use cookies on our website and how it affects your privacy">Cookies &amp; Privacy</a></li>
+        <li id="siteaction-sitemap"><a href="http://www.eng.ox.ac.uk/smp/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    
+    
+</ul><div id="search">
+
+    <form id="searchGadget_form" action="http://www.eng.ox.ac.uk/smp/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+
+        <input name="SearchableText" type="text" size="18" title="Search Site" placeholder="Search Site" accesskey="4" class="searchField" id="searchGadget" /><input class="searchButton" type="submit" value="Search" /><div class="searchSection">
+            <input id="searchbox_currentfolder_only" class="noborder" type="checkbox" name="path" value="/smp/smp/news" /><label for="searchbox_currentfolder_only" style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://www.eng.ox.ac.uk/smp/@@search" accesskey="5">
+            Advanced Search…
+        </a>
+    </div>
+
+</div>
+      </div>
+      <ul id="topnav"><li class="plain" id="portaltab-people"><a href="http://www.eng.ox.ac.uk/smp/people" title="Who's who in the group">People</a></li><li class="plain" id="portaltab-publications"><a href="http://www.eng.ox.ac.uk/smp/publications" title="Group publications">Publications</a></li><li class="plain" id="portaltab-research"><a href="http://www.eng.ox.ac.uk/smp/research" title="Group research">Research</a></li><li class="plain" id="portaltab-links"><a href="http://www.eng.ox.ac.uk/smp/links" title="Links &amp; Collaborators">Links</a></li><li class="plain" id="portaltab-contact-us"><a href="http://www.eng.ox.ac.uk/smp/contact-us" title="">Contact us</a></li><li class="selected" id="portaltab-news"><a href="http://www.eng.ox.ac.uk/smp/news" title="Site News">News</a></li><li class="plain" id="portaltab-Opportunities"><a href="http://www.eng.ox.ac.uk/smp/Opportunities" title="Site Events">Opportunities</a></li></ul></div>
+  </div><div id="centersection-wrap">
+    <div id="centersection">
+      <div id="breadcrumb">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://www.eng.ox.ac.uk/smp">Home</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">News</span>
+         
+    </span>
+
+</div>
+      <div id="content-table">
+        <div id="content-row">
+          
+          <div id="portal-column-content">
+
+            
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+        <dd></dd>
+    </dl><div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    News
+                </h1>
+            
+            
+        
+                             
+                             <div id="viewlet-below-content-title">
+</div>
+
+                             
+                                 
+                                 
+            
+                
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+
+</div>
+                             <div id="content-core">
+                                 
+
+
+        <div id="parent-fieldname-text" class="plain">
+            <h3><strong></strong> IET Award to Graduate Student in Soft Matter Photonics Group</h3>
+<p> </p>
+<p class=" ">Chloe Tartan, a DPhil student in the group, has been awarded a prestigious postgraduate scholarship, the ‘Leslie H Paddle Scholarship’ worth £5000 from the Institute of Engineering and Technology (IET). The scholarship supports her research into '<em>Nano</em> <em>and Micro-scale Polymer Structures in Liquid Crystals for Next Generation Photonic Devices'</em>.  The main article on the Department of Engineering Science webpage can be found <a class="external-link" href="http://www.eng.ox.ac.uk/about/news/prestigious-iet-postgraduate-scholarship-announced" target="_self" title="">here</a>.  </p>
+<h3>Oxford Photonics Day Poster Prizes</h3>
+<p> </p>
+<p class=" ">Simon Wood (1st Prize) and Chloe Tartan (2nd Prize) are awarded prizes by the Panel of Judges for their posters presented at the 7th Oxford Photonics Day.</p>
+<p> </p>
+<h3><strong>Events</strong></h3>
+<p> </p>
+<p>8th Oxford Photonics Day - October 2015. More details can be found at <a href="http://www.photonics.ox.ac.uk/events">http://www.photonics.ox.ac.uk/events</a>.</p>
+<h3> </h3>
+        </div>
+
+        
+        
+        
+        
+            <p class="discreet">
+                There are currently no items in this folder.
+            </p>
+        
+
+        
+        
+
+    
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+        </div>
+          
+        </div>
+      </div>
+      <div id="bottom-clear"></div>
+    </div>
+  </div><div id="footer-wrap">
+    <div id="footer">
+        <div id="footer-address">
+        <p>Department of Engineering Science,<br />
+        University of Oxford,<br />
+        Parks Road,<br />
+        Oxford,<br />
+        OX1 3PJ</p>
+        <p>Tel: (+44 or 0) 1865 273000<br />
+        Fax: (+44 or 0) 1865 273010<br />
+        Email: <a href="mailto:reception@eng.ox.ac.uk">reception@eng.ox.ac.uk</a></p></div>
+        <div id="footer-links">
+            <p><a href="/contact">Contact us</a></p>
+            <p><a href="/accessibility">Accessibility</a></p>
+            <p><a href="http://www.admin.ox.ac.uk/foi/">Freedom of Information</a></p>
+            <p><a href="/privacy">Privacy Policy &amp; Cookies Statement</a></p>
+            <p><a href="http://www.ox.ac.uk/copyright.html">University Copyright Statement</a></p>
+        </div>
+    </div>
+  </div><script type="text/javascript" src="/smp/++theme++eng.new.grouptheme.cookie/js/jquery.cookiebar.js"></script><script>
+    jQuery(document).ready(function( $ ){
+      $.cookieBar();
+    });
+  </script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-48482149-1', 'ox.ac.uk');
+    ga('send', 'pageview');
+  </script></body></html>

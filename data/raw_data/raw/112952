@@ -1,0 +1,350 @@
+
+<!DOCTYPE html>
+<html>
+<head>  
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />    
+	<title>Contact | Oxford University Faculty of Music</title>
+    <!-- 
+    Website by The Web Kitchen http://www.thewebkitchen.co.uk/ - Joze Covic 
+    -->          
+    <link rel="stylesheet" href="/wp-content/themes/oxfordmusic/style-main.css" type="text/css" media="all"/> 
+    <link rel="stylesheet"  href="/wp-content/themes/oxfordmusic/allinone_bannerRotator.css" type="text/css" media="all"/>
+    <link rel="stylesheet"  href="/wp-content/themes/oxfordmusic/prettyPhoto.css" type="text/css" media="all"/> 
+	<link href='http://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-ico; charset=binary">
+    <link rel="icon" href="/assets/favicon.ico" type="image/x-ico; charset=binary">	    
+	<link rel="pingback" href="http://www.music.ox.ac.uk/xmlrpc.php" />
+    <base target="_parent" />
+    <!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    <![endif]-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/wp-content/themes/oxfordmusic/jquery-1.9.1.min.js"><\/script>')</script>
+    <script src="/wp-content/themes/oxfordmusic/jquery-1.9.2-ui.min.js"></script>
+	<script type="text/javascript" src="/wp-content/themes/oxfordmusic/jquery.main.js"></script>
+    <script src="/wp-content/themes/oxfordmusic/allinone_bannerRotator.js" type="text/javascript"></script>
+    <script src="/wp-content/themes/oxfordmusic/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" type="text/css" href="/wp-content/themes/oxfordmusic/ie.css" >
+	<script type="text/javascript" src="/wp-content/themes/oxfordmusic/ie.js"></script>
+	<![endif]-->          
+    <link rel="stylesheet" href="/wp-content/plugins/ltw-content-shortcodes/css/styles.css?ver=1.0.3">
+<link rel="stylesheet" href="/wp-content/plugins/wp-paginate/wp-paginate.css?ver=1.2.4">
+<!-- HeadSpace SEO 3.6.41 by John Godley - urbangiraffe.com -->
+<!-- HeadSpace -->
+	<link rel="canonical" href="http://www.music.ox.ac.uk/contact/">
+			<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://www.music.ox.ac.uk/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+				<script type="text/javascript" src="/wp-content/themes/oxfordmusic/modernizr-2.6.2.min.js"></script>   
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	$(document).ready(function() {			
+		// hide sub menus
+		$('.navigation ul ul').hide();		
+		// toggle sub menus on hover
+		$('.navigation ul > li')
+			.hover(function(e) {
+			$(this).children('ul').css({"display":"block"});
+			}, function(e) {
+			$(this).children('ul').css({"display":"none"});
+			});	
+		$('a[rel^="prettyPhoto"]').prettyPhoto({ show_title: false, theme: 'facebook', 
+		allow_expand: false,default_width:650,default_height:400, deeplinking: false 		
+		});	
+		});
+/* ]]> */
+</script>
+<script>
+		jQuery(function() {
+			jQuery('#allinone_bannerRotator_classic').allinone_bannerRotator({
+				skin: 'classic',
+				width: 1960,
+				height: 560,
+				width100Proc:true,
+				responsive:true,
+				responsiveRelativeToBrowser: false, // the banner will be responisve relatively to parent div
+				showNavArrows:false,
+				effectDuration:0.8,
+				showCircleTimer:false,
+				autoHideBottomNav:false,
+				defaultEffect:['fade']	,
+				thumbsWrapperMarginBottom:5
+			});							
+		});	
+	</script> 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-44701239-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>       
+  </head>
+  <body class="page page-id-6174 page-template page-template-page-fullwidth page-template-page-fullwidth-php tribe-bar-is-disabled">
+	<div id="wrapper">
+		<div class="w1">	
+			<header id="header">
+            <div id="header-innder-wrap">
+				<div class="header-block">
+					<div class="holder">  
+<div class="logo"><a href="/"><img src="/wp-content/themes/oxfordmusic/img/logo.png" width="258" height="83" alt="Oxford University Faculty of Music"></a>
+<p class="header-tagline">Oxford University Faculty of Music</p></div>
+<div class="title"><a href="/welcome/">Faculty of Music</a></div>
+						<div class="box">
+							<nav class="top-nav">
+                            <ul>
+<li><a href="http://www.bate.ox.ac.uk/" target="_blank">Bate Collection</a></li>
+<li><a href="http://www.bodleian.ox.ac.uk/music" target="_blank">Library</a></li>
+<li><a title="Current Students" href="https://weblearn.ox.ac.uk/portal/hierarchy/humdiv/music" target="_blank">Current Students</a></li>
+</ul>
+							</nav>
+							<form method="get" class="search" action="http://www.music.ox.ac.uk/">
+								<fieldset>
+									<span class="text"><input class="search-text" name="s" value="" type="search" /></span>
+									<input type="submit" value="search" />
+								</fieldset>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="image-block">
+
+     
+<!-- Custom Static Banner -->
+<img src="/assets/banner-map-1832x540.jpg" alt="Oxford Faculty of Music" /></div><!-- end image block -->
+
+  
+                                                                        
+				<nav id="nav">
+
+<div class="navigation">			
+<ul id="menu-primary-menu" class="menu"><li id="menu-item-6095" class="first-menu-item menu-item menu-item-type-post_type menu-item-object-page menu-item-6095"><a href="/">Welcome</a></li>
+<li id="menu-item-10058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10058"><a href="/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-10097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10097"><a href="/about/people/">People</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10098"><a href="/about/people/academic-staff/">Academic Staff</a></li>
+		<li id="menu-item-11286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11286"><a href="/about/people/graduate-students/">Graduate Students</a></li>
+		<li id="menu-item-10101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10101"><a href="/about/people/administration-staff/">Administration Staff</a></li>
+		<li id="menu-item-10104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10104"><a href="/about/people/vacancies/">Vacancies</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10089"><a href="/about/facilities/">Facilities</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10105"><a href="/about/facilities/teaching-rooms/">Teaching Rooms</a></li>
+		<li id="menu-item-10106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10106"><a href="/about/facilities/practice-rooms/">Practice Rooms</a></li>
+		<li id="menu-item-10107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10107"><a href="/about/facilities/music-technology/">Music Technology</a></li>
+		<li id="menu-item-10108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10108"><a href="/about/facilities/holywell-music-room/">Holywell Music Room</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10118"><a href="/about/resources/">Resources</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10111"><a href="/about/resources/the-bate-collection/">The Bate Collection</a></li>
+		<li id="menu-item-10112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10112"><a href="/about/resources/library-resources/">Library Resources</a></li>
+		<li id="menu-item-10113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10113"><a href="/about/facilities/music-technology/multimedia-resource-centre/">Multimedia Resource Centre</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10114"><a href="/about/ensembles/">Ensembles</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10115"><a href="/about/ensembles/resident-ensembles/">Professional Ensembles</a></li>
+		<li id="menu-item-10116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10116"><a href="/about/ensembles/students-ensembles/">Student Ensembles</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-10059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10059"><a href="/apply/">Apply</a>
+<ul class="sub-menu">
+	<li id="menu-item-10060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10060"><a href="/apply/undergraduate/">Undergraduate</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10062"><a href="/apply/undergraduate/open-days/">Open Days</a></li>
+		<li id="menu-item-10119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10119"><a href="/apply/undergraduate/course-structure/">Course Structure</a></li>
+		<li id="menu-item-10121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10121"><a href="/apply/undergraduate/application-procedure/">Application Procedure</a></li>
+		<li id="menu-item-10123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10123"><a href="/apply/undergraduate/choral-and-organ-awards/">Choral and Organ Awards</a></li>
+		<li id="menu-item-10125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10125"><a href="/apply/undergraduate/faqs/">FAQs</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10061"><a href="/apply/postgraduate/">Postgraduate</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10126"><a href="/apply/postgraduate/masters-students/">Masters Students</a></li>
+		<li id="menu-item-10127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10127"><a href="/apply/postgraduate/research-students/">Research Students</a></li>
+		<li id="menu-item-10120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10120"><a href="/apply/postgraduate/application-procedure/">Application Procedure</a></li>
+		<li id="menu-item-11626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11626"><a href="/apply/postgraduate/timetable-and-funding/">Timetable and Funding</a></li>
+		<li id="menu-item-10124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10124"><a href="/apply/postgraduate/faqs/">FAQs</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-10083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10083"><a href="/research/">Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-10128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10128"><a href="/research/projects/">Projects</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10129"><a href="/research/projects/diamm/">DIAMM</a></li>
+		<li id="menu-item-10132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10132"><a href="/research/projects/cpccm/">CPCCM</a></li>
+		<li id="menu-item-10131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10131"><a href="/research/projects/balzan-research-project/">Balzan Research Project</a></li>
+		<li id="menu-item-10133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10133"><a href="/research/projects/hearing-landscape-critically/">Hearing Landscape Critically</a></li>
+		<li id="menu-item-10134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10134"><a href="/research/projects/musdig/">MusDig</a></li>
+		<li id="menu-item-10135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10135"><a href="/research/projects/oae-rameau/">The Rameau Project</a></li>
+		<li id="menu-item-11635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11635"><a href="/research/projects/tudor-partbooks-project/">Tudor Partbooks</a></li>
+		<li id="menu-item-10136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10136"><a href="/research/projects/opp/">OPP</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10137"><a href="/research/disciplines/">Disciplines</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10138"><a href="/research/disciplines/composition/">Composition</a></li>
+		<li id="menu-item-10139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10139"><a href="/research/disciplines/ethnomusicology/">Ethnomusicology</a></li>
+		<li id="menu-item-10140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10140"><a href="/research/disciplines/musicology/">Musicology</a></li>
+		<li id="menu-item-10141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10141"><a href="/research/disciplines/performance/">Performance</a></li>
+		<li id="menu-item-10142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10142"><a href="/research/disciplines/psychology-of-music/">Psychology of Music</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-10084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10084"><a href="/events/">Events</a></li>
+<li id="menu-item-10085" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10085"><a href="/alumni/">Alumni</a></li>
+<li id="menu-item-10086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10086"><a href="/news/">News</a></li>
+<li id="menu-item-10087" class="last-menu-item menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6174 current_page_item menu-item-10087"><a href="/contact/">Contact</a></li>
+</ul></div>
+				</nav>
+              </div>  
+			</header>
+           
+<div id="main">
+<div id="main-content" class="full-width">
+<div class="breadcrumbs"> <!-- Breadcrumb NavXT 5.0.1 -->
+<a title="Go to Home page" href="http://www.music.ox.ac.uk" class="home">Home</a>&nbsp;&raquo;&nbsp;<a title="Go to Contact." href="http://www.music.ox.ac.uk/contact/" class="post post-page current-item">Contact</a></div><h1>Contact Us</h1><div class="ezcol ezcol-one-half">
+<h4>Admissions Enquiries and General Course Information</h4>
+<p>Alec Sims<br /> Tel: +44 (0)1865 286264<br /> Email: <a href="&#x6d;&#97;i&#x6c;&#116;o&#x3a;&#x61;c&#x61;&#x64;&#101;m&#x69;&#99;.&#x61;&#x64;m&#x69;&#x6e;&#64;m&#x75;&#115;i&#x63;&#x2e;o&#x78;&#x2e;&#97;c&#x2e;&#117;k">&#x61;c&#x61;&#x64;e&#x6d;&#x69;c&#x2e;&#x61;d&#x6d;&#x69;n&#x40;&#x6d;u&#x73;&#105;c&#x2e;&#111;x&#x2e;&#97;c&#x2e;&#117;k</a></p>
+<h4>Faculty Events</h4>
+<p>Aloïse Fiala-Murphy<br /> Tel: +44 (0)1865 276141<br /> Email: <a href="mail&#116;&#111;&#x3a;&#x65;&#x76;&#x65;&#x6e;ts&#64;m&#117;&#115;&#x69;&#x63;&#x2e;&#x6f;&#x78;.ac.&#117;&#107;">e&#x76;e&#110;&#x74;s&#x40;&#x6d;u&#x73;i&#99;&#x2e;o&#120;&#x2e;a&#x63;.&#117;&#x6b;</a></p>
+<h4>Hire of the Holywell Music Room</h4>
+<p>Arabella Pratt<br /> Tel: +44 (0)1865 276133<br /> Email: <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x65;&#x76;&#x65;&#x6e;&#x74;&#x73;&#x40;&#x6d;&#x75;&#x73;&#x69;&#x63;&#x2e;&#x6f;&#x78;&#46;&#97;&#99;&#46;&#117;&#107;">&#101;v&#x65;n&#x74;s&#x40;m&#x75;s&#x69;c&#x2e;o&#x78;.&#x61;c&#x2e;&#117;&#x6b;</a></p>
+<h4>Director of Graduate Studies</h4>
+<p>Professor Elizabeth Eva Leech</p>
+<h4>Director of Undergraduate Studies</h4>
+<p>Professor Owen Rees</p>
+<h4>Faculty Board Chairman</h4>
+<p>Professor Jonathan Cross</p>
+</div>
+<div class="ezcol ezcol-one-half ezcol-last">
+<h2>How to Find Us</h2>
+<p><iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=+&amp;q=Oxford+university+faculty+of+music&amp;ie=UTF8&amp;hq=university+faculty+of+music&amp;hnear=Oxford,+United+Kingdom&amp;t=m&amp;cid=799190467113394693&amp;ll=51.748714,-1.256046&amp;spn=0.047825,0.084972&amp;z=13&amp;output=embed"></iframe></p>
+<p> <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=+&amp;q=Oxford+university+faculty+of+music&amp;ie=UTF8&amp;hq=university+faculty+of+music&amp;hnear=Oxford,+United+Kingdom&amp;t=m&amp;cid=799190467113394693&amp;ll=51.748714,-1.256046&amp;spn=0.047825,0.084972&amp;z=13" target="_blank">View Larger Map</a></p>
+</div><div class="ezcol-divider"></div>
+</div>
+<div class="clear"></div>
+</div></div> <!--  div#main end -->
+		<footer id="footer">
+			<div class="holder">
+				<div class="frame">
+					<div class="footer-section">
+						<div class="holder">
+							<div class="column">
+								<div class="title">Quick Links</div>
+                                <ul class="links">
+<li><a href="http://www.ox.ac.uk/">University of Oxford</a></li>
+<li><a href="http://www.bate.ox.ac.uk/" target="_blank">Bate Collection</a></li>
+<li><a href="http://www.bodleian.ox.ac.uk/music" target="_blank">Library</a></li>
+<li><a title="Current Students" href="https://weblearn.ox.ac.uk/portal/hierarchy/humdiv/music" target="_blank">Current Students</a></li>
+</ul>
+							</div>
+							<div class="column">
+                            <div class="title">Twitter</div>
+                            <ul class="ox-tweets" style="margin: 0px!important">
+<li>We'll also be webcasting the main events. Students will be live tweeting using hashtag <a href="http://twitter.com/search?q=%23OxfordMusicOpen" target="_blank">#OxfordMusicOpen</a> Look out for more details.<br /><span class="tweet-time"><span class="0_tweet_date"></span></span></li><li>Teachers! Please encourage your Yr 12 students to attend our Open Days on 1&amp;2 July! All welcome! <a href="http://t.co/D9VqoLOjVi" target="_blank">http://t.co/D9VqoLOjVi</a><br /><span class="tweet-time"><span class="1_tweet_date"></span></span></li>
+</ul>
+		<script type="text/javascript">
+			jQuery(document).ready(function() { 
+									moment.lang('en');
+												var date_val_0 = 1434524388;
+								var date_0 = moment.unix(date_val_0).fromNow();
+								jQuery(".0_tweet_date").html(date_0);
+								var date_val_1 = 1434524216;
+								var date_1 = moment.unix(date_val_1).fromNow();
+								jQuery(".1_tweet_date").html(date_1);
+							});
+		</script>
+
+							</div>
+							<div class="column">
+								<div class="title"><a target="_self" href="/contact/">Contact Us</a></div>
+							<p style="font-size: 13px;">Faculty of Music,<br />St Aldates,<br />Oxford,<br />OX1 1DB</p>
+<p style="font-size: 13px;">+44 (0) 1865  276125</p>
+<div class="oxford-social">              
+<!--<div id="ox-linkedIn" class="ox-social-links"><a href="#" target="_blank">
+<img width="32" height="33" src="/img/LinkedIn_g.png" alt="LinkedIn" />
+</a></div>-->              
+<div id="ox-facebook" class="ox-social-links"><a href="https://en-gb.facebook.com/pages/Music-Faculty-Events-University-of-Oxford/191884369467" target="_blank">
+<img width="32" height="32" src="http://www.music.ox.ac.uk//assets/fac-w.png" alt="Facebook" />
+</a></div>
+<div id="ox-twitter" class="ox-social-links"><a href="https://twitter.com/MusicFac_events" target="_blank">
+<img width="33" height="33" src="http://www.music.ox.ac.uk//assets/twit-w.png" alt="Twitter" /></a></div>
+<div class="clear"></div>
+<br />
+<p style="font-size:0.7em;"><a target="_self" href="http://www.thewebkitchen.co.uk" title="Site by The Web Kitchen">Web Design London</a> | <a target="_self" href="/privacy-policy/">Privacy Policy</a></p>                        
+							</div>
+							<a href="#header" class="link-top">BACK TO TOP</a>
+						</div>
+					</div>
+                    <!--
+					<div class="footer-block">
+						<div class="holder">
+                            						</div>
+					</div>
+                    -->
+				</div>
+			</div>
+		</footer>
+	</div>
+</body>
+</html>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ltw_function = {"toggle_open":"Open","toggle_close":"Close"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/ltw-content-shortcodes/js/functions.js?ver=1.0.3'></script>
+<script type='text/javascript' src='/wp-content/plugins/twitget/js/moment.js?ver=4.1.5'></script>
+<script type='text/javascript' src='/wp-content/plugins/twitget/js/langs.min.js?ver=4.1.5'></script>
+<script type="text/javascript" charset="utf-8">
+jQuery(function($){			
+	var isEmbed = window != window.parent; 
+	if(!isEmbed){
+		$("div.tribe-events-category-holywell-music-room-events").remove(); }
+	else{
+		$("header#header, footer#footer, #wpadminbar, .filter-categories").remove();
+		$(".hollywell-calendar").css({'overflow':'hidden'});
+		$(".tribe-events-category-holywell-music-room-events").css({'display':'block'});
+	}
+});
+$(window).load(function() {	
+		$( ".hollywell-calendar" ).contents().find( "div.hentry" ).css( "display", "none" );
+		$( ".hollywell-calendar" ).contents().find( "div.tribe-events-category-holywell-music-room-events" ).css( "display", "block" );
+		$( ".hollywell-calendar" ).contents().find( "div#main" ).css( "padding", "0" ).css( "margin", "0" );
+		$( ".hollywell-calendar" ).contents().find( ".clear.te-c" ).css( "display", "none" );
+		$( ".hollywell-calendar" ).contents().find( "#display-menu" ).css( "display", "none" );
+		$( ".hollywell-calendar" ).contents().find( "#tribe-bar-views" ).remove();
+		$("iframe.hollywell-calendar").show();		
+});
+jQuery(function($) {	
+  $(document).ajaxStop(function()
+  {
+    // Executed when all ajax requests are done.	 
+	$("div.tribe-events-category-holywell-music-room-events").hide();
+	window.parent.$( "#hollywell-cal" ).contents().find( "div.hentry" ).hide();
+	window.parent.$( "#hollywell-cal" ).contents().find( "div.tribe-events-category-holywell-music-room-events" ).show();	
+  });
+});
+</script> 
+<!--[if lt IE 7]>
+<script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+<script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+<![endif]-->
+</body>
+</html>

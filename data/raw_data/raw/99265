@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<meta charset="utf-8" />
+<!--[if gt IE 8]><!-->
+        <script src="/cybersecurity-capacity/sites/all/modules/custom/goto_tag_cloud/d3.min.js" />
+</script><![endif]--><link rel="shortcut icon" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/all/themes/goto_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<!--[if gt IE 8]><!-->
+        <script src="/cybersecurity-capacity/sites/all/modules/custom/goto_tag_cloud/d3.layout.cloud.js" />
+</script><![endif]--><meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>Cybersecurity Capacity Portal</title>
+<link type="text/css" rel="stylesheet" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/css/css_yU7BNMhAZbXeiHB-nBFImWk8BnJQWvfAa7EXLvzkJg0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/css/css_QmjDxmZonY3ifx8kmnpKLuR6OTN5EdytrshEPfAs0O8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/css/css_sytbrAZ5JGfGesFEoG7MAqtwPz--zumJFfx9a5SNonM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/css/css_voPyk1YQpyF3Zfi7JlEjYto86L77rg7F0fS6loLgZnE.css" media="all" />
+<style>.views-masonry-row{width:234px;float:left;overflow:hidden;margin:3px;}
+#sliding-popup.sliding-popup-bottom{background:#081f30;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+</style>
+<link type="text/css" rel="stylesheet" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/css/css_AYz1BTEm2wYkiRx9UqtkjtpWW4MbFPNVRzIQAg0yHvQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/css/css_8W7mPWIf5QOu05Q01DZIoA9TJWwVAW6THf6-oQu9b6I.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/css/css_en_sXvBcVGXY51jui8nEFMxsBCz3NfCkpcv8gZCxY2A.css" media="print" />
+<link type="text/css" rel="stylesheet" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/css/css_nJ6QUXEo-qrPoyI8kzmZwRYjhDWltkN-pdCL5NJVfME.css" media="only screen" />
+
+<!--[if (lt IE 9)&(!IEMobile 7)]>
+<link type="text/css" rel="stylesheet" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/css/css_A3Ih21Y2AU2hbd2_iU5G8cNLA2m1FqfKf7drNcH7g0Q.css" media="screen" />
+<![endif]-->
+
+<!--[if IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/css/css_QLoK544hi35ljTUsAEJp46BuEOIpIQcc3uRfkHqyAQM.css" media="screen" />
+<![endif]-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/cybersecurity-capacity/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write("<script src='/cybersecurity-capacity/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")</script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_goQOg8n55I83aQ6JSmgYI46Oll2JsiO-cIut47J_Rko.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.8/webfont.js"></script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_9PoCIpaBdXzAfwjeoO2ibi_TtEs6jMROpVOwk-_WIBw.js"></script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_hRJn1uHcne2pFZw6bZpx5gt-Wsbkr35gZCAypobtEec.js"></script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_e6myDr8Os1_1o4SWJyXFfHjeWz9AYUbqS2oLpn42dJg.js"></script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_rvXZ5EsLq51Zzd9RjkSbWjyq9nUlF93fsVp15Wn5zqE.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-1161194-22", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_CpHi6DOpgxXrYPHbNJuaqsa2Skb1wnw5tIqyCv0RLLk.js"></script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_Zdo_26oiO_2e7jHsnvGB49bCgzKE64ZCcjJEaKZ2XIk.js"></script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_HzzXlwMEg3EzodUUYRhk2Au92zRdBeP5QKEwo9UQ8OU.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/cybersecurity-capacity\/","pathPrefix":"","ajaxPageState":{"theme":"goto_theme","theme_token":"GJN6rE-hpZQpOIGuVh0hfQlh4JKfzYEUJGapH5o6jSg","jquery_version":"1.8","js":{"sites\/all\/modules\/contrib\/picture\/picturefill\/matchmedia.js":1,"sites\/all\/modules\/contrib\/picture\/picturefill\/picturefill.js":1,"sites\/all\/modules\/contrib\/picture\/picture.js":1,"sites\/all\/modules\/contrib\/eu-cookie-compliance\/js\/eu_cookie_compliance.js":1,"sites\/all\/themes\/goto_theme\/scripts\/media_queries.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.8.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"https:\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.10.2\/jquery-ui.min.js":1,"1":1,"sites\/all\/modules\/custom\/goto_content\/js\/jquery.fitvids.js":1,"sites\/all\/modules\/custom\/goto_content\/js\/goto-content.fitvideos.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/webfont\/1.4.8\/webfont.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/themes\/goto_theme\/scripts\/mobile.js":1,"sites\/all\/modules\/contrib\/google_webfont_loader_api\/google_webfont_loader_api.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/modal.js":1,"sites\/all\/modules\/contrib\/modal_forms\/js\/modal_forms_popup.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"misc\/autocomplete.js":1,"sites\/all\/modules\/custom\/goto_explore_page_feature\/js\/goto_explore_page_feature.js":1,"sites\/all\/modules\/contrib\/better_exposed_filters\/better_exposed_filters.js":1,"sites\/all\/modules\/custom\/masonry_connector\/jquery.masonry.min.js":1,"sites\/all\/modules\/custom\/masonry_connector\/masonry_connector.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/contrib\/views_flag_refresh\/views_flag_refresh.js":1,"sites\/all\/modules\/custom\/goto_tag_cloud\/main.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/modules\/contrib\/chosen\/chosen.js":1,"sites\/all\/themes\/goto_theme\/scripts\/site.js":1,"sites\/all\/themes\/goto_theme\/scripts\/jquery.dotdotdot-1.5.3-packed.js":1,"sites\/all\/themes\/goto_theme\/scripts\/jQueryRotateCompressed.2.2.js":1,"sites\/all\/themes\/goto_theme\/scripts\/waypoints.min.js":1,"sites\/all\/themes\/goto_theme\/scripts\/waypoints-infinite.min.js":1,"sites\/all\/themes\/goto_theme\/scripts\/jquery.carouFredSel-6.2.1-packed.js":1,"sites\/all\/themes\/goto_theme\/scripts\/jquery.expander.min.js":1,"sites\/all\/themes\/adaptivetheme\/at_core\/scripts\/onmediaquery.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/all\/modules\/contrib\/chosen\/css\/chosen-drupal.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"sites\/all\/modules\/contrib\/footnotes\/footnotes.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/custom\/goto_tag_cloud\/goto_tag_cloud_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/modal.css":1,"sites\/all\/modules\/contrib\/modal_forms\/css\/modal_forms_popup.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/twocol\/twocol.css":1,"0":1,"1":1,"sites\/all\/modules\/contrib\/eu-cookie-compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/contrib\/feedback_simple\/feedback_simple.css":1,"sites\/all\/themes\/adaptivetheme\/at_core\/css\/at.layout.css":1,"sites\/all\/themes\/goto_theme\/css\/global.base.css":1,"sites\/all\/themes\/goto_theme\/css\/global.styles.css":1,"sites\/all\/themes\/goto_theme\/css\/site.styles.css":1,"sites\/all\/themes\/goto_theme\/css\/site2.styles.css":1,"sites\/all\/themes\/goto_theme\/css\/cyber.styles.css":1,"sites\/all\/themes\/goto_theme\/css\/readinglists.css":1,"sites\/all\/themes\/goto_theme\/css\/print.css":1,"public:\/\/adaptivetheme\/goto_theme_files\/goto_theme.responsive.layout.css":1,"public:\/\/adaptivetheme\/goto_theme_files\/goto_theme.responsive.styles.css":1,"sites\/all\/themes\/goto_theme\/css\/lt-ie9.css":1,"sites\/all\/themes\/goto_theme\/css\/ie9.css":1}},"CToolsModal":{"loadingText":"Loading...","closeText":"Close Window","closeImage":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022image-style-none\u0022 src=\u0022https:\/\/www.sbs.ox.ac.uk\/cybersecurity-capacity\/sites\/all\/modules\/contrib\/ctools\/images\/icon-close-window.png\u0022 alt=\u0022Close window\u0022 title=\u0022Close window\u0022 \/\u003E","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022image-style-none\u0022 src=\u0022https:\/\/www.sbs.ox.ac.uk\/cybersecurity-capacity\/sites\/all\/modules\/contrib\/ctools\/images\/throbber.gif\u0022 alt=\u0022Loading\u0022 title=\u0022Loading...\u0022 \/\u003E"},"modal-popup-small":{"modalSize":{"type":"fixed","width":300,"height":300},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022image-style-none\u0022 src=\u0022https:\/\/www.sbs.ox.ac.uk\/cybersecurity-capacity\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-medium":{"modalSize":{"type":"fixed","width":550,"height":450},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022image-style-none\u0022 src=\u0022https:\/\/www.sbs.ox.ac.uk\/cybersecurity-capacity\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"modal-popup-large":{"modalSize":{"type":"scale","width":0.8,"height":0.8},"modalOptions":{"opacity":0.85,"background":"#000"},"animation":"fadeIn","modalTheme":"ModalFormsPopup","throbber":"\u003Cimg typeof=\u0022foaf:Image\u0022 class=\u0022image-style-none\u0022 src=\u0022https:\/\/www.sbs.ox.ac.uk\/cybersecurity-capacity\/sites\/all\/modules\/contrib\/modal_forms\/images\/loading_animation.gif\u0022 alt=\u0022Loading...\u0022 title=\u0022Loading\u0022 \/\u003E","closeText":"Close"},"better_exposed_filters":{"datepicker":false,"slider":false,"settings":[]},"chosen":{"selector":"select#edit-og-user-node-und-0-default,select#edit-og-user-node-und-0-admin,select#edit-field-access-groups-und-0-default,select#edit-field-access-groups-und-0-admin","minimum_single":20,"minimum_multiple":0,"minimum_width":300,"options":{"disable_search":false,"disable_search_threshold":25,"search_contains":false,"placeholder_text_multiple":"Please select options from the list.","placeholder_text_single":"Please select one option.","no_results_text":"No results match","inherit_select_classes":true}},"exploreGroups":{"all":null},"masonry_connector":{"views":{"explore-default":{"name":"explore","display":"default","options":{"animate":1,"grid_width":240,"grid_height":270,"grid_margin":3}}}},"views":{"ajax_path":"\/cybersecurity-capacity\/views\/ajax","ajaxViews":{"views_dom_id:8ca1a05ed74d2381c16d28eb3685b1ea":{"view_name":"explore","view_display_id":"default","view_args":"4600","view_path":"explore\/home","view_base_path":"old_explore","view_dom_id":"8ca1a05ed74d2381c16d28eb3685b1ea","pager_element":0}}},"viewsFlagRefresh":{"imagePath":"\/cybersecurity-capacity\/sites\/all\/modules\/contrib\/views_flag_refresh\/images"},"gotoTagCloud":{"tags":[]},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":1,"popup_hide_agreed":1,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n     \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOK, I agree\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, give me more info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n       \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n     \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore info\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cybersecurity-capacity\/cookie_policy","popup_link_new_window":1,"popup_position":null,"popup_language":"en","domain":""},"extlink":{"extTarget":"_blank","extClass":0,"extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ogContext":{"groupType":"node","gid":"4600"},"adaptivetheme":{"goto_theme":{"layout_settings":{"bigscreen":"three-col-grail","tablet_landscape":"three-col-grail","tablet_portrait":"one-col-vert","smalltouch_landscape":"one-col-vert","smalltouch_portrait":"one-col-stack"},"media_query_settings":{"bigscreen":"only screen and (min-width:1025px)","tablet_landscape":"only screen and (min-width:769px) and (max-width:1024px)","tablet_portrait":"only screen and (min-width:481px) and (max-width:768px)","smalltouch_landscape":"only screen and (min-width:321px) and (max-width:480px)","smalltouch_portrait":"only screen and (max-width:320px)"}}},"google_webfont_loader_api_setting":{"google":{"families":["Oswald:300","Oswald:400","Oswald:700"]}}});</script>
+<!--[if lt IE 9]>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/all/themes/adaptivetheme/at_core/scripts/html5.js?nnkkg4"></script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/all/themes/adaptivetheme/at_core/scripts/respond.js?nnkkg4"></script>
+<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-explore page-explore-home og-context og-context-node og-context-node-4600 atr-7.x-3.x atv-7.x-3.0 page-panels role-anonymous-user mac page-explore">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page" class="container page">
+
+  <!-- region: Leaderboard -->
+  
+  <header id="header" class="clearfix" role="banner">
+
+    <div id="header_content">
+      
+                      <!-- start: Site name and Slogan hgroup -->
+            <hgroup class="h-group" id="name-and-slogan">
+
+              
+            </hgroup><!-- /end #name-and-slogan -->
+          
+          <div id="site-logos">
+                        <a id="gcscc-logo" class="site-logo" target="_blank" href="http://www.oxfordmartin.ox.ac.uk/cybersecurity">
+              <img src="/cybersecurity-capacity/sites/all/themes/goto_theme/images/logos/gcscc.png" alt="Global Cyber Security Capacity Centre - main site" />
+            </a>
+            <a id="martin-school-logo" class="site-logo" target="_blank" href="http://www.oxfordmartin.ox.ac.uk/">
+              <img src="/cybersecurity-capacity/sites/all/themes/goto_theme/images/logos/oms.png" alt="Oxford Martin School - main site" />
+            </a>
+            <a id="sbs-logo" class="site-logo" target="_blank" href="http://www.sbs.ox.ac.uk/">
+              <img src="/cybersecurity-capacity/sites/all/themes/goto_theme/images/logos/sbs.png" alt="Saïd Business School - main site" />
+            </a>
+            <a id="oxford-logo" class="site-logo" target="_blank" href="http://www.ox.ac.uk/">
+              <img src="/cybersecurity-capacity/sites/all/themes/goto_theme/images/logos/oxford.png" alt="University of Oxford - main site" />
+            </a>
+          </div>
+
+                      <h1 id="site-name"><a href="/cybersecurity-capacity/" title="Home page">Cybersecurity Capacity Portal</a></h1>
+          
+          </div>
+    <!-- region: Header -->
+    <div class="region region-header"><div class="region-inner clearfix"><div id="block-goto-topics-feature-topic-selector-block" class="block block-goto-topics-feature no-title" ><div class="block-inner clearfix">  
+  
+  <div class="block-content content"><form action="/cybersecurity-capacity/explore/home" method="post" id="topic-selector-block-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-O44v8mddRAJWnr6AMgKEBUD81dY1abj0LFmSV52xAsY" />
+<input type="hidden" name="form_id" value="topic_selector_block_form" />
+</div></form></div>
+  </div></div></div></div>
+  </header>
+
+  <!-- Navigation elements -->
+    <div id="main_menu">
+    <div class="inner">
+            <ul id="sub-nav" class="sub-nav"><li class="menu-141241 first active"><span><a href="/cybersecurity-capacity/explore/home" class="active">Home</a></span></li>
+<li class="menu-141246"><span><a href="/cybersecurity-capacity/explore/threats">Issues and Threats</a></span></li>
+<li class="menu-141251"><span><a href="/cybersecurity-capacity/explore/regions">Regions</a></span></li>
+<li class="menu-141256"><span><a href="/cybersecurity-capacity/explore/capacity_dimensions">Capacity dimensions</a></span></li>
+<li class="menu-141261"><span><a href="/cybersecurity-capacity/explore/gfce">GFCE</a></span></li>
+<li class="menu-141266 last"><span><a href="/cybersecurity-capacity/events">Events</a></span></li>
+</ul><div class="inner buger-menu">
+            </div>
+      
+              <div id="login"><a href="/cybersecurity-capacity/login">Login</a></div>
+        <div id="search-link"><a href="/cybersecurity-capacity/search">Search</a></div>
+            <div class="cb"></div>
+    </div>
+  </div>
+
+  <!-- Breadcrumbs -->
+  
+  <!-- Messages and Help -->
+    
+  <!-- region: Secondary Content -->
+  
+  <div id="columns" class="columns clearfix">
+    <div id="content-column" class="content-column" role="main">
+      <div class="content-inner">
+
+        <!-- region: Highlighted -->
+        
+        <div id="main-content">
+
+          
+          
+          <!-- region: Main Content -->
+                      <div id="content" class="region">
+              <div id="block-system-main" class="block block-system no-title" >  
+  
+  <div class="one-column at-panel panel-display clearfix" >
+  <div class="region region-one-main">
+    <div class="region-inner clearfix">
+      <div class="panel-pane pane-panels-mini pane-explore-front-page-panel explore-introduction no-title block odd">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="panel-display panel-2col clearfix" id="mini-panel-explore_front_page_panel">
+  <div class="panel-panel panel-col-first">
+    <div class="inside"><div class="panel-pane pane-node-body no-title block odd">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-_custom_display"><div class="field-items"><div class="field-item even" property="content:encoded"> <h3>Building cyber security capacity through this site</h3>
+<p>Welcome. This portal is a global resource for cyber security capacity building and how best to achieve it. It is also an online space for sharing experiences, best practice, and new developments. It contains information for policy-makers and those with responsibility in this area and has been created by the Global Cyber Security Capacity Centre with the Said Business School, University of Oxford.&nbsp;This site is split into sections and <a href="http://www.sbs.ox.ac.uk/cybersecurity-capacity/content/portal-how-guide">this guide</a> explains how it works. Otherwise please browse the subject areas on the tabs above or the navigation on the right.&nbsp;</p>
+<p><strong>NEW: The Global Forum on Cyber Expertise (GFCE)</strong></p>
+<p>We are pleased to announce a partnership with <a href="http://www.sbs.ox.ac.uk/cybersecurity-capacity/explore/gfce">The Global Forum on Cyber Expertise (GFCE),</a> a new global platform that contributes to cyber capacity building. The GFCE stimulates sharing of expertise and best practices, identification of innovative solutions to challenges and stimulates funding streams in the field of cyber security, cybercrime, data protection and e-Governance. The GFCE was launched on 16&nbsp;April at <a href="https://www.gccs2015.com/">GCCS2015</a>.</p>
+ </div></div></div>    </div>
+
+    
+    
+  </div>
+</div>
+</div>
+  </div>
+
+  <div class="panel-panel panel-col-last">
+    <div class="inside"><div class="panel-pane pane-node-body explore-page-button-wrapper no-title block even">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden view-mode-_custom_display"><div class="field-items"><div class="field-item even" property="content:encoded"> <ul>
+<li><span class="explore-page-button-title"><a href="http://www.sbs.ox.ac.uk/cybersecurity-capacity/explore/home?type=model">Evaluating Cyber Security Capacity</a></span> <span class="explore-page-button-text"><a href="http://www.sbs.ox.ac.uk/cybersecurity-capacity/explore/home?type=model">A Cyber Capability Maturity Model (CMM) to understand and measure existing practice&nbsp;and how to enhance it</a>.</span></li>
+<li><span class="explore-page-button-title"><a href="http://www.sbs.ox.ac.uk/cybersecurity-capacity/explore/capacity_dimensions">A Multi-Dimensional Concept</a></span> <span class="explore-page-button-text"><a href="http://www.sbs.ox.ac.uk/cybersecurity-capacity/explore/capacity_dimensions">This portal divides cybersecurity capacity into five different areas or &lsquo;Capacity Dimensions&rsquo; &ndash; find out more about these here.</a></span></li>
+<li><span class="explore-page-button-title"><a href="http://www.sbs.ox.ac.uk/cybersecurity-capacity/explore/home?tid=GCSCC">Centre Products</a></span> <span class="explore-page-button-text"><a href="http://www.sbs.ox.ac.uk/cybersecurity-capacity/explore/home?tid=GCSCC">Papers, case studies and discussions from the Global Cyber Security Capacity Centre.</a></span></li>
+</ul>
+ </div></div></div>    </div>
+
+    
+    
+  </div>
+</div>
+</div>
+  </div>
+</div>
+    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-list-switcher no-title block even">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="explore-list-switcher"><span class="title">Switch</span><div class="buttons"><div class="switch-button switch-button-grid"><a href="/cybersecurity-capacity/explore/home">Grid</a></div><div class="switch-arrows"></div><div class="switch-button switch-button-list"><a href="/cybersecurity-capacity/explore-list/home">List</a></div></div></div>    </div>
+
+    
+    
+  </div>
+</div>
+<div class="panel-separator"></div><div class="panel-pane pane-goto-custom-views no-title block odd">
+  <div class="block-inner clearfix">
+    
+            
+    
+    <div class="block-content">
+      <div class="view view-explore view-id-explore view-display-id-default view-dom-id-8ca1a05ed74d2381c16d28eb3685b1ea">
+        
+      <div class="view-filters">
+      <form action="/cybersecurity-capacity/explore/home" method="get" id="views-exposed-form-explore-default" accept-charset="UTF-8"><div>
+ 
+<div class="views-exposed-form">
+
+  
+    <div class="group-filters explore-pages-custom-filters visible-2 single-filter-hidden">
+      <div class="group-filter-wrap">
+        <div class="group-filter group-access public">
+          <label class="group-visibility" data-visibility="" user-visibility="All" draft-visibility="All">Global</label>
+          <div class="arrow"></div>
+        </div>
+    </div>
+
+    
+    
+    
+        <div class="group-filter-slider single-filter-hidden">
+      <div class="drag"></div>
+    </div>
+
+
+  </div>
+
+
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-flagged-wrapper" class="views-exposed-widget views-widget-filter-flagged">
+                  <label for="edit-flagged">
+            Show unread          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-flagged">
+ <select id="edit-flagged" name="flagged" class="form-select"><option value="All" selected="selected">- Any -</option><option value="1">True</option><option value="0">False</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-og-vocabulary-target-id-wrapper" class="views-exposed-widget views-widget-filter-og_vocabulary_target_id">
+                        <div class="views-widget">
+          <input type="hidden" name="og_vocabulary_target_id" value="" />
+        </div>
+              </div>
+          <div id="edit-type-wrapper" class="views-exposed-widget views-widget-filter-type">
+                  <label for="edit-type">
+            Type          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-type">
+ <select id="edit-type" name="type" class="form-select"><option value="All" selected="selected">- Any -</option><option value="article">Article</option><option value="case_study">Case Study</option><option value="discussion">Discussion</option><option value="company_sponsored">Industry Insight</option><option value="link">Link</option><option value="model">Model</option><option value="post">Post</option><option value="video">Video</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-tid-wrapper" class="views-exposed-widget views-widget-filter-tid">
+                  <label for="edit-tid">
+            Has taxonomy term          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-tid">
+ <input type="text" id="edit-tid" name="tid" value="" size="60" maxlength="128" class="form-text form-autocomplete" /><input type="hidden" id="edit-tid-autocomplete" value="https://www.sbs.ox.ac.uk/cybersecurity-capacity/admin/views/ajax/autocomplete/taxonomy/3" disabled="disabled" class="autocomplete" />
+</div>
+        </div>
+              </div>
+          <div id="edit-status-wrapper" class="views-exposed-widget views-widget-filter-status">
+                  <label for="edit-status">
+            Published          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-status">
+ <select id="edit-status" name="status" class="form-select"><option value="All" selected="selected">- Any -</option><option value="1">Yes</option><option value="0">No</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-uid-current-wrapper" class="views-exposed-widget views-widget-filter-uid_current">
+                  <label for="edit-uid-current">
+            Is the logged in user          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-uid-current">
+ <select id="edit-uid-current" name="uid_current" class="form-select"><option value="All" selected="selected">- Any -</option><option value="1">Yes</option><option value="0">No</option></select>
+</div>
+        </div>
+              </div>
+          <div id="edit-gid-1-wrapper" class="views-exposed-widget views-widget-filter-gid_1">
+                  <label for="edit-gid-1">
+            Group ID          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-textfield form-item-gid-1">
+ <input type="text" id="edit-gid-1" name="gid_1" value="-1" size="30" maxlength="128" class="form-text" />
+</div>
+        </div>
+              </div>
+          <div id="edit-sort-bef-combine-wrapper" class="views-exposed-widget views-widget-sort-sort_bef_combine">
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-sort-bef-combine">
+  <label for="edit-sort-bef-combine">Sort by </label>
+ <select id="edit-sort-bef-combine" name="sort_bef_combine" class="form-select"><option value="field_article_energy_radioactivity_energy ASC">Least active</option><option value="field_article_energy_radioactivity_energy DESC" selected="selected">Most active</option><option value="created ASC">Oldest</option><option value="created DESC">Latest</option></select>
+</div>
+        </div>
+              </div>
+        
+            <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-explore" name="" value="Go" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+      	
+<article id="node-6956" class="node node-post article tile_type-post views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/coming-soon-new-gfce-zone-and-map" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Post</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/coming-soon-new-gfce-zone-and-map"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/GFCE%20map%20extract.jpg?itok=p34inRmt"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/GFCE%20map%20extract.jpg?itok=ZSukhcbu"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/GFCE%20map%20extract.jpg?itok=p34inRmt" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/coming-soon-new-gfce-zone-and-map" rel="bookmark">Coming soon - New GFCE zone and map</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/coming-soon-new-gfce-zone-and-map#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="Coming soon - New GFCE zone and map" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-6981" class="node node-post article tile_type-post views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/oas-and-estonia-promote-exchange-best-practices-cyber-security" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Post</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/oas-and-estonia-promote-exchange-best-practices-cyber-security"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/OAS_logo.jpg?itok=JbeZtSVi"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/OAS_logo.jpg?itok=V2hLqCvD"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/OAS_logo.jpg?itok=JbeZtSVi" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/oas-and-estonia-promote-exchange-best-practices-cyber-security" rel="bookmark">OAS and Estonia Promote Exchange of Best Practices on Cyber Security</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/oas-and-estonia-promote-exchange-best-practices-cyber-security#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="OAS and Estonia Promote Exchange of Best Practices on Cyber Security" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-6951" class="node node-post article tile_type-post views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/global-forum-cyber-expertise" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Post</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/global-forum-cyber-expertise"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/GCCS.jpg?itok=_pnppCaT"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/GCCS.jpg?itok=iLmibWTf"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/GCCS.jpg?itok=_pnppCaT" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/global-forum-cyber-expertise" rel="bookmark">The Global Forum on Cyber Expertise</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/global-forum-cyber-expertise#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="The Global Forum on Cyber Expertise" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-7036" class="node node-article article tile_type-article views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/gppi-new-america-csirt-basics-policy-makers-history-types-culture-computer-security-incident" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Article</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/gppi-new-america-csirt-basics-policy-makers-history-types-culture-computer-security-incident"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/Capture_48.GIF?itok=XPUj92UM"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/Capture_48.GIF?itok=0rPOTRa5"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/Capture_48.GIF?itok=XPUj92UM" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/gppi-new-america-csirt-basics-policy-makers-history-types-culture-computer-security-incident" rel="bookmark">GPPi / New America - CSIRT Basics for Policy-Makers   The History, Types &amp;amp; Culture  of Computer Security Incident  Response Teams</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/gppi-new-america-csirt-basics-policy-makers-history-types-culture-computer-security-incident#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="GPPi / New America - CSIRT Basics for Policy-Makers   The History, Types &amp;amp; Culture  of Computer Security Incident  Response Teams" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-7011" class="node node-link article tile_type-link views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/unodc-cybercrime-repository" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Link</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/unodc-cybercrime-repository"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/UNODC.gif?itok=6T50NtvV"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/UNODC.gif?itok=VaEEuLzf"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/UNODC.gif?itok=6T50NtvV" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/unodc-cybercrime-repository" rel="bookmark">UNODC - Cybercrime Repository</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/unodc-cybercrime-repository#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="UNODC - Cybercrime Repository" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-6961" class="node node-article article tile_type-article views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/use-internet-and-related-services-private-life-and-data-protection-trends-and-technologies" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Article</span>
+            <div class="cb"></div>
+    </div>
+        
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/use-internet-and-related-services-private-life-and-data-protection-trends-and-technologies" rel="bookmark">The use of the Internet and related services, private life and data protection: trends and technologies, threats and implications</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+      <a href="/cybersecurity-capacity/content/use-internet-and-related-services-private-life-and-data-protection-trends-and-technologies" class="field tile-description">Council of Europe report on &quot;The use of the Internet &amp; related services, private life &amp; data protection&quot;</a>          </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/use-internet-and-related-services-private-life-and-data-protection-trends-and-technologies#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="The use of the Internet and related services, private life and data protection: trends and technologies, threats and implications" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-7006" class="node node-article article tile_type-article views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/cyber-security-and-age-privateering" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Article</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/cyber-security-and-age-privateering"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/Untitled-3.jpg?itok=8Xckir5V"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/Untitled-3.jpg?itok=Jb6EoR00"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/Untitled-3.jpg?itok=8Xckir5V" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/cyber-security-and-age-privateering" rel="bookmark">Cyber Security and the Age of Privateering</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/cyber-security-and-age-privateering#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="Cyber Security and the Age of Privateering" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-7026" class="node node-article article tile_type-article views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/europol-and-ccis-norway-join-forces-combating-cybercrime" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Article</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/europol-and-ccis-norway-join-forces-combating-cybercrime"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/311vqPR7b-L.jpg?itok=255q5w86"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/311vqPR7b-L.jpg?itok=NSxlK8BT"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/311vqPR7b-L.jpg?itok=255q5w86" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/europol-and-ccis-norway-join-forces-combating-cybercrime" rel="bookmark">Europol and CCIS Norway join forces in combating cybercrime</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/europol-and-ccis-norway-join-forces-combating-cybercrime#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="Europol and CCIS Norway join forces in combating cybercrime" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-4656" class="node node-video article tile_type-video views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/aims-global-cyber-security-capacity-centre" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Video</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/aims-global-cyber-security-capacity-centre"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/Sadievideo.jpg?itok=X8lvCVr_"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/Sadievideo.jpg?itok=SHOa-X3B"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/Sadievideo.jpg?itok=X8lvCVr_" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/aims-global-cyber-security-capacity-centre" rel="bookmark">Aims of the Global Cyber Security Capacity Centre</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/aims-global-cyber-security-capacity-centre#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="Aims of the Global Cyber Security Capacity Centre" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-6931" class="node node-link article tile_type-link views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/cabinet-office-cyber-first-improving-cyber-skills-uk" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Link</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/cabinet-office-cyber-first-improving-cyber-skills-uk"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/s216_Francis_Maude_v2.jpg?itok=AzroRI0E"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/s216_Francis_Maude_v2.jpg?itok=OWTCdPOa"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/s216_Francis_Maude_v2.jpg?itok=AzroRI0E" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/cabinet-office-cyber-first-improving-cyber-skills-uk" rel="bookmark">Cabinet Office - Cyber First: improving cyber skills in the UK</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/cabinet-office-cyber-first-improving-cyber-skills-uk#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="Cabinet Office - Cyber First: improving cyber skills in the UK" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-6926" class="node node-link article tile_type-link views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/cesg-principles-effective-cyber-security-risk-management" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Link</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/cesg-principles-effective-cyber-security-risk-management"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/logo-cesg.jpg?itok=5qzdnYNn"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/logo-cesg.jpg?itok=rjhKgW3R"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/logo-cesg.jpg?itok=5qzdnYNn" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/cesg-principles-effective-cyber-security-risk-management" rel="bookmark">CESG - Principles of effective cyber security risk management</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/cesg-principles-effective-cyber-security-risk-management#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="CESG - Principles of effective cyber security risk management" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+	
+<article id="node-6921" class="node node-article article tile_type-article views-masonry-row node-tile clearfix" about="/cybersecurity-capacity/content/uk-%E2%80%93-information-security-breaches-survey-2014" typeof="sioc:Item foaf:Document" role="article">
+  <div class="node-inner">
+    <div class="tile-type">
+      <span>Article</span>
+            <div class="cb"></div>
+    </div>
+    <div class="field field-name-field-article-tile-image field-type-image field-label-hidden view-mode-tile"><div class="field-items"><figure class="clearfix field-item even"><a href="/cybersecurity-capacity/content/uk-%E2%80%93-information-security-breaches-survey-2014"><span data-picture="">
+<span data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/british_government_identity.png?itok=6_FT0N93"  data-width="234" data-height="127"></span>
+<span data-media="only screen and (max-width:320px)" data-src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image_custom_user_smartphone_portrait_1x/public/british_government_identity.png?itok=UumRXfMc"  data-width="290" data-height="127"></span>
+<noscript><img typeof="foaf:Image" class="image-style-tile-image" src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/styles/tile_image/public/british_government_identity.png?itok=6_FT0N93" width="234" height="127" /></noscript>
+</span></a></figure></div></div>    
+          <header class="node-header">
+                  <h1 class="node-title">
+            <a href="/cybersecurity-capacity/content/uk-%E2%80%93-information-security-breaches-survey-2014" rel="bookmark">UK – Information Security Breaches Survey 2014</a>
+          </h1>
+              </header>
+    
+
+    <div class="node-content">
+                </div>
+  </div>
+
+      <nav class="clearfix">
+      <div class="nav-inner">
+                <div class="tile-flags">
+         <ul class="links">
+          <li></li>
+          <li></li>
+         </ul>
+        </div>
+        <div class="comment-count">
+          <a href="/cybersecurity-capacity/content/uk-%E2%80%93-information-security-breaches-survey-2014#comments">0 Comments</a>
+        </div>
+        <div class="cb"></div>
+      </div>
+    </nav>
+  
+  <span property="dc:title" content="UK – Information Security Breaches Survey 2014" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span></article>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list item-list-pager"><ul class="pager"><li class="pager-current even first">1</li><li class="pager-item odd"><a title="Go to page 2" href="/cybersecurity-capacity/explore/home?flagged=All&amp;og_vocabulary_target_id=&amp;type=All&amp;tid=&amp;status=All&amp;uid_current=All&amp;gid_1=-1&amp;sort_bef_combine=field_article_energy_radioactivity_energy%20DESC&amp;sort_order=DESC&amp;sort_by=field_article_energy_radioactivity_energy&amp;page=1">2</a></li><li class="pager-item even"><a title="Go to page 3" href="/cybersecurity-capacity/explore/home?flagged=All&amp;og_vocabulary_target_id=&amp;type=All&amp;tid=&amp;status=All&amp;uid_current=All&amp;gid_1=-1&amp;sort_bef_combine=field_article_energy_radioactivity_energy%20DESC&amp;sort_order=DESC&amp;sort_by=field_article_energy_radioactivity_energy&amp;page=2">3</a></li><li class="pager-item odd"><a title="Go to page 4" href="/cybersecurity-capacity/explore/home?flagged=All&amp;og_vocabulary_target_id=&amp;type=All&amp;tid=&amp;status=All&amp;uid_current=All&amp;gid_1=-1&amp;sort_bef_combine=field_article_energy_radioactivity_energy%20DESC&amp;sort_order=DESC&amp;sort_by=field_article_energy_radioactivity_energy&amp;page=3">4</a></li><li class="pager-item even"><a title="Go to page 5" href="/cybersecurity-capacity/explore/home?flagged=All&amp;og_vocabulary_target_id=&amp;type=All&amp;tid=&amp;status=All&amp;uid_current=All&amp;gid_1=-1&amp;sort_bef_combine=field_article_energy_radioactivity_energy%20DESC&amp;sort_order=DESC&amp;sort_by=field_article_energy_radioactivity_energy&amp;page=4">5</a></li><li class="pager-ellipsis odd">…</li><li class="pager-next even"><a title="Go to next page" href="/cybersecurity-capacity/explore/home?flagged=All&amp;og_vocabulary_target_id=&amp;type=All&amp;tid=&amp;status=All&amp;uid_current=All&amp;gid_1=-1&amp;sort_bef_combine=field_article_energy_radioactivity_energy%20DESC&amp;sort_order=DESC&amp;sort_by=field_article_energy_radioactivity_energy&amp;page=1">next ›</a></li><li class="pager-last odd last"><a title="Go to last page" href="/cybersecurity-capacity/explore/home?flagged=All&amp;og_vocabulary_target_id=&amp;type=All&amp;tid=&amp;status=All&amp;uid_current=All&amp;gid_1=-1&amp;sort_bef_combine=field_article_energy_radioactivity_energy%20DESC&amp;sort_order=DESC&amp;sort_by=field_article_energy_radioactivity_energy&amp;page=28">last »</a></li></ul></div>  
+  
+  
+  
+  
+</div>    </div>
+
+    
+    
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+
+  </div>            </div>
+          
+          <!-- Feed icons (RSS, Atom icons etc -->
+          
+          
+        </div><!-- /end #main-content -->
+
+        <!-- region: Content Aside -->
+        
+      </div><!-- /end .content-inner -->
+    </div><!-- /end #content-column -->
+
+    <!-- regions: Sidebar first and Sidebar second -->
+        
+  </div><!-- /end #columns -->
+
+  <!-- region: Tertiary Content -->
+  
+<!-- region: Footer -->
+  
+  <footer>
+    <ul class="links"><li class="menu-10378 first"><span><a href="/cybersecurity-capacity/terms_and_conditions">Terms and conditions</a></span></li>
+<li class="menu-10379"><span><a href="/cybersecurity-capacity/privacy_policy">Privacy and Data Protection</a></span></li>
+<li class="menu-10380"><span><a href="/cybersecurity-capacity/cookie_policy">Cookie policy</a></span></li>
+<li class="menu-126611"><span><a href="/cybersecurity-capacity/rss/all" class="rss-icon" target="_blank">Feed</a></span></li>
+<li class="menu-126616 last"><span><a href="/cybersecurity-capacity/ical/events" class="rss-icon" target="_blank">Events (ical)</a></span></li>
+</ul>  </footer>
+</div>
+
+  <div class="region region-page-bottom"><div class="region-inner clearfix"><div id='feedback_simple'>
+  <a
+    href='/cybersecurity-capacity/feedback'
+    target='_self'
+    class='feedback_simple-right feedback_simple ctools-use-modal ctools-modal-modal-popup-medium'
+    style='top: 75%; height: 100px; width: 35px;'>
+      <img
+        alt='Feedback'
+        src='/cybersecurity-capacity/sites/all/modules/custom/goto_feedback_form/feedback_tab.gif'
+        height='100'
+        width='35' />
+  </a>
+</div>
+</div></div><script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_0Gb9DbjEZg0hw9Z2y5jlOKR6SHh-4yiQiQf19GxCm6w.js"></script>
+<script src="https://www.sbs.ox.ac.uk/cybersecurity-capacity/sites/default/files/js/js_ui1cBk54qu-MqNhzh95NUzt7breMJHxRoHpTJuMUDAQ.js"></script>
+</body>
+</html>

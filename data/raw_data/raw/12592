@@ -1,0 +1,880 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb"><!-- InstanceBegin template="/Templates/newlaw.dwt.php" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="headfix_before_php" --><!-- InstanceEndEditable -->
+<script type="text/javascript" src="/scripts/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/scripts/InputPrompt.js"></script>
+
+<link rel="shortcut icon" href="../images/favicon.ico" />
+
+<link href="/styles/print.css" type="text/css" rel="stylesheet" media="print" />
+<link href="/styles/main.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="/thistheme.css" type="text/css" rel="stylesheet" media="screen" />
+<link href="/menu.css" media="screen" rel="stylesheet" type="text/css" />  
+
+<script type="text/javascript" src="/scripts/showHide.js"></script>
+<script type="text/javascript" src="http://api.html5media.info/1.1.5/html5media.min.js"></script> 
+<script type="text/javascript">
+// required for popbox to show popped box at the correct y point
+//var yAxisOffset = 120;
+//var posX = (window_width / 2) + 166) + 152;
+var xAxisOffset = -159;
+var yAxisOffset = 272;
+</script>
+<script type="text/javascript" src="/scripts/popbox.js"></script>
+<!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />--> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<!-- InstanceBeginEditable name="title" -->
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+#contentbox table p {margin-left: 0.5em ; margin-top: 0.5ex ;margin-bottom: 0.5ex ;}
+.leftcolumn table, .rightcolumn table {margin: auto; }
+caption {margin-bottom: 1.0ex; font-weight: normal; color: #000;}
+div#outlinks {margin: 4ex 2em 0ex 4em; padding-top: 2ex; border-top: #000 dotted 1px;}
+</style>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Oxford Law :: Eldon Scholarship Award Holders since 1919</title>
+<!-- InstanceEndEditable -->
+</head>
+<body>
+
+
+<!-- start of main body panel -->
+
+
+<div class="content-block" id="banner">
+<div style="float:left; position: relative; background: url('/images/banner.jpg') no-repeat; width: 960px; height: 120px;">
+
+<a href="http://www.ox.ac.uk/" style="width: 103px; height: 103px; border: 0; position: absolute; top: 7px; left: 14px;"></a>
+
+<a href="/" style="width: 103px; height: 103px; border: 0; position: absolute; top: 7px; left: 130px;"></a>
+
+</div>
+
+
+
+<div id="search">
+<!-- Google CSE Search Box Begins  -->
+	<form id="searchform" method="put" action="http://search.ox.ac.uk/search">
+		<fieldset>
+			<input name="UnitPicture" type="hidden" value="http://www.oucs.ox.ac.uk/googlesearch/radcliffe.jpg" />
+            <input name="client" value="oxford" type="hidden" />
+			<input name="proxystylesheet" value="law" type="hidden" />
+			<input name="output" value="xml_no_dtd" type="hidden" />
+      		<input name="q" id="input-search" size="20" class="text" onfocus="clearsearch();" maxlength="255" placeholder="search for…" />
+      		<!--<input name="q" id="input-search" size="20" class="text" value="search" onfocus="if (this.value == 'Search') this.value = '';" onblur="if (this.value == '') this.value = 'Search';" maxlength="255" placeholder="search for…" /> -->
+			<input name="Unit" value="Law" type="hidden" />
+			<input name="site" value="law" type="hidden" />
+			<input name="Go" type="submit" value="Go" class="btn" onmouseover="this.className='btn btnover'" onmouseout="this.className='btn'"  />
+	    </fieldset>
+	</form><!-- Google CSE Search Box Ends -->
+               
+</div><!-- end of search -->
+
+
+</div><!-- end of content-block banner -->
+<div class="content-block">
+<!--<div id="mission" >
+	<p>number one for law in <strong>The Guardian</strong> University Guide 2013</p>
+</div> --><!-- end of mission -->
+</div><!-- end of content-block -->
+<div class="content-block">
+	<!-- fmt dropdown start -->
+	<div id="menu">
+    <ul id="nav2" class="fmt_dropdown"> 
+
+	<li class="dir first"><a href="/index.php">home</a>
+		<ul>
+			<li class="first"><a href="/news.php">news</a></li>
+            <li><a href="/events.php">forthcoming events</a></li>
+            <li class="last"><a href="/events.php?prev=old">previous events</a></li>
+		</ul>
+	</li>
+
+<!-- NEW TOP-LEVEL HEADING -->
+	<li class="dir"><a href="/about_the_faculty.php" title="An introduction and overview by The Dean of The Faculty">about</a>
+		<ul class='sub1'>
+            <li class="first"><a href="/about/organization.php">organization</a></li>
+            <li><a href="/about/centres.php">centres</a></li>
+		  <li><a href="/libraries_and_computing.php">libraries and computing</a></li>
+	  <li class="dir"><a href="/publications.php">publications</a>
+                <ul class='sub2'>
+                    <li class="first"><a href="/publications/ojls.php">oxford journal of legal studies</a></li>
+                    <li><a href="/publications/ouclj.php">ou commonwealth law journal</a></li>
+                    <li><a href="/publications/oclf.php">ou comparative law forum</a></li>
+                    <li><a href="/publications/oscola.php">oscola</a></li>
+                    <li><a href="/publications/law_news.php">oxford law news</a></li>
+                    <li><a href="/publications/ssrn.php">oxford law on ssrn</a></li>
+                    <li class="last"><a href="/publications/handbooks.php">handbooks</a></li>
+				</ul>
+		  </li>
+	  <li class="dir"><a href="/publications_faculty/publications_by_faculty_members.php">publications by faculty members</a>
+				<ul class='sub2'>
+                    <li class="first"><a href="/publications_faculty/books.php">recent books</a></li>
+                    <li><a href="/publications_faculty/journals.php">recent journal articles</a></li>
+                    <li class="last"><a href="/publications_faculty/other.php">other recent output</a></li>
+                </ul>
+		  </li>
+		  <li><a href="/links.php">links with other institutions</a></li>
+		  <li><a href="/vacancies.php">vacancies</a></li>
+		  <li><a href="/contact.php">contact us</a></li>
+		</ul>
+
+<!-- NEW TOP-LEVEL HEADING -->
+	<li class="dir"><a href="/people.php" title="(includes a link to our Academic Visitors Programme page)">people</a>
+        <ul class='sub1'>
+	        <li class="first"><a href="/people/academics.php" title="includes Research Staff, Research Fellows, Visiting Professors">academics</a></li>
+	        <li><a href="/people/grad_students.php" title="Research Students studying in the Faculty and its Centres">research students</a></li>
+    	    <li><a href="/people/other_staff.php" title="includes HR, Finance, Student Admin, and IT Staff">administrative staff</a></li>
+    	    <li class="last"><a href="/people/officers.php" title="committe posts etc., held by academic staff">faculty officers</a></li>
+            
+        </ul>
+	</li>
+    <li class="dir"><a href="/studying_here.php">study</a>
+      <ul class='sub1'>
+            <li class="dir first"><a href="/undergraduate_study.php">undergraduate study</a>
+                <ul class='sub2'>
+                    <li class="first"><a href="/undergraduate/programmes.php">programmes</a></li>
+                    <li><a href="/undergraduate/admissions.php">admissions</a></li>
+                    <li class="last"><a href="/undergraduate/prizes.php">undergraduate prizes</a></li>
+                </ul>
+			</li>
+		    <li class="dir"><a href="/postgraduate_study.php">postgraduate study</a>
+                <ul class='sub2'>
+                    <li class="first"><a href="/postgraduate/taught.php">taught programmes</a></li>
+                    <li><a href="/postgraduate/research.php">research programmes</a></li>
+                    <li><a href="/postgraduate/discussion_groups.php">discussion groups</a></li>
+                    <li><a href="/postgraduate/nonlaw.php">for non-law graduates</a></li>
+                    <li><a href="/postgraduate/scholarships.php">scholarships and funding</a></li>
+                    <li><a href="/postgraduate/prizes.php">postgraduate prizes</a></li>
+                    <li class="last"><a href="/postgraduate/admissions.php">admissions</a></li>
+                </ul>
+			</li>
+			<li><a href="/bodleian_law_library.php">bodleian law library</a></li>
+			<li><a href="/mooting/index.php">mooting</a></li>
+			<li class="dir"><a href="/pro_bono.php">pro bono</a>
+                <ul class='sub2'>
+                    <li class="first"><a href="/ola/index.php">oxford legal assistance</a></li>
+                    <li class="last"><a href="/opbp/">oxford pro bono publico</a></li>
+                </ul>
+			</li>
+   	        <li><a href="/careers.php">careers</a></li>
+    	    <li class="last"><a href="/pathways.php" title="Pathways to Law">pathways to law</a></li>
+
+        </ul>
+<!-- NEW TOP-LEVEL HEADING -->
+	<li class="dir"><a href="/research/">research</a>
+      <ul class='sub1'>
+                  <li class="first"><a href="/research/impacts.php">research impact</a></li>
+                  <li><a href="/research/postdoctoral_research.php">research funding</a></li>
+                  <li class="last"><a href="/research/doctoral_students_research.php">doctoral students' research</a></li>
+              </ul>    
+    </li>
+<!-- NEW TOP-LEVEL HEADING -->
+    <li class="dir"><a href="/alumni_and_development.php">alumni and development</a>
+        <ul class='sub1'>
+            <li class="first"><a href="/development/alumni.php">alumni</a></li>
+            <li><a href="/development/development_programme.php">development programme</a></li>
+            <li class="last"><a href="http://www.giving.ox.ac.uk/academic_departments/social_sciences/faculty_of_law.html" target="newwindow" title="opens in a new window or tab">contribute</a></li>
+		</ul>
+	</li>
+<!-- NEW TOP-LEVEL HEADING -->
+	<li><a href="/development/patrons_and_supporters.php">supporters</a></li>
+<!-- NEW TOP-LEVEL HEADING -->
+	<!--<li><a href="/site_map.php">site map</a></li> -->
+<!-- NEW TOP-LEVEL HEADING -->
+    <li class="dir"><a href="http://www.law.ox.ac.uk/intranet/">for current staff and students</a>
+        <ul class='sub1'>
+            <li class="first"><a href="http://www.law.ox.ac.uk/intranet/" title="Law intranet">Intranet</a></li>
+            <li><a href="https://weblearn.ox.ac.uk/portal/hierarchy/socsci/law" title="Teaching and Learning resources">WebLearn</a></li>
+            <li><a href="https://owa.nexus.ox.ac.uk/" title="Oxford WebMail login">Nexus webmail</a></li>
+            <li><a href="http://www.law.ox.ac.uk/lecture_lists.php" title="Today's Law lectures, and a complete list for the term.">Lecture lists</a></li>
+            <li class="last" id="mylaw"><a href="https://intranet.law.ox.ac.uk/lawvle/edit/newmenu.php" title="Edit your profile, add events, choose options...">My Oxford Law</a></li>  
+        </ul>
+    </li>
+</ul></div><!-- end of menu -->
+</div>
+
+<div class="content-block" id="contentbox"> 
+<div id="picturepanel">  
+<!-- this is the law map link in the picture panel -->
+<div class="navmap">
+<a href="/lawmap.php" class="rollover" id="navmap" title="click to see the interactive map"></a>
+</div>
+
+
+<!-- this is randomimage -->
+<img src="/images/rotation/TE-DSCF3854.jpg" alt="Around Oxford" title="Around Oxford" width="150" height="200" />
+<img src="/images/rotation/TE-DSCF3871.jpg" alt="Around Oxford" title="Around Oxford" width="150" height="200" />
+<img src="/images/rotation/square/SA-P1010254.jpg" alt="Law image" title="Law image" width="150" height="150" />
+<br />
+&nbsp;
+</div>
+<div class="bodytext">
+
+<!-- InstanceBeginEditable name="content" -->
+
+<h1>Eldon Scholarship Award Holders since 1919</h1>
+<div class="leftcolumn">
+<table border="0" cellspacing="0" cellpadding="1" class="real"><caption>Holders sorted by year.<br />Click a heading to sort by that column instead.</caption><tr>
+		<th><a href="/postgraduate/eldon_scholars.php">Year</a></th>
+		<th><a href="?sort=name">Holder</a></th>
+		<th><a href="?sort=college">College</a></th>
+	</tr><tr>
+			<td><p>2015</p></td>
+			<td><p>David Heaton</p></td>
+			<td><p>St John's</p></td>
+			</tr>
+			<tr>
+			<td><p>2015</p></td>
+			<td><p>Niranjan Venkatesan </p></td>
+			<td><p>St John's</p></td>
+			</tr>
+			<tr>
+			<td><p>2014</p></td>
+			<td><p>Darryl Hutcheon</p></td>
+			<td><p>Lincoln</p></td>
+			</tr>
+			<tr>
+			<td><p>2013</p></td>
+			<td><p>Charlotte Thomas</p></td>
+			<td><p>Lincoln</p></td>
+			</tr>
+			<tr>
+			<td><p>2012</p></td>
+			<td><p>Yaaser Vanderman</p></td>
+			<td><p>Keble</p></td>
+			</tr>
+			<tr>
+			<td><p>2011</p></td>
+			<td><p>Alistair Mills</p></td>
+			<td><p>Trinity</p></td>
+			</tr>
+			<tr>
+			<td><p>2010</p></td>
+			<td><p>Andrew J Scott</p></td>
+			<td><p>All Souls</p></td>
+			</tr>
+			<tr>
+			<td><p>2009</p></td>
+			<td><p>T A Qudsi Rasheed</p></td>
+			<td><p>Worcester</p></td>
+			</tr>
+			<tr>
+			<td><p>2008</p></td>
+			<td><p>Paul C Adams</p></td>
+			<td><p>St Catherine's</p></td>
+			</tr>
+			<tr>
+			<td><p>2007</p></td>
+			<td><p>Rupert Allen</p></td>
+			<td><p>Merton</p></td>
+			</tr>
+			<tr>
+			<td><p>2006</p></td>
+			<td><p>James R McClelland</p></td>
+			<td><p>Merton</p></td>
+			</tr>
+			<tr>
+			<td><p>2005</p></td>
+			<td><p>Iain T Steele</p></td>
+			<td><p>Magdalen</p></td>
+			</tr>
+			<tr>
+			<td><p>2004</p></td>
+			<td><p>David J Murray</p></td>
+			<td><p>Christ Church</p></td>
+			</tr>
+			<tr>
+			<td><p>2003</p></td>
+			<td><p>Paul Toms</p></td>
+			<td><p>Brasenose </p></td>
+			</tr>
+			<tr>
+			<td><p>2002</p></td>
+			<td><p>Joanne Clement</p></td>
+			<td><p>Somerville</p></td>
+			</tr>
+			<tr>
+			<td><p>2001</p></td>
+			<td><p>Edward Sawyer</p></td>
+			<td><p>Lincoln</p></td>
+			</tr>
+			<tr>
+			<td><p>2000</p></td>
+			<td><p>James S Cutress </p></td>
+			<td><p>Worcester</p></td>
+			</tr>
+			<tr>
+			<td><p>1999</p></td>
+			<td><p>Colin Thomann</p></td>
+			<td><p>Mansfield </p></td>
+			</tr>
+			<tr>
+			<td><p>1998</p></td>
+			<td><p>Christopher Lewis</p></td>
+			<td><p>University</p></td>
+			</tr>
+			<tr>
+			<td><p>1997</p></td>
+			<td><p>Martin D Chamberlain </p></td>
+			<td><p>University</p></td>
+			</tr>
+			<tr>
+			<td><p>1996</p></td>
+			<td><p>Andrew Thomas</p></td>
+			<td><p>Balliol</p></td>
+			</tr>
+			<tr>
+			<td><p>1995</p></td>
+			<td><p>Simon Salzedo </p></td>
+			<td><p>Keble</p></td>
+			</tr>
+			<tr>
+			<td><p>1994</p></td>
+			<td><p>Philippa Hopkins </p></td>
+			<td><p>Merton</p></td>
+			</tr>
+			<tr>
+			<td><p>1993</p></td>
+			<td><p>Adam Tolley</p></td>
+			<td><p>St Anne's</p></td>
+			</tr>
+			<tr>
+			<td><p>1992</p></td>
+			<td><p>Toby Landau</p></td>
+			<td><p>Merton</p></td>
+			</tr>
+			<tr>
+			<td><p>1991</p></td>
+			<td><p>Nigel T Eaton</p></td>
+			<td><p>Magdalen</p></td>
+			</tr>
+			<tr>
+			<td><p>1990</p></td>
+			<td><p>David J Bailey </p></td>
+			<td><p>Mansfield</p></td>
+			</tr>
+			<tr>
+			<td><p>1990</p></td>
+			<td><p>Sarah Cockerill</p></td>
+			<td><p>St Anne's</p></td>
+			</tr>
+			<tr>
+			<td><p>1989</p></td>
+			<td><p>David A Foxton</p></td>
+			<td><p>Magdalen</p></td>
+			</tr>
+			<tr>
+			<td><p>1988</p></td>
+			<td><p>Laurence A Rabinowitz </p></td>
+			<td><p>Merton</p></td>
+			</tr>
+			<tr>
+			<td><p>1987</p></td>
+			<td><p>Christopher J Butcher </p></td>
+			<td><p>All Souls</p></td>
+			</tr>
+			<tr>
+			<td><p>1986</p></td>
+			<td><p>P J Sales </p></td>
+			<td><p>Worcester</p></td>
+			</tr>
+			<tr>
+			<td><p>1985</p></td>
+			<td><p>S J Berry </p></td>
+			<td><p>Exeter</p></td>
+			</tr>
+			<tr>
+			<td><p>1984</p></td>
+			<td><p>J M Dagnall </p></td>
+			<td><p>St John's</p></td>
+			</tr>
+			<tr>
+			<td><p>1984</p></td>
+			<td><p>C G Nugee </p></td>
+			<td><p>Corpus Christi</p></td>
+			</tr>
+			<tr>
+			<td><p>1983</p></td>
+			<td><p>R E Cox</p></td>
+			<td><p>Mansfield</p></td>
+			</tr>
+			<tr>
+			<td><p>1982</p></td>
+			<td><p>N A Hamblen </p></td>
+			<td><p>St John's</p></td>
+			</tr>
+			<tr>
+			<td><p>1981</p></td>
+			<td><p>R C Thomas </p></td>
+			<td><p>St John's</p></td>
+			</tr>
+			<tr>
+			<td><p>1980</p></td>
+			<td><p>P J Walker </p></td>
+			<td><p>Magdalen</p></td>
+			</tr>
+			<tr>
+			<td><p>1979</p></td>
+			<td><p>M M Pascoe </p></td>
+			<td><p>Christ Church</p></td>
+			</tr>
+			<tr>
+			<td><p>1978</p></td>
+			<td><p>P H Gross </p></td>
+			<td><p>Oriel</p></td>
+			</tr>
+			<tr>
+			<td><p>1977</p></td>
+			<td><p>C E Turnbull </p></td>
+			<td><p>Worcester</p></td>
+			</tr>
+			<tr>
+			<td><p>1976</p></td>
+			<td><p> No election</p></td>
+			<td><p></p></td>
+			</tr>
+			<tr>
+			<td><p>1975</p></td>
+			<td><p>Gabriel S Mosony [Moss]</p></td>
+			<td><p>St Catherine's</p></td>
+			</tr>
+			<tr>
+			<td><p>1974</p></td>
+			<td><p>Stephen M Tomlinson</p></td>
+			<td><p>Worcester</p></td>
+			</tr>
+			<tr>
+			<td><p>1973</p></td>
+			<td><p>Sonia R S Proudman </p></td>
+			<td><p>Lady Margaret Hall</p></td>
+			</tr>
+			<tr>
+			<td><p>1972</p></td>
+			<td><p>G J S Hill </p></td>
+			<td><p>Exeter</p></td>
+			</tr>
+			<tr>
+			<td><p>1971</p></td>
+			<td><p>B N R Reynolds</p></td>
+			<td><p>Worcester</p></td>
+			</tr>
+			<tr>
+			<td><p>1970</p></td>
+			<td><p>M C C Hart </p></td>
+			<td><p>Magdalen </p></td>
+			</tr>
+			<tr>
+			<td><p>1970</p></td>
+			<td><p>J L Munby </p></td>
+			<td><p>Wadham</p></td>
+			</tr>
+			<tr>
+			<td><p>1969</p></td>
+			<td><p>T E Walker </p></td>
+			<td><p>University </p></td>
+			</tr>
+			<tr>
+			<td><p>1968</p></td>
+			<td><p>P N Legh-Jones </p></td>
+			<td><p>New College</p></td>
+			</tr>
+			<tr>
+			<td><p>1967</p></td>
+			<td><p>N A R Wilson </p></td>
+			<td><p>Worcester </p></td>
+			</tr>
+			<tr>
+			<td><p>1966</p></td>
+			<td><p>C H McCall </p></td>
+			<td><p>Magdalen</p></td>
+			</tr>
+			<tr>
+			<td><p>1965</p></td>
+			<td><p>D W Keene </p></td>
+			<td><p>Balliol </p></td>
+			</tr>
+			<tr>
+			<td><p>1964</p></td>
+			<td><p>R B Mawrey </p></td>
+			<td><p>Magdalen </p></td>
+			</tr>
+			<tr>
+			<td><p>1963</p></td>
+			<td><p>D T A Davies </p></td>
+			<td><p>Magdalen</p></td>
+			</tr>
+			<tr>
+			<td><p>1961</p></td>
+			<td><p>Paul M Miller </p></td>
+			<td><p>Exeter</p></td>
+			</tr>
+			<tr>
+			<td><p>1960</p></td>
+			<td><p>R O Havery </p></td>
+			<td><p>Magdalen </p></td>
+			</tr>
+			<tr>
+			<td><p>1959</p></td>
+			<td><p>C D R Rose</p></td>
+			<td><p>Wadham </p></td>
+			</tr>
+			<tr>
+			<td><p>1958</p></td>
+			<td><p>R K Bain </p></td>
+			<td><p>Magdalen</p></td>
+			</tr>
+			<tr>
+			<td><p>1957</p></td>
+			<td><p>T H Bingham </p></td>
+			<td><p>Balliol </p></td>
+			</tr>
+			<tr>
+			<td><p>1956</p></td>
+			<td><p>J D Feltham </p></td>
+			<td><p>Magdalen</p></td>
+			</tr>
+			<tr>
+			<td><p>1955</p></td>
+			<td><p>H C Tayler </p></td>
+			<td><p>Balliol </p></td>
+			</tr>
+			<tr>
+			<td><p>1954</p></td>
+			<td><p> No election</p></td>
+			<td><p></p></td>
+			</tr>
+			<tr>
+			<td><p>1953</p></td>
+			<td><p>E G Nugee </p></td>
+			<td><p>Worcester </p></td>
+			</tr>
+			<tr>
+			<td><p>1952</p></td>
+			<td><p>Dick Taverne </p></td>
+			<td><p>Balliol </p></td>
+			</tr>
+			<tr>
+			<td><p>1951</p></td>
+			<td><p>R I Kidwell </p></td>
+			<td><p>Magdalen </p></td>
+			</tr>
+			<tr>
+			<td><p>1951</p></td>
+			<td><p>F P Neill </p></td>
+			<td><p>Magdalen </p></td>
+			</tr>
+			<tr>
+			<td><p>1950</p></td>
+			<td><p>D A Barker </p></td>
+			<td><p>Queen's</p></td>
+			</tr>
+			<tr>
+			<td><p>1950</p></td>
+			<td><p>C J Slade </p></td>
+			<td><p>New College </p></td>
+			</tr>
+			<tr>
+			<td><p>1949</p></td>
+			<td><p>A R Barrowclough </p></td>
+			<td><p>New College</p></td>
+			</tr>
+			<tr>
+			<td><p>1949</p></td>
+			<td><p>R A Blackburn </p></td>
+			<td><p>Magdalen </p></td>
+			</tr>
+			<tr>
+			<td><p>1949</p></td>
+			<td><p>W A N Wells </p></td>
+			<td><p>Magdalen </p></td>
+			</tr>
+			<tr>
+			<td><p>1948</p></td>
+			<td><p>J W Bourne</p></td>
+			<td><p>New College </p></td>
+			</tr>
+			<tr>
+			<td><p>1947</p></td>
+			<td><p> Not offered</p></td>
+			<td><p></p></td>
+			</tr>
+			<tr>
+			<td><p>1946</p></td>
+			<td><p> Not offered</p></td>
+			<td><p></p></td>
+			</tr>
+			<tr>
+			<td><p>1938</p></td>
+			<td><p>R Blake</p></td>
+			<td><p>Magdalen</p></td>
+			</tr>
+			<tr>
+			<td><p>1937</p></td>
+			<td><p>T B Smith</p></td>
+			<td><p>Christ Church </p></td>
+			</tr>
+			<tr>
+			<td><p>1936</p></td>
+			<td><p>J W R Harris</p></td>
+			<td><p>Brasenose</p></td>
+			</tr>
+			<tr>
+			<td><p>1935</p></td>
+			<td><p>J E S Fawcett </p></td>
+			<td><p>New College </p></td>
+			</tr>
+			<tr>
+			<td><p>1934</p></td>
+			<td><p> Not offered</p></td>
+			<td><p></p></td>
+			</tr>
+			<tr>
+			<td><p>1933</p></td>
+			<td><p>J H C Morris </p></td>
+			<td><p>Christ Church</p></td>
+			</tr>
+			<tr>
+			<td><p>1932</p></td>
+			<td><p>C H S Preston </p></td>
+			<td><p>New College</p></td>
+			</tr>
+			<tr>
+			<td><p>1931</p></td>
+			<td><p> Not offered</p></td>
+			<td><p></p></td>
+			</tr>
+			<tr>
+			<td><p>1930</p></td>
+			<td><p>I I Bowen</p></td>
+			<td><p>All Souls</p></td>
+			</tr>
+			<tr>
+			<td><p>1930</p></td>
+			<td><p>R O Wilberforce</p></td>
+			<td><p>New College</p></td>
+			</tr>
+			<tr>
+			<td><p>1929</p></td>
+			<td><p>J H A Sparrow </p></td>
+			<td><p>All Souls</p></td>
+			</tr>
+			<tr>
+			<td><p>1928</p></td>
+			<td><p> Not offered</p></td>
+			<td><p></p></td>
+			</tr>
+			<tr>
+			<td><p>1927</p></td>
+			<td><p>Denis Browne</p></td>
+			<td><p>New College</p></td>
+			</tr>
+			<tr>
+			<td><p>1927</p></td>
+			<td><p>T D D Divine</p></td>
+			<td><p>Queen's</p></td>
+			</tr>
+			<tr>
+			<td><p>1926</p></td>
+			<td><p>D S Danreuther</p></td>
+			<td><p>Balliol</p></td>
+			</tr>
+			<tr>
+			<td><p>1925</p></td>
+			<td><p> Not offered</p></td>
+			<td><p></p></td>
+			</tr>
+			<tr>
+			<td><p>1924</p></td>
+			<td><p>J B Blagden</p></td>
+			<td><p>All Souls</p></td>
+			</tr>
+			<tr>
+			<td><p>1924</p></td>
+			<td><p>J G Foster</p></td>
+			<td><p>All Souls</p></td>
+			</tr>
+			<tr>
+			<td><p>1923</p></td>
+			<td><p>C J Radcliffe</p></td>
+			<td><p>All Souls</p></td>
+			</tr>
+			<tr>
+			<td><p>1921</p></td>
+			<td><p>W E Beckett</p></td>
+			<td><p>All Souls</p></td>
+			</tr>
+			<tr>
+			<td><p>1921</p></td>
+			<td><p>A T Denning</p></td>
+			<td><p>Magdalen </p></td>
+			</tr>
+			<tr>
+			<td><p>1920</p></td>
+			<td><p>Gordon Alchin</p></td>
+			<td><p>Brasenose</p></td>
+			</tr>
+			<tr>
+			<td><p>1920</p></td>
+			<td><p>G C Faber</p></td>
+			<td><p>All Souls</p></td>
+			</tr>
+			<tr>
+			<td><p>1919</p></td>
+			<td><p> Not offered</p></td>
+			<td><p></p></td>
+			</tr>
+			</table></div>
+
+
+
+
+<div class="rightcolumn">
+<table border="0" cellspacing="0" cellpadding="1" class="real"><caption>Number of holders by college,<br />as at 2015.</caption><tr>
+		<th><a href="/postgraduate/eldon_scholars.php">College</a></th>
+		<th><a href="?sort=winners">No. of holders</a></th>
+	</tr><tr>
+			<td><p>All Souls</p></td>
+			<td><p style="text-align: right;">9</p></td>
+			</tr>
+			<tr>
+			<td><p>Balliol</p></td>
+			<td><p style="text-align: right;">6</p></td>
+			</tr>
+			<tr>
+			<td><p>Brasenose</p></td>
+			<td><p style="text-align: right;">3</p></td>
+			</tr>
+			<tr>
+			<td><p>Christ Church</p></td>
+			<td><p style="text-align: right;">4</p></td>
+			</tr>
+			<tr>
+			<td><p>Corpus Christi</p></td>
+			<td><p style="text-align: right;">1</p></td>
+			</tr>
+			<tr>
+			<td><p>Exeter</p></td>
+			<td><p style="text-align: right;">3</p></td>
+			</tr>
+			<tr>
+			<td><p>Keble</p></td>
+			<td><p style="text-align: right;">2</p></td>
+			</tr>
+			<tr>
+			<td><p>Lady Margaret Hall</p></td>
+			<td><p style="text-align: right;">1</p></td>
+			</tr>
+			<tr>
+			<td><p>Lincoln</p></td>
+			<td><p style="text-align: right;">3</p></td>
+			</tr>
+			<tr>
+			<td><p>Magdalen</p></td>
+			<td><p style="text-align: right;">17</p></td>
+			</tr>
+			<tr>
+			<td><p>Mansfield</p></td>
+			<td><p style="text-align: right;">3</p></td>
+			</tr>
+			<tr>
+			<td><p>Merton</p></td>
+			<td><p style="text-align: right;">5</p></td>
+			</tr>
+			<tr>
+			<td><p>New College</p></td>
+			<td><p style="text-align: right;">8</p></td>
+			</tr>
+			<tr>
+			<td><p>Oriel</p></td>
+			<td><p style="text-align: right;">1</p></td>
+			</tr>
+			<tr>
+			<td><p>Queen's</p></td>
+			<td><p style="text-align: right;">2</p></td>
+			</tr>
+			<tr>
+			<td><p>Somerville</p></td>
+			<td><p style="text-align: right;">1</p></td>
+			</tr>
+			<tr>
+			<td><p>St Anne's</p></td>
+			<td><p style="text-align: right;">2</p></td>
+			</tr>
+			<tr>
+			<td><p>St Catherine's</p></td>
+			<td><p style="text-align: right;">2</p></td>
+			</tr>
+			<tr>
+			<td><p>St John's</p></td>
+			<td><p style="text-align: right;">5</p></td>
+			</tr>
+			<tr>
+			<td><p>Trinity</p></td>
+			<td><p style="text-align: right;">1</p></td>
+			</tr>
+			<tr>
+			<td><p>University</p></td>
+			<td><p style="text-align: right;">3</p></td>
+			</tr>
+			<tr>
+			<td><p>Wadham</p></td>
+			<td><p style="text-align: right;">2</p></td>
+			</tr>
+			<tr>
+			<td><p>Worcester</p></td>
+			<td><p style="text-align: right;">8</p></td>
+			</tr>
+			</table><div id="outlinks">
+<p><a href="eldon_history.php">History of the Eldon Scholarship</a></p>
+<p><a href="scholarships.php#career">List of all Oxford Law Scholarships</a></p>
+</div>
+</div>
+
+
+<!-- InstanceEndEditable -->
+
+
+</div><!-- end of bodytext -->
+</div><!-- end of content-block, id contentbox-->
+<div class="content-block" id="bottom"><!-- footer content-block -->
+<div id="footer">
+<div>
+<!--<div style="float:left;">-->
+
+<a style="top: 0px;" target="_blank" href="http://www.linkedin.com/groups?home=&amp;gid=918207" class="socialicons" id="LinkedIn" title="LinkedIn"><img src="/images/linkedin-small.gif" alt="Law LinkedIn" title="Oxford Law Faculty on LinkedIn" class="noborder" height="34" align="absmiddle" border="0" width="34" /></a>		<a style="top: 0px;" target="_blank" href="https://www.facebook.com/OxfordLawFaculty" class="socialicons" id="Facebook" title="Facebook"><img alt="Facebook" title="Oxford Law Faculty on Facebook" src="/images/FB.gif" class="noborder" height="34" align="absmiddle" border="0" width="34" /></a>		<a style="top: 0px;" target="_blank" href="https://twitter.com/OxfordLawFac" class="socialicons" id="Twitter" title="Twitter"><img src="/images/twitter-bird-white-on-blue-small.png" alt="Law Twitter" title="Oxford Law Faculty on Twitter" class="noborder" height="34" align="absmiddle" border="0" width="34" /></a>
+
+
+</div>
+<br clear="all" /> 
+</div>
+</div>
+<div class="content-block" id="underfooter">
+<!-- REAL NAME OF THIS PAGE (i.e. $_SERVER['PHP_SELF'] plus querystring): /postgraduate/eldon_scholars.php? -->
+ 
+ 
+  <p class='credit' style="margin-bottom:0px;">Page updated on 30 March 2015 at 11:43 :: 
+    
+  <a href="mailto:web.support@law.ox.ac.uk?subject=/postgraduate/eldon_scholars.php?">Send us feedback on this page</a>
+  :: <a href="/credits.php">photo credits</a></p>
+<p class='credit' style="margin-bottom:0px;">Policies on: <a href="/cookies.php">cookies</a> :: <a href="http://www.admin.ox.ac.uk/foi/">freedom of information</a> :: <a href="http://www.admin.ox.ac.uk/dataprotection/">data protection</a></p>
+</div>
+
+<script src="/scripts/gatag.js" type="text/javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8752186-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- end of footer content-block -->
+</body>
+<!-- InstanceEnd --></html>

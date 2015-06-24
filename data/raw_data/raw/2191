@@ -1,0 +1,280 @@
+<!doctype html>
+
+<!--[if lt IE 7]><html lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" class="no-js"><!--<![endif]-->
+
+	<head>
+		<meta charset="utf-8">
+
+				<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>  Connect</title>
+
+				<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+				<link rel="apple-touch-icon" href="http://alumni.oriel.ox.ac.uk/wp-content/themes/oriel/library/images/apple-icon-touch.png">
+		<link rel="icon" href="http://alumni.oriel.ox.ac.uk/wp-content/themes/oriel/favicon.png">
+		<!--[if IE]>
+			<link rel="shortcut icon" href="http://alumni.oriel.ox.ac.uk/wp-content/themes/oriel/favicon.ico">
+		<![endif]-->
+				<meta name="msapplication-TileColor" content="#f01d4f">
+		<meta name="msapplication-TileImage" content="http://alumni.oriel.ox.ac.uk/wp-content/themes/oriel/library/images/win8-tile-icon.png">
+
+		<link rel="pingback" href="http://alumni.oriel.ox.ac.uk/xmlrpc.php">
+
+		<!-- Main styles -->
+		<link rel="stylesheet" href="http://alumni.oriel.ox.ac.uk/wp-content/themes/oriel/library/css/style.css" type="text/css" media="all" />
+
+		<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,700,500,100' rel='stylesheet' type='text/css'>
+
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+		<link rel="alternate" type="application/rss+xml" title="Oriel College Oxford &raquo; Feed" href="http://alumni.oriel.ox.ac.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Oriel College Oxford &raquo; Comments Feed" href="http://alumni.oriel.ox.ac.uk/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Oriel College Oxford &raquo; Connect Comments Feed" href="http://alumni.oriel.ox.ac.uk/connect/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/alumni.oriel.ox.ac.uk\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bones-stylesheet-css'  href='http://alumni.oriel.ox.ac.uk/wp-content/themes/oriel/library/css/style.css' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='bones-ie-only-css'  href='http://alumni.oriel.ox.ac.uk/wp-content/themes/oriel/library/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://alumni.oriel.ox.ac.uk/wp-content/themes/oriel/library/js/libs/modernizr.custom.min.js'></script>
+<script type='text/javascript' src='http://alumni.oriel.ox.ac.uk/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://alumni.oriel.ox.ac.uk/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<link rel='canonical' href='http://alumni.oriel.ox.ac.uk/connect/' />
+<link rel='shortlink' href='http://alumni.oriel.ox.ac.uk/?p=192' />
+
+	</head>
+
+	<body class="page page-id-192 page-parent page-template page-template-page-connect page-template-page-connect-php">
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.3";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+	<div class="headwrap skrollable" data-50="">
+		<div class="pre-header">
+			<div class="layout-width">
+				<div class="grid">
+					<div class="grid__item">
+						<a href="#" class="menu-toggle">&#9776;</a>
+						<div class="right">
+							<a href="http://alumni.oriel.ox.ac.uk" class="blocklink contact">Home</a>
+							<a href="http://www.oriel.ox.ac.uk/" class="blocklink contact">College Homepage</a>
+							<a href="https://www.campaign.ox.ac.uk/oriel-college" class="blocklink">Make A Donation</a>
+							<div class="social">
+								<a href="https://www.facebook.com/orielenses"><i class="fa fa-facebook"></a></i> <a href="https://twitter.com/orielalumni"><i class="fa fa-twitter"></i></a> <a href="mailto:development.office@oriel.ox.ac.uk"><i class="fa fa-envelope"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<header>
+			<div class="layout-width">
+				<div class="grid">
+					<div class="grid__item border">
+						<a href="http://alumni.oriel.ox.ac.uk" class="logo">Oriel College</a>
+
+						<nav id="menu" role="navigation" class="main-nav">
+							<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-192 current_page_item menu-item-204"><a href="http://alumni.oriel.ox.ac.uk/connect/">Connect</a></li>
+<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="http://alumni.oriel.ox.ac.uk/contribute/">Contribute</a></li>
+<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="http://alumni.oriel.ox.ac.uk/events/">Events</a></li>
+<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a href="http://alumni.oriel.ox.ac.uk/2026-campaign/">2026 Campaign</a></li>
+<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a href="http://alumni.oriel.ox.ac.uk/oriel-news/">Oriel News</a></li>
+<li id="menu-item-337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-337"><a href="http://alumni.oriel.ox.ac.uk/2026-campaign/">Donor Report</a></li>
+</ul></div>						</nav>
+					</div>
+				</div>
+			</div>
+		</header>
+	</div>
+
+<div class="main-content">
+	<div class="layout-width">
+		<div class="grid">
+							<div class="grid__item lap-and-up-one-third">
+					<div class="padded-block bg-green white">
+						<h1>Connect</h1>
+
+						<div class="intro standard-page">
+							<h3>All Orielenses are a part of the College community for life.</h3>
+<p>Whether you want to come back and visit the College, hear about the latest news and events, or get back in touch with your contemporaries, there are many ways that you can connect with Oriel and your fellow Orielenses.</p>
+						</div>
+					</div>
+				</div><div class="grid__item lap-and-up-two-thirds">
+										<img src="http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/building1-860x400.jpg" alt="Contribute Image" class="grid-full">
+				</div>
+						<section class="blocks margin-top">
+				<div class="top">
+					<div class="grid__item lap-one-half desk-one-quarter">
+							<a href="http://alumni.oriel.ox.ac.uk/connect/get-in-contact/">
+								<div class="block img" style="background:url(http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/Oriel_College_by_John_Cairns_June_2014-199-307x330.jpg) no-repeat 50% 50%; background-size:cover;">
+									<h2>Get in Contact</h2>
+								</div>
+							</a>
+						</div><div class="grid__item lap-one-half desk-one-quarter">
+							<a href="http://alumni.oriel.ox.ac.uk/connect/visiting-college/">
+								<div class="block img" style="background:url(http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/Oriel_College_by_John_Cairns_June_2014-81-307x330.jpg) no-repeat 50% 50%; background-size:cover;">
+									<h2>Visiting College</h2>
+								</div>
+							</a>
+						</div><div class="grid__item lap-one-half desk-one-quarter">
+							<a href="http://alumni.oriel.ox.ac.uk/connect/alumni-benefits/">
+								<div class="block img" style="background:url(http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/Oriel_College_by_John_Cairns_June_2014-184-307x330.jpg) no-repeat 50% 50%; background-size:cover;">
+									<h2>Alumni Benefits</h2>
+								</div>
+							</a>
+						</div><div class="grid__item lap-one-half desk-one-quarter">
+							<a href="http://alumni.oriel.ox.ac.uk/connect/publications/">
+								<div class="block img" style="background:url(http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/Oriel_College_by_John_Cairns_June_2014-128-307x330.jpg) no-repeat 50% 50%; background-size:cover;">
+									<h2>Publications</h2>
+								</div>
+							</a>
+						</div><div class="grid__item lap-one-half desk-one-quarter">
+							<a href="http://alumni.oriel.ox.ac.uk/connect/podcasts/">
+								<div class="block img" style="background:url(http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/IMG_0549-307x330.jpg) no-repeat 50% 50%; background-size:cover;">
+									<h2>Podcasts</h2>
+								</div>
+							</a>
+						</div><div class="grid__item lap-one-half desk-one-quarter">
+							<a href="http://alumni.oriel.ox.ac.uk/connect/oriel-society/">
+								<div class="block img" style="background:url(http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/door1-307x330.jpg) no-repeat 50% 50%; background-size:cover;">
+									<h2>The Oriel Society</h2>
+								</div>
+							</a>
+						</div><div class="grid__item lap-one-half desk-one-quarter">
+							<a href="http://alumni.oriel.ox.ac.uk/connect/alumni-interest-groups/">
+								<div class="block img" style="background:url(http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/IMG_4325-307x330.jpg) no-repeat 50% 50%; background-size:cover;">
+									<h2>Alumni Interest Groups</h2>
+								</div>
+							</a>
+						</div><div class="grid__item lap-one-half desk-one-quarter">
+							<a href="http://alumni.oriel.ox.ac.uk/connect/policies/">
+								<div class="block img" style="background:url(http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/windows1-307x330.jpg) no-repeat 50% 50%; background-size:cover;">
+									<h2>Policies</h2>
+								</div>
+							</a>
+						</div>				</div>
+			</section>
+			  <section class="logos">
+    <div class="grid__item lap-and-up-one-quarter">
+        <a href="http://alumni.oriel.ox.ac.uk/the-1326-society/" class="single-logo society" data-key="sameSize">
+          <img src="http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/1326-Society-Wordmark_1326-Red@2x.png" />
+        </a>
+      </div><div class="grid__item lap-and-up-one-quarter">
+        <a href="http://alumni.oriel.ox.ac.uk/the-raleigh-society/" class="single-logo raleigh" data-key="sameSize">
+          <img src="http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/Raleigh-Society-Wordmark_Gold@2x.png" />
+        </a>
+      </div><div class="grid__item lap-and-up-one-quarter">
+        <a href="http://alumni.oriel.ox.ac.uk/the-adam-de-brome-society/" class="single-logo adam" data-key="sameSize">
+          <img src="http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/AdamdeBrome-Society-Wordmark_Oriel-Gold@2x.png" />
+        </a>
+      </div><div class="grid__item lap-and-up-one-quarter">
+        <a href="http://alumni.oriel.ox.ac.uk/the-provosts-court/" class="single-logo provost" data-key="sameSize">
+          <img src="http://alumni.oriel.ox.ac.uk/wp-content/uploads/2015/02/PROVOST’S@2x.png" />
+        </a>
+      </div>  </section>
+		</div>
+	</div>
+</div>
+
+
+	<div class="layout-width">
+		<div class="grid">
+			<div class="grid__item">
+				<footer class="footer palm-hide">
+					<div class="grid">
+						<div class="grid__item desk-three-quarters">
+							<div class="grid">
+								<div class="grid__item lap-and-up-one-quarter">
+									<h4><a href="/contribute">Contribute</a></h4>
+
+									<nav id="contribute-menu" role="navigation" class="footer-nav">
+										<div class="menu-contribute-container"><ul id="menu-contribute" class="menu"><li id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216"><a href="http://alumni.oriel.ox.ac.uk/contribute/making-a-gift/">Making a Gift</a></li>
+<li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="http://alumni.oriel.ox.ac.uk/contribute/leaving-a-gift/">Leaving a Legacy</a></li>
+<li id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217"><a href="http://alumni.oriel.ox.ac.uk/recognising-your-gift/">Recognising Your Gift</a></li>
+<li id="menu-item-833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-833"><a href="http://alumni.oriel.ox.ac.uk/contribute/tax-efficient-giving/">Tax-Efficient Giving</a></li>
+<li id="menu-item-834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-834"><a href="http://alumni.oriel.ox.ac.uk/contribute/giving-from-outside-the-uk/">Gifts From Abroad</a></li>
+<li id="menu-item-835" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-835"><a href="http://alumni.oriel.ox.ac.uk/contribute/recent-graduates/">Recent Graduates</a></li>
+</ul></div>									</nav>
+								</div><div class="grid__item lap-and-up-one-quarter">
+									<h4><a href="/connect">Connect</a></h4>
+
+									<nav id="connect-menu" role="navigation" class="footer-nav">
+										<div class="menu-connect-container"><ul id="menu-connect" class="menu"><li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="http://alumni.oriel.ox.ac.uk/connect/visiting-college/">Visiting College</a></li>
+<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a href="http://alumni.oriel.ox.ac.uk/connect/get-in-contact/">Get in Contact</a></li>
+<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="http://alumni.oriel.ox.ac.uk/connect/publications/">Publications</a></li>
+<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="http://alumni.oriel.ox.ac.uk/connect/alumni-benefits/">Alumni Benefits</a></li>
+<li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><a href="http://alumni.oriel.ox.ac.uk/connect/alumni-interest-groups/">Alumni Interest Groups</a></li>
+<li id="menu-item-859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-859"><a href="http://alumni.oriel.ox.ac.uk/connect/policies/">Policies</a></li>
+</ul></div>									</nav>
+								</div><div class="grid__item lap-and-up-one-quarter">
+									<h4><a href="/2026-campaign">2026 Campaign</h4>
+
+									<nav id="contribute-menu" role="navigation" class="footer-nav">
+										<div class="menu-campaign-container"><ul id="menu-campaign" class="menu"><li id="menu-item-219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-219"><a href="http://alumni.oriel.ox.ac.uk/2026-campaign/">2026 Campaign</a></li>
+<li id="menu-item-220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220"><a href="http://alumni.oriel.ox.ac.uk/2026-campaign/college-environment/">College Environment</a></li>
+<li id="menu-item-221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-221"><a href="http://alumni.oriel.ox.ac.uk/2026-campaign/student-support/">Student Support</a></li>
+<li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-222"><a href="http://alumni.oriel.ox.ac.uk/2026-campaign/teaching-and-research/">Teaching &#038; Research</a></li>
+</ul></div>									</nav>
+								</div><div class="grid__item lap-and-up-one-quarter">
+									<h4><a href="http://www.oriel.ox.ac.uk">College Homepage</a></h4>
+								</div>
+							</div>
+						</div>
+					</div>
+				</footer> 
+				<div class="post-footer">
+					Copyright 2015 Oriel College Oxford, UK Registered Charity No. 1141976
+
+					<a class="substrakt" href="http://substrakt.co.uk" target="_blank">Website by Substrakt</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+		<script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-62657950-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+	<script type='text/javascript' src='http://alumni.oriel.ox.ac.uk/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='http://alumni.oriel.ox.ac.uk/wp-content/themes/oriel/library/js/scripts.js'></script>
+<script type='text/javascript' src='http://alumni.oriel.ox.ac.uk/wp-content/themes/oriel/library/js/plugins.js'></script>
+
+	</body>
+
+</html> 

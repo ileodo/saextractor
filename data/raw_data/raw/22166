@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+                <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+                <title>Home
+ | Oxford University Department for Continuing Education</title>
+        <link rel="stylesheet" href="/inc/css/style.css" title="conted" type="text/css" media="all" />
+        <script type="text/javascript" src="/inc/js/util.js"> </script>
+                    <!--[if IE]>
+              <link rel="stylesheet" type="text/css" href="/inc/css/ie.css" />
+            <![endif]-->
+        <link rel="stylesheet" href="/_local_www.tall.ox.ac.uk/local.css" title="conted" type="text/css" media="all" />
+        <link rel="stylesheet" href="/inc/css/print.css" type="text/css" media="print" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+    </head>
+    <body onload="addResizeButtons();" id="top">        <div id="container">
+        <div id="bannerWrapper">
+        <div id="banner">
+            <a href="http://www.ox.ac.uk/" class="parentLink noPrintHref" title="Click to go to the University of Oxford homepage"><img src="/inc/img/logo.gif" alt="University of Oxford" width="156" height="50"/></a>
+            <a href="http://www.conted.ox.ac.uk/" class="parentLink">Department for <br/><span class="siteNameMajor">Continuing Education</span></a><a href="/">Technology-Assisted <br/><span class="siteNameMajor">Lifelong Learning</span></a>        </div>
+
+            <div id="topNav"><ul><li style="width: 8%; " class="first selected "><a href="/index.php"><span title="Technology-Assisted Lifelong Learning home">Home</span></a></li><li style="width: 29%; "><a href="/development/index.php">Development services</a></li><li style="width: 11%; "><a href="/research/index.php">Research</a></li><li style="width: 16%; "><a href="/consultancy/index.php">Consultancy</a></li><li style="width: 14%; "><a href="/about/index.php">About TALL</a></li><li style="width: 22%; " class="last "><a href="http://onlinesupport.conted.ox.ac.uk/"><span class="ols" title="Help for students on the Department for Continuing Education's online courses">Student support</span></a></li></ul></div>
+<div id="bannerEnd"></div>        </div>
+        <div id="mainContent">
+        <div>
+
+<div id="introBlock">
+    <div id="introduction">
+    <div id="awardspace"> </div>
+        <h1 class="home">Technology-Assisted Lifelong Learning</h1>&nbsp;(TALL) aims to harness technology to support excellence in teaching, learning and research.
+        <p>Based at the University of Oxford Department for Continuing Education, we undertake research and consultancy on e-learning and technical projects, and develop high quality learning solutions.</p>
+        <p>Our experience in education and the Internet can help solve your knowledge transfer challenges in teaching and learning, collaboration, dissemination of information, and beyond.</p>
+    </div>
+</div>
+
+<div id="highlightBlockSmall">
+    <h2>Highlights</h2>
+    <div id="highlights" class="boldLinks">
+    <a href="http://www.ox.ac.uk/media/news_stories/2010/101030.html" class="mainlink">TALL wins national award for learning technology</a>
+    <blockquote><a href="http://www.ox.ac.uk/media/news_stories/2010/101030.html">Oxford’s continuing education department is using new technology to allow distance and part-time learning. Now its work in this area has been recognised by an award.</a></blockquote>
+    </div>
+    <a id="newarchivelink" href="/about/news/">Older news</a>
+</div>
+
+
+
+
+<div style="clear: both;"/>
+    <div id="ourCourses" class="col3 headedListBox">
+        <h2>Development services</h2>
+        <ul>
+            <li><a href="/development/courses.php">Online courses</a><br/>
+                15 years’ experience of online course development</li>
+            <li><a href="/development/technology.php">Technology</a><br/>
+                Identifying the best technology for learning requirements</li>
+            <li><a href="/development/richmedia.php">Rich media</a><br/>
+                Production of multimedia interactive resources</li>
+            <li><a href="/development/websites.php">Websites</a><br/>
+                Design and development services for academic and commercial websites</li>
+            <li><a href="/development/communities.php">Online communities</a><br/>
+                User-friendly approaches to interactive tools and online community building</li>
+            <li><a href="/development/examples.php">Examples of TALL's work</a><br/>
+                Take a look at some of our work</li>
+            <li><a href="/development/fulllistofcourses.php">Full list of courses</a><br/>
+                Listing of online courses developed by TALL</li>
+        </ul>
+    </div>
+
+
+    <div id="facilitiesServices" class="col3 headedListBox">
+        <h2>Research &amp; consultancy</h2>
+        <ul>
+            <li><a href="/consultancy/index.php">Consultancy services</a><br/>
+                How we can help you to use technology in your teaching, learning and research activities</li>
+            <li><a href="/research/current/index.php">Current research</a><br/>
+                Find out about our current projects:
+                <div class="smallNav">
+                    <!--ul class="nodeSubNav">
+                        <li><a href="/research/current/isthmus.php" class="">Isthmus</a></li>
+                        <li><a href="/research/current/phoebe.php" class="">Phoebe</a></li>
+                    </ul-->
+                    <ul class="nodeSubNav"><li><a href="/research/current/reciprocate.php" class="">RECIPROCATE</a> </li><li><a href="/research/current/visitorsresidents.php" class="">Visitors and Residents</a> </li></ul>
+                </div></li>
+            <li><a href="/research/past/index.php">Past research</a><br/>
+                Find out about our past projects:
+                <div class="smallNav">
+                    <!--ul class="nodeSubNav">
+                        <li><a href="/research/past/globalhealth.php" class="">Global Health</a></li>
+                        <li><a href="/research/past/opus.php" class=""><span title="Oxford Professional Updating System">OPUS</span></a></li>
+                        <li><a href="/research/past/reliefSim.php" class="">ReliefSim</a></li>
+                        <li><a href="/research/past/spire.php" class="">SPIRE</a></li>
+                        <li><a href="/research/past/wcker.php" class=""><span title="Wizard Construction Kit Extension for Reload">WCKER</span></a></li>
+                    </ul-->
+                    <ul class="nodeSubNav"><li><a href="/research/past/LDSE.php" class="">Learning Design Support Environment</a> </li><li><a href="/research/past/mathscity.php" class="">Maths in the City</a> </li><li><a href="/research/past/OERImpact.php" class="">OER Impact Study</a> </li><li><a href="/research/past/sesame.php" class="">Sesame</a> </li><li><a href="/research/past/index.php">All past projects </a></li></ul>
+                </div></li>
+            <li><a href="/research/publications/index.php">Publications, papers and presentations</a><br/>
+                </li>
+        </ul>
+    </div>
+
+
+    <div id="contact" class="col3 headedListBox">
+        <h2>About us</h2>
+        <ul>
+            <li><a href="/about/">TALL overview</a><br/>
+                A closer look at TALL</li>
+            <li><a href="/about/theteam.php">The team</a><br/>
+                Find out more about who works at TALL</li>
+            <li><a href="http://tallblog.conted.ox.ac.uk/?feed=atom" title="Blog feed"><img src="/inc/img/ico-feed.png" width="20" height="20" alt="RSS feed" style="vertical-align: middle;"/></a>
+            <a href="http://tallblog.conted.ox.ac.uk/">TALL blog</a><br/>Find out what the team are thinking</li>
+            <li><a href="/about/contactdetails.php">Contact details</a><br />
+                <strong>Tel:</strong> +44 (0)1865 280978<br/>
+                <strong>Email:</strong> <a href="mailto:tall@conted.ox.ac.uk">tall@conted.ox.ac.uk</a></li>
+        </ul>
+    </div>
+</div>
+        </div>            <div id="footer">
+                <div>
+                    <a href="http://www.ox.ac.uk">University of Oxford</a> |
+                    <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/">Privacy policy</a> |
+                    <a href="/enquiry.php">Enquiries</a> | <a href="/keepmeinformed.php">Keep me informed</a>                    
+                </div>
+                <div class="vcard">
+                    &copy; 2002-2015                    <span class="fn org">
+                        <span class="organization-name">University of Oxford</span>,
+                        <span class="organization-unit n">Department for Continuing Education</span>
+                    </span>
+                    <address class="adr">
+                        <span class="street-address">Rewley House, 1 Wellington Square</span>,
+                        <span class="locality">Oxford</span>, <span class="region">Oxfordshire</span>,
+                        <span class="postal-code">OX1 2JA</span>,
+                        <span class="country-name">United Kingdom</span>.
+                        Tel: <span class="tel">+44 (0)1865 270360</span>
+                    </address>
+                </div>
+            </div>
+                    </div>    <!-- Google Analytics tracking -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57534763-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- End Google Analytics -->
+    </body>
+</html>

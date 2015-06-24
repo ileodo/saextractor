@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <title>OxPoints | data.ox.ac.uk</title>
+    <link rel="stylesheet" href="//static.data.ox.ac.uk/main.css" type="text/css"/>
+    
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/css/basic.css"  media="all"/>
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/css/tiny.css" media="screen and (max-width: 639px)" />
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/css/small.css" media="(min-width: 640px)" />
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/css/medium.css" media="(min-width: 999px) and (max-width: 1599px)" />
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/css/large.css" media="screen and (min-width: 1600px)" />
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/font-awesome/css/font-awesome.min.css">
+
+    
+<link rel="stylesheet" media="screen" href="//active.oucs.ox.ac.uk/shared/stylesheet/analytics/analytics.css" type="text/css"/>
+
+    <link rel="icon" href="//static.data.ox.ac.uk/favicon.ico" type="image/x-icon"/>
+    <link rel="alternate" type="application/xhtml+xml" href="https://data.ox.ac.uk/doc/dataset/oxpoints.html">
+    <link rel="alternate" type="text/html" href="https://data.ox.ac.uk/doc/dataset/oxpoints.html">
+    <link rel="alternate" type="text/n3" href="https://data.ox.ac.uk/doc/dataset/oxpoints.n3">
+    <link rel="alternate" type="text/plain" href="https://data.ox.ac.uk/doc/dataset/oxpoints.nt">
+    <link rel="alternate" type="application/rdf+xml" href="https://data.ox.ac.uk/doc/dataset/oxpoints.rdf">
+    <link rel="alternate" type="text/turtle" href="https://data.ox.ac.uk/doc/dataset/oxpoints.ttl">
+  <!--[if lt IE 9]>
+  <script src="//static.data.ox.ac.uk/lib/html5shiv.min.js"></script>
+  <![endif]-->
+    <script type="text/javascript">
+      var staticURL = "//static.data.ox.ac.uk/";
+    </script>
+    <script type="text/javascript" src="//static.data.ox.ac.uk/lib/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="//static.data.ox.ac.uk/lib/openlayers/OpenLayers.js"></script>
+    <script   type="text/javascript" src="//static.data.ox.ac.uk/app/dataox-1.0.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="//static.data.ox.ac.uk/js/base.js"></script>
+    
+    <link href="//data.ox.ac.uk/search/?opensearchdescription" type="application/opensearchdescription+xml" rel="search" title="data.ox.ac.uk">
+  </head>
+
+
+  <body class="">
+    <div class="container">
+    <header>
+      <a href="http://www.ox.ac.uk/">
+        <img src="//static.data.ox.ac.uk/brandmark.gif" alt="University of Oxford"/>
+      </a>
+      
+      <p class="title">Open Data about the University of Oxford</p>
+      <p>data.ox.ac.uk</p>
+      
+      <a href="https://docs.data.ox.ac.uk/overview.html#service-status"><img src="//static.data.ox.ac.uk/beta.png" alt="beta" title="data.ox.ac.uk is currently in beta" id="beta-badge"/></a>
+    </header>
+    
+    <nav>
+      <ul>
+
+        <li><a href="//data.ox.ac.uk/">home</a></li>
+        <li><a href="//data.ox.ac.uk/datasets/">datasets</a></li>
+        <li><a href="//data.ox.ac.uk/explore/">explore</a></li>
+        <li><a href="//data.ox.ac.uk/sparql/">sparql</a></li>
+        <li><a href="https://docs.data.ox.ac.uk/">documentation</a></li>
+        <li><a href="//data.ox.ac.uk/contact/">contact</a></li>
+
+      </ul>
+
+      <div class="search-form">
+        <form method="get" action="//data.ox.ac.uk/search/" style="display:inline;">
+          <label for="search-query">Search&hellip;</label>
+          <input id="search-query" name="q" style="width:100px"/>
+          <input class="search-submit" type="submit" value="Search"/>
+        </form>
+      </div>
+
+    </nav>
+
+    <article>
+    
+  
+    <div class="badges" style="float:right">
+      
+        <a href="/doc/?uri=http%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F">
+          <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" alt="http://creativecommons.org/publicdomain/zero/1.0/"/>
+        </a>
+      
+      
+        <a href="https://docs.data.ox.ac.uk/glossary.html#term-open-data-stars">
+          <img src="//static.data.ox.ac.uk/desc/stars/data-badge-5.png" alt="5-star dataset"/>
+        </a>
+      
+    </div>
+    
+  
+    
+    <h1>
+      OxPoints
+    </h1>
+    
+    <div class="subject-uri">URI: <a href="https://data.ox.ac.uk/id/dataset/oxpoints" title="This identifies the thing this page is about. You should use it when referring to OxPoints (as opposed to the URL for this page, or the homepage for this thing)">https://data.ox.ac.uk/id/dataset/oxpoints</a></div>
+
+    
+      <a href="http://www.oucs.ox.ac.uk/oxpoints/">http://www.oucs.ox.ac.uk/oxpoints/</a>
+    
+    
+    
+      <div class="description">OxPoints is the University's geospatial, temporal and organisational RDF store.<br/>
+<br/>
+OxPoints aims to contain information about most political and built entities within the University, including college, department, building and rooms.</div>
+    
+    
+    
+    
+    <div style="clear:both"></div>
+    
+
+    
+
+    
+    <aside class="toolbox">
+      
+      <section class="page-metadata">
+        <h2>Toolbox</h2>
+        <ul>
+          <li>
+            <a href="//data.ox.ac.uk/sparql/?query=SELECT%20%3Fsubject%20%3Fpredicate%20WHERE%20%7B%20%20%3Fsubject%20%3Fpredicate%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20%7D%20LIMIT%20200">
+              What links here
+            </a>
+          </li>
+          
+            <li>
+              Other things of type:
+                
+                <a href="//data.ox.ac.uk/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%20%3Fsubject%20a%20%3Chttp%3A//rdfs.org/ns/void%23Dataset%3E%20%7D%20LIMIT%20200">
+                  dataset</a>, 
+                
+                <a href="//data.ox.ac.uk/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%20%3Fsubject%20a%20%3Chttp%3A//www.w3.org/ns/dcat%23Dataset%3E%20%7D%20LIMIT%20200">
+                  Dataset</a>
+              
+            </li>
+          
+          <li><a href="http://sig.ma/search?q=https%3A//data.ox.ac.uk/id/dataset/oxpoints">View at sig.ma</a></li>
+        </ul>
+        
+        <h2>Page metadata</h2>
+<!-- This isn't working at the moment
+        <h3>Applicable licences</h3>
+
+        <p>The licensing of these data is unknown.</p>
+
+
+        <h3>Datasets</h3>
+
+        <p>This data was not drawn from any datasets.</p>
+
+-->
+
+        
+        <h3>Other formats</h3>
+        
+        <ul>
+
+          <li>
+            <a href="https://data.ox.ac.uk/doc/dataset/oxpoints.html">HTML</a>
+          </li>
+
+          <li>
+            <a href="https://data.ox.ac.uk/doc/dataset/oxpoints.n3">Notation3</a>
+          </li>
+
+          <li>
+            <a href="https://data.ox.ac.uk/doc/dataset/oxpoints.nt">NTriples</a>
+          </li>
+
+          <li>
+            <a href="https://data.ox.ac.uk/doc/dataset/oxpoints.rdf">RDF/XML</a>
+          </li>
+
+          <li>
+            <a href="https://data.ox.ac.uk/doc/dataset/oxpoints.ttl">Turtle</a>
+          </li>
+
+        </ul>
+
+        <h3>Queries</h3>
+
+        <p>This page was generated using the following queries:</p>
+
+        <ul>
+
+          <li>
+            <a href="//data.ox.ac.uk/sparql/?common_prefixes=on&amp;query=PREFIX%20dcterms%3A%20%3Chttp%3A//purl.org/dc/terms/%3E%0APREFIX%20void%3A%20%3Chttp%3A//rdfs.org/ns/void%23%3E%0A%0ADESCRIBE%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20%3Fname%20%7B%0A%20%20%7B%20%3Fname%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20%7D%0A%20%20UNION%0A%20%20%7B%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20dcterms%3Asource%20%3Fname%20%7D%0A%20%20UNION%0A%20%20%7B%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20dcterms%3Alicense%20%3Fname%20%7D%0A%7D">PREFIX dcterms: &lt;http://purl.org/dc/terms/&gt; PREFIX void: &lt;http://rdfs.org/ns/void#&gt; DESCRIBE &lt;https://data.ox.ac.uk/id/dataset/oxpoints&gt; ?name { ...</a>
+          </li>
+
+        </ul>
+
+      </section>
+
+    </aside>    
+    
+    
+    
+
+    
+    
+
+<p style="text-align:center">
+  <a href="#metadata">Metadata</a> &#8226;
+  <a href="#explore">Explore</a> &#8226;
+  <a href="#data">Data</a>
+</p>
+
+<section id="metadata">
+  <h2>Dataset metadata</h2>
+
+  <table class="description">
+    <tbody>
+      <tr class="row-odd">
+        <th>License:</th>
+        <td><a href="/doc/?uri=http%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F">Creative Commons Zero</a></td>
+      </tr>
+      <tr class="row-even">
+        <th>Attribution:</th>
+        <td>
+          
+            "University of Oxford (<a href="http://www.oucs.ox.ac.uk/oxpoints/">http://www.oucs.ox.ac.uk/oxpoints/</a>)"
+            <em>(attribution encouraged)</em>
+          
+        </td>
+      </tr>
+      <tr class="row-even">
+        <th>Created:</th>
+        <td><em>unknown</em></td>
+      </tr>
+      <tr class="row-odd">
+        <th>Modified:</th>
+        <td><em>unknown</em></td>
+      </tr>
+      <tr class="row-even">
+        <th>Publisher:</th>
+        <td>
+          
+            <a href="https://data.ox.ac.uk/doc:oxpoints/31337175">IT Services</a>
+            
+          
+        </td>
+      </tr>
+      <tr class="row-odd">
+        <th>Maintainer:</th>
+        <td>
+          
+            <em>unknown</em>
+          
+        </td>
+      </tr>
+      <tr class="row-even">
+        <th>Rights holder:</th>
+        <td>
+          
+            <a href="https://data.ox.ac.uk/doc:oxpoints/00000000">University of Oxford</a>
+            
+          
+        </td>
+      </tr>
+      <tr class="row-odd">
+        <th>Contact:</th>
+        <td>
+          
+            <a href="mailto:oxpoints@oucs.ox.ac.uk">Oxford University Computing Services</a>
+          
+        </td>
+      </tr>
+      
+    </tbody>
+  </table>
+</section>
+
+<section id="explore">
+  <h2>Explore this dataset</h2>
+  
+  <table class="description">
+    <tbody>
+      <tr class="row-odd">
+        <th>Example resources:</th>
+        <td>
+          
+            <a href="https://data.ox.ac.uk/doc:oxpoints/32320008">Bodleian Library</a>
+            <br/>
+          
+            <a href="https://data.ox.ac.uk/doc:oxpoints/23233678">Oxford Department of International Development</a>
+            <br/>
+          
+            <a href="https://data.ox.ac.uk/doc:oxpoints/23233759">Radcliffe Camera</a>
+            <br/>
+          
+            <a href="https://data.ox.ac.uk/doc:oxpoints/23232622">Saïd Business School</a>
+            <br/>
+          
+            <a href="https://data.ox.ac.uk/doc:oxpoints/59030245">University Science Area</a>
+            <br/>
+          
+            <a href="https://data.ox.ac.uk/doc:oxpoints/00000000">University of Oxford</a>
+            
+          
+        </td>
+      </tr>
+      <tr class="row-even">
+        <th>Example queries:</th>
+        <td>
+          
+            <a href="/sparql/?query=prefix%20dc%3A%20%3Chttp%3A//purl.org/dc/elements/1.1/%3E%0Aprefix%20dcterms%3A%20%3Chttp%3A//purl.org/dc/terms/%3E%0Aprefix%20oxp%3A%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23%3E%0ASELECT%20%3Fdepartment%20%3Fbuilding%20WHERE%20%7B%0A%20%20%3Fdepartment%20a%20oxp%3ADepartment%20%3B%0A%20%20%20%20dcterms%3AisPartOf%2B%20%3Chttp%3A//oxpoints.oucs.ox.ac.uk/id/23232639%3E%20%3B%0A%20%20%20%20oxp%3AprimaryPlace/dcterms%3AisPartOf%2A%20%3Fbuilding%20.%0A%20%20%20%20%3Fbuilding%20a%20oxp%3ABuilding%20.%0A%7D%20ORDER%20BY%20%3Flabel">Departments in the MPLS division and their primary locations</a>
+            <br/>
+          
+            <a href="/sparql/?query=prefix%20dcterms%3A%20%3Chttp%3A//purl.org/dc/terms/%3E%0Aprefix%20oxp%3A%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23%3E%0ASELECT%20%3Fdivision%20%28count%28%3Fbuilding%29%20as%20%3Fnumber_of_buildings%29%20WHERE%20%7B%0A%20%3Fdivision%20a%20oxp%3ADivision%20.%0A%20%3Fbuilding%20a%20oxp%3ABuilding%20%3B%0A%20dcterms%3AisPartOf%2A/%5Eoxp%3Aoccupies/dcterms%3AisPartOf%2A%20%3Fdivision%0A%20%7D%20GROUP%20BY%20%3Fdivision">Number of buildings occupied per division</a>
+            
+          
+        </td>
+      </tr>
+      <tr class="row-odd">
+        <th>Vocabularies in use:</th>
+        <td>
+          
+            <a href="/desc/?uri=http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23">http://www.w3.org/2004/02/skos/core#</a>
+            <br/>
+          
+            <a href="/desc/?uri=http%3A%2F%2Fwww.w3.org%2F2006%2Fvcard%2Fns%23">http://www.w3.org/2006/vcard/ns#</a>
+            <br/>
+          
+            <a href="/desc/?uri=http%3A%2F%2Fwww.w3.org%2FTR%2Fvocab-dcat%2F">http://www.w3.org/TR/vocab-dcat/</a>
+            <br/>
+          
+            <a href="/desc/?uri=http%3A%2F%2Fwww.w3.org%2Fns%2Forg">http://www.w3.org/ns/org</a>
+            <br/>
+          
+            <a href="/doc/?uri=http%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2F">Friend of a Friend (FOAF) vocabulary</a>
+            <br/>
+          
+            <a href="/doc/?uri=http%3A%2F%2Fns.ox.ac.uk%2Fnamespace%2Foxpoints%2F2009%2F02%2Fowl%23">OxPoints ontology</a>
+            <br/>
+          
+            <a href="/doc/?uri=http%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23">The RDF Concepts Vocabulary (RDF)</a>
+            <br/>
+          
+            <a href="/doc/?uri=http%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23">The RDF Schema vocabulary (RDFS)</a>
+            <br/>
+          
+            <a href="/doc/?uri=http%3A%2F%2Fwww.w3.org%2F2003%2F01%2Fgeo%2Fwgs84_pos%23">geo</a>
+            <br/>
+          
+            <a href="/doc/?uri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F">DCMI Metadata Terms - other</a>
+            <br/>
+          
+            <a href="/doc/?uri=http%3A%2F%2Fpurl.org%2Fdc%2Felements%2F1.1%2F">Dublin Core Metadata Element Set, Version 1.1</a>
+            <br/>
+          
+            <a href="/doc/?uri=http%3A%2F%2Fwww.w3.org%2F2006%2Fvcard%2Fns">Ontology for vCard</a>
+            <br/>
+          
+            <a href="/doc/?uri=http%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore">SKOS Vocabulary</a>
+            
+          
+        </td>
+      </tr>
+      
+      <tr class="row-even">
+        <th>Classes in use:</th>
+        <td>
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//purl.org/wai%23Profile%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">http://purl.org/wai#Profile</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//xmlns.com/foaf/0.1/Agent%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Agent</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//xmlns.com/foaf/0.1/Document%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Document</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//xmlns.com/foaf/0.1/Group%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Group</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//xmlns.com/foaf/0.1/Image%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Image</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//xmlns.com/foaf/0.1/OnlineAccount%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Online Account</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23College%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Oxford college</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Hall%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Permanent Private Hall</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Building%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">building</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23SubLibrary%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">call location</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//rdfs.org/ns/void%23Dataset%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">dataset</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Department%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">department</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Division%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">division</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Library%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">library</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Museum%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">museum</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//www.w3.org/2006/vcard/ns%23Address%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Address</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//www.w3.org/2004/02/skos/core%23Collection%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Collection</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//www.w3.org/ns/dcat%23Dataset%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Dataset</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//www.w3.org/2006/vcard/ns%23Fax%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Fax</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//www.w3.org/ns/org%23Organization%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Organization</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//www.w3.org/2006/vcard/ns%23Voice%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Voice</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//purl.org/meter/Measure%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">meter:Measure</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//purl.org/openorg/space-configuration/Banquet%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oosc:Banquet</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//purl.org/openorg/space-configuration/Boardroom%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oosc:Boardroom</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//purl.org/openorg/space-configuration/Cabaret%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oosc:Cabaret</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//purl.org/openorg/space-configuration/Classroom%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oosc:Classroom</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//purl.org/openorg/space-configuration/ComputerLaboratory%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oosc:ComputerLaboratory</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//purl.org/openorg/space-configuration/Reception%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oosc:Reception</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//purl.org/openorg/space-configuration/Theatre%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oosc:Theatre</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//purl.org/openorg/space-configuration/UShape%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oosc:UShape</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23BuildingPart%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:BuildingPart</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Carpark%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:Carpark</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23DTC%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:DTC</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23OpenSpace%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:OpenSpace</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Outside%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:Outside</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23StudentGroup%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:StudentGroup</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Place%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">place</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Room%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">room</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//www.w3.org/ns/sparql-service-description%23Graph%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">sd:Graph</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Site%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">site</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Space%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">space</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23Unit%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">unit</a>
+            
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20a%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23University%3E%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">university</a>
+            
+            
+          
+        </td>
+      </tr>
+
+      <tr class="row-odd">
+        <th>Predicates in use:</th>
+        <td>
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/NET/humfrey/ns/dataDumpWithLabels%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">http://purl.org/NET/humfrey/ns/dataDumpWithLabels</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/wai%23profiles%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">http://purl.org/wai#profiles</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2007/05/powder-s%23describedby%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">http://www.w3.org/2007/05/powder-s#describedby</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/openorg/contact%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Contact</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//rdfs.org/ns/void%23dataDump%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Data Dump</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasOBNCode%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Estates identifier</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasITHomepage%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">IT homepage</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasOLISAlephCode%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">OLIS code</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasOUCSCode%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">OUCS code</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasOLISCode%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Old OLIS code</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasOSMIdentifier%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">OpenStreetMap feature identifier</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasWeblearn%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">WebLearn site</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//xmlns.com/foaf/0.1/account%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">account</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//xmlns.com/foaf/0.1/accountName%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">account name</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//xmlns.com/foaf/0.1/accountServiceHomepage%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">account service homepage</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/openorg/capacity%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">capacity</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2000/01/rdf-schema%23comment%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">comment</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23primaryPlace%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">has primary place</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//rdfs.org/ns/void%23inDataset%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">in dataset</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2000/01/rdf-schema%23label%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">label</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2003/01/geo/wgs84_pos%23lat%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">latitude</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//xmlns.com/foaf/0.1/logo%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">logo</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23occupies%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">occupies</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/1999/02/22-rdf-syntax-ns%23value%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">value</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//xmlns.com/foaf/0.1/weblog%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">weblog</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/terms/conformsTo%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Conforms To</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/terms/modified%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Date Modified</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/elements/1.1/description%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Description</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2003/12/exif/ns%23height%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Height</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/elements/1.1/type%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Type</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//creativecommons.org/ns%23attributionName%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">cc:attributionName</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//creativecommons.org/ns%23attributionURL%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">cc:attributionURL</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//xmlns.com/foaf/0.1/depiction%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">depiction</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//rdfs.org/ns/void%23exampleResource%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">example resource of dataset</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasFinanceCode%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">finance code</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//xmlns.com/foaf/0.1/img%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">image</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasLibraryHomepage%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">library description page</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2003/01/geo/wgs84_pos%23long%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">longitude</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/meter/measures%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">meter:measures</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//xmlns.com/foaf/0.1/name%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">name</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/openorg/exampleQuery%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oo:exampleQuery</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasDepartmentCode%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:hasDepartmentCode</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23reception%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:reception</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/1999/02/22-rdf-syntax-ns%23type%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">type</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/terms/created%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Date Created</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/terms/description%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Description</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/elements/1.1/format%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Format</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/terms/isPartOf%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Is Part Of</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/terms/license%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">License</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/terms/publisher%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Publisher</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/terms/rightsHolder%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Rights Holder</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/terms/title%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Title</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/dc/elements/1.1/title%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Title</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2003/12/exif/ns%23width%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">Width</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2006/vcard/ns%23adr%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">address</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2004/02/skos/core%23altLabel%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">alternative label</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/ns/dcat%23dataset%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">dataset</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2006/vcard/ns%23extended-address%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">extended address</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2004/02/skos/core%23exactMatch%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">has exact match</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2004/02/skos/core%23member%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">has member</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/ns/org%23hasSite%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">has site</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2004/02/skos/core%23hiddenLabel%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">hidden label</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//xmlns.com/foaf/0.1/homepage%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">homepage</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2006/vcard/ns%23locality%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">locality</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//creativecommons.org/ns%23license%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">has
+		  license</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/meter/supplies%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">meter:supplies</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2004/02/skos/core%23notation%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">notation</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//purl.org/openorg/space-configuration/spaceConfiguration%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oosc:spaceConfiguration</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//open.vocab.org/terms/prefAcronym%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">ov:prefAcronym</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//open.vocab.org/terms/sortLabel%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">ov:sortLabel</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23displayInMapsDepartmentList%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:displayInMapsDepartmentList</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23floor%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:floor</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasDivisionCode%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:hasDivisionCode</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23hasLibraryDataId%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:hasLibraryDataId</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23managedBuilding%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:managedBuilding</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23mapLabel%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:mapLabel</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23measureIdentifier%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:measureIdentifier</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//ns.ox.ac.uk/namespace/oxpoints/2009/02/owl%23shortLabel%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">oxp:shortLabel</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//xmlns.com/foaf/0.1/mbox%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">personal mailbox</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//rdfs.org/ns/void%23vocabulary%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">vocabulary</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2006/vcard/ns%23postal-code%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">postal code</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2004/02/skos/core%23prefLabel%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">preferred label</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/ns/org%23hasPrimarySite%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">primary Site</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//data.ordnancesurvey.co.uk/ontology/spatialrelations/within%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">spatialrelations:within</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2006/vcard/ns%23street-address%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">street address</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/ns/org%23subOrganizationOf%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">subOrganization of</a>
+            &#8226;
+          
+            <a href="/sparql/?query=SELECT%20%3Fsubject%20%3Fobject%20WHERE%20%7B%20%3Fg%20void%3AinDataset%20%3Chttps%3A//data.ox.ac.uk/id/dataset/oxpoints%3E%20.%20GRAPH%20%3Fg%20%7B%20%3Fsubject%20%3Chttp%3A//www.w3.org/2006/vcard/ns%23tel%3E%20%3Fobject%20%7D%20%7D%20LIMIT%20200&amp;common_prefixes=on">telephone</a>
+            
+          
+        </td>
+      </tr>
+
+    </tbody>
+  </table>
+  
+</section>
+
+<section id="data">
+  <h2>Get the data!</h2>
+  <table class="description">
+    <tbody>
+      <tr class="row-odd">
+        <th>Dataset homepage:</th>
+        <td><a href="/desc/?uri=http%3A%2F%2Fwww.oucs.ox.ac.uk%2Foxpoints%2F">http://www.oucs.ox.ac.uk/oxpoints/</a></td>
+      </tr>
+      <tr class="row-even">
+        <th>Source data:</th>
+        <td>
+          
+            <em>
+              No source data referenced.<br/>
+              <a href="mailto:oxpoints@oucs.ox.ac.uk">Contact the publisher for more information.</a>
+            </em>
+          
+        </td>
+      </tr>
+      <tr class="row-odd">
+        <th>RDF graphs:</th>
+        <td>
+         
+           <a href="https://data.ox.ac.uk/graph/archive/oxpoints">https://data.ox.ac.uk/graph/archive/oxpoints</a>
+           &#8226;
+         
+           <a href="https://data.ox.ac.uk/graph/oxpoints/data">https://data.ox.ac.uk/graph/oxpoints/data</a>
+           &#8226;
+         
+           <a href="https://data.ox.ac.uk/graph/oxpoints/metadata">https://data.ox.ac.uk/graph/oxpoints/metadata</a>
+           &#8226;
+         
+           <a href="https://data.ox.ac.uk/graph/oxpoints/personae">https://data.ox.ac.uk/graph/oxpoints/personae</a>
+           
+         
+        </td>
+      </tr>
+      <tr class="row-even">
+        <th>Data dump</th>
+        <td>
+          <a href="https://source.data.ox.ac.uk/archive/public/oxpoints/latest.rdf">https://source.data.ox.ac.uk/archive/public/oxpoints/latest.rdf</a>
+          
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</section>
+
+
+    
+    
+
+    <div style="clear:both"></div>
+</article>
+
+      <footer>
+        Site © University of Oxford •
+        <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" title="Attribution-ShareAlike 2.0 UK: England &amp; Wales">CC-BY-SA 2.0</a> •
+        <a href="//data.ox.ac.uk/legal-and-privacy/">Legal and privacy</a> •
+        <a href="https://github.com/ox-it/dataox">Source</a>
+      </footer>
+    </div>
+    
+<script type="text/javascript" src="//active.oucs.ox.ac.uk/shared/stylesheet/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="//active.oucs.ox.ac.uk/shared/stylesheet/analytics/analytics.js"></script>
+<script type="text/javascript">
+  optionalAnalytics({
+	  analyticsID: "UA\u002D35258720\u002D1",
+	  domain: ".data.ox.ac.uk",
+	  doNotTrack: false,
+	  privacyPolicyURL: "//data.ox.ac.uk/legal\u002Dand\u002Dprivacy/#analytics",
+	  policy: "out-out",
+          extraGaq: [["_setCustomVar", 1, "authenticated", "no", 2]]
+  });
+</script>
+
+
+  </body>
+
+</html>

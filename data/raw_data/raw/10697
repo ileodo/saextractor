@@ -1,0 +1,255 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <title>UAS events, UAS Home</title>
+<!-- three column -->
+
+    <link rel="icon" type="image/gif" href="/media/global/wwwadminoxacuk/styleassets/images/favicon.gif" />
+    <link rel="shortcut icon" type="image/gif" href="/media/global/wwwadminoxacuk/styleassets/images/favicon.gif" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Cache-Control" content="max-age=10800" />
+    <meta name="description" content="UAS events, UAS Home" />
+    <meta name="keywords" content="University Administration and Services, UAS, adminweb, administrative information, central, administration, admin, departments, university, offices, " />
+    <meta http-equiv="imagetoolbar" content="No" />
+    <meta name="DC.Author" content="Public Affairs Directorate" />
+    <meta name="DC.Coverage" content="unlimited" />
+    <meta name="DC.Creator" content="University of Oxford" />
+    <meta name="DC.Date.modified" content="15 Jan 15" />
+    <meta name="DC.Description" content="UAS events, UAS Home" />
+    <meta name="DC.Format" content="application/xhtml" />
+    <meta name="DC.Language" content="en" />
+    <meta name="DC.Publisher" content="University of Oxford" />
+    <meta name="DC.Rights" content="Copyright University of Oxford" />
+    <meta name="DC.subject" content="UAS events, University Administration and Services, UAS, adminweb, administrative information, central, administration, admin, departments, university, offices, " />
+    <meta name="DC.title" content="UAS events, UAS Home" />
+    
+    <!-- Add NO ARCHIVE meta tag if required -->
+    
+    <script type="text/javascript">
+var ga_array = [];
+if (typeof [['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']] != "undefined")
+{
+	ga_array = [['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']];
+}
+else
+{
+	ga_array = [['_setAccount', "[['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']]"]];
+}
+</script>
+    <!-- javascript file includes -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/jquery.js">
+</script><!-- jquery -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/jquery.clickOrEnter.js">
+</script><!-- jquery.clickOrEnter.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/all.js">
+</script><!-- all.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/page_setup.js">
+</script><!-- page_setup.js -->
+
+    <!-- Related Content Advanced -->
+    
+
+
+    <!-- CSS file combined from subversion-->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/all-t4-production.css" />
+    <!-- CSS file for FAQ-->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/FAQ-new.css" />
+    <!-- CSS for Gl More/Less -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/togglePanel.css" />
+    <!-- CSS for general bugFixing -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/generalBugFix.css" />
+    <!-- CSS for A to Z -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/AtoZ.css" />
+
+
+    <!-- navigation object : Gl CSS Selector -->
+ <!-- navigation object : Gl CSS Selector -->
+    
+    <!-- note: the 'stripy' IE bug seems to have been caused by something in alumni/nav_primary.css,
+    not a change to the main nav_primary. The difference is that before the width was defined on
+    #primary-nav ul  (defined differently for the different images that go into it) but now is
+    not. With width on #primary-nav ul this goes away -->
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/prinav.css" />
+
+    <!--[if IE 6]><script src="/media/global/wwwadminoxacuk/styleassets/js/ie6.js" type="text/javascript"></script><script type="text/javascript" src="/media/global/wwwoxacuk/styleassets/js/pngfix.jquery.js">
+</script><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/ie6.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/togglePanel-IE6.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/AtoZ-IE6_from_production.css" /><![endif]-->
+    
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/handheld.css" media="handheld" />
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/print.css" media="print" />
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/oxonly_fix_padlocks.css" media="all" />
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/ie7.css" /><![endif]-->  
+</head>
+
+  <body>
+ 
+        <!-- header content on page -->
+    <div id="header-wrapper">
+      <div id="header">
+
+        <ul id="access-links">
+          <li><a id="skipnav" href="#primary-content" accesskey="s">Start of main content</a></li>
+        </ul>
+
+        <div id="logos">
+          <span class="screenonly">
+            <a id="logo" href="/">
+              <img src="/media/global/wwwadminoxacuk/styleassets/images/uashomebanner/header_uas.gif" alt="Header image for UAS" height="66" width="312" class="floated"  />
+            </a>
+          </span>
+          <span class="printonly">
+            <img src="/media/global/wwwadminoxacuk/styleassets/images/uashomebanner/UAS_header_print.png" alt="UAS Header print" height="66" width="312" class="floated"  />
+          </span>
+        </div>
+
+        <div class="find-it">
+          <form id="searchform" action="http://www2.admin.ox.ac.uk/search_multiplex/multiplex.php" method="get">
+ <div>
+  <label for="searchinput">Search</label>
+
+  <input type="text" name="q" id="searchinput" value="Enter search term" />
+  <input type="image" name="submit" alt="Search" src="/media/global/wwwadminoxacuk/styleassets/images/button_search.gif" class="searchbutton" />
+  <input type="hidden" name="access" value="p" />
+  <input type="hidden" name="output" value="xml_no_dtd" />
+  <input type="hidden" name="ie" value="UTF-8" />
+  <input type="hidden" name="client" value="admin" />
+  <input type="hidden" name="proxystylesheet" value="admin" />
+  <input type="hidden" name="subsite" value="admin" />
+  <input type="hidden" name="subsitename" value="UAS Home" />
+
+  <fieldset>
+
+  <label for="search-type" class="radio">
+      <input id="search-type" class="radio radio-first" type="radio" 
+             name="search-type" value="subsite" 
+             checked="checked" 
+      />This site</label>
+    <label for="search-type2" class="radio">
+      <input id="search-type2" class="radio" type="radio" 
+             name="search-type" value="pages" 
+ />University of Oxford</label>
+    <label for="search-type3" class="radio">
+      <input id="search-type3" class="radio" type="radio" 
+             name="search-type" value="people" 
+      />People</label>
+
+  </fieldset>
+ </div>
+</form>
+
+        </div>
+        
+        <!-- Add header_logo_right -->
+        <div class="university-logo">
+          <a href="http://www.ox.ac.uk/">
+           
+          <img src="/media/global/wwwadminoxacuk/styleassets/images/header_logo.gif" alt="University of Oxford" height="115" width="115" class="floated"  />
+
+          </a>
+        </div>
+        
+        <!-- Primary Nav -->
+        
+
+      </div>
+    </div>      
+    <div id="wrapper">
+      <div id="content">         
+          <a href="/" id="departmental-logo"></a>
+          
+          <div id="breadcrumb">
+            <ol><!-- navigation object : Gl Pre Breadcrumb Locator --> <!-- navigation object : Gl Breadcrumbs --><li><a href="/">UAS Home</a></li><li><a href="/uas/">UAS</a></li><li><a href="/uas/events/">UAS events</a></li></ol>
+          </div><div class="clear"></div>
+         
+	  <div id="uas-wrapper">
+            <div id="secondary-content">
+              <!-- Main Left Nav -->
+              <ul id="secondary-nav"><li><a href="/aboutus/">About UAS</a></li><li><a href="/uas/newtouas/">New to UAS</a></li><li><a href="/uassections/">UAS sections</a></li><li><a href="/uas/events/">UAS events</a></li><li><a href="/uaswebsites/">UAS websites</a></li><li><a href="/uasconference/">UAS Conference</a></li></ul>
+
+              <!-- Under Left Nav -->
+	      
+            </div>
+              
+            <div id="primary-content">
+              <a name="149311"></a><h1>UAS events</h1>
+
+
+
+<div class="banner"><img src="/media/global/wwwadminoxacuk/localsites/uashomepages/images/banner/oxford_skyline.jpg" alt="" height="135" width="470" class="floated"  /></div>
+
+<p>A number of events are available for staff within University Administration and Services (UAS), as well as colleagues from across the collegiate University who would like to find out more about the University&rsquo;s administrative functions.</p>
+<div class="indexBox_half">
+<h2><a href="/uas/events/induction/">UAS Induction Programme</a></h2>
+<div class="summary"><p>Find out more about the collegiate University, and UAS and its sections at a UAS Induction event.</p></div>
+<a href="/uas/events/induction/"><img src="/media/global/wwwadminoxacuk/localsites/uashomepages/images/UAS_Conf_group_index.jpg" alt="" height="62" width="215" class="floated"  /></a>
+</div><div class="indexBox_half">
+<h2><p><a href="http://www.admin.ox.ac.uk/uasconference/" target="_blank">UAS Conference Series</a></p></h2>
+<div class="summary"><p>Information and training event for staff interested in the University's administrative activities. </p></div>
+<p><a href="http://www.admin.ox.ac.uk/uasconference/" target="_blank"><img src="/media/global/wwwadminoxacuk/localsites/uashomepages/images/UAS_Conf_session_2_index.jpg" alt="" height="62" width="215" class="floated"  /></a></p>
+</div><!-- navigation object : Gl Footer Link -->
+                <ul id="content-extras">
+  <li class="back-to-top"><a href="#wrapper"><span>Back to top</span></a></li>
+ <!-- <li class="send">
+		<script type="text/javascript">
+			$(document).ready(function(){    
+			var jQryDoc= document.URL;
+			var jQryText = "" + jQryDoc +"";
+			$("div.recommendpage").html("<a href=\"mailto:?subject=Recommended: Available Templates&body="+jQryText+"\"><span>Recommend this page<\/span><\/a>");
+			});
+		</script>
+		
+		<div class="recommendpage"></div>
+		<noscript><a href="mailto:?subject=Recommended: Available Templates"><span>Recommend this page</span></a></noscript>
+</li>-->
+</ul>
+
+            </div>
+ 
+            <!-- Tertiary Content -->
+            <div id="tertiary-content">  
+              <!-- navigation object : GL RHS --><!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>Related links</h2>
+
+ <p><a href="http://www.ox.ac.uk/staff/events/index.html" target="_blank" title="Staff Gateway">Staff Gateway - events</a></p>
+</div>
+<!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+
+
+ <p>&nbsp;</p>
+<p><img src="/media/global/wwwadminoxacuk/localsites/uashomepages/uasconference/images/UASConferencelogo2015_sized.jpg" alt="UAS Conference logo 2014/15" height="126" width="126" class="floated"  /></p>
+<p><a href="http://www.admin.ox.ac.uk/uasconference/" target="_blank">Next event: Wednesday, 23 September 2015, Mathematical Institute, Radcliffe Observatory Quarter</a></p>
+</div>
+<!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>Contact</h2>
+
+ <p>Can't find what you are looking for? <a href="mailto:uas.communications@admin.ox.ac.uk" title="Email">Email UAS Communications</a>.</p>
+</div>
+
+            </div>
+          </div>
+
+          <!--[if IE 6]><div class="clear"></div><![endif]-->
+        </div>
+
+        <div id="footer">
+          <dl id="footer-updated"><dt>Last updated</dt> <dd>15 Jan 15</dd></dl>
+          <ul class="extras">
+            <!-- navigation object : Ad Tools --><!--<li class="first">-->
+<!-- navigation object : UAS Home Site Map Link -->
+<!--<a href="/sitemap/">Site Map</a></li>-->
+            <li class="first"><a href="mailto:uas.communications@admin.ox.ac.uk">Contact this site's webmaster</a></li>
+            <li><a href="http://www.ox.ac.uk/copyright.html">Legal notice</a></li>
+            <li><a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/">Privacy Policy</a></li>
+          </ul>
+        <div class="clear"></div>
+      </div>
+    </div>
+
+  </body>
+</html>

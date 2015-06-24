@@ -61,9 +61,9 @@ def get_all_ids_istarget():
     get all targeted urls in url_lib
     :return:
     """
-    sql = """SELECT id FROM url_lib WHERE is_target IN (%s) """
+    sql = """SELECT id FROM url_lib WHERE is_target IN (%s,%s) """
     c = db_connect().cursor()
-    c.execute(sql, "%s,%s"%(config.const_IS_TARGET_UNKNOW,config.const_IS_TARGET_NO))
+    c.execute(sql, (config.const_IS_TARGET_UNKNOW,config.const_IS_TARGET_NO))
     res = c.fetchall()
     c.close()
     return [x['id'] for x in res]

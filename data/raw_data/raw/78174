@@ -1,0 +1,724 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><base href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-title" content="Haiku" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" /><title>Diet and Nutrition — The British Heart Foundation Centre on Population Approaches for Non-Communicable Disease Prevention</title><link rel="stylesheet" type="text/css" href="http://bhfcpnp.medsci.ox.ac.uk/portal_css/Turnkey%20Theme/themebootstrapcssbootstrap-cachekey-48fa964553e290ca2a5412e3e5afa97f.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://bhfcpnp.medsci.ox.ac.uk/portal_css/Turnkey%20Theme/resourcecollective.covercover-cachekey-22d95ce9841fb2d983db3f780745328a.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://bhfcpnp.medsci.ox.ac.uk/portal_css/Turnkey%20Theme/++resource++haiku.cover/overlays.css" /><link rel="stylesheet" type="text/css" href="http://bhfcpnp.medsci.ox.ac.uk/portal_css/Turnkey%20Theme/resourcehaiku.coverhaiku.chooser-cachekey-ab76099dd66e89f3c20e84faedd0245a.css" /><link rel="stylesheet" type="text/css" media="all" href="http://bhfcpnp.medsci.ox.ac.uk/portal_css/Turnkey%20Theme/ploneCustom-cachekey-6e921f51ac2d9378226bf132a9231245.css" /><link rel="canonical" href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1" /><link rel="shortcut icon" type="image/x-icon" href="http://bhfcpnp.medsci.ox.ac.uk//favicon.ico" /><link rel="apple-touch-icon" href="http://bhfcpnp.medsci.ox.ac.uk//apple-touch-icon.png" /><link rel="search" href="http://bhfcpnp.medsci.ox.ac.uk/@@search" title="Search this site" /><style type="text/css">/* Remove later today 28.05.2015 */
+body.mount-bhfcpnp #homepage-slideshow .caption,
+body.mount-bhfcpnp #homepage-slideshow .carousel-control, 
+body.mount-bhfcpnp #homepage-slideshow .carousel-indicators {
+    display: none !important;
+}</style><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjsvendorrespond-cachekey-c1c80a08e43f4cca78fd77380ba34505.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourceplone.app.jquery-cachekey-9734dfa12d81a45a061d913827497624.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/vendor/bootstrap.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorjquery.trunk8-cachekey-529c322043563e09086ab1c5b821e858.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/plone_javascript_variables-cachekey-34feba4e95d491a8dc4484364cffcb29.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourceplone.app.jquerytools-cachekey-45ca719b3a50ed770e5b92b4c093a741.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/modernizr-cachekey-ef8cc0372b2dc33cbccbca299ab3af74.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/mark_special_links-cachekey-99549dd9db2ba31a8df6ec1848e5d5de.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjsvendorunderscore-cachekey-790c5fa9bfe55cc799077755f4fc83c0.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorselect2-cachekey-d9a8e6b614bd910f3ac3e3f95cf5b6b8.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorjquery.quicksearch-cachekey-520277558701f40412665dd19c68d4ec.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/plugins/vendor/jquery.html5-placeholder-shim.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/vendor/hammer.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginshaikujquery.navigation-portlets-cachekey-2f79ba8a04e67cbdbde1c54a79de9d70.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjsplone-cachekey-4454401d089b1d8ffaedc7728723e004.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendormasonry-cachekey-51c7a556f04d72c42501ffb7a5a57697.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorimagesloaded-cachekey-4de51707ce9b0015b2c60f14090cfa67.js"></script><script type="text/javascript" src="http://bhfcpnp.medsci.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/turnkey-various.js"></script><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script>
+    <link href="http://bhfcpnp.medsci.ox.ac.uk/++theme++sublime-default/screen.css" rel="stylesheet" />
+  
+    <link href="http://bhfcpnp.medsci.ox.ac.uk/++theme++sublime-default/style.css" rel="stylesheet" />
+  </head><body class="template-view portaltype-researchgroup site-Plone section-research2 subsection-diet-and-nutrition-1 icons-on userrole-anonymous no-toolbar mount-bhfcpnp" dir="ltr"><div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-hidden="true"></div><div id="site-header" class="container">
+
+            
+
+            
+
+            <header class="row" style="margin-bottom:20px"><div class="col-sm-6">
+                    <h2><a id="primary-logo" title="The British Heart Foundation Centre on Population Approaches for Non-Communicable Disease Prevention" accesskey="1" href="http://bhfcpnp.medsci.ox.ac.uk">
+    <img src="http://bhfcpnp.medsci.ox.ac.uk/images/site-images/site-logo/@@images/image" title="The British Heart Foundation Centre on Population Approaches for Non-Communicable Disease Prevention" alt="The British Heart Foundation Centre on Population Approaches for Non-Communicable Disease Prevention" /></a></h2>
+                </div>
+                <div class="col-sm-6">
+                    <div class="pull-right">
+                        
+                    </div>
+                    <ul id="site-actions" class="list-unstyled list-inline pull-right"><li id="siteaction-sitemap"><a href="http://bhfcpnp.medsci.ox.ac.uk/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-accessibility"><a href="http://bhfcpnp.medsci.ox.ac.uk/accessibility" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-contact"><a href="http://bhfcpnp.medsci.ox.ac.uk/contact-info" accesskey="9" title="Contact">Contact</a></li>
+    <li id="siteaction-cookie-policy"><a href="http://bhfcpnp.medsci.ox.ac.uk/cookies" accesskey="" title="Cookies">Cookies</a></li>
+    <li id="siteaction-login"><a href="https://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1" accesskey="" title="Log in">Log in</a></li>
+
+</ul></div>
+            </header><nav role="navigation"><div class="row">
+                    <div class="col-sm-10">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle btn btn-default btn-block" data-toggle="collapse" data-target="#site-bar">
+                                <span>Menu</span>
+                            </button>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="site-bar">
+                            <ul id="portal-globalnav" class="nav nav-pills"><li id="portaltab-index_html" class="plain"><a href="http://bhfcpnp.medsci.ox.ac.uk" title="">Home</a></li><li id="portaltab-about" class="plain"><a href="http://bhfcpnp.medsci.ox.ac.uk/about" title="Appropriately initiate 24/365 core competencies after resource-leveling partnerships. Authoritatively initiate clicks-and-mortar metrics rather than parallel potentialities.">About us</a></li><li id="portaltab-research2" class="active"><a href="http://bhfcpnp.medsci.ox.ac.uk/research2" title="">Our Research</a></li><li id="portaltab-news" class="plain"><a href="http://bhfcpnp.medsci.ox.ac.uk/news" title="">News</a></li><li id="portaltab-upcoming-events" class="plain"><a href="http://bhfcpnp.medsci.ox.ac.uk/upcoming-events" title="">Events</a></li><li id="portaltab-publications" class="plain"><a href="http://bhfcpnp.medsci.ox.ac.uk/publications" title="">Publications</a></li><li id="portaltab-team" class="plain"><a href="http://bhfcpnp.medsci.ox.ac.uk/team" title="">Our team</a></li></ul></div>
+                    </div>
+                    <div class="col-sm-2">
+                        <form action="http://bhfcpnp.medsci.ox.ac.uk/@@search" id="site-search" class="form-inline" role="form">
+                            <div class="input-group">
+                                <label class="sr-only" for="SearchableText">Search</label>
+                                <input type="text" class="form-control" name="SearchableText" id="SearchableText" placeholder="Search" /><span class="input-group-btn">
+                                    <button class="btn" type="submit"><i class="glyphicon-search"></i></button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </nav><div class="row">
+                <div class="col-md-12">
+                    <ol class="breadcrumb" id="site-breadcrumbs"><li><span class="glyphicon glyphicon-home"></span></li><li><a href="http://bhfcpnp.medsci.ox.ac.uk/research2">Our Research</a></li><li class="active">Diet and Nutrition</li></ol></div>
+            </div>
+
+        </div><div id="content" class="container ">
+
+                            
+
+                            
+
+            
+
+    
+        <div id="above-page-header"></div>
+    
+
+    <!-- START header -->
+    
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="page-header">
+                    <div class="row">
+                        <div class="col-xs-12 col-sm-8">
+                            
+                                <h1>
+                                    Diet and Nutrition
+                                    <small>
+                                        
+                                    </small>
+                                </h1>
+                                
+
+                    <div class="row">
+                        <div class="col-md-7">
+                            
+
+                            
+                        </div>
+                        <div class="col-md-5">
+                            
+
+                            
+                        </div>
+                    </div>
+
+                
+                            
+                            
+                                
+                            
+                        </div>
+                        <div class="col-xs-12 col-sm-4">
+                            
+					        
+                        
+                  
+
+                
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <!-- END header -->
+
+    
+        <div id="below-page-header"></div>
+    
+
+    
+        <div id="above-page-content"></div>
+    
+
+    
+
+        <div class="row">
+
+            <!-- START main column -->
+            <div id="site-content" class="col-sm-8">
+
+                
+                    
+
+    
+
+        
+
+        
+            <div class="row" style="margin-bottom:20px">
+                <div class="col-md-12">
+                    
+
+    
+
+        <figure class="figure-primary"><div class="image-container">
+                <img src="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/@@images/image/feature" class="img-responsive" /></div>
+            
+        </figure></div>
+            </div>
+        
+
+    
+
+
+                
+
+                <div class="row">
+
+                    <div id="site-content-body" class="col-sm-8">
+
+                        
+                            <div class="rich-text">
+    <p>
+      The Centre’s research into diet and nutrition focuses on assessing the environmental determinants of dietary behaviour and modelling and evaluating population based interventions aimed at promoting healthier eating.  In particular it has focused on the marketing of foods (including their promotion, price and availability) and food labelling and also on interventions aimed influencing those determinants (such as so-called ‘junk food taxes’). In recent years it has developed a particular expertise in two areas: nutrient profiling and modelling the relationship between dietary change and health outcomes.
+    </p>
+    <p>
+      Over the next five years the Diet and Nutrition Programme will continue to focus on nutrient profiling and modelling the relationship between dietary change and health outcomes. It will continue to explore population based approaches for the creation and promotion of healthier food choice environments. It will also develop its work on the relationship between population dietary goals and food based dietary guidelines aimed at promoting public health and goals and guidelines aimed at protecting the environment particularly with respect to climate change (i.e. the relationship between health promotion and environmental sustainability in this area).
+    </p>
+    <p>
+       
+    </p>
+  </div>
+                        
+                    </div>
+
+                    <div id="site-content-sidebar" class="col-sm-4">
+
+                        
+                            
+
+    
+
+        <div class="portlet portlet-team box-featured">
+
+            <div class="panel panel-default">
+
+                <div class="panel-heading">
+                    <h3 class="panel-title">Our team</h3>
+                </div>
+
+                
+
+                <ul class="medium-list team-list"><li class="">
+                                <div class="media">
+                                    
+                                    <img class="img-responsive img-thumbnail pull-right" alt="Gill Cowburn" src="http://bhfcpnp.medsci.ox.ac.uk/team/senior-researchers/gill-cowburn/@@images/image/tile" /><div class="media-body">
+                                        <h5 class="media-heading">
+                                            
+                                                <a href="http://bhfcpnp.medsci.ox.ac.uk/team/senior-researchers/gill-cowburn" title="Gill Cowburn">
+                                                    <span>Gill Cowburn</span>
+                                                </a>
+                                            
+                                            
+                                            
+                                        </h5>
+                                        <p class="details">Senior Researcher</p>
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                        
+                    
+                    
+                        
+                            <li class="">
+                                <div class="media">
+                                    
+                                    <img class="img-responsive img-thumbnail pull-right" alt="Peter Scarborough" src="http://bhfcpnp.medsci.ox.ac.uk/team/senior-researchers/peter-scarborough/@@images/image/tile" /><div class="media-body">
+                                        <h5 class="media-heading">
+                                            
+                                                <a href="http://bhfcpnp.medsci.ox.ac.uk/team/senior-researchers/peter-scarborough" title="Peter Scarborough">
+                                                    <span>Peter Scarborough</span>
+                                                </a>
+                                            
+                                            
+                                            
+                                        </h5>
+                                        <p class="details">DPhil. University Research Lecturer</p>
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                        
+                    
+                    
+                        
+                            <li class="">
+                                <div class="media">
+                                    
+                                    <img class="img-responsive img-thumbnail pull-right" alt="Lynn Stockley" src="http://bhfcpnp.medsci.ox.ac.uk/team/senior-researchers/lynn-stockley/@@images/image/tile" /><div class="media-body">
+                                        <h5 class="media-heading">
+                                            
+                                                <a href="http://bhfcpnp.medsci.ox.ac.uk/team/senior-researchers/lynn-stockley" title="Lynn Stockley">
+                                                    <span>Lynn Stockley</span>
+                                                </a>
+                                            
+                                            
+                                            
+                                        </h5>
+                                        <p class="details"></p>
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                        
+                    
+                    
+                        
+                            <li class="">
+                                <div class="media">
+                                    
+                                    <img class="img-responsive img-thumbnail pull-right" alt="Asha Kaur" src="http://bhfcpnp.medsci.ox.ac.uk/team/students/asha-kaur/@@images/image/tile" /><div class="media-body">
+                                        <h5 class="media-heading">
+                                            
+                                                <a href="http://bhfcpnp.medsci.ox.ac.uk/team/students/asha-kaur" title="Asha Kaur">
+                                                    <span>Asha Kaur</span>
+                                                </a>
+                                            
+                                            
+                                            
+                                        </h5>
+                                        <p class="details">Researcher</p>
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </li>
+                        
+                    
+                </ul></div>
+
+        </div>
+
+        
+
+    
+
+
+
+                        
+                    </div>
+
+                </div>
+
+                
+                    <div id="below-page-body"></div>
+                
+
+            </div>
+            <!-- END main column -->
+
+            <!-- START portlets column -->
+            <div id="site-sidebar" class="col-sm-4">
+
+                
+
+                    
+                      
+
+  
+
+    <div class="navigation-portlet box-featured box-border-right" data-navigation-type="accordion">
+      <p><a data-target="top" href="#">Our Projects</a></p>
+      <ul class="list-unstyled"><li>
+            <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects">Current Projects</a>
+
+            
+
+            <ul class="list-unstyled"><li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects/flicc-front-of-pack-food-labelling-impact-on-consumer-choice">FLICC </a>
+
+                  
+                </li>
+              
+              
+                <li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects/nutrient-profiling">Nutrient Profiling</a>
+
+                  
+                </li>
+              
+              
+                <li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects/health-related-taxes-and-subsidies">Health related taxes and subsidies</a>
+
+                  
+                </li>
+              
+              
+                <li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects/school-food-journey-project">School Food Journey Project</a>
+
+                  
+                </li>
+              
+              
+                <li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects/inpard">INPARD</a>
+
+                  
+                </li>
+              
+            </ul></li>
+        
+        
+          <li>
+            <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects">Past Projects</a>
+
+            
+
+            <ul class="list-unstyled"><li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/modelling-the-impact-of-diet-on-health-outcomes">Modelling the impact of diet on health outcomes</a>
+
+                  
+                </li>
+              
+              
+                <li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/national-vending-survey">National Vending Survey</a>
+
+                  
+                </li>
+              
+              
+                <li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/analysis-of-the-effects-of-signpost-labelling">Analysis of the effects of signpost labelling </a>
+
+                  
+                </li>
+              
+              
+                <li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/survey-of-food-advertising-in-magazines-for-children-and-young-people">Survey of food advertising in magazines for children and young people</a>
+
+                  
+                </li>
+              
+              
+                <li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/analysis-of-food-promotion-to-children-across-europe">Analysis of food promotion to children across Europe</a>
+
+                  
+                </li>
+              
+              
+                <li>
+                  <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/a-systematic-review-of-the-research-on-consumer-understanding-of-nutrition-labelling">A systematic review of the research on consumer understanding of nutrition labelling</a>
+
+                  
+                </li>
+              
+            </ul></li>
+        
+      </ul></div>
+  
+
+
+                    
+
+                    
+
+                
+
+            </div>
+            <!-- END portlets column -->
+
+        </div>
+
+    
+
+    
+
+                    
+
+    <div class="row masonry-grid">
+
+        
+
+            
+
+                <div class="col-sm-4 grid-item" id="group-col-1">
+
+                    <a name="column-anchor-current-projects" id="column-anchor-current-projects"></a>
+
+                    
+
+                        
+                            
+
+    <h3>Current Projects</h3>
+    <div class="rich-text">
+      <ul class="list-unstyled"><li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects/flicc-front-of-pack-food-labelling-impact-on-consumer-choice" title="FLICC " class="state-published">FLICC </a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+          
+              
+
+                  
+
+                  
+                      <li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects/nutrient-profiling" title="Nutrient Profiling" class="state-published">Nutrient Profiling</a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+          
+              
+
+                  
+
+                  
+                      <li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects/health-related-taxes-and-subsidies" title="Health related taxes and subsidies" class="state-published">Health related taxes and subsidies</a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+          
+              
+
+                  
+
+                  
+                      <li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects/school-food-journey-project" title="School Food Journey Project" class="state-published">School Food Journey Project</a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+          
+              
+
+                  
+
+                  
+                      <li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/current-projects/inpard" title="INPARD" class="state-published">INPARD</a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+      </ul></div>
+
+
+
+                        
+
+                        
+                            
+                            
+                            
+                        
+
+                    
+
+                </div>
+
+            
+            
+
+                <div class="col-sm-4 grid-item" id="group-col-2">
+
+                    <a name="column-anchor-past-projects" id="column-anchor-past-projects"></a>
+
+                    
+
+                        
+                            
+
+    <h3>Past Projects</h3>
+    <div class="rich-text">
+      <ul class="list-unstyled"><li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/modelling-the-impact-of-diet-on-health-outcomes" title="Modelling the impact of diet on health outcomes" class="state-published">Modelling the impact of diet on health outcomes</a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+          
+              
+
+                  
+
+                  
+                      <li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/national-vending-survey" title="National Vending Survey" class="state-published">National Vending Survey</a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+          
+              
+
+                  
+
+                  
+                      <li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/analysis-of-the-effects-of-signpost-labelling" title="Analysis of the effects of signpost labelling " class="state-published">Analysis of the effects of signpost labelling </a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+          
+              
+
+                  
+
+                  
+                      <li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/survey-of-food-advertising-in-magazines-for-children-and-young-people" title="Survey of food advertising in magazines for children and young people" class="state-published">Survey of food advertising in magazines for children and young people</a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+          
+              
+
+                  
+
+                  
+                      <li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/analysis-of-food-promotion-to-children-across-europe" title="Analysis of food promotion to children across Europe" class="state-published">Analysis of food promotion to children across Europe</a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+          
+              
+
+                  
+
+                  
+                      <li>
+                          <a href="http://bhfcpnp.medsci.ox.ac.uk/research2/diet-and-nutrition-1/past-projects/a-systematic-review-of-the-research-on-consumer-understanding-of-nutrition-labelling" title="A systematic review of the research on consumer understanding of nutrition labelling" class="state-published">A systematic review of the research on consumer understanding of nutrition labelling</a>
+                          
+                      </li>
+                  
+
+                  
+
+              
+          
+      </ul></div>
+
+
+
+                        
+
+                        
+                            
+                            
+                            
+                        
+
+                    
+
+                </div>
+
+            
+
+        
+
+    </div>
+
+
+
+
+                    
+
+                
+
+
+
+        
+                        </div><footer id="site-footer" class="container"><hr /><div id="site-footer-logos" class="row" style="margin-bottom:20px">
+        <div class="col-md-14">
+            <ul class="list-inline list-unstyled footer-logos"><li>
+                    <a href="https://www.bhf.org.uk" title="" target="_blank">
+                        <img src="http://bhfcpnp.medsci.ox.ac.uk/images/footer-logos/bhf-logo/@@images/image" alt="" /></a>
+                </li>
+                <li>
+                    <a href="http://www.who.int/en/" title="" target="_blank">
+                        <img src="http://bhfcpnp.medsci.ox.ac.uk/images/footer-logos/who-logo/@@images/image" alt="" /></a>
+                </li>
+            </ul></div>
+    </div>
+
+
+
+
+
+    <div class="row" style="margin-bottom:20px">
+
+        <div class="col-md-4">
+            
+                <a id="footer-logo" target="_blank" href="http://www.medsci.ox.ac.uk" title="Oxford Medical Sciences Division">
+                    <img class="img-responsive logo-footer" src="http://bhfcpnp.medsci.ox.ac.uk/images/site-images/medsci-logo/@@images/image" title="Oxford Medical Sciences Division" alt="Oxford Medical Sciences Division" /></a>
+            
+        </div>
+
+        <div class="col-md-8">
+            
+                <div id="site-copyright">
+                    ©
+                    2015
+                    University of Oxford for Nuffield Department of Population Health University of Oxford, Old Road Campus, Headington, Oxford OX3 7LF
+                </div>
+            
+            
+        </div>
+    </div>
+
+
+
+    </footer></body></html>

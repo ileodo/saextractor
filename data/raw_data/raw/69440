@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>CNCB :: Seminars and Events</title>
+<meta name="description" content="" />
+<meta name="generator" content="concrete5 - 5.6.1.1" />
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 155;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/concrete/images";
+var CCM_TOOLS_PATH = "/index.php/tools/required";
+var CCM_BASE_URL = "http://www.cncb.ox.ac.uk";
+var CCM_REL = "";
+
+</script>
+
+	<link rel="shortcut icon" href="/files/1313/8417/0455/cncb_ico.ico" type="image/x-icon" />
+	<link rel="icon" href="/files/1313/8417/0455/cncb_ico.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/files/4013/8417/0506/cncb_apple.png"  />
+
+<link rel="stylesheet" type="text/css" href="/concrete/css/ccm.base.css?v=fb40244e1955384fb738a54ac667b7e1" />
+<script type="text/javascript" src="/concrete/js/jquery.js?v=fb40244e1955384fb738a54ac667b7e1"></script>
+<script type="text/javascript" src="/concrete/js/ccm.base.js?v=fb40244e1955384fb738a54ac667b7e1"></script>
+<link rel="stylesheet" type="text/css" href="/blocks/page_list/view.css?v=fb40244e1955384fb738a54ac667b7e1" />
+<link rel="stylesheet" type="text/css" href="/packages/accordion_menu/blocks/autonav/templates/accordion_menu_plain/css/am_style.css?v=fb40244e1955384fb738a54ac667b7e1" />
+<script type="text/javascript" src="/packages/accordion_menu/blocks/autonav/templates/accordion_menu_plain/js/am_menu.js?v=fb40244e1955384fb738a54ac667b7e1"></script>
+<link href="/packages/theme_nine_sixty_starter/themes/nine_sixty_starter/css/reset.css" rel="stylesheet" type="text/css" />
+<link href="/packages/theme_nine_sixty_starter/themes/nine_sixty_starter/css/text.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" media="screen" type="text/css" href="/files/cache/css/nine_sixty_starter/main.css?v=4" />
+<!--[if IE 8]>
+<link href="/packages/theme_nine_sixty_starter/themes/nine_sixty_starter/css/ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link href="/packages/theme_nine_sixty_starter/themes/nine_sixty_starter/css/ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+<link href="/packages/theme_nine_sixty_starter/themes/nine_sixty_starter/css/ie6.css" rel="stylesheet" type="text/css" />
+<![endif]--></head>
+<body id="backpage">
+
+<div class="main_container">
+
+<!-- row 1 -->
+
+<div class="row" id="row_1">
+	<div class="box" id="box1">
+        </div> 
+    <div class="box" id="box2">
+        </div> 
+    <div class="box hide_me" id="box3">
+	    </div> 
+ <div class="box transparent"  id="box4">
+	
+
+<form action="/index.php/search-results/" method="get" class="ccm-search-block-form">
+
+	<h3>sdfsdf</h3>	
+		<input name="search_paths[]" type="hidden" value="" />
+		
+	<input name="query" type="text" value="Search" class="ccm-search-block-text" />
+	
+	<input name="submit" type="submit" value="sdfsdf" class="ccm-search-block-submit" />
+
+
+</form>    </div>
+    
+  <div class="box transparent" id="box5">  
+	
+    <a href="https://twitter.com/Oxfordcircuits" target="_blank" ><div id="twitter">
+        </div></a>
+        <a href="https://www.facebook.com/pages/Oxfordcircuits/137041063102038" target="_blank" ><div id="facebook">
+	        </div></a>
+            
+    </div>
+    <div style="clear:both"> </div>
+</div> 
+
+
+
+<!-- MENU -->
+
+<div class="level_2_container">
+<div class="menu_container">
+<div class="row_internal" id="row_2">
+	<div class="box main_nav" id="box1">
+		 <ul id="am_menu" class="nav"><li class="nav-path-selected"><a class="nav-path-selected" href="/" >Home</a></li><li><a href="/science/"  >The Science</a></li><li><a href="/team/"  >The Team</a><ul><li><a href="/team/group-leaders/"  >Group Leaders</a><ul><li><a href="/team/group-leaders/miesenboeck/"  >Gero Miesenböck</a></li><li><a href="/team/group-leaders/hens/"  >Korneel Hens</a></li><li><a href="/team/group-leaders/booth/"  >Martin Booth</a></li><li><a href="/team/group-leaders/waddell/"  >Scott Waddell</a></li><li><a href="/team/group-leaders/vogels/"  >Tim Vogels</a></li></ul></li><li><a href="/team/scientists/"  >Scientists</a><ul><li><a href="/team/scientists/eleftheria-vrontou/"  >Eleftheria Vrontou</a></li><li><a href="/team/scientists/shamik-dasgupta/"  >Shamik DasGupta</a></li><li><a href="/team/scientists/emmanuel-perisse/"  >Emmanuel Perisse</a></li><li><a href="/team/scientists/jeff-donlea/"  >Jeff Donlea</a></li></ul></li><li><a href="/team/administration/"  >Administration</a></li><li><a href="/team/staff/"  >Staff Directory</a></li></ul></li><li><a href="/about/"  >About CNCB</a><ul><li><a href="/about/philosophy/"  >Philosophy</a></li><li><a href="/about/working-cncb/"  >Working at CNCB</a></li><li><a href="/about/core-facilities/"  >Core Facilities</a></li><li><a href="/about/building/"  >The Building</a><ul><li><a href="/about/building/144/"  >Before</a></li><li><a href="/about/building/after/"  >After</a></li></ul></li><li><a href="/about/funding/"  >Funding</a></li></ul></li><li><a href="/technologies/"  >Technologies</a><ul><li><a href="/technologies/fly-genetics/"  >Fly Genetics</a></li><li><a href="/technologies/optogenetics/"  >Optogenetics</a><ul><li><a href="/technologies/optogenetics/optogenetics-chronology/"  >Optogenetics Chronology</a></li></ul></li></ul></li><li><a href="/publications/"  >Publications</a><ul><li><a href="/publications/miesenboeck/"  >Miesenböck Group</a></li><li><a href="/publications/booth/"  >Booth Group</a></li><li><a href="/publications/waddell/"  >Waddell Group</a></li><li><a href="/publications/hens/"  >Hens Group</a></li><li><a href="/publications/vogels/"  >Vogels Group</a></li></ul></li><li class="nav-selected nav-path-selected"><a class="nav-selected nav-path-selected"  href="/seminars-and-events/">Seminars and Events</a><ul><li><a href="/seminars-and-events/oxford-neuro-theory-forum/"  >Oxford Neuro Theory Forum</a></li><li><a href="/seminars-and-events/sem/"  >Seminar Archive</a></li></ul></li><li><a href="/video-archive/"  >Videos</a></li><li><a href="/news/"  >News</a></li><li><a href="/contact-us/"  >Contact Us</a></li></ul>    </div>
+ </div>
+ </div>   
+    
+ <!-- row 2 -->
+   
+<div class="content_container">    
+<div class="mainbox">
+<h1>Seminars and Events</h1><div style="clear:both"></div>
+<div id="ccm-layout-wrapper-90" class="ccm-layout-wrapper"><div id="ccm-layout-mainbox-15-2" class="ccm-layout ccm-layout-table  ccm-layout-name-Mainbox-Layout-2 "><div class="ccm-layout-row ccm-layout-row-1"><div class="ccm-layout-15-col-1 ccm-layout-cell ccm-layout-col ccm-layout-col-1 first" style="width:100%">	
+	
+	<div class="grid_4 main-content-thumb">
+	
+	<div class="image-link">
+	<a  href="/seminars-and-events/kristin-scott-university-california/">
+	<img src="" width="" height="" alt="" /></a>
+    
+    </a>
+	</div>
+    <div class="text_content_blog">
+
+	<h2><a  href="/seminars-and-events/kristin-scott-university-california/">Kristin Scott, University of California</a></h2>
+        <h4>&#151; Sep 7, 2015</h4>
+	<p>
+    More details to follow.<a  href="/seminars-and-events/kristin-scott-university-california/"> Read More</a>
+	</p>
+    
+
+	</div>
+	</div>
+	
+
+	<div class="grid_4 main-content-thumb">
+	
+	<div class="image-link">
+	<a  href="/seminars-and-events/scott-sternson-howard-hughes-medical-institute/">
+	<img src="" width="" height="" alt="" /></a>
+    
+    </a>
+	</div>
+    <div class="text_content_blog">
+
+	<h2><a  href="/seminars-and-events/scott-sternson-howard-hughes-medical-institute/">Scott Sternson, Howard Hughes Medical Institute</a></h2>
+        <h4>&#151; Oct 12, 2015</h4>
+	<p>
+    More details to follow.<a  href="/seminars-and-events/scott-sternson-howard-hughes-medical-institute/"> Read More</a>
+	</p>
+    
+
+	</div>
+	</div>
+	
+
+	<div class="grid_4 main-content-thumb">
+	
+	<div class="image-link">
+	<a  href="/seminars-and-events/william-newsome-stanford-university-school-medicine/">
+	<img src="" width="" height="" alt="" /></a>
+    
+    </a>
+	</div>
+    <div class="text_content_blog">
+
+	<h2><a  href="/seminars-and-events/william-newsome-stanford-university-school-medicine/">William Newsome - Stanford University School of Medicine</a></h2>
+        <h4>&#151; Nov 12, 2015</h4>
+	<p>
+    Further details to follow. <a  href="/seminars-and-events/william-newsome-stanford-university-school-medicine/"> Read More</a>
+	</p>
+    
+
+	</div>
+	</div>
+	
+
+	<div class="grid_4 main-content-thumb">
+	
+	<div class="image-link">
+	<a  href="/seminars-and-events/mate-lengyel-computational-and-biological-learning-laborator/">
+	<img src="" width="" height="" alt="" /></a>
+    
+    </a>
+	</div>
+    <div class="text_content_blog">
+
+	<h2><a  href="/seminars-and-events/mate-lengyel-computational-and-biological-learning-laborator/">Máté Lengyel, Computational and Biological Learning Laboratory, University of Cambridge</a></h2>
+        <h4>&#151; Nov 24, 2015</h4>
+	<p>
+    More details to follow.<a  href="/seminars-and-events/mate-lengyel-computational-and-biological-learning-laborator/"> Read More</a>
+	</p>
+    
+
+	</div>
+	</div>
+	
+
+	<div class="grid_4 main-content-thumb">
+	
+	<div class="image-link">
+	<a  href="/seminars-and-events/thanos-siapas-california-institute-technology/">
+	<img src="" width="" height="" alt="" /></a>
+    
+    </a>
+	</div>
+    <div class="text_content_blog">
+
+	<h2><a  href="/seminars-and-events/thanos-siapas-california-institute-technology/">Thanos Siapas, California Institute of Technology</a></h2>
+        <h4>&#151; Sep 19, 2016</h4>
+	<p>
+    More details to follow.<a  href="/seminars-and-events/thanos-siapas-california-institute-technology/"> Read More</a>
+	</p>
+    
+
+	</div>
+	</div>
+	
+
+		<div id="pagination">
+					</div>
+	</div><div class="ccm-spacer"></div></div></div></div><div id="ccm-layout-wrapper-89" class="ccm-layout-wrapper"><div id="ccm-layout-mainbox-14-3" class="ccm-layout ccm-layout-table  ccm-layout-name-Mainbox-Layout-3 "><div class="ccm-layout-row ccm-layout-row-1"><div class="ccm-layout-14-col-1 ccm-layout-cell ccm-layout-col ccm-layout-col-1 first" style="width:100%">&nbsp;</div><div class="ccm-spacer"></div></div></div></div><div id="ccm-layout-wrapper-91" class="ccm-layout-wrapper"><div id="ccm-layout-mainbox-9-1" class="ccm-layout ccm-layout-table  ccm-layout-name-Mainbox-Layout-1 "><div class="ccm-layout-row ccm-layout-row-1"><div class="ccm-layout-9-col-1 ccm-layout-cell ccm-layout-col ccm-layout-col-1 first" style="width:100%">&nbsp;</div><div class="ccm-spacer"></div></div></div></div></div>    
+</div> 
+
+<div style="clear:both"> </div>  
+
+    
+  
+  <div class="clear:both"></div>  <div class="user_footer">
+    
+		 
+  
+ <a href="http://www.ox.ac.uk/" class="linkatron" target="_blank"><div class="oxfordlogo">
+ </div></a>
+ 
+</div></div>
+    
+</body>
+</html>    

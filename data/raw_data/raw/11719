@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+
+<!-- $Id: main.tt2 6236 2009-09-25 08:11:21Z david.verdin $ -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="generator" content="Sympa" />
+
+<title> University of Oxford Mailing Lists (@maillist.ox.ac.uk) - loginrequest </title>
+
+
+<link rel="stylesheet" href="/static-sympa-oxford/css/style.css" type="text/css" media="screen" title="Sympa CSS" />
+
+
+
+<!-- $Id: css_ie.tt2 5675 2009-06-10 13:59:12Z olivier.lumineau $ -->
+
+<!-- Specific css for IE -->
+
+<!--[if IE 7]>
+<style type="text/css">
+
+#subnav {
+          position:absolute;
+	  left:25em;
+          }
+
+#bandeau_top .login .MainMenuLinks {
+	                             margin-top:0.2em;
+           	                     }
+
+</style>
+<![endif]-->
+
+
+<!--[if  lte IE 7]>
+<style type="text/css">
+
+ul#MainMenuLinks {
+
+                   margin-left:-3em;
+                   }
+
+a.input {
+          padding: 0 0.3em;
+          }
+
+</style>
+<![endif]-->
+
+
+
+<!--[if lte IE 6]>
+<style type="text/css">
+
+#logo {
+        position:absolute;
+        top:0.5em;
+        left:-5em;
+        z-index:510;
+        }
+
+#Stretcher {
+             width:99.5%;
+             }
+
+#subnav {
+          width:100%;
+	  background-color:#fff;
+          border:1px solid #3366CC;
+          border-width: 0 1px 0 0;
+          }
+
+#nav {
+       width:99%;
+       }
+
+#Footer {
+          margin: 0.5em 0.8em;
+          }
+
+#bandeau_top .login .MainMenuLinks {
+	                             margin-top:0;
+           	                     }
+
+
+</style>
+<![endif]-->
+
+<!-- end  css_ie.tt2 -->
+
+
+
+
+<!-- the following CSS have to be improved before to be used -->
+<!-- <link rel="stylesheet" href="/static-sympa-oxford/css/print.css" type="text/css" media="print" />                                            -->
+<!-- <link rel="alternative stylesheet" href="/static-sympa-oxford/css/fullPage.css" type="text/css" media="screen" title="View Full Page" />     -->
+<!-- <link rel="alternative stylesheet" href="/static-sympa-oxford/css/print-preview.css" type="text/css" media="screen" title="Print Preview" /> -->
+
+<link rel="shortcut icon" href="/static-sympa/icons/favicon_sympa.png" />
+
+<!-- $Id: javascript.tt2 7477 2012-07-16 16:13:16Z etiennemeleard $ -->
+
+
+
+<script type="text/javascript">
+function showhide(div){
+    oDiv = document.getElementById(div);
+    if(oDiv.style.display == "none"){
+        oDiv.style.display = "block";
+    }else{
+        oDiv.style.display = "none";
+    }
+}
+</script>
+
+<script type="text/javascript">
+function show(div){
+    oDiv = document.getElementById(div);
+    oDiv.style.display = "block";
+}
+</script>
+
+<script type="text/javascript">
+function hide(div){
+    oDiv = document.getElementById(div);
+    oDiv.style.display = "none";
+}
+
+function hideError()
+{
+  document.getElementById('ErrorBlock').style.display = 'none';
+  document.getElementById('ErrorMsg').style.display = 'none';
+}
+
+</script>
+
+<script type="text/javascript">
+<!-- for other browsers
+
+// To confirm archives deletion
+ function dbl_confirm(my_form, my_message,my_message2) {
+     
+      if (confirm(my_message)) 
+      {
+    	 if (confirm(my_message2)) 
+	 {
+	     my_form.zip.value = "1";
+	 }
+      } else {
+	 return false;
+      }
+  }	
+
+  // To confirm a form submition
+  function request_confirm(my_message) {
+    if (confirm(my_message)) {
+      return true;
+    }else {
+      return false;
+    } 
+}
+
+  // To confirm on a link (A HREF)
+  function request_confirm_link(my_url, my_message) {
+    question = confirm(my_message);
+    if (question !="0") {
+         top.location = my_url;
+    }
+  }
+
+
+
+
+
+
+
+  // To confirm on a link (A HREF)
+  function refresh_mom_and_die() {
+    url = window.opener.location.href;
+
+    if (url.indexOf('logout') > -1 ) {
+      url = '/ox/';
+    }
+
+    window.opener.location = url;
+    self.close();
+  }
+
+
+
+  function toggle_selection(myfield) {
+    if (!myfield.length) {
+       if (myfield.checked) {
+            myfield.checked = false;
+       }else {
+	    myfield.checked = true;
+       }
+    }else if (myfield.length){
+      for (i = 0; i < myfield.length; i++) {
+         if (myfield[i].checked) {
+              myfield[i].checked = false;
+         }else {
+  	    myfield[i].checked = true;
+         }
+      }
+    }
+  }
+
+
+
+
+
+
+
+function set_select_value(s, v) {
+	for(var i=0; i<s.options.length; i++) s.options[i].selected = false;
+	for(var i=0; i<s.options.length; i++) if(s.options[i].value == v) {
+		s.options[i].selected = true;
+		return;
+	}
+}
+
+//launch a search by message Id
+function searched_by_msgId(id) {
+	var f = document.forms["log_form"];
+	
+	set_select_value(f.elements["type"], 'all_actions');
+	
+	set_select_value(f.elements["target_type"], 'msg_id');
+	
+	f.elements["target"].value = id;
+	f.submit();
+}
+
+//reset all field in log form.
+function clear_log_form() {
+	var f = document.forms["log_form"];
+	
+	set_select_value(f.elements["type"], 'all_actions');
+	
+	set_select_value(f.elements["target_type"], 'msg_id');
+	
+	f.elements["target"].value = '';
+
+	f.elements["date_from"].value = '';
+	f.elements["date_to"].value = '';
+	f.elements["ip"].value = '';
+}
+
+//set a form field value to empty string. It uses the value of the field whose id is given
+// as argument as a control to perform this operation or not.
+function empty_field(target_field, control_field) {
+	if (document.getElementById(control_field).value == 'false'){
+		document.getElementById(control_field).value = 'true';
+		document.getElementById(target_field).value = '';
+	}
+}
+
+//to hide menu
+
+function afficheId(baliseId,baliseId2)
+  {
+  if (document.getElementById && document.getElementById(baliseId) != null)
+    {
+    document.getElementById(baliseId).style.visibility='visible';
+    document.getElementById(baliseId).style.display='block';
+    }
+  if (document.getElementById(baliseId2) != null)
+    {
+    document.getElementById(baliseId2).style.margin='0 0 0 25%';
+    }
+  }
+
+function cacheId(baliseId,baliseId2)
+  {
+  if (document.getElementById && document.getElementById(baliseId) != null)
+    {
+    document.getElementById(baliseId).style.visibility='hidden';
+    document.getElementById(baliseId).style.display='none';
+    }
+  if (document.getElementById(baliseId2) != null)
+    {
+    document.getElementById(baliseId2).style.margin='0 0 0 0';
+    }
+  
+  }
+
+cacheId('contenu','Stretcher');
+// if JavaScript is available, hide the content on the page load.
+// Without JavaScript, content will be display.
+
+
+
+// end browsers -->
+</script>
+
+<script type="text/javascript">
+
+/***********************************************************************
+* script MICRO-CAL (V4.2) par Amroune Selim (amrounix@gmail.com)
+* all copies, releases, modifications or improvements are allowed.
+************************************************************************
+* Using script to manage the calendar.
+* Used by suspend_request.tt2
+* Select a start date and end date.
+*************************************************************************/
+
+var param_ddeb = {"dfin" : "date_fin", "titre" : "Start date" };
+var param_dfin = {"ddeb" : "date_deb", "titre" : "End date"  };
+
+/* vars */
+var pDefaut = { 
+	"mois" : new Array("January","February","March","April","May","June","July","August","September","October","November","December"),
+	"jour" : new Array("Su","Mo","Tu","We","Th","Fr","Sa"),
+	"jLib" : new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"),
+	"titre" : "Calendar",
+	"aujourdhui" : "today",
+	"debutSemaine" : 1,                      /*debut de la semaine 0=dim,1=lun,...*/
+	"jPause" : {6:true,0:true},              /*jour de pause de la semaine (samedi & dimanche)*/
+	"jFeriee": {"1-1":"Jour de l'an","1-5":"Fête du travail","8-5":"Armistice 39-45","14-7":"Fête nationale","15-8":"Ascension","1-11":"Armistice 14-18","11-11":"Toussaint","25-12":"Noël"} ,
+	"moisMoins" : "<", "moisPlus" : ">",     /*navigation par mois*/ 
+	"anneeMoins" : "<<", "anneePlus" : ">>", /*navigation par annee*/
+	"format" : "%j-%m-%a",                   /*format de sortie : %j = jour, %m = mois, %a =année*/ 
+	"date" : null, "ddeb" : "", "dfin" : "",
+	"dateMin" : null, "dateMax" : null
+}
+
+var tempo = new Array(); /*gestion de la fermeture des calendriers quand on perd le focus*/
+var nomove={"TR":0,"CENTER":0,"B":0,"P":0,"U":0,"I":0,"DIV":0,"A":0,"FONT":0,"LI":0,"PRE":0,"SPAN":0,"SUB":0,"SUP":0,"FORM":0};
+//var nomove={"TD":0,"TABLE":0};
+
+/* simplification calls */
+function _(x) 
+{
+  return document.getElementById(x);
+}
+
+/* Returns the number of days since January 1 (for number of the week)*/
+function nbJ(dateX) 
+{
+  var j_mois=[0,31,59,90,120,151,181,212,243,273,304,334];
+  mm=dateX.getMonth();aa=dateX.getFullYear();nb=j_mois[mm]+dateX.getDate()-1 ;
+  if ((aa%4==0 && aa %100!=0 || aa%400==0) && mm>1) nb++; /*test bissextile*/
+  return nb;
+}
+
+function dateMin(dateA,dateB)
+{
+  return (dateB==null||(dateA!=null&&(dateA.getFullYear()<dateB.getFullYear()
+				      ||(dateA.getFullYear()==dateB.getFullYear()&&dateA.getMonth()<dateB.getMonth())
+				      ||(dateA.getFullYear()==dateB.getFullYear()&&dateA.getMonth()==dateB.getMonth()&&dateA.getDate()<dateB.getDate())
+				      ))) ? dateA:dateB
+    }
+
+function dateMax(dateA,dateB)
+{
+  return (dateB==null||(dateA!=null&&(dateA.getFullYear()>dateB.getFullYear()
+				      ||(dateA.getFullYear()==dateB.getFullYear()&&dateA.getMonth()>dateB.getMonth())
+				      ||(dateA.getFullYear()==dateB.getFullYear()&&dateA.getMonth()==dateB.getMonth()&&dateA.getDate()>dateB.getDate())
+				      ))) ? dateA:dateB
+    }
+
+/* compare two dates and return true if dateA<=dateB */
+function dateBefore(dateA,dateB) 
+{
+  return dateA!=null&&dateB!=null&&(dateA.getFullYear()<dateB.getFullYear()||(dateA.getFullYear()==dateB.getFullYear()&&dateA.getMonth()<dateB.getMonth())||
+				    (dateA.getFullYear()==dateB.getFullYear()&&dateA.getMonth()==dateB.getMonth()&&dateA.getDate()<dateB.getDate()));
+}
+
+/* function to display the navigation informations */
+function htmNavChk(dateA,dateB,src,srcId,mm,yy,txt) 
+{
+  return (dateBefore(dateA,dateB)) ? 
+    "<td onclick=\"\">&nbsp;</td>" : ("<td class=\"zoneNav\" onclick=\"return generateCal('"+src+"','"+srcId+"',"+mm+","+yy+")\">"+txt+"</td>");
+}
+
+/* create the calendar */
+function generateCal(src,srcId,mm,yy) 
+{
+  if (tempo!=null&&tempo[srcId]!=null)
+    {
+      clearTimeout(tempo[srcId]);
+      _(src).focus();
+    }
+  
+  if (mm<0) {mm+=12;yy--;} /*changement de mois/année*/
+  else if (mm>11) {mm-=12;yy++;}
+  
+  dnow=new Date(); /*date du jour*/
+  param=_(srcId).parametre; /*parametre par defaut*/
+  ddeb = null; dfin = null;
+  
+  if (param["ddeb"]!="" && _(param["ddeb"]+"_cal")!=null && _(param["ddeb"]+"_cal").parametre.date != null)
+    ddeb = _(param["ddeb"]+"_cal").parametre.date;
+  if (param["dfin"]!="" && _(param["dfin"]+"_cal")!=null && _(param["dfin"]+"_cal").parametre.date != null)
+    dfin = _(param["dfin"]+"_cal").parametre.date;
+  
+  htm="<table cellpadding=0 cellspacing=0 >";
+  
+  /*titre*/
+  if (param["titre"]!= null )
+    {htm+="<tr><td colspan=\"8\" class=\"zoneTitre\" >"+param["titre"]+"</td></tr>";}
+  
+  /*navigation area*/
+  htm+="<tr><td colspan=\"8\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" ><tr>";
+  htm+=htmNavChk(new Date(yy-1,mm,1),dateMax(ddeb,param["dateMin"]),src,srcId,mm,yy-1,param["anneeMoins"]);
+  htm+=htmNavChk(new Date(yy,mm,0),dateMax(ddeb,param["dateMin"]),src,srcId,mm-1,yy,param["moisMoins"]);
+  htm+="<td class=\"zoneMois\">"+param["mois"][mm]+"</td>";
+  htm+=htmNavChk(dateMin(dfin,param["dateMax"]),new Date(yy,mm+1,1),src,srcId,mm+1,yy,param["moisPlus"]);
+  htm+=htmNavChk(dateMin(dfin,param["dateMax"]),new Date(yy+1,mm,1),src,srcId,mm,yy+1,param["anneePlus"]);
+  htm+="</tr></table></td></tr>";
+  
+  /* day of the week*/
+  htm+="<tr><td></td>";
+  pJs = param["debutSemaine"];
+  pJm = new Date(yy,mm,1).getDay(); /*day of the 1st of the month*/
+  pjT = 1-pJm+pJs;
+  pjT-=(pjT>1)?7:0;
+  dateX = new Date(yy,mm,pjT);
+  for (j=0;j<7;j++)                 /*display the days of the week*/
+    {
+      htm+="<td>"+param["jour"][(j+pJs)%7]+"</td>";
+    }
+  htm+="</tr>";
+  avantFinMois=true;idx=0;
+  idxSem=parseInt(nbJ(new Date(yy,mm,1))/7+1,10); /*index de la semaine*/
+  
+  while(avantFinMois) /*loop until the end month */
+    {
+      /* If we want to display the number of weeks : htm+=(idx%7==0)?"<tr><td class=\"nSemaine\" >"+idxSem+"</td>":""; */
+	htm+=(idx%7==0)?"<tr><td class='nSemaine' >"+""+"</td>":""; /* delete the number of weeks*/
+      if (dateBefore(dateX,dateMax(ddeb,param["dateMin"]))||dateBefore(dateMin(dfin,param["dateMax"]),dateX))
+	htm+="<td style=\"text-decoration:line-through;\"><a class=\"tdx\" href=\"#\">"+subDiv(param,idx,dateX,mm,aa,0)+"</b></td>";
+      else
+	htm+="<td><a class=\"tdx\" href=\"#\" onclick=\"javascript:choix("+dateX.getFullYear()+","+dateX.getMonth()+","+dateX.getDate()+",'"+srcId+"','"+src+"')\" >"+subDiv(param,idx,dateX,mm,aa,0)+"</a></td>";
+      idx++;
+      if (idx%7==0)
+	{htm+="</tr>"; idxSem++;}
+      dateX= new Date(dateX.getFullYear(),dateX.getMonth(),dateX.getDate()+1);
+      if (idx>7&&idx%7==0&&dateX.getMonth()!=mm)
+	{avantFinMois=false;}
+    }
+  htm+="<tr><td colspan='6'>&nbsp;&nbsp;";
+  if (!dateBefore(dnow,dateMax(ddeb,param["dateMin"]))&&!dateBefore(dateMin(dfin,param["dateMax"]),dnow))
+    htm+="<a class=\"tdxNow\" href=\"#\" onclick=\"javascript:choix("+dnow.getFullYear()+","+dnow.getMonth()+","+dnow.getDate()+",'"+srcId+"','"+src+"')\" >"+param["aujourdhui"]+"</a>";
+  else htm+="&nbsp;"
+    
+    /*year*/
+    htm+="</td><td colspan=\"2\" class=\"zoneAnnee\">"+yy+"</td></tr></table>";
+  //alert(htm);
+  _(srcId).innerHTML=htm;
+  return false;
+}
+
+/* add a zero before */
+function addZero(val) 
+{ return ((val<10)?"0":"")+val;}
+
+function choix(aa,mm,jj,srcId,src)
+{
+  var datePos=new Date(aa,mm,jj);
+  var jour = datePos.getDay();
+  param=_(srcId).parametre;
+  param.date = datePos;
+  var dateAffiche = param["format"].replace("%j",addZero(datePos.getDate())).replace("%k",datePos.getDate()).replace("%d",param["jLib"][jour]);
+  dateAffiche = dateAffiche.replace("%m",addZero(datePos.getMonth()+1)).replace("%n",datePos.getMonth()+1).replace("%p",param["mois"][datePos.getMonth()]);
+  dateAffiche = dateAffiche.replace("%a",datePos.getFullYear()).replace("%y",datePos.getYear());
+  _(src).value = dateAffiche;
+}
+
+function subDiv(param,idx,dateX,mm,aa,code)
+{
+  pJs = param["debutSemaine"];
+  dnow=new Date();
+  switch(code)
+    {
+    case 0 : return (param["jPause"][(idx+pJs)%7]==true) ? "<div class=\"enWeekEnd\" >"+subDiv(param,idx,dateX,mm,aa,1)+"</div>" : subDiv(param,idx,dateX,mm,aa,1) ; break;
+    case 1 : return (param["jFeriee"][dateX.getDate()+"-"+(dateX.getMonth()+1)]!=null) ? ("<div class=\"enFeriee\" title=\""+param["jFeriee"][dateX.getDate()+"-"+(dateX.getMonth()+1)]+"\" >"+subDiv(param,idx,dateX,mm,aa,2)+"</div>") : subDiv(param,idx,dateX,mm,aa,2) ; break;
+    case 2 : return (dateX.getMonth()==mm) ? "<div class=\"enMois\" >"+subDiv(param,idx,dateX,mm,aa,3)+"</div>" : subDiv(param,idx,dateX,mm,aa,3) ; break;
+    case 3 : return (dateX.getMonth()==dnow.getMonth()&&dateX.getFullYear()==dnow.getFullYear()&&dateX.getDate()==dnow.getDate()) ? "<div class=\"aujourdhui\" >"+subDiv(param,idx,dateX,mm,aa,4)+"</div>" : subDiv(param,idx,dateX,mm,aa,4) ; break;
+    case 4 : return dateX.getDate(); break;
+    }
+}
+
+function getMinx(tab,mini)
+{
+  var rc=mini,code="";
+  for (k in tab)
+    {
+      if (tab[k]>mini && rc<tab[k]) {rc=tab[k]; code = k; }
+    }
+  return code;
+}
+
+function decodeDate(val,format,defaut)
+{
+  var dnow = defaut,jj= dnow.getDate(),mm = dnow.getMonth(), aa= dnow.getFullYear();
+  var parx = {"%j":"([0123][0-9])","%k":"([0123]?[0-9])","%d":"("+(param["jLib"].join("|"))+")","%m":"([01][0-9])","%n":"([01]?[0-9])",
+	      "%p":"("+(param["mois"].join("|"))+")","%a":"([12][0-9]{3})","%y":"([0-9]{2})"};
+  var ff= format,df = format;
+  for (e in parx)
+    {
+      ff = ff.replace(e,parx[e]);
+      df = df.replace(e,"("+e+")");
+    }
+  tablo = (new RegExp(ff)).exec(val);
+  clef = (new RegExp(df)).exec(format);
+  if (tablo!=null&&clef!=null)
+    {
+      for (i = 0; i< tablo.length;i++)
+	{
+	  switch(clef[i])
+	    {
+	    case "%j": case "%k" : jj=parseInt(tablo[i],10); break;
+	    case "%m": case "%n" : mm=parseInt(tablo[i],10)-1; break;
+	    case "%p" : mm=0; while(mm<param["mois"].length&&param["mois"][mm]!=tablo[i]){mm++;};  break;
+	    case "%a": aa = parseInt(tablo[i],10); break;
+	    }
+	}
+    }
+  return new Date(aa,mm,jj);
+}
+
+/* Initialisation of the parameters for the calendar : display position, create div, ... */
+/* Let you see the calendar when you click on the input */
+function visuCal(src,paramX)
+{
+  if (src.id=="")         /*if not ID, create one*/
+    {
+      cpt=0;
+      while(_("microcal"+cpt) != null) 
+	{cpt++;}
+      src.id="microcal"+cpt;
+    }
+  pos_ = new Array();
+  pos_ = getOffsets(_(src.id)); 
+  srcId = src.id+"_cal";  /*id div for calendar*/
+  dnow= new Date();
+  if (_(srcId)==null)     /*if doesn't exist create one*/
+    {
+      param={}
+      for (e in pDefaut) {
+	trouve=false;
+	if (paramX!=null)
+	  for (i in paramX) { if (e==i) {param[e]=paramX[e];trouve=true;} }
+	if (!trouve) param[e]=pDefaut[e];
+      }
+      dnow = decodeDate(src.value,param.format,new Date()); 
+      div = document.createElement('div');
+      div.setAttribute('id',srcId);
+      div.style.position = 'absolute';
+      div.style.top = (pos_[1] + 18) + 'px'; /* 18 : high of the input */
+      div.style.left = pos_[0] + 'px';  /*this.deltaG = 0; */
+      div.className = 'divCal';
+      div.parametre = param;
+      document.body.appendChild(div);
+      generateCal(src.id,srcId,dnow.getMonth(),dnow.getFullYear(),param);
+    } else
+    {
+      div = _(src.id+"_cal");
+      div.style.display='inline';      /*display calendar*/
+      div.style.top = (pos_[1] + 18) + 'px'; 
+      div.style.left = pos_[0] + 'px';  /*this.deltaG = 0; */
+    }
+  
+}
+
+/* hide the calendar  */
+function masqueCal(src)
+{
+  tempo[src.id+"_cal"]=window.setTimeout("_('"+src.id+"_cal').style.display='none'",500);
+}
+
+/* return the position (x, y) of an element in an array */
+function getOffsets(obj) {
+    var offsetTop = obj.offsetTop;
+    var offsetLeft = obj.offsetLeft;
+    while ((obj = obj.offsetParent )!=null) {
+        offsetTop += obj.offsetTop;
+        offsetLeft += obj.offsetLeft;
+    }
+    return [offsetLeft, offsetTop];
+}
+
+/* popups config contextual help */
+function config_ctxhelp(td) {
+	if(!td.d) {
+		var tbl = td;
+		var d = td.getElementsByTagName('div')[0];
+		while(tbl.parentNode && tbl.tagName.toLowerCase() != 'table') tbl = tbl.parentNode;
+		if(tbl.tagName.toLowerCase() == 'table') d.style.width = tbl.offsetWidth + 'px';
+		td.d = d;
+		td.onmouseout = function() {
+			this.d.style.display = 'none';
+		}
+	}
+	td.d.style.display = 'block';
+}
+
+</script>
+
+<!-- end javascript.tt2 -->
+
+
+
+
+</head>
+
+<body onload="">
+
+
+
+<a name="top"></a>
+
+<noscript><em>Please activate JavaScript in your web browser</em></noscript>
+
+
+
+       
+<!-- $Id: error.tt2 8463 2013-01-22 10:18:33Z david.verdin $ -->
+
+<div id="ErrorBlock"></div>
+<div id="ErrorMsg">
+
+
+
+ERROR (get_pending_lists)  -    
+  You need to login
+  
+	
+
+
+
+<form >
+<fieldset>
+<input  class="MainMenuLinks" type="button" value="OK" onclick="hideError();">
+
+</fieldset>
+</form>
+
+</div>
+
+<!-- end error.tt2 -->
+
+	
+       
+<!-- $Id: login_menu.tt2 6297 2009-11-06 13:55:35Z david.verdin $ -->
+
+<div id="bandeau_top">
+ 
+
+<!-- $Id: loginbanner.tt2 7441 2012-07-03 04:03:50Z sikeda $ -->
+
+  <div  id="Identity_not_connect">    
+        
+      <form action="/ox" method="post"> 
+	<fieldset>	
+        <input type="hidden" name="previous_action" value="get_pending_lists" />
+        <input type="hidden" name="previous_list" value="" />
+	<input type="hidden" name="referer" value="" />
+        <input type="hidden" name="list" value="" />
+	  <input type="hidden" name="action" value="sso_login" />
+          
+            
+              <input type="hidden" name="auth_service_name" value="oxford_webauth" />
+              <input class="MainMenuLinks" type="submit" name="action_sso_login" value="Login" />
+           
+          
+ 	</fieldset>
+      </form>
+      
+
+  </div>
+<!-- end loginbanner.tt2 -->
+
+
+
+</div><!-- end div=MenuBlock -->
+
+
+<!-- end login_menu.tt2 -->
+
+
+
+<div id="Canvas">
+
+  <div id="Header">
+    
+	<!-- a href="javascript:afficheId('contenu','Stretcher')">ouvrir</a>
+    	<a href="javascript:cacheId('contenu','Stretcher');">Fermer</a-->
+
+    <!-- $Id: title.tt2 5902 2009-06-16 14:24:50Z david.verdin $ -->
+
+<!-- begin title.tt2 -->
+
+<div id="logo" ><img style="float: left;" src="/static-sympa-oxford/icons/itserv-logo-blue.png" alt="IT Services" /></div>
+
+<div id="Title">University of Oxford Mailing Lists (@maillist.ox.ac.uk)<br /></div>
+<div id="top"><a class="displayNone" href="#Paint">Skip to Content.</a></div>
+<!-- end title.tt2 -->
+
+
+	
+    <!-- $Id: menu.tt2 7448 2012-07-05 14:45:37Z david.verdin $ -->
+
+<div class="navBar printNone">
+<ul id="MainMenuLinks">	
+
+
+
+
+
+ 
+<li><a class="MainMenuLinks" href="/ox/lists">List of lists</a></li>
+
+ 
+<li><a class="MainMenuLinks" href="/ox/home">Home</a></li>
+
+
+  <li> <a class="MainMenuLinks" href="/ox/help" >Help</a></li>
+
+
+
+
+
+
+
+</ul>
+
+
+</div>
+
+<!-- end menu.tt2 -->
+
+
+  </div> <!-- end div Header -->
+  <!-- <div class="contenant" id="contenu"> --> <!-- To hide Menus -->&nbsp;
+  <div id="Menus"><!-- Start Menus -->&nbsp;
+	
+    <div class="MenuBlock menu_search">
+
+ <form action="/ox" method="post"> 
+ <fieldset>
+    <input type="text" size="14" name="filter" value="" alt="Enter a list name"/>
+    <input type="hidden" name="action" value="search_list" />
+    <input class="MainMenuLinks" type="submit" name="action_search_list" value="Search lists" />
+    <br />
+ </fieldset>
+</form>
+
+</div>
+
+    
+    
+<!-- $Id: your_lists.tt2 6184 2009-09-04 12:57:30Z david.verdin $ -->
+
+
+
+<!-- end login_menu.tt2 -->
+
+    
+<!-- list_robots.tt2 -->
+<div class="MenuBlock">
+  <span class="list_menu_links">Manage subscriptions for other domains</span>
+  <ul class="listenum">
+  
+    <li class="menuLinksCurrentPage">
+      <a href="/ox">maillist.ox.ac.uk</a>
+    </li>
+  
+    <li class="menuLinks">
+      <a href="/admin">maillist.admin.ox.ac.uk</a>
+    </li>
+  
+    <li class="menuLinks">
+      <a href="/chem">maillist.chem.ox.ac.uk</a>
+    </li>
+  </ul>
+</div>
+<!-- end list_robots.tt2 -->
+
+
+  </div><!-- End div Menus -->
+  <!-- </div> --><!-- End div contenant -->
+	
+
+  <div id="Stretcher">  <!-- <span id="toggleMenu" title="A javascript could hide or show the menu" class="smalltext info printNone toggleNone">toggle menu</span><br /> --> &nbsp;<br />
+     <div id="Paint">
+
+       
+
+	 
+<!-- $Id: nav.tt2 5675 2009-04-28 13:59:12Z david.verdin $ -->
+
+
+
+
+
+
+
+
+
+
+<!-- end nav.tt2 -->
+
+
+        <div class="ContentBlock">
+         
+	 
+         <!-- $Id: loginrequest.tt2 5735 2009-05-13 14:21:17Z lumineau $ -->
+<div class="block">
+
+ In order to perform a privileged operation (one that requires your email address), you need to login.
+  
+<!-- $Id: loginbanner.tt2 7441 2012-07-03 04:03:50Z sikeda $ -->
+
+  <div  id="Identity_not_connect">    
+        
+      <form action="/ox" method="post"> 
+	<fieldset>	
+        <input type="hidden" name="previous_action" value="get_pending_lists" />
+        <input type="hidden" name="previous_list" value="" />
+	<input type="hidden" name="referer" value="" />
+        <input type="hidden" name="list" value="" />
+	  <input type="hidden" name="action" value="sso_login" />
+          
+            
+              <input type="hidden" name="auth_service_name" value="oxford_webauth" />
+              <input class="MainMenuLinks" type="submit" name="action_sso_login" value="Login" />
+           
+          
+ 	</fieldset>
+      </form>
+      
+
+  </div>
+<!-- end loginbanner.tt2 -->
+
+
+</div>
+<!-- end loginrequest.tt2 -->
+
+       </div><!-- End div ContentBlock -->
+      <div class="top"><a href="#top" title="Top of Page"><img src="/static-sympa/icons/top.png" alt="Top of page" /></a></div>
+     </div><!-- End div Paint -->
+  </div><!-- end div Stretcher -->
+
+
+  
+
+</div> <!-- end div canvas -->
+
+  
+<!-- $Id: footer.tt2 8454 2013-01-18 16:08:17Z sympa-authors $ -->
+<div class="clearfooter">&nbsp;</div>
+
+<div id="Footer">
+
+<img src="/static-sympa/icons/favicon_sympa.png" width="20px" height="20px"/> 
+
+<a href="http://www.sympa.org"> Powered by Sympa </a>
+
+<span class="displayNone">|</span>
+
+<a href="http://www.ox.ac.uk"><img src="/static-sympa-oxford/icons/unibrand.png" alt="University of Oxford" /></a>
+
+</div>
+<!-- end footer.tt2 -->
+
+
+</body>
+<!-- end main.tt2 -->
+</html>

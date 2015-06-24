@@ -1,0 +1,214 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+
+	<meta name="description" content="
+		
+	do: Backing up your data to the HFS	" />
+
+	<title>
+	do: Backing up your data to the HFS | do:	</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://blogs.it.ox.ac.uk/do/wp-content/themes/oucs-project/style.css" />
+		<link rel="pingback" href="http://blogs.it.ox.ac.uk/do/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="do: &raquo; Feed" href="http://blogs.it.ox.ac.uk/do/feed/" />
+<link rel="alternate" type="application/rss+xml" title="do: &raquo; Comments Feed" href="http://blogs.it.ox.ac.uk/do/comments/feed/" />
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/do/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/do/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/do/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.it.ox.ac.uk/do/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.it.ox.ac.uk/do/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='do: Me, myself and IT: solving business problems with IT, a case study' href='http://blogs.it.ox.ac.uk/do/do-me-myself-and-it-solving-business-problems-with-it-a-case-study/' />
+<link rel='next' title='do: Chorus in action' href='http://blogs.it.ox.ac.uk/do/do-chorus-in-action/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://blogs.it.ox.ac.uk/do/do-backing-up-your-data-to-the-hfs/' />
+<link rel='shortlink' href='http://blogs.it.ox.ac.uk/do/?p=303' />
+
+		<style type="text/css" media="screen">
+			#catapult-cookie-bar {
+				display: none;
+				direction: ltr;
+				color: #ddd;
+				min-height: 30px;
+				position: fixed;
+				left: 0;
+				top: 0;
+				width: 100%;
+				z-index: 99999;
+				padding:6px 20px 4px;
+				background-color: #464646;
+				text-align:left;
+			}
+			#catapult-cookie-bar a {
+				color: #fff;;
+			}
+			button#catapultCookie {
+				margin:0 20px;
+				line-height:20px;
+				background:#45AE52;
+				border:none;
+				color: #fff;;
+				padding:4px 12px;
+				border-radius: 3px;
+				cursor: pointer;
+				font-size: 13px;
+				font-weight: bold;
+			}
+		</style><meta id="syntaxhighlighteranchor" name="syntaxhighlighter-version" content="3.1.3" />
+
+<style>
+#branding
+{
+background: #002147  url("http://blogs.it.ox.ac.uk/do/files/2014/01/cropped-do_blog_banner_31.png") no-repeat 0px 0px;
+}
+
+</style>
+
+</head>
+
+<body class="single single-post postid-303 single-format-standard">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<h1 id="site-title">
+					<span>
+						<a href="http://blogs.it.ox.ac.uk/do/" title="do:" rel="home">do:</a>
+					</span>
+				</h1>				
+				<div id="site-description">in support of administration and business processes</div>
+
+										
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu"><ul><li ><a href="http://blogs.it.ox.ac.uk/do/" title="Home">Home</a></li><li class="page_item page-item-2"><a href="http://blogs.it.ox.ac.uk/do/about/">About do:</a></li><li class="page_item page-item-261"><a href="http://blogs.it.ox.ac.uk/do/spring2015/">Spring 2015</a></li></ul></div>
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+
+
+			<div id="post-303" class="post-303 post type-post status-publish format-standard hentry category-sprint-2015">
+			<h2 class="entry-title"><a href="http://blogs.it.ox.ac.uk/do/do-backing-up-your-data-to-the-hfs/" title="Permalink to do: Backing up your data to the HFS" rel="bookmark">do: Backing up your data to the HFS</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogs.it.ox.ac.uk/do/do-backing-up-your-data-to-the-hfs/" title="10:33 am" rel="bookmark"><span class="entry-date">January 12, 2015</span></a> <span class="meta-sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.it.ox.ac.uk/do/author/pamela/" title="View all posts by Pamela Stanworth">Pamela Stanworth</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>Do you have data that you don&#8217;t want to lose? You can keep it safe with the HFS, IT Services&#8217; Backup and Archive service. You can back up work-related data currently on your machine; or, if you have data that&#8217;s of long-term value to the University, you can archive it, and we will keep it for you.</p>
+<p>This <span style="border: 2px solid #007770"> <span style="font-family: 'courier new';color: #007770;font-weight: 900">do</span><span style="font-family: arial;color: #007770;font-weight: 900">:</span></span> talk will interest anyone who has work-related data that they don&#8217;t want to lose.</p>
+<p>Speaker: Jason Zerdin<br />
+&#8212;&#8211;<br />
+<a href="https://oxforduniversity.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d29ed843-8882-4d6e-992d-f268dc1efd3d" target="_blank">Watch the recorded talk</a> <span style="border: 2px solid #ffa700"><span style="font-family: 'courier new';color: #ffa700;font-weight: 900"> w </span></span><br />
+10 March 2015</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">
+					Posted in </span> <a href="http://blogs.it.ox.ac.uk/do/category/sprint-2015/" title="View all posts in Spring 2015" rel="category tag">Spring 2015</a>					
+				</span>
+				<span class="meta-sep">|</span>
+								<span class="comments-link"><span>Comments Off</span></span>
+							</div><!-- #entry-utility -->
+		</div><!-- #post-303 -->
+
+		
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are closed. -->
+		<p class="nocomments">Comments are closed.</p>
+
+	
+
+
+	
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" action="http://blogs.it.ox.ac.uk/do">
+    <div><label class="screen-reader-text" for="s">Search for:</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Search" />
+    </div>
+</form></li>		<li id="recent-posts-2" class="widget-container widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/do/do-lunchtime-talks-2015-do-is-now-done/" title="do: lunchtime talks 2015 &#8212; do is now done">do: lunchtime talks 2015 &#8212; do is now done</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/do/do-lunchtime-talks/" title="do: Lunchtime talks">do: Lunchtime talks</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/do/do-time-management-2/" title="do: Time management">do: Time management</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/do/do-null-for-tony-brett-no-code-or-title-yet-27-jan/" title="do: Managing mailing lists">do: Managing mailing lists</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/do/do-null-for-scott-wilson-on-tue-3-feb-no-code-yet/" title="do: Managing versions of program code with Git">do: Managing versions of program code with Git</a>
+						</li>
+				</ul>
+		</li><li id="categories-3" class="widget-container widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-38818"><a href="http://blogs.it.ox.ac.uk/do/category/spring-2014/" title="View all posts filed under Spring 2014">Spring 2014</a>
+</li>
+	<li class="cat-item cat-item-38819"><a href="http://blogs.it.ox.ac.uk/do/category/sprint-2015/" title="View all posts filed under Spring 2015">Spring 2015</a>
+</li>
+		</ul>
+</li><li id="meta-2" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="https://blogs.it.ox.ac.uk/do/wp-login.php?action=shibboleth">Log in</a></li>
+			<li><a href="http://blogs.it.ox.ac.uk/do/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogs.it.ox.ac.uk/do/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>						</ul>
+</li><li id="rss-2" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://courses.it.ox.ac.uk/tag/Do_15.rss' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/do/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://courses.it.ox.ac.uk/' title='Courses with the tag Do_15 from 2015-06-18 to 2016-06-17'>More courses coming soon for admin and support staff</a></h3><ul><li>An error has occurred, which probably means the feed is down. Try again later.</li></ul></li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+				<p>
+				<a href="http://blogs.it.ox.ac.uk/do/" title="do:" rel="home">
+					do:				</a> </p>
+				<p class="disclaimer" >The views expressed on this blog are those of the project team and not necessarily those of the University of Oxford IT Services.</p>
+			</div>
+
+			<div id="site-generator">powered by <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">WordPress</a><br/>
+      <a href="http://blogs.oucs.ox.ac.uk/">IT Services Blogs</a> hosted by <a href="http://www.it.ox.ac.uk/" title="University of Oxford IT Services">University of Oxford IT Services</a>
+			</div>
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!catapultReadCookie("catAccCookies")){//If the cookie has not been set
+				jQuery("#catapult-cookie-bar").show();
+							}
+		});
+	</script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/do/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js?ver=1.8'></script>
+<div id="catapult-cookie-bar">This site uses cookies<button id="catapultCookie" tabindex=1 onclick="catapultAcceptCookies();">Okay, thanks</button><a tabindex=1 href="http://blogs.it.ox.ac.uk/do/cookie-policy">Find out more</a></div>
+</body>
+</html>

@@ -1,76 +1,143 @@
-import re
-
-from bs4 import BeautifulSoup
-import hashlib
-import copy
-from SAECrawlers.items import UrlretriverItem
-import requests
-from bs4 import BeautifulSoup
-from lxml import etree
-from lxml.html.clean import Cleaner
-from io import StringIO
-from lxml.html.soupparser import fromstring
-import lxml
+import csv
 import cPickle as pickle
-from SAEJudge.FeatueExtract import FeatureExtract
-from SAECrawlers.items import UrlretriverItem
-from util import db,config
-
-fe = FeatureExtract(config.path_featurespace)
-fe.print_featuremap()
-
-#feature extraction
-out = open(config.path_working+"/featureext.csv","w")
-
-sql = """SELECT id FROM url_lib WHERE rule_id != %s """
-c = db.db_connect().cursor()
-c.execute(sql, (config.const_IS_TARGET_UNKNOW,))
-res = c.fetchall()
-c.close()
-list = [x['id'] for x in res]
-
-print "%s,%s,%s,%s\n" %('id','url','label',fe.str_featuremap_line())
-out.write("%s,%s,%s,%s\n" %('id','url','label',fe.str_featuremap_line()))
-out.flush()
-for x in list:
-    item = UrlretriverItem.s_load_id(x)
-    content = requests.get(item['url'],verify=False).content
-    item['raw_content'] = content
-    item['content'] = content
-    item['title'] = item.title_of_tree()
-    item['content'] = str(item.get_soup())
-
-    f = fe.extract_item(item)
-    print "%s,%s,%s,%s" %(item['id'],item['url'],item['rule_id'], FeatureExtract.str_feature(f))
-    out.write("%s,%s,%s,%s\n" %(item['id'],item['url'],item['rule_id'], FeatureExtract.str_feature(f)))
-    out.flush()
-out.close()
 
 from sklearn import tree
-import csv
 from sklearn.externals.six import StringIO
 import pydot
+import requests
 
-X=[]
-Y=[]
-header = True
-with open(config.path_working+"/featureext.csv",'rb') as csvfile:
-    reader = csv.reader(csvfile,delimiter=',')
-    for row in reader:
-        if not header:
-            X.append(row[3:])
-            Y.append(row[2])
-        else:
-            header = False
+from SAEJudge.FeatueExtract import FeatureExtract
+from SAECrawlers.items import UrlretriverItem
+from util import db, config
 
-    clf = tree.DecisionTreeClassifier()
-    clf = clf.fit(X, Y)
+
+def csv_for_db(sql, sqlparam, resultfile, datapath):
+    c = db.db_connect().cursor()
+    c.execute(sql, sqlparam)
+    res = c.fetchall()
+    c.close()
+    out = open(resultfile, "w")
+
+    line = "%s,%s,%s" % ('id', 'url', 'label')
+    # print line
+    out.write(line+"\n")
+    out.flush()
+
+    for r in res:
+        line = "%s,\"%s\",%s" % (r['id'], r['url'], r['rule_id'])
+        # print line
+        out.write(line+"\n")
+        out.flush()
+        fout = open(datapath + "/" + str(r['id']), "w")
+        fout.write(requests.get(r['url'], verify=False).content)
+        fout.close()
+
+    out.close()
+
+
+def feature_extraction(csvfile, datapath, resultcsv):
+    fe = FeatureExtract(config.path_featurespace)
+    fe.print_featuremap()
+
+    # feature extraction
+    out = open(resultcsv, "w")
+    line = "%s,%s,%s" % ('id', 'label', fe.str_featuremap_line())
+    # print line
+    out.write(line+"\n")
+    out.flush()
+
+    with open(csvfile, 'rb') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',')
+        header = True
+        for row in reader:
+            if not header:
+                item = UrlretriverItem()
+                ct = open(datapath + "/" + row[0], "r").read()
+                item['url'] = row[1]
+                item['raw_content'] = ct
+                item['content'] = ct
+                item['title'] = item.title_of_tree()
+                item['content'] = str(item.get_soup())
+                f = fe.extract_item(item)
+                line = "%s,%s,%s" % (row[0], row[2], FeatureExtract.str_feature(f))
+                # print line
+                out.write(line+"\n")
+                out.flush()
+            else:
+                header = False
+        out.close()
+
+
+def test_data(dtreefile, testdata, outputpath):
+    clf = pickle.loads(open(dtreefile).read())['tree']
+    fe = FeatureExtract(config.path_featurespace)
+    output = open(outputpath, "w")
+    line = "%s,%s,%s,%s,%s" % ("id", "label", "judge", "prob", fe.str_featuremap_line())
+    # print line
+    output.write(line+"\n")
+    output.flush()
+
+    count_false_neg = 0
+    count_true_pos= 0
+    count_false_pos = 0
+    count_true_neg = 0
+
+    with open(testdata, 'rb') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',')
+        header = True
+        for row in reader:
+            if not header:
+                fv = row[2:]
+                judge = clf.predict(fv)[0]
+                prob = max(clf.predict_proba(fv)[0])
+                line = "%s,%s,%s,%f,%s" % (row[0], row[1], judge, float(prob), ",".join(row[2:]))
+                # print line
+                output.write(line+"\n")
+                output.flush()
+                if int(row[1]) in [1, 2]:
+                    if int(judge) in [1, 2]:
+                        count_true_pos += 1
+                    else:
+                        count_false_neg += 1
+                else:
+                    if int(judge) in [1, 2]:
+                        count_false_pos += 1
+                    else:
+                        count_true_neg += 1
+            else:
+                header = False
+    output.close()
+    recall = float(count_true_pos) / (count_true_pos + count_false_neg)
+    precision = float(count_true_pos) / (count_true_pos + count_false_pos)
+    fmeasure = 2*precision*recall / (precision + recall)
+    print "Recall: %f" % recall
+    print "Precision: %f" % precision
+    print "F-Measure: %f" % fmeasure
+    return (count_true_pos,count_true_neg,count_false_pos,count_false_neg)
+
+
+
+def learn_dtree(featurecsv, dtreefile, param):
+    F = []
+    L = []
+    clf = tree.DecisionTreeClassifier(**param)
+    with open(featurecsv, 'rb') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',')
+        header = True
+        for row in reader:
+            if not header:
+                F.append(row[2:])
+                L.append(row[1])
+            else:
+                header = False
+
+    clf = clf.fit(F, L)
 
     dot_data = StringIO()
     tree.export_graphviz(clf, out_file=dot_data)
     graph = pydot.graph_from_dot_data(dot_data.getvalue())
-    graph.write_pdf(config.path_working+"/tree.pdf")
+    graph.write_pdf(dtreefile + ".pdf")
 
-    out = open(config.path_working+"/dtree_ox.ac.uk","w")
-    out.write(pickle.dumps({"tree":clf,"X":X,"Y":Y}, -1))
+    out = open(dtreefile, "w")
+    out.write(pickle.dumps({"tree": clf, "F": F, "L": L}, -1))
     out.close()

@@ -1,0 +1,164 @@
+<!--array(29) {
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTP_HOST"]=>
+  string(20) "england.prm.ox.ac.uk"
+  ["HTTP_CONNECTION"]=>
+  string(10) "keep-alive"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(13) "gzip, deflate"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_USER_AGENT"]=>
+  string(49) "python-requests/2.5.1 CPython/2.7.9 Darwin/14.3.0"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["SERVER_SIGNATURE"]=>
+  string(128) "<address>Apache/2.2.3 (Debian) PHP/5.2.0-8+etch16 mod_ssl/2.2.3 OpenSSL/0.9.8c Server at england.prm.ox.ac.uk Port 80</address>
+"
+  ["SERVER_SOFTWARE"]=>
+  string(69) "Apache/2.2.3 (Debian) PHP/5.2.0-8+etch16 mod_ssl/2.2.3 OpenSSL/0.9.8c"
+  ["SERVER_NAME"]=>
+  string(20) "england.prm.ox.ac.uk"
+  ["SERVER_ADDR"]=>
+  string(11) "163.1.55.96"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(11) "163.1.134.1"
+  ["DOCUMENT_ROOT"]=>
+  string(16) "/var/www/england"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["SCRIPT_FILENAME"]=>
+  string(26) "/var/www/england/index.php"
+  ["REMOTE_PORT"]=>
+  string(5) "58803"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(50) "section=englishness&id=anthropology-and-technology"
+  ["REDIRECT_URL"]=>
+  string(45) "/englishness-anthropology-and-technology.html"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.1"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(50) "section=englishness&id=anthropology-and-technology"
+  ["REQUEST_URI"]=>
+  string(45) "/englishness-anthropology-and-technology.html"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1434625055)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(50) "section=englishness&id=anthropology-and-technology"
+  }
+  ["argc"]=>
+  int(1)
+}
+--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="Keywords" content="statistics, databases, English, Englishness, English collections, the other within, Pitt Rivers museum, museum" /><meta name="Description" content="Analysing the English collections at the Pitt Rivers Museum" /><meta name="author" content="David Harris, www.inetlab.co.uk & Daniel Burt, www.sunnymedia.co.uk" /><title>anthropology and technology</title><script type="text/javascript" src="js/mootools-1.11.js"></script><script type="text/javascript" src="js/slimbox.js"></script>	<link rel="stylesheet" href="css/reset-fonts-grids.css" type="text/css" /><link rel="stylesheet" href="css/england.prm.css" type="text/css" /></head><body><div id="doc4" class="yui-t3"><div id="hd">	<h1>ENGLAND: THE OTHER WITHIN</h1>	<h2>Analysing the English Collections at the Pitt Rivers Museum</h2>		<ul class="navbar">	 <li class="tab01"><a href="/">Home</a></li>	 <li class="tab02"><a href="englishness-analysis-overview.html">Analysis</a></li>	 <li class="tab03"><a href="englishness-english-databases.html">Databases</a></li>	 <li class="tab04"><a href="englishness-object-biographies.html">Articles</a></li>	 <li class="tabend05"><a href="map-objects.html">Map</a></li>	</ul></div> <!-- close hd--><p id="breadcrumb">You are here: <a href="">Home</a> &gt; Englishness Anthropology And Technology </p><div id="bd"> 	<div id="yui-main"> 		<div class="yui-b">			<div class="yui-g content"> 			<!-- start article -->			<h1>Anthropology of Technology - A French Tradition?</h1>
+<h2 class="author">Chris Wingfield<br /> Researcher 'The Other Within' project</h2>
+<p><div id="media_0" class="imageR"><a href="image-admin/d/2050-5/1998_266_3.jpg" title="Francis Knowles, Henry Balfour, J.A. Harley, and Barbara Freire-Marecco in the Pitt Rivers Museum 1998.266.3" rel="lightbox[graphic]"><img src="image-admin/d/2049-5/1998_266_3.jpg" alt="Francis Knowles, Henry Balfour, J.A. Harley, and Barbara Freire-Marecco in the Pitt Rivers Museum 1998.266.3" /></a><p>Francis Knowles, Henry Balfour, J.A. Harley, and Barbara Freire-Marecco in the Pitt Rivers Museum 1998.266.3</p></div><div id="media_1" class="imageR"><a href="image-admin/d/2051-2/Knowles1.jpg" title="Figure 1: Flaking the core with a quartzite hammer-stone" rel="lightbox[graphic]"><img src="image-admin/d/2053-2/Knowles1.jpg" alt="Figure 1: Flaking the core with a quartzite hammer-stone" /></a><p>Figure 1: Flaking the core with a quartzite hammer-stone</p></div></p>
+<p>In January 2008, the Department of Anthropology and the recently created Centre of Heritage, Museums and Material Culture at University College London organized a workshop on <span style="font-style: italic;">'Making' and 'doing' the Material World: Anthropology of Techniques revisited</span>. The <a title="Conference Website" href="http://www.ucl.ac.uk/anthropology/conferences/making_and_doing.htm" target="_blank">website</a> declared:</p>
+<p><span style="font-size: 11px;"><span style="font-style: italic;">The 'making' of the material world has been a long standing concern of the French </span><em>Anthropology of Techniques</em><span style="font-style: italic;"> (Leroi-Gourhan, Haudricourt, Lemonnier) which views technology as a universal and distinctive category of material activity. Technology 'is an ongoing and unfinished process through which people, society' and things 'weave &hellip; the meaningful conditions of everyday life' (Dobres 2000:4). This workshop aims to discuss the uses, contributions and weaknesses of the French school of </span><em>Anthropology of Techniques</em><span style="font-style: italic;"> and to explore alternatives and recent theoretical developments.</span></span></p>
+<p>Many of the younger participants had been interested in the topic by reading <span style="font-style: italic;">Elements for an Anthropology of Technology</span>, published in English in 1992 by the French scholar Pierre Lemonnier. The Foreword to this book declared that "The reader will also find that French anthropologists have already made considerable headway in this important endeavour" and suggests that "Our hope is that the appearance of this volume will spark a renewed interest among English-speaking ethnologists and archaeologists, one that helps to reintegrate the holistic study of technology back into mainstream anthropology."</p>
+<p>As someone who was very influenced by this book, and who wrote a <a href="http://web.mac.com/chriswingfield/iWeb/Site/Writing_files/MPhil.pdf">thesis</a> in 2002 about the technology of Ostrich Eggshell Beads in the Kalahari as a result, I was much carried along by this argument and accepted the claim that the anthropology of technology and techniques was primarily a French tradition. However, when I later came to work on the history of the Pitt Rivers Museum, I increasingly came across suggestions that a similar approach had been alive and well and practised at the Pitt Rivers into the second half of the twentieth century with the work of <a href="../englishness-Blackwood-and-technology.html">Beatrice Blackwood</a> and <a href="../englishness-Cranstone-and-technology.html">Bryan Cranstone</a> (For more examples see <a href="../englishness-Technologies-and-Materials.html">pages</a> on Technology by Alison Petch).</p>
+<p>I increasingly realised that just as I had set out to learn how to make Ostrich Eggshell Beads as the best way of understanding the techniques and technology involved, so <a href="../englishness-Balfour-and-technology.html">Henry Balfou</a>r and his colleagues such as <a href="../englishness-Francis-Knowles.html">Francis Knowles</a> had set about learning to knap flints in order to undertand the objects they collected classified and displayed. A course in technology was central to the Oxford Diploma in Anthropology until 1940 [1] and was taught primarily in the Pitt Rivers Museum. While today Anthropologists are formed by being made to write texts as part of their education - usually a doctoral thesis - in the first half of the twentieth century, the making of anthropologists in Oxford frequently involved the making of material objects at the Pitt Rivers Museum.</p>
+<p class="MsoNormal" style="text-align: justify;"><span style="font-weight: bold;">Mauss and Technology</span></p>
+<p>Technology, however is not just about objects and tools - things we use to do things - but is crucially about the way in which we do them - techniques. Central to the 'French tradition' of studies of technology is an essay published by Marcel Mauss <span style="font-style: italic;">Techniques of the Body</span> in 1934. Mauss focussed on the ways in which we learn to use our bodies as members of society and the differences to be found in techniques of walking, swimming, sleeping, standing and sitting as well as other basic biological functions. Mauss wrote about his experience in the First World War of having to change 8000 spades in the trenches because English troops could not use French spades. To capture the way in which we are formed by these learned techniques of being and doing, Mauss coined the term <span style="font-style: italic;">habitus - 'the techniques and work of collective and individual practical reason.' </span>The body, Mauss suggested, was 'man's first and most natural instrument.'</p>
+<p class="MsoNormal" style="text-align: justify;">Mauss is an extremely influential thinker in the history of anthropology and clearly had moments of genius, but it would be wrong to understand his ideas in isolation. In particular it would be wrong to see them as un-related to the tradition of Anthropology in Britain at and before the time he was writing. Mauss visited Oxford and paid homage to E.B. Tylor in 1898, of whom he later claimed to be a disciple. At that time, anthropology in Oxford was located in the Pitt Rivers Museum, with which Tylor was intimately connected. It may have been at this time that Mauss met Henry Balfour, the Curator of the Pitt Rivers Museum, with whom he established a friendship that would last into the 1930s. Mauss was to write in 1930 that:</p>
+<p class="MsoNormal" style="text-align: justify;"><span style="font-style: italic;">The best collections informing on the distribution of ethnographic objects are undoubtedly those of the Pitt Rivers Museum in Oxford, which E.B. Tylor founded and which Henry Balfour administers. </span></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="font-weight: bold;">A Maussian Museum?</span></p>
+<p class="MsoNormal" style="text-align: justify;">What then do we make of the Pitt Rivers Museum if considered in the light of Mauss' ideas about technology. The objects that fill the museum are not themselves the techniques that are the components of the <span style="font-style: italic;">habitus</span> - our learned ways of being and doing things. They are instead the material forms that are the result of the action of human bodily techniques on various sorts of matter. The objects in the museum come alive as evidence for the history of human techniques and technology when imagined in relation to the human bodies that had to act in particular learned ways to create them.</p>
+<p class="MsoNormal" style="text-align: justify;">When approached in this way the museum objects become the sites of a sort of micro-archaeology. They can be investigated for evidence of human bodies acting in particular ways. The techniques are inscribed into their material form as the effects of human action. There are also many tools in the collections which were themselves used to have an effect on other things and became in the process extensions of the human body - a paddle, a knife or a stone blade - and these too make most sense when imagined in relation to the action of that human body.</p>
+<p class="MsoNormal" style="text-align: justify;">The arrangement of the Pitt Rivers Museum suggests the similarities and borrowings of techniques across the globe, as well as the discovery of similar solutions to particular problems in different places at different times. Techniques, as Marcel Mauss was anxious to demonstrate in the inter-war period crossed the boundaries of nations. states and 'cultures' suggesting that what he called 'civiilization' or what we might call 'culture' was a global and international phenomenon and not the property of particular groups.</p>
+<p class="MsoNormal" style="text-align: justify;">These are ways of thinking about the materials in the Pitt Rivers Museum that seem to be closely in line with some of the ways in which E.B. Tylor, Henry Balfour and many of their colleagues at the Pitt Rivers Museum approached the museum's collections and their study. General Pitt Rivers himself suggested that 'the various products of human industry' might represent the progress of 'human ideas.' Following Marcel Mauss, we might want to suggest that they represent evidence of human bodily techniques.</p>
+<p class="MsoNormal" style="text-align: justify;">More about Lemonnier and Technology <a href="../englishness-Lemonnier-and-Technology.html">here</a>.</p>
+<p class="MsoNormal" style="text-align: justify;"><strong>Notes</strong></p>
+<p class="MsoNormal" style="text-align: justify;">[1] Although a single diploma in anthropology continued after 1940, it allowed for increased specialization, in one of the three subjects of the traditional diploma, social anthropology, physical anthropology and primitive technology.</p> 			<!-- end article -->			</div> 		</div> 	</div> 	<div class="yui-b">	<!-- YOUR NAVIGATION GOES HERE -->			<div id="themed-articles" class="widget">			<h2><span>&nbsp;Themed Articles &nbsp;</span></h2>			<ul>
+<li> <a href="englishness-what-is-an-english-object.html">What is an English object?</a></li>
+<li> <a href="englishness-acq.events1.html">Acquisition Events</a></li>
+ <li> <a href="englishness-RAI-fellows.html"> Anthropological Institute in 1900</a></li>
+<li> <a href="englishness-Bell-collection.html">The Bell collection of stone tools</a></li>
+<li> <a href="englishness-Blackwood-and-Otmoor.html"> Blackwood and Otmoor</a></li>
+ <li> <a href="englishness-calendar-related.html">Calendar-related artefacts</a></li>
+<li> <a href="englishness-Canziani-Introduction.html">Estella Canziani</a></li><li> <a href="englishness-Parsons-Keys.html">Catherine Parsons' Keys</a></li>
+<li> <a href="englishness-named-counties-characteristics.html">Characterising  Five 'named counties'</a></li>
+<li> <a href="englishness-funeral-objects.html">Death-related artefacts</a></li>
+<li> <a href="englishness-PRM-Artefact-Documentation.html">Documentation of PRM objects</a></li>
+<li> <a href="englishness-English-folklorists.html">English folklorists</a></li>
+<li> <a href="englishness-Ethnology-etc.html">Ethnology, Ethnography, Anthropology</a></li>
+<li> <a href="englishness-Ethnographical-Survey-of-the-UK.html">Ethnographical Survey of the UK</a></li>
+<li> <a href="englishness-Ellen-Ettlinger.html">Ellen Ettlinger</a></li>
+<li> <a href="englishness-London-gunmakers.html">London gunmakers</a></li>
+<li> <a href="englishness-Museum-of-England.html">Museum of England</a></li>
+<li><a href="../englishness-introduction-to-oxfordshire.html">Oxfordshire collections</a></li>
+<li> <a href="englishness-Pitt-Rivers-archaeology-England.html">Pitt Rivers and archaeology in England</a></li>
+<li> <a href="englishness-English-purchased-artefacts-intro.html">Purchase of English objects</a></li>
+<li> <a href="englishness-Scrimshaw-at-the-PRM.html">Scrimshaw</a></li>
+<li> <a href="englishness-PRM-Teaching-Introduction.html">Teaching at the Pitt Rivers Museum</a></li>
+<li> <a href="englishness-Technologies-and-Materials.html">Technologies and materials</a></li>
+</ul>
+
+		</div>		<div id="technologies-&-materials" class="widget">			<h2><span>&nbsp;Technologies & Materials &nbsp;</span></h2>			<ul>
+Introductory pages:
+<li> <a href="englishness-Technologies-and-Materials.html">Introduction to technologies and materials at the PRM</a></li>
+<li> <a href="englishness-Occasional-Papers.html">Occasional Papers on Technology</a></li>
+<li> <a href="englishness-Teaching-technology.html">Teaching Technology at the PRM</a></li>
+<li> <a href="englishness-Defining-technologies.html">Defining technique and technologies</a></li>
+<li> <a href="englishness-Technologies-and-Techniques.html">Artefacts showing technologies and techniques in the PRM</a></li>
+<li> <a href="englishness-Raw-materials.html">Raw materials as artefacts in the PRM</a></li>
+<li> <a href="englishness-Work-on-stone-tools.html">Work on stone tools in the PRM</a></li>
+<li> <a href="englishness-Basketry-techniques.html">Basketry technologies</a></li>
+<li> <a href="englishness-Lighting-technology.html">Lighting technologies</a></li>
+<li> <a href="englishness-Pottery-techniques.html">Pottery technologies</a></li>
+<li> <a href="englishness-Stone-tool-technology.html">Stone tool technologies</a></li>
+<li> <a href="englishness-Textile-technology.html">Textile technologies</a></li>
+Pitt Rivers, Museum staff and technologies:
+<li> <a href="englishness-Pitt-Rivers-and-Technology-1.html">Pitt Rivers and Technology Introduction</a></li>
+<li> <a href="englishness-Pitt-Rivers-and-shields.html">Pitt Rivers and Shields</a></li>
+<li> <a href="englishness-Pitt-Rivers-and-stone-tool-technology.html">Pitt Rivers and stone tool technology</a></li>
+<li> <a href="englishness-PR-and-Boomerang-technology.html">Pitt Rivers and boomerang technology</a></li>
+<li> <a href="englishness-Tylor-and-technology.html">Tylor and Technology</a></li>
+<li> <a href="englishness-Balfour-and-technology.html">Balfour and technology</a></li>
+<li> <a href="englishness-Balfour-and-stone-tool-technology.html">Balfour and stone tool technology</a></li>
+<li> <a href="englishness-Balfour-Australian-stone-tools-technology.html">Balfour and Australian stone tool technology</a></li>
+<li> <a href="englishness-Balfour-Westlake-and-Tasmania.html">Balfour, Westlake and Tasmanian stone tools</a></li>
+<li> <a href="englishness-Balfour-African-stone-tools.html">Balfour and African stone tools</a></li>
+<li> <a href="englishness-Balfour-and-Technology-Weapons.html">Balfour, Pitt Rivers and the study of weapons</a></li>
+<li> <a href="englishness-Balfour-and-technology-Firemaking.html">Balfour and fire-making</a></li>
+<li> <a href="englishness-Balfour-publications.html">Balfour's publications</a></li>
+<li> <a href="englishness-Models-made-by-Balfour.html">Balfour's models</a></li>
+<li> <a href="englishness-Penniman-and-technology.html">Penniman and technology</a></li>
+<li> <a href="englishness-Blackwood-and-technology.html">Blackwood and technology</a></li>
+<li> <a href="englishness-Cranstone-and-technology.html">Cranstone and technology</a></li>
+<li> <a href="englishness-I.M.-Allen.html">I.M. Allen and Materials</a></li>
+Museum volunteers and technology:
+<li> <a href="englishness-Francis-Knowles.html">Francis Knowles introduction</a></li>
+<li> <a href="englishness-Knowles-Flint-arrow-head.html">Knowles' first publication about stone tool technology</a></li>
+<li> <a href="englishness-Stone-workers-progress.html">Knowles' Stone-worker's progress</a></li>
+<li> <a href="englishness-Knowles-Other-Publications.html">Knowles' other publications</a></li>
+<li> <a href="englishness-Knowles-conclusions.html">Knowles conclusions</a></li>
+<li> <a href="englishness-Barnes-and-technology.html">Alfred Schwartz Barnes and technology</a></li>
+<li> <a href="englishness-Turner-and-materials.html">G.E.S. Turner and Materials</a></li>
+<li> <a href="englishness-Coghlan-and-materials.html">H.H. Coghlan and Materials</a></li>
+General pages relating to technology:
+<li> <a href="englishness-PRM-stone-tool-collections.html">An overview of the PRM stone tool collections</a></li>
+<li> <a href="englishness-PRM-full-publications-1884-to-2008.html">The publications of the PRM 1884-2008</a></li>
+<li> <a href="englishness-Ancient-Mining-and-Metallurgy-Committee.html">RAI Ancient and Modern Metallurgy Committee</a></li>
+<li> <a href="englishness-Robins-and-Lamps.html">F.W. Robins and Lamps</a></li>
+<li> <a href="englishness-Scrimshaw-at-the-PRM.html">Scrimshaw</a></li>
+<li> <a href="englishness-Working-animal-teeth.html">Worked animal teeth</a></li>
+<li> <a href="englishness-Lace-Techniques.html">Lace techniques</a></li>
+<li> <a href="englishness-anthropology-and-technology.html">Anthropology of Technology - A French tradition?</a></li>
+<li> <a href="englishness-Lemonnier-and-Technology.html">Lemonnier and Technology</a></li>
+<li> <a href="englishness-Industrialization-and-the-PRM.html">Industrialization and the PRM</a></li>
+<li> <a href="englishness-Technology-conclusions.html">Tentative conclusions</a></li>
+</ul>
+		</div>	</div> </div> <!-- end of page <div class="spacer">&nbsp;</div>-->	<div id="ft">    <div align="right">        <script type="text/javascript">// Google Internal Site Search script- By JavaScriptKit.com (http://www.javascriptkit.com)// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/// This notice must stay intact for use//Enter domain of site to search.var domainroot="england.prm.ox.ac.uk"function Gsitesearch(curobj){curobj.q.value="site:"+domainroot+" "+curobj.qfront.value}</script><ul><li><form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">Search the Other Within website:<input name="q" type="hidden" /><input name="qfront" type="text" style="width: 120px" />&nbsp; <input type="submit" value="Search" /></form></li></ul></div>	</div> </div><!-- ENG2(163.1.55.83) --></body></html>

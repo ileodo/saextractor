@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>citizenship | Debating Development</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://blog.qeh.ox.ac.uk/wp-content/themes/odid-2/style.css" />
+<link rel="pingback" href="http://blog.qeh.ox.ac.uk/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://blog.qeh.ox.ac.uk/wp-content/themes/odid-2/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Debating Development &raquo; Feed" href="http://blog.qeh.ox.ac.uk/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Debating Development &raquo; Comments Feed" href="http://blog.qeh.ox.ac.uk/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Debating Development &raquo; citizenship Category Feed" href="http://blog.qeh.ox.ac.uk/?feed=rss2&#038;cat=95" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blog.qeh.ox.ac.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='category-sticky-post-css'  href='http://blog.qeh.ox.ac.uk/wp-content/plugins/category-sticky-post/css/plugin.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='http://blog.qeh.ox.ac.uk/wp-content/plugins/simple-social-icons/css/style.css?ver=1.0.5' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.qeh.ox.ac.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.qeh.ox.ac.uk/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover { background-color: #999999 !important; border-radius: 3px; color: #ffffff !important; font-size: 16px; padding: 8px; }  .simple-social-icons ul li a:hover { background-color: #666666 !important; color: #ffffff !important; }</style></head>
+
+<body class="archive category category-citizenship category-95 single-author two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://blog.qeh.ox.ac.uk/" title="Debating Development" rel="home">Debating Development</a></span></h1>
+				<h2 id="site-description">A conversational blog from researchers at the Oxford Department of International Development</h2>
+			</hgroup>
+
+						<a href="http://blog.qeh.ox.ac.uk/">
+									<img src="http://blog.qeh.ox.ac.uk/wp-content/themes/odid-2/images/headers/tvLady.jpg" width="1000" height="288" alt="" />
+							</a>
+			
+											<a href="http://www.ox.ac.uk" id="oxlink">University of Oxford</a>	
+
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-859"><a href="http://blog.qeh.ox.ac.uk/">Home</a></li>
+<li id="menu-item-860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-860"><a href="http://blog.qeh.ox.ac.uk/?page_id=824">Special Series</a>
+<ul class="sub-menu">
+	<li id="menu-item-867" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-867"><a href="http://blog.qeh.ox.ac.uk/?cat=98">The Sociology of Citizenship</a></li>
+</ul>
+</li>
+<li id="menu-item-861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href="http://blog.qeh.ox.ac.uk/?page_id=10">About the blog</a></li>
+<li id="menu-item-862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href="http://blog.qeh.ox.ac.uk/?page_id=22">About ODID</a></li>
+</ul></div>			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<section id="primary">
+			<div id="content" role="main">
+
+			
+				<header class="page-header">
+					<h1 class="page-title">Category Archives: <span>citizenship</span></h1>
+
+									</header>
+
+				
+								
+					
+	<article id="post-939" class="post-939 post type-post status-publish format-standard hentry category-citizenship category-religion category-south-asia category-the-sociology-of-citizenship">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blog.qeh.ox.ac.uk/?p=939" title="Permalink to Between Nation-State and Ummah’s Appeal: The Contradictions of Islamism in Contemporary India and Bangladesh" rel="bookmark">Between Nation-State and Ummah’s Appeal: The Contradictions of Islamism in Contemporary India and Bangladesh</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blog.qeh.ox.ac.uk/?p=939" title="2:26 pm" rel="bookmark"><time class="entry-date" datetime="2015-04-21T14:26:11+00:00" pubdate>April 21, 2015</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blog.qeh.ox.ac.uk/?author=2" title="View all posts by blogeditor" rel="author">blogeditor</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blog.qeh.ox.ac.uk/?p=939#comments">1</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship.jpg"><img class="alignright size-thumbnail wp-image-795" src="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship-150x150.jpg" alt="Sociology of citizenship" width="150" height="150" /></a>By Maidul Islam</p>
+<p>Generally, Islamists believe in the Universalist concept of <em>Ummah </em>(Islamic community of believers), a supranational or transnational union. The Islamists’ call for unity of the <em>Ummah</em> is based on the belief that Muslims throughout the world should have a sense of solidarity that cuts across the borders of the nation-state. In this respect, Islamism has justifications to oppose the concept of the nation-state. The Islamist ideologue Maududi (1993) was opposed to the idea of the nation-state, and citizenship based on nationality, considering nationalism to be divisive and as such incompatible with Islam (Maududi 1992). <a href="http://blog.qeh.ox.ac.uk/?p=939#more-939" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blog.qeh.ox.ac.uk/?cat=95" rel="category">citizenship</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=84" rel="category">Religion</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=78" rel="category">South Asia</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=98" rel="category">The Sociology of Citizenship</a>			</span>
+									
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blog.qeh.ox.ac.uk/?p=939#comments"><b>1</b> Reply</a></span>
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-939 -->
+
+				
+					
+	<article id="post-910" class="post-910 post type-post status-publish format-standard hentry category-africa-2 category-citizenship category-the-sociology-of-citizenship">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blog.qeh.ox.ac.uk/?p=910" title="Permalink to Afropolitanism: Global Citizenship with African Routes" rel="bookmark">Afropolitanism: Global Citizenship with African Routes</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blog.qeh.ox.ac.uk/?p=910" title="12:54 pm" rel="bookmark"><time class="entry-date" datetime="2015-04-04T12:54:04+00:00" pubdate>April 4, 2015</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blog.qeh.ox.ac.uk/?author=2" title="View all posts by blogeditor" rel="author">blogeditor</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blog.qeh.ox.ac.uk/?p=910#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship.jpg"><img class="alignright size-thumbnail wp-image-795" src="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship-150x150.jpg" alt="Sociology of citizenship" width="150" height="150" /></a><em>By Alpha Abebe</em></p>
+<p>Diasporas and other transnational communities have become particularly useful case studies for scholars interested in stretching and challenging mainstream conceptions of citizenship. It is now widely accepted that for many people around the world, physical location and formal legal citizenship may not be the most salient forms of social, political or economic affiliation. As the process of globalization continues to expand, more and more people find themselves in one place, while their lives are structured and oriented by connections to one or several other places. Some of these ‘places’ are other nation states, such as an ancestral country of origin. However, many such ‘places’ exist extraterritorially as abstract yet powerful expressions of identity, community, and belonging. <a href="http://blog.qeh.ox.ac.uk/?p=910#more-910" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blog.qeh.ox.ac.uk/?cat=59" rel="category">Africa</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=95" rel="category">citizenship</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=98" rel="category">The Sociology of Citizenship</a>			</span>
+									
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blog.qeh.ox.ac.uk/?p=910#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-910 -->
+
+				
+					
+	<article id="post-902" class="post-902 post type-post status-publish format-standard hentry category-citizenship category-latin-america category-the-sociology-of-citizenship">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blog.qeh.ox.ac.uk/?p=902" title="Permalink to Questioning traditional citizenship: memory, identity and collective action in Chile" rel="bookmark">Questioning traditional citizenship: memory, identity and collective action in Chile</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blog.qeh.ox.ac.uk/?p=902" title="3:27 pm" rel="bookmark"><time class="entry-date" datetime="2015-03-13T15:27:06+00:00" pubdate>March 13, 2015</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blog.qeh.ox.ac.uk/?author=2" title="View all posts by blogeditor" rel="author">blogeditor</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blog.qeh.ox.ac.uk/?p=902#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><em><a href="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship.jpg"><img class="alignright size-thumbnail wp-image-795" src="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship-150x150.jpg" alt="Sociology of citizenship" width="150" height="150" /></a>By Simón Escoffier</em></p>
+<p>In this post I contest traditional liberal conceptions of citizenship rooted in the nation-state and consider the role played by memory in the ways in which Santiago de Chile’s disenfranchised produce contentious politics.</p>
+<p>I suggest that, by referring to the past in their meetings and conversations, local neighbourhood organisations in Santiago de Chile’s poor settlements (<em>poblaciones</em>) assert a particular, anti-hegemonic interpretation of history. Through stories, historical anecdotes, and different types of memorials, poor residents produce a neighbourhood identity, giving rise to innovative forms of community membership. <a href="http://blog.qeh.ox.ac.uk/?p=902#more-902" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blog.qeh.ox.ac.uk/?cat=95" rel="category">citizenship</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=77" rel="category">Latin America</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=98" rel="category">The Sociology of Citizenship</a>			</span>
+									
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blog.qeh.ox.ac.uk/?p=902#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-902 -->
+
+				
+					
+	<article id="post-893" class="post-893 post type-post status-publish format-standard hentry category-citizenship category-india category-south-asia category-the-sociology-of-citizenship tag-elections">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blog.qeh.ox.ac.uk/?p=893" title="Permalink to Book Review: ‘Patronage as Politics in South Asia’ by Anastasia Piliavsky (ed)" rel="bookmark">Book Review: ‘Patronage as Politics in South Asia’ by Anastasia Piliavsky (ed)</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blog.qeh.ox.ac.uk/?p=893" title="11:35 am" rel="bookmark"><time class="entry-date" datetime="2015-03-06T11:35:36+00:00" pubdate>March 6, 2015</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blog.qeh.ox.ac.uk/?author=2" title="View all posts by blogeditor" rel="author">blogeditor</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blog.qeh.ox.ac.uk/?p=893#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship.jpg"><img class="alignright size-thumbnail wp-image-795" src="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship-150x150.jpg" alt="Sociology of citizenship" width="150" height="150" /></a>By Uday Chandra</p>
+<p>Patronage, which may be defined as a hierarchical relationship based on mutual obligations, is often regarded today as an unwelcome anachronism. Although this volume resists any single definition, the word ‘patronage’ reminds us of feudal and slave-owning societies of the past, where a few enjoyed the rights of citizenship at the expense of the many. Liberal democracies in our world have no place for patrons or clients, we believe, because universal adult franchise makes everyone legally equal and sovereignty rests with the demos.</p>
+<p>Yet modern democratic societies face a peculiar paradox: they must elect representatives who enact laws and make policies even as they maintain the fiction that they are just like us. The paradox of modern democracy has little to do with the level of inequality in society. Neither is it specific to cultural contexts in which democracy appears to be compromised, even distorted, by patron-client relations. Patronage is everywhere, as this refreshing new volume argues, and its workings in India, the world’s most populous democracy, push us to think of citizenship as vertically differentiated or hierarchical. <a href="http://blog.qeh.ox.ac.uk/?p=893#more-893" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blog.qeh.ox.ac.uk/?cat=95" rel="category">citizenship</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=66" rel="category">India</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=78" rel="category">South Asia</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=98" rel="category">The Sociology of Citizenship</a>			</span>
+									<span class="sep"> | </span>
+							<span class="tag-links">
+				<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="http://blog.qeh.ox.ac.uk/?tag=elections" rel="tag">Elections</a>			</span>
+						
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blog.qeh.ox.ac.uk/?p=893#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-893 -->
+
+				
+					
+	<article id="post-881" class="post-881 post type-post status-publish format-standard hentry category-africa-2 category-citizenship category-employment category-the-sociology-of-citizenship category-youth">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blog.qeh.ox.ac.uk/?p=881" title="Permalink to ‘We are Sierra Leoneans, not Slaves’: Contesting Citizenship in Freetown" rel="bookmark">‘We are Sierra Leoneans, not Slaves’: Contesting Citizenship in Freetown</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blog.qeh.ox.ac.uk/?p=881" title="3:17 pm" rel="bookmark"><time class="entry-date" datetime="2015-02-25T15:17:41+00:00" pubdate>February 25, 2015</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blog.qeh.ox.ac.uk/?author=2" title="View all posts by blogeditor" rel="author">blogeditor</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blog.qeh.ox.ac.uk/?p=881#comments">1</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><em><a href="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship.jpg"><img class="alignright size-thumbnail wp-image-795" src="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship-150x150.jpg" alt="Sociology of citizenship" width="150" height="150" /></a>By Luisa Enria</em></p>
+<p>In the summer of 2013, Freetown’s King Jimmy Bridge <a href="http://www.bbc.co.uk/news/world-africa-23637299">collapsed</a>. This was around a decade after the end of Sierra Leone’s civil war, and a year before the outbreak of the deadly Ebola virus; needless to say, the resulting deaths seemed barely newsworthy.</p>
+<p>But King Jimmy Bridge, and the tunnels that it took down with it, had particular significance to the many young people who make a precarious living in the neighbouring streets’ vibrant informal economy. The tunnels bore the marks of the chains used to imprison the victims of the Atlantic slave trade, as passages to the Ocean they were about to cross. Before King Jimmy Bridge collapsed, the tunnels served as congregation spots for young people, where discussions ensued about their current predicaments and about the plight of the <em>youthman</em> in a country where high rates of youth unemployment have forced a generation into marginal and irregular income-generating activities. <a href="http://blog.qeh.ox.ac.uk/?p=881#more-881" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blog.qeh.ox.ac.uk/?cat=59" rel="category">Africa</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=95" rel="category">citizenship</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=100" rel="category">Employment</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=98" rel="category">The Sociology of Citizenship</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=99" rel="category">Youth</a>			</span>
+									
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blog.qeh.ox.ac.uk/?p=881#comments"><b>1</b> Reply</a></span>
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-881 -->
+
+				
+					
+	<article id="post-871" class="post-871 post type-post status-publish format-standard hentry category-citizenship category-ethnicity category-latin-america category-the-sociology-of-citizenship">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blog.qeh.ox.ac.uk/?p=871" title="Permalink to Plurinational citizenship in the making" rel="bookmark">Plurinational citizenship in the making</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blog.qeh.ox.ac.uk/?p=871" title="12:02 pm" rel="bookmark"><time class="entry-date" datetime="2015-02-19T12:02:39+00:00" pubdate>February 19, 2015</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blog.qeh.ox.ac.uk/?author=2" title="View all posts by blogeditor" rel="author">blogeditor</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blog.qeh.ox.ac.uk/?p=871#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship.jpg"><img class="alignright size-thumbnail wp-image-795" src="http://blog.qeh.ox.ac.uk/wp-content/uploads/2015/02/Sociology-of-citizenship-150x150.jpg" alt="Sociology of citizenship" width="150" height="150" /></a>By Lorenza B. Fontana</p>
+<p>In 2009, after a long and contentious process of national dialogue that led to the approval of a new Constitution, the Republic of Bolivia officially changed its name to Plurinational State of Bolivia.</p>
+<p>Over the last decade, the idea of plurinationalism has influenced public debates across the Andean region. In 2008, the <a href="mailto:http://www.ipsnews.net/2008/05/ecuador-new-constitution-addresses-demand-for-lsquoplurinationalrsquo-state/#http://www.ipsnews.net/2008/05/ecuador-new-constitution-addresses-demand-for-lsquoplurinationalrsquo-state/">Ecuadorian president Rafael Correa defined plurinationalism</a> as the coexistence of several different nationalities within a larger state where different peoples, cultures and worldviews exist and are recognized. Yet, Bolivia was the first country to go all the way, not only including this idea in the Constitution (as Ecuador did) but actually changing its official name. This is not just a formality. The new Bolivia is engaging in a process of in-depth institutional reforms, challenging mainstream narratives and political structures and reinventing a model of the state and creating notions of citizenship better suited to highly diverse ethnic and cultural landscapes. <a href="http://blog.qeh.ox.ac.uk/?p=871#more-871" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blog.qeh.ox.ac.uk/?cat=95" rel="category">citizenship</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=39" rel="category">Ethnicity</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=77" rel="category">Latin America</a>, <a href="http://blog.qeh.ox.ac.uk/?cat=98" rel="category">The Sociology of Citizenship</a>			</span>
+									
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blog.qeh.ox.ac.uk/?p=871#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-871 -->
+
+				
+				
+			
+			</div><!-- #content -->
+		</section><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search">	<form method="get" id="searchform" action="http://blog.qeh.ox.ac.uk/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+</aside><aside id="simple-social-icons-2" class="widget simple-social-icons"><ul class="alignleft"><li class="social-facebook"><a href="https://www.facebook.com/ODID.QEH" >&#xe802;</a></li><li class="social-twitter"><a href="https://twitter.com/ODID_QEH" >&#xe80d;</a></li></ul></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://blog.qeh.ox.ac.uk/?p=971">Military madness in the Med</a>
+						</li>
+					<li>
+				<a href="http://blog.qeh.ox.ac.uk/?p=964">Tough boys and docile girls? Questioning the use of corporal punishment in schools</a>
+						</li>
+					<li>
+				<a href="http://blog.qeh.ox.ac.uk/?p=951">Let Their People Drown: How EU Politicians Have Become Tragic Actors in a Self-inflicted Migration Drama</a>
+						</li>
+					<li>
+				<a href="http://blog.qeh.ox.ac.uk/?p=939">Between Nation-State and Ummah’s Appeal: The Contradictions of Islamism in Contemporary India and Bangladesh</a>
+						</li>
+					<li>
+				<a href="http://blog.qeh.ox.ac.uk/?p=925">HIP meet resettled refugees in Dallas</a>
+						</li>
+				</ul>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://www.ratheryes.com' rel='external nofollow' class='url'>Maureen Coffey</a></span> on <a href="http://blog.qeh.ox.ac.uk/?p=939#comment-485835">Between Nation-State and Ummah’s Appeal: The Contradictions of Islamism in Contemporary India and Bangladesh</a></li><li class="recentcomments"><span class="comment-author-link">Sonali</span> on <a href="http://blog.qeh.ox.ac.uk/?p=715#comment-478664">Fieldwork Stories: Johanna Wallin on Kolkata’s Red Light Areas</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.waynyouth.org' rel='external nofollow' class='url'>Mohamed Kanneh</a></span> on <a href="http://blog.qeh.ox.ac.uk/?p=881#comment-469475">‘We are Sierra Leoneans, not Slaves’: Contesting Citizenship in Freetown</a></li><li class="recentcomments"><span class="comment-author-link">Paul Dornan</span> on <a href="http://blog.qeh.ox.ac.uk/?p=773#comment-434472">Reflecting on 2014: 14 things we learned</a></li><li class="recentcomments"><span class="comment-author-link">Frances Stewart</span> on <a href="http://blog.qeh.ox.ac.uk/?p=773#comment-434295">Reflecting on 2014: 14 things we learned</a></li></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201506'>June 2015</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201505'>May 2015</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201504'>April 2015</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201503'>March 2015</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201502'>February 2015</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201501'>January 2015</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201412'>December 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201411'>November 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201409'>September 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201408'>August 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201407'>July 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201406'>June 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201405'>May 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201404'>April 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201403'>March 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201402'>February 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201401'>January 2014</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201312'>December 2013</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201310'>October 2013</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201309'>September 2013</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201308'>August 2013</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201307'>July 2013</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201306'>June 2013</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201305'>May 2013</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201304'>April 2013</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201303'>March 2013</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201302'>February 2013</a></li>
+	<li><a href='http://blog.qeh.ox.ac.uk/?m=201301'>January 2013</a></li>
+		</ul>
+</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-59"><a href="http://blog.qeh.ox.ac.uk/?cat=59" >Africa</a>
+</li>
+	<li class="cat-item cat-item-81"><a href="http://blog.qeh.ox.ac.uk/?cat=81" >Caribbean</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://blog.qeh.ox.ac.uk/?cat=11" >Children</a>
+</li>
+	<li class="cat-item cat-item-95 current-cat"><a href="http://blog.qeh.ox.ac.uk/?cat=95" >citizenship</a>
+</li>
+	<li class="cat-item cat-item-82"><a href="http://blog.qeh.ox.ac.uk/?cat=82" >Climate Change</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://blog.qeh.ox.ac.uk/?cat=12" >Conflict</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://blog.qeh.ox.ac.uk/?cat=32" >Diplomacy</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://blog.qeh.ox.ac.uk/?cat=5" >Economic development</a>
+</li>
+	<li class="cat-item cat-item-68"><a href="http://blog.qeh.ox.ac.uk/?cat=68" >Education</a>
+</li>
+	<li class="cat-item cat-item-57"><a href="http://blog.qeh.ox.ac.uk/?cat=57" >Elderly</a>
+</li>
+	<li class="cat-item cat-item-100"><a href="http://blog.qeh.ox.ac.uk/?cat=100" >Employment</a>
+</li>
+	<li class="cat-item cat-item-62"><a href="http://blog.qeh.ox.ac.uk/?cat=62" >Energy</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://blog.qeh.ox.ac.uk/?cat=13" >Environment</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://blog.qeh.ox.ac.uk/?cat=39" >Ethnicity</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://blog.qeh.ox.ac.uk/?cat=7" >Forced migration</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://blog.qeh.ox.ac.uk/?cat=41" >Gender</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://blog.qeh.ox.ac.uk/?cat=18" >Global governance</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://blog.qeh.ox.ac.uk/?cat=9" >Human development</a>
+</li>
+	<li class="cat-item cat-item-54"><a href="http://blog.qeh.ox.ac.uk/?cat=54" >Humanitarianism</a>
+</li>
+	<li class="cat-item cat-item-66"><a href="http://blog.qeh.ox.ac.uk/?cat=66" >India</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://blog.qeh.ox.ac.uk/?cat=19" >Inequality</a>
+</li>
+	<li class="cat-item cat-item-90"><a href="http://blog.qeh.ox.ac.uk/?cat=90" >Innovation</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://blog.qeh.ox.ac.uk/?cat=31" >International Institutions</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://blog.qeh.ox.ac.uk/?cat=43" >International Migration Institute</a>
+</li>
+	<li class="cat-item cat-item-88"><a href="http://blog.qeh.ox.ac.uk/?cat=88" >Labour standards</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="http://blog.qeh.ox.ac.uk/?cat=77" >Latin America</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://blog.qeh.ox.ac.uk/?cat=58" >Law</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="http://blog.qeh.ox.ac.uk/?cat=63" >Middle East</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://blog.qeh.ox.ac.uk/?cat=8" >Migration</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://blog.qeh.ox.ac.uk/?cat=48" >Oxford Poverty and Human Development Initiative</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://blog.qeh.ox.ac.uk/?cat=65" >Policy</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="http://blog.qeh.ox.ac.uk/?cat=67" >Political change</a>
+</li>
+	<li class="cat-item cat-item-69"><a href="http://blog.qeh.ox.ac.uk/?cat=69" >Politics</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://blog.qeh.ox.ac.uk/?cat=10" >Poverty</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://blog.qeh.ox.ac.uk/?cat=30" >Refugee Studies Centre</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="http://blog.qeh.ox.ac.uk/?cat=84" >Religion</a>
+</li>
+	<li class="cat-item cat-item-89"><a href="http://blog.qeh.ox.ac.uk/?cat=89" >Rising Powers</a>
+</li>
+	<li class="cat-item cat-item-93"><a href="http://blog.qeh.ox.ac.uk/?cat=93" >SDGs</a>
+</li>
+	<li class="cat-item cat-item-78"><a href="http://blog.qeh.ox.ac.uk/?cat=78" >South Asia</a>
+</li>
+	<li class="cat-item cat-item-91"><a href="http://blog.qeh.ox.ac.uk/?cat=91" >Technology</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="http://blog.qeh.ox.ac.uk/?cat=92" >Technology and Management Centre for Development</a>
+</li>
+	<li class="cat-item cat-item-98"><a href="http://blog.qeh.ox.ac.uk/?cat=98" >The Sociology of Citizenship</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blog.qeh.ox.ac.uk/?cat=1" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-83"><a href="http://blog.qeh.ox.ac.uk/?cat=83" >United Nations</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://blog.qeh.ox.ac.uk/?cat=42" >Young Lives</a>
+</li>
+	<li class="cat-item cat-item-99"><a href="http://blog.qeh.ox.ac.uk/?cat=99" >Youth</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://blog.qeh.ox.ac.uk/wp-login.php">Log in</a></li>
+			<li><a href="http://blog.qeh.ox.ac.uk/?feed=rss2">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blog.qeh.ox.ac.uk/?feed=comments-rss2">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+
+<p class="strapline" >International Development: increasing well-being and reducing inequality in global society</p>
+
+
+
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">Powered by WordPress</a>
+			</div>
+			
+			<address>Oxford Department of International
+Development<br/>
+Queen Elizabeth House<br/>
+3 Mansfield Road, Oxford OX1 3TB<br/>
+<a class="mainSiteLink" href="http://www.qeh.ox.ac.uk/">www.qeh.ox.ac.uk</a>
+</address>
+			
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['disableCookies']); 
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://www4.qeh.ox.ac.uk/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+<!-- Piwik Image Tracker -->
+<noscript>
+<img src="https://www4.qeh.ox.ac.uk/piwik.php?idsite=1&amp;rec=1" style="border:0" alt="" />
+</noscript>
+<!-- End Piwik -->
+
+	<!-- Piwik -->
+	<script type="text/javascript">
+		var _paq = _paq || [];
+										_paq.push(["trackPageView"]);
+		_paq.push(["enableLinkTracking"]);
+		(function() {
+			var u = (("https:" == document.location.protocol) ? "https" : "http") + "://" + "www4.qeh.ox.ac.uk/";
+			_paq.push(["setTrackerUrl", u + "piwik.php"]);
+			_paq.push(["setSiteId", "1"]);
+			var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0];
+			g.type = "text/javascript";
+			g.defer = true;
+			g.async = true;
+			g.src = u + "piwik.js";
+			s.parentNode.insertBefore(g, s);
+		})();
+	</script>
+	<!-- End Piwik Code -->
+	
+
+</body>
+</html>

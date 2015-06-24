@@ -1,0 +1,333 @@
+
+<!DOCTYPE html>
+<html id="ctl00_Html1">
+<head id="ctl00_Head1"><title>
+	Home - Admissions
+</title>
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=printerfriendly&amp;s=21&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Admissions Site Search" href="http://admissions.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+<link rel='shortcut icon' href='/Data/Sites/21/skins/printerfriendly/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://admissions.chem.ox.ac.uk/home.aspx' /></head>
+<body id="ctl00_Body" class="pagebody">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="4" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIBD2QWAgIDD2QWAgIDD2QWBgIXDw8WBB4IQ3NzQ2xhc3MFNWFydC1sYXlvdXQtY2VsbCBhcnQtY29udGVudCBjZW50ZXItbGVmdG1hcmdpbiBjbXN6b25lHgRfIVNCAgJkFgICBQ9kFgJmD2QWAgICD2QWAgIDD2QWAgIDD2QWAgIBD2QWBAIBDw8WAh4HVmlzaWJsZWhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIeCkNhbGxiYWNrSUQFKWN0bDAwJG1haW5Db250ZW50JGN0bDAwJFJhdGluZyRVc2VyUmF0aW5nZAINDw8WAh8CaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh8DBS9jdGwwMCRtYWluQ29udGVudCRjdGwwMCRSYXRpbmdCb3R0b20kVXNlclJhdGluZ2QCGQ8PFgQfAAU5YXJ0LWxheW91dC1jZWxsIGFydC1zaWRl" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="YmFyMSBsZWZ0c2lkZSBsZWZ0MmNvbHVtbiBjbXN6b25lHwECAmQWAgIBD2QWCmYPZBYCAgIPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHwJoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHwMFKWN0bDAwJGxlZnRDb250ZW50JGN0bDAwJFJhdGluZyRVc2VyUmF0aW5nZAINDw8WAh8CaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh8DBS9jdGwwMCRsZWZ0Q29udGVudCRjdGwwMCRSYXRpbmdCb3R0b20kVXNlclJhdGluZ2QCAQ9kFgICAg9kFgICAw9kFgICAw9kFgICAQ9kFgQCAQ8PFgIfAmhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIfAwUpY3RsMDAkbGVmdENvbnRlbnQkY3RsMDEkUmF0aW5nJFVzZXJSYXRpbmdkAg0PDxYCHwJoZBYCAgEPZBYCZg9kFgICBQ9k" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="FgJmDxYCHwMFL2N0bDAwJGxlZnRDb250ZW50JGN0bDAxJFJhdGluZ0JvdHRvbSRVc2VyUmF0aW5nZAICD2QWAgICD2QWAgIDD2QWAgIDD2QWAgIBD2QWBAIBDw8WAh8CaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh8DBSljdGwwMCRsZWZ0Q29udGVudCRjdGwwMiRSYXRpbmckVXNlclJhdGluZ2QCDQ8PFgIfAmhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIfAwUvY3RsMDAkbGVmdENvbnRlbnQkY3RsMDIkUmF0aW5nQm90dG9tJFVzZXJSYXRpbmdkAgMPZBYCAgIPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHwJoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHwMFKWN0bDAwJGxlZnRDb250ZW50JGN0bDAzJFJhdGluZyRVc2VyUmF0aW5nZAINDw8WAh8CaGQWAgIB" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="D2QWAmYPZBYCAgUPZBYCZg8WAh8DBS9jdGwwMCRsZWZ0Q29udGVudCRjdGwwMyRSYXRpbmdCb3R0b20kVXNlclJhdGluZ2QCBA9kFgICAg9kFgICAw9kFgICAw9kFgICAQ9kFgQCAQ8PFgIfAmhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIfAwUpY3RsMDAkbGVmdENvbnRlbnQkY3RsMDQkUmF0aW5nJFVzZXJSYXRpbmdkAg0PDxYCHwJoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHwMFL2N0bDAwJGxlZnRDb250ZW50JGN0bDA0JFJhdGluZ0JvdHRvbSRVc2VyUmF0aW5nZAIbDw8WBh8ABRFyaWdodHNpZGUgY21zem9uZR8BAgIfAmhkZGTl9d6h9fbgIjqNvahEktgrQ6lpNg==" />
+
+
+<script src="/ScriptResource.axd?d=GgXUWk0YGL5mkQ9-VTSrcPqQscD_-bs_hX8tBpWj_ajYK7a2jfCpfZpR7AgBGlpGqSBE2ewJEdE-P18uztHuFMmQsCACQ0siY9FQlrtAqCpem5IUheGLN7vNwM56-wglLdJL5MAs36eXoMRP03sAgE_e-pbcWLyJ5uqrq_c3zffMqSmGUscDJWjf22_5nhlMqUjPrT3LE9q6D-ibu_k7geimVGvShHGQuGv96y-nCLmwkG_S0" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAelagCaVjgGr82jKZf9oAbXluqpT+SRPGaj6Cukd6ylpzMAyIKLJVX1xUfbXd3gMr7959QDFop/FCO02z+rCRk8wGdqh60/R0q6ghtbL7JhJc63MBVDIhT6iUA3aonwZfA770V/S31crAWRXTpafIInP8g1xQnOmogtVmrLTYxGvuRb7Lk=" />
+
+
+
+
+<div id="wrapwebsite">
+	<h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://admissions.chem.ox.ac.uk/Default.aspx'>Admissions</a></h1>
+	
+
+
+
+
+	&nbsp;
+	<div class="wrapcenter">
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+		    
+		    
+		    
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1358" class=" moduletitle">Welcome</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<p>Chemistry at Oxford is a four year course leading to the degree of M. Chem. (with honours). The course provides a high level education in the subject with sufficient flexibility to enable students to specialise in the areas of greatest interest to them and also to venture into overlapping scientific disciplines.</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="500">
+	<tbody>
+		<tr>
+			<td>
+			<p><img alt="" src="/Data/Sites/21/images/mchem-cover.jpg" style="width: 550px; height: 413px;" /></p>
+
+			<p>Click to download the <a href="/Data/Sites/21/images/mchem-chemistry.pdf">MChem Chemistry Prospectus</a> (PDF)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<h5><script language="JavaScript" type="text/javascript">
+var randomphoto = Math.round(Math.random() * 9) + 1
+document.write ("<img alt='feedback' width='229' height='550' hspace='8' align='right' src='/Data/Sites/21/images/photobookmark"+randomphoto+".jpg' border='0'>")
+
+</script>The key features are:</h5>
+
+<p>A very broadly based first year course designed to provide a solid foundation for the subsequent three years. In addition to the traditional areas of Inorganic, Organic and Physical Chemistry, it includes coverage of Biological Chemistry, Physics and Mathematics for Chemistry.</p>
+
+<p>The second year covers much of the core material for the Chemistry course with opportunities to diversify into other areas via optional supplementary subjects. Topics available include the History and Philosophy of Science, and a modern language as well as topics closer to Chemistry. The three examinations taken in the Summer, Part IA, cover material primarily from the first two years and count 15% towards the final degree.</p>
+
+<p>The third year continues coverage of core material but also offers a choice of more specialised Options (a choice of 3 from 16) which cover a wide range of topics, some relating to research interests in the Department. Part IB examinations are taken at the end of the year and comprise 6 general papers relating to accumulated core material and one paper covering all the Options. These examinations count 50% towards the final degree.</p>
+
+<p>The practical course is an integral part of the first three years. Practicals are assessed throughout the course, and the second and third year practical assessments count 10% towards the final degree.</p>
+
+<p>The fourth year is spent entirely on a research project, working with a supervisor chosen by the student. A thesis is submitted for assessment at the end of the year, and the evaluation incorporated in the final degree result. This project counts 25% towards the final degree.&nbsp;</p>
+
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+
+
+</div>
+
+	    
+</div>
+	    <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+								
+		    
+<div id='ctl00_leftContent_ctl00_pnlOuterWrap' class=''>
+
+
+<div id='ctl00_leftContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1438" class=" moduletitle">Podcasts</h2>
+<div id='ctl00_leftContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_leftContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_leftContent_ctl00_divContent' class=''>
+<p><a href="http://podcasts.ox.ac.uk/admissions-office-video">Listen to Oxford's Director of Undergraduate Admissions chat with students and staff.</a></p>
+
+<p><a href="http://www.ox.ac.uk/admissions/undergraduate_courses/courses/chemistry/chemistry.html">Listen to the Director of Studies chat with students about the Chemistry course.</a></p>
+
+<p><a href="http://www.ox.ac.uk/admissions/undergraduate_courses/colleges/how_do_i_choose_a_college/index.html">Choosing a College.</a>&nbsp;Applying to Oxford means applying to a college. So what do you do? Two current students tell their story and reveal what effect college choice actually has on your application.</p>
+
+<p><a href="http://podcasts.ox.ac.uk/units/department-chemistry">Podcasts from the Department of Chemistry&nbsp;</a></p>
+
+</div>
+<input type="hidden" name="ctl00$leftContent$ctl00$hdnIsDirty" id="ctl00_leftContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_leftContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_leftContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+
+
+</div>
+
+<div id='ctl00_leftContent_ctl01_pnlOuterWrap' class=''>
+
+
+<div id='ctl00_leftContent_ctl01_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1439" class=" moduletitle">Faces</h2>
+<div id='ctl00_leftContent_ctl01_pnlOuterBody' class=''>
+
+<div id='ctl00_leftContent_ctl01_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_leftContent_ctl01_divContent' class=''>
+<p><a href="http://www.ox.ac.uk/videowall/index.html"><img alt="100 Faces" src="/Data/Sites/21/images/7637_100_faces_icon.jpg" /></a></p>
+<p><a href="http://www.ox.ac.uk/videowall/index.html">What sort of people go to Oxford? Probably people like you. Meet 100 current students now on the Wall of 100 Faces.</a></p>
+</div>
+<input type="hidden" name="ctl00$leftContent$ctl01$hdnIsDirty" id="ctl00_leftContent_ctl01_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_leftContent_ctl01_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_leftContent_ctl01_divCleared' class='cleared'>
+
+</div>
+
+</div>
+
+
+</div>
+
+<div id='ctl00_leftContent_ctl02_pnlOuterWrap' class=''>
+
+
+<div id='ctl00_leftContent_ctl02_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1966" class=" moduletitle">University Guide</h2>
+<div id='ctl00_leftContent_ctl02_pnlOuterBody' class=''>
+
+<div id='ctl00_leftContent_ctl02_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_leftContent_ctl02_divContent' class=''>
+<p>
+	The University of Oxford's Department of Chemistry tops the subject ranking for Chemistry in the <a href="http://www.guardian.co.uk/education/table/2012/may/22/university-guide-chemistry">Guardian's University Guide 2013</a>. The Guide is based on the things students care most about when they are choosing a course.</p>
+<p>
+	<a href="http://www.guardian.co.uk/education/table/2012/may/22/university-guide-chemistry"><img alt="" src="/Data/Sites/21/images/guardian-logo.jpg" style="width: 180px; height: 32px; " /></a></p>
+
+</div>
+<input type="hidden" name="ctl00$leftContent$ctl02$hdnIsDirty" id="ctl00_leftContent_ctl02_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_leftContent_ctl02_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_leftContent_ctl02_divCleared' class='cleared'>
+
+</div>
+
+</div>
+
+
+</div>
+
+<div id='ctl00_leftContent_ctl03_pnlOuterWrap' class=''>
+
+
+<div id='ctl00_leftContent_ctl03_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1440" class=" moduletitle">twitter</h2>
+<div id='ctl00_leftContent_ctl03_pnlOuterBody' class=''>
+
+<div id='ctl00_leftContent_ctl03_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_leftContent_ctl03_divContent' class=''>
+<p><a href="http://twitter.com/#!/UniofOxford">@UniofOxford</a></p>
+<p>Twitter stream of the University of Oxford&#160;</p>
+</div>
+<input type="hidden" name="ctl00$leftContent$ctl03$hdnIsDirty" id="ctl00_leftContent_ctl03_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_leftContent_ctl03_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_leftContent_ctl03_divCleared' class='cleared'>
+
+</div>
+
+</div>
+
+
+</div>
+
+<div id='ctl00_leftContent_ctl04_pnlOuterWrap' class=''>
+
+
+<div id='ctl00_leftContent_ctl04_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1441" class=" moduletitle">Virtual |Tour of Oxford</h2>
+<div id='ctl00_leftContent_ctl04_pnlOuterBody' class=''>
+
+<div id='ctl00_leftContent_ctl04_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_leftContent_ctl04_divContent' class=''>
+<p>Explore thousands of <a href="http://www.seeoxford.com">interactive 360˚ panoramas </a>of locations in and around the University of Oxford and its colleges.</p>
+<p style="text-align: center; "><a href="http://www.seeoxford.com"><img alt="Virtual Tour of Oxford" width="150" height="116" src="/Data/Sites/21/images/virtualtourofoxford.jpg" /></a></p>
+</div>
+<input type="hidden" name="ctl00$leftContent$ctl04$hdnIsDirty" id="ctl00_leftContent_ctl04_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_leftContent_ctl04_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_leftContent_ctl04_divCleared' class='cleared'>
+
+</div>
+
+</div>
+
+
+</div>
+
+	    
+</div>
+	    
+	</div>						
+</div>
+
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

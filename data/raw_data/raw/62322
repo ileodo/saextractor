@@ -1,0 +1,378 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <title>IP Rights Management Team, Research Support</title>
+<!-- three column -->
+
+    <link rel="icon" type="image/gif" href="/media/global/wwwadminoxacuk/styleassets/images/favicon.gif" />
+    <link rel="shortcut icon" type="image/gif" href="/media/global/wwwadminoxacuk/styleassets/images/favicon.gif" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Cache-Control" content="max-age=10800" />
+    <meta name="description" content="IP Rights Management Team, Research Support" />
+    <meta name="keywords" content="Research Services, Research Accounts, Training, Funding, Managing Projects, Grant Applications, Awards, Contracts, Ethics, Policy, Costing, Pricing, IP, Governance, Clinical Trials, " />
+    <meta http-equiv="imagetoolbar" content="No" />
+    <meta name="DC.Author" content="Research Services webmaster" />
+    <meta name="DC.Coverage" content="Unlimited" />
+    <meta name="DC.Creator" content="University of Oxford" />
+    <meta name="DC.Date.modified" content="16 Dec 14" />
+    <meta name="DC.Description" content="IP Rights Management Team, Research Support" />
+    <meta name="DC.Format" content="application/xhtml" />
+    <meta name="DC.Language" content="en" />
+    <meta name="DC.Publisher" content="University of Oxford" />
+    <meta name="DC.Rights" content="Copyright University of Oxford" />
+    <meta name="DC.subject" content="IP Rights Management Team, Research Services, Research Accounts, Training, Funding, Managing Projects, Grant Applications, Awards, Contracts, Ethics, Policy, Costing, Pricing, IP, Governance, Clinical Trials, " />
+    <meta name="DC.title" content="IP Rights Management Team, Research Support" />
+    
+    <!-- Add NO ARCHIVE meta tag if required -->
+    
+    <script type="text/javascript">
+var ga_array = [];
+if (typeof [['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']] != "undefined")
+{
+	ga_array = [['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']];
+}
+else
+{
+	ga_array = [['_setAccount', "[['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']]"]];
+}
+</script>
+    <!-- javascript file includes -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/jquery.js">
+</script><!-- jquery -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/jquery.clickOrEnter.js">
+</script><!-- jquery.clickOrEnter.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/all.js">
+</script><!-- all.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/page_setup.js">
+</script><!-- page_setup.js -->
+
+    <!-- Related Content Advanced -->
+    
+
+
+    <!-- CSS file combined from subversion-->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/all-t4-production.css" />
+    <!-- CSS file for FAQ-->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/FAQ-new.css" />
+    <!-- CSS for Gl More/Less -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/togglePanel.css" />
+    <!-- CSS for general bugFixing -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/generalBugFix.css" />
+    <!-- CSS for A to Z -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/AtoZ.css" />
+
+
+    <!-- navigation object : Gl CSS Selector -->
+ <!-- navigation object : Gl CSS Selector -->
+    
+    <!-- note: the 'stripy' IE bug seems to have been caused by something in alumni/nav_primary.css,
+    not a change to the main nav_primary. The difference is that before the width was defined on
+    #primary-nav ul  (defined differently for the different images that go into it) but now is
+    not. With width on #primary-nav ul this goes away -->
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/prinav.css" />
+
+    <!--[if IE 6]><script src="/media/global/wwwadminoxacuk/styleassets/js/ie6.js" type="text/javascript"></script><script type="text/javascript" src="/media/global/wwwoxacuk/styleassets/js/pngfix.jquery.js">
+</script><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/ie6.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/togglePanel-IE6.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/AtoZ-IE6_from_production.css" /><![endif]-->
+    
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/handheld.css" media="handheld" />
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/print.css" media="print" />
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/oxonly_fix_padlocks.css" media="all" />
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/ie7.css" /><![endif]-->  
+</head>
+
+  <body>
+ 
+        <!-- header content on page -->
+    <div id="header-wrapper">
+      <div id="header">
+
+        <ul id="access-links">
+          <li><a id="skipnav" href="#primary-content" accesskey="s">Start of main content</a></li>
+        </ul>
+
+        <div id="logos">
+          <span class="screenonly">
+            <a id="logo" href="/researchsupport/">
+              <img src="/media/global/wwwadminoxacuk/localsites/researchsupport/images/banners/research_support_header.gif" alt="Research Support" height="66" width="312" class="floated"  />
+            </a>
+          </span>
+          <span class="printonly">
+            <img src="/media/global/wwwadminoxacuk/localsites/researchsupport/images/banners/research_support_header_print.gif" alt="Research Support" height="66" width="312" class="floated"  />
+          </span>
+        </div>
+
+        <div class="find-it">
+          <!-- text/html formatter for GL Search Box -->
+
+<form id="searchform" action="http://www2.admin.ox.ac.uk/search_multiplex/multiplex.php" method="get">
+ <div>
+  <label for="searchinput">Search</label>
+  <input type="text" name="q" id="searchinput" value="Enter search term" />
+  <input type="image" name="submit" alt="Search" src="/media/global/wwwadminoxacuk/styleassets/images/button_search.gif" class="searchbutton" />
+  <input type="hidden" name="access" value="p" />
+  <input type="hidden" name="output" value="xml_no_dtd" />
+  <input type="hidden" name="ie" value="UTF-8" />
+  <input type="hidden" name="client" value="admin" />
+  <input type="hidden" name="proxystylesheet" value="admin" />
+  <input type="hidden" name="subsite" value="resadmin" />
+  <input type="hidden" name="subsitename" value="University Administration and Services" />
+  <fieldset>
+    <label for="search-type" class="radio">
+      <input id="search-type" class="radio radio-first" type="radio" 
+             name="search-type" value="subsite" 
+             checked="checked" 
+      />This site</label>
+    <label for="search-type2" class="radio">
+      <input id="search-type2" class="radio" type="radio" 
+             name="search-type" value="pages"  
+      />University of Oxford</label>
+    <label for="search-type3" class="radio">
+      <input id="search-type3" class="radio" type="radio" 
+             name="search-type" value="people" 
+      />People</label>
+  </fieldset>
+ </div>
+</form>
+        </div>
+        
+        <!-- Add header_logo_right -->
+        <div class="university-logo">
+          <a href="http://www.ox.ac.uk/">
+           
+          <img src="/media/global/wwwadminoxacuk/styleassets/images/header_logo.gif" alt="University of Oxford" height="115" width="115" class="floated"  />
+
+          </a>
+        </div>
+        
+        <!-- Primary Nav -->
+        
+
+      </div>
+    </div>      
+    <div id="wrapper">
+      <div id="content">         
+          <a href="/researchsupport/" id="departmental-logo"></a>
+          
+          <div id="breadcrumb">
+            <ol><!-- navigation object : Gl Pre Breadcrumb Locator --><!-- navigation object : Gl Pre Breadcrumb Home Link --><li><a href="/">UAS Home</a></li><!-- navigation object : Gl Breadcrumbs --><li><a href="/researchsupport/">Research Support</a></li><li><a href="/researchsupport/contacts/">Contacts</a></li><li><a href="/researchsupport/contacts/rs/">Research Services</a></li><li><a href="/researchsupport/contacts/rs/ip/">IP Rights Management Team</a></li></ol>
+          </div><div class="clear"></div>
+         
+	  <div id="uas-wrapper">
+            <div id="secondary-content">
+              <!-- Main Left Nav -->
+              <ul id="secondary-nav"><li><a href="/researchsupport/about/">About research support </a></li><li><a href="/researchsupport/contacts/">Contacts</a>
+<ul class="multilevel-linkul-0" title="">
+<li><a href="/researchsupport/contacts/rs/">Research Services</a>
+<ul class="multilevel-linkul-1" title="">
+<li><a href="/researchsupport/contacts/rs/hss/">Humanities and Social Sciences Team</a></li>
+<li><a href="/researchsupport/contacts/rs/science/">Science Area Team</a></li>
+<li><a href="/researchsupport/contacts/rs/med/">Medical Sciences Team</a></li>
+<li><a href="/researchsupport/contacts/rs/ctrg/">Clinical Trials and Research Governance</a></li>
+<li><span class="currentsection">IP Rights Management Team</span></li>
+<li><a href="/researchsupport/contacts/rs/ethics/">Research Ethics and Integrity Team</a></li>
+<li><a href="/researchsupport/contacts/rs/sim/">Research Systems and Information Management Team</a></li>
+<li><a href="/researchsupport/contacts/rs/keit/">Knowledge Exchange &amp; Impact Team (KEIT)</a></li>
+<li><a href="/researchsupport/contacts/rs/dir/">Director's Office / Wellington Square</a></li>
+
+</ul>
+</li>
+<li><a href="/finance/research/contacts/" class="protected-link">Research Accounts</a></li>
+<li><a href="/researchsupport/contacts/resfac/" class="protected-link">Research Facilitators</a></li>
+
+</ul>
+</li><li><a href="/researchsupport/news/" class="protected-link">News </a></li><li><a href="/researchsupport/consultationsandcommittees/">Consultations</a></li><li><a href="/researchsupport/committees/">Committees</a></li><li><a href="/researchsupport/training/">Training and professional development </a></li><li><a href="/researchsupport/findfunding/">Find funding</a></li><li><a href="/researchsupport/sponsors/">Major sponsors</a></li><li><a href="/researchsupport/applying/">Applying for funding</a></li><li><a href="/researchsupport/costing/">Costing and pricing</a></li><li><a href="/researchsupport/x5/">X5: Costing and pricing system</a></li><li><a href="/researchsupport/facilities/">Research Facilities and Equipment</a></li><li><a href="/researchsupport/contracts/">Research contracts</a></li><li><a href="/researchsupport/consulting/">Consulting activity</a></li><li><a href="/researchsupport/ctrg/">Clinical Trials and Research Governance</a></li><li><a href="/researchsupport/ip/">Intellectual Property</a></li><li><a href="/researchsupport/impactke/">Knowledge Exchange and Impact</a></li><li><a href="/researchsupport/awards/">Managing awards, reporting outcomes and Open Access</a></li><li><a href="/researchsupport/integrity/">Research integrity and ethics</a></li><li><a href="/researchsupport/reports/">Research Income and Activity Reports</a></li></ul>
+
+              <!-- Under Left Nav -->
+	      
+            </div>
+              
+            <div id="primary-content">
+              <a name="33480"></a><h1>IP Rights Management Team</h1>
+
+
+
+
+
+<table border="1">
+<tbody>
+<tr>
+<td>
+<p>Please send all queries to<strong> <a href="mailto:iprm@admin.ox.ac.uk" title="iprm@admin.ox.ac.uk">iprm@admin.ox.ac.uk</a>, </strong>where they will be treated in confidence.</p>
+<p>If you would like to see a member of the team please contact <a href="mailto:iprm@admin.ox.ac.uk" title="iprm@admin.ox.ac.uk">iprm@admin.ox.ac.uk</a> to make an appointment.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<!--start Contact Details 3 Person-->
+<a name="d.en.104334"></a>
+<div class="person">
+
+
+<h2>Mrs Lucy  Booth</h2>
+
+<p>
+IP Rights Manager<br />
+
+<strong>Email: </strong><a href="mailto:lucy.booth@admin.ox.ac.uk">lucy.booth@admin.ox.ac.uk</a><br />
+<strong><abbr title="Telephone">Tel</abbr>: </strong>01865 (2)89808 (Tuesday-Friday)<br />
+
+
+</p>
+
+
+
+
+<div class="clear"></div>
+</div>
+<!--finish Contact Details 3 Person--><!--start Contact Details 3 Person-->
+<a name="d.en.28396"></a>
+<div class="person">
+
+
+<h2>Mr Peter Spooner</h2>
+
+<p>
+IP Rights Officer<br />
+
+<strong>Email: </strong><a href="mailto:peter.spooner@admin.ox.ac.uk">peter.spooner@admin.ox.ac.uk</a><br />
+<strong><abbr title="Telephone">Tel</abbr>: </strong>01865 (2)89809<br />
+
+
+</p>
+
+
+
+
+<div class="clear"></div>
+</div>
+<!--finish Contact Details 3 Person--><!--start Contact Details 3 Person-->
+<a name="d.en.28397"></a>
+<div class="person">
+
+
+<h2>Ms Mary Bispham</h2>
+
+<p>
+IP Rights Officer  <br />
+
+<strong>Email: </strong><a href="mailto:mary.bispham@admin.ox.ac.uk">mary.bispham@admin.ox.ac.uk</a><br />
+<strong><abbr title="Telephone">Tel</abbr>: </strong>01865 (2)89938 (Mon, Tues, Thurs, Fri)<br />
+
+
+</p>
+
+
+
+
+<div class="clear"></div>
+</div>
+<!--finish Contact Details 3 Person--><!--start Contact Details 3 Person-->
+<a name="d.en.164190"></a>
+<div class="person">
+
+
+<h2>Dr Andrew Dodd</h2>
+
+<p>
+IP Rights Officer<br />
+
+<strong>Email: </strong><a href="mailto:andrew.dodd@admin.ox.ac.uk">andrew.dodd@admin.ox.ac.uk</a><br />
+<strong><abbr title="Telephone">Tel</abbr>: </strong>01865 (2)89816<br />
+
+
+</p>
+
+
+
+
+<div class="clear"></div>
+</div>
+<!--finish Contact Details 3 Person--><!--start Contact Details 3 Person-->
+<a name="d.en.151011"></a>
+<div class="person">
+
+
+<h2>Miss Zuzana Weber</h2>
+
+<p>
+IPRM Team Administrator <br />
+
+<strong>Email: </strong><a href="mailto:zuzana.weber@admin.ox.ac.uk">zuzana.weber@admin.ox.ac.uk</a><br />
+<strong><abbr title="Telephone">Tel</abbr>: </strong>01865 (2)89806<br />
+
+
+</p>
+
+
+
+
+<div class="clear"></div>
+</div>
+<!--finish Contact Details 3 Person--><!-- navigation object : Gl Footer Link -->
+                <ul id="content-extras">
+  <li class="back-to-top"><a href="#wrapper"><span>Back to top</span></a></li>
+ <!-- <li class="send">
+		<script type="text/javascript">
+			$(document).ready(function(){    
+			var jQryDoc= document.URL;
+			var jQryText = "" + jQryDoc +"";
+			$("div.recommendpage").html("<a href=\"mailto:?subject=Recommended: Available Templates&body="+jQryText+"\"><span>Recommend this page<\/span><\/a>");
+			});
+		</script>
+		
+		<div class="recommendpage"></div>
+		<noscript><a href="mailto:?subject=Recommended: Available Templates"><span>Recommend this page</span></a></noscript>
+</li>-->
+</ul>
+
+            </div>
+ 
+            <!-- Tertiary Content -->
+            <div id="tertiary-content">  
+              <!-- navigation object : GL RHS --><!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>Address</h2>
+
+ <p>5 Worcester Street<br />Oxford</p>
+<p><strong>Fax:</strong> 01865 (2)89801</p>
+<p><em>This is not an external mailing address - please use the following address for external mail:</em> <br /> <br /> <br />University Offices, Wellington Square<br />Oxford OX1 2JD</p>
+</div>
+<!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>Map</h2>
+
+ <ul><li><a href="/researchsupport/contacts/rs/ip/map/">Click here for a Map </a></li></ul>
+</div>
+<!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>Related links</h2>
+
+ <ul>
+<li><a href="/researchsupport/ip/">Intellectual Property</a></li>
+</ul>
+</div>
+
+            </div>
+          </div>
+
+          <!--[if IE 6]><div class="clear"></div><![endif]-->
+        </div>
+
+        <div id="footer">
+          <dl id="footer-updated"><dt>Last updated</dt> <dd>16 Dec 14</dd></dl>
+          <ul class="extras">
+            <!-- navigation object : Ad Tools -->            <li class="first"><!-- navigation object : Research Administration Gateway Link to Site Map --><a href="/researchsupport/sitemap/">Site Map</a></li>
+            <li><a href="mailto:research.services@admin.ox.ac.uk">Contact this site's webmaster</a></li>
+            <li><a href="http://www.ox.ac.uk/copyright.html">Legal notice</a></li>
+            <li><a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/">Privacy Policy</a></li>
+          </ul>
+        <div class="clear"></div>
+      </div>
+    </div>
+
+  </body>
+</html>

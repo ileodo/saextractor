@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Seminars [NDORMS]</title>
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	<meta name="viewport" content="width=device-width; initial-scale=1;"/>
+	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700">
+	<link rel="stylesheet" type="text/css" href="./styles/bootstrap/css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="./styles/ndorms.20141113.css" />
+	<link rel="alternate" type="application/atom+xml" title="Seminars" href="webcal://talks.ox.ac.uk/show/ics/6423" />
+	<script type="text/javascript" src="http://golem.ndorms.ox.ac.uk/shared/jquery.js"></script>
+</head>
+
+<body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52902752-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<nav id="controls">
+		<ul class="list-inline pull-right">
+			<li class="sr-only"><a href="#content">Skip to content</a></li>
+			<li><a href="accessibility.php">Accessibility</a></li>
+			<li><a href="contactus.php">Contact Us</a></li>
+			<li><a href="https://weblearn.ox.ac.uk/portal/hierarchy/medsci/department/ndorms/intranet" class="external" title="Requires login">Intranet</a></li>
+			<li>
+		<form role="form" action="http://www.google.com/search" method="get" class="form-inline">
+				<div class="form-group">
+				<input name="sitesearch" value="ndorms.ox.ac.uk" type="hidden" />
+				<label for="q" class="sr-only">Search</label>
+				<input id="q" name="q" size="20" maxlength="255" value="" title="Search Term" type="text" placeholder="Search"/>
+				<button type="submit" class="btn btn-sm btn-primary">Search</button>
+				</div><!-- .form-group -->
+		</form>
+			</li>
+		</ul>
+</nav><!-- #controls -->
+</div><!-- .col-md-12 -->
+</div><!-- .row -->
+<div class="row">
+<header>
+<div class="row">
+<div class="col-md-12">
+		<a href="http://www.ox.ac.uk/"><img src="./images/2234_ox_brand3_pos.gif" class="push-left pull-right" id="oxlogo" alt="The Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences is part of the University of Oxford Medical School" /></a>
+
+		<h1 class="push-right"><a href="index.php">NDORMS <small><span class="deptprefix">Nuffield Department of</span> Orthopaedics, Rheumatology and Musculoskeletal Sciences</small></a></h1>
+
+</div><!-- .col-md-12 -->
+</div><!-- .row -->
+<div class="row">
+<div class="col-md-12">
+<nav>
+		<ul class="list-inline nudge-right">
+			<li><a href="index.php">Home</a></li>
+			<li><a href="about.php">About&nbsp;Us</a></li>
+			<li><a href="news.php">News</a></li>
+			<li><a href="events.php" title="Courses, conferences and other events">Events</a></li>
+			<li><a href="research.php">Research</a></li>
+			<li><a href="profiles.php?profile=all">Publications</a></li>
+			<li><a href="study.php">Study With Us</a></li>
+			<li><a href="jobs.php">Jobs</a></li>
+			<li><a href="ourteam.php">Our&nbsp;Team</a></li>
+		</ul>
+
+</nav>
+</div><!-- .col-md-12 -->
+</div><!-- .row -->
+</header>
+</div><!-- .row -->
+</div><!--. container -->
+
+<div id="content" class="container">
+<div class="row clearfix">
+
+	<div class="col-md-12">
+
+		<h2>NDORMS Seminars</h2>
+
+		<p>The department hosts a number of free seminars throughout the year, highlighting current developments within these fields of medical science. Talks shown here are open to all. <a href="webcal://talks.ox.ac.uk/show/ics/6423"><img src="./images/feed-icon-14x14.png" alt="Atom feed icon" title="Subscribe to seminars (iCal)" style="border-style: none; height: 14px; width: 14px;" /></a></p>
+
+<table class="seminartable table-striped table-hover table-responsive">
+<thead>
+	<tr>
+		<th>Series</th>
+		<th>Date</th>
+		<th>Speaker</th>
+		<th>Title</th>
+		<th>Venue</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td class="kennedy-institute-seminars">Kennedy Institute Seminars</td>
+		<td>Monday 22<sup>nd</sup> June 2015 at 12:00pm</td>
+		<td title="
+
+Hosts: Professor Tonia Vincent (Kennedy Institute of Rheumatology)
+
+Organisers: Professor Irina Udalova (Kennedy Institute of Rheumatology), Professor Kim Midwood (Kennedy Institute of Rheumatology)
+
+Contact email: sandra.lock@kennedy.ox.ac.uk
+
+Audience: Members of the University only
+
+Booking: Not required">Dr Qing-Jun Meng (Faculty of Life Sciences, University of Manchester, Manchester)</td>
+		<td><a href="http://talks.ox.ac.uk/talk/index/21254" class="external">The Cartilage Circadian Clock in Health and Disease</a></td>
+		<td title="Kennedy Institute of Rheumatology (Bernard Sunley Lecture Theatre), Headington OX3 7LF">Kennedy Institute of Rheumatology (Bernard Sunley Lecture Theatre), Headington OX3 7LF</td>
+	</tr>
+	<tr>
+		<td class="botnar-seminar-series">Botnar Seminar Series</td>
+		<td>Tuesday 23<sup>rd</sup> June 2015 at 12:30pm</td>
+		<td title="Dr. Unni G. Narayanan is a paediatric orthopaedic surgeon at The Hospital for Sick Children, Toronto. He is an Associate Professor in the Department of Surgery at the University of Toronto and a Senior Scientist at the Bloorview Research Institute.
+
+His clinical practice is focused primarily on the care of children with cerebral palsy (CP). He also has an interest in the management of congenital, and acquired lower limb deformities and length discrepancies and paediatric trauma.  
+
+
+Topics: Orthopedics, Pediatrics
+
+Hosts: Mr Tim Theologis (NDORMS, University of Oxford)
+
+Organisers: Ellen Meek (University of Oxford)
+
+Contact email: ellen.meek@ndorms.ox.ac.uk
+
+Audience: Members of the University only
+
+Booking: Not required">Professor Unni G. Narayanan (University of Toronto)</td>
+		<td><a href="http://talks.ox.ac.uk/talk/index/21320" class="external">Are we making a difference? Measuring meaningful outcomes for children with chronic disabilities</a></td>
+		<td title="Botnar Research Centre (Room G54 and G38), Headington OX3 7LD">Botnar Research Centre (Room G54 and G38), Headington OX3 7LD</td>
+	</tr>
+	<tr>
+		<td class="ndorms-msk-dphil-training">NDORMS MSK DPhil Training</td>
+		<td>Friday 26<sup>th</sup> June 2015 at 10:00am</td>
+		<td title="This workshop is primarily aimed at those interested in learning more about how to perform a systematic review and the basic principles of meta-analysis. This workshop include several short fire presentations covering:
+
+•	what is a systematic review and why do we need them 
+•	what is the process of conducting a systematic review 
+•	the basic steps in performing meta-analysis 
+•	when is it appropriate, and not appropriate, to perform a meta-analysis 
+•	how to interpret forest plots
+ 
+There will also be a small group practical session aimed at developing a well-defined question for a systematic review. It will focus on defining the question and the inclusion criteria for a systematic review using the PICOS approach (participants, interventions, comparator, outcomes and type of study). 
+
+
+Topics: Meta-analysis, Systematic reviews (Medical research), Statistics
+
+Organisers: Faye Anderton (University of Oxford, Nuffield Dept of Orthopaedics Rheumatology and Musculoskeletal Sciences)
+
+Audience: Members of the University only
+
+Booking: Not required">Dr Sally Hopewell (University of Oxford)</td>
+		<td><a href="http://talks.ox.ac.uk/talk/index/20998" class="external">Introduction to systematic review and meta-analysis</a></td>
+		<td title="Botnar Research Centre, Headington OX3 7LD">Botnar Research Centre, Headington OX3 7LD</td>
+	</tr>
+	<tr>
+		<td class="botnar-seminar-series">Botnar Seminar Series</td>
+		<td>Friday 3<sup>rd</sup> July 2015 at 11:30am</td>
+		<td title="Ken Yamaguchi, MD, MBA, is the Chief Medical Officer for Centene Corporation and the Sam and Marilyn Fox Distinguished Professor of Orthopaedic Surgery at Washington University.  He did a fellowship in shoulder and elbow surgery at Columbia University and later founded the Shoulder and Elbow Service at Washington University in 1995. It has since grown into one of the most clinically active and research productive services worldwide.  His research program is focused on rotator cuff disorders and he has had over fifteen years sustained funding in this area including as a PI of consecutive NIH R01’s. He currently serves on the American Academy of Orthopaedic Surgeons Board of Directors as Treasurer.   
+
+
+Topics: Orthopedics, Surgery
+
+Organisers: Ellen Meek (University of Oxford), Jo Silva (NDORMS)
+
+Contact email: ann.watson@ndorms.ox.ac.uk
+
+Audience: Members of the University only
+
+Booking: Not required
+
+Cost: Free">Ken Yamaguchi (Washington University)</td>
+		<td><a href="http://talks.ox.ac.uk/talk/index/21364" class="external">The Natural History of Rotator Cuff Tears</a></td>
+		<td title="Botnar Research Centre (Rooms G54/G38), Headington OX3 7LD">Botnar Research Centre (Rooms G54/G38), Headington OX3 7LD</td>
+	</tr>
+	<tr>
+		<td class="kennedy-institute-seminars">Kennedy Institute Seminars</td>
+		<td>Monday 6<sup>th</sup> July 2015 at 12:00pm</td>
+		<td title="Chronic immune inflammation results from a failure to resolve persistent inflammatory stimuli.  The resolution of inflammation is critically dependent on the carefully balanced orchestration of immune responses.  “Inhibitory” KIR immune receptor HLA-class I interactions have been implicated in diverse chronic inflammatory disorders including spondyloarthritis, Crohn’s disease and Pemphigus vulgaris. I we discuss how "inhibitory" KIR immune receptor interactions could promote inflammation using  knowledge gained from our studies on HLA-B27 binding to immune receptors.
+
+
+
+Hosts: Dr Nikki Horwood (Kennedy Institute of Rheumatology, University of Oxford)
+
+Organisers: Sandra Lock (University of Oxford, Kennedy Institute of Rheumatology), Wulf Forrester-Barker (University of Oxford, Nuffield Dept of Orthopaedics Rheumatology and Musculoskeletal Sciences)
+
+Audience: Members of the University only
+
+Booking: Not required">Speaker to be confirmed</td>
+		<td><a href="http://talks.ox.ac.uk/talk/index/21363" class="external">Inhibitory Immune Receptors or Immune Switchers?  The Role of &quot;Inhibitory&quot; KIR Immune Receptor Interactions with HLA-Class I in Chronic Inflammation and Autoimmunity.  Lessons from HLA-B27 and Inflammatory Arthritis&quot;</a></td>
+		<td title="Kennedy Institute of Rheumatology (Bernard Sunley Lecture Theatre), Headington OX3 7LF">Kennedy Institute of Rheumatology (Bernard Sunley Lecture Theatre), Headington OX3 7LF</td>
+	</tr>
+	<tr>
+		<td class="kennedy-institute-seminars">Kennedy Institute Seminars</td>
+		<td>Tuesday 14<sup>th</sup> July 2015 at 12:00pm</td>
+		<td title="
+
+Hosts: Dr Steve Sansom (Kennedy Institute of Rheumatology, University of Oxford)
+
+Organisers: Sandra Lock (University of Oxford, Kennedy Institute of Rheumatology), Wulf Forrester-Barker (University of Oxford, Nuffield Dept of Orthopaedics Rheumatology and Musculoskeletal Sciences)
+
+Audience: Members of the University only
+
+Booking: Not required">Dr Luke Jostins (Wellcome Trust Centre for Human Genetics, University of Oxford)</td>
+		<td><a href="http://talks.ox.ac.uk/talk/index/21356" class="external">Stastical and Biological Insights from Multi-Phenotype Studies of Human Immune Disease&quot;</a></td>
+		<td title="Kennedy Institute of Rheumatology (Bernard Sunley Lecture Theatre), Headington OX3 7LF">Kennedy Institute of Rheumatology (Bernard Sunley Lecture Theatre), Headington OX3 7LF</td>
+	</tr>
+</tbody>
+</table><!-- .talktable -->
+
+		<p>There is also a regular programme of departmental-only seminars; NDORMS students and staff should contact <a href="mailto:isuara.thomas&#064;&#110;&#100;&#111;&#114;&#109;&#115;&#046;&#111;&#120;&#046;&#097;&#099;&#046;&#117;&#107;">Isuara Thomas</a> for further details.</p>
+
+		<h3>More Oxford Talks</h3>
+
+		<p>The best location for keeping up to date with the wide range of talks across the University is <a href="https://talks.ox.ac.uk/">Oxford Talks</a>. This covers diverse medical and scientific areas and all other subjects that are part of Oxford's broad curriculum.</p>
+
+	</div><!-- .col-md-12 -->
+
+</div><!-- .pagesection -->
+</div><!-- .container -->
+	<footer class="container clearfix">
+<div class="row">
+<div class="col-md-4"><a href="http://www.medsci.ox.ac.uk/"><img id="medscilogo" alt="Medical Sciences Division logo" src="./images/logo_medsci.png" /></a>
+</div><!-- .col-md-4 -->
+<div class="col-md-8">
+		<p class="vcard">
+			<strong class="fn org">Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences</strong><br />
+			<span class="extended-address">University of Oxford</span>, 
+			<span class="street-address">Nuffield Orthopaedic Centre</span>, 
+			<span class="street-address">Windmill Road</span>, 
+			<span class="region">OXFORD</span>, 
+			<span class="postal-code">OX3 7HE</span> 
+			<br />
+			<span class="tel">
+				<span class="type">work</span>
+				<strong>Tel:</strong> 
+				<span class="value">+44 (0)1865 227374</span>
+			</span>
+		</p><!-- .vcard -->
+		<p>Questions, comments or suggestions? Please <a href="contactus.php">contact us</a>. &copy;1995-2015 NDORMS</p>
+<p>NDORMS is part of the <a href="http://www.medsci.ox.ac.uk/">Medical Sciences Division</a> of the <a href="http://www.ox.ac.uk/">University of Oxford</a></p>
+</div><!-- .col-md-8 -->
+</div><!-- .row -->
+	</footer><!-- .container -->
+
+</body>
+
+</html>

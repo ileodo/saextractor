@@ -1,0 +1,796 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><base href="http://www.nds.ox.ac.uk/team/researcher/simon-knight/" />
+    <script src="//use.typekit.net/xxg4dqg.js"></script>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="apple-mobile-web-app-capable" content="yes" /><meta name="apple-mobile-web-app-title" content="Haiku" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" /><title>Simon Knight — NDS</title><link rel="stylesheet" type="text/css" href="http://www.nds.ox.ac.uk/portal_css/Turnkey%20Theme/resourcecollective.cookielawcookielaw-cachekey-cb6fa140d79630107d05e03a8fe7e3a6.css" /><link rel="stylesheet" type="text/css" href="http://www.nds.ox.ac.uk/portal_css/Turnkey%20Theme/themebootstrapcssbootstrap-cachekey-117eae3ca93a300b2cccfad10fc467b4.css" /><link rel="stylesheet" type="text/css" href="http://www.nds.ox.ac.uk/portal_css/Turnkey%20Theme/themebootstrapcssscreen-cachekey-dfb0bc084fc7a43b5d2d87cc9adae967.css" /><link rel="canonical" href="http://www.nds.ox.ac.uk/team/researcher/simon-knight" /><link rel="shortcut icon" type="image/x-icon" href="http://www.nds.ox.ac.uk//favicon.ico" /><link rel="apple-touch-icon" href="http://www.nds.ox.ac.uk//apple-touch-icon.png" /><link rel="search" href="http://www.nds.ox.ac.uk/@@search" title="Search this site" /><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjsvendorrespond-cachekey-2173005a4a16792a1c88d1d30028e106.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourceplone.app.jquery-cachekey-cf4202f9449bc3e37e95e49140ca99d8.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/vendor/bootstrap.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorjquery.trunk8-cachekey-e1640b27dd4e878f6f13fe51e9f1562d.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/plone_javascript_variables-cachekey-d81ec20c97f9e3acff76c8f9b2a5e8c7.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourceplone.app.jquerytools-cachekey-a2ac0d7cfafbbee7da80e892e32579f9.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourceplone.app.jquerytools.overlayhelpers-cachekey-5a484c5d3c64b993dcdc5e09ec9577c5.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourcecollective.cookielawcookielaw_init-cachekey-90c10cdb52a226d19d33da2926583c9a.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/modernizr-cachekey-97c5ed226e58402e77a60b61325cbd6b.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/mark_special_links-cachekey-29897bd24f4394755b6362f672939837.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjsplone-cachekey-6cb77ea25f23720a08ec3a2726ea6db5.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorselect2-cachekey-bc6c93bffd0fb53bb2e95d500a5be6ae.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorjquery.quicksearch-cachekey-a6a36707cbd39863b20104e4640f7460.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/plugins/vendor/jquery.html5-placeholder-shim.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/vendor/hammer.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginshaikujquery.navigation-portlets-cachekey-ba0a98bb141c8ef535756d59d7b65968.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendormasonry-cachekey-14e55cfcce79eac0310739a9ade5a68e.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/themebootstrapjspluginsvendorimagesloaded-cachekey-31848ea140a074e73cfc9af5861261e0.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/++theme++bootstrap/js/turnkey-various.js"></script><script type="text/javascript" src="http://www.nds.ox.ac.uk/portal_javascripts/Turnkey%20Theme/resourcehaiku.feedback.jsjquery.validate-cachekey-00efc56b0e29a637cacfebf313cfbf73.js"></script><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script>
+    <link href="http://www.nds.ox.ac.uk/++theme++sublime-ce-soir/screen.css" rel="stylesheet" />
+  
+    <link href="http://www.nds.ox.ac.uk/++theme++sublime-ce-soir/style.css" rel="stylesheet" />
+  </head><body class="template-view portaltype-profilepage site-Plone section-team subsection-researcher subsection-researcher-simon-knight userrole-anonymous no-toolbar mount-nds" dir="ltr"><div id="cookienotification">
+
+    <div class="cookielaw-site">Cookies on this website</div>
+
+    <div class="cookielaw-text">We use cookies to ensure that we give you the best experience on our website. If you click 'Continue' we'll assume that you are happy to receive all cookies and you won't see this message again. Click 'Find out more' for information on how to change your cookie settings.</div>
+
+    <div class="cookielaw-buttons">
+      <ul class="list-unstyled"><li>
+          <a class="cookie-continue" href="http://www.nds.ox.ac.uk/@@enable-cookies?came_from=http://www.nds.ox.ac.uk/team/researcher/simon-knight">Continue</a>
+        </li>
+        <li>
+          <a href="http://www.nds.ox.ac.uk/cookies">Find out more</a>
+        </li>
+      </ul></div>
+</div><div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-hidden="true"></div><div id="site-header" class="container">
+
+            
+
+            
+
+            <header class="row" style="margin-bottom:20px"><div class="col-sm-6">
+                    <h2><a id="primary-logo" title="NDS" accesskey="1" href="http://www.nds.ox.ac.uk">
+    <img src="http://www.nds.ox.ac.uk/images/logos/primary-logo/@@images/image" title="NDS" alt="NDS" /></a></h2>
+                </div>
+                <div class="col-sm-6">
+                    <div class="pull-right">
+                        
+  <a target="_blank" href="http://www.ox.ac.uk" title="University of Oxford">
+    <img class="img-responsive logo-secondary" src="http://www.nds.ox.ac.uk/images/logos/secondary-logo/@@images/image" title="University of Oxford" alt="University of Oxford" /></a>
+
+                    </div>
+                    <ul id="site-actions" class="list-unstyled list-inline pull-right"><li id="siteaction-staff-intranet"><a href="https://sharepoint.nexus.ox.ac.uk/sites/nds" accesskey="" title="Staff Intranet">Staff Intranet</a></li>
+    <li id="siteaction-accessibility"><a href="http://www.nds.ox.ac.uk/accessibility" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-cookie-policy"><a href="http://www.nds.ox.ac.uk/cookies" accesskey="" title="Cookies">Cookies</a></li>
+    <li id="siteaction-contact-us"><a href="http://www.nds.ox.ac.uk/about-us/contact-us" accesskey="" title="Contact us">Contact us</a></li>
+    <li id="siteaction-login"><a href="https://www.nds.ox.ac.uk/team/researcher/simon-knight" accesskey="" title="Log in">Log in</a></li>
+
+</ul></div>
+            </header><nav role="navigation"><div class="row">
+                    <div class="col-sm-10">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle btn btn-default btn-block" data-toggle="collapse" data-target="#site-bar">
+                                <span>Menu</span>
+                            </button>
+                        </div>
+
+                        <div class="collapse navbar-collapse" id="site-bar">
+                            <ul id="portal-globalnav" class="nav nav-pills"><li id="portaltab-index_html" class="plain"><a href="http://www.nds.ox.ac.uk" title="">Home</a></li><li id="portaltab-about-us" class="plain"><a href="http://www.nds.ox.ac.uk/about-us" title="">About us</a></li><li id="portaltab-news" class="plain"><a href="http://www.nds.ox.ac.uk/news" title="">News</a></li><li id="portaltab-events" class="plain"><a href="http://www.nds.ox.ac.uk/events" title="">Events</a></li><li id="portaltab-research" class="plain"><a href="http://www.nds.ox.ac.uk/research" title="">Research</a></li><li id="portaltab-publications" class="plain"><a href="http://www.nds.ox.ac.uk/publications" title="">Publications</a></li><li id="portaltab-study-with-us" class="plain"><a href="http://www.nds.ox.ac.uk/study-with-us" title="">Study with us</a></li><li id="portaltab-team" class="active"><a href="http://www.nds.ox.ac.uk/team" title="">Our team</a></li></ul></div>
+                    </div>
+                    <div class="col-sm-2">
+                        <form action="http://www.nds.ox.ac.uk/@@search" id="site-search" class="form-inline" role="form">
+                            <div class="input-group">
+                                <label class="sr-only" for="SearchableText">Search</label>
+                                <input type="text" class="form-control" name="SearchableText" id="SearchableText" placeholder="Search" /><span class="input-group-btn">
+                                    <button class="btn" type="submit"><i class="glyphicon-search"></i></button>
+                                </span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </nav><div class="row">
+                <div class="col-md-12">
+                    <ol class="breadcrumb" id="site-breadcrumbs"><li><span class="glyphicon glyphicon-home"></span></li><li><a href="http://www.nds.ox.ac.uk/team">Our team</a></li><li><a href="http://www.nds.ox.ac.uk/team/researcher">Researchers</a></li><li class="active">Simon Knight</li></ol></div>
+            </div>
+
+        </div><div id="content" class="container ">
+
+                            
+
+                            
+
+            <div id="content-source">
+                
+
+                
+
+                <div id="container">
+
+                    
+
+                    <div id="drag-and-drop-wrapper" class="row">
+
+                        <div class="col-md-4 column column-layout">
+                            
+                            
+                                
+
+    <div class="tile tile-image not-removable not-draggable" data-tile-type="image" data-tile-uid="06a75da80afa4e139645f53c1905152b" data-tile-image-scales="mini,24x24,medium_thumb,1200x1200,thumb,feature,listing,tile,preview,layouttile,600x600,200x200,icon,128x128,large_thumb,large,slide,400x400,slide_large,64x64,800x800,32x32" id="portrait">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        <div class="tile-content">
+
+            
+                <h3>Simon Knight</h3>
+                <figure><img src="http://www.nds.ox.ac.uk/team/researcher/simon-knight/portrait/@@images/a1cdee7f-a20d-4dac-83a8-2f32a35bf80a.jpeg" alt="Simon Knight" title="Simon Knight" height="449" width="300" /></figure></div>
+
+    </div>
+
+
+
+                            
+                            
+                                
+
+    <div class="tile tile-contact not-removable not-draggable" data-tile-type="contact" data-tile-uid="0fd38c242c7d40d29ff375e80c42fc75" id="contact">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        <div class="box-featured">
+            <h3>Contact information</h3>
+            <table class="table"><tbody><tr class="email"><td>Email</td>
+                      <td><a href="mailto:simon.knight@nds.ox.ac.uk">simon.knight@nds.ox.ac.uk</a></td>
+                    </tr><tr class="website"><td>Website</td>
+                        <td><a href="http://www.transplantevidence.com">http://www.transplantevidence.com</a></td>
+                    </tr></tbody></table></div>
+    </div>
+
+
+
+                            
+                            
+                                
+
+    <div class="tile tile-connections" data-tile-type="connections" data-tile-uid="93e2a524168f4772bea954b4cd78369e" id="connectionstile-43">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        <div class="tile-content">
+            <h3>My connections</h3>
+            <ul id="connections" class="medium-list connections-list"><li data-tile-type="link" data-tile-item-uid="18b83c7dcd2a4029a87e540062013830" id="linktile-7">
+
+        <a href="http://www.transplantevidence.com" title="Centre for Evidence in Transplantation (CET)">
+            <span>Centre for Evidence in Transplantation (CET)</span>
+        </a>
+
+        <span class="detail">Research group</span>
+
+    </li>
+
+
+
+                
+                
+                    
+
+    <li data-tile-type="profile" data-tile-item-uid="9d5e3db1ad3f4cee9b586776ad24615a" id="profilelinktile-3">
+
+        <a href="http://www.nds.ox.ac.uk/team/academic/rutger-ploeg" title="Rutger Ploeg">
+            <span>Rutger Ploeg</span>
+        </a>
+
+        <span class="detail">Profile</span>
+
+    </li>
+
+
+
+                
+                
+                    
+
+    <li data-tile-type="profile" data-tile-item-uid="92df007660034b3c87ec4f28dae323ec" id="profilelinktile-4">
+
+        <a href="http://www.nds.ox.ac.uk/team/academic/peter-friend" title="Peter Friend">
+            <span>Peter Friend</span>
+        </a>
+
+        <span class="detail">Profile</span>
+
+    </li>
+
+
+
+                
+            </ul><ul id="research-groups" class="medium-list connections-list"><li data-tile-item-uid="8f96a87d9d2549598a5685ec5665dfb9" data-tile-type="file">
+                        <a href="http://www.nds.ox.ac.uk/research/cope" title="The COPE Consortium">
+                            <span>The COPE Consortium</span>
+                        </a>
+                        <span class="detail">Research Group</span>
+                    </li>
+                
+            </ul></div>
+
+    </div>
+
+
+
+                            
+                            
+                            <div class="tile tile-dummy"></div>
+                        </div>
+
+                        <div class="col-md-4 column column-layout">
+                            
+                            
+                                
+
+    <div class="tile tile-profile not-removable not-draggable" data-tile-type="profile" data-tile-uid="efa7ea28eb3f40938c3f47d410d5dbe1" id="profile">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        <h1><span class="firstname">Simon</span>  <span class="lastname">Knight</span></h1>
+        <h6>MA MChir FRCS</h6>
+        <hr /><h3 class="no-underline">Researcher</h3>
+        
+            <ul class="small-list"><li>Academic Clinical Lecturer</li>
+                
+            </ul></div>
+
+
+
+                            
+                            
+                                
+
+    <div class="tile tile-text" data-tile-type="text" data-tile-uid="bd595094ea764cb3806358572215807a" id="text">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        
+            <span class="type">Biography</span>
+        
+
+        <div class="tile-content rich-text"><p>I undertook my undergraduate studies at Corpus Christi College, Cambridge, gaining a BA in medical science in 2000 before studying clinical medicine at Addenbrooke's Hospital, Cambridge. I qualified as a doctor in 2002, and moved to Nottingham for my Basic Surgical Training. I moved to Oxford in May 2006 to take up a position with the <a class="external-link" href="http://www.transplantevidence.com" target="_blank" title="CET site">Centre for Evidence in Transplantation (CET)</a> as a clinical research fellow in transplant surgery, during which time I completed my Master of Surgery (MChir) thesis with the University of Cambridge. On returning to higher surgical training I have remained on the staff of the CET and am now the Deputy Director.</p>
+<p><span>I was recently awarded an NIHR Academic Clinical Lectureship to run alongside the remainder of my clinical training with the University of Oxford. </span></p>
+<p><span>My research interests lie in evidence-based transplant surgery, and I have completed several large systematic reviews relating to the optimisation of post-transplant immunosuppression.  </span></p>
+<p><span>Along with the continuation of my systematic review work, I will be working on the design of the Consortium for Organ Preservation in Europe (COPE) trials of novel organ preservation techniques, as well as the development of new trials in organ transplantation.</span></p>
+<p>I will also be working with the <a class="external-link" href="http://www.lindalliance.org/" target="_blank" title="James Lind Alliance">James Lind Alliance</a> on a Priorities Setting Partnership (PSP) to bring together patients and healthcare professionals in the prioritisation of research topics in kidney transplantation.</p>
+<p> </p></div>
+
+    </div>
+
+
+                            
+                            
+                            <div class="tile tile-dummy"></div>
+                        </div>
+
+                        <div class="col-md-4 column column-layout">
+                            
+                            
+                                
+
+    <div class="tile tile-pubs" data-tile-type="pubs" data-tile-uid="f14e8dadf4ce4487954db6ccc5521b29" id="publications">
+
+        <!--
+        <div class="tile-tools"
+            tal:condition="view/tile_editable">
+            <input type="button" class="edit" value="Edit" />
+        </div>
+        -->
+
+        <div class="tile-content">
+
+            
+                <ul id="all-pubs" style="display:none" class="medium-list"><li id="publication-457594" class="pub-item" data-tile-item-uid="f7f1bd2ec22843be8fb4dec83a9a0eb1">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/457594" title="The effect of preservation solutions for storage of liver allografts on transplant outcomes: a systematic review and meta-analysis." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/457594/modal-view" class="state-synced">The effect of preservation solutions for storage of liver allografts on transplant outcomes: a systematic review and meta-analysis.</a>
+            <p class="details">
+                OʼCallaghan JM. et al, (2014), Ann Surg, 260, 46 - 55
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-405851" class="pub-item" data-tile-item-uid="cfa331c4443e4349959e5276aec57a65">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/405851" title="Systematic review and meta-analysis of hypothermic machine perfusion versus static cold storage of kidney allografts on transplant outcomes." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/405851/modal-view" class="state-synced">Systematic review and meta-analysis of hypothermic machine perfusion versus static cold storage of kidney allografts on transplant outcomes.</a>
+            <p class="details">
+                O'Callaghan JM. et al, (2013), Br J Surg, 100, 991 - 1001
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-384722" class="pub-item" data-tile-item-uid="150a978421c549158d574bc0bb2c8984">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/384722" title="Systematic reviews of alemtuzumab in renal transplantation" data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/384722/modal-view" class="state-synced">Systematic reviews of alemtuzumab in renal transplantation</a>
+            <p class="details">
+                O'Callaghan JM. et al, (2013), Transplant Immunology
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-342664" class="pub-item" data-tile-item-uid="b91087e0643545938ce773f63288152d">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/342664" title="Alemtuzumab induction therapy in kidney transplantation: a systematic review and meta-analysis." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/342664/modal-view" class="state-synced">Alemtuzumab induction therapy in kidney transplantation: a systematic review and meta-analysis.</a>
+            <p class="details">
+                Morgan RD. et al, (2012), Transplantation, 93, 1179 - 1188
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-322864" class="pub-item" data-tile-item-uid="2c1db73005b8460ba872ef328af9998b">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/322864" title="Preservation solutions for static cold storage of kidney allografts: A systematic review and meta-analysis" data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/322864/modal-view" class="state-synced">Preservation solutions for static cold storage of kidney allografts: A systematic review and meta-analysis</a>
+            <p class="details">
+                O'Callaghan JM. et al, (2012), American Journal of Transplantation, 12, 896 - 906
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-251259" class="pub-item" data-tile-item-uid="41bc7b12e2164292a0961c26aa83da6b">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/251259" title="Steroid avoidance or withdrawal in renal transplantation." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/251259/modal-view" class="state-synced">Steroid avoidance or withdrawal in renal transplantation.</a>
+            <p class="details">
+                Knight SR. and Morris PJ., (2011), Transplantation, 91
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-251200" class="pub-item" data-tile-item-uid="964ad03bbb1e446a98beaaf986933572">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/251200" title="Steroid avoidance or withdrawal after renal transplantation increases the risk of acute rejection but decreases cardiovascular risk. A meta-analysis." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/251200/modal-view" class="state-synced">Steroid avoidance or withdrawal after renal transplantation increases the risk of acute rejection but decreases cardiovascular risk. A meta-analysis.</a>
+            <p class="details">
+                Knight SR. and Morris PJ., (2010), Transplantation, 89, 1 - 14
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-251183" class="pub-item" data-tile-item-uid="98fed32d0e6444d5a7a6bdb03fa4101b">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/251183" title="Mycophenolate mofetil decreases acute rejection and may improve graft survival in renal transplant recipients when compared with azathioprine: a systematic review." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/251183/modal-view" class="state-synced">Mycophenolate mofetil decreases acute rejection and may improve graft survival in renal transplant recipients when compared with azathioprine: a systematic review.</a>
+            <p class="details">
+                Knight SR. et al, (2009), Transplantation, 87, 785 - 794
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-251139" class="pub-item" data-tile-item-uid="adc461dff9fd40408ace60beebfd5d29">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/251139" title="In response to: Benefit of neoral C2 monitoring in de novo cardiac transplant recipients receiving basiliximab induction." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/251139/modal-view" class="state-synced">In response to: Benefit of neoral C2 monitoring in de novo cardiac transplant recipients receiving basiliximab induction.</a>
+            <p class="details">
+                Knight SR. and Morris PJ., (2008), Transplantation, 86
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-400664" class="pub-item" data-tile-item-uid="f36940cdc98246679987cae4c47b03fc">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/400664" title="Azathioprine and Steroids" data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/400664/modal-view" class="state-synced">Azathioprine and Steroids</a>
+            <p class="details">
+                Knight S. and Morris P., (2008), Kidney Transplantation : Principles and Practice, 220 - 233
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-400665" class="pub-item" data-tile-item-uid="5905c1c3dbb142e9b485368cd4813f81">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/400665" title="Cyclosporine" data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/400665/modal-view" class="state-synced">Cyclosporine</a>
+            <p class="details">
+                Russell NK. et al, (2008), Kidney Transplantation: Principles and Practice, 234 - 258
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-145021" class="pub-item" data-tile-item-uid="9f2873017db44e62815178581c843726">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/145021" title="Role of transplantation in the management of hepatic malignancy." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/145021/modal-view" class="state-synced">Role of transplantation in the management of hepatic malignancy.</a>
+            <p class="details">
+                Knight SR. et al, (2007), Br J Surg, 94, 1319 - 1330
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                </ul><h3 id="key_pubs_label">Key Publications</h3>
+                <span id="key_pubs_limit" class="hide">5</span>
+                <ul id="key-pubs" class="medium-list"><li id="publication-405851" class="pub-item" data-tile-item-uid="cfa331c4443e4349959e5276aec57a65">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/405851" title="Systematic review and meta-analysis of hypothermic machine perfusion versus static cold storage of kidney allografts on transplant outcomes." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/405851/modal-view" class="state-synced">Systematic review and meta-analysis of hypothermic machine perfusion versus static cold storage of kidney allografts on transplant outcomes.</a>
+            <p class="details">
+                O'Callaghan JM. et al, (2013), Br J Surg, 100, 991 - 1001
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-342664" class="pub-item" data-tile-item-uid="b91087e0643545938ce773f63288152d">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/342664" title="Alemtuzumab induction therapy in kidney transplantation: a systematic review and meta-analysis." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/342664/modal-view" class="state-synced">Alemtuzumab induction therapy in kidney transplantation: a systematic review and meta-analysis.</a>
+            <p class="details">
+                Morgan RD. et al, (2012), Transplantation, 93, 1179 - 1188
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-251200" class="pub-item" data-tile-item-uid="964ad03bbb1e446a98beaaf986933572">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/251200" title="Steroid avoidance or withdrawal after renal transplantation increases the risk of acute rejection but decreases cardiovascular risk. A meta-analysis." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/251200/modal-view" class="state-synced">Steroid avoidance or withdrawal after renal transplantation increases the risk of acute rejection but decreases cardiovascular risk. A meta-analysis.</a>
+            <p class="details">
+                Knight SR. and Morris PJ., (2010), Transplantation, 89, 1 - 14
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-251183" class="pub-item" data-tile-item-uid="98fed32d0e6444d5a7a6bdb03fa4101b">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/251183" title="Mycophenolate mofetil decreases acute rejection and may improve graft survival in renal transplant recipients when compared with azathioprine: a systematic review." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/251183/modal-view" class="state-synced">Mycophenolate mofetil decreases acute rejection and may improve graft survival in renal transplant recipients when compared with azathioprine: a systematic review.</a>
+            <p class="details">
+                Knight SR. et al, (2009), Transplantation, 87, 785 - 794
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-145021" class="pub-item" data-tile-item-uid="9f2873017db44e62815178581c843726">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/145021" title="Role of transplantation in the management of hepatic malignancy." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/145021/modal-view" class="state-synced">Role of transplantation in the management of hepatic malignancy.</a>
+            <p class="details">
+                Knight SR. et al, (2007), Br J Surg, 94, 1319 - 1330
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                </ul><br /><h3 id="recent_pubs_label">Recent Publications</h3>
+                <span id="recent_pubs_limit" class="hide">5</span>
+                <ul id="recent-pubs" class="medium-list"><li id="publication-457594" class="pub-item" data-tile-item-uid="f7f1bd2ec22843be8fb4dec83a9a0eb1">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/457594" title="The effect of preservation solutions for storage of liver allografts on transplant outcomes: a systematic review and meta-analysis." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/457594/modal-view" class="state-synced">The effect of preservation solutions for storage of liver allografts on transplant outcomes: a systematic review and meta-analysis.</a>
+            <p class="details">
+                OʼCallaghan JM. et al, (2014), Ann Surg, 260, 46 - 55
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-405851" class="pub-item" data-tile-item-uid="cfa331c4443e4349959e5276aec57a65">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/405851" title="Systematic review and meta-analysis of hypothermic machine perfusion versus static cold storage of kidney allografts on transplant outcomes." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/405851/modal-view" class="state-synced">Systematic review and meta-analysis of hypothermic machine perfusion versus static cold storage of kidney allografts on transplant outcomes.</a>
+            <p class="details">
+                O'Callaghan JM. et al, (2013), Br J Surg, 100, 991 - 1001
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-384722" class="pub-item" data-tile-item-uid="150a978421c549158d574bc0bb2c8984">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/384722" title="Systematic reviews of alemtuzumab in renal transplantation" data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/384722/modal-view" class="state-synced">Systematic reviews of alemtuzumab in renal transplantation</a>
+            <p class="details">
+                O'Callaghan JM. et al, (2013), Transplant Immunology
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-342664" class="pub-item" data-tile-item-uid="b91087e0643545938ce773f63288152d">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/342664" title="Alemtuzumab induction therapy in kidney transplantation: a systematic review and meta-analysis." data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/342664/modal-view" class="state-synced">Alemtuzumab induction therapy in kidney transplantation: a systematic review and meta-analysis.</a>
+            <p class="details">
+                Morgan RD. et al, (2012), Transplantation, 93, 1179 - 1188
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                    
+                        <li id="publication-322864" class="pub-item" data-tile-item-uid="2c1db73005b8460ba872ef328af9998b">
+                            
+
+    
+
+        
+            <a href="http://www.nds.ox.ac.uk/publications/322864" title="Preservation solutions for static cold storage of kidney allografts: A systematic review and meta-analysis" data-toggle="modal" data-target="#modal" data-remote="http://www.nds.ox.ac.uk/publications/322864/modal-view" class="state-synced">Preservation solutions for static cold storage of kidney allografts: A systematic review and meta-analysis</a>
+            <p class="details">
+                O'Callaghan JM. et al, (2012), American Journal of Transplantation, 12, 896 - 906
+                
+            </p>
+        
+
+    
+
+
+                        </li>
+                    
+                </ul><a class="more" href="http://www.nds.ox.ac.uk/publications?author=simon-knight" title="View 7 more">View 7 more »</a>
+            
+
+        </div>
+
+    </div>
+
+
+
+                            
+                            
+                            <div class="tile tile-dummy"></div>
+                        </div>
+
+                    </div><!-- End drag-and-drop-wrapper -->
+
+                </div><!-- End container -->
+
+            
+            </div>
+
+            
+
+        
+                        </div><footer id="site-footer" class="container"><hr /><div class="row" style="margin-bottom:20px">
+
+        <div class="col-md-4">
+            
+                <a id="footer-logo" target="_blank" href="http://www.medsci.ox.ac.uk" title="Medical Sciences Division, University of Oxford">
+                    <img class="img-responsive logo-footer" src="http://www.nds.ox.ac.uk/images/logos/footer-logo/@@images/image" title="Medical Sciences Division, University of Oxford" alt="Medical Sciences Division, University of Oxford" /></a>
+            
+        </div>
+
+        <div class="col-md-8">
+            
+                <div id="site-copyright">
+                    ©
+                    2015
+                    Nuffield Department of Surgical Sciences, John Radcliffe Hospital, Headington, Oxford, OX3 9DU
+                </div>
+            
+            
+                <ul id="footer-nav" class="list-inline"><li>
+                            <a href="http://www.admin.ox.ac.uk/foi" title="Freedom of Information" target="_blank">Freedom of Information</a>
+                        </li>
+                    
+                    
+                        <li>
+                            <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy" title="Privacy Policy" target="_blank">Privacy Policy</a>
+                        </li>
+                    
+                    
+                        <li>
+                            <a href="http://www.ox.ac.uk/copyright" title="Copyright Statement" target="_blank">Copyright Statement</a>
+                        </li>
+                    
+                    
+                        <li>
+                            <a href="http://www.ox.ac.uk/accessibility" title="Accessibility Statement" target="_blank">Accessibility Statement</a>
+                        </li>
+                    
+                </ul></div>
+    </div>
+
+
+
+    </footer>
+    
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-13194819-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></body></html>

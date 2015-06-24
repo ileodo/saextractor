@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<html id="ctl00_Html1">
+<head id="ctl00_Head1"><title>
+	Sign In - Steve Davies Group
+</title>
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=printerfriendly&amp;s=31&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Steve Davies Group User Sign In Page" />
+<meta property="og:description" content="Steve Davies Group User Sign In Page" />
+<link rel="search" type="application/opensearchdescription+xml" title="Steve Davies Group Site Search" href="http://davies.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+<link rel='shortcut icon' href='/Data/Sites/31/skins/printerfriendly/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script></head>
+<body id="ctl00_Body" class="pagebody loginpage">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="4" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzYzNTI5MDQxD2QWAmYPZBYCAgEPZBYCAgMPFgIeBWNsYXNzBRJwYWdlYm9keSBsb2dpbnBhZ2UWAgIDD2QWCAIXDw8WBB4IQ3NzQ2xhc3MFOWFydC1sYXlvdXQtY2VsbCBhcnQtY29udGVudC13aWRlIGNlbnRlci1ub21hcmdpbnMgY21zem9uZR4EXyFTQgICZBYCAgUPZBYCAgMPZBYGAgUPZBYCAgEPZBYCZg88KwAKAQAPFgYeD0xvZ2luRXJyb3JDb3VudGYeEkRlc3RpbmF0aW9uUGFnZVVybAUSL21lZGNoZW1fdGVhbS5hc3B4HglSZXR1cm5VcmwFEi9tZWRjaGVtX3RlYW0uYXNweGQWAmYPZBYCAgEPZBYKAgsPEA8WBB4HQ2hlY2tlZGgeBFRleHQFHFJlbWVtYmVyIE1lIE9uIFRoaXMgQ29tcHV0ZXJkZGRkAg0PDxYCHgdWaXNpYmxlaGQWAgIBD2QW" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="AmYPDxYCHgdFbmFibGVkaGRkAg8PDxYCHwcFB1NpZ24gSW5kZAITDw8WBB4LTmF2aWdhdGVVcmwFN2h0dHA6Ly9kYXZpZXMuY2hlbS5veC5hYy51ay9TZWN1cmUvUmVjb3ZlclBhc3N3b3JkLmFzcHgfBwUQUmVjb3ZlciBQYXNzd29yZGRkAhUPDxYGHwoFTWh0dHA6Ly9kYXZpZXMuY2hlbS5veC5hYy51ay9TZWN1cmUvUmVnaXN0ZXIuYXNweD9yZXR1cm51cmw9L21lZGNoZW1fdGVhbS5hc3B4HwcFCFJlZ2lzdGVyHwhoZGQCBw9kFgICAQ8PFgIfCGhkFgJmDxYCHwcFGXdpdGggeW91ciBXaW5kb3dzIExpdmUgSURkAgkPZBYCAgEPFgIfBwUCT3JkAhkPDxYGHwEFEGxlZnRzaWRlIGNtc3pvbmUfAgICHwhoZGQCGw8PFgYfAQURcmlnaHRzaWRlIGNtc3pvbmUfAgIC" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="HwhoZGQCHQ8PFgYeCEltYWdlVXJsBZYBaHR0cHM6Ly9jaGFydC5nb29nbGVhcGlzLmNvbS9jaGFydD9jaHM9MTUweDE1MCZjaHQ9cXImY2hsPWh0dHAlM2ElMmYlMmZkYXZpZXMuY2hlbS5veC5hYy51ayUyZlNlY3VyZSUyZkxvZ2luLmFzcHglM2ZyZXR1cm51cmwlM2QlMjUyRm1lZGNoZW1fdGVhbS5hc3B4Hg1BbHRlcm5hdGVUZXh0BUxodHRwOi8vZGF2aWVzLmNoZW0ub3guYWMudWsvU2VjdXJlL0xvZ2luLmFzcHg/cmV0dXJudXJsPSUyRm1lZGNoZW1fdGVhbS5hc3B4HgdUb29sVGlwBUxodHRwOi8vZGF2aWVzLmNoZW0ub3guYWMudWsvU2VjdXJlL0xvZ2luLmFzcHg/cmV0dXJudXJsPSUyRm1lZGNoZW1fdGVhbS5hc3B4ZGQYAQUeX19Db250cm9sc1JlcXVp" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="cmVQb3N0QmFja0tleV9fFgEFLWN0bDAwJG1haW5Db250ZW50JGxvZ2luMSRMb2dpbkN0cmwkUmVtZW1iZXJNZR0pH5BnHFZpN4X+z6JC3w6TgkJI" />
+
+
+<script src="/ScriptResource.axd?d=GgXUWk0YGL5mkQ9-VTSrcPqQscD_-bs_hX8tBpWj_ajYK7a2jfCpfZpR7AgBGlpGqSBE2ewJEdE-P18uztHuFMmQsCACQ0siY9FQlrtAqCpem5IUheGLN7vNwM56-wglLdJL5MAs36eXoMRP03sAgE_e-pbcWLyJ5uqrq_c3zffMqSmGUscDJWjf22_5nhlMqUjPrT3LE9q6D-ibu_k7geimVGvShHGQuGv96y-nCLmwkG_S0" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="88FDF362" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAWGPS6nDunAeQUzpK703rFvQByq9jlQk/1tLp1uoarmY6zwXBGyR1YavJ5y6qNTyRcGz941vGC/6lSKdV570ibeY3Letv4eKHRG9tUCNyCwKJ3WcuD88RXYzbM0AVQiqPFiRQGm" />
+
+
+
+
+<div id="wrapwebsite">
+	<h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://davies.chem.ox.ac.uk/Default.aspx'>Steve Davies Group</a></h1>
+	
+
+
+
+
+	&nbsp;
+	<div class="wrapcenter">
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content-wide center-nomargins cmszone">
+	
+		    
+		    
+		    
+
+<div id="ctl00_mainContent_pnlLogin" class="panelwrapper login">
+		
+<div class="modulecontent">
+<fieldset>
+    <legend>
+        Sign In
+    </legend>
+    
+    <div id="ctl00_mainContent_pnlStandardLogin" class="floatpanel">
+			
+    
+        <div id="ctl00_mainContent_login1_LoginCtrl_pnlLContainer">
+				
+            <div class="settingrow idrow">
+                <strong>
+                    <label for="ctl00_mainContent_login1_LoginCtrl_UserName">Email</label>
+                    
+                </strong>
+                <br />
+                <input name="ctl00$mainContent$login1$LoginCtrl$UserName" type="text" maxlength="100" id="ctl00_mainContent_login1_LoginCtrl_UserName" class="normaltextbox signinbox" />
+            </div>
+            <div class="settingrow passwordrow">
+                <strong>
+                    <label for="ctl00_mainContent_login1_LoginCtrl_Password">Password</label>
+                </strong>
+                <br />
+                <input name="ctl00$mainContent$login1$LoginCtrl$Password" type="password" id="ctl00_mainContent_login1_LoginCtrl_Password" class="normaltextbox passwordbox" />
+            </div>
+            <div class="settingrow rememberrow">
+                <input id="ctl00_mainContent_login1_LoginCtrl_RememberMe" type="checkbox" name="ctl00$mainContent$login1$LoginCtrl$RememberMe" /><label for="ctl00_mainContent_login1_LoginCtrl_RememberMe">Remember Me On This Computer</label>
+            </div>
+            
+            <div class="settingrow buttonrow">
+                <input type="submit" name="ctl00$mainContent$login1$LoginCtrl$Login" value="Sign In" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$mainContent$login1$LoginCtrl$Login&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_mainContent_login1_LoginCtrl_Login" />
+                <br />
+                
+            </div>
+            <div class="settingrow registerrow">
+                <a id="ctl00_mainContent_login1_LoginCtrl_lnkPasswordRecovery" class="lnkpasswordrecovery" href="http://davies.chem.ox.ac.uk/Secure/RecoverPassword.aspx">Recover Password</a>&nbsp;&nbsp;
+                
+            </div>
+        
+			</div>
+    &nbsp;
+
+
+    
+		</div>
+    <div class="floatpanel">
+    
+    
+    
+    </div>
+    
+</fieldset>
+</div>
+
+	</div> 
+	
+
+	    
+</div>
+	    
+	    
+	</div>	
+<img id="ctl00_qr1" title="http://davies.chem.ox.ac.uk/Secure/Login.aspx?returnurl=%2Fmedchem_team.aspx" src="https://chart.googleapis.com/chart?chs=150x150&amp;cht=qr&amp;chl=http%3a%2f%2fdavies.chem.ox.ac.uk%2fSecure%2fLogin.aspx%3freturnurl%3d%252Fmedchem_team.aspx" alt="http://davies.chem.ox.ac.uk/Secure/Login.aspx?returnurl=%2Fmedchem_team.aspx" />	
+</div>
+
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Impact and Knowledge Exchange &#8211; Seminar Series | Research Support Blog</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.cs.ox.ac.uk/blogs/researchsupport/wp-content/themes/departmentofcomputerscience/style.css" />
+
+<link media="all" href="/styles/basic.css" rel="stylesheet" type="text/css"/>
+<link media="all" href="/styles/csbasic.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/layout.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/mainnav.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/lookandfeel.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/cslayout.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/csmainnav.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/cslookandfeel.css" rel="stylesheet" type="text/css"/>
+<link media="print" href="/styles/csprint.css" rel="stylesheet" type="text/css"/>
+
+
+<link rel="pingback" href="http://www.cs.ox.ac.uk/blogs/researchsupport/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://www.cs.ox.ac.uk/blogs/researchsupport/wp-content/themes/departmentofcomputerscience/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Research Support Blog &raquo; Feed" href="http://www.cs.ox.ac.uk/blogs/researchsupport/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Research Support Blog &raquo; Comments Feed" href="http://www.cs.ox.ac.uk/blogs/researchsupport/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Research Support Blog &raquo; Impact and Knowledge Exchange &#8211; Seminar Series Comments Feed" href="http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.cs.ox.ac.uk\/blogs\/researchsupport\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='genericons-css'  href='http://www.cs.ox.ac.uk/blogs/researchsupport/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.cs.ox.ac.uk/blogs/researchsupport/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.cs.ox.ac.uk/blogs/researchsupport/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script><script>jQueryWP = jQuery;</script>
+<script type='text/javascript' src='http://www.cs.ox.ac.uk/blogs/researchsupport/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.cs.ox.ac.uk/blogs/researchsupport/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.cs.ox.ac.uk/blogs/researchsupport/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Samsung Global Research Outreach Program 2015' href='http://www.cs.ox.ac.uk/blogs/researchsupport/samsung-global-research-outreach-program-2015/' />
+<link rel='next' title='Biotechnology YES 2015 &#8211; Call' href='http://www.cs.ox.ac.uk/blogs/researchsupport/biotechnology-yes-2015-call/' />
+<meta name="generator" content="WordPress 4.2.2" />
+<link rel='canonical' href='http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/' />
+<link rel='shortlink' href='http://wp.me/p2VMnZ-lH' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Impact and Knowledge Exchange - Seminar Series" />
+<meta property="og:url" content="http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/" />
+<meta property="og:description" content="The University’s Department of Education are convening a high-profile seminar series on Impact and Knowledge Exchange in an Evolving Research Environment. The series will bring together different v..." />
+<meta property="article:published_time" content="2015-05-05T15:17:37+00:00" />
+<meta property="article:modified_time" content="2015-05-05T15:17:37+00:00" />
+<meta property="article:author" content="http://www.cs.ox.ac.uk/blogs/researchsupport/author/coml0573/" />
+<meta property="og:site_name" content="Research Support Blog" />
+<meta property="og:image" content="https://www.cs.ox.ac.uk/blogs/researchsupport/files/2015/05/oudcelogo.png" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@KellyatOxford" />
+<meta name="twitter:image" content="https://www.cs.ox.ac.uk/blogs/researchsupport/files/2015/05/oudcelogo.png?w=240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@KellyatOxford" />
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+<script type="text/javascript">
+// <![CDATA[
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25164877-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['secondTracker._setAccount', 'UA-36366824-1']);
+  _gaq.push(['secondTracker._trackPageview']);
+  _gaq.push(['thirdTracker._setAccount', 'UA-36398216-1']);
+  _gaq.push(['thirdTracker._trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+// ]]>
+</script>
+</head>
+
+<body class="single single-post postid-1345 single-format-standard singular two-column right-sidebar" style="background-image: none;">
+
+<!-- all div starts -->
+<div id="all" style="border: 15px solid white; width: 960px; margin-left: auto; margin-right: auto">
+
+<div style="border-bottom: 10px solid white;position: relative; width: 960px" id="csbanner"><!-- 156 -->
+<img src="/images/CompSci_logo_landscapeL_rgb_corrected_small.jpg" style="position: relative; left: -1px; top: -1px" alt="University of Oxford Logo" usemap="#compscimap"/>
+<map name="compscimap" id="compscimap"><area shape="rect" coords="0,0,100,100" href="http://www.ox.ac.uk/" alt="University of Oxford" title="University of Oxford"/><area shape="rect" coords="124,0,387,100" href="/" alt="Department of Computer Science - Home" title="Department of Computer Science - Home"/></map>
+
+<div style="position: absolute; right: 0px; top: 15px;">
+
+
+</div>
+
+</div>
+
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://www.cs.ox.ac.uk/blogs/researchsupport/" title="Research Support Blog" rel="home">Research Support Blog</a></span></h1>
+				<h2 id="site-description">For the Computer Science research community in Oxford</h2>
+			</hgroup>
+
+			
+								<form method="get" id="searchform" action="http://www.cs.ox.ac.uk/blogs/researchsupport/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu"><ul><li ><a href="http://www.cs.ox.ac.uk/blogs/researchsupport/">Home</a></li><li class="page_item page-item-5"><a href="http://www.cs.ox.ac.uk/blogs/researchsupport/about/">About</a></li><li class="page_item page-item-13"><a href="http://www.cs.ox.ac.uk/blogs/researchsupport/contact/">Contact</a></li><li class="page_item page-item-10"><a href="http://www.cs.ox.ac.uk/blogs/researchsupport/useful-links/">Links</a></li><li class="page_item page-item-90"><a href="http://www.cs.ox.ac.uk/industry/public/newsletter.jsp" target="_blank">Research Magazine</a></li><li class="page_item page-item-80"><a href="https://www.cs.ox.ac.uk/resources/projectadmin/start.htm" target="_blank">Research Support Website</a></li><li class="page_item page-item-74"><a href="https://www.cs.ox.ac.uk/research/" target="_blank">Research Themes</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://www.cs.ox.ac.uk/blogs/researchsupport/samsung-global-research-outreach-program-2015/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://www.cs.ox.ac.uk/blogs/researchsupport/biotechnology-yes-2015-call/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-1345" class="post-1345 post type-post status-publish format-standard hentry category-events category-guidance-2 tag-continuing-education tag-event tag-guidance tag-impact tag-knowledge-exchange tag-seminar">
+	<header class="entry-header">
+		<h1 class="entry-title">Impact and Knowledge Exchange &#8211; Seminar Series</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/" title="3:17 pm" rel="bookmark"><time class="entry-date" datetime="2015-05-05T15:17:37+00:00" pubdate>May 5, 2015</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://www.cs.ox.ac.uk/blogs/researchsupport/author/coml0573/" title="View all posts by Patrick Archard" rel="author">Patrick Archard</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<p><img class="  wp-image-1346 aligncenter" src="https://www.cs.ox.ac.uk/blogs/researchsupport/files/2015/05/oudcelogo.png" alt="oudcelogo" width="289" height="145" />The University’s Department of Education are convening a high-profile seminar series on <em>Impact and Knowledge Exchange in an Evolving Research Environment</em>. The series will bring together different voices from the higher education landscape including researchers, funding bodies, ‘users’ and research facilitators to debate how impact and knowledge exchange are interpreted and practiced across research systems and networks. Weekly seminars will be given by external speakers on Wednesdays (6 May- 17 June), concluding with a panel discussion on the 17<sup>th</sup> of June. Opportunities for networking and discussion will be offered at each event.</p>
+<p>At the first event in the series will be held on the<strong> 6th May 2015 at the Said Business School, from 5pm &#8211; 6:30pm</strong>, where Professor James Wilsdon will present the findings of his review of the role of metrics in research assessment and management and post-election prospects for social science funding &amp; influence within government, building on the Campaign for Social Science&#8217;s recent report &#8216;The Business of People&#8217;.</p>
+<p>To sign up for the first event &#8211; <strong><a href="http://www.eventbrite.co.uk/e/in-metrics-we-trust-impact-indicators-the-prospects-for-social-science-over-the-next-five-years-registration-16755407876" target="_blank">Click Here</a></strong><br />
+To view the entire series &#8211; <strong><a href="https://www.socsci.ox.ac.uk/research/impact-and-knowledge-exchange-seminars" target="_blank">Click Here</a></strong></p>
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-1345" class="share-facebook sd-button share-icon no-text" href="http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/?share=facebook" target="_blank" title="Share on Facebook"><span></span><span class="sharing-screen-reader-text">Share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-1345" class="share-twitter sd-button share-icon no-text" href="http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-1345" class="share-google-plus-1 sd-button share-icon no-text" href="http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-linkedin"><a rel="nofollow" data-shared="sharing-linkedin-1345" class="share-linkedin sd-button share-icon no-text" href="http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span></span><span class="sharing-screen-reader-text">Click to share on LinkedIn (Opens in new window)</span></a></li><li class="share-email"><a rel="nofollow" data-shared="" class="share-email sd-button share-icon no-text" href="http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/?share=email" target="_blank" title="Click to email this to a friend"><span></span><span class="sharing-screen-reader-text">Click to email this to a friend (Opens in new window)</span></a></li><li class="share-print"><a rel="nofollow" data-shared="" class="share-print sd-button share-icon no-text" href="http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/#print" target="_blank" title="Click to print"><span></span><span class="sharing-screen-reader-text">Click to print (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://www.cs.ox.ac.uk/blogs/researchsupport/category/events/" rel="category tag">Events</a>, <a href="http://www.cs.ox.ac.uk/blogs/researchsupport/category/guidance-2/" rel="category tag">Guidance</a> and tagged <a href="http://www.cs.ox.ac.uk/blogs/researchsupport/tag/continuing-education/" rel="tag">continuing education</a>, <a href="http://www.cs.ox.ac.uk/blogs/researchsupport/tag/event/" rel="tag">event</a>, <a href="http://www.cs.ox.ac.uk/blogs/researchsupport/tag/guidance/" rel="tag">guidance</a>, <a href="http://www.cs.ox.ac.uk/blogs/researchsupport/tag/impact/" rel="tag">Impact</a>, <a href="http://www.cs.ox.ac.uk/blogs/researchsupport/tag/knowledge-exchange/" rel="tag">knowledge exchange</a>, <a href="http://www.cs.ox.ac.uk/blogs/researchsupport/tag/seminar/" rel="tag">seminar</a> by <a href="http://www.cs.ox.ac.uk/blogs/researchsupport/author/coml0573/">Patrick Archard</a>. Bookmark the <a href="http://www.cs.ox.ac.uk/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/" title="Permalink to Impact and Knowledge Exchange &#8211; Seminar Series" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-1345 -->
+
+						<div id="comments">
+	
+	
+	
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<p class="must-log-in">You must be <a href="https://www.cs.ox.ac.uk/blogs/researchsupport/wp-login.php?redirect_to=http%3A%2F%2Fwww.cs.ox.ac.uk%2Fblogs%2Fresearchsupport%2Fimpact-and-knowledge-exchange-seminar-series%2F">logged in</a> to post a comment.</p>												</div><!-- #respond -->
+			
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+<div id="supplementary" class="one">
+		<div id="first" class="widget-area" role="complementary">
+		<aside id="meta-4" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="https://www.cs.ox.ac.uk/blogs/researchsupport/wp-login.php">Log in</a></li>
+			<li><a href="http://www.cs.ox.ac.uk/blogs/researchsupport/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.cs.ox.ac.uk/blogs/researchsupport/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside>	</div><!-- #first .widget-area -->
+	
+	
+	</div><!-- #supplementary -->
+			
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+<!-- MathJax Latex Plugin installed: Disabled as no shortcodes on this page -->	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/www.cs.ox.ac.uk\/blogs\/researchsupport\/impact-and-knowledge-exchange-seminar-series\/":1345};
+		window.WPCOM_jetpack = true;
+				window.WPCOM_site_ID = 43323367;
+			</script>
+		<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-facebook' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-twitter' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-google-plus-1' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript">
+			var windowOpen;
+		jQuery(document).on( 'ready post-load', function(){
+			jQuery( 'a.share-linkedin' ).on( 'click', function() {
+				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+				return false;
+			});
+		});
+		</script>
+			<div id="sharing_email" style="display: none;">
+		<form action="/blogs/researchsupport/impact-and-knowledge-exchange-seminar-series/" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="email" name="target_email" id="target_email" value="" />
+
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+
+				<label for="source_email">Your Email Address</label>
+				<input type="email" name="source_email" id="source_email" value="" />
+
+						<input type="text" id="jetpack-source_f_name" name="source_f_name" class="input" value="" size="25" autocomplete="off" />
+			<script> document.getElementById('jetpack-source_f_name').value = ''; </script>
+			
+			<img style="float: right; display: none" class="loading" src="http://www.cs.ox.ac.uk/blogs/researchsupport/wp-content/plugins/jetpack/modules/sharedaddy/images/loading.gif" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a rel="nofollow" href="#cancel" class="sharing_cancel">Cancel</a>
+
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+<script type='text/javascript' src='http://www.cs.ox.ac.uk/blogs/researchsupport/wp-includes/js/comment-reply.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201525'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Junaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.cs.ox.ac.uk/blogs/researchsupport/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.cs.ox.ac.uk/blogs/researchsupport/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=3.5.3'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201525.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'43323367',post:'1345',tz:'0',srv:'www.cs.ox.ac.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '43323367', '1345' ]);
+</script>
+<script>var pltNewTabURLs = ["http:\/\/www.cs.ox.ac.uk\/industry\/public\/newsletter.jsp","https:\/\/www.cs.ox.ac.uk\/resources\/projectadmin\/start.htm","https:\/\/www.cs.ox.ac.uk\/research\/"];(function(){(function(e){var t;t=e.jQueryWP||e.jQuery;return t(function(e){return typeof e.fn.on=="function"?e("body").on("click","a",function(t){var n;n=e(this);if(e.inArray(n.attr("href"),pltNewTabURLs)>-1)return n.attr("target","_blank")}):typeof console!="undefined"&&console!==null?console.log("Page Links To: Some other code has overridden the WordPress copy of jQuery. This is bad. Because of this, Page Links To cannot open links in a new window."):void 0})})(window)}).call(this);</script>
+</div>
+<!-- all div ends -->
+
+</body>
+</html>

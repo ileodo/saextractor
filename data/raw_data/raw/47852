@@ -1,0 +1,548 @@
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=yes"/>
+	<!-- initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, -->
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="schema.DC" href="http://purl.org/dc/terms/" />
+<meta name="DC.Title" content="Shelley's Ghost - Reshaping the image of a literary family" />
+<meta name="generator" content="http://www.surfaceimpression.com/" />
+
+	<meta name="format-detection" content="telephone=no">
+
+  	<title>Routes of Romance I – The Romance of the Middle Ages</title>
+
+	<link rel="stylesheet" type="text/css" href="/includes/system.css" class="autocss" id="systemcss" />
+<link rel="stylesheet" type="text/css" href="/domains/shelleysghost.bodleian.ox.ac.uk/local/css/romance.css" class="autocss" id="defaultcss" />
+<link rel="stylesheet" type="text/css" href="/domains/shelleysghost.bodleian.ox.ac.uk/local/css/quiz.css" class="autocss" id="quizzcss" />
+
+	
+	<script type="text/javascript" src="/public_scripts/jquery-1.7.1.min.js" ></script>
+
+	<link href="/domains/shelleysghost.bodleian.ox.ac.uk/local/css/romance-print.css" type="text/css" rel="stylesheet" media="print">
+	
+	<link rel="stylesheet" media="only screen and (max-device-width: 480px)" href="/domains/shelleysghost.bodleian.ox.ac.uk/local/css/romance-smartphone.css" >
+	<link rel="stylesheet" media="only screen and (min-device-width : 768px) and (max-device-width : 1024px)" 
+href="/domains/shelleysghost.bodleian.ox.ac.uk/local/css/romance-ipad.css" >
+
+	
+	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
+		
+	<!--[if lt IE 8]>
+		        <script type="text/javascript">var ieVersion = 7</script>
+		        <link rel="stylesheet" type="text/css" href="/domains/shelleysghost.bodleian.ox.ac.uk/local/css/romance-ie.css" />
+		<![endif]-->	
+
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+	<script type="text/javascript" >
+	var domaindirectory = '/domains/shelleysghost.bodleian.ox.ac.uk';
+	var rootdir = 'http://medievalromance.bodleian.ox.ac.uk';
+	var unique_name = 'romance-routes-of-romance-one';
+	var location_id = '452';
+	</script>
+
+	
+	<script type="text/javascript" src="/public_scripts/scrollToViewPort.min.js" ></script>
+	<script type="text/javascript" src="/public_scripts/carouFredSel-5.5.0/jquery.carouFredSel-5.5.0-packed.js" ></script>
+	<script type="text/javascript" src="/domains/shelleysghost.bodleian.ox.ac.uk/local/js/bootstrap-tabs.js" ></script>
+
+	
+
+
+</head>
+
+
+<body class="object subnav-yes sidebar-yes depth2">
+
+
+	<div id="utilitynav-wrapper">
+		<nav id="utilitynav">
+			<a class="video-intro" href="/romance-video-intro"><em>Romance</em> mini-documentary</a>
+			<a href="./romance-accessibility">Web accessibility</a>
+		<!--	<a class="default_contrast" href="./romance-routes-of-romance-one?stylesheet=romance">Default</a>
+			<a class="high_contrast" href="./romance-routes-of-romance-one?stylesheet=romance_high_contrast">High contrast</a>
+			<a class="larger_type" href="./romance-routes-of-romance-one?stylesheet=romance_larger_type">Larger type</a> -->
+			<a href="./romance-sitemap">Sitemap</a>
+			<a href="./romance-contact">Contact us</a>
+			
+		</nav>
+	</div>
+
+
+	<div id="banner-wrapper">
+		<header id="banner">
+			<h1><a href="./romance-home">The Romance of the Middle Ages</a></h1>
+
+			<h2><a href="http://www.bodleian.ox.ac.uk/bodley">The Bodleian Libraries</a></h2>
+
+
+
+
+
+
+			<div class="gse">
+			
+			
+			<div id="cse-search-form" style="width: 100%;">Loading</div>
+<script src="http://www.google.co.uk/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};
+    customSearchOptions['adoptions'] = {'layout': 'noTop'};
+    var customSearchControl = new google.search.CustomSearchControl(
+      '018146777662336540769:yht4mnrq7bc', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.SMALL_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.enableSearchboxOnly("http://medievalromance.bodleian.ox.ac.uk/romance-search-results");
+    customSearchControl.draw('cse-search-form', options);
+  }, true);
+  $(function(){
+ 	if($(window).width()<640){
+ 		$("#cse-search-form").parent().remove();
+ 	}
+ });
+</script>
+
+
+
+
+<!--<div id="cse" style="width: 100%;">Loading</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript"> 
+  google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
+  google.setOnLoadCallback(function() {
+    var customSearchOptions = {};
+    customSearchOptions['adoptions'] = {'layout': 'noTop'};
+    var customSearchControl = new google.search.CustomSearchControl(
+      '001670650154495001189:ojfw7mu1po4', customSearchOptions);
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    customSearchControl.draw('cse');
+  }, true);
+</script>-->
+
+	
+				
+ 
+			</div>
+
+
+
+
+
+
+			<div class="clear"></div>
+		</header>
+		
+		<nav id="mainnav">
+			<div class="graphic"></div>
+				<ul>
+<li class=" expander statusa"><a class="depth1" href="./romance-home"  accesskey="1" >Home</a></li><li class=" ancestor statusa"><a class="depth1" href="./romance-explore"  accesskey="2" >Explore the Objects</a><ul>
+<li class=" expander statusa"><a class="depth2" href="./romance-origin-stories" >Origin Stories</a></li><li class=" expander statusa"><a class="depth2" href="./romance-romance-and-the-medieval-world" >Romance and the Medieval World</a></li><li class=" expander statusa"><a class="depth2" href="./romance-truth-deceit-desire" >Truth, Deceit and Desire</a></li><li class=" expander statusa"><a class="depth2" href="./romance-empires-of-romance-arthur" >Empires of Romance: Arthur</a></li><li class=" expander statusa"><a class="depth2" href="./romance-empires-of-romance-alexander" >Empires of Romance: Alexander</a></li><li class=" expander statusa"><a class="depth2" href="./romance-the-objects-of-romance" >The Objects of Romance</a></li><li class=" expander statusa"><a class="depth2" href="./romance-cities-under-siege" >Cities under Siege</a></li><li class=" expander statusa"><a class="depth2" href="./romance-strange-encounters" >Strange Encounters</a></li><li class=" expander statusa"><a class="depth2" href="./romance-the-fortunes-of-sir-gawain" >The Fortunes of Sir Gawain</a></li><li class=" expander statusa"><a class="depth2" href="./romance-composing-writing-preserving" >Composing, Writing, Preserving</a></li><li class=" expander statusa"><a class="depth2" href="./romance-the-percy-folio" >The Percy Folio</a></li><li class=" expandhere statusa"><a class="depth2" href="./romance-routes-of-romance-one" >Routes of Romance I</a><ul>
+<li class=" statusa"><a class="depth3" href="./The_romance_of_Gamelyn_from_a_Canterbury_Tales_manuscript" >The romance of <em>Gamelyn</em>, from a <em>Canterbury Tales</em> manuscript</a></li><li class=" statusa"><a class="depth3" href="./Fragments_of_the_Apollonius_of_Tyre_legend" >Fragments of the Apollonius of Tyre legend</a></li><li class=" statusa"><a class="depth3" href="./Thomas_Lodges_Rosalynde" >Thomas Lodge's <em>Rosalynde</em></a></li><li class=" statusa"><a class="depth3" href="./Quarto_texts_of_Pericles" >Quarto texts of <em>Pericles</em></a></li><li class=" statusa"><a class="depth3" href="./As_You_Like_It_from_the_First_Folio_edition_of_Shakespeares_plays" ><em>As You Like It</em>, from the First Folio edition of Shakespeare’s plays</a></li><li class=" statusa"><a class="depth3" href="./Ariosto_Orlando_furioso" >Ariosto, <em>Orlando furioso</em></a></li><li class=" statusa"><a class="depth3" href="./Spenser_The_Faerie_Queene" >Spenser, <em>The Faerie Queene</em></a></li><li class=" statusa"><a class="depth3" href="./King_Ponthus" ><em>King Ponthus</em></a></li><li class=" statusa"><a class="depth3" href="./Ponthus_et_la_belle_Sidoyne" ><em>Ponthus et la belle Sidoyne</em></a></li><li class=" statusa"><a class="depth3" href="./An_English_Don_Quixote" >An English <em>Don Quixote</em></a></li><li class=" statusa"><a class="depth3" href="./An_Essex_Don_Quixote_the_story_of_Sir_Billy_of_Billerecay" >An Essex Don Quixote: the story of <em>Sir Billy of Billerecay</em></a></li><li class=" statusa"><a class="depth3" href="./A_Latin_version_of_Chaucers_Troilus_and_Criseyde" >A Latin version of Chaucer's <em>Troilus and Criseyde</em></a></li><li class=" statusa"><a class="depth3" href="./Wynkyn_de_Wordes_Richard_Coeur_de_Lyon" >Wynkyn de Worde's <em>Richard Coeur de Lyon</em></a></li></ul>
+
+</li><li class=" expander statusa"><a class="depth2" href="./romance-routes-of-romance-two" >Routes of Romance II</a></li><li class=" expander statusa"><a class="depth2" href="./romance-romance-and-the-modern-world" >Romance and the Modern World</a></li></ul>
+
+</li><li class=" expander statusa exhibition-iconcontainerli"><a class="depth1 exhibition-icon" href="./romance-exhibition"  style="exhibition-icon" accesskey="3" >Exhibition</a></li><li class=" expander statusa"><a class="depth1" href="./romance-watch-listen"  accesskey="4" >Watch & Listen</a></li><li class=" expander statusa"><a class="depth1" href="./romance-educational-resources" >Learn</a></li><li class=" statusa"><a class="depth1" href="./romance-shop"  accesskey="6" >Shop</a></li></ul>
+
+				<div class="clearboth"></div>
+		</nav>
+		<div class="clearboth"></div>
+			
+	</div>
+	
+	
+		<div class="clearboth"></div>
+
+		
+		
+	<div class="wrapper"><div class="wrapperpad">
+		
+		<div class="menu-bar">
+			<div class="crumb-wrapper"><div class="crumbtrail">
+<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" class="crumbhome" href="./romance-home"><span itemprop="title" >Home</span></a></span>
+ <span class="crumbtrailseparator">&gt;</span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" class="crumb2 " href="./romance-explore"><span itemprop="name">Explore the Objects</span></a>
+</span> <span class="crumbtrailseparator">&gt;</span> <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span class="crumbhere"><span itemprop="name">Routes of Romance I</span></span></span></div>
+</div><div id="top"></div>
+			
+			
+		</div>
+		
+		<nav id="subnav"><ul>
+<li class=" expander statusa"><a class="depth2" href="./romance-origin-stories" >Origin Stories</a></li><li class=" expander statusa"><a class="depth2" href="./romance-romance-and-the-medieval-world" >Romance and the Medieval World</a></li><li class=" expander statusa"><a class="depth2" href="./romance-truth-deceit-desire" >Truth, Deceit and Desire</a></li><li class=" expander statusa"><a class="depth2" href="./romance-empires-of-romance-arthur" >Empires of Romance: Arthur</a></li><li class=" expander statusa"><a class="depth2" href="./romance-empires-of-romance-alexander" >Empires of Romance: Alexander</a></li><li class=" expander statusa"><a class="depth2" href="./romance-the-objects-of-romance" >The Objects of Romance</a></li><li class=" expander statusa"><a class="depth2" href="./romance-cities-under-siege" >Cities under Siege</a></li><li class=" expander statusa"><a class="depth2" href="./romance-strange-encounters" >Strange Encounters</a></li><li class=" expander statusa"><a class="depth2" href="./romance-the-fortunes-of-sir-gawain" >The Fortunes of Sir Gawain</a></li><li class=" expander statusa"><a class="depth2" href="./romance-composing-writing-preserving" >Composing, Writing, Preserving</a></li><li class=" expander statusa"><a class="depth2" href="./romance-the-percy-folio" >The Percy Folio</a></li><li class=" expandhere statusa"><a class="depth2" href="./romance-routes-of-romance-one" >Routes of Romance I</a><ul>
+<li class=" statusa"><a class="depth3" href="./The_romance_of_Gamelyn_from_a_Canterbury_Tales_manuscript" >The romance of <em>Gamelyn</em>, from a <em>Canterbury Tales</em> manuscript</a></li><li class=" statusa"><a class="depth3" href="./Fragments_of_the_Apollonius_of_Tyre_legend" >Fragments of the Apollonius of Tyre legend</a></li><li class=" statusa"><a class="depth3" href="./Thomas_Lodges_Rosalynde" >Thomas Lodge's <em>Rosalynde</em></a></li><li class=" statusa"><a class="depth3" href="./Quarto_texts_of_Pericles" >Quarto texts of <em>Pericles</em></a></li><li class=" statusa"><a class="depth3" href="./As_You_Like_It_from_the_First_Folio_edition_of_Shakespeares_plays" ><em>As You Like It</em>, from the First Folio edition of Shakespeare’s plays</a></li><li class=" statusa"><a class="depth3" href="./Ariosto_Orlando_furioso" >Ariosto, <em>Orlando furioso</em></a></li><li class=" statusa"><a class="depth3" href="./Spenser_The_Faerie_Queene" >Spenser, <em>The Faerie Queene</em></a></li><li class=" statusa"><a class="depth3" href="./King_Ponthus" ><em>King Ponthus</em></a></li><li class=" statusa"><a class="depth3" href="./Ponthus_et_la_belle_Sidoyne" ><em>Ponthus et la belle Sidoyne</em></a></li><li class=" statusa"><a class="depth3" href="./An_English_Don_Quixote" >An English <em>Don Quixote</em></a></li><li class=" statusa"><a class="depth3" href="./An_Essex_Don_Quixote_the_story_of_Sir_Billy_of_Billerecay" >An Essex Don Quixote: the story of <em>Sir Billy of Billerecay</em></a></li><li class=" statusa"><a class="depth3" href="./A_Latin_version_of_Chaucers_Troilus_and_Criseyde" >A Latin version of Chaucer's <em>Troilus and Criseyde</em></a></li><li class=" statusa"><a class="depth3" href="./Wynkyn_de_Wordes_Richard_Coeur_de_Lyon" >Wynkyn de Worde's <em>Richard Coeur de Lyon</em></a></li></ul>
+
+</li><li class=" expander statusa"><a class="depth2" href="./romance-routes-of-romance-two" >Routes of Romance II</a></li><li class=" expander statusa"><a class="depth2" href="./romance-romance-and-the-modern-world" >Romance and the Modern World</a></li></ul>
+ <div class="clear"></div></nav>
+		
+	
+		<article id="contentarea">
+		
+
+			<h2 class="pagetitle">Routes of Romance I</h2>
+			
+
+			<section class="content0">
+					<!--  -->
+
+<h2 class="page_subtitle object-detail">Routes of Romance I</h2>
+
+<div class="meta-wrapper">
+			
+<p class="author " title="Author"><span></span></p>
+			
+<p class="date " title="Date"><span></span></p>
+			
+<p class="location " title="Location"><span></span></p>
+
+<p class="format " title="Format"><span></span></p>
+	
+			<div class="clear"></div>
+</div>
+<div class="pageblocks"><p></p><div class=" editable blockitem"><div class="blockpad">
+	
+	
+
+	 
+
+
+	<div class="pageblocktext"><p>
+	The end of the Middle Ages was not the end of medieval romance. Early printers included romances amongst their most succesful publications. Some writers mocked romances for their clich&eacute;d verse forms, unlikely plot twists and close links to &lsquo;popish&rsquo; beliefs about miracles and penance. However, romances from Britain and the continent were widely printed, enjoyed and adapted in the sixteenth and seventeenth centuries. They survived amidst the works of Chaucer, who was revered as the founder of an English literary tradition, but also in plays, ballads and cheap reprints. Most tellingly, the structures and language of old romances lie at the heart of some of the most innovative and daring works of what we now call the early modern period.</p>
+	
+
+	
+
+         
+
+</div>
+
+ 
+	<div class="clearboth"></div>
+</div></div></div>
+			<div class="clear"></div>
+			</section>
+			
+			<div class="tinywrap">
+			
+				<section class="content1">
+						<div class="toc"><a class="item" href="./The_romance_of_Gamelyn_from_a_Canterbury_Tales_manuscript">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/63-1-MS. Hatton donat.1, fol. 65r.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>Geoffrey Chaucer included several romances in The Canterbury Tales, from the serious, classical Knight&rsquo;s Tale to the parodicly lame Tale of Sir Thopas, told by Chaucer&rsquo;s alter ego. The...</p></div>
+	</div>
+
+	<h2>The romance of <em>Gamelyn</em>, from a <em>Canterbury Tales</em> manuscript</h2>
+
+</a><a class="item" href="./Fragments_of_the_Apollonius_of_Tyre_legend">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/62-1-MS. Douce 216, fol. 18r.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>The story of Apollonius of Tyre is one of the oldest and most tenacious romance legends, with roots in Greek romances from the third century AD or earlier. Apollonius uncovers the incestuous secret...</p></div>
+	</div>
+
+	<h2>Fragments of the Apollonius of Tyre legend</h2>
+
+</a><a class="item" href="./Thomas_Lodges_Rosalynde">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/61-1-Malone 152(1), D4v.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>Thomas Lodge&rsquo;s prose romance Rosalynde: Euphues Golden Legacy (first published 1590) is best known today as the major source for Shakespeare&rsquo;s As You Like It, but its own success is...</p></div>
+	</div>
+
+	<h2>Thomas Lodge's <em>Rosalynde</em></h2>
+
+</a><a class="item" href="./Quarto_texts_of_Pericles">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/60-1-Arch. G. d. 41, 5v-6r.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>Many medieval romances found new life on the early modern stage. Pericles, first performed in 1607 or 1608, is often described as one of Shakespeare&rsquo;s &lsquo;late romances&rsquo;. It retells...</p></div>
+	</div>
+
+	<h2>Quarto texts of <em>Pericles</em></h2>
+
+</a><a class="item" href="./As_You_Like_It_from_the_First_Folio_edition_of_Shakespeares_plays">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/59-1-Arch. G. c. 8, pp.194-195.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>As You Like It reshapes the romance tradition inherited from Lodge&rsquo;s prose romance Rosalynde and, ultimately, the medieval romance Gamelyn, juxtaposing an &lsquo;old&rsquo; romance plot of...</p></div>
+	</div>
+
+	<h2><em>As You Like It</em>, from the First Folio edition of Shakespeare’s plays</h2>
+
+</a><a class="item" href="./Ariosto_Orlando_furioso">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/58-1-Malone 16, p. 240.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>Various revisions of Ludovico Ariosto&rsquo;s epic romance Orlando furioso (Mad Orlando) were published between 1516 and 1532. In short, it tells of Orlando&rsquo;s love for the pagan princess...</p></div>
+	</div>
+
+	<h2>Ariosto, <em>Orlando furioso</em></h2>
+
+</a><a class="item" href="./Spenser_The_Faerie_Queene">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/57-1-F2 62 Linc, Title page and opposite page.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>From its famous opening line, &lsquo;A Gentle Knight was pricking on the plaine&rsquo;, Edmund Spenser&rsquo;s epic-cum-romance The Faerie Queene invokes a rich fabric of romance structures, motifs...</p></div>
+	</div>
+
+	<h2>Spenser, <em>The Faerie Queene</em></h2>
+
+</a><a class="item" href="./King_Ponthus">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/56-1-Douce PP 214, fol. 5v.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>Wynkyn de Worde (d. 1534/5), who probably came from Alsace, worked with William Caxton in Westminster. He inherited Caxton&rsquo;s printing business and later moved to Fleet Street in London. He was...</p></div>
+	</div>
+
+	<h2><em>King Ponthus</em></h2>
+
+</a><a class="item" href="./Ponthus_et_la_belle_Sidoyne">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/55-1-Douce 177, aiv.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>The fifteenth century saw a vogue towards rewriting romances in prose, often vastly expanding their already intricate plots. Many French prose romances were read and collected by the English...</p></div>
+	</div>
+
+	<h2><em>Ponthus et la belle Sidoyne</em></h2>
+
+</a><a class="item" href="./An_English_Don_Quixote">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/54-1-4o L 32(2) Art, title page.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>Don Quixote by Miguel de Cervantes (vol. I published 1605; vol. II in 1615) affectionately mocks the excesses of romance through its protagonist Alonso Quixano, who falls into madness by reading old...</p></div>
+	</div>
+
+	<h2>An English <em>Don Quixote</em></h2>
+
+</a><a class="item" href="./An_Essex_Don_Quixote_the_story_of_Sir_Billy_of_Billerecay">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/68-1-Douce H 396 (1), title page.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>This is a parody of a parody: William Winstanley&rsquo;s The Essex Champion: or, The Famous History of Sir Billy of Billerecay, and his Squire Ricardo. It relocates Don Quixote to Essex (Billy's...</p></div>
+	</div>
+
+	<h2>An Essex Don Quixote: the story of <em>Sir Billy of Billerecay</em></h2>
+
+</a><a class="item" href="./A_Latin_version_of_Chaucers_Troilus_and_Criseyde">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/96-1-MS-Add-c-287-p-301.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>This unusual manuscript contains a Latin translation of Chaucer's Troilus and Criseyde. It was written by Sir Francis Kynaston (1586/7&ndash;1642), and part of it was published in 1635. This is...</p></div>
+	</div>
+
+	<h2>A Latin version of Chaucer's <em>Troilus and Criseyde</em></h2>
+
+</a><a class="item" href="./Wynkyn_de_Wordes_Richard_Coeur_de_Lyon">
+
+	<div class="icon">
+		<img src="/public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media/images/romance/83-1-Crynes 734, fol.A.i r.jpg&amp;preset=romance-toc" alt="">
+		<div class="description"><p>Wynkyn de Worde&rsquo;s 1509 print of Richard Coeur de Lyon is an inexpensive book by comparison with a deluxe manuscript; nevertheless the impression is that a good deal of care went into its...</p></div>
+	</div>
+
+	<h2>Wynkyn de Worde's <em>Richard Coeur de Lyon</em></h2>
+
+</a><div class="clearboth"></div>
+</div>
+				<div class="clear"></div>
+				</section>
+				
+				
+	
+				
+				
+				
+				
+			</div>
+			<div class="sibnav"><div class="sibright"><a href="././romance-routes-of-romance-two">Next object Â»</a></div><div class="sibleft"><a href="././romance-the-percy-folio">Â« Previous object</a></div><div class="sibnavwindow"><div class="sibnavelements"><div class="snelement" title="Origin Stories">
+	<a href="./romance-origin-stories"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/1-1-MS. Digby 23. fol.32r.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Origin Stories" /></a>
+	<div class="sntitle">Origin Stories</div>
+	
+</div><div class="snelement" title="Romance and the Medieval World">
+	<a href="./romance-romance-and-the-medieval-world"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/5-1-AN-2088-27.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Romance and the Medieval World" /></a>
+	<div class="sntitle">Romance and the Medieval World</div>
+	
+</div><div class="snelement" title="Truth, Deceit and Desire">
+	<a href="./romance-truth-deceit-desire"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/11-1-MS. Ashmole 45 fol.2r.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Truth, Deceit and Desire" /></a>
+	<div class="sntitle">Truth, Deceit and Desire</div>
+	
+</div><div class="snelement" title="Empires of Romance: Arthur">
+	<a href="./romance-empires-of-romance-arthur"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/15-1-Jesus College MS. 111, fol. 154v.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Empires of Romance: Arthur" /></a>
+	<div class="sntitle">Empires of Romance: Arthur</div>
+	
+</div><div class="snelement" title="Empires of Romance: Alexander">
+	<a href="./romance-empires-of-romance-alexander"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/77-1-MS. Ouseley Add.176, fol.311v.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Empires of Romance: Alexander" /></a>
+	<div class="sntitle">Empires of Romance: Alexander</div>
+	
+</div><div class="snelement" title="The Objects of Romance">
+	<a href="./romance-the-objects-of-romance"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/23-1-WA 2001.178.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="The Objects of Romance" /></a>
+	<div class="sntitle">The Objects of Romance</div>
+	
+</div><div class="snelement" title="Cities under Siege">
+	<a href="./romance-cities-under-siege"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/32-1-MS-Douce-311-fol-2v.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Cities under Siege" /></a>
+	<div class="sntitle">Cities under Siege</div>
+	
+</div><div class="snelement" title="Strange Encounters">
+	<a href="./romance-strange-encounters"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/26-1-MS. Douce 261, fol. 1r.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Strange Encounters" /></a>
+	<div class="sntitle">Strange Encounters</div>
+	
+</div><div class="snelement" title="The Fortunes of Sir Gawain">
+	<a href="./romance-the-fortunes-of-sir-gawain"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/35-3-MS. Cotton Nero A. x, fol.129r.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="The Fortunes of Sir Gawain" /></a>
+	<div class="sntitle">The Fortunes of Sir Gawain</div>
+	
+</div><div class="snelement" title="Composing, Writing, Preserving">
+	<a href="./romance-composing-writing-preserving"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/37-1-MS. Douce 236, fol.14r.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Composing, Writing, Preserving" /></a>
+	<div class="sntitle">Composing, Writing, Preserving</div>
+	
+</div><div class="snelement" title="The Percy Folio">
+	<a href="./romance-the-percy-folio"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/45-1-MS. Additional 27879, p.140.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="The Percy Folio" /></a>
+	<div class="sntitle">The Percy Folio</div>
+	
+</div><div class="snelement here" title="Routes of Romance I">
+	<a href="./romance-routes-of-romance-one"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/57-2-F2 62 Linc, pp.218-219.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Routes of Romance I" /></a>
+	<div class="sntitle">Routes of Romance I</div>
+	
+</div><div class="snelement" title="Routes of Romance II">
+	<a href="./romance-routes-of-romance-two"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/53-1-2 Delta 301, plate pp8-9.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Routes of Romance II" /></a>
+	<div class="sntitle">Routes of Romance II</div>
+	
+</div><div class="snelement" title="Romance and the Modern World">
+	<a href="./romance-romance-and-the-modern-world"><img src="./public_scripts/resizer.php?file=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//images/romance/34-1-Arch-H-e-55-p-18.jpg&amp;width=50&amp;height=50&amp;fittodimensions=crop&amp;croptype=centre&amp;outputdirectory=../domains/shelleysghost.bodleian.ox.ac.uk/local/media//cache" alt="Romance and the Modern World" /></a>
+	<div class="sntitle">Romance and the Modern World</div>
+	
+</div><div class="clearboth"></div></div></div></div> 
+			<div class="clearboth"></div>
+			<div id='toplink'>
+			
+			<div class="social social-general">
+					
+						
+						<div class="twitter">
+							<div class="wrap">
+								<a class="twitter-share-button" data-count="horizontal" data-text="The Romance of the Middle Ages" data-via="bodleianlibs" href="http://twitter.com/share">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+							</div>
+						</div>
+						
+						<div class="follow">
+							<div class="wrap">
+								<a href="https://twitter.com/bodleianlibs" class="twitter-follow-button" data-width="175px" data-show-count="false">Follow @bodleianlibs</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+							</div>
+						</div>
+	
+						<div class="facebook">
+							<div class="wrap">
+								<div id="fb-root">
+								</div>
+								<script src="http://connect.facebook.net/en_US/all.js#appId=253661547991374&xfbml=1"></script>
+								<p><fb:like font="" href="" layout="button_count" send="false" show_faces="false" width="99"></fb:like></p>
+							</div>
+						</div>
+	
+						<div class="printpage">
+							<div class="wrap">
+								<a href="javascript:print()">Print</a>
+							</div>
+						</div>
+					<div class="clearboth"></div>
+					</div>
+			
+			<a class="toppage" href='#top' onclick="$('#top').scrollToViewPort();return false;">Top of page</a>
+			<div class="clearboth"></div>
+			</div>
+			
+			<div class="clearboth"></div>
+		</article><!--contentarea-->
+		<div class="clearboth"></div>
+		
+		</div></div><!--end wrappers-->
+		
+		<footer>
+			
+			<div class="wrapperpad">
+			<div class="graphic"></div><div class="pad"><div class="width">
+			
+			<div class="group group1"><div class="pad">
+				<a class="homelink" href="/#">The Romance of the Middle Ages</a>
+				<address>Exhibition Room<br />Bodleian Library<br />Oxford<br />OX1 3BG</address>
+				<a class="bodlink" href="http://www.bodleian.ox.ac.uk/bodley">Bodleian Library</a>
+				<a class="oxuni" href="http://www.ox.ac.uk/">Oxford University</a>
+				<a class="medium" href="http://mediumaevum.modhist.ox.ac.uk/">Medium Aevum</a>
+				<p class="copyright">&copy; 2012 Bodleian Libraries</p>
+				<p class="admin">
+				
+			</div></div>
+
+			<div class="group group2"><div class="pad">
+				<h4>Quick links</h4>
+				<a href="./?location_id=414">Home</a>	
+				<a href="./?location_id=569"><i>Romance</i> mini-documentary</a>
+				<a href="./?location_id=415">Explore the Objects</a>
+				<a href="./?location_id=417">Exhibition</a>
+				<a href="./?location_id=435">Watch &amp; Listen</a>
+				<a href="./?location_id=421">Learn</a>
+				<a href="http://www.bodleian.ox.ac.uk/about/exhibitions/register">Sign up for event news</a>
+			</div></div>
+
+			<div class="group group3"><div class="pad">
+				<h4>Themes</h4>
+				<a href="./?location_id=442">Origin Stories</a>
+				<a href="./?location_id=443">Romance &amp; the Medieval World</a>
+				<a href="./?location_id=444">Truth, Deceit &amp; Desire</a>
+				<a href="./?location_id=445">Empires of Romance: Arthur</a>
+				<a href="./?location_id=567">Empires of Romance: Alexander</a>
+				<a href="./?location_id=446">The Objects of Romance</a>
+				<a href="./?location_id=447">Cities under Siege</a>
+				<a href="./?location_id=448">Strange Encounters</a>
+				<a href="./?location_id=449">The Fortunes of Sir Gawain</a>	
+				<a href="./?location_id=450">Composing, Writing, Preserving</a>					
+				<a href="./?location_id=451">The Percy Folio</a>			
+				<a href="./?location_id=452">Routes of Romance I</a>
+				<a href="./romance-routes-of-romance-two">Routes of Romance II</a>
+				<a href="./?location_id=453">Romance &amp; the Modern World</a>
+				
+
+						<!-- <a href="/romance-contact">Media enquiries</a> -->
+				
+			</div></div>
+			
+			<div class="group group4"><div class="pad">
+				<h4>Information</h4>
+				<a href="./?location_id=441">About the Bodleian Libraries</a>
+				<a href="./?location_id=588">About the exhibition curator</a>
+				<a href="./romance-acknowledgements">Acknowledgements</a>
+				<a href="./?location_id=457">Website accessibility</a>
+				<a href="./?location_id=427">Legal notices</a>
+				<a href="./?location_id=425">Image use</a>
+				<a href="./?location_id=423">Contact us</a>
+				<a href="./?location_id=458">Site map</a>
+				
+			</div></div>
+					
+			
+			<div class="clear"></div>
+			</div></div></div>
+		</footer>
+	
+
+<script type="text/javascript" src="/domains/shelleysghost.bodleian.ox.ac.uk/local/templates/enhancements-romance.js" ></script>
+	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16864247-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+
+
+</html>

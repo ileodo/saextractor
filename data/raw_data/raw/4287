@@ -1,0 +1,241 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+
+	<meta name="description" content="
+		
+	Engage - Digital technologies for public engagement, knowledge exchange and impact	" />
+
+	<title>
+	The role of IT in public engagement | Engage	</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://blogs.it.ox.ac.uk/engage/wp-content/themes/oucs-team/style.css" />
+		<link rel="pingback" href="http://blogs.it.ox.ac.uk/engage/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Engage &raquo; Feed" href="http://blogs.it.ox.ac.uk/engage/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Engage &raquo; Comments Feed" href="http://blogs.it.ox.ac.uk/engage/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Engage &raquo; The role of IT in public engagement Comments Feed" href="http://blogs.it.ox.ac.uk/engage/the-guide/the-role-of-it/feed/" />
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/engage/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/engage/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/engage/wp-content/plugins/simple-google-analytics/js/sga.js?ver=3.6.1'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/engage/wp-includes/js/comment-reply.min.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.it.ox.ac.uk/engage/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.it.ox.ac.uk/engage/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='The Guide' href='http://blogs.it.ox.ac.uk/engage/the-guide/' />
+<link rel='next' title='Making the most of IT in public engagement' href='http://blogs.it.ox.ac.uk/engage/the-guide/how-to-do-it/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://blogs.it.ox.ac.uk/engage/the-guide/the-role-of-it/' />
+
+		<style type="text/css" media="screen">
+			#catapult-cookie-bar {
+				display: none;
+				direction: ltr;
+				color: #ddd;
+				min-height: 30px;
+				position: fixed;
+				left: 0;
+				top: 0;
+				width: 100%;
+				z-index: 99999;
+				padding:6px 20px 4px;
+				background-color: #464646;
+				text-align:left;
+			}
+			#catapult-cookie-bar a {
+				color: #fff;;
+			}
+			button#catapultCookie {
+				margin:0 20px;
+				line-height:20px;
+				background:#45AE52;
+				border:none;
+				color: #fff;;
+				padding:4px 12px;
+				border-radius: 3px;
+				cursor: pointer;
+				font-size: 13px;
+				font-weight: bold;
+			}
+		</style>
+<!-- Simple Google Analytics Begin -->
+<script type="text/javascript">
+var _gaq = [['_setAccount','UA-44296857-1'],['_trackPageview']];(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- Simple Google Analytics End -->
+<meta id="syntaxhighlighteranchor" name="syntaxhighlighter-version" content="3.1.3" />
+	
+	
+</head>
+
+<body class="page page-id-49 page-child parent-pageid-31 page-template-default">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<h1 id="site-title">
+					<span>
+						<a href="http://blogs.it.ox.ac.uk/engage/" title="Engage" rel="home">Engage</a>
+					</span>
+				</h1>				
+				<div id="site-description">Digital technologies for public engagement, knowledge exchange and impact</div>
+
+										<!-- <img src="http://blogs.it.ox.ac.uk/engage/wp-content/themes/oucs-team/images/headers/path.jpg" width="940" height="198" alt="" /> -->
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu"><ul><li ><a href="http://blogs.it.ox.ac.uk/engage/" title="Home">Home</a></li><li class="page_item page-item-762"><a href="http://blogs.it.ox.ac.uk/engage/live-streaming/">Live Streaming</a></li><li class="page_item page-item-31 current_page_ancestor current_page_parent"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/">The Guide</a><ul class='children'><li class="page_item page-item-183"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/what-is-impact/">What is impact?</a></li><li class="page_item page-item-47"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/what-is-public-engagement/">What is public engagement?</a></li><li class="page_item page-item-49 current_page_item"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/the-role-of-it/">The role of IT in public engagement</a></li><li class="page_item page-item-56"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/how-to-do-it/">Making the most of IT in public engagement</a><ul class='children'><li class="page_item page-item-456"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/how-to-do-it/informing/">Informing</a></li><li class="page_item page-item-458"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/how-to-do-it/consulting/">Consulting</a></li><li class="page_item page-item-460"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/how-to-do-it/collaborating/">Collaborating</a></li></ul></li><li class="page_item page-item-80"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/further-resources/">Further Resources</a></li></ul></li><li class="page_item page-item-17"><a href="http://blogs.it.ox.ac.uk/engage/news/">News and Events</a></li><li class="page_item page-item-13"><a href="http://blogs.it.ox.ac.uk/engage/social-media-michaelmas/">Social Media Michaelmas</a><ul class='children'><li class="page_item page-item-62"><a href="http://blogs.it.ox.ac.uk/engage/social-media-michaelmas/programme-2014/">Engage: Social Media Michaelmas &#8211; Programme 2014</a></li><li class="page_item page-item-70"><a href="http://blogs.it.ox.ac.uk/engage/social-media-michaelmas/23-things-for-research/">23 Things for Research</a></li><li class="page_item page-item-59"><a href="http://blogs.it.ox.ac.uk/engage/social-media-michaelmas/schedule-2013/">Social Media Podcasts</a></li><li class="page_item page-item-66"><a href="http://blogs.it.ox.ac.uk/engage/social-media-michaelmas/awards/">Awards</a></li></ul></li><li class="page_item page-item-6"><a href="http://blogs.it.ox.ac.uk/engage/case-studies/">Case Studies</a></li><li class="page_item page-item-108"><a href="http://blogs.it.ox.ac.uk/engage/how-we-can-help/">How We Can Help</a></li></ul></div>
+				
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+
+
+			<div id="post-49" class="post-49 page type-page status-publish hentry">
+			<h2 class="entry-title"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/the-role-of-it/" title="Permalink to The role of IT in public engagement" rel="bookmark">The role of IT in public engagement</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogs.it.ox.ac.uk/engage/the-guide/the-role-of-it/" title="9:34 pm" rel="bookmark"><span class="entry-date">July 17, 2013</span></a> <span class="meta-sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.it.ox.ac.uk/engage/author/klindsay/" title="View all posts by Katharine Lindsay">Katharine Lindsay</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p><a href="http://blogs.it.ox.ac.uk/engage/files/2013/07/scrabble.jpg"><img class="wp-image-105 alignright" alt="" src="http://blogs.it.ox.ac.uk/engage/files/2013/07/scrabble.jpg" width="280" height="280" /></a>Public lectures, conferences, printed publications, and interviews in the broadcast have been staple channels for communicating one&#8217;s research to the public for a very long time. Of course, in recent years they have been increasingly supported by information technologies (IT) such as word processing and presentation software. Even so, they have retained fundamental limitations. A public lecture or conference may be attended by a few hundred people at most, while printed publications may take years to produce and be too expensive for members of the public to purchase. Until recently a broadcast might be heard once or twice before disappearing into the archives or being recorded over.</p>
+<p>However, information technologies in the form of <strong>social media</strong> increasingly provide researchers with exciting opportunities to engage with a greater variety of stakeholders and communities, at greater geographical reach, at lower cost, and for a longer period. For example:</p>
+<ul>
+<li>a well-designed website or blog presents a single point of publication that can easily be updated by its author and read by anyone for free;</li>
+<li>a public lecture recorded and made available as a podcast for free can reach an additional audience numbering in the thousands &#8211; or even millions;</li>
+<li>greatly increased server capacity makes it possible to keep recordings almost indefinitely, so that they can be viewed (or listened to) over the course of many years.</li>
+</ul>
+<p>However, engagement is not merely about communicating one&#8217;s research findings to the public; it can also involve interacting with the public in the course of that research.  Technologies such as blogs and Twitter make it much easier to consult with communities and users of research, and to conduct those conversations with much wider audiences. Crowdsourcing technologies make it possible to gather research data from participants all over the world.</p>
+<p>The creative use of social media for public engagement by researchers is starting to be documented in the <a title="RCUK website: case studies in pathways to impact" href="http://www.rcuk.ac.uk/media/brief/impactcase/" target="_blank">case studies in pathways to impact</a> published by the RCUK. Therefore, if a proposal is to make a persuasive case in its pathway to impact, the part played by IT really <span style="text-decoration: underline">can</span> matter.  In the <a title="How to do IT page of this website" href="http://blogs.it.ox.ac.uk/engage/the-guide/how-to-do-it/">How to do IT in public engagement</a> pages of this website, we provide information, tips, and links to help you in formulating a public engagement strategy that optimises your use of digital technologies in general, and of social media in particular.</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">
+					Posted in </span> 					
+				</span>
+				<span class="meta-sep">|</span>
+								<span class="comments-link"><a href="http://blogs.it.ox.ac.uk/engage/the-guide/the-role-of-it/#respond" title="Comment on The role of IT in public engagement">Leave a comment</a></span>
+							</div><!-- #entry-utility -->
+		</div><!-- #post-49 -->
+
+		
+<!-- You can start editing here. -->
+
+
+			<!-- If comments are open, but there are no comments. -->
+
+	 
+
+
+<div id="respond">
+
+<h3>Leave a Reply</h3>
+
+<div id="cancel-comment-reply"> 
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/engage/the-guide/the-role-of-it/#respond" style="display:none;">Click here to cancel reply.</a></small>
+</div> 
+
+
+<form action="http://blogs.it.ox.ac.uk/engage/wp-comments-post.php" method="post" id="commentform">
+
+
+<p>
+<label for="author"><small>Name (required)</small></label><br/>
+<input type="text" name="author" id="author" value="" size="22" tabindex="1" aria-required='true' />
+</p>
+
+<p>
+<label for="email"><small>Mail (will not be published) (required)</small></label><br/>
+<input type="text" name="email" id="email" value="" size="22" tabindex="2" aria-required='true' />
+</p>
+
+<p>
+<label for="url"><small>Website</small></label><br/>
+<input type="text" name="url" id="url" value="" size="22" tabindex="3" />
+</p>
+
+
+<!--<p><small><strong>XHTML:</strong> You can use these tags: <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></small></p>-->
+
+<p><textarea name="comment" id="comment" cols="58" rows="10" tabindex="4"></textarea></p>
+
+
+<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment" />
+<input type='hidden' name='comment_post_ID' value='49' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+ 
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="3f360fe3e3" /></p>
+</form>
+
+</div>
+
+
+	
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" action="http://blogs.it.ox.ac.uk/engage">
+    <div><label class="screen-reader-text" for="s">Search for:</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Search" />
+    </div>
+</form></li><li id="rss-2" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://blogs.it.ox.ac.uk/ltg-casestudies/tag/engage/feed/' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/engage/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://blogs.it.ox.ac.uk/ltg-casestudies' title='Innovative teaching, learning, research and outreach from across the University of Oxford'>Latest Oxford Public Engagement Case Studies</a></h3><ul><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/ltg-casestudies/2014/06/16/crowdfunding-then-and-now-saving-shakespeares-first-folio-for-the-nation-and-sharing-it-with-the-world/' title='Two public fund-raising campaigns around the Bodleian Library’s copy of the First Folio of Shakespeare’s plays, separated by a century, provide more than an intriguing historical parallel. They show how digital technologies have made it possible for people all over … Continue reading →'>Crowdfunding then and now: saving Shakespeare’s First Folio ‘for the nation’ and sharing it with the world</a></li><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/ltg-casestudies/2013/09/13/a-digital-dodo-building-a-social-media-presence-for-the-museum-of-natural-history/' title='Introduction The University’s Museum of Natural History houses entomological, geological, and zoological collections that are of major significance to research. They also provide the basis for a lively programme of public engagement, education, and outreach activities. The Museum has recently joined the … Continue reading →'>A Digital Dodo? Building a Social Media Presence for the Museum of Natural History</a></li><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/ltg-casestudies/2013/03/07/blogging-the-truth-about-research/' title='Introduction Listen to Peter Gill’s talk for “Engage: Social Media Michaelmas” on the University of Oxford podcasts website. Peter Gill, DPhil candidate at the Centre for Evidence-based Medical Research at the Department of Primary Care, is a regular contributor to the blog … Continue reading →'>Blogging the Truth about Research</a></li><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/ltg-casestudies/2012/12/12/rethinking-impact-social-media/' title='Introduction Listen to Nando Sigona’s recent talk for “Engage: Social Media Michaelmas” on the University of Oxford podcasts website. Researcher Nando Sigona is based at the Oxford University Refugee Studies Centre. He started his blog “Postcards from…” in 2008. Since then his use of social media has expanded … Continue reading →'>Rethinking Impact: Social Media</a></li><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/ltg-casestudies/2012/12/09/digital-story-telling-the-arras95-live-tweeting-project/' title='Introduction World War I Centenary: Continuations and Beginnings is a project creating a suite of learning and teaching resources that provide an international, cross-disciplinary reappraisal of this historic event. It  brings digital content together to be presented as OERs. The idea behind … Continue reading →'>Digital story-telling: the @Arras95 live-tweeting project</a></li></ul></li><li id="rss-5" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://gdata.youtube.com/feeds/api/playlists/PLsRaSjArZMOKv95__B7X6ZX5EsAWk63qk?orderby=position' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/engage/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='' title=''>Oxford Public Engagement on YouTube</a></h3></li><li id="meta-2" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="https://blogs.it.ox.ac.uk/engage/wp-login.php?action=shibboleth">Log in</a></li>
+			<li><a href="http://blogs.it.ox.ac.uk/engage/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogs.it.ox.ac.uk/engage/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>						</ul>
+</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+			<p>
+				<a href="http://blogs.it.ox.ac.uk/engage/" title="Engage" rel="home">
+					Engage				</a></p>
+			</div>
+
+			<div id="site-generator">powered by <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">WordPress</a><br/>
+      <a href="http://blogs.oucs.ox.ac.uk/">IT Services Blogs</a> hosted by <a href="http://www.it.ox.ac.uk/" title="University of Oxford IT Services">University of Oxford IT Services</a>
+			</div>
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!catapultReadCookie("catAccCookies")){//If the cookie has not been set
+				jQuery("#catapult-cookie-bar").show();
+							}
+		});
+	</script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/engage/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js?ver=1.8'></script>
+<div id="catapult-cookie-bar">This site uses cookies<button id="catapultCookie" tabindex=1 onclick="catapultAcceptCookies();">Okay, thanks</button><a tabindex=1 href="http://blogs.it.ox.ac.uk/engage/cookie-policy">Find out more</a></div>
+</body>
+</html>

@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Career seminars past speakers - Weatherall Institute of Molecular Medicine</title>
+			<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/general.css" type="text/css" />
+	<link rel="stylesheet" media="print" href="/_static/website/stylesheets/print.css" type="text/css" />
+	<script id="jquery" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery.lightbox-0.5.css" type="text/css" /><link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery-ui-1.10.4.custom.min.css" type="text/css" />	<script src="/_static/website/javascripts/jquery.lightbox-0.5.min.js" type="text/javascript"></script><script src="/_static/website/javascripts/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>		<link rel="shortcut icon" href="/_static/website/images/icons/rdm_favicon.ico" type="image/x-icon" />
+	<script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<body class="rdm">
+	<div id="header-wrapper">
+		<div id="header">
+			<div class="group">
+			<a href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-box" src="/_static/website/images/ox-rectangle-border.gif" alt="Oxford University logo" /></a>
+			<a href="http://www.rdm.ox.ac.uk/" title="Link to Radcliffe Department of Medicine" target="_blank"><img id="rdm-logo-sub" src="/_static/website/images/RDMLogo8x3.png" alt="RDM logo" /></a>
+			<h1 class="imm"><a href="/" title="Link to Weatherall Institute of Molecular Medicine homepage"><img id="logo-imm" src="/_static/website/images/wimmlogo_stroke2-small.png" alt="Weatherall Institute of Molecular Medicine logo" /></a></h1>
+			</div>
+			<ul id="primary-menu">
+							<li><span><a  href="/home" title="Home">Home</a></span></li>
+							<li><span><a  href="/research-2" title="Research">Research</a></span></li>
+							<li><span><a  href="/study-2" title="Study">Study</a></span></li>
+							<li><span><a  href="/vacancies" title="Vacancies">Vacancies</a></span></li>
+							<li><span><a  href="/seminars-2" title="Seminars">Seminars</a></span></li>
+							<li><span><a  href="/facilities" title="Facilities">Facilities</a></span></li>
+							<li><span><a  href="/about-4" title="About">About</a></span></li>
+							<li><span><a  href="/contact-us" title="Contact Us">Contact Us</a></span></li>
+							<li><span><a  href="/engage" title="Engage">Engage</a></span></li>
+							<li class="current"><span><a  href="/internal" title="Internal">Internal</a></span></li>
+						</ul>
+			<!-- <form class="search-ndcls" action="/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onFocus="if(this.value == 'Search...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form> -->
+			<form style="float:right" class="search" id="cse-search-box" action="/_search">
+			<input type="hidden" name="cx" value="013190107294343682755:wltna0nxw3g" />
+			<input type="hidden" name="ie" value="UTF-8" />
+			<input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+			
+			<input type="hidden" name="nojs" value="1" />
+		</form>	
+			
+		</div>
+	</div>
+	<div id="content-wrapper">
+									<ul id="secondary-menu" class="group">
+							<li><a target=_blank class="secondary-menu-link" href="/phonebook" title="Phonebook">Phonebook</a></li>
+							<li><a target=_blank class="secondary-menu-link" href="/wimm-stores" title="WIMM Stores">WIMM Stores</a></li>
+							<li><a target=_blank class="secondary-menu-link" href="/nexus-webmail" title="NEXUS Webmail">NEXUS Webmail</a></li>
+							<li><a target=_blank class="secondary-menu-link" href="/squirrel-mail" title="Squirrel Mail">Squirrel Mail</a></li>
+							<li><a target=_blank class="secondary-menu-link" href="/agendo" title="Agendo">Agendo</a></li>
+							<li class="current"><a  class="secondary-menu-link" href="/portal" title="Portal">Portal</a></li>
+							<li><a  class="secondary-menu-link" href="/wimm-day-2015" title="WIMM Day 2015">WIMM Day 2015</a></li>
+							</ul>	
+				<script type="text/javascript">
+$( document ).ready(function() {
+	$("a.research_group_link").each(function(index) {
+		if ($("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").length > 0) {
+			$("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").append(this);
+		}
+		else {
+			$(this).hide();
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+$(function() {
+	$('a.lightbox').lightBox({
+		overlayOpacity: 0.6,
+		imageLoading: '/_static/website/images/lightbox/lightbox-ico-loading.gif',
+		imageBtnClose: '/_static/website/images/lightbox/lightbox-btn-close.gif',
+		imageBtnPrev: '/_static/website/images/lightbox/lightbox-btn-prev.gif',
+		imageBtnNext: '/_static/website/images/lightbox/lightbox-btn-next.gif',
+		imageBlank: '/_static/website/images/lightbox/lightbox-blank.gif'
+	});
+});
+</script>
+<div id="content">
+	<h1>Science career seminars - past speakers</h1>
+<table border="0" cellpadding="5">
+<tbody>
+<tr>
+<td>
+<h3><strong>Date</strong></h3>
+</td>
+<td>
+<h3><strong>Title</strong></h3>
+</td>
+<td>
+<h3><strong>Speaker</strong></h3>
+</td>
+<td>
+<h3><strong>Affiliation</strong></h3>
+</td>
+</tr>
+<tr>
+<td>
+<p>20/02/2015</p>
+</td>
+<td>
+<p>What about teaching?</p>
+</td>
+<td>
+<p>Dr. Marco Pontecorvi</p>
+</td>
+<td>
+<p>Wheatley Park School</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>06/02/2015</p>
+</td>
+<td>
+<p>From Science to Business: an unplanned journey</p>
+</td>
+<td>
+<p>Mr. J&ouml;rg Debatin</p>
+</td>
+<td>
+<p>GE Healthcare</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>05/12/2014</p>
+</td>
+<td>
+<p>The first step is the next step&nbsp;<span lang="EN-US">&ndash;</span> from science to pharma... and beyond?</p>
+</td>
+<td>
+<p>Mrs. Heather Moses</p>
+</td>
+<td>
+<p>Roche</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12/11/2014</p>
+</td>
+<td>
+<p><a title="PI career - Jan Rehwinkel" href="/_asset/file/pi-career-jan-rehwinkel.pdf" target="_self">Transitions in a basic scientist&rsquo;s career: student to postdoc &amp; postdoc to PI</a></p>
+</td>
+<td>
+<p>Dr. Jan Rehwinkel</p>
+</td>
+<td>
+<p>WIMM, University of Oxford</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24/10/2014</p>
+</td>
+<td>
+<p>How a science degree can take you into podcasting, live shows and the BBC</p>
+</td>
+<td>
+<p><span lang="EN-US">Mr. Greg Foot</span></p>
+</td>
+<td>
+<p>Independent/Freelance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span lang="EN-US">06/06/2014</span></p>
+</td>
+<td>
+<p><span lang="EN-US">Developing your professional network</span></p>
+</td>
+<td>
+<p><span lang="EN-US">Dr. Claire Conway</span></p>
+</td>
+<td>
+<p><span lang="EN-US">The Careers Service, University of Oxford</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span lang="EN-US">30/05/2014</span></p>
+</td>
+<td>
+<p>Life sciences and finance: lost in translation?</p>
+</td>
+<td>
+<p><span lang="EN-US">Dr. Peter Dudek </span></p>
+</td>
+<td>
+<p><span lang="EN-US">Entrepreneurs Fund</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><span lang="EN-US">16/05/2014</span></p>
+</td>
+<td>
+<p>How to explore alternative career paths</p>
+</td>
+<td>
+<p><span lang="EN-US">Dr. Claire Conway</span></p>
+</td>
+<td>
+<p><span lang="EN-US">The Careers Service, University of Oxford</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11/04/2014</p>
+</td>
+<td>
+<p><span lang="EN-US">From Bench to Boardroom &ndash; moving from academia to strategy consulting</span></p>
+</td>
+<td>
+<p><span lang="EN-US">Dr. John Baker </span></p>
+</td>
+<td>
+<p><span lang="EN-US">Bain &amp; Company, Inc.</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>21/02/2014</p>
+</td>
+<td>
+<p>Leaving academia for industry &ndash; is it really turning to the dark side?</p>
+</td>
+<td>
+<p><span lang="EN-US">Dr. Nessa Carey </span></p>
+</td>
+<td>
+<p><span lang="EN-US">Pfizer</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17/01/2014</p>
+</td>
+<td>
+<p><span>Working in science funding</span></p>
+</td>
+<td>
+<p><span>Dr. Gary Wilson </span></p>
+</td>
+<td>
+<p><span><span>Gatsby Charitable Foundation</span></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>22/11/2013</p>
+</td>
+<td>
+<p><span>Taking the leap &ndash; a scientific career outside of academia</span></p>
+</td>
+<td>
+<p>Dr. Julia Bardos</p>
+</td>
+<td>
+<p>Costello Medical Consulting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>04/10/2013</p>
+</td>
+<td>
+<p>From lab to laptop: Careers in scientific publishing</p>
+</td>
+<td>
+<p>Dr. Mary Muers</p>
+</td>
+<td>
+<p>Nature Publishing Group</p>
+</td>
+</tr>
+</tbody>
+</table></div>
+<div id="side-bar">
+	<div class="side-box">
+		<h3>Portal</h3>
+		<ul>
+						<li><a  href="/meeting-room-booking" title="Meeting Room Booking">Meeting Room Booking</a>			</li>
+						<li><a  href="/wimm-health-and-safety" title="WIMM Health and Safety">WIMM Health and Safety</a>			</li>
+						<li><a  href="/it-in-the-wimm" title="IT in the WIMM">IT in the WIMM</a>			</li>
+						<li>Facility Resource Pages				<ul>
+										<li><a  href="/genomics-facilities-in-the-wimm" title="Genomics Facilities in the WIMM">Genomics Facilities in the WIMM</a></li>
+										<li><a  href="/flow-cytometry-resources-page" title="Flow Cytometry Resources Page">Flow Cytometry Resources Page</a></li>
+										<li><a  href="/imaging-resources-page" title="Imaging Resources Page">Imaging Resources Page</a></li>
+										<li><a  href="/sequencing-resources-page" title="Sequencing Resources Page">Sequencing Resources Page</a></li>
+										<li><a  href="/technique-resources-2" title="Technique Resources">Technique Resources</a></li>
+									</ul>
+				 			</li>
+						<li class="current">Associations				<ul>
+										<li class="current"><a  href="/wimm-post-doc-association" title="WIMM Post-Doc Association">WIMM Post-Doc Association</a></li>
+									</ul>
+				 			</li>
+						<li>Useful WIMM Files				<ul>
+										<li><a  href="/wimm-branding-templates" title="WIMM Branding Templates">WIMM Branding Templates</a></li>
+										<li><a  href="/website-imagebank" title="Website imagebank">Website imagebank</a></li>
+										<li><a  href="/public-engagement-record-form" title="Public Engagement Record Form">Public Engagement Record Form</a></li>
+										<li><a  href="/photography-consent-form" title="Photography Consent Form">Photography Consent Form</a></li>
+									</ul>
+				 			</li>
+					</ul>
+	</div>
+</div>
+		<div id="footer">
+			<p>
+				© 2015  The Weatherall Institute of Molecular Medicine, University of Oxford, John Radcliffe Hospital, Oxford, OX3 9DS 
+			</p>
+			
+			<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/_static/website/images/newt-favicon.gif" alt="newt" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/_static/website/images/pinfox-favicon.gif" alt="pinfox" /> Pinfox</a></p>
+			<p>
+				<a href="/">Home</a>
+				| <a href="/_sitemap">Site Map</a>
+				| <a href="/contact-us">Contact</a>
+								| <a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a>
+				| <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> 
+				| <a href="http://www.ox.ac.uk/copyright.html" target="_blank">Copyright</a>
+				| <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a>
+				| <a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a>
+				| <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a>
+				 | <a href="/_admin/view/3766">Edit</a>			</p>
+		</div>
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45836188-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script></body>
+</html>

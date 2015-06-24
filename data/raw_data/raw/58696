@@ -1,0 +1,231 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!-- Change lang="en" to the language of your site -->
+
+<head>
+
+<title>HTSC - Contact</title>
+<!-- The sitename is changed in Site Admin/Global settings. Contact is the name of each page -->
+
+
+<base href="http://htsc.materials.ox.ac.uk/" />
+
+<!-- Don't remove this! Metadata is entered in Site Admin/Global settings. -->
+
+<link rel="stylesheet" type="text/css" href="http://htsc.materials.ox.ac.uk/tmp/cache/stylesheet_combined_63680d2f98973dd7c4dcdb58a602aa29.css" media="print" />
+<link rel="stylesheet" type="text/css" href="http://htsc.materials.ox.ac.uk/tmp/cache/stylesheet_combined_5549149ab9676a93bf479298f8ce8cd1.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://htsc.materials.ox.ac.uk/tmp/cache/stylesheet_combined_63680d2f98973dd7c4dcdb58a602aa29.css" media="handheld" />
+<link rel="stylesheet" type="text/css" href="http://htsc.materials.ox.ac.uk/tmp/cache/stylesheet_combined_f4b8df74682a72a090ce4bee26f5925f.css" />
+
+<!-- This is how all the stylesheets attached to this template are linked to -->
+
+<link rel="start" title="Home Page, shortcut key=1" href="http://htsc.materials.ox.ac.uk/" />
+<link rel="prev" title="Available Projects" href="http://htsc.materials.ox.ac.uk/htschome/available-projects.html" />
+<link rel="next" title="Links" href="http://htsc.materials.ox.ac.uk/htschome/links.html" />
+<!-- Relational links for interconnections between pages, good for accessibility and Search Engine Optmization -->
+
+<!-- jquery needed for imagecaptions tag -->
+<script type="text/JavaScript" src="/uploads/file/jquery.js"></script>
+<script type="text/javascript">
+<!--
+	$(window).load(function(){
+		$("img.rightcaption").each(function(i) { 
+			var imgwidth = $(this).width(); 
+			var thetext = $(this).attr("alt"); 
+			$(this).wrap("<div class='captionborderright'><\/div>");	
+			$(this).parent().width(imgwidth);     
+				if ((thetext != null)&&(thetext != "")) 
+				{$(this).parent().append("<p class='captiontext'>" + thetext + "<\/p>");}	 
+			}); 
+			$("img.leftcaption").each(function(i) { 
+				var imgwidth = $(this).width(); 
+				var thetext = $(this).attr("alt"); 
+				$(this).wrap("<div class='captionborderleft'><\/div>");	 
+				$(this).parent().width(imgwidth);  
+				if ((thetext != null)&&(thetext != "")) 
+				{$(this).parent().append("<p class='captiontext'>" + thetext + "<\/p>");}	 
+		});  
+			$("img.caption").each(function(i) { 
+				var imgwidth = $(this).width(); 
+				var thetext = $(this).attr("alt"); 
+				$(this).wrap("<div class='captionborder'><\/div>");	 
+				$(this).parent().width(imgwidth);  
+				if ((thetext != null)&&(thetext != "")) 
+				{$(this).parent().append("<p class='captiontext'>" + thetext + "<\/p>");}	 
+		});  
+	});
+//-->
+</script>
+
+
+
+<script type="text/JavaScript">
+<!--
+//pass min and max -measured against window width
+function P7_MinMaxW(a,b){
+	var nw="auto",w=document.documentElement.clientWidth;
+	if(w>=b){nw=b+"px";}if(w<=a){nw=a+"px";}return nw;
+}
+//-->
+</script>
+<!--[if lte IE 6]>
+<style type="text/css">
+#pagewrapper {width:expression(P7_MinMaxW(720,950));}
+#container {height: 1%;}
+</style>
+<![endif]-->
+
+<!-- The min and max page width for Internet Explorer is set here. For other browsers it's in the stylesheet "Layout: Left sidebar + 1 column" -->
+
+
+</head>
+<body>
+
+<div id="pagewrapper">
+
+    <!-- start accessibility skip links -->
+    <ul class="accessibility">
+      <li><a href="http://htsc.materials.ox.ac.uk/htschome/contact.html#menu_vert" title="Skip to navigation" accesskey="n">Skip to navigation</a></li>
+      <li><a href="http://htsc.materials.ox.ac.uk/htschome/contact.html#main" title="Skip to content" accesskey="s">Skip to content</a></li>
+    </ul>
+    <!-- end accessibility skip links -->
+
+
+    <hr class="accessibility" />
+    <!-- Horizontal ruler that is hidden for visual browsers by CSS -->
+
+
+   <!-- Start Header, with logo image that links to the default start page. Logo image is changed in the stylesheet  "For template: Left menu + 1 column" -->
+   <div id="header">
+           <h1><a href="http://htsc.materials.ox.ac.uk/" title="Home Page, shortcut key=1" >HTSC</a></h1>
+   <hr class="accessibility" />
+   </div>
+   <!-- End Header -->
+
+
+   <!-- Start Search-->
+   <div id="search">
+          <form id="cntnt01moduleform_1" method="get" action="http://htsc.materials.ox.ac.uk/htschome/contact.html" class="cms_form">
+<div class="hidden">
+<input type="hidden" name="mact" value="Search,cntnt01,dosearch,0" />
+<input type="hidden" name="cntnt01returnid" value="97" />
+</div>
+
+
+    <label for="cntnt01searchinput">Enter Search...</label>:&nbsp;<input type="text" class="search-input" id="cntnt01searchinput" name="cntnt01searchinput" size="10" maxlength="50" onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;"/><input name="submit" value="Submit" type="submit" />
+
+</form>
+
+   </div>
+   <!-- End Search -->
+
+
+   <!-- Start Breadcrumbs -->
+   <div class="breadcrumbs">
+        You are here: <a href="http://htsc.materials.ox.ac.uk/">Home</a> &raquo; <span class="lastitem">Contact</span>
+   <hr class="accessibility" />
+   </div>
+   <!-- End Breadcrumbs -->
+
+
+   <!-- Start Content (Navigation and Content columns) -->
+   <div id="content">
+
+      <!-- Start Sidebar -->
+      <div id="sidebar">
+
+      <!-- Start Navigation -->
+      <div id="menu_vert">
+         <h2 class="accessibility">Navigation</h2>
+          
+
+
+<ul>
+
+                    <li class="menuactive menuparent parent"><a class="menuactive menuparent parent" href="http://htsc.materials.ox.ac.uk/"><span>Home</span></a>
+
+
+<ul>
+
+<li class="parent"><a class="parent" href="http://htsc.materials.ox.ac.uk/htschome/people.html"><span>People</span></a>
+
+
+</li>
+
+<li><a href="http://htsc.materials.ox.ac.uk/htschome/research.html"><span>Research</span></a>
+
+
+</li>
+
+<li><a href="http://htsc.materials.ox.ac.uk/htschome/publications.html"><span>Publications</span></a>
+
+
+</li>
+
+<li><a href="http://htsc.materials.ox.ac.uk/htschome/available-projects.html"><span>Available Projects</span></a>
+
+
+</li>
+
+        <li class="menuactive"><a class="menuactive" href="http://htsc.materials.ox.ac.uk/htschome/contact.html"><span>Contact</span></a>
+
+
+</li>
+
+<li><a href="http://htsc.materials.ox.ac.uk/htschome/links.html"><span>Links</span></a>
+
+
+</li></ul></li>
+</ul>
+
+      </div>
+      <!-- End Navigation -->
+      
+       
+
+      </div>
+      <!-- End Sidebar -->
+
+
+      <!-- Start Content Area -->
+      <div id="main">
+         <div style="float: right;"> <a href="http://htsc.materials.ox.ac.uk/index.php?mact=CMSPrinting,cntnt01,output,0&amp;cntnt01url=aHR0cDovL2h0c2MubWF0ZXJpYWxzLm94LmFjLnVrL2h0c2Nob21lL2NvbnRhY3QuaHRtbD9zaG93dGVtcGxhdGU9ZmFsc2U%3D&amp;cntnt01pageid=97&amp;cntnt01returnid=97" class="noprint"   rel="nofollow">  <img src="modules/CMSPrinting/printbutton.gif" title="" alt=""  />
+</a>
+</div>
+         <h2>Contact</h2>
+         <h3></h3><div><a href="http://www.materials.ox.ac.uk/peoplepages/grovenor.html" target="_blank">Professor Chris Grovenor</a></div><div>Head  of Department, Fellow of St Anne's College</div><div>Email: <a href="mailto:chris.grovenor@materials.ox.ac.uk">chris.grovenor@materials.ox.ac.uk</a></div><p>Tel: +44 1865 273737</p><div><a href="http://www.materials.ox.ac.uk/peoplepages/speller.html" target="_blank">Dr Susannah Speller</a></div><div>Royal Academy of Engineering/EPSRC Research Fellow</div><div>Email: <a href="mailto:susannah.speller@materials.ox.ac.uk">susannah.speller@materials.ox.ac.uk</a></div><p>Tel: +44 1865 273734</p> <br />
+
+         <!-- Start relational links -->
+	 <div class="hr"></div>
+	 <div class="right49">
+	 	<p><a href="http://htsc.materials.ox.ac.uk/htschome/contact.html#main">^ Top</a></p>
+	 </div>
+         <div class="left49">
+            <p>Previous page:  <a href="http://htsc.materials.ox.ac.uk/htschome/available-projects.html" title="Available Projects" >Available Projects</a> <br />
+            Next page: <a href="http://htsc.materials.ox.ac.uk/htschome/links.html" title="Links" >Links</a></p>
+         </div>
+         <!-- The label parameter doesn't need to be there if you're using English, but is here to show how it's used if you don't want the English text "Previous page" -->
+	 <!-- End relational links -->
+
+      <hr class="accessibility" />
+      </div>
+	  <!-- End Content Area -->
+
+
+   </div>
+   <!-- End Content -->
+
+
+   <!-- Start Footer. Edit the footer in the Global Content Block called "footer" -->
+   <div id="footer">
+      <p>&copy; Copyright&nbsp;Oxford Superconducting Materials Group<br />
+This site is powered by <a href="http://www.cmsmadesimple.org">CMS Made Simple</a> version 1.12</p>
+   </div>   
+   <!-- End Footer  -->
+
+
+</div><!-- end pagewrapper -->
+</body>
+</html>

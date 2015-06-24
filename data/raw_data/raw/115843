@@ -1,0 +1,639 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	Undergraduate Fees - Jesus College
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/ui-lightness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=styleshout-jcgreenisland2&amp;s=1&amp;v=2.3.9.5&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Jesus College Site Search" href="http://home.jesus.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	
+<link rel='shortcut icon' href='/Data/Sites/1/skins/styleshout-jcgreenisland2/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://home.jesus.ox.ac.uk/undergraduate-fees.aspx' /></head>
+<a href='/' title='Jesus College' class=''><img class='sitelogo' alt='Jesus College' src='/Data/Sites/1/logos/JC_main_logo_smaller5b.jpg' /></a>
+<body id="ctl00_Body" class="pagebody">
+
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="34" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIFD2QWAgIDD2QWDAIPDw8WBB4IQ3NzQ2xhc3MFOWFydC1sYXlvdXQtY2VsbCBhcnQtc2lkZWJhcjEgbGVmdHNpZGUgbGVmdDJjb2x1bW4gY21zem9uZR4EXyFTQgICZBYCAgEPZBYCAgIPZBYCZhA8KwAJAgAPFggeC18hRGF0YUJvdW5kZx4NTmV2ZXJFeHBhbmRlZGQeDERhdGFTb3VyY2VJRAURUGFnZU1hcERhdGFTb3VyY2UeDVBhdGhTZXBhcmF0b3IEfGQIFCsAAgULMDowLDA6MSwxOjEUKwACFg4eBFRleHQFEFN0dWRlbnQgSGFuZGJvb2seBVZhbHVlBSQyMGFhMGE0MC1kMWNlLTQ4N2ItYmU1ZS03MTRlMzg1NDU2ODgeC05hdmlnYXRlVXJsBRd+L3N0dWRlbnQtaGFuZGJvb2suYXNweB4IRGF0YVBhdGgFAjQwHglE" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="YXRhQm91bmRnHhBQb3B1bGF0ZU9uRGVtYW5kZx4IRXhwYW5kZWRnFCsAEgVKMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMDo2LDA6NywwOjgsMDo5LDA6MTAsMDoxMSwwOjEyLDA6MTMsMDoxNCwwOjE1LDA6MTYUKwACFgwfBgUfVGhlIENvbnN0aXR1dGlvbiBvZiB0aGUgQ29sbGVnZR8HBSQ0YTAzMmU4MS1hNzE1LTQ5ZDAtODg4ZC1jNjE4MjRjNjE1NDkfCAUmfi90aGUtY29uc3RpdHV0aW9uLW9mLXRoZS1jb2xsZWdlLmFzcHgfCQUCNDEfCmcfC2hkFCsAAhYMHwYFHE1haW4gT2ZmaWNlcnMgb2YgdGhlIENvbGxlZ2UfBwUkYWY4M2E2NjMtMTQwZi00YmY4LTkxMmMtMGJiYjdhOWFiMDJhHwgFI34vbWFpbi1vZmZpY2Vycy1vZi10aGUtY29sbGVnZS5hc3B4HwkF" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="AjQyHwpnHwtoZBQrAAIWDB8GBR9Db21tb24gUm9vbXMgYW5kIFJlcHJlc2VudGF0aW9uHwcFJGY1NDczMGNjLTFjNzgtNDcxNC05NWMzLWU4NmNjMmExZDBjNR8IBSZ+L2NvbW1vbi1yb29tcy1hbmQtcmVwcmVzZW50YXRpb24uYXNweB8JBQI0Mx8KZx8LZxQrAAMFBzA6MCwwOjEUKwACFgwfBgUcQ29tbW9uIFJvb20gQ29kZSBvZiBQcmFjdGljZR8HBSQ2Yjk0ZTNiNi05MzYwLTRmZDgtODIxYS05MTc2ODMyMmUxYzIfCAUjfi9jb21tb24tcm9vbS1jb2RlLW9mLXByYWN0aWNlLmFzcHgfCQUCNDQfCmcfC2hkFCsAAhYMHwYFMUZvcm1hbCBDb250YWN0cyBiZXR3ZWVuIFNlbmlvciBhbmQgSnVuaW9yIE1lbWJlcnMfBwUkOWViOGJiMjYtMTM2MC00MTViLTlmYzQt" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="OGQxNzU0NDhjYTFjHwgFOH4vZm9ybWFsLWNvbnRhY3RzLWJldHdlZW4tc2VuaW9yLWFuZC1qdW5pb3ItbWVtYmVycy5hc3B4HwkFAjQ1HwpnHwtoZBQrAAIWDB8GBRBBY2FkZW1pYyBNYXR0ZXJzHwcFJDc3ZThlMGI2LTk3YzUtNDY1Yi05MDc0LTE1N2M0Y2JhMzJlMh8IBRd+L2FjYWRlbWljLW1hdHRlcnMuYXNweB8JBQI0Nh8KZx8LZxQrABwFfDA6MCwwOjEsMDoyLDA6MywwOjQsMDo1LDA6NiwwOjcsMDo4LDA6OSwwOjEwLDA6MTEsMDoxMiwwOjEzLDA6MTQsMDoxNSwwOjE2LDA6MTcsMDoxOCwwOjE5LDA6MjAsMDoyMSwwOjIyLDA6MjMsMDoyNCwwOjI1LDA6MjYUKwACFgwfBgUFVGVybXMfBwUkZGI3ODM4ZTYtMzI1Ny00NzNjLTgwMzYtZmQwYzAwMmI2ZmIw" />
+<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="HwgFDH4vdGVybXMuYXNweB8JBQI0Nx8KZx8LaGQUKwACFgwfBgUWUmVzaWRlbmNlIFJlcXVpcmVtZW50cx8HBSRjM2VhZTAyMC1iNTcyLTRlYzEtODU2MS1hODNkMWM0NTU4ZGMfCAUdfi9yZXNpZGVuY2UtcmVxdWlyZW1lbnRzLmFzcHgfCQUCNDgfCmcfC2hkFCsAAhYMHwYFDkFjYWRlbWljIERyZXNzHwcFJDkzNDBiN2RlLTdkMDAtNGM1YS05NTJlLTk2MDY0MTNhZmNlMR8IBRV+L2FjYWRlbWljLWRyZXNzLmFzcHgfCQUCNDkfCmcfC2hkFCsAAhYMHwYFCkFkbWlzc2lvbnMfBwUkYmMyYWVkZGUtMjU2Ny00MGQ2LWExMDctMDdjNTU5M2VlN2YyHwgFEX4vYWRtaXNzaW9ucy5hc3B4HwkFAjUwHwpnHwtoZBQrAAIWDB8GBRhVbml2ZXJzaXR5IE1hdHJpY3VsYXRp" />
+<input type="hidden" name="__VIEWSTATE5" id="__VIEWSTATE5" value="b24fBwUkNGVlOWNmNTItY2ViMy00ZjJhLWJmMmMtM2RmYjYyOTAyYTUwHwgFH34vdW5pdmVyc2l0eS1tYXRyaWN1bGF0aW9uLmFzcHgfCQUCNTEfCmcfC2hkFCsAAhYMHwYFDFJlZ2lzdHJhdGlvbh8HBSQ0NmZhYzVmMi01Yzk0LTQ5MTYtYmIwMC00NjU4MzExMTdlMTMfCAUTfi9yZWdpc3RyYXRpb24uYXNweB8JBQI1Mh8KZx8LaGQUKwACFgwfBgUZUmVxdWVzdHMgdG8gQ2hhbmdlIENvdXJzZR8HBSRkYTVmZWFmNC01MTEzLTQxYTgtYTRlYS0zZGQwY2QyOTY1YzIfCAUgfi9yZXF1ZXN0cy10by1jaGFuZ2UtY291cnNlLmFzcHgfCQUCNTMfCmcfC2hkFCsAAhYMHwYFMVJlcXVlc3RzIHRvIHN1c3BlbmQgc3R1ZHkgZm9yIGEgeWVhciBvciBwYXJ0LXllYXIfBwUk" />
+<input type="hidden" name="__VIEWSTATE6" id="__VIEWSTATE6" value="NzE4YjhkNjUtN2U5Mi00NzNhLWJmODItNjNjMzFhNjUyOWQwHwgFOH4vcmVxdWVzdHMtdG8tc3VzcGVuZC1zdHVkeS1mb3ItYS15ZWFyLW9yLXBhcnQteWVhci5hc3B4HwkFAjY5HwpnHwtoZBQrAAIWDB8GBSBDb2xsZWdlIEFkdmlzb3JzIChmb3IgR3JhZHVhdGVzKR8HBSQyNmRlNzdkNC0zY2ViLTQxODAtODhhYy04MTgzMjFkMzYyYmQfCAUlfi9jb2xsZWdlLWFkdmlzb3JzLWZvci1ncmFkdWF0ZXMuYXNweB8JBQMxMzgfCmcfC2hkFCsAAhYMHwYFF1VuaXZlcnNpdHkgRXhhbWluYXRpb25zHwcFJGIzZjA1NDVjLTlkYzktNDI1MC1iMzU1LTcxMTQ1ZTBhMzIxMh8IBR5+L3VuaXZlcnNpdHktZXhhbWluYXRpb25zLmFzcHgfCQUCNTUfCmcfC2hkFCsAAhYMHwYF" />
+<input type="hidden" name="__VIEWSTATE7" id="__VIEWSTATE7" value="DUFjYWRlbWljIFdvcmsfBwUkZmE1Y2ZiNmItZWZhYi00MjcyLWIyZjYtMWYzNDRjZmIyYjUwHwgFFH4vYWNhZGVtaWMtd29yay5hc3B4HwkFAjU2HwpnHwtoZBQrAAIWDB8GBSZUdXRvcmlhbHMgYW5kIENsYXNzZXMgKFVuZGVyZ3JhZHVhdGVzKR8HBSQxZWQ5ZTU5MS0xYTQ1LTQxNTUtOWI3ZC05OWM4MWZkMTk2ZTAfCAUrfi90dXRvcmlhbHMtYW5kLWNsYXNzZXMtdW5kZXJncmFkdWF0ZXMuYXNweB8JBQI1Nx8KZx8LaGQUKwACFgwfBgURQWNhZGVtaWMgUHJvZ3Jlc3MfBwUkNjJmZDM2MjctOTE1Ni00N2Q5LWEzOWEtOWRiZGYyNjRlMDQ5HwgFGH4vYWNhZGVtaWMtcHJvZ3Jlc3MuYXNweB8JBQI1OB8KZx8LaGQUKwACFgwfBgUJUGxhZ2FyaXNtHwcFJDU0M2I1" />
+<input type="hidden" name="__VIEWSTATE8" id="__VIEWSTATE8" value="YzE0LTk5ODgtNDRiMy1hYWM5LTQ2ZTAwYmQyNzhlNx8IBRB+L3BsYWdhcmlzbS5hc3B4HwkFAjU5HwpnHwtoZBQrAAIWDB8GBQtDb2xsZWN0aW9ucx8HBSRkODI4NTI3NS0zYzZmLTQ5MDAtOTcyMS1hMTdlNWMzNWFiOGMfCAUSfi9jb2xsZWN0aW9ucy5hc3B4HwkFAjYwHwpnHwtoZBQrAAIWDB8GBQhGZWVkYmFjax8HBSRjZWI2MTdjZi05YTMzLTQwOWEtOTlmYi05MTRhMDZhNWYyOTIfCAUPfi9mZWVkYmFjay5hc3B4HwkFAjYxHwpnHwtoZBQrAAIWDB8GBSBBY2FkZW1pYyBEaXNjaXBsaW5hcnkgUHJvY2VkdXJlcx8HBSQxNTRhNmZmMi0xMjIyLTQ3OTAtOTc4My04MTRjZGI5OGI4MDIfCAUnfi9hY2FkZW1pYy1kaXNjaXBsaW5hcnktcHJvY2VkdXJlcy5hc3B4" />
+<input type="hidden" name="__VIEWSTATE9" id="__VIEWSTATE9" value="HwkFAjYyHwpnHwtoZBQrAAIWDB8GBSNTY2hvbGFyc2hpcHMgRXhoaWJpdGlvbnMgYW5kIFByaXplcx8HBSQwM2M0YTBmYS01NTgwLTQ0YTQtYjNhMy04MzBiODUzMWI1NTQfCAUrfi8xc2Nob2xhcnNoaXBzLWV4aGliaXRpb25zLWFuZC1wcml6ZXMuYXNweB8JBQI3OB8KZx8LaGQUKwACFgwfBgU5R3JhbnQsIFNjaGVtZSBmb3IgQm9va3MgUGhvdG9jb3B5aW5nIGFuZCBBY2FkZW1pYyBTdXBwb3J0HwcFJDM2YjUyYjliLThhNTEtNDA0MS1iMDliLWQxOTY2ZTFkMWY3Yh8IBUB+LzFncmFudC1zY2hlbWUtZm9yLWJvb2tzLXBob3RvY29weWluZy1hbmQtYWNhZGVtaWMtc3VwcG9ydC5hc3B4HwkFAjc5HwpnHwtoZBQrAAIWDB8GBTJQYWlkIEVtcGxveW1lbnQgb2Yg" />
+<input type="hidden" name="__VIEWSTATE10" id="__VIEWSTATE10" value="VW5kZXJncmFkdWF0ZXMgZHVyaW5nIFRlcm0gVGltZR8HBSQ2ODNjMWRiOC03NDkxLTQwYjItOTA4Zi03MzIyNDc0NTkxZGEfCAU6fi8xcGFpZC1lbXBsb3ltZW50LW9mLXVuZGVyZ3JhZHVhdGVzLWR1cmluZy10ZXJtLXRpbWUuYXNweB8JBQI4MB8KZx8LaGQUKwACFgwfBgUiVmFjYXRpb24gU3R1ZHkgYW5kIFZhY2F0aW9uIEdyYW50cx8HBSRiOTMyYmM1NC0wMWI2LTQ3YjQtODUxNy1kNjQyMGExMDg5MzUfCAUpfi92YWNhdGlvbi1zdHVkeS1hbmQtdmFjYXRpb24tZ3JhbnRzLmFzcHgfCQUCNjYfCmcfC2hkFCsAAhYMHwYFHkZpbmFuY2lhbCBDb3N0cyBvZiBGaWVsZCBUcmlwcx8HBSQ5ZDgwOWFjNC0xYWNjLTRmYWItOTU1OS1jYTA0YzAyY2ZlYmYfCAUlfi9m" />
+<input type="hidden" name="__VIEWSTATE11" id="__VIEWSTATE11" value="aW5hbmNpYWwtY29zdHMtb2YtZmllbGQtdHJpcHMuYXNweB8JBQI2Nx8KZx8LaGQUKwACFgwfBgUeUmVzZWFyY2ggQWxsb3dhbmNlIChHcmFkdWF0ZXMpHwcFJGRiNGFiYWUxLTkwZWYtNGVmNy04YWY1LWMxYWNhM2EwYmJjNh8IBSN+L3Jlc2VhcmNoLWFsbG93YW5jZS1ncmFkdWF0ZXMuYXNweB8JBQMxMzkfCmcfC2hkFCsAAhYMHwYFIldyaXRpbmctVXAgU2Nob2xhcnNoaXAgKEdyYWR1YXRlcykfBwUkNjM5ODNjMWMtMDA3ZC00ZGMxLWI1MTctYTZlY2FjYTUzODJkHwgFJ34vd3JpdGluZy11cC1zY2hvbGFyc2hpcC1ncmFkdWF0ZXMuYXNweB8JBQMxNDAfCmcfC2hkFCsAAhYMHwYFH1VzZSBvZiBVbml2ZXJzaXR5IEVtYWlsIEFkZHJlc3MfBwUkM2NhZmRiMGMt" />
+<input type="hidden" name="__VIEWSTATE12" id="__VIEWSTATE12" value="ODAzNS00M2JkLTkyZGEtZWZhZTJjMTgyYmQyHwgFJn4vdXNlLW9mLXVuaXZlcnNpdHktZW1haWwtYWRkcmVzcy5hc3B4HwkFAjY4HwpnHwtoZBQrAAIWDB8GBSlKb2ludCBTY2hvb2xzIENvbGxlZ2UgQ291cnNlIENvb3JkaW5hdG9ycx8HBSQwMGI0MzM1NC1mMDFmLTQ5OWItYTk5NS1lMjk0OTdiOTZiMmEfCAUwfi9qb2ludC1zY2hvb2xzLWNvbGxlZ2UtY291cnNlLWNvb3JkaW5hdG9ycy5hc3B4HwkFAjc1HwpnHwtoZBQrAAIWDB8GBSVFbWVyZ2VuY3kvTmV4dCBvZiBLaW4gQ29udGFjdCBEZXRhaWxzHwcFJDFkMmEwMmExLTJkYmItNDhkNC04YzNiLTEwMDg0YTI5ZmI1YR8IBSt+L2VtZXJnZW5jeW5leHQtb2Yta2luLWNvbnRhY3QtZGV0YWlscy5hc3B4HwkF" />
+<input type="hidden" name="__VIEWSTATE13" id="__VIEWSTATE13" value="Ajc2HwpnHwtoZBQrAAIWDB8GBRVEb21lc3RpYyBBcnJhbmdlbWVudHMfBwUkYjkwOGMyM2MtMTVkZC00ZjNhLTgyNmQtYWUzYmY4MzE2Mjk4HwgFHH4vZG9tZXN0aWMtYXJyYW5nZW1lbnRzLmFzcHgfCQUCODEfCmcfC2cUKwAUBVQwOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3LDA6OCwwOjksMDoxMCwwOjExLDA6MTIsMDoxMywwOjE0LDA6MTUsMDoxNiwwOjE3LDA6MTgUKwACFgwfBgUNQWNjb21tb2RhdGlvbh8HBSQ0YjgxMmY0Mi1lNjAzLTRiMzctODQ2YS0zYjY5YTE0ZDJjOGYfCAUVfi8xYWNjb21tb2RhdGlvbi5hc3B4HwkFAzEwMB8KZx8LaGQUKwACFgwfBgUFTWVhbHMfBwUkY2JmZTQyNTYtZDQ2MS00NjI1LWFiMGQtMGIzMjg0MDYyYzgxHwgF" />
+<input type="hidden" name="__VIEWSTATE14" id="__VIEWSTATE14" value="DH4vbWVhbHMuYXNweB8JBQMxMDEfCmcfC2hkFCsAAhYMHwYFC0NvbGxlZ2UgQmFyHwcFJDgzODFlNjY1LWM1OTQtNDU1My04MWY3LTUwNjNjZmZjZmE2OB8IBRJ+L2NvbGxlZ2UtYmFyLmFzcHgfCQUDMTAyHwpnHwtoZBQrAAIWDB8GBQ1UaGUgSkNSIEhhdGNoHwcFJDAwZWM4MjYxLTMxZDAtNDdhOS1iZjI1LWI2ODkyZWE0NmY3OB8IBRR+L3RoZS1qY3ItaGF0Y2guYXNweB8JBQMxMDMfCmcfC2hkFCsAAhYMHwYFD1VuaXZlcnNpdHkgQ2FyZB8HBSRlZTJmNTMwMS0yYmM0LTQyNjgtODI3OC0zZDQzNzU0NzlmNDEfCAUWfi91bml2ZXJzaXR5LWNhcmQuYXNweB8JBQMxMDQfCmcfC2hkFCsAAhYMHwYFB0JhdHRlbHMfBwUkZDBjMDc0YjctYWJhMy00MWRjLWEyY2Qt" />
+<input type="hidden" name="__VIEWSTATE15" id="__VIEWSTATE15" value="NmI0OTMzNjhlNDBlHwgFDn4vYmF0dGVscy5hc3B4HwkFAzEwNR8KZx8LaGQUKwACFgwfBgUTUG9zdGFsIEFycmFuZ2VtZW50cx8HBSQyM2YxNDc1Mi1jYmRjLTRiZTItOGUyOC0zZGQ4OTdhZDQ4MGMfCAUafi9wb3N0YWwtYXJyYW5nZW1lbnRzLmFzcHgfCQUDMTA2HwpnHwtoZBQrAAIWDB8GBR1QZXJzb25hbCBFbGVjdHJpY2FsIEVxdWlwbWVudB8HBSQ2MzBlYzQxNy1iZDQ2LTRkNTctYjEwOC04MTg0MGFmYTlhNzUfCAUkfi9wZXJzb25hbC1lbGVjdHJpY2FsLWVxdWlwbWVudC5hc3B4HwkFAzEwNx8KZx8LaGQUKwACFgwfBgUKVGVsZXZpc2lvbh8HBSRkYzEyY2UzZC1kZGQ2LTRkZTUtYWRlNi01NGFjOWIyZmQwYmQfCAURfi90ZWxldmlzaW9uLmFzcHgfCQUD" />
+<input type="hidden" name="__VIEWSTATE16" id="__VIEWSTATE16" value="MTA4HwpnHwtoZBQrAAIWDB8GBQpUZWxlcGhvbmVzHwcFJGI3MDZlZGFiLTllMDUtNGQxNS04NTdhLTU0N2Q0N2U4Yzg3ZR8IBRF+L3RlbGVwaG9uZXMuYXNweB8JBQMxMDkfCmcfC2hkFCsAAhYMHwYFJVJvb20gRGVmZWN0cyBhbmQgQWNjb21tb2RhdGlvbiBGYXVsdHMfBwUkNWIyNDlhNjEtY2ZlZi00YTA1LTg3NDctNzE0NjBjMjExMDc4HwgFLH4vcm9vbS1kZWZlY3RzLWFuZC1hY2NvbW1vZGF0aW9uLWZhdWx0cy5hc3B4HwkFAzExMB8KZx8LaGQUKwACFgwfBgUFTGluZW4fBwUkNjlmOTYwMmEtMTM0My00ZTkxLWFmZjYtM2MxNTdiZmRiZGZlHwgFDH4vbGluZW4uYXNweB8JBQMxMTEfCmcfC2hkFCsAAhYMHwYFCUxhdW5kcmllcx8HBSQ5Zjc3ZmQ3Mi1hOTlh" />
+<input type="hidden" name="__VIEWSTATE17" id="__VIEWSTATE17" value="LTQ4NjktOTA4My0wMGZjY2JmODJkZmMfCAUQfi9sYXVuZHJpZXMuYXNweB8JBQMxMTIfCmcfC2hkFCsAAhYMHwYFJkxvYWRpbmcvVW5sb2FkaW5nIFZlaGljbGVzIGFuZCBQYXJraW5nHwcFJGQyZDlkZGFmLWZlODEtNGRmMy1hYjlhLWZhMTNjMDE1ZmI4OB8IBSx+L2xvYWRpbmd1bmxvYWRpbmctdmVoaWNsZXMtYW5kLXBhcmtpbmcuYXNweB8JBQMxMTMfCmcfC2hkFCsAAhYMHwYFKlZlaGljdWxhciBhY2Nlc3MgYW5kIGVncmVzcyB0byB0aGUgQ29sbGVnZR8HBSQzMDNiMGVlOS1iMTI0LTQ5NzMtYjI1Mi01MDI2NmE3YmY1ZDMfCAUxfi92ZWhpY3VsYXItYWNjZXNzLWFuZC1lZ3Jlc3MtdG8tdGhlLWNvbGxlZ2UuYXNweB8JBQMxMTQfCmcfC2hkFCsAAhYMHwYF" />
+<input type="hidden" name="__VIEWSTATE18" id="__VIEWSTATE18" value="D0tleXMgdG8gQ29sbGVnZR8HBSRhOTM2ZjI5MS1mMWM5LTQ5YWMtOTMzNy1lZDYyYzhkNzU4M2EfCAUWfi9rZXlzLXRvLWNvbGxlZ2UuYXNweB8JBQMxMTUfCmcfC2hkFCsAAhYMHwYFE05vdGljZXMgYW5kIFBvc3RlcnMfBwUkZGZkM2Y2ZWEtYWJkZC00YmRiLTg3NDktYzI3ODRhZWY3MTM3HwgFGn4vbm90aWNlcy1hbmQtcG9zdGVycy5hc3B4HwkFAzExNh8KZx8LaGQUKwACFgwfBgUmRW5kIG9mIFRlcm0gL0VuZCBvZiBMZWFzZSBBcnJhbmdlbWVudHMfBwUkMjc4ZTllNWMtYTdhNy00ZWFlLTlhYTEtMDZhZDE0OWM1YzVhHwgFLH4vZW5kLW9mLXRlcm0tZW5kLW9mLWxlYXNlLWFycmFuZ2VtZW50cy5hc3B4HwkFAzExNx8KZx8LaGQUKwACFgwfBgUeU3RvcmFn" />
+<input type="hidden" name="__VIEWSTATE19" id="__VIEWSTATE19" value="ZSBvZiBQZXJzb25hbCBCZWxvbmdpbmdzHwcFJDUwMWY2ZDBhLThlZDUtNGEzYS1iMTdjLTM3OTJkZGVhZDdiMB8IBSV+L3N0b3JhZ2Utb2YtcGVyc29uYWwtYmVsb25naW5ncy5hc3B4HwkFAzExOB8KZx8LaGQUKwACFg4fBgUQRmVlcyBhbmQgQ2hhcmdlcx8HBSQ1NGQ1ZTVhYy04MmJhLTQwN2UtOTU5MS0xMTk2ZTNlMDMxMTAfCAUXfi9mZWVzLWFuZC1jaGFyZ2VzLmFzcHgfCQUCODIfCmcfC2cfDGcUKwAJBR8wOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3FCsAAhYQHwYFElVuZGVyZ3JhZHVhdGUgRmVlcx8HBSRhOTVhMzAxMC05NWIxLTRlNTUtYTFiNy05ZGNjOTFjYjIwOGQfCAUZfi91bmRlcmdyYWR1YXRlLWZlZXMuYXNweB8JBQMxMTkfCmceCFNl" />
+<input type="hidden" name="__VIEWSTATE20" id="__VIEWSTATE20" value="bGVjdGVkZx8LaB8MZ2QUKwACFgwfBgUsR3JhZHVhdGUgVW5pdmVyc2l0eSBhbmQgQ29sbGVnZSBUdWl0aW9uIEZlZXMfBwUkYzY2MGQ5OTctODFkNC00YmZjLTkxOTgtMmViNGQ1ODYwNmVmHwgFM34vZ3JhZHVhdGUtdW5pdmVyc2l0eS1hbmQtY29sbGVnZS10dWl0aW9uLWZlZXMuYXNweB8JBQMxNDEfCmcfC2hkFCsAAhYMHwYFB0NoYXJnZXMfBwUkZjhmZDNmODMtZDg1Zi00OWIyLTg0OGItNWIwNjM5MzFhNzcyHwgFDn4vY2hhcmdlcy5hc3B4HwkFAzEyMB8KZx8LaGQUKwACFgwfBgUNQ2F1dGlvbiBNb25leR8HBSQ1ODg4MmE4NC03YjY2LTQzZTEtYWYzZi1kNjdmYTFhYjA2NTMfCAUUfi9jYXV0aW9uLW1vbmV5LmFzcHgfCQUDMTIxHwpnHwtoZBQrAAIWDB8G" />
+<input type="hidden" name="__VIEWSTATE21" id="__VIEWSTATE21" value="BRxNYWludGVuYW5jZSBHcmFudHMgYW5kIExvYW5zHwcFJDcyZGZhNjQ1LWZjNGYtNDUwYi05YjgyLTEzZjdjZjBjZmEzZR8IBSN+L21haW50ZW5hbmNlLWdyYW50cy1hbmQtbG9hbnMuYXNweB8JBQMxMjIfCmcfC2hkFCsAAhYMHwYFCUJ1cnNhcmllcx8HBSQ2NDBiZDIyZi1mZjRjLTQxOGItYTVmYS05MWY0YzRjMzM5YTMfCAUQfi9idXJzYXJpZXMuYXNweB8JBQMxMjMfCmcfC2hkFCsAAhYMHwYFLExhdGUgUGF5bWVudCBvZiBSZW50LCBMaWNlbmNlIEZlZSBvciBCYXR0ZWxzHwcFJDQ5YzNhN2M0LWE2MDMtNGNhOC05YjNhLTdjNDE4NTY2MWU5OR8IBTJ+L2xhdGUtcGF5bWVudC1vZi1yZW50LWxpY2VuY2UtZmVlLW9yLWJhdHRlbHMuYXNweB8JBQMxMjQfCmcf" />
+<input type="hidden" name="__VIEWSTATE22" id="__VIEWSTATE22" value="C2hkFCsAAhYMHwYFJURlcG9zaXRzIHdpdGggcmVnYXJkIHRvIEFjY29tbW9kYXRpb24fBwUkOWRhZjgxNmYtZTc3Ny00ZTVkLWIzODgtMGUyYmU0MDY5NDIxHwgFLH4vZGVwb3NpdHMtd2l0aC1yZWdhcmQtdG8tYWNjb21tb2RhdGlvbi5hc3B4HwkFAzEyNR8KZx8LaGQUKwACFgwfBgUnQnVyc2FyaWVzIGFuZCBGdW5kcyBmb3IgU3R1ZGVudCBTdXBwb3J0HwcFJDkyNWY5M2UwLWVhZmUtNDBjMi05ZDNlLTYzMDI5MGZhNmIxZB8IBS5+L2J1cnNhcmllcy1hbmQtZnVuZHMtZm9yLXN0dWRlbnQtc3VwcG9ydC5hc3B4HwkFAjgzHwpnHwtnFCsABAULMDowLDA6MSwwOjIUKwACFgwfBgUcT3hmb3JkIE9wcG9ydHVuaXR5IEJ1cnNhcmllcx8HBSQ5ZTlhNzc1YS00YTU2" />
+<input type="hidden" name="__VIEWSTATE23" id="__VIEWSTATE23" value="LTRlOTAtYjllYy01NzIwYWZhOWI5OWQfCAUjfi9veGZvcmQtb3Bwb3J0dW5pdHktYnVyc2FyaWVzLmFzcHgfCQUDMTI2HwpnHwtoZBQrAAIWDB8GBR5KZXN1cyBDb2xsZWdlIEFjY2VzcyBCdXJzYXJpZXMfBwUkZjQ3NDM0NmEtYzAyZS00NTliLTllNmUtMDc1ZjBhNThlZDdlHwgFJX4vamVzdXMtY29sbGVnZS1hY2Nlc3MtYnVyc2FyaWVzLmFzcHgfCQUDMTI3HwpnHwtoZBQrAAIWDB8GBQ5IYXJkc2hpcCBGdW5kcx8HBSRmNTE4NTQ3OS1mYTc3LTRkNWItYjA2Yy1kZDBhZGI4NzYwMTYfCAUVfi9oYXJkc2hpcC1mdW5kcy5hc3B4HwkFAzEyOB8KZx8LaGQUKwACFgwfBgUPRGVjYW5hbCBNYXR0ZXJzHwcFJDE1NTYwZmVmLTIxNGEtNGZhMi04MjEwLWQzMjM3MWYz" />
+<input type="hidden" name="__VIEWSTATE24" id="__VIEWSTATE24" value="NzIwYh8IBRZ+L2RlY2FuYWwtbWF0dGVycy5hc3B4HwkFAjg0HwpnHwtoZBQrAAIWDB8GBRNBY2FkZW1pYyBGYWNpbGl0aWVzHwcFJGRkNDZkNzc0LTQ4ZDEtNGFjYS05ZTllLTVlNjVmNGMyOTA3NR8IBRp+L2FjYWRlbWljLWZhY2lsaXRpZXMuYXNweB8JBQI4NR8KZx8LZxQrAAQFCzA6MCwwOjEsMDoyFCsAAhYMHwYFD0NvbGxlZ2UgTGlicmFyeR8HBSRiMGM3MmQxMC1jYTljLTQzMzYtYmNmNS0wNTVlYjA3OTY3OGMfCAUWfi9jb2xsZWdlLWxpYnJhcnkuYXNweB8JBQMxMjkfCmcfC2hkFCsAAhYMHwYFHkNvbXB1dGluZyBGYWNpbGl0aWVzICZhbXA7IFVzZR8HBSQ4ZmMxZmFhMS0xMzEyLTQ4OTQtOWNjNC1mMzU3Y2RjZjdmNzkfCAUffi9jb21wdXRpbmctZmFj" />
+<input type="hidden" name="__VIEWSTATE25" id="__VIEWSTATE25" value="aWxpdGllcy11c2UuYXNweB8JBQMxMzAfCmcfC2hkFCsAAhYMHwYFDFBob3RvY29weWluZx8HBSQxZmE1YTE2YS1hZDY2LTQxNTQtOTJiNy1kYmNhYzEwMjRiZGQfCAUTfi9waG90b2NvcHlpbmcuYXNweB8JBQMxMzEfCmcfC2hkFCsAAhYMHwYFElRoZSBDb2xsZWdlIENoYXBlbB8HBSQ4MDExYzU2OC0yNjIzLTRmNzgtYjZiYy1hOGNkYzQ5NTIwMmMfCAUZfi90aGUtY29sbGVnZS1jaGFwZWwuYXNweB8JBQI4Nh8KZx8LaGQUKwACFgwfBgUHV2VsZmFyZR8HBSQyNzRiOWM3Yy0yNDNkLTQxZWUtOWUzYS0xMDRjMDI3YjMwZTgfCAUPfi8xd2VsZmFyZS5hc3B4HwkFAjg3HwpnHwtnFCsABwUXMDowLDA6MSwwOjIsMDozLDA6NCwwOjUUKwACFgwfBgUUTWVkaWNhbCBB" />
+<input type="hidden" name="__VIEWSTATE26" id="__VIEWSTATE26" value="cnJhbmdlbWVudHMfBwUkMDEzNWY0OWQtNWQ5Mi00MGU5LWE1NjQtNzFmM2U4NDI3Y2NkHwgFG34vbWVkaWNhbC1hcnJhbmdlbWVudHMuYXNweB8JBQMxMzIfCmcfC2hkFCsAAhYMHwYFEVBlcnNvbmFsIFByb2JsZW1zHwcFJGVhMDYxNjQxLTFkMzItNGI4Mi05ZDMwLWYyYWUzZDJkZWJiNR8IBRh+L3BlcnNvbmFsLXByb2JsZW1zLmFzcHgfCQUDMTMzHwpnHwtoZBQrAAIWDB8GBRtDb3Vuc2VsbGluZyBvdXRzaWRlIENvbGxlZ2UfBwUkODgzOTM2MWMtMThjYS00ZmM1LWE4NDUtMjg2MWZlNWJkNjgyHwgFIn4vY291bnNlbGxpbmctb3V0c2lkZS1jb2xsZWdlLmFzcHgfCQUDMTM0HwpnHwtoZBQrAAIWDB8GBQpIYXJhc3NtZW50HwcFJDM4MGQxMjMwLTE2ZDEtNDFh" />
+<input type="hidden" name="__VIEWSTATE27" id="__VIEWSTATE27" value="Yy1hYzhjLWU2ZDU1MmNmOGVjMh8IBRF+L2hhcmFzc21lbnQuYXNweB8JBQMxMzUfCmcfC2hkFCsAAhYMHwYFJFByaXZhY3kgJmFtcDsgY29uZmlkZW50aWFsaXR5IFBvbGljeR8HBSRiMjE4NWIwMC0wZjIzLTQwZWQtOTYxMy1lOGIzZGQ1YjBiMDUfCAUlfi9wcml2YWN5LWNvbmZpZGVudGlhbGl0eS1wb2xpY3kuYXNweB8JBQMxMzYfCmcfC2hkFCsAAhYMHwYFHFNvdXJjZXMgb2YgYWR2aWNlIGluIENvbGxlZ2UfBwUkYTI1OTM3NzAtYTgwMC00Y2JiLWJmNTAtMTNkNWQ0N2JkNjUwHwgFI34vc291cmNlcy1vZi1hZHZpY2UtaW4tY29sbGVnZS5hc3B4HwkFAzEzNx8KZx8LaGQUKwACFgwfBgUUQ29tcGxhaW50cyBQcm9jZWR1cmUfBwUkN2JmYTMxZWMtMjI1YS00" />
+<input type="hidden" name="__VIEWSTATE28" id="__VIEWSTATE28" value="ODhlLTgyMTctNzkwMDhlOWM0ZDQ0HwgFG34vY29tcGxhaW50cy1wcm9jZWR1cmUuYXNweB8JBQI4OB8KZx8LaGQUKwACFgwfBgURRnJlZWRvbSBvZiBTcGVlY2gfBwUkNWNiMTQxMjEtOTFmNC00MTM4LThkOGQtYzlhNDIxYjM2OWYzHwgFGH4vZnJlZWRvbS1vZi1zcGVlY2guYXNweB8JBQI4OR8KZx8LaGQUKwACFgwfBgUWRXF1YWxpdHkgYW5kIERpdmVyc2l0eR8HBSRmNzM0NGQ1NS0wNzYyLTRjY2QtOGQzOS1mZTAwMmJkYWNiZDgfCAUdfi9lcXVhbGl0eS1hbmQtZGl2ZXJzaXR5LmFzcHgfCQUCOTAfCmcfC2hkFCsAAhYMHwYFE1NlY3VyaXR5IGFuZCBTYWZldHkfBwUkYzQ1ODM4ZGYtMWFhYy00MTJjLWJiOTgtZjM5YjI0Y2NhZjVhHwgFGn4vc2VjdXJpdHkt" />
+<input type="hidden" name="__VIEWSTATE29" id="__VIEWSTATE29" value="YW5kLXNhZmV0eS5hc3B4HwkFAjkxHwpnHwtnFCsABQUPMDowLDA6MSwwOjIsMDozFCsAAhYMHwYFCFNlY3VyaXR5HwcFJGRkZDlmZTA5LTk1Y2EtNDE5My1iZmVlLWM0ODBmOTJlYzczZh8IBQ9+L3NlY3VyaXR5LmFzcHgfCQUCOTQfCmcfC2hkFCsAAhYMHwYFE0hlYWx0aCAmYW1wOyBTYWZldHkfBwUkOTAxZTFiMzktOTU0Yi00NzhlLTk4YmItNTU0OWI0ZjgyMTJlHwgFFH4vaGVhbHRoLXNhZmV0eS5hc3B4HwkFAjk1HwpnHwtoZBQrAAIWDB8GBSRFbGVjdHJpY2FsIEVxdWlwbWVudCBhbmQgUmVndWxhdGlvbnMfBwUkMWY5MzBmMGQtYTg2MS00MDNiLTk3OGUtOTkwNDYwZmQxNTc2HwgFK34vZWxlY3RyaWNhbC1lcXVpcG1lbnQtYW5kLXJlZ3VsYXRpb25zLmFz" />
+<input type="hidden" name="__VIEWSTATE30" id="__VIEWSTATE30" value="cHgfCQUCOTYfCmcfC2hkFCsAAhYMHwYFEEZpcmUgUHJlY2F1dGlvbnMfBwUkNjQ0M2QzZDMtODg0MC00YjBlLTkwMGQtZTdiNDA5ODA0NjdmHwgFF34vZmlyZS1wcmVjYXV0aW9ucy5hc3B4HwkFAjk3HwpnHwtoZBQrAAIWDB8GBRxSZXNwb25zaWJsZSBVc2Ugb2YgUmVzb3VyY2VzHwcFJGEyZTkzZGRhLWJkYjgtNDQ5Zi1iNDU3LWM5YzMwNmU4ZDkwZB8IBSN+L3Jlc3BvbnNpYmxlLXVzZS1vZi1yZXNvdXJjZXMuYXNweB8JBQI5Mh8KZx8LaGQUKwACFgwfBgUqRmFjaWxpdGllcyBmb3IgU3BvcnQsIE11c2ljICZhbXA7IFRoZSBBcnRzHwcFJDlmOGE1YmEwLTVmYzktNDUyMy1iZTllLWNiZDlkNDg0NDcyMB8IBSp+L2ZhY2lsaXRpZXMtZm9yLXNwb3J0LW11c2lj" />
+<input type="hidden" name="__VIEWSTATE31" id="__VIEWSTATE31" value="LXRoZS1hcnRzLmFzcHgfCQUCOTMfCmcfC2cUKwADBQcwOjAsMDoxFCsAAhYMHwYFGENvbGxlZ2UgU3BvcnQgRmFjaWxpdGllcx8HBSRmNjlmZGU0NC1iMGE2LTRjYzYtOGJlOS0zNTYzZWJjMjNmZjYfCAUffi9jb2xsZWdlLXNwb3J0LWZhY2lsaXRpZXMuYXNweB8JBQI5OB8KZx8LaGQUKwACFgwfBgUvQ29sbGVnZSBBcnRzIGFuZCBNdXNpYyBBY3Rpdml0aWVzIGFuZCBSZXNvdXJjZXMfBwUkZDAzYzJjZmUtNTRhMS00ZWJiLWE2ZTAtNTk4MDI3YzI5ZGIxHwgFNn4vY29sbGVnZS1hcnRzLWFuZC1tdXNpYy1hY3Rpdml0aWVzLWFuZC1yZXNvdXJjZXMuYXNweB8JBQI5OR8KZx8LaGQFFmN0bDAwJGN0bDA0fGVubm5lbm5ubm5kAhEPDxYEHwAFNWFydC1sYXlvdXQt" />
+<input type="hidden" name="__VIEWSTATE32" id="__VIEWSTATE32" value="Y2VsbCBhcnQtY29udGVudCBjZW50ZXItbGVmdG1hcmdpbiBjbXN6b25lHwECAmQWAgIFD2QWAmYPZBYCAgIPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHgdWaXNpYmxlaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh4KQ2FsbGJhY2tJRAUpY3RsMDAkbWFpbkNvbnRlbnQkY3RsMDAkUmF0aW5nJFVzZXJSYXRpbmdkAgsPDxYCHw5oZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHw8FL2N0bDAwJG1haW5Db250ZW50JGN0bDAwJFJhdGluZ0JvdHRvbSRVc2VyUmF0aW5nZAITDw8WBh8ABRFyaWdodHNpZGUgY21zem9uZR8BAgIfDmhkZAIpDw8WAh8OaGRkAjUPDxYCHw5oZGQCOQ8PFgIfDmhkZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUVY3Rs" />
+<input type="hidden" name="__VIEWSTATE33" id="__VIEWSTATE33" value="MDAkUGFnZU1lbnUxJGN0bDAwBRVjdGwwMCRTaXRlTWVudTEkY3RsMDAPD2QFJDVjOThjODEzLWZlNDItNDcxZC1iODViLWQyMzg3MDk2NTc3NGRGcYqfPsqTKNnSiG27gbazejSDSw==" />
+
+
+<script src="/ScriptResource.axd?d=bOHqc7zLMKB4eGRb1gRWiVsfZL09k0cUGezdG_03FfHNbIan4nClw4gZO1BWP19AtdnFmc_7yyFBalRZgbAlZJNwFqLdKXpQaMpboGFrgxHin2ZBVjfViblQXmPXVAn6Uk2x8NaJsD2bhcXO0NgKx_RDIhwjvxGGRpDd81CWM7PaF7z1DOXXw-gPpBJU1KJu8gREiA7JZE52OgVYuPzuKvh9IxTBtl87s93pIpTO_Q-0WjuWrdGw5208MveFBycUSq66wxEu1Pmky1B9wdxTI9erNw-49KlJPkM8AI1pITh57_4dGQNt3IrADRQ7pPY_Ggset0Wb0zCgb7NxZsXxcX4UnYyS7iSweIidIPZOnG_R-nRE1OXKTr7xYhk3iqVnlnCU3g2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKThZabBAL7qYWMCm9Hd61+c2wKVtXCcO5DLx66ckIt" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://home.jesus.ox.ac.uk/Default.aspx'>Jesus College</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+    </div>
+    
+
+<div class="AspNet-Menu-Horizontal" id="ctl00_SiteMenu1_ctl00">
+		<ul class="AspNet-Menu">
+			<li class="AspNet-Menu-Leaf">
+				<a href="/home.aspx" class="AspNet-Menu">
+					<span>Home</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/accommodation.aspx" class="AspNet-Menu">
+					<span>Accommodation</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/online-services.aspx" class="AspNet-Menu">
+					<span>Online Services</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/clubs-and-societies.aspx" class="AspNet-Menu">
+					<span>Clubs and Societies</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/welfare.aspx" class="AspNet-Menu">
+					<span>Welfare</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/departments.aspx" class="AspNet-Menu">
+					<span>Departments</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf AspNet-Menu-SelectedLeaf">
+				<a href="/students.aspx" class="AspNet-Menu AspNet-Menu-SelectedLeaf">
+					<span>Students</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/staff.aspx" class="AspNet-Menu">
+					<span>Staff</span></a>
+			</li>
+		</ul>
+
+</div>
+
+
+    <div id="wrapcenter">
+	    <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+	
+		    <div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+
+	<div class="AspNet-TreeView" id="ctl00_PageMenu1_ctl00">
+			<ul id="ctl00_PageMenu1_ctl00_UL">
+				<li class="AspNet-TreeView-Root AspNet-TreeView-ChildSelected">
+					<a class="AspNet-TreeView-Collapse" onclick="ExpandCollapse__TreeView(this);return false;" href="/student-handbook.aspx" title="Collapse this node.">&nbsp;</a>
+					<a href="/student-handbook.aspx">
+						Student Handbook</a>
+					<ul>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/the-constitution-of-the-college.aspx">
+								The Constitution of the College</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/main-officers-of-the-college.aspx">
+								Main Officers of the College</a>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/common-rooms-and-representation.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/common-rooms-and-representation.aspx">
+								Common Rooms and Representation</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/common-room-code-of-practice.aspx">
+										Common Room Code of Practice</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/formal-contacts-between-senior-and-junior-members.aspx">
+										Formal Contacts between Senior and Junior Members</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/academic-matters.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/academic-matters.aspx">
+								Academic Matters</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/terms.aspx">
+										Terms</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/residence-requirements.aspx">
+										Residence Requirements</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/academic-dress.aspx">
+										Academic Dress</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/admissions.aspx">
+										Admissions</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/university-matriculation.aspx">
+										University Matriculation</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/registration.aspx">
+										Registration</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/requests-to-change-course.aspx">
+										Requests to Change Course</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/requests-to-suspend-study-for-a-year-or-part-year.aspx">
+										Requests to suspend study for a year or part-year</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/college-advisors-for-graduates.aspx">
+										College Advisors (for Graduates)</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/university-examinations.aspx">
+										University Examinations</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/academic-work.aspx">
+										Academic Work</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/tutorials-and-classes-undergraduates.aspx">
+										Tutorials and Classes (Undergraduates)</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/academic-progress.aspx">
+										Academic Progress</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/plagarism.aspx">
+										Plagarism</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/collections.aspx">
+										Collections</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/feedback.aspx">
+										Feedback</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/academic-disciplinary-procedures.aspx">
+										Academic Disciplinary Procedures</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/1scholarships-exhibitions-and-prizes.aspx">
+										Scholarships Exhibitions and Prizes</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/1grant-scheme-for-books-photocopying-and-academic-support.aspx">
+										Grant, Scheme for Books Photocopying and Academic Support</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/1paid-employment-of-undergraduates-during-term-time.aspx">
+										Paid Employment of Undergraduates during Term Time</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/vacation-study-and-vacation-grants.aspx">
+										Vacation Study and Vacation Grants</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/financial-costs-of-field-trips.aspx">
+										Financial Costs of Field Trips</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/research-allowance-graduates.aspx">
+										Research Allowance (Graduates)</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/writing-up-scholarship-graduates.aspx">
+										Writing-Up Scholarship (Graduates)</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/use-of-university-email-address.aspx">
+										Use of University Email Address</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/joint-schools-college-course-coordinators.aspx">
+										Joint Schools College Course Coordinators</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/emergencynext-of-kin-contact-details.aspx">
+										Emergency/Next of Kin Contact Details</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/domestic-arrangements.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/domestic-arrangements.aspx">
+								Domestic Arrangements</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/1accommodation.aspx">
+										Accommodation</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/meals.aspx">
+										Meals</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/college-bar.aspx">
+										College Bar</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/the-jcr-hatch.aspx">
+										The JCR Hatch</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/university-card.aspx">
+										University Card</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/battels.aspx">
+										Battels</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/postal-arrangements.aspx">
+										Postal Arrangements</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/personal-electrical-equipment.aspx">
+										Personal Electrical Equipment</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/television.aspx">
+										Television</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/telephones.aspx">
+										Telephones</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/room-defects-and-accommodation-faults.aspx">
+										Room Defects and Accommodation Faults</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/linen.aspx">
+										Linen</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/laundries.aspx">
+										Laundries</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/loadingunloading-vehicles-and-parking.aspx">
+										Loading/Unloading Vehicles and Parking</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/vehicular-access-and-egress-to-the-college.aspx">
+										Vehicular access and egress to the College</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/keys-to-college.aspx">
+										Keys to College</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/notices-and-posters.aspx">
+										Notices and Posters</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/end-of-term-end-of-lease-arrangements.aspx">
+										End of Term /End of Lease Arrangements</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/storage-of-personal-belongings.aspx">
+										Storage of Personal Belongings</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Parent AspNet-TreeView-ChildSelected">
+							<a class="AspNet-TreeView-Collapse" onclick="ExpandCollapse__TreeView(this);return false;" href="/fees-and-charges.aspx" title="Collapse this node.">&nbsp;</a>
+							<a href="/fees-and-charges.aspx">
+								Fees and Charges</a>
+							<ul>
+								<li class="AspNet-TreeView-Leaf AspNet-TreeView-Selected">
+									<a href="/undergraduate-fees.aspx">
+										Undergraduate Fees</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/graduate-university-and-college-tuition-fees.aspx">
+										Graduate University and College Tuition Fees</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/charges.aspx">
+										Charges</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/caution-money.aspx">
+										Caution Money</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/maintenance-grants-and-loans.aspx">
+										Maintenance Grants and Loans</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/bursaries.aspx">
+										Bursaries</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/late-payment-of-rent-licence-fee-or-battels.aspx">
+										Late Payment of Rent, Licence Fee or Battels</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/deposits-with-regard-to-accommodation.aspx">
+										Deposits with regard to Accommodation</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/bursaries-and-funds-for-student-support.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/bursaries-and-funds-for-student-support.aspx">
+								Bursaries and Funds for Student Support</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/oxford-opportunity-bursaries.aspx">
+										Oxford Opportunity Bursaries</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/jesus-college-access-bursaries.aspx">
+										Jesus College Access Bursaries</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/hardship-funds.aspx">
+										Hardship Funds</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/decanal-matters.aspx">
+								Decanal Matters</a>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/academic-facilities.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/academic-facilities.aspx">
+								Academic Facilities</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/college-library.aspx">
+										College Library</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/computing-facilities-use.aspx">
+										Computing Facilities &amp; Use</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/photocopying.aspx">
+										Photocopying</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/the-college-chapel.aspx">
+								The College Chapel</a>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/1welfare.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/1welfare.aspx">
+								Welfare</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/medical-arrangements.aspx">
+										Medical Arrangements</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/personal-problems.aspx">
+										Personal Problems</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/counselling-outside-college.aspx">
+										Counselling outside College</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/harassment.aspx">
+										Harassment</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/privacy-confidentiality-policy.aspx">
+										Privacy &amp; confidentiality Policy</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/sources-of-advice-in-college.aspx">
+										Sources of advice in College</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/complaints-procedure.aspx">
+								Complaints Procedure</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/freedom-of-speech.aspx">
+								Freedom of Speech</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/equality-and-diversity.aspx">
+								Equality and Diversity</a>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/security-and-safety.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/security-and-safety.aspx">
+								Security and Safety</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/security.aspx">
+										Security</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/health-safety.aspx">
+										Health &amp; Safety</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/electrical-equipment-and-regulations.aspx">
+										Electrical Equipment and Regulations</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/fire-precautions.aspx">
+										Fire Precautions</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/responsible-use-of-resources.aspx">
+								Responsible Use of Resources</a>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/facilities-for-sport-music-the-arts.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/facilities-for-sport-music-the-arts.aspx">
+								Facilities for Sport, Music &amp; The Arts</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/college-sport-facilities.aspx">
+										College Sport Facilities</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/college-arts-and-music-activities-and-resources.aspx">
+										College Arts and Music Activities and Resources</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+
+	</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+		    <a id="startcontent"></a>
+		    
+	    
+</div>
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+            
+	        
+	        
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<a id='module94' class='moduleanchor'></a><h2 class=" moduletitle">Undergraduate Fees</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id="ctl00_mainContent_ctl00_divContent" class="slidecontainer">
+		<p>
+	At Oxford, <a href="http://www.ox.ac.uk/feesandfunding/fees/">tuition fees</a> are payable both to the University and to the College. It is essential that all students make provision for paying these fees (and of course, additionally, for covering their maintenance costs) well in advance of starting their course.</p>
+<h4>
+	Undergraduate University Tuition Fee</h4>
+<p>
+	A University fee of £3,375 will be payable in 2011-12 by Home/EU undergraduates and public support is not available to pay all or part of that fee. Students will be eligible to apply for a loan up to the full value of the fee rate for the given academic year. Application must be made to the <a href="http://www.slc.co.uk/">Student Loans Company</a>. For overseas undergraduates, the University charges a range of fees, depending on the type and subject of the course to be taken. For details, please consult, initially, the <a href="/main-officers-of-the-college.aspx">Estates Bursar</a>.</p>
+<h4>
+	Undergraduate College Tuition Fee</h4>
+<p>
+	For Home and EU undergraduates, money to cover the College fee will be paid by the Government directly to the University, and students will be charged nothing, provided they have established their eligibility for public support through the regional funding body, Student Finance or, in some cases, the Student Loans Company. Both for this reason and because there may be public funds due in respect of the University Tuition Fee, <u><strong>it is vital to contact the Local Authority, or other public authority Student Finance as soon as possible</strong></u>. Helpful advice, both for you and your parents or guardians, may be found at the following website: <a href="http://www.direct.gov.uk/en/EducationAndLearning/UniversityAndHigherEducation/StudentFinance/typesoffinace/index.htm">http://www.direct.gov.uk/en/EducationAndLearning/UniversityAndHigherEducation/StudentFinance/typesoffinace/index.htm</a></p>
+<p>
+	It is necessary each year to re-apply for payment of fees (and it may be necessary to re-apply to other funding bodies), even though for example, the Junior Member is abroad as part of a 4-year Modern Languages course.</p>
+<p>
+	Once your application, of whatever kind in relation to fees, has been processed, the relevant public body will send paperwork to you. It is very important that you retain the paperwork and bring it with you to Oxford, for either the College, or the University, or both may well need to see it once you are here.</p>
+<p>
+	In any case where a Home/EU undergraduate has not been able to establish eligibility for payment of University and College fees, whether directly from public funds or through a loan made through the Student Loans&nbsp;Company, as in the case of all overseas (non-EU) undergraduates, both a University fee (as mentioned above) and a College fee will be payable. The College fee in 2011-2012 will be £5,920</p>
+
+	</div>
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+	    
+</div>
+	    		
+	</div>
+</div>
+<div id="wrapfooter">
+    <br class="clear" />
+    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+    <a href='/undergraduate-fees.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> |
+    &copy; 2008 - 2015 Jesus College, Oxford OX1 3DW |
+	<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+	<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+	<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://home.jesus.ox.ac.uk/Data/Sites/1/skins/styleshout-jcgreenisland2/csshandler.ashx?skin=styleshout-jcgreenisland2&amp;config=style.config'  title='Valid CSS'>CSS</a> |
+    <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+</div>
+<div class="topnav">
+    <ul>
+    
+    <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+    <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+    
+    
+    
+    
+    
+    <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+    <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2fundergraduate-fees.aspx">Sign In</a></li>
+    
+    </ul>  
+</div>    
+<div id="ctl00_InsecurePanel1" class="addthisbutton">
+	
+      
+
+</div>
+<script type="text/javascript">
+function HideMenuToolbar(){ $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow");}
+function ShowMenuToolbar(){ $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow");}
+$(document).ready(function(){ 
+  $("span.downarr a").click(function() {HideMenuToolbar(); Set_Cookie('openstate', 'closed')});
+  $("span.showbar a").click(function() {ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+  $("span.downarr a, span.showbar a").click(function() { return false; });	
+	var openState = Get_Cookie('openstate');
+	if(openState != null){ if(openState == 'closed'){HideMenuToolbar();} if(openState == 'open'){ShowMenuToolbar();}}
+});	
+</script>
+
+
+<div>
+	<input type="hidden" name="ctl00$ctl04" id="ctl00_ctl04" />
+</div>
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  </script></form>
+
+</body>
+</html>

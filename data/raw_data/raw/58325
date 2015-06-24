@@ -1,0 +1,387 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//Dtd HTML 4.01//EN"
+"http://www.w3.org/tr/html4/strict.dtd">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+		<title>Medium Aevum: Latest Monograph</title>
+		<link rel="stylesheet" type="text/css" href="css/MAEstyle.css">
+			
+	<head>
+<meta charset="UTF-8" />
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+	
+	<script type="text/javascript" src="/lib/jquery-1.10.1.min.js"></script>
+	<script type="text/javascript" src="/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+	<script type="text/javascript" src="/source/jquery.fancybox.js?v=2.1.5"></script>
+
+	<link rel="stylesheet" type="text/css" href="/source/jquery.fancybox.css?v=2.1.5" media="screen">
+
+	<!-- Add Button helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" />
+	<script type="text/javascript" src="/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
+
+	<!-- Add Thumbnail helper (this is optional) -->
+	<link rel="stylesheet" type="text/css" href="/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" />
+	<script type="text/javascript" src="/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+
+	<!-- Add Media helper (this is optional) -->
+	<script type="text/javascript" src="/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancybox').fancybox();
+
+			/*
+			 *  Different effects
+			 */
+
+			// Change title type, overlay closing speed
+			$(".fancybox-effects-a").fancybox({
+				helpers: {
+					title : {
+						type : 'outside'
+					},
+					overlay : {
+						speedOut : 0
+					}
+				}
+			});
+
+			// Disable opening and closing animations, change title type
+			$(".fancybox-effects-b").fancybox({
+				openEffect  : 'none',
+				closeEffect	: 'none',
+
+				helpers : {
+					title : {
+						type : 'over'
+					}
+				}
+			});
+
+			// Set custom style, close if clicked, change title type and overlay color
+			$(".fancybox-effects-c").fancybox({
+				wrapCSS    : 'fancybox-custom',
+				closeClick : true,
+
+				openEffect : 'none',
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					overlay : {
+						css : {
+							'background' : 'rgba(238,238,238,0.85)'
+						}
+					}
+				}
+			});
+
+			// Remove padding, set opening and closing animations, close if clicked and disable overlay
+			$(".fancybox-effects-d").fancybox({
+				padding: 0,
+
+				openEffect : 'elastic',
+				openSpeed  : 150,
+
+				closeEffect : 'elastic',
+				closeSpeed  : 150,
+
+				closeClick : true,
+
+				helpers : {
+					overlay : null
+				}
+			});
+
+			/*
+			 *  Button helper. Disable animations, hide close button, change title type and content
+			 */
+
+			$('.fancybox-buttons').fancybox({
+				openEffect  : 'none',
+				closeEffect : 'none',
+
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+
+				helpers : {
+					title : {
+						type : 'inside'
+					},
+					buttons	: {}
+				},
+
+				afterLoad : function() {
+					this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
+				}
+			});
+
+
+			/*
+			 *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
+			 */
+
+			$('.fancybox-thumbs').fancybox({
+				prevEffect : 'none',
+				nextEffect : 'none',
+
+				closeBtn  : false,
+				arrows    : false,
+				nextClick : true,
+
+				helpers : {
+					thumbs : {
+						width  : 50,
+						height : 50
+					}
+				}
+			});
+
+			/*
+			 *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
+			*/
+			$('.fancybox-media')
+				.attr('rel', 'media-gallery')
+				.fancybox({
+					openEffect : 'none',
+					closeEffect : 'none',
+					prevEffect : 'none',
+					nextEffect : 'none',
+
+					arrows : false,
+					helpers : {
+						media : {},
+						buttons : {}
+					}
+				});
+
+			/*
+			 *  Open manually
+			 */
+
+			$("#fancybox-manual-a").click(function() {
+				$.fancybox.open('1_b.jpg');
+			});
+
+			$("#fancybox-manual-b").click(function() {
+				$.fancybox.open({
+					href : 'iframe.html',
+					type : 'iframe',
+					padding : 5
+				});
+			});
+
+			$("#fancybox-manual-c").click(function() {
+				$.fancybox.open([
+					{
+						href : '1_b.jpg',
+						title : 'My title'
+					}, {
+						href : '2_b.jpg',
+						title : '2nd title'
+					}, {
+						href : '3_b.jpg'
+					}
+				], {
+					helpers : {
+						thumbs : {
+							width: 75,
+							height: 50
+						}
+					}
+				});
+			});
+
+
+		});
+	</script>
+	<style type="text/css">
+		.fancybox-custom .fancybox-skin {
+			box-shadow: 0 0 50px #222;
+		}
+	
+	</style>
+	</head>
+		
+		</head>
+
+<body>
+
+
+<div id="locator">
+
+  <div id="header">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56554159-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<a href="index.shtml"><img src="img/title.jpg" alt="MEDIUM ÆVUM" /></a>
+</div>
+
+
+
+  
+  
+    <div id="menu">
+  
+    <span class="item"><a href="index.shtml">Home</a></span>
+    <span class="item"><a href="society.shtml">Society</a></span>
+    <span class="item"><a href="journal.shtml">Journal</a></span>
+    <span class="item current"><a href="monographs.shtml">Monographs</a></span>
+    <span class="item"><a href="conferences.shtml">Conferences</a></span>
+    <span class="item"><a href="links.shtml">Medieval links</a></span>
+    
+  </div>
+
+  <div id="submenu">
+    <span class="item">&nbsp;</span>
+    <span class="item">&nbsp;</span>
+   <span class="item"><a href="monographs_about.shtml"  class="fancybox fancybox.iframe">About MAEM</a></span>
+    <span class="item"><a href="monographs_authors.shtml" class="fancybox fancybox.iframe">For Prospective Authors</a></span>
+    <span class="item">&nbsp;</span>
+  </div>
+
+
+  
+
+  <div id="column_content">
+    <h3 align="center">Announcing the paperback edition of</h3>
+	  <h2 align="center"><b>On Light</b><br><br>edited by K. P. Clarke and S. Baccianti</h2>
+    <p>The essays assembled in this new volume explore the fascination of the Middle Ages with the mystery of light, and its central role in the period's thought and creativity. Spanning medieval theology, literature, science and material culture, the topics covered   include the history of light (and, inseparably, darkness) as a literary figure, from the Latin Bible to Geoffrey Chaucer;   theoretical speculations on  colour,    sight and blindness, and their  unexpected fertilization of fields such as poetic imagery;  medieval preachers' evocations of light as  much more than merely figuring  the moral and religious,   from St. Simeon in the ninth century to John Fisher in the early sixteenth; indeed the belief that light possessed not only reality but physical materality,    as manifested in artefacts such as  the Gloucester Candlestick. <em>On Light</em>   thereby reveals  not only the importance of this phenomenon to diverse aspects of medieval culture, but profound and unremarked ways in which it helped to bind these into a whole.</p>
+    <p>To buy the paperback edition, click on the respective prices to the right. The contents are also <b>available to download open-access in 
+	electronic form</b>, by clicking on the titles below:</p>
+    <p align="center">CONTENTS</p>
+    <table class="monographs">
+      <tr>
+        <td width="377" class="title">
+		<a href="epubs/HSONLIGHT/ON%20LIGHT%20FRONT%20MATTER.pdf">Front Matter</a></td>
+        <td width="14">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="title">K. P. Clarke and Sarah Baccianti<br>
+        <a href="epubs/HSONLIGHT/ON%20LIGHT%20CLARKE%20BACCIANTI%20INTRODUCTION.pdf">Introducing Light</a><a href="documents/On Light - Stanley pp. 5-24.pdf"></a></td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td class="title">Eric Gerald Stanley<br>
+        <a href="epubs/HSONLIGHT/ON%20LIGHT%20STANLEY%20LIGHT%20FOR%20OXFORD.pdf">Light for Oxford</a></td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td class="title">Michael J. Huxtable<br>
+          <a href="epubs/HSONLIGHT/ON%20LIGHT%20HUXTABLE%20LIGHT%20AND%20COLOUR.pdf">The Relationship of Light and Colour in Medieval<br>
+        Thought and Imagination</a></td>
+        <td>25</td>
+      </tr>
+      <tr>
+        <td class="title">David M. Barbee<br>
+          <a href="epubs/HSONLIGHT/ON%20LIGHT%20BARBEE%20LUX%20LUMEN%20ROGER%20BACON.pdf">The Utility of the <em>Lux-Lumen</em> Distinction in Roger<br>
+        Bacon&rsquo;s Thought</a></td>
+        <td>45</td>
+      </tr>
+      <tr>
+        <td class="title">William T. Rossiter<br>
+          <a href="epubs/HSONLIGHT/ON%20LIGHT%20ROSSITER%20LYDGATES%20TEMPLE%20OF%20GLAS.pdf">&lsquo;The light so in my face | Bigan to smyte&rsquo;: Illuminating<br>
+        Lydgate&rsquo;s <em>Temple of Glas</em></a></td>
+        <td>63</td>
+      </tr>
+      <tr>
+        <td class="title">Hannah Hunt<br>
+          <a href="epubs/HSONLIGHT/ON%20LIGHT%20HUNT%20LIGHT%20AND%20SPIRITUAL%20INTOXICATION.pdf">Divine Light and Spiritual Intoxication: Symeon the<br>
+          New Theologian&rsquo;s Image of Penitence as a Mystical<br>
+        Winepress</a></td>
+        <td>87</td>
+      </tr>
+      <tr>
+        <td class="title">Cecilia A. Hatt<br>
+          <em>
+		<a href="epubs/HSONLIGHT/ON%20LIGHT%20HATT%20GROSSETESTE%20AND%20JOHN%20FISHER.pdf">Lux mediatrix</a></em><a href="epubs/HSONLIGHT/ON%20LIGHT%20HATT%20GROSSETESTE%20AND%20JOHN%20FISHER.pdf">: &lsquo;All that is made manifest is light&rsquo;<br>
+          (Ephesians 5. 13): The Influence of Robert<br>
+        Grosseteste&rsquo;s Theory of Light on Bishop John Fisher</a></td>
+        <td>107</td>
+      </tr>
+      <tr>
+        <td class="title">Virginia Langum<br>
+          <a href="epubs/HSONLIGHT/ON%20LIGHT%20LANGUM%20SEEING%20IN%20SERMONS.pdf">Seeing in Sermons: Word, Light and Aesthetic<br>
+        Experience</a></td>
+        <td>121</td>
+      </tr>
+      <tr>
+        <td class="title">Joy Hawkins<br>
+          <a href="epubs/HSONLIGHT/ON%20LIGHT%20HAWKINS%20SIGHTS%20FOR%20SORE%20EYES.pdf">Sights for Sore Eyes: Vision and Health in Medieval<br>
+        England</a></td>
+        <td>137</td>
+      </tr>
+      <tr>
+        <td height="75" class="title">Sabina Zonno<br>
+            <a href="epubs/HSONLIGHT/ON%20LIGHT%20ZONNO%20ILLUMINATED%20DARKNESS.pdf">Illuminated Darkness: The Image of the Blind or<br>
+          Blindfold Man in Some Thirteenth- and Fourteenth-<br>
+        Century European Manuscripts </a><br>
+        <a href="documents/On Light - Seavers-Viegas pp. 185-198.pdf"></a>
+		(illustrations for this article at the back of the PDF)
+		  </td>
+        <td>157</td>
+      </tr>
+      <tr>
+        <td class="title">Stephanie Seavers and Catia Viegas Wesolowska<br>
+          <a href="epubs/HSONLIGHT/ON%20LIGHT%20SEAVERS%20VIEGAS%20GLOUCESTER%20CANDLESTICK.pdf">Light and Virtue: The Gloucester Candlestick</a><br>
+        <a href="documents/On Light - Seavers-Viegas pp. 185-198.pdf"></a>
+		(illustrations for this article at the back of the PDF)</td>
+        <td>177</td>
+      </tr>
+      <tr>
+        <td height="34" class="title">
+		<a href="epubs/HSONLIGHT/ON%20LIGHT%20ABBREVIATIONS%20BIBLIOGRAPHY.pdf">Abbreviations and Bibliography</a></td>
+        <td>191</td>
+      </tr>
+    </table>	  
+  </div>
+  <p>&nbsp;</p>
+  
+  <div id="newcolumn_images">
+    <div class="caption"><img src="img/MPOLFront.jpg" width="282" alt=""/>Experiment shining light through the openwork of the Gloucester Candlestick. Adapted from original photograph provided courtesy of the Victoria and Albert Museum.</div>
+   <br>Title:<em> On Light</em><br>
+   Medium Aevum Monographs<br>
+   Paperback Edition<br>
+   Published December 2014<br>
+   ISBN: 978-0-907570-29-5<br>
+    <strong>List Price: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=WVQRH7YQRAD8Q&amp;on0=Rates (ï¿½)&amp;os0=Non-members">
+                                &pound;15</strong> GBP</a><br>
+								<strong>Members Price: <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=WVQRH7YQRAD8Q&amp;on0=Rates (ï¿½)&amp;os0=Members only">
+								50pc off</strong> List Price</a><br style="line-height:10px"><br>
+								<em>Click prices to check out online, in all major currencies (via <img src="img/paypal-logo2.jpg" width="39" height="12" alt="">). P&P for one book is <b>&pound;5</b> to the UK, EU, US or AUS (other quantities & destinations may differ). 
+								To pay by cheque, click <a href = "cheque.shtml" class="fancybox fancybox.iframe">here.</a></em>  
+       <br><br>Not a member? <a href="http://mediumaevum.modhist.ox.ac.uk/society_join.shtml" target="_blank">Join here</a>.<br>
+    </div>
+    
+    
+                               
+
+
+    
+    
+<div id="footer">
+<span class="floatleft">Design by <a href="http://www.richardrowley.net/">Richard Rowley</a></span>
+<span class="floatright">All content &copy; The Society for the Study of Medieval Languages and Literature</span></div>
+
+</div>
+</body>
+
+</html>
+

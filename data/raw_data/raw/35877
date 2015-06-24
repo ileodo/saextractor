@@ -1,0 +1,749 @@
+
+
+
+<!DOCTYPE html PUBLIC
+  "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+  
+    
+    
+    
+    
+
+
+  <head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="generator" content="Plone - http://plone.org" />
+
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+      <base href="http://www.keble.ox.ac.uk/students/financial-matters/financial-matters" /><!--[if lt IE 7]></base><![endif]-->
+    
+
+    
+        
+<link rel="kss-base-url" href="http://www.keble.ox.ac.uk/students/financial-matters/financial-matters/" />
+
+  
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/base.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/public.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/columns.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/authoring.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/portlets.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/controlpanel.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/deprecated.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/navtree.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/invisibles.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/forms.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/ploneKss.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/++resource++tinymce.stylesheets/tinymce.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/print.css" />
+    <link rel="stylesheet" type="text/css" media="handheld, screen and (max-device-width: 480px)" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/mobile.css" />
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/IEFixes.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/++resource++keble.theme.stylesheets/main.css);</style>
+    <style type="text/css" media="screen">@import url(http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/++resource++jquery-ui-themes/sunburst/jqueryui.css);</style>
+    <style type="text/css" media="screen">@import url(http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/++resource++jquery-ui-themes/sunburst-patch.css);</style>
+    <style type="text/css" media="screen">@import url(http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/++resource++collective.flowplayer.css/flowplayer.css);</style>
+    <style type="text/css" media="screen">@import url(http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/++resource++collective.flowplayer.css/flowplayer-horizontal.css);</style>
+    <style type="text/css" media="all">@import url(http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/flowplayermod.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="http://www.keble.ox.ac.uk/portal_css/Keble%20Theme%20Package/ploneCustom.css" />
+
+  
+    <link rel="kinetic-stylesheet" type="text/css" href="http://www.keble.ox.ac.uk/portal_kss/Keble%20Theme%20Package/++resource++tinymce.kss/tinymce.kss" />
+    <link rel="kinetic-stylesheet" type="text/css" href="http://www.keble.ox.ac.uk/portal_kss/Keble%20Theme%20Package/at.kss" />
+    <link rel="kinetic-stylesheet" type="text/css" href="http://www.keble.ox.ac.uk/portal_kss/Keble%20Theme%20Package/plone.kss" />
+    <link rel="kinetic-stylesheet" type="text/css" href="http://www.keble.ox.ac.uk/portal_kss/Keble%20Theme%20Package/++resource++plone.app.form.kss" />
+    <link rel="kinetic-stylesheet" type="text/css" href="http://www.keble.ox.ac.uk/portal_kss/Keble%20Theme%20Package/ploneformgen.kss" />
+  
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/jquery.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/jquery-integration.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/++resource++plone.app.jquerytools.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/++resource++plone.app.jquerytools.overlayhelpers.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/++resource++plone.app.jquerytools.form.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/register_function.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/plone_javascript_variables.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/nodeutilities.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/cookie_functions.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/livesearch.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/select_all.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/dragdropreorder.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/collapsiblesections.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/form_tabbing.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/popupforms.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/input-label.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/jquery.highlightsearchterms.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/first_input_focus.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/accessibility.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/styleswitcher.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/toc.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/collapsibleformfields.js"></script>
+       <!--[if lt IE 8]>
+     
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/iefixes.js"></script>
+       <![endif]-->
+     
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/++resource++keble.theme.javascripts/jquery.cycle.all.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/++resource++keble.theme.javascripts/keble.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/++resource++jquery-ui.min.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/++resource++jquery-ui-i18n.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/++resource++collective.flowplayer/flowplayer.min.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/++resource++collective.flowplayer/flowplayer.playlist.min.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/collective.flowplayer.js"></script>
+    <script type="text/javascript" src="http://www.keble.ox.ac.uk/portal_javascripts/Keble%20Theme%20Package/++resource++collective.flowplayer.js/init.js"></script>
+
+
+<title>Financial Matters &mdash; Keble College</title>
+
+        
+
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.keble.ox.ac.uk/favicon.ico" />
+    <link rel="apple-touch-icon" href="http://www.keble.ox.ac.uk/touch_icon.png" />
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+        });
+        </script>
+
+    <link rel="home" href="http://www.keble.ox.ac.uk" title="Front page" />
+
+    <link rel="contents" href="http://www.keble.ox.ac.uk/sitemap" title="Site Map" />
+
+
+
+
+
+
+    <link rel="search" href="http://www.keble.ox.ac.uk/search_form" title="Search this site" />
+
+
+
+        <!-- Disable IE6 image toolbar -->
+        <meta http-equiv="imagetoolbar" content="no" />
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+    
+
+  </head>
+
+  <body class="template-document_view portaltype-document section-students" dir="ltr">
+    <div id="visual-portal-wrapper">
+
+      <div id="portal-top">
+        <div id="portal-header">
+    <p class="hiddenStructure">
+  <a accesskey="2" href="http://www.keble.ox.ac.uk/students/financial-matters#content">Skip to content.</a> |
+
+  <a accesskey="6" href="http://www.keble.ox.ac.uk/students/financial-matters#portlet-navigation-tree">Skip to navigation</a>
+</p>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Personal tools</h5>
+
+
+
+<dl class="actionMenu deactivated" id="portal-personaltools">
+  <dt id="anon-personalbar">
+    
+        <a href="http://www.keble.ox.ac.uk/login_form" id="personaltools-login">Log in</a>
+    
+  </dt>
+</dl>
+
+</div>
+
+
+
+<a id="portal-logo" title="Home" accesskey="1" href="http://www.keble.ox.ac.uk">
+    <img src="http://www.keble.ox.ac.uk/kc_logo.gif" alt="" title="" height="78" width="420" /></a>
+
+<div id="oxford-emblem">
+
+    <img src="http://www.keble.ox.ac.uk/++resource++keble.theme.images/oxford_emblem.gif" />
+</div>
+
+<div id="portal-searchbox">
+    <form name="searchform" action="http://www.keble.ox.ac.uk/search">
+
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+
+        <div class="LSBox">
+        <input name="SearchableText" type="text" size="18" title="Search" accesskey="4" class="searchField inputLabel" id="searchGadget" />
+
+<!--
+        <input class="searchButton"
+               type="submit"
+               value="Search"
+               i18n:attributes="value label_search;" />
+-->
+
+<!--
+        <input class="keble-search"
+               type="submit"
+               value="Search"
+               i18n:attributes="value label_search;" />
+-->
+
+        <input class="keble-search" type="image" value="Search" src="http://www.keble.ox.ac.uk/++resource++keble.theme.images/search_icon.gif" />
+
+
+
+        <div class="LSResult" id="LSResult" style=""><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://www.keble.ox.ac.uk/search_form" accesskey="5">
+            Advanced Search&hellip;
+        </a>
+    </div>
+
+</div>
+
+
+    <h5 class="hiddenStructure">Sections</h5>
+
+    <ul id="portal-globalnav">
+        
+            
+            <li id="portaltab-index_html" class="plain">
+                <a href="http://www.keble.ox.ac.uk" class="first-tab" title="">Home</a>
+            </li>
+            
+        
+        
+            
+            <li id="portaltab-about" class="plain">
+                <a href="http://www.keble.ox.ac.uk/about" class="" title="Information about the College past, present and future; Chapel; Library and Archives; buildings and gardens; how to find us; old members' publications">About Keble</a>
+            </li>
+            
+        
+        
+            
+            <li id="portaltab-admissions" class="plain">
+                <a href="http://www.keble.ox.ac.uk/admissions" class="" title="Thinking about applying to study at Keble?">Prospective Students</a>
+            </li>
+            
+        
+        
+            
+            <li id="portaltab-students" class="selected">
+                <a href="http://www.keble.ox.ac.uk/students" class="" title="Information for current students, undergraduate and postgraduate, relating to academic, domestic, welfare, and extracurricular activities">Current Students</a>
+            </li>
+            
+        
+        
+            
+            <li id="portaltab-academics" class="plain">
+                <a href="http://www.keble.ox.ac.uk/academics" class="" title="Information about teaching and research by Keble academics; key documents in secure section for Keble Fellows.">Teaching &amp; Research</a>
+            </li>
+            
+        
+        
+            
+            <li id="portaltab-alumni" class="plain">
+                <a href="http://www.keble.ox.ac.uk/alumni" class="" title="Alumni and fundraising pages">Alumni</a>
+            </li>
+            
+        
+        
+            
+            <li id="portaltab-campaign" class="plain">
+                <a href="http://www.keble.ox.ac.uk/campaign" class="" title="">2020 Campaign</a>
+            </li>
+            
+        
+        
+            
+            <li id="portaltab-conferences" class="plain">
+                <a href="http://www.keble.ox.ac.uk/conferences" class="" title="Information about one of Oxford's leading conference venues">Conferences</a>
+            </li>
+            
+        
+        
+            
+            <li id="portaltab-bed-breakfast" class="plain">
+                <a href="http://www.keble.ox.ac.uk/bed-breakfast" class="last-tab" title="Book a bed and breakfast room at Keble">Bed &amp; Breakfast</a>
+            </li>
+            
+        
+    </ul>
+
+
+<div id="section-banner">
+
+    
+        <img src="http://www.keble.ox.ac.uk/students/banner-images/banner_current" />
+    
+
+    
+</div>
+
+</div>
+
+      </div>
+
+      <div class="visualClear" id="clear-space-before-wrapper-table"><!-- --></div>
+
+      <table id="portal-columns">
+        <tbody>
+          <tr>
+            
+                
+                <td id="portal-column-one">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6b65626c650a6e617669676174696f6e" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f6b65626c650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="http://www.keble.ox.ac.uk/students/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-study-skills-and-assistance">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/study-skills-and-assistance" class="state-published navTreeFolderish contenttype-folder" title="Current Announcements and Programmes:">
+            
+            <span>Studying at Keble</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-activities">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/activities" class="state-published navTreeFolderish contenttype-folder" title="Information about sport, music, drama, academic and other societies.">
+            
+            <span>Student Life and Activities</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode navTreeFolderish section-financial-matters">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/financial-matters" class="state-published navTreeCurrentItem navTreeCurrentNode navTreeFolderish contenttype-folder" title="">
+            
+            <span>Financial Matters</span>
+        </a>
+
+    <ul class="navTree navTreeLevel1">
+        
+
+
+
+<li class="navTreeItem visualNoMarker section-financial-planning">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/financial-matters/financial-planning" class="state-published contenttype-document" title="">
+            
+            <span>Financial Planning</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-financial-assistance">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/financial-matters/financial-assistance" class="state-published contenttype-document" title="">
+            
+            <span>Financial Assistance</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-keble-association">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/financial-matters/keble-association" class="state-published contenttype-document" title="Keble Associations Awards">
+            
+            <span>The Keble Association</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-student-support-fund-application">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/financial-matters/student-support-fund-application" class="state-published contenttype-document" title="">
+            
+            <span>Student Support Fund Application</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+    </ul>
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-student-support">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/student-support" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Personal Support &amp; Welfare</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-graduate-specific-information">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/graduate-specific-information" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Graduate-Specific Information</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-college-handbook">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/college-handbook" class="state-published navTreeFolderish contenttype-folder" title="College Handbook and Regulations for Junior Members">
+            
+            <span>College Handbook</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-faqs">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/faqs" class="state-published contenttype-document" title="">
+            
+            <span>Frequently Asked Questions</span>
+        </a>
+
+    
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-book-for-dinner">
+
+    
+
+
+        <a href="http://www.keble.ox.ac.uk/students/book-for-dinner" class="state-published contenttype-link" title="Book in for dinner (Keble students only)">
+            
+            <span>Meal Booking</span>
+        </a>
+
+    
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+
+            
+            <td id="portal-column-content">
+
+              <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://www.keble.ox.ac.uk">Home</a>
+        <span class="breadcrumbSeparator">
+            <!--
+            <tal:ltr condition="not: is_rtl">&rsaquo;</tal:ltr>
+            <tal:rtl condition="is_rtl">&lsaquo;</tal:rtl>
+            -->
+            <img src="http://www.keble.ox.ac.uk/++resource++keble.theme.images/breadcrumb_separator.gif" />
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://www.keble.ox.ac.uk/students">Current Students</a>
+            <span class="breadcrumbSeparator">
+                <!--
+                <tal:ltr condition="not: is_rtl">&rsaquo;</tal:ltr>
+                <tal:rtl condition="is_rtl">&lsaquo;</tal:rtl>
+                -->
+                <img src="http://www.keble.ox.ac.uk/++resource++keble.theme.images/breadcrumb_separator.gif" />
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Financial Matters</span>
+         
+    </span>
+
+</div>
+</div>
+
+              
+                <div class="">
+
+                    
+
+                    <span id="contentTopLeft"></span>
+                    <span id="contentTopRight"></span>
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                    <div id="content">
+                      
+                      
+
+                        
+                            
+                            
+                                
+                                
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Financial Matters
+                </h1>
+            
+            
+        
+                            
+                            
+
+
+                            
+                                
+                                
+            
+                
+            
+            
+        
+                            
+
+                            
+
+
+                            <div id="content-core">
+                                
+    
+        
+        <div class="" id="parent-fieldname-text">
+            <h3>Here you will find advice on how to plan your finances and information on the various sources of financial assistance available from both University and College. These include the Keble Association, an organisation created by alumni specifically to help current students.</h3>
+<p>If you have any concerns about financial matters, the three College Officers you can directly approach are the <span>Senior Tutor, Bursar, Welfare and Disability Officer.</span></p>
+            
+        </div>
+    
+    
+
+                            </div>
+                            
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+                        
+
+                      
+                    </div>
+                    
+
+                    
+
+                    <span id="contentBottomLeft"></span>
+                    <span id="contentBottomRight"></span>
+
+                </div>
+              
+
+              <div id="viewlet-below-content">
+
+
+
+
+
+    
+
+</div>
+
+            </td>
+            
+
+            
+                
+                <td id="portal-column-two">
+                  <div class="visualPadding">
+                    
+                      
+<div id="portletwrapper-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6b65626c650a64756d6d79" class="portletWrapper kssattr-portlethash-706c6f6e652e7269676874636f6c756d6e0a636f6e746578740a2f6b65626c650a64756d6d79"><!-- Dummy Portlet --></div>
+
+
+
+
+                    
+                    &nbsp;
+                  </div>
+                </td>
+                
+            
+          </tr>
+        </tbody>
+      </table>
+      
+
+      <div class="visualClear" id="clear-space-before-footer"><!-- --></div>
+
+      
+
+        <!-- NAGIOS COMMENT DO NOT DELETE -->
+
+<div class="row">
+    <div class="cell width-full position-0">
+
+        <div id="portal-footer">
+            <div id="footer-links">
+                
+                
+				<div class="footer-link">
+                    <a href="http://www.keble.ox.ac.uk/about/governance/freedom-of-information">freedom of information</a>
+                </div>
+				<div class="footer-link">
+                    <a href="http://www.keble.ox.ac.uk/sitemap">site map</a>
+                </div>
+                <div class="footer-link-last">
+                    <a href="http://www.keble.ox.ac.uk/contact-info">feedback</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+      
+
+      <div class="visualClear"><!-- --></div>
+    </div>
+<div id="kss-spinner"><img alt="" src="http://www.keble.ox.ac.uk/spinner.gif" /></div>
+</body>
+</html>
+
+

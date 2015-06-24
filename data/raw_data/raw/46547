@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Tropical Medicine Seminars - Tropical Medicine</title>
+			<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/general.css" type="text/css" />
+	<link rel="stylesheet" media="print" href="/_static/website/stylesheets/print.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/_static/website/oxitems/medical-grand-rounds.css" type="text/css" />	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+			<link rel="shortcut icon" href="/_static/website/images/icons/favicon.ico" type="image/x-icon" />
+</head>
+<body class="ndm">
+	<div id="header-wrapper">
+		<div id="header">
+			<ul id="header-menu">
+				<li><a class="link-home" href="/" title="Home">Home</a></li>
+				<li><a class="link-site-map" href="/_sitemap" title="Site Map">Site Map</a></li>
+				<li><a class="link-contact" href="/contacts" title="Contact">Contact</a></li>
+				<li><a class="link-twitter1" href="https://twitter.com/NDMOxford" title="NDM Twitter" target="_blank">@NDMOxford</a></li>
+				<li><a class="link-twitter1" href="https://twitter.com/TropMedOxford" title="Trop Med Twitter" target="_blank">@TropMedOxford</a></li>
+				<li><a class="link-edit" href="/_admin/view/904" title="Edit">Edit</a></li>				<li><!-- <form class="search" action="/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onFocus="if(this.value == 'Search...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form> -->
+			<form class="search" id="cse-search-box" action="/_search">
+				<input type="hidden" name="cx" value="013190107294343682755:jct_ubsxo18" />
+				<input type="hidden" name="ie" value="UTF-8" />
+				<input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+				
+				<input type="hidden" name="nojs" value="1" />
+			</form>	
+				</li>
+			</ul>
+			<a href="/" title="Link to Tropical Medicine homepage"><img id="logo-ndm" src="/_static/website/images/logo-ndm-new.png" alt="Tropical Medicine logo" /></a>
+			<a href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-rect" src="/_static/website/images/logo-uni2.gif" alt="Oxford University logo" /></a>
+			<h1 class = 'tropmed'><a href="/" title="Link to Tropical Medicine homepage"><img src="/_static/website/images/heading1-tropmed.png" alt="Tropical Medicine" /></a></h1>
+			<h2><a href="http://www.ndm.ox.ac.uk" title="Link to Nuffield Department of Medicine homepage" target="_blank"><img src="/_static/website/images/heading2-ndm2.gif" alt="Nuffield Department of Medicine" /></a></h2>
+			<ul id="primary-menu">
+							<li><span><a  href="/home" title="Home">Home</a></span></li>
+							<li><span><a  href="/research" title="Research">Research</a></span></li>
+							<li><span><a  href="/news" title="News">News</a></span></li>
+							<li><span><a  href="/jobs" title="Jobs">Jobs</a></span></li>
+							<li><span><a  href="/study" title="Study">Study</a></span></li>
+							<li><span><a  href="/oxtrec" title="OxTREC">OxTREC</a></span></li>
+							<li><span><a  href="/mop-travel-awards" title="MOP Travel Awards">MOP Travel Awards</a></span></li>
+							<li class="current"><span><a  href="/tropical-medicine-seminars" title="Seminars">Seminars</a></span></li>
+							<li><span><a  href="/internal-2" title="Internal">Internal</a></span></li>
+							<li><span><a  href="/otn-2016" title="OTN 2016">OTN 2016</a></span></li>
+						</ul>
+		</div>
+	</div>
+	<div id="content-wrapper">
+				<script>
+$(document).ready(function(){
+	$("div.abstract a.abstract_link").click(function(e){
+		e.preventDefault();
+		//console.log($(this).attr('event_id'));
+		//console.log($("div.oxtalks-item#oxtalks-item-"+$(this).attr('event_id')+" div.hidden_long_abstract").html());
+		$("div.oxtalks-item#oxtalks-item-"+$(this).attr('event_id')+" div.abstract").replaceWith($("div.oxtalks-item#oxtalks-item-"+$(this).attr('event_id')+" div.hidden_long_abstract").html());
+		//id="oxtalks-item-18147">
+	});
+});
+</script>
+
+<div id="content">
+	<ul class="oxitems-options">
+		<li><a class="ical" href="http://talks.ox.ac.uk/show/ics/16202">Add to calendar</a></li>
+		<li><a class="feed" href="http://talks.ox.ac.uk/show/rss/16202">Subscribe to feed</a></li>
+	</ul>
+	<h1>Tropical Medicine Seminars</h1>
+		<div class="group"><div class='oxtalks-item' id='oxtalks-item-20983'><p class='where-and-when'>Mon 29 Jun 2015 from 12:00 to 13:00<a href='http://talks.ox.ac.uk/talk/vcal/20983'><img title='Add to calendar' src='http://www.tropicalmedicine.ox.ac.uk/_static/website/images/icons/oxitems/icalendar.gif' /></a><a target='_blank' href='http://www.google.com/calendar/event?action=TEMPLATE&amp;text=The+global+picture+of+malaria:+optimism+or+caution?&amp;dates=20150629T120000Z/20150629T130000Z&amp;sprop=website:&amp;details=Malaria remains major global health threat.  At the end of the last century it was described as a...&amp;location=NDM Building (Basement Seminar Room), Headington OX3 7FZ'><img title='Add to google calendar' src='http://www.tropicalmedicine.ox.ac.uk/_static/website/images/icons/oxitems/google-calendar.gif' /></a></p><p class='where-and-when'>Tropical Medicine Global Health Seminars</p><p class='where-and-when'>NDM Building (Basement Seminar Room), Headington OX3 7FZ</p><div class='inner-container'><img class='thumb' src='http://talks.ox.ac.uk/image/show/1425/image.png' /><h2 class='title'>The global picture of malaria: optimism or caution?</h2><h3 class='speaker'>Professor Kevin Marsh (University of Oxford)</h3><div class='abstract'><p>Malaria remains major global health threat.  At the end of the last century it was described as a public health disaster.  In the last fifteen years there has been remarkable progress in reducing cases and deaths due to malaria.  This has led  to a  welcome new optimism and a shift towards the... <a class='abstract_link' event_id='20983' href='#'>Read more</a></div><div class='hidden_long_abstract'><p>Malaria remains major global health threat.  At the end of the last century it was described as a public health disaster.  In the last fifteen years there has been remarkable progress in reducing cases and deaths due to malaria.  This has led  to a  welcome new optimism and a shift towards the idea of global elimination culminating in eradication. However the threats of underfinancing as well as  emerging drug and insecticide resistance mean that  many challenges remain to be overcome.</p>
+
+
+	<p>Topics:</p>
+
+
+	<p>Organisers: Francois Van Loggerenberg (University of Oxford, Tropical Medicine, Green Templeton College)</p>
+
+
+	<p>Contact email: francois.vanloggerenberg@ndm.ox.ac.uk</p>
+
+
+	<p>Audience: Members of the University only</p>
+
+
+	<p>Booking: Not required</p></div><p class = 'special_message'> Refreshments will be provided - Please arrive promptly. </p></div></div></div>	</div>
+<div id="side-bar" class="group">
+		<div class="side-box">
+		<h3>Upcoming seminars</h3>
+		<ul>
+						<li class="current"><a href="/tropical-medicine-seminars/annual-schedule/2015-trinity">2015 Trinity Term</a></li>
+						<li><a href="/tropical-medicine-seminars/annual-schedule/2015-vacation">2015 Long Vacation</a></li>
+						<li><a href="/tropical-medicine-seminars/annual-schedule/2015-michaelmas">2015 Michaelmas Term</a></li>
+						<li><a href="/tropical-medicine-seminars/annual-schedule/2016-hilary">2016 Hilary Term</a></li>
+					</ul>
+	</div>
+	<div class="side-box">
+		<h3>Archive</h3>
+		<ul>
+						<li><a href="/tropical-medicine-seminars/archive/2015-trinity">2015 Trinity Term</a></li>
+						<li><a href="/tropical-medicine-seminars/archive/2015-hilary">2015 Hilary Term</a></li>
+						<li><a href="/tropical-medicine-seminars/archive/2014-michaelmas">2014 Michaelmas Term</a></li>
+						<li><a href="/tropical-medicine-seminars/archive/2014-vacation">2014 Long Vacation</a></li>
+					</ul>
+	</div>
+	</div>		<div id="footer">
+			<a style="float:left; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/athena-swan" title="Link to Athena SWAN NDM pages" target="_blank"><img class="logo-athena" src="/_static/website/images/athena-swan-silver.png" alt="Athena SWAN logo" /></a><a style="float:right; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/working-for-ndm" title="Link to Working for NDM" target="_blank"><img src="/_static/website/images/ndm-men-coloured.jpg" alt="Nuffield Department of Clincial Medicine logo" /></a>
+			<p>© 2015 Centre for Tropical Medicine and Global health, Nuffield Department of Medicine Research Building, <br />University of Oxford, Old Road Campus, Roosevelt Drive, Oxford, OX3 7FZ, UK</p>
+						<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/_static/website/images/newt-favicon.gif" alt="newt favicon" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/_static/website/images/pinfox-favicon.gif" alt="pinfox favicon" /> Pinfox</a></p>
+			<p><a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a> | <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> | <a href="http://www.ox.ac.uk/copyright/" target="_blank">Copyright</a> | <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a> | <a href="http://www.ndm.ox.ac.uk/" target="_blank">Nuffield Department of Medicine</a><br /><a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a> | <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a></p>
+		</div>
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-9056654-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script></body>
+</html>

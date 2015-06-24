@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"> 
+	<title>Prof Kevin Marsh - Nuffield Department of Medicine</title>
+			<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/normalize.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/general.css" type="text/css" />
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" media="print" href="/_static/website/stylesheets/print.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery.lightbox-0.5.css" type="text/css" /><link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery-ui-1.10.4.custom.min.css" type="text/css" />	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+	<script src="/_static/website/javascripts/content-tabbed-menus.js" type="text/javascript"></script><script src="/_static/website/javascripts/publications.js" type="text/javascript"></script><script src="/_static/website/javascripts/jquery.lightbox-0.5.min.js" type="text/javascript"></script><script src="/_static/website/javascripts/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>		<link rel="shortcut icon" href="/_static/website/images/icons/favicon.ico" type="image/x-icon" />
+	
+</head>
+<body class="ndm">
+		<div id="header-wrapper">
+		<div id="header">
+			<a href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-box" src="/_static/website/images/ox-square-border.gif" alt="Oxford University logo" /></a>
+			<ul id="header-menu">
+				<li><a class="link-home" href="/" title="Home">Home</a></li>
+				<li><a class="link-site-map" href="/_sitemap" title="Site Map">Site Map</a></li>
+				<li><a class="link-contact" href="/contact" title="Contact">Contact</a></li>
+				<li><a class="link-twitter1" href="https://twitter.com/NDMOxford" title="Twitter" target="_blank">@NDMOxford</a></li>
+				<li><a id="link-edit" class="link-edit" href="/_admin/view/24" title="Edit">Edit</a></li>				<li>
+					<!-- <form class="search" action="/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onfocus="if(this.value == 'Search...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form></li> -->
+					
+			<form class="search" id="cse-search-box" action="/_search">
+					
+			 <input type="hidden" name="cx" value="013190107294343682755:ydgidd4jjni" />
+			 <input type="hidden" name="ie" value="UTF-8" />
+			 <input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+			 
+			 <input type="hidden" name="nojs" value="1" />
+		   </form></li>
+					
+			</ul>
+						<a href="/" title="Link to Nuffield Department of Medicine homepage"><img style="margin-top:1px" id="logo-ndm" src="/_static/website/images/logo-ndm-new.png"  alt="Nuffield Department of Medicine logo" /></a>
+			<h1><a href="/" title="Link to Nuffield Department of Medicine homepage"><img src="/_static/website/images/heading1-ndm2.gif" alt="Nuffield Department of Medicine" /></a></h1>
+			<h2 id="ndm-medSciLink"><a href="http://www.medsci.ox.ac.uk/" title="Link to Medical Sciences Division homepage" target="_blank"><img src="/_static/website/images/heading2-medsci2.gif" alt="Medical Sciences Division" /></a></h2>
+			<ul id="primary-menu">
+							<li><span><a  href="/home" title="Home">Home</a></span></li>
+							<li class="current"><span><a  href="/research" title="Research">Research</a></span></li>
+							<li><span><a  href="/graduate-studies" title="Graduate Studies">Graduate Studies</a></span></li>
+							<li><span><a  href="/clinical-care" title="Clinical Care">Clinical Care</a></span></li>
+							<li><span><a  href="/seminars" title="Seminars">Seminars</a></span></li>
+							<li><span><a  href="/international" title="International">International</a></span></li>
+							<li><span><a  href="/outreach" title="Outreach">Outreach</a></span></li>
+							<li><span><a  href="/about-us" title="About us">About us</a></span></li>
+							<li><span><a  href="/jobs" title="Jobs">Jobs</a></span></li>
+							<li><span><a  href="/tools" title="Tools">Tools</a></span></li>
+							<li><span><a  href="/sops" title="SOPs">SOPs</a></span></li>
+						</ul>
+		</div>
+	</div>
+	<div id="content-wrapper">
+									<ul id="secondary-menu" class="group">
+							<li class="current"><a  class="secondary-menu-link" href="/principal-investigators" title="Principal Investigators">Principal Investigators</a></li>
+							<li><a  class="secondary-menu-link" href="/research-areas" title="Research Areas">Research Areas</a></li>
+							<li><a  class="secondary-menu-link" href="/podcast-meet-our-researchers" title="Podcast: Meet our Researchers">Podcast: Meet our Researchers</a></li>
+							<li><a  class="secondary-menu-link" href="/immunology-in-oxford" title="Immunology in Oxford">Immunology in Oxford</a></li>
+							<li><a  class="secondary-menu-link" href="/revolutionary-biology" title="Revolutionary Biology">Revolutionary Biology</a></li>
+							</ul>	
+				
+<script type="text/javascript">
+$(function() {
+	$('a.lightbox').lightBox({
+		overlayOpacity: 0.6,
+		imageLoading: '/_static/website/images/lightbox/lightbox-ico-loading.gif',
+		imageBtnClose: '/_static/website/images/lightbox/lightbox-btn-close.gif',
+		imageBtnPrev: '/_static/website/images/lightbox/lightbox-btn-prev.gif',
+		imageBtnNext: '/_static/website/images/lightbox/lightbox-btn-next.gif',
+		imageBlank: '/_static/website/images/lightbox/lightbox-blank.gif',
+		fixedNavigation:true
+	});
+});
+</script>
+<div id="content">
+	<div id="register_interest" class="group" style="margin-top: 15px; float: right;"><a href="#"><img src="/_static/website/images/register-interest-2-mini.png" alt=""></a></div>	<h1>Prof Kevin Marsh</h1>
+	<ul class="content-menu">
+		<li id="content-menu-research"><a href="#content-research" title="Research"><span>Research</span></a></li>
+		<li id="content-menu-collaborations"><a href="#content-collaborations" title="Collaborations"><span>Collaborations</span></a></li>		<li id="content-menu-publications"><a href="#content-publications" title="Publications"><span>Publications</span></a></li>					</ul>
+	<div id="content-research" class="content-panel">
+		<table>
+						<tr>
+				<th>Research Area:</th>
+				<td>Global Health</td>
+			</tr>
+												<tr>
+				<th>Scientific Themes:</th>
+				<td>Tropical Medicine &amp; Global Health</td>
+			</tr>
+									<tr>
+				<th>Keywords:</th>
+				<td>malaria, immunology and epidemiology</td>
+			</tr>
+									<tr>
+				<th>Web Links:</th>
+				<td><ul class = 'weblinks'><li><a class = 'standard' href="http://www.kemri-wellcome.org/"><img src="/_static/website/images/weblink-standard.png"><span>KEMRI website</span></a></li><li><a class = 'Podcast' href="http://www.ndm.ox.ac.uk/kevin-marsh-tropical-medicine-in-kenya"><img src="/_static/website/images/weblink-Podcast.png"><span class="emphasise">Podcast 'Tropical Medicine in Kenya'</span></a></li></ul></td>
+			</tr>
+					</table>
+				<p><p>Professor Kevin Marsh has a broad research interest in child health in the tropics, with a particular focus in the immune epidemiology of malaria. As well as directing the KEMRI Wellcome Programme in Kenya, Kevin also coordinates the KEMRI Molecular Parasitology group. The Programme&#8217;s research focuses on four main areas:</p><ul>
+<li>Identifying the protective immune response to malaria</li><li>Regulation of immune responses</li><li>Determinants of virulence</li><li>Mechanisms of anti malarial drug action and resistance.</li></ul>
+<p>Kevin&#8217;s particular interest is in capacity building for science in Africa. He has recently secured a major strategic award, from the Wellcome Trust, to support doctoral and post doctoral career development for East African Scientists. Kevin is also a member of many global health advisory groups.</p></p>
+	</div>
+	<div id="content-collaborations" class="content-panel">
+				<table>
+			<tr>
+				<th>Name</th>
+				<th>Department</th>
+				<th>Institution</th>
+				<th>Country</th>
+			</tr>
+						<tr>
+								<td>Prof Chris I Newbold (RDM)</a></td>
+				<td>Investigative Medicine Division</td>
+				<td>University of Oxford</td>
+				<td>United Kingdom</td>
+			</tr>
+						<tr>
+								<td><a href="/principal-investigators/researcher/adrian-hill">Prof Adrian VS Hill</a></td>
+				<td>Jenner Institute</td>
+				<td>University of Oxford</td>
+				<td>United Kingdom</td>
+			</tr>
+						<tr>
+								<td>Prof David Roberts (RDM)</a></td>
+				<td>Nuffield Division of Clinical Laboratory Sciences</td>
+				<td>University of Oxford</td>
+				<td>United Kingdom</td>
+			</tr>
+						<tr>
+								<td>David Conway</td>
+				<td></td>
+				<td>MRC Laboratories</td>
+				<td>Gambia</td>
+			</tr>
+						<tr>
+								<td>S Polley</td>
+				<td></td>
+				<td>London School of Hygiene and Tropical Medicine</td>
+				<td>United Kingdom</td>
+			</tr>
+						<tr>
+								<td>Paul Milligan</td>
+				<td></td>
+				<td>London School of Hygiene and Tropical Medicine</td>
+				<td>United Kingdom</td>
+			</tr>
+						<tr>
+								<td>Tony Holder</td>
+				<td></td>
+				<td>National Institute of Medical Research Mill Hill</td>
+				<td>United Kingdom</td>
+			</tr>
+						<tr>
+								<td>Jean Langhorne</td>
+				<td></td>
+				<td>National Institute of Medical Research Mill Hill</td>
+				<td>United Kingdom</td>
+			</tr>
+						<tr>
+								<td>Dr Alex Rowe</td>
+				<td></td>
+				<td>Centers for Disease Control</td>
+				<td>United States</td>
+			</tr>
+						<tr>
+								<td>James Beeson</td>
+				<td></td>
+				<td>Walter and Eliza Hall Institute Melbourne</td>
+				<td>Australia</td>
+			</tr>
+						<tr>
+								<td>Anna Farnert</td>
+				<td></td>
+				<td>Karolinska Institute Stockholm</td>
+				<td>Sweden</td>
+			</tr>
+						<tr>
+								<td>Ibrahim Ei Hassan</td>
+				<td></td>
+				<td>Institute of Endemic Diseases Khartoum</td>
+				<td>Sudan</td>
+			</tr>
+						<tr>
+								<td>Gilbert Kokwaro</td>
+				<td></td>
+				<td>University of Nairobi</td>
+				<td>Kenya</td>
+			</tr>
+					</table>
+			</div>
+	<div id="content-publications" class="content-panel">
+				<p>
+			<span class="journal-authors"><span class = "author ">Osier FH</span><span class = "author ">, Mackinnon MJ</span><span class = "author ">, Crosnier C</span><span class = "author ">, Fegan G</span><span class = "author ">, Kamuyu G</span><span class = "author ">, Wanaguru M</span><span class = "author ">, Ogada E</span><span class = "author ">, McDade B</span><span class = "author ">, Rayner JC</span><span class = "author ">, Wright GJ</span><span class = "author ">, Marsh K</span>.</span>			2014.			New antigens for a multicomponent blood-stage malaria vaccine.			<span class="journal-title">Sci Transl Med</span>,			<span class="journal-volume">6</span>			(247),			pp. 247ra102.			<a class="abstract-show" href="#abstract-479269">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1126/scitranslmed.3008705">Read more</a> 		</p>
+				<p id="abstract-479269" class="abstract-block">
+			An effective blood-stage vaccine against Plasmodium falciparum remains a research priority, but the number of antigens that have been translated into multicomponent vaccines for testing in clinical trials remains limited. Investigating the large number of potential targets found in the parasite proteome has been constrained by an inability to produce natively folded recombinant antigens for immunological studies. We overcame these constraints by generating a large library of biochemically active merozoite surface and secreted full-length ectodomain proteins. We then systematically examined the antibody reactivity against these proteins in a cohort of Kenyan children (n = 286) who were sampled at the start of a malaria transmission season and prospectively monitored for clinical episodes of malaria over the ensuing 6 months. We found that antibodies to previously untested or little-studied proteins had superior or equivalent potential protective efficacy to the handful of current leading malaria vaccine candidates. Moreover, cumulative responses to combinations comprising 5 of the 10 top-ranked antigens, including PF3D7_1136200, MSP2, RhopH3, P41, MSP11, MSP3, PF3D7_0606800, AMA1, Pf113, and MSRP1, were associated with 100% protection against clinical episodes of malaria. These data suggest not only that there are many more potential antigen candidates for the malaria vaccine development pipeline but also that effective vaccination may be achieved by combining a selection of these antigens.			<a class="abstract-hide" href="#abstract-479269">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Ndungu FM</span><span class = "author ">, Olotu A</span><span class = "author ">, Mwacharo J</span><span class = "author ">, Nyonda M</span><span class = "author ">, Apfeld J</span><span class = "author ">, Mramba LK</span><span class = "author ">, Fegan GW</span><span class = "author ">, Bejon P</span><span class = "author ">, Marsh K</span>.</span>			2012.			Memory B cells are a more reliable archive for historical antimalarial responses than plasma antibodies in no-longer exposed children.			<span class="journal-title">Proc Natl Acad Sci U S A</span>,			<span class="journal-volume">109</span>			(21),			pp. 8247-8252.			<a class="abstract-show" href="#abstract-329012">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1073/pnas.1200472109">Read more</a> 		</p>
+				<p id="abstract-329012" class="abstract-block">
+			Humans respond to foreign antigen by generating plasma Abs and memory B cells (MBCs). The Ab response then declines, sometimes to below the limit of detection. In contrast, MBCs are generally thought to be long-lived. We tested and compared Plasmodium falciparum (Pf)-specific Ab and MBC responses in two populations of children: (i) previously exposed children who had documented Pf infections several years ago, but minimal exposure since then; and (ii) persistently exposed children living in a separate but nearby endemic area. We found that although Pf-specific plasma Abs were lower in previously exposed children compared with persistently exposed children, their cognate MBCs were maintained at similar frequencies. We conclude that serological analysis by itself would greatly underestimate the true memory of Pf-specific Ab responses in previously exposed children living in areas where Pf transmission has been reduced or eliminated.			<a class="abstract-hide" href="#abstract-329012">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Scott JA</span><span class = "author ">, Berkley JA</span><span class = "author ">, Mwangi I</span><span class = "author ">, Ochola L</span><span class = "author ">, Uyoga S</span><span class = "author ">, Macharia A</span><span class = "author ">, Ndila C</span><span class = "author ">, Lowe BS</span><span class = "author hidden">, Mwarumba S</span><span class = "author hidden">, Bauni E</span><span class = "author hidden">, Marsh K</span><span class = "author hidden">, Williams TN</span> <a class = "et-al" href="#">et al</a>.</span>			2011.			Relation between falciparum malaria and bacteraemia in Kenyan children: a population-based, case-control study and a longitudinal study.			<span class="journal-title">Lancet</span>,			<span class="journal-volume">378</span>			(9799),			pp. 1316-1323.			<a class="abstract-show" href="#abstract-175195">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1016/S0140-6736%2811%2960888-X">Read more</a> 		</p>
+				<p id="abstract-175195" class="abstract-block">
+			BACKGROUND: Many investigators have suggested that malaria infection predisposes individuals to bacteraemia. We tested this hypothesis with mendelian randomisation studies of children with the malaria-protective phenotype of sickle-cell trait (HbAS). METHODS: This study was done in a defined area around Kilifi District Hospital, Kilifi, Kenya. We did a matched case-control study to identify risk factors for invasive bacterial disease, in which cases were children aged 3 months to 13 years who were admitted to hospital with bacteraemia between Sept 16, 1999, and July 31, 2002. We aimed to match two controls, by age, sex, location, and time of recruitment, for every case. We then did a longitudinal case-control study to assess the relation between HbAS and invasive bacterial disease as malaria incidence decreased. Cases were children aged 0-13 years who were admitted to hospital with bacteraemia between Jan 1, 1999, and Dec 31, 2007. Controls were born in the study area between Jan 1, 2006, and June 23, 2009. Finally, we modelled the annual incidence of bacteraemia against the community prevalence of malaria during 9 years with Poisson regression. RESULTS: In the matched case-control study, we recruited 292 cases-we recruited two controls for 236, and one for the remaining 56. Sickle-cell disease, HIV, leucocyte haemozoin pigment, and undernutrition were positively associated with bacteraemia and HbAS was strongly negatively associated with bacteraemia (odds ratio 0·36; 95% CI 0·20-0·65). In the longitudinal case-control study, we assessed data from 1454 cases and 10,749 controls. During the study period, the incidence of admission to hospital with malaria per 1000 child-years decreased from 28·5 to 3·45, with a reduction in protection afforded by HbAS against bacteraemia occurring in parallel (p=0·0008). The incidence of hospital admissions for bacteraemia per 1000 child-years also decreased from 2·59 to 1·45. The bacteraemia incidence rate ratio associated with malaria parasitaemia was 6·69 (95% CI 1·31-34·3) and, at a community parasite prevalence of 29% in 1999, 62% (8·2-91) of bacteraemia cases were attributable to malaria. INTERPRETATION: Malaria infection strongly predisposes individuals to bacteraemia and can account for more than half of all cases of bacteraemia in malaria-endemic areas. Interventions to control malaria will have a major additional benefit by reducing the burden of invasive bacterial disease. FUNDING: Wellcome Trust.			<a class="abstract-hide" href="#abstract-175195">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Mackinnon MJ</span><span class = "author ">, Marsh K</span>.</span>			2010.			The selection landscape of malaria parasites.			<span class="journal-title">Science</span>,			<span class="journal-volume">328</span>			(5980),			pp. 866-871.			<a class="abstract-show" href="#abstract-54829">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1126/science.1185410">Read more</a> 		</p>
+				<p id="abstract-54829" class="abstract-block">
+			Malaria parasites have to survive and transmit within a highly selective and ever-changing host environment. Because immunity to malaria is nonsterilizing and builds up slowly through repeated infections, commonly the parasite invades a host that is immunologically and physiologically different from its previous host. During the course of infection, the parasite must also keep pace with changes in host immune responses and red-blood-cell physiology. Here, we describe the &quot;selection landscape&quot; of the most virulent of the human malaria parasites, Plasmodium falciparum, and the adaptive mechanisms it uses to navigate through that landscape. Taking a cost-benefit view of parasite fitness, we consider the evolutionary outcomes of the most important forces of selection operating on the parasite, namely immunity, host death, drugs, mosquito availability, and coinfection. Given the huge potential for malaria parasite evolution in the context of the recently renewed effort to eradicate malaria, a deeper understanding of P. falciparum adaptation is essential.			<a class="abstract-hide" href="#abstract-54829">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">O'Meara WP</span><span class = "author ">, Bejon P</span><span class = "author ">, Mwangi TW</span><span class = "author ">, Okiro EA</span><span class = "author ">, Peshu N</span><span class = "author ">, Snow RW</span><span class = "author ">, Newton CR</span><span class = "author ">, Marsh K</span>.</span>			2008.			Effect of a fall in malaria transmission on morbidity and mortality in Kilifi, Kenya.			<span class="journal-title">Lancet</span>,			<span class="journal-volume">372</span>			(9649),			pp. 1555-1562.			<a class="abstract-show" href="#abstract-40984">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1016/S0140-6736%2808%2961655-4">Read more</a> 		</p>
+				<p id="abstract-40984" class="abstract-block">
+			BACKGROUND: As efforts to control malaria are expanded across the world, understanding the role of transmission intensity in determining the burden of clinical malaria is crucial to the prediction and measurement of the effectiveness of interventions to reduce transmission. Furthermore, studies comparing several endemic sites led to speculation that as transmission decreases morbidity and mortality caused by severe malaria might increase. We aimed to assess the epidemiological characteristics of malaria in Kilifi, Kenya, during a period of decreasing transmission intensity. METHODS: We analyse 18 years (1990-2007) of surveillance data from a paediatric ward in a malaria-endemic region of Kenya. The hospital has a catchment area of 250 000 people. Clinical data and blood-film results for more than 61 000 admissions are reported. FINDINGS: Hospital admissions for malaria decreased from 18.43 per 1000 children in 2003 to 3.42 in 2007. Over 18 years of surveillance, the incidence of cerebral malaria initially increased; however, malaria mortality decreased overall because of a decrease in incidence of severe malarial anaemia since 1997 (4.75 to 0.37 per 1000 children) and improved survival among children admitted with non-severe malaria. Parasite prevalence, the mean age of children admitted with malaria, and the proportion of children with cerebral malaria began to change 10 years before hospitalisation for malaria started to fall. INTERPRETATION: Sustained reduction in exposure to infection leads to changes in mean age and presentation of disease similar to those described in multisite studies. Changes in transmission might not lead to immediate reductions in incidence of clinical disease. However, longitudinal data do not indicate that reductions in transmission intensity lead to transient increases in morbidity and mortality.			<a class="abstract-hide" href="#abstract-40984">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Bull PC</span><span class = "author ">, Pain A</span><span class = "author ">, Ndungu FM</span><span class = "author ">, Kinyanjui SM</span><span class = "author ">, Roberts DJ</span><span class = "author ">, Newbold CI</span><span class = "author ">, Marsh K</span>.</span>			2005.			Plasmodium falciparum antigenic variation: relationships between in vivo selection, acquired antibody response, and disease severity.			<span class="journal-title">J Infect Dis</span>,			<span class="journal-volume">192</span>			(6),			pp. 1119-1126.			<a class="abstract-show" href="#abstract-23328">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1086/432761">Read more</a> 		</p>
+				<p id="abstract-23328" class="abstract-block">
+			BACKGROUND: Variant surface antigens (VSA) on Plasmodium falciparum-infected erythrocytes are potentially important targets of immunity to malaria. We previously identified a VSA phenotype--VSA with a high frequency of antibody recognition (VSA(FoRH))--that is associated with young host age and severe malaria. We hypothesized that VSA(FoRH) are positively selected by host molecules such as intercellular adhesion molecule 1 (ICAM1) and CD36 and dominate in the absence of an effective immune response. Here, we assessed, in 115 Kenyan children, the potential role played by in vivo selection pressures in either favoring or selecting against VSA(FoRH) among parasites that cause malaria. METHODS: We tested for associations between VSA(FoRH) and (1) the repertoire of VSA antibodies carried by children at the time of acute malaria and (2) polymorphisms in ICAM1 (K29M) and CD36 (T188G) that could potentially reduce the positive selection of VSA(FoRH). RESULTS: An expected negative association between VSA antibody repertoire and VSA(FoRH) was observed in children with nonsevere malaria. However, this association did not extend to children with severe malaria, many of whom apparently had well-developed VSA antibody responses despite being infected by parasites expressing VSA(FoRH). There was no evidence for involvement of CD36 or ICAM1 in positive selection of VSA(FoRH). On the contrary, a weak positive association between carriage of the CD36 (T188G) allele and VSA(FoRH) was observed in children with severe malaria. CONCLUSION: The association between the VSA(FoRH) parasite phenotype and severe malaria cannot be explained simply in terms of the total repertoire of VSA antibodies carried at the time of acute disease.			<a class="abstract-hide" href="#abstract-23328">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Molyneux CS</span><span class = "author ">, Wassenaar DR</span><span class = "author ">, Peshu N</span><span class = "author ">, Marsh K</span>.</span>			2005.			'Even if they ask you to stand by a tree all day, you will have to do it (laughter)...!': community voices on the notion and practice of informed consent for biomedical research in developing countries.			<span class="journal-title">Soc Sci Med</span>,			<span class="journal-volume">61</span>			(2),			pp. 443-454.			<a class="abstract-show" href="#abstract-33100">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1016/j.socscimed.2004.12.003">Read more</a> 		</p>
+				<p id="abstract-33100" class="abstract-block">
+			Ethical dilemmas in biomedical research, especially in vulnerable populations, often spark heated debate. Despite recommendations and guidelines, many issues remain controversial, including the relevance, prioritisation and application of individual voluntary informed consent in non-Western settings. The voices of the people likely to be the subjects of research have been notably absent from the debate. We held discussions with groups of community members living in the rural study area of a large research unit in Kenya. Discussions were facilitated by three research study vignettes outlining one field-based and two hospital-based studies being planned or taking place at the time. In addition to gathering general views about the aims and activities of the research unit, questions focused on whether consent should be sought for studies, and if so from whom (chiefs, elders, men/women, children), and on ascertaining whether there are any special concerns about the physical act of signing consent forms. The findings revealed the community's difficulty in distinguishing research from clinical investigations conducted in clinical settings. There was a spectrum of views regarding perceived appropriateness of consent procedures, in part because of difficulty in disentangling clinical from research aims, and because of other challenges to applying consent in practice. Debates between community members highlight the inadequacy of simplistic assumptions about community members' views on informed consent, and the complexity of incorporating lay opinions into biomedical research. Failure to appreciate these issues risks exaggerating differences between settings, and underestimating the time and resources required to ensure meaningful community involvement in research processes. Ultimately, it risks inadequately responding to the needs and values of those on whom the success of most biomedical research depends. Although compliance with community views does not necessarily make the research more ethical, it is argued that community opinions on local issues and practices should inform ethical decision-making in health research.			<a class="abstract-hide" href="#abstract-33100">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Mwangi TW</span><span class = "author ">, Ross A</span><span class = "author ">, Snow RW</span><span class = "author ">, Marsh K</span>.</span>			2005.			Case definitions of clinical malaria under different transmission conditions in Kilifi District, Kenya.			<span class="journal-title">J Infect Dis</span>,			<span class="journal-volume">191</span>			(11),			pp. 1932-1939.			<a class="abstract-show" href="#abstract-39512">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1086/430006">Read more</a> 		</p>
+				<p id="abstract-39512" class="abstract-block">
+			BACKGROUND: Clear case definitions of malaria are an essential means of evaluating the effectiveness of present and proposed interventions in malaria. The clinical signs of malaria are nonspecific, and parasitemia accompanied by a fever may not be sufficient to define an episode of clinical malaria in endemic areas. We defined and quantified cases of malaria in people of different age groups from 2 areas with different rates of transmission of malaria. METHODS: A total of 1602 people were followed up weekly for 2 years, and all the cases of fever accompanied by parasitemia were identified. Logistic regression methods were used to derive case definitions of malaria. RESULTS: Two case definitions of malaria were derived: 1 for children 1-14 years old and 1 for infants (&lt;1 year old) and older children and adults (&gt; or =15 years old). We also found a higher number of episodes of clinical malaria per person per year in people from an area of low transmission of malaria, compared with the number of episodes in those from an area of higher transmission (0.84 vs. 0.55 episodes/person/year; incidence rate ratio, 0.66 [95% confidence interval, 0.61-0.72]; P&lt;.001). CONCLUSIONS: Case definitions of malaria are bound to be altered by factors that affect immunity, such as age and transmission. Case definitions may, however, be affected by other immunity-altering factors, such as HIV and vaccination status, and this needs to be borne in mind during vaccine trials.			<a class="abstract-hide" href="#abstract-39512">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Dorfman JR</span><span class = "author ">, Bejon P</span><span class = "author ">, Ndungu FM</span><span class = "author ">, Langhorne J</span><span class = "author ">, Kortok MM</span><span class = "author ">, Lowe BS</span><span class = "author ">, Mwangi TW</span><span class = "author ">, Williams TN</span><span class = "author ">, Marsh K</span>.</span>			2005.			B cell memory to 3 Plasmodium falciparum blood-stage antigens in a malaria-endemic area.			<span class="journal-title">J Infect Dis</span>,			<span class="journal-volume">191</span>			(10),			pp. 1623-1630.			<a class="abstract-show" href="#abstract-39439">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1086/429671">Read more</a> 		</p>
+				<p id="abstract-39439" class="abstract-block">
+			To gain insight into why antibody responses to malarial antigens tend to be short lived, we studied antigen-specific memory B cells from donors in an area where malaria is endemic. We compared antibody and memory B cell responses to tetanus toxoid with those to 3 Plasmodium falciparum candidate vaccine antigens: the C-terminal portion of merozoite surface protein 1 (MSP1(19)), apical membrane antigen 1 (AMA1), and the cysteine-rich interdomain region 1 alpha (CIDR1 alpha ) of a protein from the P. falciparum erythrocyte membrane protein 1 (PfEMP1) family. These data are the first to be generated on memory B cells in children who are in the process of acquiring antimalarial immunity, and they reveal defects in B cell memory to P. falciparum antigens. Compared with the results for tetanus toxoid, more donors who were positive for antibody to AMA1 and CIDR1 alpha were negative for memory B cells. These data imply that some exposures to malaria do not result in the establishment of stable populations of circulating antigen-specific memory B cells, suggesting possible mechanisms for the short-lived nature of many anti-malarial antibody responses.			<a class="abstract-hide" href="#abstract-39439">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Williams TN</span><span class = "author ">, Mwangi TW</span><span class = "author ">, Roberts DJ</span><span class = "author ">, Alexander ND</span><span class = "author ">, Weatherall DJ</span><span class = "author ">, Wambua S</span><span class = "author ">, Kortok M</span><span class = "author ">, Snow RW</span><span class = "author ">, Marsh K</span>.</span>			2005.			An immune basis for malaria protection by the sickle cell trait.			<span class="journal-title">PLoS Med</span>,			<span class="journal-volume">2</span>			(5),			pp. e128.			<a class="abstract-show" href="#abstract-39548">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1371/journal.pmed.0020128">Read more</a> 		</p>
+				<p id="abstract-39548" class="abstract-block">
+			BACKGROUND: Malaria resistance by the sickle cell trait (genotype HbAS) has served as the prime example of genetic selection for over half a century. Nevertheless, the mechanism of this resistance remains the subject of considerable debate. While it probably involves innate factors such as the reduced ability of Plasmodium falciparum parasites to grow and multiply in HbAS erythrocytes, recent observations suggest that it might also involve the accelerated acquisition of malaria-specific immunity. METHODS AND FINDINGS: We studied the age-specific protection afforded by HbAS against clinical malaria in children living on the coast of Kenya. We found that protection increased with age from only 20% in the first 2 y of life to a maximum of 56% by the age of 10 y, returning thereafter to 30% in participants greater than 10 y old. CONCLUSIONS: Our observations suggest that malaria protection by HbAS involves the enhancement of not only innate but also of acquired immunity to the parasite. A better understanding of the underlying mechanisms might yield important insights into both these processes.			<a class="abstract-hide" href="#abstract-39548">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Snow RW</span><span class = "author ">, Marsh K</span>.</span>			2002.			The consequences of reducing transmission of Plasmodium falciparum in Africa.			<span class="journal-title">Adv Parasitol</span>,			<span class="journal-volume">52</span>						pp. 235-264.			<a class="abstract-show" href="#abstract-32292">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1016/S0065-308X%2802%2952013-3">Read more</a> 		</p>
+				<p id="abstract-32292" class="abstract-block">
+			Malaria transmission intensity in Africa varies over several log orders, from less than one infected bite per year to more than one thousand. In this review we examine the consequences in terms of age pattern, clinical spectrum and overall burden of disease and discuss the possible implications for interventions that reduce exposure to infected bites. With very low transmission intensity, all age groups are susceptible to severe malaria. With increasing transmission intensities, older children and adults suffer less severe disease and with high transmission rates the majority of severe cases occur in infants under one year of age. This pattern reflects the increasingly rapid acquisition of immune responses that limit the life-threatening effects of malaria with increasing exposure to the parasite. The clinical spectrum of severe malaria varies with transmission: with high transmission, severe malarial anaemia dominates and cerebral malaria is rare. As one moves towards lower transmission rates, cerebral malaria accounts for an increasingly large proportion of cases. Although the population risk of severe disease falls with age, the risk of death at an individual level may rise with age after an initial fall from very high case fatality rates in children aged under 6 months. Of central interest to malaria control is how the overall amount of disease in childhood varies with transmission. Data from a number of sources suggest that, with low transmission, the amount of malarial disease rises with increasing exposure but that this saturates relatively early. A key issue is whether the same pattern obtains for deaths, both those directly due to malaria and those from all causes. The methodological limitations of ecological comparisons between different areas are discussed before presenting a review of attempts to use this approach in Africa. This suggests that children living in areas of low malarial endemicity have all-cause mortality rates about half of those of children living in areas of moderate to high transmission. Deaths in the first year of life rise linearly with increasing exposure to malaria over a wide range of transmission intensities; by contrast all-cause mortality in children aged 0-4 years appears to saturate at relatively low transmission intensities. These data suggest that interventions that reduce exposure to malaria parasites, such as insecticide-treated bed nets (ITNs), will have the greatest chance of a sustained effect when used in areas where disease burdens are high but the frequency of parasite exposure is low-to-moderate. In conditions of high transmission, initial reductions in mortality may prove difficult to sustain as the reduced level of transmission may still lie on the part of the curve where mortality has saturated. However, at all levels of transmission the overall balance of benefits, including reduced load on families and health services from non-life-threatening malaria, favours the widespread introduction of ITNs in endemic areas of Africa.			<a class="abstract-hide" href="#abstract-32292">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Marsh K</span><span class = "author ">, Forster D</span><span class = "author ">, Waruiru C</span><span class = "author ">, Mwangi I</span><span class = "author ">, Winstanley M</span><span class = "author ">, Marsh V</span><span class = "author ">, Newton C</span><span class = "author ">, Winstanley P</span><span class = "author ">, Warn P</span><span class = "author ">, Peshu N</span>.</span>			1995.			Indicators of life-threatening malaria in African children.			<span class="journal-title">N Engl J Med</span>,			<span class="journal-volume">332</span>			(21),			pp. 1399-1404.			<a class="abstract-show" href="#abstract-44895">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1056/NEJM199505253322102">Read more</a> 		</p>
+				<p id="abstract-44895" class="abstract-block">
+			BACKGROUND: About 90 percent of the deaths from malaria are in African children, but criteria to guide the recognition and management of severe malaria have not been validated in them. METHODS: We conducted a prospective study of all children admitted to the pediatric ward of a Kenyan district hospital with a primary diagnosis of malaria. We calculated the frequency and mortality rate for each of the clinical and laboratory criteria in the current World Health Organization (WHO) definition of severe malaria, and then used logistic-regression analysis to identify the variables with the greatest prognostic value. RESULTS: We studied 1844 children (mean age, 26.4 months) with a primary diagnosis of malaria. Not included were 18 children who died on arrival and 4 who died of other causes. The mortality rate was 3.5 percent (95 percent confidence interval, 2.7 to 4.3 percent), and 84 percent of the deaths occurred within 24 hours of admission. Logistic-regression analysis identified four key prognostic indicators: impaired consciousness (relative risk, 3.3; 95 percent confidence interval, 1.6 to 7.0), respiratory distress (relative risk, 3.9; 95 percent confidence interval, 2.0 to 7.7), hypoglycemia (relative risk, 3.3; 95 percent confidence interval, 1.6 to 6.7), and jaundice (relative risk, 2.6; 95 percent confidence interval, 1.1 to 6.3). Of the 64 children who died, 54 were among those with impaired consciousness (n = 336; case fatality rate, 11.9 percent) or respiratory distress (n = 251; case fatality rate, 13.9 percent), or both. Hence, this simple bedside index identified 84.4 percent of the fatal cases, as compared with the 79.7 percent identified by the current WHO criteria. CONCLUSIONS: In African children with malaria, the presence of impaired consciousness or respiratory distress can identify those at high risk for death.			<a class="abstract-hide" href="#abstract-44895">Hide abstract</a>
+		</p>
+						<p>
+			<span class="journal-authors"><span class = "author ">Marsh K</span><span class = "author ">, Howard RJ</span>.</span>			1986.			Antigens induced on erythrocytes by P. falciparum: expression of diverse and conserved determinants.			<span class="journal-title">Science</span>,			<span class="journal-volume">231</span>			(4734),			pp. 150-153.			<a class="abstract-show" href="#abstract-221837">Read abstract</a> 			 | <a href="http://dx.doi.org/10.1126/science.2417315">Read more</a> 		</p>
+				<p id="abstract-221837" class="abstract-block">
+			Red blood cells that are infected with the malaria parasite Plasmodium falciparum express new antigens on their surface. In a study of these antigens in the erythrocytes of naturally infected children in the Gambia, an antibody-mediated agglutination assay revealed an extreme degree of antigenic diversity. Serum samples from each of ten children in the convalescent stage of malaria infection reacted with infected cells from the same child but generally not with infected cells from the other children. The Gambian children's erythrocytes also expressed shared determinants: sera from Gambian adults often reacted with the surface of infected cells from all of the children and were shown by adsorption and elution experiments to contain antibodies that recognized several isolates. Conserved determinants exposed on infected erythrocytes may be important for development of antimalarial immunity either naturally or through vaccination.			<a class="abstract-hide" href="#abstract-221837">Hide abstract</a>
+		</p>
+					</div>
+		</div>
+<div id="side-bar">
+	<div class="side-box">
+		<h3>Profile</h3>
+		<a class="lightbox" title="" href="http://tools.ndm.ox.ac.uk/pinfox/importers/pinfox/NDM/images/kevinmarshhead_fit_900x600.jpg"><img id="pi-photo" src="http://tools.ndm.ox.ac.uk/pinfox/importers/pinfox/NDM/images/kevinmarshhead_fit_204x204.jpg" alt="Prof Kevin Marsh" /></a>		<table>
+			<tr>
+				<th>Name:</th>
+								<td><a class="email">Prof Kevin Marsh</a>&nbsp;&nbsp;<a class="email"><img class="mail_icon" src="/_static/website/images/icons/icon-email.gif"></a></td>
+							</tr>
+									<tr>
+				<th>Titles:</th>
+				<td>Professor of Tropical Medicine, Group Head / PI, Consultant Physician and Member of congregation</td>
+			</tr>
+									<tr>
+				<th>Location:</th>
+				<td>NDM Research Building</td>
+			</tr>
+									<tr>
+				<th>Division:</th>
+				<td>Tropical Medicine</td>
+			</tr>
+														</table>
+	</div>
+</div>
+<div id="pi_id" dev="0">16</div>
+
+<div id="register_interest_dialog" title="Register your interest in future opportunities"><form action="http://ndms-live.well.ox.ac.uk/jobInterestForm/jobInterestForm.php" method="get">
+<p><label>I am interested in: </label><select name="vacancy_type">
+<option selected="selected" value="all">All jobs</option>
+<option value="research_only">Research jobs only</option>
+<option value="non_research_only">Non-research jobs only</option>
+</select></p>
+<p><label>My email address is: </label><input name="email" type="text" /></p>
+<p><input type="submit" value="Register Interest" /></p>
+</form></div>
+<div id="register_success_dialog" title="Your interest has been registered">
+<p>Thank you for registering your interest</p>
+</div>
+<div id="register_fail_dialog" title="Failed to register interest">
+<p>We were unable to record your request to register for interest in future opportunities. Please try again and if problems persist contact us at <a href="mailto:webteam@ndm.ox.ac.uk">webteam@ndm.ox.ac.uk</a></p>
+</div>
+<script>
+$(document).ready(function(){
+		$('a[class="email"]').attr('href','mail'+'to'+':kevin.marsh'+'@'+'ndm.ox.ac.uk');
+	if( typeof makePiTimeline !== 'undefined' )
+	{
+		makePiTimeline( 16, 200 );
+	}
+	
+});
+</script>
+<script type="text/javascript" src="/_static/website/javascripts/piTimelineNew.js"></script>
+<script type="text/javascript" src="/_static/website/javascripts/swfobject.js"></script>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+	$('div#register_interest_dialog').hide();
+	$('div#register_success_dialog').hide();
+	$('div#register_fail_dialog').hide();
+	$('div#register_interest img').click(function(event){
+		event.preventDefault();
+		$('div#register_interest_dialog').dialog();
+		$('div#register_interest_dialog').dialog("option", "width", 500);
+	});
+	$('a#send_reminder').click(function(event){
+		event.preventDefault();
+		sendReminderEmail();
+		$('div#email_reminder_dialog').dialog('close');
+	});
+	var pieces = window.location.href.split("?");
+	if (pieces[1]=='msg=success') {
+		$('div#register_success_dialog').dialog({ buttons: [ { text: "Ok", click: function() { $( this ).dialog( "close" ); } } ] });
+	}
+	else if (pieces[1]=='msg=fail') {
+		$('div#register_fail_dialog').dialog({ buttons: [ { text: "Ok", click: function() { $( this ).dialog( "close" ); } } ] });
+	}
+});
+// ]]></script>
+				<div id="footer">
+			<a style="float:left; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/athena-swan" title="Link to Athena SWAN NDM pages" target="_blank"><img class="logo-athena" src="/_static/website/images/athena-swan-silver.png" alt="Athena SWAN logo" /></a><a style="float:right; margin-top: 10px;" href="http://www.ndm.ox.ac.uk/working-for-ndm" title="Link to Working for NDM" target="_blank"><img src="/_static/website/images/ndm-men-coloured.jpg" alt="Nuffield Department of Clincial Medicine logo" /></a>
+			<p>
+				© 2015 Offices of the Nuffield Professor of Medicine, Nuffield Department of Medicine, University of Oxford<br />
+				Henry Wellcome Building for Molecular Physiology, Old Road Campus, Headington, Oxford OX3 7BN
+			</p>
+			
+			<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img alt="newt favicon" src="/_static/website/images/newt-favicon.gif" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img alt="pinfox favicon" src="/_static/website/images/pinfox-favicon.gif" /> Pinfox</a></p>
+			<p>
+				<a href="/">Home</a>
+				| <a href="/_sitemap">Site Map</a>
+				| <a href="/contact">Contact</a>
+								| <a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a>
+				| <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> 
+				| <a href="http://www.ox.ac.uk/copyright.html" target="_blank">Copyright</a>
+				| <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a>
+				| <a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a>
+				| <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a>
+			</p>
+		</div>
+			</div>
+	
+	
+	<script>
+		$(document).ready(function(){
+			$('input[name="nojs"]','#cse-search-box').remove();	
+		});
+	</script>
+	
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5929760-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

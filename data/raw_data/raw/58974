@@ -1,0 +1,504 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0; width=device-width"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/www.exeter.ox.ac.uk/themes/exeter/favicon.ico" type="image/x-icon" />
+<meta name="description" content="Students spend three years at Oxford in preclinical study. They then move to one of three national clinical schools for a further three years of training" />
+<meta name="keywords" content="exeter,college,oxford,university,subject,physiology,general practice,course,teaching" />
+<link rel="canonical" href="http://www.exeter.ox.ac.uk/node/284" />
+<meta name="revisit-after" content="1 day" />
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/exeter/files/css/css_bc0c6df31edf8fdeb4bba847fecabc83.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/exeter/files/css/css_c59a763df0cdeb7a43b9dd0c0afa09e8.css" />
+<link type="text/css" rel="stylesheet" media="screen and (max-width: 740px)" href="/sites/exeter/files/css/css_a1692769c7ba7766b3c82989e71764fa.css" />
+<link type="text/css" rel="stylesheet" media="screen and (min-width: 741px)" href="/sites/exeter/files/css/css_9060ccc0fa8f42ae1439c42e6c5f9a92.css" />
+<link type="text/css" rel="stylesheet" media="screen and (min-width: 960px)" href="/sites/exeter/files/css/css_73b2fd5c52bddcedacc2d37488ba9458.css" />
+<link type="text/css" rel="stylesheet" media="screen and (min-width: 1500px)" href="/sites/exeter/files/css/css_ef0dfebc58d0094e825c83db918fb71a.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/sites/exeter/files/css/css_13765bc4542eac3dd20d3b2c81662671.css" />
+    <!--[if lt IE 9]><link rel="stylesheet" media="all" href="/sites/exeter/themes/exeter/css/responsive/small.css"/><link rel="stylesheet" media="all" href="/sites/exeter/themes/exeter/css/responsive/medium.css"><![endif]-->
+    <!--[if lte IE 6]><link rel="stylesheet" media="all" href="/sites/exeter/themes/exeter/css/ie6.css"><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" media="all" href="/sites/exeter/themes/exeter/css/ie7.css"><![endif]-->
+    <script type="text/javascript" src="/misc/jquery.js?L"></script>
+<script type="text/javascript" src="/misc/drupal.js?L"></script>
+<script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js?L"></script>
+<script type="text/javascript" src="/sites/all/modules/lightbox2/js/lightbox.js?L"></script>
+<script type="text/javascript" src="/sites/all/modules/panels/js/panels.js?L"></script>
+<script type="text/javascript" src="/sites/all/modules/spamspan/spamspan.compressed.js?L"></script>
+<script type="text/javascript" src="/sites/all/modules/swftools/swftools.js?L"></script>
+<script type="text/javascript" src="/sites/all/modules/swftools/wijering4/swftools_wijering4.js?L"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/js/jquery.cycle.all.min.js?L"></script>
+<script type="text/javascript" src="/sites/all/modules/views_slideshow/contrib/views_slideshow_singleframe/views_slideshow.js?L"></script>
+<script type="text/javascript" src="/sites/www.exeter.ox.ac.uk/themes/exeter/js/responsiveIframe.js?L"></script>
+<script type="text/javascript" src="/sites/www.exeter.ox.ac.uk/themes/exeter/js/collapsibleNavigation.js?L"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "jcarousel": { "ajaxPath": "/jcarousel/ajax/views" }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/exeter/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": 10, "font_color": "000", "box_color": "fff", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": true, "resize_sequence": 0, "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": false, "disable_resize": false, "disable_zoom": false, "force_show_nav": false, "show_caption": true, "loop_items": false, "node_link_text": "View Image Details", "node_link_target": false, "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "original", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": 0, "custom_trigger_classes": "", "disable_for_gallery_lists": true, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": 600, "iframe_height": 400, "iframe_border": 1, "enable_video": false }, "spamspan": { "m": "spamspan", "u": "u", "d": "d", "h": "h", "t": "t" } });
+//--><!]]>
+</script>
+  </head>
+
+  <body class="not-front not-logged-in page-node node-type-subject one-sidebar sidebar-right page-teachingandresearch-medicine section-teachingandresearch with-navigation">
+    <div id="skip"><a href="#content">Skip to Content</a> <a href="#navigation">Skip to Navigation</a></div>  
+    <div id="page">
+
+    <!-- ______________________ HEADER _______________________ -->
+
+    <div id="header">
+
+      <div id="logo-title">
+	
+        
+        <div id="name-and-slogan">
+                      <h1 id="site-name">
+              <a href="/" title="Home" rel="home"><span>Exeter College Oxford</span></a>
+            </h1>
+                            </div> <!-- /name-and-slogan -->
+
+      </div> <!-- /logo-title -->
+
+              <div id="header-region">
+          <div id="block-menu-menu-header-links" class="block block-menu block-header block-id-193 clearfix odd">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <ul class="menu"><li class="leaf first last give_now"><a href="/donate" title="Make a donation to Exeter College">Give now</a></li>
+</ul>    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block --><div id="block-search-0" class="block block-search block-header block-id-26 clearfix even">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <form action="/alumni/events/1995-1999-gaudy"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="form-item" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search: </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-MAUnZOdLZaTygKFwIcfc0rXxh9w7dQ8giUTXkaFmjwA" value="form-MAUnZOdLZaTygKFwIcfc0rXxh9w7dQ8giUTXkaFmjwA"  />
+<input type="hidden" name="form_token" id="edit-search-block-form-form-token" value="510ec03c88ac4461d252f434634664f6"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+
+</div></form>
+    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block -->        </div>
+      
+      
+    </div> <!-- /header -->
+
+    <!-- ______________________ MAIN _______________________ -->
+
+    <div id="main" class="clearfix">
+    
+      <div id="content">
+        <div id="content-inner" class="inner column center">
+
+          
+                      <div id="content-header">
+
+              <div class="breadcrumb"><a href="/">Home</a> » <a href="/teaching-research">Teaching and Research</a> » <a href="/teachingandresearch/medicine" class="active">Medicine</a></div>
+                              <h1 class="title">Medicine</h1>
+              
+              
+              
+               
+
+              
+            </div> <!-- /#content-header -->
+          
+          <div id="content-area">
+            <div class="panel-display panel-1col clear-block" >
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-content-field pane-field-image" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="field field-type-filefield field-field-image">
+    <div class="field-items">
+            <div class="field-item odd">
+                    <img src="http://www.exeter.ox.ac.uk/sites/exeter/files/imagecache/fullwidth/images/landingpages/Exeter%20in%20Snow%20003%202012_0.jpg" alt="Exeter College in the snow" title=""  class="imagecache imagecache-fullwidth imagecache-default imagecache-fullwidth_default" width="960" height="281" />        </div>
+        </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-region-separator"></div><div class="panel-pane pane-node-content" >
+  
+  
+  
+  <div class="pane-content">
+    <div class="node node clearfix node-type-subject" id="node-284">
+  <div class="node-inner">
+
+        
+    
+			
+		
+						
+		<div class="content">
+		  <p><em><strong>&ldquo;The art of medicine was to be properly learned only from its practice and its exercise.&rdquo; </strong></em></p>
+<p>Thomas Sydenham, also known as &quot;The English Hippocrates&quot; (1624-89)</p>
+<h2>
+	Courses available:</h2>
+<p>BA (undergraduate preclinical) &ndash; three years</p>
+<p>BM (graduate clinical) &ndash; three years</p>
+<h2>
+	Course requirements:</h2>
+<ul>
+	<li>
+		A*AA at A-Level in any subjects excluding General Studies. Candidates are required to have Chemistry (compulsory), plus Biology and/or Physics and/or Mathematics to full A-level.&nbsp;</li>
+	<li>
+		Or Advanced Highers: AA (taken in one academic year and to include Chemistry, plus Biology or Mathematics or Physics)</li>
+	<li>
+		Or Highers: AAAAA</li>
+	<li>
+		Or IB: 39 (including core points) with 766 at HL</li>
+	<li>
+		All applicants are required to sit the BMAT at their own school, college or approved admissions test centre in November&nbsp;</li>
+	<li>
+		Good memory, good communication skills, reasoning ability, self-motivation, ability to work under pressure</li>
+</ul>
+<p>Average number of places available each year: Preclinical: 5 (with 2 other students studying Biomedical Sciences) Clinical: places are offered to Exeter Preclinical students who wish to continue at Exeter.</p>
+<p>For an overview of the courses available, please see:&nbsp;<a href="http://www.ox.ac.uk/admissions/undergraduate/courses-listing/medicine">http://www.ox.ac.uk/admissions/undergraduate/courses-listing/medicine</a></p>
+<p>For an over-view of the BMAT, please see:&nbsp;<a href="http://www.admissionstestingservice.org/for-test-takers/bmat/about-bmat/">http://www.admissionstestingservice.org/for-test-takers/bmat/about-bmat</a></p>
+<h2>
+	Why study Medicine at Exeter?</h2>
+<p>Exeter is a college which is conveniently central, a mere 10 minute walk from the Radcliffe Science Library and within easy reach of the medical departments across the university. In addition, Exeter&rsquo;s own library &ndash; which is open 24 hours a day &ndash; is fully resourced for both pre-clinical and clinical students having been thoroughly overhauled and restocked in 2014 to provide access to all required text-books and online articles. In addition, all Freshers studying medicine at the College are given book tokens to help towards the cost of books.</p>
+<p>Students on the pre-clinical course are principally taught in tutorials, classes, and lectures, but visits to doctors&rsquo; surgeries are also an integral part of the course. As well as this, medical students are invited to become members of the student-led &ldquo;MedSoc&rdquo; which, among other things, organises an annual dinner for students and alumni to get together. The annual Medical Sciences Subject Family Dinner, hosted and arranged by the Rector, also gives students an opportunity to hear from other academics and graduates about their current research and share ideas on active issues.&nbsp;</p>
+<p>For those staying on &ndash; or joining the College &ndash; for clinical studies, accommodation is offered in the graduate housing at the Exeter House in East Oxford. The appointment of two additional medical Fellows in the mid-2000s was in direct response to Exeter&rsquo;s commitment to supporting clinical medics. In particular, they focus on facilitating links between students and practitioners at the John Radcliffe Hospital and within local health care providers.</p>
+<p>For students going on their electives (optional courses of study), Exeter is proud to have a 700th Anniversary Medical Electives Fund, which aims to help fund Exeter medics exploring their chosen field of study.&nbsp;</p>
+<p><em><strong>&quot;Medicine at Oxford is incredibly rewarding. It&rsquo;s very satisfying to feel your knowledge build up to give you a comprehensive understanding of the human body &ndash; tutors at College are fantastic in supporting your learning. We also get the chance to see patients in health centres, which helps you put all you learn into context and gives you a sense of the doctor patient relationship&quot; </strong></em></p>
+<p>Sam Hong Zhang, 1st Year reading Medicine&nbsp;</p>
+<p><em><strong>&quot;At Exeter we are fortunate to have supporting tutors who pay attention to our overall workload but equally inspire us in their specialty. This year we have had a surgeon teaching us who has taken us to hospital and given us a taste of how our knowledge can be useful in a clinical setting. Exeter has a unique learning experience and I definitely would not consider moving college.&quot; </strong></em></p>
+<p>Lottie Mitchell, 1st year reading Medicine</p>
+<h2>
+	Exeter&rsquo;s Fellows in Medicine and Research Staff</h2>
+<ul>
+	<li>
+		<a href="/teachingandresearch/medicine/vaughan-jones">Professor Richard Vaughan-Jones</a>&nbsp;-&nbsp;<em>Fellow and Tutor for Medicine and Physiology</em>. Professor Vaughan-Jones oversees the preclinical course at Exeter College. His research interests include intracellular pH and Ca2+ signalling and their effects on cardiac function in health and disease, and their role in the development of cancer. He is also Joint Director and Founder of the Burdon Sanderson Cardiac Science Centre in Oxford and is currently President of The Physiological Society of the UK and Ireland.&nbsp;</li>
+	<li>
+		<a href="/teachingandresearch/medicine/kennedy">Dr James Kennedy</a>&nbsp;-&nbsp;<em>Fellow by Special Election, Physiology</em>. Dr Kennedy is a University Lecturer in Geratology and Stroke Medicine and Honorary Consultant Physician practicing at the JR Hospital. His research interests are in imaging and clinical trials in stroke and he has special responsibility for clinical medics.</li>
+	<li>
+		<a href="/teachingandresearch/medicine/farmer">Professor Andrew Farmer</a>&nbsp;-&nbsp;<em>Fellow by Special Election, General Practice</em>. Dr Farmer is a University Lecturer in General Practice and practices as a GP two half-days a week in a central Oxford practice. His research interests are the clinical management of diabetes and vascular diseases and he has spent considerable time in South Africa in primary-care clinics running local studies. He has special responsibility for clinical medics.</li>
+	<li>
+		<a href="/teachingandresearch/medicine/channon">Professor Keith Channon</a>&nbsp;-&nbsp;<em>Professorial Fellow in Cardiovascular Medicine</em></li>
+	<li>
+		<a href="/teachingandresearch/medicine/nurmohamed">Dr Salima Nurmohamed</a>&nbsp;-&nbsp;<em>Lecturer in Biochemistry and Medical Genetics</em></li>
+	<li>
+		<a href="/teachingandresearch/medicine/issa">Dr Fadi Issa</a>&nbsp;-&nbsp;<em>Lecturer in Physiology</em></li>
+	<li>
+		<a href="/teachingandresearch/medicine/parrington">Dr John Parrington</a>&nbsp;-&nbsp;<em>Lecturer in Pharmacology</em></li>
+	<li>
+		<a href="/teachingandresearch/medicine/rinaldi">Dr Simon Rinaldi</a>&nbsp;-&nbsp;<em>Lecturer in Physiology</em></li>
+	<li>
+		<a href="/teachingandresearch/medicine/lomas">Dr Oliver Lomas</a>&nbsp;-&nbsp;<em>Lecturer in Clinical Medicine</em></li>
+	<li>
+		<a href="/teachingandresearch/pathology/tang">Professor Christoph Tang</a> - <em>Professorial Fellow in Cellular Pathology, Sir William Dunn School of Pathology</em>. Professor Tang organises the Microbiology course in the preclinical course and the Bacterial Pathogenesis theme in the Final Year Honours School. He provides tutorials on these topics for students at Exeter. His group work on understanding the mechanisms that enable bacteria to cause disease in humans, and how this can be exploited for vaccine design. He is also a Member of EMBO, and a Fellow of the Academy of Medical Sciences.</li>
+</ul>
+<h2>
+	Careers</h2>
+<p>The combination of the 1st BM and the Honours Degree course means that medical students are able to pursue a wide variety of careers in the medical field. The Final Honours course provides an excellent training ground for those students who may wish, at some stage, to undertake medical research and/or read for a further research degree.</p>
+		</div>
+		
+				
+		
+
+	
+  </div> <!-- /node-inner -->
+</div> <!-- /node-->
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+          </div> <!-- /#content-area -->
+
+          
+          
+          </div>
+        </div> <!-- /content-inner /content -->
+        					<div id="navigation" class="menu ">
+            <div id="block-menu_block-3" class="block block-menu_block block-navigation block-id-65 clearfix odd">
+  <div class="block-inner">
+
+          <h3 class="title block-title">Main Menu</h3>
+    
+    <div class="content">
+      <div class="menu-block-3 menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-918 has-children the_college"><a href="/college" title="The College">The College</a></li>
+<li class="leaf menu-mlid-887 has-children active-trail teaching_and_research"><a href="/teaching-research" title="Teaching and Research" class="active-trail">Teaching and Research</a></li>
+<li class="leaf menu-mlid-920 has-children prospective_students"><a href="/prospective-students" title="Prospective students">Prospective students</a></li>
+<li class="leaf menu-mlid-919 has-children current_students"><a href="/currentstudents" title="Current students">Current students</a></li>
+<li class="leaf menu-mlid-921 has-children alumni"><a href="/alumni" title="Alumni">Alumni</a></li>
+<li class="leaf last menu-mlid-922 has-children conferences"><a href="/conferences" title="Conferences">Conferences</a></li>
+</ul></div>
+    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block -->          </div> <!-- /navigation -->
+        
+ 
+         <!-- /sidebar-left -->
+
+                  <div id="sidebar-second" class="column sidebar second">
+            <div id="sidebar-second-inner" class="inner">
+              <div id="block-menu-menu-quick-links" class="block block-menu block-right block-id-107 clearfix odd">
+  <div class="block-inner">
+
+          <h3 class="title block-title">Quick Links</h3>
+    
+    <div class="content">
+      <ul class="menu"><li class="leaf first contacts"><a href="/college/contact" title="">Contacts</a></li>
+<li class="leaf home"><a href="/" title="">Home</a></li>
+<li class="leaf vacancies"><a href="/college/vacancies" title="">Vacancies</a></li>
+<li class="leaf last scholarships"><a href="/prospectivestudents/graduate/finances/scholarships" title="">Scholarships</a></li>
+</ul>    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block --><div id="block-menu_block-2" class="block block-menu_block block-right block-id-60 clearfix even">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <div class="menu-block-2 menu-name-primary-links parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="collapsed first menu-mlid-1259 biochemistry"><a href="/teachingandresearch/biochemistry" title="Biochemistry">Biochemistry</a></li>
+<li class="leaf menu-mlid-2479 biomedical_sciences"><a href="/teachingandresearch/Biomedical-Sciences" title="Biomedical Sciences">Biomedical Sciences</a></li>
+<li class="collapsed menu-mlid-1260 byzantine_studies"><a href="/teachingandresearch/byzantine" title="Byzantine Studies">Byzantine Studies</a></li>
+<li class="collapsed menu-mlid-1254 chemistry"><a href="/teachingandresearch/chemistry" title="Chemistry">Chemistry</a></li>
+<li class="collapsed menu-mlid-1262 classics"><a href="/teachingandresearch/classics" title="Classics">Classics</a></li>
+<li class="collapsed menu-mlid-1264 earth_sciences"><a href="/teachingandresearch/earth-sciences" title="Earth Sciences">Earth Sciences</a></li>
+<li class="collapsed menu-mlid-1266 economics"><a href="/teachingandresearch/economics" title="Economics">Economics</a></li>
+<li class="leaf menu-mlid-1269 economics_-amp-_management"><a href="/teachingandresearch/economics-and-management" title="Economics &amp; Management">Economics &amp; Management</a></li>
+<li class="collapsed menu-mlid-1272 engineering_sciences"><a href="/teachingandresearch/engineering" title="Engineering Sciences">Engineering Sciences</a></li>
+<li class="collapsed menu-mlid-1276 english"><a href="/teachingandresearch/english" title="English">English</a></li>
+<li class="collapsed menu-mlid-1278 experimental_pathology"><a href="/teachingandresearch/experimental_pathology" title="Experimental Pathology">Experimental Pathology</a></li>
+<li class="leaf menu-mlid-1279 fine_art"><a href="/teachingandresearch/fine-art" title="Fine Art">Fine Art</a></li>
+<li class="collapsed menu-mlid-1284 history"><a href="/teachingandresearch/history" title="History">History</a></li>
+<li class="collapsed menu-mlid-1286 law"><a href="/teachingandresearch/law" title="Law">Law</a></li>
+<li class="collapsed menu-mlid-1288 management_studies"><a href="/teachingandresearch/management" title="Management Studies">Management Studies</a></li>
+<li class="collapsed menu-mlid-1292 mathematics"><a href="/teachingandresearch/mathematics" title="Mathematics">Mathematics</a></li>
+<li class="expanded menu-mlid-1297 active active-trail medicine"><a href="/teachingandresearch/medicine" title="Medicine" class="active-trail active">Medicine</a><ul class="menu"><li class="leaf first menu-mlid-1295 professor_richard_vaughan-jones"><a href="/teachingandresearch/medicine/vaughan-jones" title="Professor Richard Vaughan-Jones">Professor Richard Vaughan-Jones</a></li>
+<li class="leaf menu-mlid-1294 dr_james_kennedy"><a href="/teachingandresearch/medicine/kennedy" title="Dr James Kennedy">Dr James Kennedy</a></li>
+<li class="leaf menu-mlid-1293 professor_andrew_farmer"><a href="/teachingandresearch/medicine/farmer" title="Professor Andrew Farmer">Professor Andrew Farmer</a></li>
+<li class="leaf menu-mlid-2470 professor_keith_channon"><a href="/teachingandresearch/medicine/channon" title="Professor Keith Channon">Professor Keith Channon</a></li>
+<li class="leaf menu-mlid-2469 dr_salima_nurmohamed"><a href="/teachingandresearch/medicine/nurmohamed" title="Dr Salima Nurmohamed">Dr Salima Nurmohamed</a></li>
+<li class="leaf menu-mlid-2449 dr_simon_rinaldi"><a href="/teachingandresearch/medicine/rinaldi" title="Dr Simon Rinaldi">Dr Simon Rinaldi</a></li>
+<li class="leaf menu-mlid-2252 dr_fadi_issa"><a href="/teachingandresearch/medicine/issa" title="Dr Fadi Issa">Dr Fadi Issa</a></li>
+<li class="leaf menu-mlid-2248 dr_john_parrington"><a href="/teachingandresearch/medicine/parrington" title="Dr John Parrington">Dr John Parrington</a></li>
+<li class="leaf last menu-mlid-2450 dr_oliver_lomas"><a href="/teachingandresearch/medicine/lomas" title="Dr Oliver Lomas">Dr Oliver Lomas</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-1304 modern_languages"><a href="/teachingandresearch/modern-languages" title="Modern Languages">Modern Languages</a></li>
+<li class="collapsed menu-mlid-1306 music"><a href="/teachingandresearch/music" title="Music">Music</a></li>
+<li class="collapsed menu-mlid-1894 pathology"><a href="/teachingandresearch/pathology" title="Pathology">Pathology</a></li>
+<li class="collapsed menu-mlid-1309 philosophy"><a href="/teachingandresearch/philosophy" title="Philosophy">Philosophy</a></li>
+<li class="collapsed menu-mlid-1312 physics"><a href="/teachingandresearch/physics" title="Physics">Physics</a></li>
+<li class="collapsed last menu-mlid-1315 politics"><a href="/teachingandresearch/politics" title="Politics">Politics</a></li>
+</ul></div>
+    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block --><div id="block-views-events-block_1" class="block block-views block-right block-id-127 clearfix odd">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <div class="view view-events view-id-events view-display-id-block_1 view-dom-id-1">
+        <div class="view-header">
+      <a class="link-rss" title="News RSS feed" href="/events-rss.xml">Events RSS</a><a class="link-page" title="All Events" href="/alumni/events">Events</a>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/alumni/events/leavers-parents-lunch-1">Leavers&#039; Parents&#039; Lunch</a></span>
+  </div>
+  
+  <div class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Sun, 21/06/2015 - <span class="date-display-start">12:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">4:00pm</span></span></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/alumni/events/eighth-century-lecture-%E2%80%93-sir-peter-jackson">Eighth Century Lecture – Sir Peter Jackson</a></span>
+  </div>
+  
+  <div class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Thu, 25/06/2015 - <span class="date-display-start">6:30pm</span><span class="date-display-separator"> - </span><span class="date-display-end">7:30pm</span></span></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/alumni/events/demi-decade-day-1970-74">Demi Decade Day 1970-74</a></span>
+  </div>
+  
+  <div class="views-field-field-date-value">
+                <span class="field-content"><span class="date-display-single">Sat, 27/06/2015 - <span class="date-display-start">10:30am</span><span class="date-display-separator"> - </span><span class="date-display-end">11:00pm</span></span></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block --><div id="block-views-news-block_2" class="block block-views block-right block-id-159 clearfix even">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <div class="view view-news view-id-news view-display-id-block_2 block-news block-college-news view-dom-id-2">
+        <div class="view-header">
+      <a class="link-rss" title="News RSS feed" href="/news-rss.xml">News RSS</a><a class="link-page" title="All News" href="/news">News</a>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">
+    <ul>
+          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/alumni/news/professor-christina-de-bellaigue-holds-inaugural-conference-torch-research">Professor Christina de Bellaigue holds inaugural conference for TORCH research</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/alumni/news/professor-fara-dabhoiwalas-book-translated-mandarin">Professor Fara Dabhoiwala&#039;s book translated into Mandarin</a></span>
+  </div>
+</li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field-title">
+                <span class="field-content"><a href="/alumni/news/professor-christina-de-bellaigue-guest-edit-oxford-review-education">Professor Christina de Bellaigue to guest edit Oxford Review of Education</a></span>
+  </div>
+</li>
+      </ul>
+</div>    </div>
+  
+  
+  
+  
+  
+  
+</div>     </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block --><div id="block-block-2" class="block block-block block-right block-id-113 clearfix odd">
+  <div class="block-inner">
+
+          <h3 class="title block-title">Exeter on Twitter</h3>
+    
+    <div class="content">
+      <a class="twitter-timeline" href="https://twitter.com/ExeterCollegeOx" data-widget-id="468756106978672640">Tweets by @ExeterCollegeOx</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block -->            </div>
+          </div>
+         <!-- /sidebar-second -->
+
+      </div> <!-- /main -->
+
+      <!-- ______________________ FOOTER _______________________ -->
+
+              <div id="footer">
+                    <div id="block-block-1" class="block block-block block-footer_block block-id-77 clearfix odd">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <p>&copy; Exeter College 2015. All Rights Reserved<br />
+	<span class="registered-charity">Registered Charity No. 1141333</span></p>
+    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block --><div id="block-menu_block-6" class="block block-menu_block block-footer_block block-id-213 clearfix even">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <div class="menu-block-6 menu-name-primary-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="leaf first menu-mlid-918 has-children the_college"><a href="/college" title="The College">The College</a></li>
+<li class="leaf menu-mlid-887 has-children active-trail teaching_and_research"><a href="/teaching-research" title="Teaching and Research" class="active-trail">Teaching and Research</a></li>
+<li class="leaf menu-mlid-920 has-children prospective_students"><a href="/prospective-students" title="Prospective students">Prospective students</a></li>
+<li class="leaf menu-mlid-919 has-children current_students"><a href="/currentstudents" title="Current students">Current students</a></li>
+<li class="leaf menu-mlid-921 has-children alumni"><a href="/alumni" title="Alumni">Alumni</a></li>
+<li class="leaf last menu-mlid-922 has-children conferences"><a href="/conferences" title="Conferences">Conferences</a></li>
+</ul></div>
+    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block --><div id="block-menu-menu-footer-links" class="block block-menu block-footer_block block-id-74 clearfix odd">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <ul class="menu"><li class="leaf first university_of_oxford"><a href="http://ox.ac.uk" title="">University of Oxford</a></li>
+<li class="leaf sitemap"><a href="/sitemap" title="">sitemap</a></li>
+<li class="leaf last privacy_statement"><a href="/privacy" title="">privacy statement</a></li>
+</ul>    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block --><div id="block-menu-menu-footer-logos" class="block block-menu block-footer_block block-id-75 clearfix even">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <ul class="menu"><li class="leaf first last university_of_oxford"><a href="http://ox.ac.uk" title="">University of Oxford</a></li>
+</ul>    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block --><div id="block-block-6" class="block block-block block-footer_block block-id-208 clearfix odd">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <a class="link-to-top" href="#top">Top</a>    </div>
+
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block -->        </div> <!-- /footer -->
+      
+    </div> <!-- /page -->
+    <script type="text/javascript" src="/sites/all/modules/eu-cookie-compliance/js/eu_cookie_compliance.js?L"></script>
+<script type="text/javascript" src="/sites/www.exeter.ox.ac.uk/modules/google_cse/google_cse.js?L"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "googleCSE": { "language": "en" }, "eu_cookie_compliance": { "popup_enabled": 1, "popup_agreed_enabled": 0, "popup_clicking_confirmation": 1, "popup_html_info": "\n\x3cdiv\x3e\n  \x3cdiv class =\"popup-content info\"\x3e\n    \x3cdiv id=\"popup-text\"\x3e\n      \x3ch2\x3e	We use cookies on this site to enhance your user experience\x3c/h2\x3e\x3cp\x3eFor more information please see our cookies page.\x3c/p\x3e    \x3c/div\x3e\n    \x3cdiv id=\"popup-buttons\"\x3e\n      \x3cbutton type=\"button\" class=\"agree-button\"\x3eYes, I agree\x3c/button\x3e\n      \x3cbutton type=\"button\" class=\"find-more-button\"\x3eI want to find out more\x3c/button\x3e\n    \x3c/div\x3e\n  \x3c/div\x3e\n\x3c/div\x3e\n", "popup_html_agreed": "\n\x3cdiv\x3e\n  \x3cdiv class =\"popup-content agreed\"\x3e\n    \x3cdiv id=\"popup-text\"\x3e\n      \x3ch2\x3e	Thank you for accepting cookies\x3c/h2\x3e\x3cp\x3eYou can now hide this message or find out more about cookies.\x3c/p\x3e    \x3c/div\x3e\n    \x3cdiv id=\"popup-buttons\"\x3e\n      \x3cbutton type=\"button\" class=\"hide-popup-button\"\x3eHide this message \x3c/button\x3e\n      \x3cbutton type=\"button\" class=\"find-more-button\" \x3eMore information on cookies\x3c/button\x3e\n    \x3c/div\x3e\n  \x3c/div\x3e\n\x3c/div\x3e\n", "popup_height": "auto", "popup_width": "100%", "popup_delay": 1000, "popup_link": "privacy", "popup_position": 0, "popup_language": "en" } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-37170772-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+  </body>
+</html>

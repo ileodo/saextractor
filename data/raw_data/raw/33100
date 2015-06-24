@@ -1,0 +1,818 @@
+<!DOCTYPE html
+         PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <title>Seminars | University of Oxford Department of Physics</title>
+    <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/css_0ffcba8bf0a27fffb7941d51e9df58d4.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/css/css_9289369ea467cb49912567e26114c711.css" />
+    <script type="text/javascript" src="/sites/default/files/js/js_5ee18290d1199ab7d7365ddb19a3487e.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "spamspan": { "m": "spamspan", "u": "u", "d": "d", "h": "h", "t": "t" } });
+//--><!]]>
+</script>
+
+    <!--[if lt IE 8]>
+      <link rel="stylesheet" href="/sites/all/themes/physicsbasetheme/ie.css" />
+    <![endif]-->
+    <!--[if IE 6]>
+      <link rel="stylesheet" href="/sites/all/themes/physicsbasetheme/ie6.css" />
+    <![endif]-->
+    
+    <script type="text/javascript">
+      //<![CDATA[
+      /*
+       * MyFonts Webfont Build ID 711203, 2011-02-24T08:12:47-0500
+       * 
+       * The fonts listed in this notice are subject to the End User License
+       * Agreement(s) entered into by the website owner. All other parties are 
+       * explicitly restricted from using the Licensed Webfonts(s).
+       * 
+       * You may obtain a valid license at the urls below.
+       * 
+       * Webfont: DIN Condensed
+       * Url: http://new.myfonts.com/fonts/paratype/din-condensed/pt-din-condensed/
+       * Foundry: ParaType
+       * Copyright: Copyright (c) ParaType, 1999. All rights reserved.
+       * License: http://www.myfonts.com/viewlicense?1056
+       * Licensed pageviews: 10,000,000/month
+       * CSS font-family: DINCondensedA
+       * CSS font-weight: normal
+       * 
+       * © 2011 Bitstream, Inc
+       */
+      // change this to true to enable troubleshooting mode
+      var myfonts_webfont_test = false;
+      // change this to false if you're having trouble with WOFFs
+      var woffEnabled = true;
+      // to place your webfonts in a custom directory, uncomment this and set it to where your webfonts are.
+      //var customPath = "/themes/fonts";
+      //]]>
+    </script>
+    <!-- GA, new updated fonts available
+    <script type="text/javascript" src="/sites/all/themes/physicsbasetheme/MyFonts%20Webfonts%20Order%20M2754893.js"></script>
+    -->
+    <script type="text/javascript" src="/sites/all/themes/physicsbasetheme/MyFontsWebfontsKit.js"></script>
+
+      </head>
+
+  <body class="not-front not-logged-in page-research no-sidebars nojs">
+    <div id="header" class="header">
+      <div class="blue">
+        <div class="container">
+          <div class="six-col">
+                          <ul class="primary-links navigation" id="header-primary-links"><li class="menu-2356 first"><a href="/" title="">Home</a></li>
+<li class="menu-826"><a href="/study-here" title="Study Here">Study here</a></li>
+<li class="menu-6178 active-trail"><a href="/research" title="Research">Research</a></li>
+<li class="menu-6184"><a href="/enterprise" title="Enterprise">Enterprise</a></li>
+<li class="menu-817"><a href="/about-us" title="About Us">About us</a></li>
+<li class="menu-1040"><a href="/contacts" title="Contacts">Contacts</a></li>
+<li class="menu-8778 last"><a href="/alumni" title="Alumni relations">Alumni</a></li>
+<li class='submenu' onclick="void()"><span onclick="void()">More...</span><ul id="top-dropdown"><li class="menu-3798 first"><a href="/staff" title="Staff">Staff</a></li>
+<li class="menu-3797"><a href="/students" title="Current Students">Students</a></li>
+<li class="menu-10728"><a href="/equality-and-diversity" title="Equality and Diversity">Equality and Diversity</a></li>
+<li class="menu-10729"><a href="/blog" title="Blogs">Blogs</a></li>
+<li class="menu-12108 last"><a href="/the-beecroft-building" title="The Beecroft Building">The Beecroft Building</a></li>
+</ul></li></ul>                        <div class='rhs'>
+              <div class='font-chooser'>
+              </div>
+              <div class="search-box">
+                <form action="/"  accept-charset="UTF-8" method="post" id="physicsbasetheme-custom-google-appliance-search-form" class="search-form">
+<div><div class="form-item" id="edit-keys-wrapper">
+ <input type="text" maxlength="255" name="keys" id="edit-keys" size="20" value="Search" onfocus="if (this.value == &#039;Search&#039;) this.value = &#039;&#039;;" onblur="if (this.value == &#039;&#039;) this.value = &#039;Search&#039;;" class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Go"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-ep3bypfl5pbu9z_47Ot4mqbLywD1nmgKOROoLS2n1gU" value="form-ep3bypfl5pbu9z_47Ot4mqbLywD1nmgKOROoLS2n1gU"  />
+<input type="hidden" name="form_id" id="edit-physicsbasetheme-custom-google-appliance-search-form" value="physicsbasetheme_custom_google_appliance_search_form"  />
+
+</div></form>
+              </div>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="six-col">
+                    <div class="white titlebar">
+            <a href='http://www.ox.ac.uk'><img class='logo' src='/sites/all/themes/physicsmpw/logo.png' title='' alt='' /></a>                          <a class="site-title" href="/" title="Department of Physics home page">Department of Physics</a>
+                        <ul class="breadcrumbs"><li class="breadcrumb-1"><a href="/research" title="">Research</a></li><li class="breadcrumb-2"><a href="/research/rudolf-peierls-centre-for-theoretical-physics" title="Rudolf Peierls Centre for Theoretical Physics">Rudolf Peierls Centre for Theoretical Physics</a></li><li class="breadcrumb-3"><a href="/research/rudolf-peierls-centre-for-theoretical-physics/seminars" class="active">Seminars</a></li><li><span><!-- Can't think of a better way to add the last arrow... --></span></li></ul>          </div><!--.white titlebar-->
+
+                    
+                    
+                    
+                  </div><!--.six-col-->
+      </div><!--.container-->
+  </div> <!-- /#header -->
+
+  <div id="main-text" class="main-text columned-content container clear-block">
+        
+    <div id="content" class="main-content six-col six-col-blocks">
+      
+              <h1>Seminars</h1>
+            
+            
+            
+      <div class="filters">
+  <div class='filter-box categories active'>
+    <span class="filter-box-title categories">
+      Theoretical Physics    </span>
+    <ul class="filter-list filter-by-categories">
+      <li><a href="/research/seminars">All</a></li><li><a href="/research/seminars/colloquia">Colloquia</a></li><li><a href="/research/astrophysics/seminars">Astrophysics</a></li><li><a href="/research/atmospheric-oceanic-and-planetary-physics/seminars">Atmospheric, Oceanic and Planetary Physics</a></li><li><a href="/research/atomic-and-laser-physics/seminars">Atomic and Laser Physics</a></li><li><a href="/research/condensed-matter-physics/seminars">Condensed Matter Physics</a></li><li><a href="/research/particle-physics/seminars">Particle physics</a></li><li><a href="/research/rudolf-peierls-centre-for-theoretical-physics/seminars" class="active">Rudolf Peierls Centre for Theoretical Physics</a></li>    </ul>
+  </div>
+  <div class='filter-box series'>
+    <span class="filter-box-title series">
+      Filter by series    </span>
+    <ul class="filter-list filter-by-series">
+      <li><a href="/research/seminars/series/brown-bag">Brown Bag</a></li><li><a href="/research/seminars/series/holography-seminar">Holography Seminar</a></li><li><a href="/research/seminars/series/informal-condensed-matter-seminar">Informal Condensed Matter seminar</a></li><li><a href="/research/seminars/series/informal-seminar">Informal seminar</a></li><li><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></li><li><a href="/research/seminars/series/particle-physics-seminar">Particle Physics seminar</a></li><li><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></li><li><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></li><li><a href="/research/seminars/series/softbio">Softbio</a></li><li><a href="/research/seminars/series/special-seminar">Special seminar</a></li><li><a href="/research/seminars/series/the-forum">The Forum</a></li><li><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></li><li><a href="/research/seminars/series/theoretical-particle-physics-seminar">Theoretical Particle Physics seminar</a></li><li><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></li><li><a href="/research/seminars/series/theoretical-physics-seminar">Theoretical Physics seminar</a></li>    </ul>
+  </div>
+  <div class='filter-box dates active'>
+    <span class="filter-box-title dates">
+      2013    </span>
+    <ul class="filter-list filter-by-dates">
+      <li><span class='optgroup'>Upcoming</span></li><li><a href='?date=upcoming' class='upcoming'>All upcoming</a></li><li><a href='?date=2015.6' class='date year-and-month'>Jun 2015</a></li><li><span class='optgroup'>Archive</span></li><li><a href='?date=2015.5' class='date year-and-month'>May 2015</a></li><li><a href='?date=2015.4' class='date year-and-month'>Apr 2015</a></li><li><a href='?date=2015.3' class='date year-and-month'>Mar 2015</a></li><li><a href='?date=2015.2' class='date year-and-month'>Feb 2015</a></li><li><a href='?date=2015.1' class='date year-and-month'>Jan 2015</a></li><li><a href='?date=2014.12' class='date year-and-month'>Dec 2014</a></li><li><a href='?date=2014.11' class='date year-and-month'>Nov 2014</a></li><li><a href='?date=2014.10' class='date year-and-month'>Oct 2014</a></li><li><a href='?date=2014.9' class='date year-and-month'>Sep 2014</a></li><li><a href='?date=2014.8' class='date year-and-month'>Aug 2014</a></li><li><a href='?date=2014.6' class='date year-and-month'>Jun 2014</a></li><li><a href='?date=2014.5' class='date year-and-month'>May 2014</a></li><li><a href='?date=2014' class='date year'>2014</a></li><li><a href='?date=2013' class='active'>2013</a></li><li><a href='?date=2012' class='date year'>2012</a></li><li><a href='?date=2011' class='date year'>2011</a></li><li><a href='?date=2010' class='date year'>2010</a></li><li><a href='?date=2009' class='date year'>2009</a></li><li><a href='?date=2008' class='date year'>2008</a></li>    </ul>
+  </div>
+    <div class="clear"></div>
+</div> <!-- .filters -->
+<div class='filter-info'>
+  <p class='filter-info'>
+    Currently showing seminars filtered by seminar category 'Theoretical Physics' and in 2013  </p>
+</div>
+<table class='sticky-enabled seminar-list'><thead>
+    <th class='datetime'>When</th>
+    <th>Location</th>
+    <th>Title</th>
+    <th>Speaker</th>
+    <th>Series</th>
+    </thead>
+    <tbody>
+      <tr class="views-row views-row-1 views-row-odd">
+        <td>08&nbsp;Jan&nbsp;2013<br /> 14:30</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">MHD turbulence and solar-wind fluctuations</a></td><td>Sean Oughton<br /><span class="grey"> (U of Waikato (NZ))</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-2 views-row-even">
+        <td>10&nbsp;Jan&nbsp;2013<br /> 11:30</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Turbulence and the origin of the solar wind</a></td><td>Benjamin Chandran<br /><span class="grey"> (UNH)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-3 views-row-odd">
+        <td>10&nbsp;Jan&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute, DWB</td>
+        <td>Axiverse Cosmology and the Energy Scale of Inflation</td><td>David J. E. Marsh<br /><span class="grey"> (Perimeter Institute)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-4 views-row-even">
+        <td>11&nbsp;Jan&nbsp;2013<br /> 12:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Cross helicity effects: turbulence closure, dynamo, and reconnection</a></td><td>Nobumitsu Yokoi<br /><span class="grey"> (U of Tokyo)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-5 views-row-odd">
+        <td>15&nbsp;Jan&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>Towards minimal tissues: droplet networks containing engineered protein pores</td><td>Hagan Bayley<br /><span class="grey"> (Department of Chemistry, Oxford University)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-6 views-row-even">
+        <td>16&nbsp;Jan&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>Emergence and con&amp;#64257;nement of monopoles in spin ice</td><td>Dr. Stephen Powell<br /><span class="grey"> (Nordita)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-7 views-row-odd">
+        <td>17&nbsp;Jan&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Holography and the very early universe</td><td>Kostas Skenderis<br /><span class="grey"> (University of Southampton)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-8 views-row-even">
+        <td>17&nbsp;Jan&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td><a href="http://www.sciencedirect.com/science/article/pii/S0550321312002015">N=4 super-Yang-Mills: hidden symmetry in correlation functions</a></td><td>Jakub Sikorowski<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-9 views-row-odd">
+        <td>17&nbsp;Jan&nbsp;2013<br /> 14:30</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Three-dimensional flux ropes</a></td><td>Walter Gekelman<br /><span class="grey"> (UCLA)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-10 views-row-even">
+        <td>18&nbsp;Jan&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>Emergence and systems far from equilibrium</td><td>Robert Mackay<br /><span class="grey"> (Warwick)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-11 views-row-odd">
+        <td>22&nbsp;Jan&nbsp;2013<br /> 14:30</td>
+        <td>Conf Room, DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Intermittent heating and kinetic simulations</a></td><td>Penny Wu<br /><span class="grey"> (U of Delaware)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-12 views-row-even">
+        <td>22&nbsp;Jan&nbsp;2013<br /> 16:00</td>
+        <td>JSR seminar room, PTCL</td>
+        <td>Hysteric Wetting Phenomena: Characterization and Applications</td><td>Bob Cohen<br /><span class="grey"> (MIT)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-13 views-row-odd">
+        <td>23&nbsp;Jan&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>Quantum large deviations and full-counting statistics</td><td>Professor Juan P. Garrahan<br /><span class="grey"> (University of Nottingham)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-14 views-row-even">
+        <td>24&nbsp;Jan&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td><a href="http://arxiv.org/abs/1105.5646">Spectral dimension as a probe of the UV continuum of causal dynamical triangulations</a></td><td>Silke Weinfurtner<br /><span class="grey"> (SISSA Trieste)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-15 views-row-odd">
+        <td>24&nbsp;Jan&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Branching and growth process for uniform infinite causal triangulations</td><td>Stefan Zohren<br /><span class="grey"> (PUC-Rio)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-16 views-row-even">
+        <td>25&nbsp;Jan&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/talks/solids/abstracts/vitelli.html">Shocks in Fragile Matter</a></td><td>Vincenzo Vitelli<br /><span class="grey"> (University of Leiden)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-17 views-row-odd">
+        <td>29&nbsp;Jan&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>Forces and Conformational Dynamics in Biomolecular Nanomachines</td><td>Helmut Grubmueller<br /><span class="grey"> (Max Plank Institute for Biophysical Chemisty)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-18 views-row-even">
+        <td>30&nbsp;Jan&nbsp;2013<br /> 11:15</td>
+        <td>DWB Fisher Room</td>
+        <td>Two-channel Kondo physics in quantum dot devices</td><td>Andrew Mitchell<br /><span class="grey"> (Oxford University (Chemistry))</span></td><td><a href="/research/seminars/series/informal-condensed-matter-seminar">Informal Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-19 views-row-odd">
+        <td>31&nbsp;Jan&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>A holograhic model of the Kondo effect</td><td>Andy O'Bannon<br /><span class="grey"> (DAMTP, Cambridge)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-20 views-row-even">
+        <td>31&nbsp;Jan&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td><a href="http://arxiv.org/abs/1212.2636">Constraining Dark Matter and SUSY with global fits including LHC and direct detection data</a></td><td>Charlotte Strege<br /><span class="grey"> (Imperial College London)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-21 views-row-odd">
+        <td>31&nbsp;Jan&nbsp;2013<br /> 11:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Incorporating kinetic physics into a two-fluid solar-wind model with turbulence and temperature anisotropy</a></td><td>Benjamin Chandran<br /><span class="grey"> (UNH)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-22 views-row-even">
+        <td>01&nbsp;Feb&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>Extracting science from surveys of our galaxy</td><td>James Binney<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-23 views-row-odd">
+        <td>05&nbsp;Feb&nbsp;2013<br /> 16:00</td>
+        <td>JSR Seminar Room, PTCL</td>
+        <td>Defining the pressure and interfacial tension in inhomogeneous systems: The Devil is in the Virial</td><td>George Jackson<br /><span class="grey"> (Imperial)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-24 views-row-even">
+        <td>06&nbsp;Feb&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>TBA</td><td>Zohar Ringel<br /><span class="grey"> (Weizmann Institute)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-25 views-row-odd">
+        <td>07&nbsp;Feb&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Born on the Fourth of July</td><td>Mads Frandsen<br /><span class="grey"> (CP3-Origins)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-26 views-row-even">
+        <td>07&nbsp;Feb&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Gauge dynamics and topological insulators</td><td>David Tong<br /><span class="grey"> (DAMTP, Cambridge)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-27 views-row-odd">
+        <td>07&nbsp;Feb&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>tba</td><td>Gareth Alexander<br /><span class="grey"> (Warwick)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-28 views-row-even">
+        <td>08&nbsp;Feb&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/talks/solids/abstracts/cavagna.html">Superfluid transport of information in turning flocks of starlings</a></td><td>Andrea Cavagna<br /><span class="grey"> (La Sapienza, Rome)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-29 views-row-odd">
+        <td>12&nbsp;Feb&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>Colloidal forces and friction across films of electrolytes and ionic liquids</td><td>Susan Perkin<br /><span class="grey"> (Physical and Theoretical Chemistry, Oxford University)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-30 views-row-even">
+        <td>14&nbsp;Feb&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute, DWB</td>
+        <td><a href="http://arxiv.org/abs/1207.4503">Is the (spectral) dimension of the universe scale dependent?</a></td><td>Georgios Giasemidis<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-31 views-row-odd">
+        <td>14&nbsp;Feb&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Double-logarithmic endpoint resummations for (semi-) inclusive lepton-hadron processes</td><td>Andreas Vogt<br /><span class="grey"> (University of Liverpool)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-32 views-row-even">
+        <td>15&nbsp;Feb&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www2.physics.ox.ac.uk/research/rudolf-peierls-centre-for-theoretical-physics/smaller-is-different-and-more-an-excursion-in">Nanoscale superconductvity: Smaller is different and more</a></td><td>Antonio M Garcia-Garcia<br /><span class="grey"> (Cambridge)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-33 views-row-odd">
+        <td>19&nbsp;Feb&nbsp;2013<br /> 16:00</td>
+        <td>JSR Seminar Room, PTCL</td>
+        <td>Colloidal suspensions in external fields</td><td>Stefan Egelhaaf<br /><span class="grey"> (Heinrich Heine)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-34 views-row-even">
+        <td>20&nbsp;Feb&nbsp;2013<br /> 11:15</td>
+        <td>DWB Seminar room 501</td>
+        <td>Quantum Diffusion in Labyrinth Tilings</td><td>Stefanie Thiem<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/informal-condensed-matter-seminar">Informal Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-35 views-row-odd">
+        <td>21&nbsp;Feb&nbsp;2013<br /> 14:30</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Grid-induced turbulence in laser driven shock wave experiments and magnetic field generation</a></td><td>Hugo Doyle<br /><span class="grey"> (Oxford ALP)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-36 views-row-even">
+        <td>21&nbsp;Feb&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Strong electroweak symmetry breaking</td><td>Anna Kaminska<br /><span class="grey"> (University of Oxford &amp; DESY Hamburg)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-37 views-row-odd">
+        <td>21&nbsp;Feb&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Consistent nonlinear interactions for spin-2 fields</td><td>Angnis Schmidt-May<br /><span class="grey"> (Stockholm University)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-38 views-row-even">
+        <td>22&nbsp;Feb&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/talks/solids/abstracts/bernard.html">Repeated non-demolition measurements and a detour into quantum noises</a></td><td>Denis Bernard<br /><span class="grey"> (Ecole Normale Superieure, Paris)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-39 views-row-odd">
+        <td>26&nbsp;Feb&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>Rheology and transfer of bacteria suspensions in microfluidic channels</td><td>Eric Clement<br /><span class="grey"> (University Pierre et Marie Curie)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-40 views-row-even">
+        <td>27&nbsp;Feb&nbsp;2013<br /> 11:15</td>
+        <td>DWB Fisher room</td>
+        <td>TBA</td><td>Joe Bhaseen<br /><span class="grey"> (King's college London)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-41 views-row-odd">
+        <td>28&nbsp;Feb&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td><a href="http://prd.aps.org/abstract/PRD/v15/i10/p2929_1">Decay of metastable vacua</a></td><td>Rhys Davies<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-42 views-row-even">
+        <td>28&nbsp;Feb&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Computations, simplifications and relations between amplitudes in gauge theory and gravity</td><td>Emil J. Bjerrum-Bohr<br /><span class="grey"> (Niels Bohr Institute, Copenhagen)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-43 views-row-odd">
+        <td>01&nbsp;Mar&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www2.physics.ox.ac.uk/what-have-we-learned-from-the-discovery-of-the-higgs-boson">What have we learned from the discovery of the Higgs boson?</a></td><td>Gian Francesco Giudice<br /><span class="grey"> (CERN)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-44 views-row-even">
+        <td>05&nbsp;Mar&nbsp;2013<br /> 16:00</td>
+        <td>JSR Seminar Room, PTCL</td>
+        <td>Form factor of pNIPAM microgels in overpacked states</td><td>Urs Gasser<br /><span class="grey"> (Paul Scherrer Institute)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-45 views-row-odd">
+        <td>06&nbsp;Mar&nbsp;2013<br /> 11:15</td>
+        <td>DWB Fisher Room</td>
+        <td>Loop models with crossings</td><td>Adam Nahum<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/informal-condensed-matter-seminar">Informal Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-46 views-row-even">
+        <td>07&nbsp;Mar&nbsp;2013<br /> 11:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Outflows from turbulent accretion disks</a></td><td>Sebastien Fromang<br /><span class="grey"> (CEA, Saclay)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-47 views-row-odd">
+        <td>07&nbsp;Mar&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Complete Intersection Calabi-Yau manifolds and their Discrete Symmetries</td><td>Challenger Mishra<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-48 views-row-even">
+        <td>07&nbsp;Mar&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Jet broadening in effective field theory: When dimensional regularization fails</td><td>Guido Bell<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-49 views-row-odd">
+        <td>08&nbsp;Mar&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/talks/solids/abstracts/rice.html">A Phenomenological Theory of the Anomalous Pseudogap Phase in Underdoped Cuprate Superconductors</a></td><td>Maurice Rice<br /><span class="grey"> (ETH, Zurich)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-50 views-row-even">
+        <td>14&nbsp;Mar&nbsp;2013<br /> 14:00</td>
+        <td>Culham K1/0/85</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Kinetic instabilities driven by alpha particles in the solar wind</a></td><td>Daniel Verscharen<br /><span class="grey"> (UNH)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-51 views-row-odd">
+        <td>18&nbsp;Apr&nbsp;2013<br /> 11:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsT13.html">Alfven turbulence and heating in coronal holes</a></td><td>Jean Perez<br /><span class="grey"> (UNH)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-52 views-row-even">
+        <td>18&nbsp;Apr&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Dark Matter, Complementarity &amp; pMSSM SUSY Searches</td><td>Tom Rizzo<br /><span class="grey"> (SLAC)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-53 views-row-odd">
+        <td>23&nbsp;Apr&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>Topology and Self Assembly of Nematic Colloids</td><td>Igor Musevic<br /><span class="grey"> (Intitut Joef Stefan, Ljubljana)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-54 views-row-even">
+        <td>24&nbsp;Apr&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>Spinor condensates: spin-orbit coupling and dynamics</td><td>Ryan Barnett<br /><span class="grey"> (Imperial college, London)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-55 views-row-odd">
+        <td>25&nbsp;Apr&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Higgs triplet phenomenology at the LHC</td><td>Emanuele Re<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-56 views-row-even">
+        <td>25&nbsp;Apr&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>A look at Higgs Inflation</td><td>Kyle Allison<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-57 views-row-odd">
+        <td>26&nbsp;Apr&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www2.physics.ox.ac.uk/new-frontiers-of-quantum-simulations-with-atoms-and-ions">New Frontiers of Quantum Simulations with Atoms and Ions</a></td><td>Peter Zoller<br /><span class="grey"> (Innsbruck)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-58 views-row-even">
+        <td>01&nbsp;May&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>Non-Linear Integral Equations (NLIE) with a singular kernel:     the staggered six-vertex model</td><td>Yacine Ikhlef<br /><span class="grey"> (Universit Pierre et Marie Curie/CNRS)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-59 views-row-odd">
+        <td>02&nbsp;May&nbsp;2013<br /> 14:00</td>
+        <td>Culham K1/0/85</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Thoughts about ways to improve confinement for fusion devices</a></td><td>Greg Hammett<br /><span class="grey"> (Princeton)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-60 views-row-even">
+        <td>02&nbsp;May&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>New physics in ucsd quarks at the LHC: supersymmetry and composite Higgs</td><td>Andreas Weiler<br /><span class="grey"> (DESY, Hamburg)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-61 views-row-odd">
+        <td>02&nbsp;May&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Dissipative hydrodynamics from effective field theory</td><td>Saso Grozdanov<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-62 views-row-even">
+        <td>03&nbsp;May&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/talks/solids/abstracts/pollmann.html">Topological Phases in gapped edges of fractionalized systems</a></td><td>Frank Pollmann<br /><span class="grey"> (MPI Dresden)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-63 views-row-odd">
+        <td>07&nbsp;May&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>Optical Nanoscopy: Live-Cell Applications</td><td>Christian Eggeling<br /><span class="grey"> (Weatherall Institute of Molecular Medicine, Oxford University)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-64 views-row-even">
+        <td>08&nbsp;May&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>Dynamics in one dimension: from integrability to neutron scattering and beyond</td><td>J. S. Caux<br /><span class="grey"> (Universiteit van Amsterdam)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-65 views-row-odd">
+        <td>09&nbsp;May&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute, DWB</td>
+        <td>Heterotic Calabi-Yau Compactifications with Flux</td><td>Eirik Svanes<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-66 views-row-even">
+        <td>09&nbsp;May&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>The asymptotic behaviour of the perturbative expansion in alpha_s in heavy quark physics</td><td>Antonio Pineda<br /><span class="grey"> (Universitat Autnoma de Barcelona)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-67 views-row-odd">
+        <td>09&nbsp;May&nbsp;2013<br /> 11:30</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsT13.html">New ideas in stellar magnetism, and the magnetorotational instability</a></td><td>Geoff Vasil<br /><span class="grey"> (CITA)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-68 views-row-even">
+        <td>10&nbsp;May&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>A wave-particule duality in a classical experiment with pilot-wave dynamics</td><td>Emmanuel Fort<br /><span class="grey"> (ESPCI)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-69 views-row-odd">
+        <td>14&nbsp;May&nbsp;2013<br /> 16:00</td>
+        <td>JSR seminar room, PTCL</td>
+        <td>Colloidal suspensions in external fields</td><td>Prof Stefan Egelhaaf<br /><span class="grey"> (Heinrich Heine)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-70 views-row-even">
+        <td>15&nbsp;May&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>TBA</td><td>Yan Fyodorov<br /><span class="grey"> (Queen Mary, University of London)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-71 views-row-odd">
+        <td>16&nbsp;May&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Dirac gauginos and the 126 GeV Higgs</td><td>Mark Goodsell<br /><span class="grey"> (CPhT Ecole Polytechnique, Paris)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-72 views-row-even">
+        <td>16&nbsp;May&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute, DWB</td>
+        <td>The QCD axion &amp; cosmology</td><td>Robert Lasenby<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-73 views-row-odd">
+        <td>17&nbsp;May&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/talks/solids/abstracts/trebst.html">Interactions and disorder in topological quantum matter</a></td><td>Simon Trebst<br /><span class="grey"> (University of Cologne)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-74 views-row-even">
+        <td>21&nbsp;May&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>New biological insights from single molecule studies</td><td>David Klenerman<br /><span class="grey"> (Cambridge)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-75 views-row-odd">
+        <td>22&nbsp;May&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>Fractional Chern insulators: High-temperature quantum Hall states and beyond</td><td>Emil Bergholtz<br /><span class="grey"> (Freie Universitat Berlin)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-76 views-row-even">
+        <td>23&nbsp;May&nbsp;2013<br /> 11:30</td>
+        <td>Pease Room, Culham</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsT13.html">Gyrokinetic turbulence in nonaxisymmetric geometry</a></td><td>Tom Bird<br /><span class="grey"> (IPP Greifswald)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-77 views-row-odd">
+        <td>23&nbsp;May&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Recently discovered new source of CP violation in charm physics and its implication for the unitarity triangle</td><td>Mario Martone<br /><span class="grey"> (Cornell University)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-78 views-row-even">
+        <td>23&nbsp;May&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute, DWB</td>
+        <td>What we know about the Dark Matter velocity distribution</td><td>Mattia Fornasa<br /><span class="grey"> (University of Nottingham)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-79 views-row-odd">
+        <td>24&nbsp;May&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>Strongly Correlated Quantum Systems in Low Dimensions</td><td>Alexei Tsvelik<br /><span class="grey"> (BNL)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-80 views-row-even">
+        <td>30&nbsp;May&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Branes in Minimal String Theory</td><td>Benjamin Niedner<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-81 views-row-odd">
+        <td>30&nbsp;May&nbsp;2013<br /> 11:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Reconnection and electron temperature anisotropy in electron scale plasma turbulence</a></td><td>Christopher Haynes<br /><span class="grey"> (Queen Mary)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-82 views-row-even">
+        <td>30&nbsp;May&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Probing high-scale physics with the Planck satellite</td><td>Daniel Baumann<br /><span class="grey"> (DAMTP, Cambridge)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-83 views-row-odd">
+        <td>31&nbsp;May&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/talks/solids/abstracts/evans.html">CANCELLED</a></td><td>Martin Evans<br /><span class="grey"> (University of Edinburgh)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-84 views-row-even">
+        <td>04&nbsp;Jun&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>Targeted delivery of colloids by swimming bacteria</td><td>Roberto Di Leonardo<br /><span class="grey"> (CNR/Phys Dept, University of Rome Sapienza)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-85 views-row-odd">
+        <td>04&nbsp;Jun&nbsp;2013<br /> 11:30</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">Explosive behaviour in plasmas</a></td><td>Steve Cowley<br /><span class="grey"> (U.K.A.E.A.)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-86 views-row-even">
+        <td>05&nbsp;Jun&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>Helical correlations and unbroken symmetry in FCC-stacked triangular Ising antiferromagnets</td><td>Fiona Burnell<br /><span class="grey"> (All Souls College, Oxford University)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-87 views-row-odd">
+        <td>06&nbsp;Jun&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td><a href="http://arxiv.org/abs/1301.3412">D5-brane boundary reflection factors</a></td><td>Fidel I. Schaposnik<br /><span class="grey"> (University of La Plata)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-88 views-row-even">
+        <td>06&nbsp;Jun&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Dualities and bosonization  of massless fermions in d=3 dimensional space-time</td><td>Fidel Schaposnik<br /><span class="grey"> (Universidad Nacional de La Plata)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-89 views-row-odd">
+        <td>07&nbsp;Jun&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>Quantum Quenches and Quantum Integrability</td><td>Fabian Essler<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-90 views-row-even">
+        <td>11&nbsp;Jun&nbsp;2013<br /> 16:00</td>
+        <td>JSR seminar room, PTCL</td>
+        <td>Depinning and Collective Dynamics of Magnetically Driven Colloidal Monolayers</td><td>Dr Pietro Tierno<br /><span class="grey"> (University of Barcelona, Spain)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-91 views-row-odd">
+        <td>12&nbsp;Jun&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>Exact spin-orbital separation in a soluble model in one dimension</td><td>Brijesh Kumar<br /><span class="grey"> (Jawaharlal Nehru University)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-92 views-row-even">
+        <td>13&nbsp;Jun&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Antiproton Limits on Decaying Gravitino Dark Matter</td><td>Michael Grefe<br /><span class="grey"> (Universidad Autonoma de Madrid)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-93 views-row-odd">
+        <td>13&nbsp;Jun&nbsp;2013<br /> 11:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsH13.html">The role of light impurities in turbulent transport in core tokamak plasmas</a></td><td>Gabor Szepesi<br /><span class="grey"> (Warwick)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-94 views-row-even">
+        <td>13&nbsp;Jun&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Integrand reduction of high-loop scattering amplitudes via computational algebraic geometry</td><td>Yang Zhang<br /><span class="grey"> (NBI, Copenhagen)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-95 views-row-odd">
+        <td>14&nbsp;Jun&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/talks/solids/abstracts/mckane.html">Stochasticity, pattern formation and the emergence of distinct species</a></td><td>Alan McKane<br /><span class="grey"> (University of Manchester)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-96 views-row-even">
+        <td>25&nbsp;Jun&nbsp;2013<br /> 11:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsT13.html">The nature of subproton-scale turbulence in the solar wind</a></td><td>Chris Chen<br /><span class="grey"> (UC Berkeley)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-97 views-row-odd">
+        <td>03&nbsp;Jul&nbsp;2013<br /> 11:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsT13.html">Zonal flow as spontaneous symmetry breaking of homogeneous turbulence</a></td><td>Jeff Parker<br /><span class="grey"> (Princeton)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-98 views-row-even">
+        <td>23&nbsp;Jul&nbsp;2013<br /> 11:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsT13.html">Nonlinear entropy transfer processes via zonal flows in plasma turbulence</a></td><td>Motoki Nakata<br /><span class="grey"> (JAEA)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-99 views-row-odd">
+        <td>23&nbsp;Jul&nbsp;2013<br /> 11:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsT13.html">Zonal flows &amp;amp; secondary instabilities redux</a></td><td>Bill Dorland<br /><span class="grey"> (Maryland)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-100 views-row-even">
+        <td>22&nbsp;Aug&nbsp;2013<br /> 11:00</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsT13.html">Magnetic self-organisation in Hall-dominated magnetorotational turbulence</a></td><td>Matt Kunz<br /><span class="grey"> (Princeton)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-101 views-row-odd">
+        <td>04&nbsp;Oct&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Resurgence in quantum field theory: Handling the Devil's invention</td><td>Aleksey Cherman<br /><span class="grey"> (University of Minnesota)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-102 views-row-even">
+        <td>10&nbsp;Oct&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td><a href="http://arxiv.org/abs/1305.0273">Glueball and meson propagators of any spin in large-N QCD</a></td><td>Marco Bochicchio<br /><span class="grey"> (University of Rome)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-103 views-row-odd">
+        <td>15&nbsp;Oct&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>Contact line - Quo vadis?</td><td>Dirk Aarts<br /><span class="grey"> (Oxford Chemistry)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-104 views-row-even">
+        <td>16&nbsp;Oct&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>TBA</td><td>James Annett<br /><span class="grey"> (Bristol University)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-105 views-row-odd">
+        <td>17&nbsp;Oct&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>The B-&gt;K*mu+mu- anomaly</td><td>Ulrich Haisch<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-106 views-row-even">
+        <td>17&nbsp;Oct&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/particle/about/OxfordPTgroup2013.pdf">Introduction to the Group</a></td><td>Particle Theory Group<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-107 views-row-odd">
+        <td>18&nbsp;Oct&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>Theory of Spiral Structure in Galaxies</td><td>Jerry Sellwood<br /><span class="grey"> (Rutgers)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-108 views-row-even">
+        <td>22&nbsp;Oct&nbsp;2013<br /> 16:00</td>
+        <td>JSR seminar room, PTCL</td>
+        <td>Probing large-scale structural dynamics of spinodal decomposition en route to colloidal gelation</td><td>Dr Yongxiang Gao<br /><span class="grey"> (PTCL, University of Oxford)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-109 views-row-odd">
+        <td>23&nbsp;Oct&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>Topological Kondo effect with Majorana fermions</td><td>Benjamin Beri<br /><span class="grey"> (University of Birmingham)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-110 views-row-even">
+        <td>24&nbsp;Oct&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>The heterotic string - old and new perspectives</td><td>Andrei Constantin<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-111 views-row-odd">
+        <td>24&nbsp;Oct&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Recent multi-loop results in supersymmetric gauge theories</td><td>Tobias Huber<br /><span class="grey"> (University of Siegen)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-112 views-row-even">
+        <td>25&nbsp;Oct&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>No seminar</td><td>TBA<br /><span class="grey"> (TBA)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-113 views-row-odd">
+        <td>29&nbsp;Oct&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>Correlative Light Electron Microscopy: 1 + 1 = 3</td><td>Paul Verkade<br /><span class="grey"> (Bristol University)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-114 views-row-even">
+        <td>30&nbsp;Oct&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>TBA</td><td>Fenner Harper<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-115 views-row-odd">
+        <td>31&nbsp;Oct&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>What the Higgs can tell us about Warped Extra Dimensions</td><td>Christoph Schmell<br /><span class="grey"> (Mainz University)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-116 views-row-even">
+        <td>31&nbsp;Oct&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td><a href="http://www.sussex.ac.uk/physics/people/peoplelists/person/320359">The Higgs is here, and now what?</a></td><td>Veronica Sanz<br /><span class="grey"> (University of Sussex)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-117 views-row-odd">
+        <td>01&nbsp;Nov&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>Deep Computations in Statistical Physics</td><td>Stephan Mertens<br /><span class="grey"> (Magdeburg)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-118 views-row-even">
+        <td>05&nbsp;Nov&nbsp;2013<br /> 16:00</td>
+        <td>JSR seminar room, PTCL</td>
+        <td>Elasticity and attraction (from Elastocapillarity to Magnetoelasticity)</td><td>Dr Dominic Vella<br /><span class="grey"> (OCCAM, University of Oxford)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-119 views-row-odd">
+        <td>06&nbsp;Nov&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>The Part is Greater than the Sum of the Wholes: How to Split Light into Anyons</td><td>Eliot Kapit<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-120 views-row-even">
+        <td>07&nbsp;Nov&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Probability of Vacuum Stability in Type IIB Multi-Khler Moduli Models</td><td>Markus Rummel<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-121 views-row-odd">
+        <td>07&nbsp;Nov&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td><a href="http://users.df.uba.ar/deflo/deflo/main.html">Double Higgs production at NNLO</a></td><td>Daniel de Florian<br /><span class="grey"> (University of Buenos Aires)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-122 views-row-even">
+        <td>07&nbsp;Nov&nbsp;2013<br /> 11:30</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsM13.html">Doppler backscattering measurements of turbulence on MAST</a></td><td>Jon Hillesheim<br /><span class="grey"> (Culham)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-123 views-row-odd">
+        <td>08&nbsp;Nov&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/talks/solids/abstracts/green.html">Quantum and Classical in Adiabatic Computation</a></td><td>Andrew Green<br /><span class="grey"> (University College, London)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-124 views-row-even">
+        <td>12&nbsp;Nov&nbsp;2013<br /> 16:00</td>
+        <td>Sciama Lecture Theatre</td>
+        <td>Some problems in biological and biologically inspired physics [note the different venue]</td><td>Richard Jones<br /><span class="grey"> (University of Sheffield)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-125 views-row-odd">
+        <td>13&nbsp;Nov&nbsp;2013<br /> 11:15</td>
+        <td>DWB Fisher Room</td>
+        <td><a href="https://docs.google.com/file/d/0B0vh9l7sZq09amRiRVlzVVF1VHc/">Layers of Frustration in the Extended Kagome Lattice</a></td><td>Darren Tan<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-126 views-row-even">
+        <td>14&nbsp;Nov&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Planck revisited</td><td>Raphael Flauger<br /><span class="grey"> (IAS Princeton)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-127 views-row-odd">
+        <td>14&nbsp;Nov&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td><a href="http://arxiv.org/abs/1301.2325">A new particle on the worldsheet of the QCD flux tube</a></td><td>Raphael Flauger<br /><span class="grey"> (IAS Princeton/CCAPP New York)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-128 views-row-even">
+        <td>14&nbsp;Nov&nbsp;2013<br /> 11:30</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsM13.html">The ARC reactor</a></td><td>Justin Ball<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-129 views-row-odd">
+        <td>15&nbsp;Nov&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>tba</td><td>Sergei Dubovsky<br /><span class="grey"> (Moscow)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-130 views-row-even">
+        <td>19&nbsp;Nov&nbsp;2013<br /> 16:00</td>
+        <td>JSR seminar room, PTCL</td>
+        <td>Using drop impacts to study the breakup of submicron liquid and air sheets</td><td>Prof Sigurdur Thoroddsen<br /><span class="grey"> (KAUST, Kingdom of Saudi Arabia)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-131 views-row-odd">
+        <td>19&nbsp;Nov&nbsp;2013<br /> 14:00</td>
+        <td>BIPAC seminar room, DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/people/AndreiStarinets/oxford_holography_group/holography_seminar/seminar.html">From Full Stopping to Transparency in a Holographic Model of Heavy Ion Collisions</a></td><td>Jorge Casalderrey-Solana<br /><span class="grey"> (U.Barcelona &amp; CERN)</span></td><td><a href="/research/seminars/series/holography-seminar">Holography Seminar</a></td> </tr> 
+      <tr class="views-row views-row-132 views-row-even">
+        <td>19&nbsp;Nov&nbsp;2013<br /> 17:00</td>
+        <td>seminar room 501, DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/people/AndreiStarinets/oxford_holography_group/holography_seminar/seminar.html">The nature of hydrodynamic gradient expansion in holographic fluid</a></td><td>Przemek Witaszczyk<br /><span class="grey"> (U.Krakow)</span></td><td><a href="/research/seminars/series/holography-seminar">Holography Seminar</a></td> </tr> 
+      <tr class="views-row views-row-133 views-row-odd">
+        <td>20&nbsp;Nov&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>TBA</td><td>Qiang Gu<br /><span class="grey"> (University of Science and Technology Beijing / Oxford)</span></td><td><a href="/research/seminars/series/the-forum">The Forum</a></td> </tr> 
+      <tr class="views-row views-row-134 views-row-even">
+        <td>21&nbsp;Nov&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td><a href="http://arxiv.org/abs/1307.0007">Towards an understanding of jet substructure</a></td><td>Gavin Salam<br /><span class="grey"> (CERN)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-135 views-row-odd">
+        <td>21&nbsp;Nov&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>Null surface geometry, fluid vorticity, and turbulence</td><td>Chris Eling<br /><span class="grey"> (TBC)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-136 views-row-even">
+        <td>22&nbsp;Nov&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/talks/solids/abstracts/england.html">Boltzmann&#039;s Dog and Darwin&#039;s Finch: The statistical thermodynamics of self-replication and evolution</a></td><td>Jeremy England<br /><span class="grey"> (MIT)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-137 views-row-odd">
+        <td>26&nbsp;Nov&nbsp;2013<br /> 16:00</td>
+        <td>Martin Wood Lecture Theatre</td>
+        <td>Colloidal rafts in a flatland</td><td>Zvonimir Dogic<br /><span class="grey"> (Brandeis University)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-138 views-row-even">
+        <td>26&nbsp;Nov&nbsp;2013<br /> 14:00</td>
+        <td>BIPAC seminar room, DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/people/AndreiStarinets/oxford_holography_group/holography_seminar/seminar.html">P-Wave Superconductors and Spatial Modulation</a></td><td>Christiana Pantelidou<br /><span class="grey"> (Imperial College, London)</span></td><td><a href="/research/seminars/series/holography-seminar">Holography Seminar</a></td> </tr> 
+      <tr class="views-row views-row-139 views-row-odd">
+        <td>27&nbsp;Nov&nbsp;2013<br /> 11:15</td>
+        <td>DWB 501</td>
+        <td>Stochastic perturbation of integrable systems: a window to weakly chaotic systems</td><td>Jorge Kurchan<br /><span class="grey"> (ESPCI)</span></td><td><a href="/research/seminars/series/informal-condensed-matter-seminar">Informal Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-140 views-row-even">
+        <td>28&nbsp;Nov&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td><a href="http://arxiv.org/abs/1311.5238">IceCube: seeing the high energy universe</a></td><td>Subir Sarkar<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-141 views-row-odd">
+        <td>28&nbsp;Nov&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td><a href="http://arxiv.org/abs/arXiv:1201.1485">Spontaneous supersymmetry breaking on the lattice</a></td><td>Urs Wenger<br /><span class="grey"> (ITP, University of Bern)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-142 views-row-even">
+        <td>29&nbsp;Nov&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td><a href="http://www2.physics.ox.ac.uk/research/rudolf-peierls-centre-for-theoretical-physics/seminars/numerical-relativity-overview-and-ap">Numerical Relativity : overview and applications</a></td><td>Frans Pretorius<br /><span class="grey"> (Princeton)</span></td><td><a href="/research/seminars/series/theoretical-physics-colloquia">Theoretical Physics Colloquia</a></td> </tr> 
+      <tr class="views-row views-row-143 views-row-odd">
+        <td>29&nbsp;Nov&nbsp;2013<br /> 14:00</td>
+        <td>K1/0/85 Culham</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsM13.html">Up-down asymmetric tokamaks</a></td><td>Justin Ball<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-144 views-row-even">
+        <td>29&nbsp;Nov&nbsp;2013<br /> 16:00</td>
+        <td>K1/0/85 Culham</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsM13.html">Modelling intrinsic rotation in tokamaks</a></td><td>Felix Parra<br /><span class="grey"> (Oxford)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> 
+      <tr class="views-row views-row-145 views-row-odd">
+        <td>03&nbsp;Dec&nbsp;2013<br /> 14:00</td>
+        <td>BIPAC seminar room, DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/people/AndreiStarinets/oxford_holography_group/holography_seminar/seminar.html">Quantum Quenches and Holography</a></td><td>Rob Myers<br /><span class="grey"> (Perimeter Institute)</span></td><td><a href="/research/seminars/series/holography-seminar">Holography Seminar</a></td> </tr> 
+      <tr class="views-row views-row-146 views-row-even">
+        <td>03&nbsp;Dec&nbsp;2013<br /> 17:00</td>
+        <td>BIPAC seminar room, DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/people/AndreiStarinets/oxford_holography_group/holography_seminar/seminar.html">Transport Properties of Holographic P-Wave Superfluids</a></td><td>Hansjrg Zeller<br /><span class="grey"> (Max-Planck-Institute for Physics Munich)</span></td><td><a href="/research/seminars/series/holography-seminar">Holography Seminar</a></td> </tr> 
+      <tr class="views-row views-row-147 views-row-odd">
+        <td>03&nbsp;Dec&nbsp;2013<br /> 12:00</td>
+        <td>Dalitz Institute</td>
+        <td>Motivations for 100 Km Circular Colliders</td><td>Nima Arkani-Hamed<br /><span class="grey"> (IAS Princeton)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-148 views-row-even">
+        <td>03&nbsp;Dec&nbsp;2013<br /> 16:00</td>
+        <td>JSR seminar room, PTCL</td>
+        <td>Polydienes solutions and soft matter non linear optics</td><td>Dr Benoit Loppinet<br /><span class="grey"> (FORTH, Crete, Greece)</span></td><td><a href="/research/seminars/series/softbio">Softbio</a></td> </tr> 
+      <tr class="views-row views-row-149 views-row-odd">
+        <td>05&nbsp;Dec&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute</td>
+        <td>The soft X-ray excess in the Coma Cluster from a Cosmic Axion Background</td><td>Stephen Angus<br /><span class="grey"> (University of Oxford)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-150 views-row-even">
+        <td>05&nbsp;Dec&nbsp;2013<br /> 16:15</td>
+        <td>Sciama Lecture Theatre</td>
+        <td><a href="http://arxiv.org/abs/1201.6342">Heavy fields, decoupling and the effective theory of inflation</a></td><td>Subodh Patil<br /><span class="grey"> (CERN)</span></td><td><a href="/research/seminars/series/particles-and-fields-seminar">Particles and fields seminar</a></td> </tr> 
+      <tr class="views-row views-row-151 views-row-odd">
+        <td>06&nbsp;Dec&nbsp;2013<br /> 14:00</td>
+        <td>Dennis Sciama Lecture Theatre</td>
+        <td>Stochastic Dynamics and Climate</td><td>John Wettlaufer<br /><span class="grey"> (Department of Mathematics, Oxford)</span></td><td><a href="/research/seminars/series/theoretical-condensed-matter-seminar">Theoretical Condensed Matter seminar</a></td> </tr> 
+      <tr class="views-row views-row-152 views-row-even">
+        <td>10&nbsp;Dec&nbsp;2013<br /> 14:00</td>
+        <td>BIPAC seminar room, DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/people/AndreiStarinets/oxford_holography_group/holography_seminar/seminar.html">Lifshitz as a continuous deformation of Anti-de Sitter</a></td><td>Yegor Korovin<br /><span class="grey"> (University of Southampton)</span></td><td><a href="/research/seminars/series/holography-seminar">Holography Seminar</a></td> </tr> 
+      <tr class="views-row views-row-153 views-row-odd">
+        <td>12&nbsp;Dec&nbsp;2013<br /> 13:00</td>
+        <td>Dalitz Institute, DWB</td>
+        <td>Naturalness after LHC Run I</td><td>Alessandro Strumia<br /><span class="grey"> (University of Pisa)</span></td><td><a href="/research/seminars/series/particle-phenomenology-forum">Particle Phenomenology Forum</a></td> </tr> 
+      <tr class="views-row views-row-154 views-row-even">
+        <td>12&nbsp;Dec&nbsp;2013<br /> 11:30</td>
+        <td>501 DWB</td>
+        <td><a href="http://www-thphys.physics.ox.ac.uk/research/plasma/seminarsM13.html">From Plasma Microphysics to Global Dynamics in Clusters of Galaxies, Radiatively Inefficient Accretion Flows, and the Solar Wind</a></td><td>Matt Kunz<br /><span class="grey"> (Princeton)</span></td><td><a href="/research/seminars/series/plasma-theory-group-seminars">Plasma Theory Group Seminars</a></td> </tr> </tbody></table><div class="icalendar"><a href="/ical/research/rudolf-peierls-centre-for-theoretical-physics/seminars?date=2013" title="Add selected seminars to calendar (iCalendar format)"><img src="/sites/all/modules/custom/seminars/images/view-calendar_16x16.png" alt="Add selected seminars to calendar (iCalendar format)" title="Add selected seminars to calendar(iCalendar format)" width="16" height="16" /> Add to calendar</a></div>      
+    </div><!-- #content -->
+
+        
+        </div>
+    
+    <div id="footer" class="footer">
+            <div class="grey">
+        <div class="container clear-block">
+          <div class="six-col">
+            <div class="footer-links"><a href="http://www.ox.ac.uk"><img alt="Oxford University logo" class="site-logo" src="/sites/all/themes/physicsmpw/logo.png" /></a><ul class="primary-links navigation" id="header-primary-links"><li class="menu-2356 first"><a href="/" title="">Home</a></li>
+<li class="menu-826"><a href="/study-here" title="Study Here">Study here</a></li>
+<li class="menu-6178 active-trail"><a href="/research" title="Research">Research</a></li>
+<li class="menu-6184"><a href="/enterprise" title="Enterprise">Enterprise</a></li>
+<li class="menu-817"><a href="/about-us" title="About Us">About us</a></li>
+<li class="menu-1040"><a href="/contacts" title="Contacts">Contacts</a></li>
+<li class="menu-8778 last"><a href="/alumni" title="Alumni relations">Alumni</a></li>
+<li class='submenu' onclick="void()"><span onclick="void()">More...</span><ul id="top-dropdown"><li class="menu-3798 first"><a href="/staff" title="Staff">Staff</a></li>
+<li class="menu-3797"><a href="/students" title="Current Students">Students</a></li>
+<li class="menu-10728"><a href="/equality-and-diversity" title="Equality and Diversity">Equality and Diversity</a></li>
+<li class="menu-10729"><a href="/blog" title="Blogs">Blogs</a></li>
+<li class="menu-12108 last"><a href="/the-beecroft-building" title="The Beecroft Building">The Beecroft Building</a></li>
+</ul></li></ul></div>          </div>
+        </div>
+              </div>
+      <div class="blue">
+        <div class="container clear-block">
+          <div class="copyright four-col">
+            <p>© <a href="http://www.physics.ox.ac.uk">2015 The University of Oxford Department of Physics</a>  <b>·</b>  <a href="http://www2.physics.ox.ac.uk/about-cookies-and-web-privacy">About cookies and web privacy</a></p>
+&nbsp;
+          </div>
+          <div class="two-col">
+            <div class="footer-links">
+              <a href="https://www2.physics.ox.ac.uk/user/login?destination=research%2Frudolf-peierls-centre-for-theoretical-physics%2Fseminars%3Fdate%3D2013">Log in</a>            </div>
+          </div>
+        </div>
+      </div>
+    </div> <!-- /#footer -->
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-12649923-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (typeof addthis != "undefined") {addthis.init();}
+//--><!]]>
+</script>
+  </body>
+</html>

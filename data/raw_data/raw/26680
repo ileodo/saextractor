@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) & !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>News | Cristobal Cobo</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://blogs.oii.ox.ac.uk/cobo/wp-content/themes/twentyeleven/style.css" />
+<link rel="pingback" href="" />
+<!--[if lt IE 9]>
+<script src="http://blogs.oii.ox.ac.uk/cobo/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Cristobal Cobo &raquo; Feed" href="http://blogs.oii.ox.ac.uk/cobo/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Cristobal Cobo &raquo; Comments Feed" href="http://blogs.oii.ox.ac.uk/cobo/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Cristobal Cobo &raquo; News Category Feed" href="http://blogs.oii.ox.ac.uk/cobo/?feed=rss2&#038;cat=8" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/blogs.oii.ox.ac.uk\/cobo\/wp-includes\/js\/wp-emoji.js","twemoji":"http:\/\/blogs.oii.ox.ac.uk\/cobo\/wp-includes\/js\/twemoji.js"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+</head>
+
+<body class="archive category category-news category-8 custom-background two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://blogs.oii.ox.ac.uk/cobo/" rel="home">Cristobal Cobo</a></span></h1>
+				<h2 id="site-description">Cristobal Cobo&#039;s Blog</h2>
+			</hgroup>
+
+						<a href="http://blogs.oii.ox.ac.uk/cobo/">
+									<img src="http://blogs.oii.ox.ac.uk/cobo/wp-content/themes/twentyeleven/images/headers/trolley.jpg" width="1000" height="288" alt="Cristobal Cobo" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://blogs.oii.ox.ac.uk/cobo/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content">Skip to primary content</a></div>
+									<div class="skip-link"><a class="assistive-text" href="#secondary">Skip to secondary content</a></div>
+												<div class="menu"><ul><li ><a href="http://blogs.oii.ox.ac.uk/cobo/">Home</a></li><li class="page_item page-item-2"><a href="http://blogs.oii.ox.ac.uk/cobo/?page_id=2">About</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<section id="primary">
+			<div id="content" role="main">
+
+			
+				<header class="page-header">
+					<h1 class="page-title">Category Archives: <span>News</span></h1>
+
+									</header>
+
+						<nav id="nav-above">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8&#038;paged=2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-above -->
+	
+								
+					
+	<article id="post-739" class="post-739 post type-post status-publish format-standard hentry category-digital-humanities category-knetwork category-networks-of-the-future category-news category-research">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=739" rel="bookmark">Event: #Unplugging > Beyond Hyper-Connected Societies</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=739" title="2:26 am" rel="bookmark"><time class="entry-date" datetime="2014-04-30T02:26:45+00:00">30/04/2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=739#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://unplugging.eu/" target="_blank"><a href="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/04/tumblr_mxxjeu5HBK1seyhpmo1_1280.jpg"><br />
+</a><br />
+<img class="aligncenter" alt="Screen shot 2014-04-29 at 22.24.53" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/04/Screen-shot-2014-04-29-at-22.24.53.png" width="436" height="556" /></a></p>
+<p><em><a href="http://www.unplugging.eu/">Workshop</a> on 20 June 2014 at the <a href="http://www.ox.ac.uk/">University of Oxford</a>, led by <a href="http://www.igorcalzada.com/about">Dr. Igor Calzada</a> (Research Associate Future Cities, <a href="https://www.compas.ox.ac.uk/">COMPAS</a> &amp; <a href="http://www.insis.ox.ac.uk/">InSIS</a> &#8211; University of Oxford) and <a href="http://www.oii.ox.ac.uk/people/?id=189">Dr. Cristobal Cobo</a> (Research Fellow <a href="http://www.oii.ox.ac.uk/">Oxford Internet Institute</a>&#8211; University of Oxford). </em></p>
+<p>Technology is never neutral, it has the potential and capacity to be used socially and politically for quite different purposes, argued Raymond Williams in 1983. Indeed, recently we both watched <a href="http://www.herthemovie.com/">#HER</a>, the newest movie by the filmmaker Spike Jonze, and we realised that this hyper-connected future is already not either as neutral or as far away from our current human interactions. Are we already living at present in such hyper-connected societies and cities as Jonze describes in his film? It sounds surprisingly contradictory how a film that makes you feel anxious about the self-deterministic way technology is dominating our lives can at the same time tele-transport us to the future of the technologies and their impact on our human emotions. Moreover, we could argue that is not that unrealistic a science-fiction storytelling. Could you imagine yourself falling in love just with a voice even if it belongs to an artificial operative system?</p>
+<p>The real truth seems to be that the impact in our lives is occurring without us being aware of it. Shall Mr Jonze provoke a reflection on the consequences of the quick, risky (Beck, 2013) and liquid (Bauman, 2013) real-time cities (Kitchin, 2013)? This notion brings us to the so-called debate on the suitability of the Smart Cities (Greenfield, 2013) and their applicability. Are we altering our social relationship because of the new technologies? Moreover, one of us did even not know about the existence of <a href="http://en.wikipedia.org/wiki/Siri">Siri</a>, the real device embodying what #HER represents in the fiction movie. Moreover, that could actually be perfectly believable! Another example of the trend on the techno-determinism consequences is the book<a href="http://www.nybooks.com/articles/archives/2013/nov/21/eggers-circle-when-privacy-is-theft/">The Circle by Dave Eggers</a> who reflects on questions about privacy, democracy, and human fragility in the technological broad realm. What happens to us if we “must” be online all the time? To live entirely in the public realm can be a form of solitary confinement. Is there any added value in the possibility of remaining voluntarily #unplugging?</p>
+<p>Thus, being conscious about this novel trend and subtle notion for the 21st century societal challenges and their research in societies and cities, we have both organized a workshop the next 20th June in Oxford supported by <a href="http://www.torch.ox.ac.uk/unplugging">The Oxford Research Centre of the Humanities (TORCH)</a>. This event aims to gather scholars from different disciplines to debate open and critically about <a href="http://www.unplugging.eu/">#Unplugging</a>. The idea is to better understand the social and cultural implications of hyper-connected societies and the possible research agendas associated.</p>
+<p>Even though we note some dark side effects of the technology (Ippolita, 2008). Our purpose is to draw on a critical social innovation pathway as a transition towards alternative digital humanities practices for our daily life. Nevertheless, there are plenty of pending questions about this subtle notion, that we have clustered as #Unplugging.</p>
+<p>For instance: Will unplugging be a right or a privilege of a few? Will being constantly plugged improve our wellbeing and happiness as a society? In addition to the digital divide’s effect on the information society structure, is hyper-connectivity stressing another extra social divides between a few privileged unplugged people and a large plugged crowd (online almost 24/7)? Are we heading towards an individualistic society? Or simply, does it seem that this is the natural way the world will be ruled in micro-communities (in bubbles) in the future? Who designs the technology that we consume? Will devices serve citizens more than the citizens serve the devices? Therefore, are there real alternatives to the technocratic business-led dominant top-down governance model in the Smart Cities? Or, in contrast, is this still wishful progressive thinking?</p>
+<p>Is the idea of big data, an empty buzzword? Is it possible to combine an open access civilian deliberative system within a confidential and espionage-obsessed paradigm? Will we see changes in which context-collapsed information will be contextualized to enhance social interactions? Will technological devices be designed based on peoples needs more than on corporate or infrastructure interests? Will the socio-political establishment suffer any shift towards free and community-driven processes? Or by contrast, is the myth of digital democracy (Hindman, 2009) the one debunking popular notions about political discourses in the digital age? Has the Internet neither diminished the audience share of corporate media nor given greater voice to ordinary citizens? Finally, can we anticipate any relevant change in the Smart City practices as a consequence of changes among stakeholder interactions in the definition of a new political economic balance?</p>
+<p>To sum up, what are the societal challenges in the current hyper-connected societies? How to explore new policy strategies as well as new research agenda by focusing on the implications of hyper-connectivity? If you are interested in discussing these issues come along and join us in the #Unplugging workshop.</p>
+<p>For more information on how to register, please visit the <a href="http://www.unplugging.eu/">#Unplugging website</a> or view SIE&#8217;s event calendar.</p>
+<p><a href="http://www.herthemovie.com/#/post/70343461624/her-now-playing-in-select-theaters-starts" target="_blank"><img alt="HER" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/04/tumblr_mxxjeu5HBK1seyhpmo1_1280-1024x576.jpg" width="584" height="328" /></a></p>
+<p>[cross-post from here: <a href="https://webgate.ec.europa.eu/socialinnovationeurope/directory/europe/news/unplugging-beyond-hyper-connected-societies" target="_blank">webgate.ec.europa.eu/socialinnovationeurope</a>]</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=34" rel="category">digital humanities</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=6" rel="category">KNetwork</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=5" rel="category">Networks of the Future</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8" rel="category">News</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=20" rel="category">Research</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=739#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-739 -->
+
+				
+					
+	<article id="post-717" class="post-717 post type-post status-publish format-standard hentry category-digital-humanities category-education-and-ict category-learning-2 category-moocs category-news category-open-access category-open-badges category-open-educational-practices category-oxford-internet-institute category-research">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=717" rel="bookmark">Can Coursera or Mozilla Foundation provide new methods of recognizing informal learning?</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=717" title="7:21 am" rel="bookmark"><time class="entry-date" datetime="2013-10-22T07:21:49+00:00">22/10/2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=717#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/27364793" height="486" width="597" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<div style="margin-bottom: 5px;"><strong> <a title="&quot;Experience of recognition and validation of non-formal and informal learning&quot; by @cristobalcobo " href="https://www.slideshare.net/cristobalcobo/polticas-de-reconocimiento-a-competencias-y-conocimientos-adquiridos-en-entornos-informales-la-transicin-pendiente-by-cristobalcobo" target="_blank">&#8220;Experience of recognition and validation of non-formal and informal learning&#8221; by @cristobalcobo </a> </strong> from <strong><a href="http://www.slideshare.net/cristobalcobo" target="_blank">Cristobal Cobo Romaní</a></strong></div>
+<p>Despite the fact that the concept of &#8216;knowledge society&#8217; is broadly adopted in our days, the management of knowledge, experiences, skills and capabilities is still something not necessarily easy to manage. Similarly the recognition of learning (assessment, accreditation, validation) can also become something extremely challenging, specially when the learning process occurs outside the structure of the formal education system (i.e. schools, higher education, e-learning, etc.).</p>
+<p>Having said that international organizations such as: the EU (via Education and Training 2020), the OECD or UNESCO are constantly claiming for the need of new instruments and tools for a better recognition of non-formal and informal learning outcomes, as drivers of either mobility, migration or life long learning.</p>
+<p>This presentation was given at the seminar: &#8216;New forms of provision in education&#8217; in Barcelona (jointly organized by the University of Barcelona and the Autonomous University of Barcelona, <a href="http://gipe-igep.org/" target="_blank">GIPE</a>), and it discusses to what extent initiatives such as the accreditation given by the the American Council on Education’s College Credit Recommendation Service (<a href="https://www.coursera.org/signature/college-credit-guidebook" target="_blank">ACE CREDIT</a>) to some non-traditional courses offered in MOOC (Coursera) or the <a href="http://openbadges.org/" target="_blank">Open Badges</a> (Mozilla Foundation) should be taken into account as alternatives mechanisms of knowledge recognition outside formal education.</p>
+<p>* Delighted to see that the <a href="http://ischool.uw.edu/events/research-conversation-digital-badges-learning" target="_blank">University of Washington and HASTAC</a> will continue this discussion in the US.</p>
+<p><a href="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2013/10/Screen-shot-2013-10-22-at-09.12.30.png" target="_blank"><img class="alignleft size-full wp-image-718" alt="Screen shot 2013-10-22 at 09.12.30" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2013/10/Screen-shot-2013-10-22-at-09.12.30.png" width="1016" height="760" /></a><br />
+As the recently launched <a href="http://oxis.oii.ox.ac.uk/" target="_blank">Oxis (2013)</a> Internet is increasingly used as a platform for informal learning.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=34" rel="category">digital humanities</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=24" rel="category">Education and ICT</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=29" rel="category">Learning</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=36" rel="category">moocs</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8" rel="category">News</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=32" rel="category">open access</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=37" rel="category">open badges</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=35" rel="category">open educational practices</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=7" rel="category">Oxford Internet Institute</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=20" rel="category">Research</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=717#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-717 -->
+
+				
+					
+	<article id="post-600" class="post-600 post type-post status-publish format-standard hentry category-education-and-ict category-learning-2 category-networks-of-the-future category-news category-open-access">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=600" rel="bookmark">Open Educational Practices in European and Latin American Higher Education institutions</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=600" title="11:03 am" rel="bookmark"><time class="entry-date" datetime="2012-12-11T11:03:08+00:00">11/12/2012</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=600#comments">2</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px;" src="http://www.slideshare.net/slideshow/embed_code/15586621" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="574" height="613"></iframe></p>
+<div style="margin-bottom: 5px;"><strong> <a title="Compendium of European and Latin American case studies and interviews on open educational resources and practices." href="http://www.slideshare.net/cristobalcobo/compendium-of-european-and-latin-american-case-studies-and-interviews-on-open-educational-resources-and-practices" target="_blank">Compendium of European and Latin American case studies and interviews on open educational resources and practices.</a> </strong> from <strong><a href="http://www.slideshare.net/cristobalcobo" target="_blank">Cristobal Cobo Romaní</a></strong></div>
+<p>&nbsp;</p>
+<p>The term <em>Open Educational Resources</em> (OER) was coined in 2002 in discussions at the Forum on the Impact of Open Courseware UNESCO. It describes &#8220;the provision of educational resources on open license, enabled by information technologies and communication, for consultation, use and adaptation by a community of users with non-commercial purposes&#8221;.</p>
+<p>In June 2012, Community OER and UNESCO celebrated 10 years in the area of Open World Congress of Educational Resources in Paris, where the Declaration REA Paris 2012 was formally adopted. This calls on governments around the world to establish the adoption of open licenses for sharing knowledge produced with public funds.</p>
+<p>This trilingual Compendium (written in English, Spanish and Portuguese) aims to fill part of the need for institutionalized information, and aims to discuss in a clear, didactic and realistic way, the experiences of selected higher education institutions who have offered OER. This document provides a unique approach. It combines remarkable initiatives in the institutional development of REA in Higher Education institutions in the United Kingdom, the Netherlands and Spain with experiences from Higher Education institutions and universities from Brazil, Mexico, and Ecuador, which serve to enlighten the compendium with their innovative ideas and projects.</p>
+<p>This document has been developed in close collaboration with experts, researchers and decision makers from more than 10 universities in order to provide a global perspective of the OER movement. Some of the more relevant trends identified in this study are exemplified by a broad range of initiatives, including: change in the organizational culture; flexible certification; new business models; middle term institutional strategy; incentives policy; use of non-commercial open source or self-develop platforms; focus on champions; decentralized – federated solutions; open standard, bibliometric criteria; search engine optimization; community building and peer-based collaboration; quality assurance; repurposing and licensing; and open publishing policies.</p>
+<p>The cases included in this study are:</p>
+<ul>
+<li>Unicycle OER Project, Leeds Metropolitan University (UK)</li>
+<li>OpenER, Open Universiteit (Netherlands)</li>
+<li>Openlearn,  Open University (UK)</li>
+<li>University of Alicante&#8217;s Open Knowledge Strategy (Spain)</li>
+<li>Open Educational Practices, UTPL (Ecuador)</li>
+<li>TEMOA, Tecnológico de Monterrey (México)</li>
+<li>CEDERJ &#8211; TECA, (Brazil)</li>
+<li>Institucional Policy Of Open Access, OUC (Spain)</li>
+<li>OpenSpires, Oxford University (UK)</li>
+</ul>
+<div>As follows the interviews included (<a href="http://www.youtube.com/user/OportUnidadProject?feature=watch" target="_blank">podcast available</a>):</div>
+<ul>
+<li>David Kernohan, Programme Manager, e-Learning, JISC</li>
+<li>Faraón Llorens and Juan José Bayona, University of Alicante&#8217;s,</li>
+<li>Fred Mulder, UNESCO Chair in OER.</li>
+<li>Mary Lou Forward, Executive Director OpenCourseWare Consortium.</li>
+<li>Pedro Aranzadi, Managing Director of Universia Spain</li>
+<li>Robert Schuwer, Associate Professor at the Open University of the Netherlands.</li>
+</ul>
+<p>Editors:<br />
+Dr Andreia Inamorato dos Santos (Universidade Federal Fluminense, Brazil)<br />
+Dr Cristobal Cobo (University of Oxford, UK)<br />
+Dr Celso Costa (Universidade Federal do Rio de Janeiro, Brazil)</p>
+<div> *This initiative was supported by the <a href="http://www.oportunidadproject.eu/index.php?option=com_content&amp;view=article&amp;id=2&amp;Itemid=118&amp;lang=en" target="_blank">OportUnidad project</a>.</div>
+<div>[To <strong>download</strong> the file: Please access the SlideShare service and click on &#8216;Save&#8217;].</div>
+<div>To get the Paperback, (216 Pages) go to <a href="http://www.lulu.com/shop/andreia-inamorato-and-crist%C3%B3bal-cobo-and-celso-costa/compendio-recursos-educativos-abiertos-casos-de-am%C3%A9rica-latina-y-europa-en-la-educaci%C3%B3n-superior/paperback/product-20573183.html" target="_blank"><strong>LuLu</strong></a>.</div>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=24" rel="category">Education and ICT</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=29" rel="category">Learning</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=5" rel="category">Networks of the Future</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8" rel="category">News</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=32" rel="category">open access</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=600#comments"><b>2</b> Replies</a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-600 -->
+
+				
+					
+	<article id="post-566" class="post-566 post type-post status-publish format-standard hentry category-knetwork category-networks-of-the-future category-news category-research">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=566" rel="bookmark">KNetworks Competition: Networks of Regional Innovation</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=566" title="4:11 pm" rel="bookmark"><time class="entry-date" datetime="2012-08-28T16:11:10+00:00">28/08/2012</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=566#comments">1</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a title="Post-it por danicuki, en Flickr" href="http://www.knetworks.eu/"><img class="aligncenter" src="http://farm7.staticflickr.com/6180/6137367539_9e556734aa_z.jpg" alt="Post-it" width="427" height="640" /></a><br />
+At the Oxford Internet Institute we are pleased to announce a competition for the most innovative web-based platform enabling regional networks of innovation for public, private or research organizations.</p>
+<p>The platforms should foster innovation in the three areas of knowledge transfer; tourism; or e-government – broadly conceived. They should be particularly relevant to the Atlantic Area (<a href="http://ec.europa.eu/regional_policy/country/prordn/details_new.cfm?gv_PAY=UK&amp;gv_reg=520&amp;gv_PGM=1256&amp;gv_defL=4&amp;LAN=7">link</a>), but again this should be interpreted in a wide and inclusive sense.</p>
+<p>Candidate organizations will need to submit an online profile/form explaining why they deserve the award). Entries will be judged by a panel of experts and by popular vote. The top three entries will receive a <strong>5,000 EUR</strong> prize for their institution. <strong>The deadline to participate in this competition will be the 29th of October 2012. More information here: <a href="http://www.knetworks.eu/">http://www.knetworks.eu/</a></strong></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=6" rel="category">KNetwork</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=5" rel="category">Networks of the Future</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8" rel="category">News</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=20" rel="category">Research</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=566#comments"><b>1</b> Reply</a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-566 -->
+
+				
+					
+	<article id="post-534" class="post-534 post type-post status-publish format-standard hentry category-networks-of-the-future category-news category-oxford-internet-institute category-research category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=534" rel="bookmark">From Kodak Culture to networked image</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=534" title="8:04 pm" rel="bookmark"><time class="entry-date" datetime="2012-07-29T20:04:46+00:00">29/07/2012</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=534#comments">3</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a title="We are everywhere by Edgar a secas, on Flickr" href="http://www.flickr.com/photos/patadeperro/5862700991/"><img class="aligncenter" src="http://farm6.staticflickr.com/5224/5862700991_18a74cc583.jpg" alt="We are everywhere" width="379" height="500" /></a></p>
+<p style="text-align: center;">[See Dr. Edgar Gomez Cruz&#8217;s <a href="http://www.blurb.com/assets/embed.swf?book_id=3326393">album</a>]</p>
+<p style="text-align: justify;">Enclosed you will find the prologue of the new book: &#8220;<em><strong>From Kodak Culture to networked image. An ethnography of digital photography</strong></em>&#8221; (original title in Spanish: <em><a href="http://www.editorialuoc.cat/delaculturakodakalaimagenenred-p-1003.html?cPath=1">“De la Cultura Kodak a la imagen en red”</a></em>), writen by <a href="http://www.oii.ox.ac.uk/people/?id=163" target="_blank">Edgar Gomez Cruz</a>. This prologue was prepared by <strong><a href="http://www.lboro.ac.uk/departments/ss/staff/pink.html" target="_blank">Sarah Pink</a> </strong>from Loughborough University.</p>
+<p style="text-align: justify;">Edgar Gomez Cruz’s work responds and contributes to an emergent strand in scholarship around Communications and Media characterised by theoretical and practical turns away from the semiotic and towards the ethnographic, experiential, habitual and non-representational. In doing so it participates in the process of re-defining this field of scholarship in relation to a series of key theoretical and methodological moves that cross social sciences and humanities literatures and invite new interdisciplinary understandings of digital media. The geographer Nigel Thrift’s formulation of non-representational theory, he writes, ‘takes the leitmotif of movement and works with it as a way of going beyond constructivism’ (2008: 5). Such approaches, like that of the anthropologist Tim Ingold, have key critical implications for visual culture studies (see Ingold 2011: 316). They enable us to understand how the relevance of photography in the world goes beyond the visual content of images themselves and is bound up with their relationship with the multiple other things that are on-going in the worlds that they are part of. In this context alternative theoretical approaches have opened up new avenues through which we might comprehend digital photography. Indeed Ingold provocatively poses the question: ‘Should the drawing or painting be understood as a final image to be inspected and interpreted, as is conventional in studies of visual culture, or should we rather think of it as a node in a matrix of trails to be followed by observant eyes? Are drawings or paintings <em>of </em>things in the world, or are they <em>like </em>things in the world, in the sense that we have to find our ways through and among them, inhabiting them as we do the world itself?’ (2010: 16). The same of course should be asked of the digital photograph. Likewise conventional approaches to the study of digital photography through visual content are revised through the turn to practice theory, which has become an influential paradigm in sociology. Practice theory offers an analytical lens that turns away from the focus on culture. Instead as Andreas Reckwitz puts it: Practice theory ‘decentres’ mind, texts and conversation. Simultaneously, it shifts bodily movements, things, practical knowledge and routine to the centre of its vocabulary’ (2002: 259). These theoretical moves thus create a context where we have new and inspiring tools and frames through which to think about digital photography and the persons and things with which it is co-implicated in the world. Indeed to develop a contemporary study of digital photography involves departing from conventional analytical techniques in the study of the image. In doing so it moreover calls on scholars to follow the increasing urge towards working across and beyond the confines of traditional academic disciplines.</p>
+<p style="text-align: justify;"><img class="alignleft" style="border: 5px solid white;" title="De la cultura Kodak a la imagen en red  Una etnografía sobre fotografía digital" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2012/07/9788497886338.jpeg" alt="" width="292" height="447" /></p>
+<p style="text-align: justify;">In this contemporary context a series of key research questions emerge relating to how we might understand how photographic images are produced and consumed as we move through and make the on-line/off-line environments of which we are part. It urges us to ask what, moreover are the implications of this for the roles and potentialities that photography and photographs have in our lives. To understand photography in this way then requires the study not of the image itself but of how these stories, experiences and trajectories emerge. It also requires us to ask how these narratives are interwoven with histories of technologies and the industries associated with them.</p>
+<p style="text-align: justify;"><em>“De la Cultura Kodak a la imagen en red” </em>is perfectly positioned to take on this challenge. Edgar Gomez Cruz’s is a project that has precisely brought together both the nature of the online/offline world – what he calls ‘onlife’ – and new approaches to understanding the image, media and the ways we engage with these. This book is on the one hand about a world where people go on excursions with their cameras, in different weather conditions and localities, where they eat together, laugh together and photograph together. Their experiences of the world are framed through these embodied experiences of the environment, of socialities and of things and it is from these experiences that their photography emerges. Yet in this off-line world the web is never far from our realities or, in the case of the photographers with whom Gomez Cruz worked never far either from their intentions. The meanings of photographs, we learn, from his meticulous and in-depth ethnographic study, are not to be found in any semiotic analysis of their content. But rather, in the stories of how, why and where they were taken, their trajectories as they were uploaded to flickr, and in the affective relationships and conceptualisations of both self and the world that emerge with and/or in relation to them. Yet as we are also made aware, these contemporary photographic worlds have grown through time through a historical form of relationality with an analogue world. Indeed to understand the nature of contemporary digital photography is also to ask questions about digital media and socio-technological change. To achieve this Gomez Cruz works at the intersection between media studies, anthropology, sociology and science and technology studies.</p>
+<p style="text-align: justify;">From anthropology Gomez Cruz takes an ethnographic approach that involves long term and everyday engagements with people as they interweave the practice of digital photography with other elements of their lives. He participated in the world and lives of the people he wished to learn about in a way that is more akin to the doing of anthropological ethnography than to its simple borrowing for an interdisciplinary exercise. The depth, consideration and reflexivity of the relationships he describes – and he has been known to say that he considers the participants to be co-authors of his work – is at the core of the types of understandings he is able to bring to his analysis. There is nothing superficial about this work. It is a ‘felt’ ethnography –in both the affective and physical sense of participation.</p>
+<p style="text-align: justify;">This means that when Gomez Cruz writes of the shift to Flickr culture, we can gain a strong sense of this not as a culture to be studied as if it were text, or to be analyzed semiotically. Instead, Gomez Cruz’s study shows how culture, from this perspective is emergent, and produced through the very everyday photographic practices that he participated in and studied. Flickr culture, in my understanding, is presented to us as something that is made. The ethnographic approach is a route to showing us how that socio-technical process happens through the intricacies of social relationships, how it becomes part of life through its embeddedness in routine and habitual practices, and its interwoveness with other domains of everyday life and special occasions.</p>
+<p style="text-align: justify;">This book then, stands as an example of how we might go about researching and understanding the new digital and web technologies that form part of the everyday worlds we live in. It calls on us to look beyond the confines of our disciplines, to innovate with new methods and approaches and to attend to the detail of ethnography. To communication and media scholars it issues a call to comprehend digital media content as more than text to be read. Rather in this context a visual image is an outcome of the interweaving of social and technological processes and practices. As such it reminds us that in everyday life the moments when photographic meanings become powerful might be those that are contingent on these trajectories, rather than produced independently from them. To anthropologists it offers a reminder that the everyday worlds that we research are increasingly places where the online and offline are also interwoven, and that indeed they might be neither experientially separate nor analytically separable.</p>
+<blockquote><p>[this is a <a href="http://imagenaciones.com/2012/07/01/sarah-pinks-prologue-of-de-la-cultura-kodak-a-la-imagen-en-red/" target="_blank">cross-post</a>]<a href="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2012/07/9788497886338.jpeg"><br />
+</a></p></blockquote>
+<p><strong>References:</strong></p>
+<p>Thrift, N. (2008) <em>Non-Representational Theory: Space, Politics, Affect</em>, London: Routledge.<strong></strong></p>
+<p>Ingold, T. (2010). Ways of mind-walking: reading, writing, painting. <em>Visual Studies</em>, <em>25</em>(1), 15-23.</p>
+<p>Ingold, T. (2011) ‘Worlds of sense and sensing the world: a response to Sarah Pink and David Howes’ in <em>Social Anthropology/Anthropologie Sociale </em>19(3): 313–317.</p>
+<p>Reckwitz, A. (2002) ‘Towards a Theory of Social Practices: A development in<br />
+culturalist theorizing’ <em>European Journal of Social Theory</em>, 5(2): 243-63.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=5" rel="category">Networks of the Future</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8" rel="category">News</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=7" rel="category">Oxford Internet Institute</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=20" rel="category">Research</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=534#comments"><b>3</b> Replies</a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-534 -->
+
+				
+					
+	<article id="post-501" class="post-501 post type-post status-publish format-standard hentry category-education-and-ict category-knetwork category-learning-2 category-news">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=501" rel="bookmark">Special issue Borderless society: the “new” work and education (call for papers)</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=501" title="8:44 pm" rel="bookmark"><time class="entry-date" datetime="2012-05-21T20:44:46+00:00">21/05/2012</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=501#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><img class="size-full wp-image-505 aligncenter" title="Graphis diagrams: The graphic visualization of abstract data " src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2012/05/graphis1.jpg" alt="" width="480" height="360" /></p>
+<p style="text-align: justify;">In a world driven by exponential accelerating technological and social change, globalization, and a push for more creative and context-driven innovations, how can we ensure the success of ourselves as individuals,communities, and the planet? This special issue of On the Horizon explores the converging future of learning,work and how we relate with each other in this emerging paradigm. Of particular importance are the emerging class of borderless “new workers”, “neo-nomads” (or knowmads):</p>
+<p style="text-align: justify;">[…] a nomadic knowledge worker – that is, a creative, imaginative, and innovative person who can work with almost anybody, anytime, and anywhere. Industrial society is giving way to knowledge and innovation work. Whereas industrialization required people to settle in one place to perform a very specific role or function, the jobs associated with knowledge and information workers have become much less specific in regard to task and place.</p>
+<p>This issue aims to explore the role of education in developing and supporting such a “knowmad society”.<br />
+Suggested topics include (but are not limited to)</p>
+<ul>
+<li>Roles of technology in human potential development for hyper-individualized creative and</li>
+<li>innovation workers</li>
+<li>The role of learning organizations in the creation of personal identity in post-cultural society</li>
+<li>Key skills and competencies development areas for knowmadic, new workers</li>
+<li>The economics of education for knowmadic workers</li>
+<li>Maximizing human potential development in a society embroiled in accelerating change</li>
+<li>Managing chaos and uncertainty in post-industrial careers</li>
+<li>Redesigning and reformatting conceptualizations of space and “place” to attend to needs of knowmadic</li>
+<li>learners and workers</li>
+<li>New economics and comparative dimensions of knowmadic workers globally</li>
+<li>What new worker parallels are emerging in other working classes (i.e. blue collar workers)?</li>
+</ul>
+<p>Submissions of title and 250-word proposal due: July 1, 2012<br />
+Notice of acceptance: July 13, 2012<br />
+Papers due: December 1, 2012</p>
+<p>Review result notification: January 15, 2013</p>
+<p>Submit a paper<br />
+Submissions to this special issue of On the Horizon should be sent to the guest editor at <a href="http://www.educationfutures.com/" target="_blank">John Moravec</a> moravec@gmail.com</p>
+<p>General questions to:<br />
+Tom P. Abeles, editor<br />
+On the Horizon<br />
+tabeles@gmail.com<br />
+More information, including full author guidelines, is available at: <a href="http://www.emeraldinsight.com/products/journals/journals.htm?id=oth">www.emeraldinsight.com/oth.htm</a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=24" rel="category">Education and ICT</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=6" rel="category">KNetwork</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=29" rel="category">Learning</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8" rel="category">News</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=501#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-501 -->
+
+				
+					
+	<article id="post-479" class="post-479 post type-post status-publish format-standard hentry category-education-and-ict category-learning-2 category-networks-of-the-future category-news category-open-access category-research category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=479" rel="bookmark">Changing Higher Learning Forever?</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=479" title="10:03 am" rel="bookmark"><time class="entry-date" datetime="2012-05-04T10:03:46+00:00">04/05/2012</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=479#comments">1</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: center;"><img class="size-full wp-image-481 aligncenter" title="edEX" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2012/05/edEX.jpg" alt="Source http://www.tonybates.ca/2012/05/02/harvard-joins-the-mitx-project/" width="482" height="321" /></p>
+<p style="text-align: justify;">The first time that I hear about the MOOCS (<em>Massive Open Online Courses</em>, <a href="http://www.youtube.com/watch?v=eW3gMGqcZQc" target="_blank">video</a>) I thought that it was a crazy idea (I didn&#8217;t liked at all). It sounded to me as using the Internet instead of television to broadcast educational contents without caring who, where and how to learn. But after exploring with more details the ideas of <a href="http://hlwiki.slais.ubc.ca/index.php/Massive_open_online_courses_(MOOCs)" target="_blank">Siemens</a> (in discussion with Howard Rheingold) I could understood the rationale behind that.</p>
+<p style="text-align: justify;">It is widely acknowledged that the relationship between contents, availability, consumption and learning has been changing significantly in the last years (discussed two weeks ago in <a href="http://cambridge2012.org/" target="_blank">Cambridge</a>). Nearly <a href="http://web.mit.edu/newsoffice/2001/ocw.html" target="_blank">ten years</a> after the creation of the OCW in MIT, now (May, 2011) Harvard and MIT have announced a new ambitious initiative (which will cost <a href="http://chronicle.com/blogs/wiredcampus/harvard-and-mit-put-60-million-into-new-platform-for-free-online-courses/36284?sid=at&amp;utm_source=at&amp;utm_medium=en" target="_blank">$60-Million</a>), called <a href="http://edxonline.org/" target="_blank">edX</a>: it will host online courses from both institutions free of charge. Since edX courses have the potential to reach hundreds of thousands of students, the edX platform will not receive university credit, although they could earn certificates.</p>
+<p style="text-align: justify;"><strong>What is the main difference between this new initiative and the previous OCW?</strong></p>
+<p style="text-align: justify;">Basically 10 years of experiences. The current initiative is inspired in experiences such as the highly commented open course in <a href="http://chronicle.com/blogs/wiredcampus/stanford-professor-gives-up-teaching-position-hopes-to-reach-500000-students-at-online-start-up/35135" target="_blank">&#8216;Artificial Intelligence&#8217;</a> offered by Stanford which gather more than 100,000 students (!). That initiative later evolved into <a href="http://www.udacity.com/" target="_blank">Udacity</a> [more information in <em>Wired Magazine</em>: <a href="http://www.wired.com/wiredscience/2012/03/ff_aiclass/all/1" target="_blank">The Stanford Education Experiment Could Change Higher Learning Forever</a>]</p>
+<p style="text-align: justify;">Simultaneously, other educational initiatives have develop interesting practices, such as <a href="http://www.khanacademy.org/" target="_blank">Khan Academy</a> with millions of students, educators and self-learners using its videos. <a href="http://ed.ted.com/" target="_blank">TED-Ed</a> inspired in Khan also is doing a truly outstanding contribution in this area. Regarding new ways of assessing the learning experience, something recently <a href="http://www.oecd.org/document/15/0,3746,en_21571361_49995565_49798543_1_1_1_1,00.html" target="_blank">discusses in an OECD summit</a>, there are interesting initiative to learn from, such as <a href="http://p2pu.org/en/" target="_blank">P2P University</a> or <a href="http://www.uopeople.org/" target="_blank">University of the People.</a></p>
+<p style="text-align: justify;">Loads of videos and new assessment methodologies are some of the ingredients that feed these changing educational practices. Very little time after the open course was offered by Stanford, MIT announced a new initiative: <a href="http://mitx.mit.edu/" target="_blank">MITx</a>, which in addition of providing the educational contents for free online, will implement a new system of qualification. Not based on academic degrees but on specific courses certification.</p>
+<blockquote><p><em>&#8220;This certificate will indicate that you earned it from MITx’s pilot course. In this prototype version, MITx will not require that you be tested in a testing center or otherwise have your identity certified in order to receive this certificate&#8221; [<a href="https://6002x.mitx.mit.edu/">MITx</a>]. </em></p></blockquote>
+<p style="text-align: justify;">Certainly behind this initiative there are a whole new sets of business models that will be required to explore with details. This new approach seems to be particularly suitable for those professionals who are aiming to re-skilling or keep updated (as well as competitive in a global labour market).</p>
+<p style="text-align: justify;">All these disruptive practices came meanwhile there is increasing interest in a creative (and probably very easy to adopt) initiative called <a href="http://www.thedailyriff.com/articles/the-flipped-class-conversation-689.php" target="_blank">Flipped Classroom</a>: Where videos take the place of direct instruction, allowing students to get individual time in class to work with their teacher on key learning activities. Lectures are taken at home or somewhere else (using mobile phones or laptops) and face-to-face classes are used to discuss and promote hands-on learning experience base on the contents previously watched [see video bellow].</p>
+<p style="text-align: justify;">Now is still to be seen the middle and long terms implications of all these innovations. Also it will be interesting to see how other world-class higher institutions behave in this scenario. What are the learning implications of all these initiatives? Is open (and more flexible) education just a hype or it will really change Higher Education for ever ?</p>
+<p style="text-align: justify;">Probably the next <a href="http://www.internet-science.eu/summer-school-2012" target="_blank">Network of Excellence Internet Science Summer School in Oxford</a> will be a good place to discuss it.</p>
+<p style="text-align: justify;">Video Edx</p>
+<p><iframe style="border: 0px none transparent;" src="http://www.ustream.tv/embed/recorded/22290026" frameborder="0" scrolling="no" width="550" height="350"></iframe></p>
+<p><a style="padding: 2px 0px 4px; width: 550px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;" href="http://www.ustream.tv/" target="_blank">Video streaming by Ustream</a></p>
+<p>Flipped Classroom<br />
+<iframe src="http://www.youtube.com/embed/2H4RkudFzlc" frameborder="0" width="550" height="350"></iframe></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=24" rel="category">Education and ICT</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=29" rel="category">Learning</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=5" rel="category">Networks of the Future</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8" rel="category">News</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=32" rel="category">open access</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=20" rel="category">Research</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=479#comments"><b>1</b> Reply</a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-479 -->
+
+				
+					
+	<article id="post-445" class="post-445 post type-post status-publish format-standard hentry category-education-and-ict category-learning-2 category-news category-open-access category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=445" rel="bookmark">Open Education Resources webminar in the coming Open Education Week</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=445" title="7:48 pm" rel="bookmark"><time class="entry-date" datetime="2012-02-20T19:48:27+00:00">20/02/2012</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=445#comments">2</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><strong> <a href="https://twitter.com/search?q=%23openeducationwk" target="_blank"><img class="size-full wp-image-447 aligncenter" title="Open Education Week" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2012/02/Image56901.png" alt="" width="567" height="142" /></a></strong></p>
+<p style="text-align: justify;">A few weeks ago, we started with a new exciting project called <span style="color: #ff6600;"><strong>OportUnidad</strong></span> (2012-2014) to promote the use, re-utilisation and promotion of <strong><a href="http://www.openeducationweek.org/faq/" target="_blank">Open Education Resources</a></strong> (OER) in Higher Education institutions in Latin America and Europe [visit the <strong><a href="http://www.oii.ox.ac.uk/research/projects/?id=91" target="_blank">OII for more information</a></strong>]. This is an action-research project funded by <a href="http://ec.europa.eu/europeaid/where/latin-america/regional-cooperation/alfa/index_en.htm" target="_blank">ALFA III programmme</a>.</p>
+<p style="text-align: justify;">The first public activity that we will have is representing the OportUnidad consortium in the next <strong>Open Education Week</strong>. The idea is to explain the main phases and expected results in an <span style="color: #ff6600;"><strong>open webminar</strong></span>. If you would like learn more about this initiative, feel free to join our webminar.</p>
+<p style="text-align: justify;">The<strong> Open Education Week</strong> will take place from 5th to 10th of March online (<a title="www.openeducationweek.org" href="http://www.openeducationweek.org/">www.openeducationweek.org</a>) and in local events around the world. The objective of this <strong>Open Education Week</strong> is to raise awareness of the open education movement and OER in order to explore the benefits of free and open sharing in educational materials.</p>
+<p style="text-align: justify;"><strong>Our OportUnidad webinar will take place online during the <span style="color: #ff6600;">6<sup>th</sup> of March 2012 &#8211; 16.00-17.00 UTC </span></strong>(please see below your <a href="http://www.timedial.net/world-time-difference-calculator/converter-from-GB-to-MX.aspx" target="_blank">local times</a>).</p>
+<p style="text-align: center;"><span style="color: #ff6600;">Please fill the self-nomination survey if you want to participate in the OportUnidad project </span></p>
+<h2 style="text-align: center;"><span style="color: #ff6600;"><strong><a href="http://tinyurl.com/oer2012" target="_blank"><span style="color: #ff6600;">tinyurl.com/oer2012</span></a></strong></span></h2>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Local times for the OportUnidad webinar on the 6<sup>th</sup> of March are provided:</p>
+<ul style="text-align: justify;">
+<li>Monterrey, Mexico, San Jose, Costa Rica: 10.00 – 11.00 AM</li>
+<li>Quito, Ecuador; Lima, Peru; Medellin, Colombia: 11.00 – 12.00 AM</li>
+<li>Santa Cruz, Bolivia: 12.00 – 13.00 AM</li>
+<li>Montevideo, Uruguay; Rio de Janeiro, Brazil: 2.00 –  3.00 PM</li>
+<li>Porto, Portugal; Oxford, United Kingdom: 4.00 – 5.00 PM</li>
+<li>Barcelona, Spain; Rome, Italy: 5.00 – 6.00 PM</li>
+</ul>
+<p style="text-align: justify;"><strong>What is going to happen in the webminar?</strong> After the presentation of the project, there will be time for Q&amp;A and more importantly, we will open a call for those Latin-American universities which would like to be part of the <strong>Oportunidad network</strong>. Stay tuned: <strong><a href="https://twitter.com/#!/cristobalcobo" target="_blank">@cristobalcobo</a></strong>.</p>
+<h3>Login information for the webinar:</h3>
+<p><a href="https://sas.elluminate.com/m.jnlp?password=M.02943F441C348846BC638C0999A5E8&amp;sid=2008170">https://sas.elluminate.com/m.jnlp?password=M.02943F441C348846BC638C0999A5E8&amp;sid=2008170</a></p>
+<p>The platform for the webinar is Blackboard Collaborate Offered free by Washington State Board for Community and Technical Colleges.</p>
+<p>If you are not familiar with using Blackboard Collaborate there is an online tutorial available here:<a href="http://library.blackboard.com/ref/8186b6cd-7e8e-46f9-9551-74ccf99d6fdb/index.htm">http://library.blackboard.com/ref/8186b6cd-7e8e-46f9-9551-74ccf99d6fdb/index.htm</a></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=24" rel="category">Education and ICT</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=29" rel="category">Learning</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8" rel="category">News</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=32" rel="category">open access</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=445#comments"><b>2</b> Replies</a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-445 -->
+
+				
+					
+	<article id="post-425" class="post-425 post type-post status-publish format-standard hentry category-news category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=425" rel="bookmark">Networked Minorities</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=425" title="12:13 pm" rel="bookmark"><time class="entry-date" datetime="2011-12-30T12:13:17+00:00">30/12/2011</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=425#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div class="oii_vis">
+<p><a href="http://www.oii.ox.ac.uk/vis/?id=4ee0d6f1" target="_blank"><img src="http://www.oii.ox.ac.uk/vis/images/?src=4ee0d6f1/global_en_points.png&amp;width=600" alt="Mapping English Wikipedia" width="600" height="352" /></a></p>
+<p><a href="http://www.oii.ox.ac.uk/vis/?id=4ee0d6f1">Mapping English Wikipedia</a> via <a href="http://www.oii.ox.ac.uk">Oxford Internet Institute</a></p>
+</div>
+<p>After the publication of our book <strong><a href="http://www.invisiblelearning.com/en/" target="_blank">Invisible Learning</a></strong>, (now <a href="http://www.amazon.es/Aprendizaje-invisible-Hacia-ecolog%C3%ADa-educaci%C3%B3n/dp/8447535185/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1324474215&amp;sr=1-1" target="_blank">available on Amazon</a>) the <a href="http://www.publicacions.ub.edu/idioma.asp?lang=eng" target="_blank"><strong>Transmedia XXI century </strong>Collection</a> (promoted by the <a href="http://www.lmi.ub.es/lmi" target="_blank">Laboratory of Interactive Medias</a> at the University of Barcelona), has just released a new publication called: &#8220;<strong><a href="http://www.amazon.com/Minor%C3%ADas-red-migraci%C3%B3n-Europa-Spanish/dp/1466449810" target="_blank">Minorías en red. Medios y migración en Europa</a>&#8221; </strong>(that could be read in english as<em> Network <em>Minorities</em></em>: media and migration in Europe), written by <a href="http://www.minoriasenred.net/autoras.html" target="_blank">Cilia Willem and Anaïs Le Corvec</a>.</p>
+<p><a href="http://www.minoriasenred.net/" target="_blank"><img class="alignnone" src="http://www.minoriasenred.net/uploads/5/3/7/8/5378616/header_images/1323270015.jpg" alt="Minorias en Red" width="600" height="150" /></a></p>
+<p><strong></strong>This book is the third of the trilogy (preceded by <a href="http://www.publicacions.ub.edu/liberweb/geekonomia/" target="_blank">Geekonomy</a> and Invisible Learning). This new publication offers a case study that analyzes how the Internet has been used to build social capital among those low income ethnics and migrant minorities. The authors explored how those communities interact through the Internet, and either those practices foster their social inclusion or not. In this framework the authors analysed  how the digital inclusion places a key rol in among the migrant population. [The first version of this publication is only available in Spanish].</p>
+<p>Here you can download an early version in english [<a href="http://www.lmi.ub.es/bridgeit/documents/Bridge_IT_Good_Practices_final.pdf" target="_blank">pdf</a>].</p>
+<p>&nbsp;</p>
+<p><iframe src="http://www.youtube.com/embed/Wm_prttswCk" frameborder="0" width="600" height="405"></iframe></p>
+<p>[Alain Touraine talking about Immigrants in Europe]</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8" rel="category">News</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=425#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-425 -->
+
+				
+					
+	<article id="post-391" class="post-391 post type-post status-publish format-standard hentry category-education-and-ict category-learning-2 category-networks-of-the-future category-news category-oxford-internet-institute category-research">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=391" rel="bookmark">A nomadic generation from the PC to the multi-context connection</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=391" title="6:21 pm" rel="bookmark"><time class="entry-date" datetime="2011-10-25T18:21:11+00:00">25/10/2011</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=391#comments">1</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div class="prezi-player">
+<p><object id="prezi_ace--pq5nzpd" width="600" height="600" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="flashvars" value="prezi_id=ace--pq5nzpd&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /><param name="src" value="http://prezi.com/bin/preziloader.swf" /><embed id="prezi_ace--pq5nzpd" width="600" height="600" type="application/x-shockwave-flash" src="http://prezi.com/bin/preziloader.swf" allowfullscreen="true" allowscriptaccess="always" flashvars="prezi_id=ace--pq5nzpd&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0" /></object></p>
+<div class="prezi-player-links">
+<p><a title="                                                          Oxford Internet Survey (OxIS) research is designed to offer detailed insights into the influence of the Internet on everyday life in Britain. OxIS represents the UK's input into the World Internet Project (WIP). Organizing institution: the Oxford Internet                                                      " href="http://prezi.com/ace--pq5nzpd/oxford-internet-surveys-summary/">Oxford Internet Surveys [summary]</a> on <a href="http://prezi.com">Prezi</a></p>
+</div>
+</div>
+<p style="text-align: justify;">In the above presentation I made a personal summary of some of the most relevant findings that I saw in the last <strong><a href="http://microsites.oii.ox.ac.uk/oxis/" target="_blank">Oxford internet Survey</a></strong> (OxIS) which was recently launched by Grant Blank and Bill Dutton (<a href="http://www.oii.ox.ac.uk/publications/oxis2011_report.pdf" target="_blank">download report, pdf</a>).</p>
+<p style="text-align: justify;">During the presentation of OxIS, in the <a href="http://microsites.oii.ox.ac.uk/oxis/blog/2011/highlights-oxis-2011-report-launch" target="_blank">House of Commons</a> Bill Dutton and Grant Blank explained that one of the main findings of this British survey was the so-called “Next Generation” (aka <strong>Nomadic Generation</strong>, thanks to an intervetion of Joss Wright).</p>
+<p style="text-align: justify;">The report says:</p>
+<blockquote><p>“The<strong> next generation user</strong> is defined by the emergence of two separate but related trends: <strong>portability and access </strong>through multiple devices. <em>First</em>, there has been a continuing <strong>increase in the proportion of users with portable devices, using the Internet over one or another mobile device,</strong> such as a smart phone&#8230;</p>
+<p>Now in 2011,<strong> the mobile phone is one of a number of devices for accessing the Internet that are portable within and outside the household.</strong><em>Secondly</em>, Internet<strong> users often have more devices, such as multiple computers, readers, tablets, and laptop computers</strong>, in addition to mobile phones, to access the Internet&#8230;</p>
+<p>Fully<strong> 59% have access to the Internet via one or more of these multiple devices other than the household personal computer</strong>”.</p></blockquote>
+<p style="text-align: justify;">Considering the idea of the &#8220;Next Generation&#8221; (much more realistic and reliable than the idea of &#8216;digital native&#8217;) and its links with those who are digital content-creators I think that a lot of commonalities can be found between this work and the “<a href="http://www.oii.ox.ac.uk/vis/" target="_blank">Geographies of the World’s Knowledge</a>” developed by Graham, M., Hale, S. A. and Stephens, M. who mapped the digital world based on the generation (and uploading) of contents. That is why I decided to link both works in my presentation.</p>
+<p style="text-align: justify;">Thanks to an invitation of <a href="http://www.telecentre.org/news/miguel-raimilla-appointed-as-executive-director/" target="_blank">Miguel Raimilla</a> and <a href="http://ec.europa.eu/information_society/events/cf/daa11/person.cfm?personid=30159" target="_blank">Ian Clifford</a> to participate in the next <a href="http://www.telecentre-europe.org/?page_id=186" target="_blank">Telecentre-Europe Summit in Brussels</a>, I will present a summary of the OxIS 2011 in the session: <em>Impact assessment- European digital inclusion</em>. In order to do that, I prepared this <a href="http://prezi.com/ace--pq5nzpd/oxford-internet-surveys-summary/" target="_blank">Prezi </a>that is publicly available (downloadable and improvable).</p>
+<p style="text-align: justify;">Special thanks to all the OII people who worked in any of these outstanding works.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=24" rel="category">Education and ICT</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=29" rel="category">Learning</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=5" rel="category">Networks of the Future</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8" rel="category">News</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=7" rel="category">Oxford Internet Institute</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=20" rel="category">Research</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=391#comments"><b>1</b> Reply</a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-391 -->
+
+				
+						<nav id="nav-below">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="http://blogs.oii.ox.ac.uk/cobo/?cat=8&#038;paged=2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-above -->
+	
+			
+			</div><!-- #content -->
+		</section><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-5" class="widget widget_text">			<div class="textwidget"><a href="http://scholar.google.com/citations?sortby=pubdate&amp;hl=en&amp;user=Roc8DUYAAAAJ&amp;pagesize=100&amp;view_op=list_works" target="_blank"><img src="https://sites.google.com/site/einseu/home/logo-googlescholar.jpeg" alt="Google Scholar Citations" width="200" /></a>
+<a href="http://stallman.org/facebook.html" target="_blank"><img src="http://stallman.org/no-facebook-200x64.png" alt="Not f'd. You won't find us on Facebook" width="200" /></a>
+
+
+<a href="http://www.oii.ox.ac.uk/people/?id=189#tab_webcasts" target="_blank"><img src="https://sites.google.com/site/cristobalcobo/home/tv2.gif" alt="Webcast" width="200" /></a>
+Lecture Webcasts</div>
+		</aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=6195468; 
+var sc_invisible=1; 
+var sc_security="7d1666d3"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="wordpress counter"
+href="http://www.statcounter.com/wordpress.org/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/6195468/0/7d1666d3/1/"
+alt="wordpress counter" ></a></div></noscript>
+<!-- End of StatCounter Code --></div>
+		</aside><aside id="linkcat-2" class="widget widget_links"><h3 class="widget-title">Blogroll</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://ergonomic.wordpress.com/" title="Personal blog 2005-2010" target="_blank">Blog (spanish)</a></li>
+<li><a href="http://scholar.google.com/citations?sortby=pubdate&#038;hl=en&#038;user=Roc8DUYAAAAJ&#038;pagesize=100&#038;view_op=list_works" title="Citations in Google Scholar" target="_blank">Citations in Google Scholar</a></li>
+<li><a href="http://www.invisiblelearning.com" title="Invisible Learning is collaborative book (in English and Spanish) and an online repository of bold ideas for designing cultures of sustainable innovation." target="_blank">Invisible Learning</a></li>
+<li><a href="http://www.youtube.com/watch?v=9E_BH00dkJk" title="Invisible Learning (TEDxLaguna)" target="_blank">My TED Talk</a></li>
+<li><a href="http://mediaresearchhub.ssrc.org/cristobal-cobo-romani/person_view" title="The Media Research Hub is a resource for researchers, advocates, and practitioners working for a more democratic and participatory public spher" target="_blank">SSRC Research Hub</a></li>
+<li><a href="http://www.cristobalcobo.net/" title="Cristobal Cobo " target="_blank">The Web of Cristobal Cobo</a></li>
+
+	</ul>
+</aside>
+<aside id="meta-3" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://blogs.oii.ox.ac.uk/cobo/wp-login.php">Log in</a></li>
+			<li><a href="http://blogs.oii.ox.ac.uk/cobo/?feed=rss2">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogs.oii.ox.ac.uk/cobo/?feed=comments-rss2">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+			</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+</body>
+</html>

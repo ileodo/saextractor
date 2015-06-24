@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title> Large deviation based upper bounds for the LCS-problem  - The Mathematical Institute, University of Oxford, Eprints Archive</title>
+    <script type="text/javascript" src="/javascript/auto.js"><!-- padder --></script>
+    <style type="text/css" media="screen">@import url(/style/auto.css);</style>
+    <style type="text/css" media="print">@import url(/style/print.css);</style>
+    <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="Top" href="http://eprints.maths.ox.ac.uk/" />
+    <link rel="Search" href="http://eprints.maths.ox.ac.uk/cgi/search" />
+    <meta name="eprints.eprintid" content="1195" />
+<meta name="eprints.rev_number" content="16" />
+<meta name="eprints.eprint_status" content="archive" />
+<meta name="eprints.userid" content="86" />
+<meta name="eprints.dir" content="disk0/00/00/11/95" />
+<meta name="eprints.datestamp" content="2011-05-18 07:12:35" />
+<meta name="eprints.lastmod" content="2015-05-29 18:53:30" />
+<meta name="eprints.status_changed" content="2011-05-18 07:12:35" />
+<meta name="eprints.type" content="monograph" />
+<meta name="eprints.metadata_visibility" content="show" />
+<meta name="eprints.item_issues_count" content="0" />
+<meta name="eprints.creators_name" content="Hauser, Raphael" />
+<meta name="eprints.creators_name" content="Martinez, Servet" />
+<meta name="eprints.creators_name" content="Matzinger, Heinrich" />
+<meta name="eprints.creators_id" content="hauser@maths.ox.ac.uk" />
+<meta name="eprints.creators_id" content="" />
+<meta name="eprints.creators_id" content="" />
+<meta name="eprints.title" content="Large deviation based upper bounds for the LCS-problem" />
+<meta name="eprints.ispublished" content="submitted" />
+<meta name="eprints.subjects" content="M62" />
+<meta name="eprints.subjects" content="M92" />
+<meta name="eprints.subjects" content="M05" />
+<meta name="eprints.subjects" content="M65" />
+<meta name="eprints.groups" content="nag" />
+<meta name="eprints.full_text_status" content="public" />
+<meta name="eprints.monograph_type" content="technical_report" />
+<meta name="eprints.abstract" content="We analyse and apply a large deviation and Montecarlo simulation based method for the computation of improved upper bounds on the Chvatal-Sankoff constant for i.i.d. random sequences over a finite alphabet. Our theoretical results show that this method converges to the exact value of when a control parameter converges to infinity. We also give upper bounds on the complexity for numerically computing the Chvatal-Sankoff constant to any given precision via this method. Our numerical experiments confirm the theory and allow us to give new upper bounds that are correct to two digits." />
+<meta name="eprints.date" content="2003-11" />
+<meta name="eprints.publisher" content="Unspecified" />
+<meta name="eprints.pages" content="41" />
+<meta name="eprints.id_number" content="NA-03/13" />
+<meta name="eprints.citation" content="  Hauser, Raphael and Martinez, Servet and Matzinger, Heinrich  (2003) Large deviation based upper bounds for the LCS-problem.  Technical Report. Unspecified.    (Submitted)  " />
+<meta name="eprints.document_url" content="http://eprints.maths.ox.ac.uk/1195/1/NA-03-13.pdf" />
+<link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" />
+<meta name="DC.relation" content="http://eprints.maths.ox.ac.uk/1195/" />
+<meta name="DC.title" content="Large deviation based upper bounds for the LCS-problem" />
+<meta name="DC.creator" content="Hauser, Raphael" />
+<meta name="DC.creator" content="Martinez, Servet" />
+<meta name="DC.creator" content="Matzinger, Heinrich" />
+<meta name="DC.subject" content="Statistics" />
+<meta name="DC.subject" content="Biology and other natural sciences" />
+<meta name="DC.subject" content="Combinatorics" />
+<meta name="DC.subject" content="Numerical analysis" />
+<meta name="DC.description" content="We analyse and apply a large deviation and Montecarlo simulation based method for the computation of improved upper bounds on the Chvatal-Sankoff constant for i.i.d. random sequences over a finite alphabet. Our theoretical results show that this method converges to the exact value of when a control parameter converges to infinity. We also give upper bounds on the complexity for numerically computing the Chvatal-Sankoff constant to any given precision via this method. Our numerical experiments confirm the theory and allow us to give new upper bounds that are correct to two digits." />
+<meta name="DC.publisher" content="Unspecified" />
+<meta name="DC.date" content="2003-11" />
+<meta name="DC.type" content="Technical Report" />
+<meta name="DC.type" content="NonPeerReviewed" />
+<meta name="DC.format" content="application/pdf" />
+<meta name="DC.language" content="en" />
+<meta name="DC.identifier" content="http://eprints.maths.ox.ac.uk/1195/1/NA-03-13.pdf" />
+<meta name="DC.identifier" content="  Hauser, Raphael and Martinez, Servet and Matzinger, Heinrich  (2003) Large deviation based upper bounds for the LCS-problem.  Technical Report. Unspecified.    (Submitted)  " />
+<meta name="DC.relation" content="NA-03/13" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/EAP/mieprints-eprint-1195.xml" type="text/xml" title="Eprints Application Profile" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/XML/mieprints-eprint-1195.xml" type="application/vnd.eprints.data+xml; charset=utf-8" title="EP3 XML" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/MODS/mieprints-eprint-1195.xml" type="text/xml; charset=utf-8" title="MODS" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/RDFXML/mieprints-eprint-1195.rdf" type="application/rdf+xml" title="RDF+XML" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/Refer/mieprints-eprint-1195.refer" type="text/plain" title="Refer" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/EndNote/mieprints-eprint-1195.enw" type="text/plain; charset=utf-8" title="EndNote" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/RDFNT/mieprints-eprint-1195.nt" type="text/plain" title="RDF+N-Triples" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/BibTeX/mieprints-eprint-1195.bib" type="text/plain" title="BibTeX" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/Atom/mieprints-eprint-1195.xml" type="application/atom+xml;charset=utf-8" title="Atom" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/ContextObject/mieprints-eprint-1195.xml" type="text/xml; charset=utf-8" title="OpenURL ContextObject" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/JSON/mieprints-eprint-1195.js" type="application/json; charset=utf-8" title="JSON" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/Simple/mieprints-eprint-1195.txt" type="text/plain; charset=utf-8" title="Simple Metadata" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/DC/mieprints-eprint-1195.txt" type="text/plain; charset=utf-8" title="Dublin Core" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/Text/mieprints-eprint-1195.txt" type="text/plain; charset=utf-8" title="ASCII Citation" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/CSV/mieprints-eprint-1195.csv" type="text/csv; charset=utf-8" title="Multiline CSV" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/COinS/mieprints-eprint-1195.txt" type="text/plain; charset=utf-8" title="OpenURL ContextObject in Span" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/HTML/mieprints-eprint-1195.html" type="text/html; charset=utf-8" title="HTML Citation" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/RIS/mieprints-eprint-1195.ris" type="text/plain" title="Reference Manager" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/RDFN3/mieprints-eprint-1195.n3" type="text/n3" title="RDF+N3" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/DIDL/mieprints-eprint-1195.xml" type="text/xml; charset=utf-8" title="MPEG-21 DIDL" />
+<link rel="alternate" href="http://eprints.maths.ox.ac.uk/cgi/export/eprint/1195/METS/mieprints-eprint-1195.xml" type="text/xml; charset=utf-8" title="METS" />
+<link rel="Top" href="http://eprints.maths.ox.ac.uk/" />
+    <link rel="Sword" href="https://eprints.maths.ox.ac.uk/sword-app/servicedocument" />
+    <link rel="SwordDeposit" href="https://eprints.maths.ox.ac.uk/id/contents" />
+    <link rel="Search" type="text/html" href="http://eprints.maths.ox.ac.uk/cgi/search" />
+    <link rel="Search" type="application/opensearchdescription+xml" href="http://eprints.maths.ox.ac.uk/cgi/opensearchdescription" />
+    <script type="text/javascript">
+// <![CDATA[
+var eprints_http_root = "http:\/\/eprints.maths.ox.ac.uk";
+var eprints_http_cgiroot = "http:\/\/eprints.maths.ox.ac.uk\/cgi";
+var eprints_oai_archive_id = "generic.eprints.org";
+var eprints_logged_in = false;
+// ]]></script>
+    <style type="text/css">.ep_logged_in { display: none }</style>
+    <link rel="stylesheet" type="text/css" href="/style/auto-3.3.14.css" />
+    <script type="text/javascript" src="/javascript/auto-3.3.14.js"><!--padder--></script>
+    <!--[if lte IE 6]>
+        <link rel="stylesheet" type="text/css" href="/style/ie6.css" />
+   <![endif]-->
+    <meta name="Generator" content="EPrints 3.3.14" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Content-Language" content="en" />
+    
+    <style type="text/css" media="screen">@import url(/style/nojs.css);</style>
+    <script type="text/javascript" src="/javascript/jscss.js"><!-- padder --></script>
+  </head>
+  <body bgcolor="#ffffff" text="#000000">
+    
+    <div class="ep_tm_header ep_noprint">
+      <div class="ep_tm_logo"><a href="http://eprints.maths.ox.ac.uk/"><img alt="Logo" src="/images/sitelogo.gif" /></a></div>
+      <div><a class="ep_tm_archivetitle" href="http://eprints.maths.ox.ac.uk/">The Mathematical Institute, University of Oxford, Eprints Archive</a></div>
+
+  <ul class="ep_tm_menu"><li><a href="http://eprints.maths.ox.ac.uk">Home</a></li><li><a href="http://eprints.maths.ox.ac.uk/information.html">About</a></li><li><a href="http://eprints.maths.ox.ac.uk/view/year/">Browse by Year</a></li><li><a href="http://eprints.maths.ox.ac.uk/view/subjects/">Browse by Subject</a></li><li><a href="http://eprints.maths.ox.ac.uk/view/groups/">Browse by Research Group</a></li><li><a href="http://eprints.maths.ox.ac.uk/view/author/">Browse by Author</a></li><li><a href="http://eprints.maths.ox.ac.uk/view/type/">Browse by Type</a></li></ul>
+
+  <table class="ep_tm_searchbar" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td align="left"><a href="http://eprints.maths.ox.ac.uk/cgi/users/home">Login</a></td>
+      <td align="right" style="white-space: nowrap">
+        <form method="get" accept-charset="utf-8" action="http://eprints.maths.ox.ac.uk/cgi/search" style="display:inline">
+          <input class="ep_tm_searchbarbox" size="20" type="text" name="q" />
+          <input class="ep_tm_searchbarbutton" value="Search" type="submit" name="_action_search" />
+          <input type="hidden" name="_action_search" value="Search" />
+          <input type="hidden" name="_order" value="bytitle" />
+          <input type="hidden" name="basic_srchtype" value="ALL" />
+          <input type="hidden" name="_satisfyall" value="ALL" />
+        </form>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<div align="center">
+  
+  <table width="720" class="ep_tm_main"><tr><td align="left">
+    <h1 class="ep_tm_pagetitle">
+
+Large deviation based upper bounds for the LCS-problem
+
+</h1>
+    <div class="ep_summary_content"><div class="ep_summary_content_left"></div><div class="ep_summary_content_right"></div><div class="ep_summary_content_top"></div><div class="ep_summary_content_main"><p class="ep_block" style="margin-bottom: 1em">
+
+
+    <span class="person_name">Hauser, Raphael</span> and <span class="person_name">Martinez, Servet</span> and <span class="person_name">Matzinger, Heinrich</span>
+  
+
+(2003)
+
+<em>Large deviation based upper bounds for the LCS-problem.</em>
+
+
+    Technical Report.
+    Unspecified.
+  
+
+
+   (Submitted)
+
+
+</p><p class="ep_block" style="margin-bottom: 1em"></p><table class="ep_block" style="margin-bottom: 1em"><tr><td valign="top" style="text-align:center"><a onmouseout="EPJS_HidePreview( event, 'doc_preview_1159' );" href="http://eprints.maths.ox.ac.uk/1195/1/NA-03-13.pdf" class="ep_document_link" onmouseover="EPJS_ShowPreview( event, 'doc_preview_1159' );"><img class="ep_doc_icon" alt="[img]" src="http://eprints.maths.ox.ac.uk/style/images/fileicons/application_pdf.png" border="0" /></a><div id="doc_preview_1159" class="ep_preview"><table><tr><td><img class="ep_preview_image" alt="" src="http://eprints.maths.ox.ac.uk/1195/1.haspreviewThumbnailVersion/NA-03-13.pdf" border="0" /><div class="ep_preview_title">Preview</div></td></tr></table></div></td><td valign="top">
+
+<!-- document citation -->
+
+
+<span class="ep_document_citation">
+<a class="ep_document_link" href="http://eprints.maths.ox.ac.uk/1195/1/NA-03-13.pdf">PDF</a>
+
+
+
+</span>
+
+<br />387kB</td></tr></table><div class="ep_block"><h2>Abstract</h2><p style="text-align: left; margin: 1em auto 0em auto">We analyse and apply a large deviation and Montecarlo simulation based method for the computation of improved upper bounds on the Chvatal-Sankoff constant for i.i.d. random sequences over a finite alphabet. Our theoretical results show that this method converges to the exact value of when a control parameter converges to infinity. We also give upper bounds on the complexity for numerically computing the Chvatal-Sankoff constant to any given precision via this method. Our numerical experiments confirm the theory and allow us to give new upper bounds that are correct to two digits.</p></div><table class="ep_block" style="margin-bottom: 1em" border="0" cellpadding="3"><tr><th valign="top" class="ep_row">Item Type:</th><td valign="top" class="ep_row">Technical Report (Technical Report)</td></tr><tr><th valign="top" class="ep_row">Subjects:</th><td valign="top" class="ep_row"><a href="http://eprints.maths.ox.ac.uk/view/subjects/M62.html">O - Z &gt; Statistics</a><br /><a href="http://eprints.maths.ox.ac.uk/view/subjects/M92.html">A - C &gt; Biology and other natural sciences</a><br /><a href="http://eprints.maths.ox.ac.uk/view/subjects/M05.html">A - C &gt; Combinatorics</a><br /><a href="http://eprints.maths.ox.ac.uk/view/subjects/M65.html">H - N &gt; Numerical analysis</a></td></tr><tr><th valign="top" class="ep_row">Research Groups:</th><td valign="top" class="ep_row"><a href="http://eprints.maths.ox.ac.uk/view/groups/nag/">Numerical Analysis Group</a></td></tr><tr><th valign="top" class="ep_row">ID Code:</th><td valign="top" class="ep_row">1195</td></tr><tr><th valign="top" class="ep_row">Deposited By:</th><td valign="top" class="ep_row">
+      
+
+<span class="ep_name_citation"><span class="person_name">Lotti Ekert</span></span>
+
+
+</td></tr><tr><th valign="top" class="ep_row">Deposited On:</th><td valign="top" class="ep_row">18 May 2011 07:12</td></tr><tr><th valign="top" class="ep_row">Last Modified:</th><td valign="top" class="ep_row">29 May 2015 18:53</td></tr></table><p align="right">Repository Staff Only: <a href="http://eprints.maths.ox.ac.uk/cgi/users/home?screen=EPrint::View&amp;eprintid=1195">item control page</a></p></div><div class="ep_summary_content_bottom"></div><div class="ep_summary_content_after"></div></div>
+  </td></tr></table>
+</div>
+
+
+<div class="ep_tm_footer ep_noprint">
+  <hr noshade="noshade" class="ep_ruler" />
+  <hr class="ep_tm_last" />
+  <div style="float: right; margin-left: 1em"><a href="http://eprints.org/software/"><img alt="EPrints Logo" src="/images/eprintslogo.gif" border="0" /></a></div>
+  <div style="font-size: 80%;">
+    <div>The Mathematical Institute, University of Oxford, Eprints Archive is powered by <em><a href="http://eprints.org/software/">EPrints 3</a></em> which is developed by the <a href="http://www.ecs.soton.ac.uk/">School of Electronics and Computer Science</a> at the University of Southampton. <a href="http://eprints.maths.ox.ac.uk/eprints/">More information and software credits</a>.</div>
+  </div>
+</div>
+
+
+  </body>
+</html>

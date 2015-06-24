@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+        <TITLE> Yee Whye Teh </TITLE>
+        <META NAME="DESCRIPTION" CONTENT="Yee, Whye, Teh, ywteh">
+        <META NAME="KEYWORDS" CONTENT="Yee, Whye, Teh, ywteh">
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<link href="ywtemplate.css" rel="stylesheet" type="text/css">
+</HEAD>
+<body>
+
+<div id="everything">
+<div id="content">
+
+<h1> Research : Talks </h1>
+
+<ul>
+
+        <li><p> Slides for Bayesian nonparametrics tutorials are 
+        <a href="teaching/npbayes.html">here</a> and for courses are 
+                <a href="teaching/courses.html">here</a>.</p>
+
+        <a name="nrmmargsampler"></a>
+        <li><p><b>Marginalized Samplers for Normalized Random Measure
+        Mixture Models</b>.<br>
+        [<a href="research/npbayes/FavTeh2013a-longtalk.pdf" onClick="_gaq.push(['_trackPageview','research/npbayes/FavTeh2013a'])">long slides</a>]
+        [<a href="research/npbayes/FavTeh2013a-shorttalk.pdf" onClick="_gaq.push(['_trackPageview','research/npbayes/FavTeh2013a'])">short slides</a>]
+<br>
+        </p>
+
+
+        <a name="fragcoag"></a>
+        <li><p><b>Modelling Genetic Variations with
+Fragmentation-Coagulation Processes</b>.<br>
+        [<a href="research/npbayes/fragcoag.pdf" onClick="_gaq.push(['_trackPageview','research/npbayes/fragcoag'])">slides</a>]
+        [<a href="http://videolectures.net/nips2011_teh_fragmentation/" onClick="_gaq.push(['_trackPageview','research/npbayes/fragcoag'])">videolectures @ NIPS 2011 by Yee Whye Teh</a>]
+<br>
+        </p>
+
+        <a name="uniformization"></a>
+        <li><p><b>Efficient MCMC for Continuous Time Discrete State Systems</b>.<br>
+        [<a href="research/compstats/uniformization.pdf" onClick="_gaq.push(['_trackPageview','research/compstats/uniformization'])">slides</a>]
+        <br> </p>
+
+        <a name="sgld"></a>
+        <li><p><b>Bayesian Learning via Stochastic Gradient Langevin Dynamics</b>.<br>
+        [<a href="research/compstats/sgld.pdf" onClick="_gaq.push(['_trackPageview','research/compstats/sgld'])">slides</a>]
+        [<a href="http://techtalks.tv/talks/bayesian-learning-via-stochastic-gradient-langevin-dynamics/54430/" onClick="_gaq.push(['_trackPageview','research/compstats/sgld'])">techtalks @ ICML2011 by Andriy Mnih</a>]
+        <br> </p>
+
+
+        <a name="bayesnll"></a>
+        <li><p><b>Bayesian Tools for Natural Language Learning</b>.<br>
+        High level introduction to the various Bayesian tools (hierarchical models, power-law models, etc) that NLP people might find useful.
+        <br>
+        [<a href="compling/bayesnll.pdf" onClick="_gaq.push(['_trackPageview','research/compling/bayesnll'])">slides</a>]<br>
+        </p>
+ 
+        <a name="bayeslm"></a>
+        <li><p><b>Hierarchical Bayesian Nonparametric Models of Language and Text</b>.<br>
+        The sequence memoizer as a language model and for data compression.
+        <br>
+        [<a href="compling/bayeslm.pdf" onClick="_gaq.push(['_trackPageview','research/compling/bayeslm'])">slides</a>]
+        [<a href="http://videolectures.net/icml09_wood_sms/" onClick="_gaq.push(['_trackPageview','research/compling/bayeslm'])">videolectures @ ICML 2009 by Frank Wood</a>]
+        <br></p>
+
+        <a name="brt"></a>
+        <li><p><b>Bayesian Rose Trees</b>.<br>
+        A model-based hierarchical clustering method that can deal with noisy, missing, structured data and with which we can use for prediction.
+        <br>
+        [<a href="research/npbayes/brt.pdf" onClick="_gaq.push(['_trackPageview','research/npbayes/brt'])">slides</a>]
+        <br></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</ul>
+
+</div>
+
+<script type="text/javascript" src="sidebar.js"></script>
+
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16963285-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</BODY>
+</HTML>
+

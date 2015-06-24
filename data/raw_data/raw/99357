@@ -1,0 +1,1100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xml:lang="en" lang="en-gb" prefix="og: http://ogp.me/ns#">
+<head>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8"/>
+<link media="all" href="/styles/basic.css" rel="stylesheet" type="text/css"/>
+<link media="all" href="/styles/csbasic.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/layout.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/mainnav.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/lookandfeel.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/cslayout.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/csmainnav.css" rel="stylesheet" type="text/css"/>
+<link media="screen,projection,print" href="/styles/cslookandfeel.css" rel="stylesheet" type="text/css"/>
+<link media="print" href="/styles/csprint.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="/javascript/rss.js?version=4"></script>
+<script type="text/javascript" src="/javascript/csmenu.js"></script>
+
+<link rel="icon" href="/favicon.ico" type="images/x-icon" /> 
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="top" href="/" title="Homepage"/>
+<meta name="author" content="University of Oxford" />
+
+<meta name="keywords" content="Department of Computer Science Seminar Series Previous Seminars Archive"></meta><meta name="description" content="Previous Seminars Archive by series at the Department of Computer Science at the heart of computing and related interdisciplinary activity at Oxford."></meta><link rel="alternate" type="application/rss+xml" title="Subscribe to seminar series oasis" href="http://www.cs.ox.ac.uk/feeds/SeminarSeries-oasis.xml"></link><title>Department of Computer Science, University of Oxford: OASIS: The Oxford Advanced Seminar on Informatic Structures Previous Seminars Archive</title><script type="text/javascript" src="/javascript/rss-test.js"></script><meta property="og:site_name" content="Department of Computer Science"></meta><meta property="og:title" content="Department of Computer Science, University of Oxford: OASIS: The Oxford Advanced Seminar on Informatic Structures"></meta><meta property="og:image" content="http://www.cs.ox.ac.uk/images/CompSci_logo_landscapeL_rgb_corrected.jpg"></meta><meta property="og:url" content="http://www.cs.ox.ac.uk/seminars/oasis/previous.html"></meta><script type="text/javascript">
+// <![CDATA[
+
+	/**
+	**  Honour the "do not track" browser setting.
+	**/
+	if(typeof navigator.doNotTrack === "undefined" || (navigator.doNotTrack !== 'yes' && navigator.doNotTrack !== '1'))
+	{
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-25164877-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+    	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	}
+  
+// ]]>
+</script>
+<script type="text/javascript" src="/javascript/eucookielaw.js?version=1"></script>
+</head>
+<body style="background-image: none;">
+<!-- all div starts -->
+<div id="all" style="border: 15px solid white; width: 960px; margin-left: auto; margin-right: auto">
+
+<div style="border-bottom: 10px solid white;position: relative; width: 960px" id="csbanner"><!-- 156 -->
+<img src="/images/CompSci_logo_landscapeL_rgb_corrected.jpg" style="height: 140px;position: relative; left: -1px; top: -1px" alt="University of Oxford Logo" usemap="#compscimap"/>
+<map name="compscimap" id="compscimap"><area shape="rect" coords="0,0,140,140" href="http://www.ox.ac.uk/" alt="University of Oxford" title="University of Oxford"/><area shape="rect" coords="164,0,427,140" href="/" alt="Department of Computer Science - Home" title="Department of Computer Science - Home"/></map>
+<!-- searchbox div starts -->
+<div style="position: absolute; right: 0px; top: 15px;" id="topnav">
+
+<div style="position: absolute; right: 0px; height: 1.5em">
+<form action="/search/" id="searchbox_015502513156171547487:pcshjhkjzqe" >
+<div class="searchspan">
+<input type="text" class="searchinput" maxlength="128" autocomplete="off" name="q" value="Search" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}"/><input type="submit" name="sa" value=""  class="searchbutton"/> 
+</div>
+<input type="hidden" name="cx" value="015502513156171547487:pcshjhkjzqe" />
+<input type="hidden" name="cof" value="FORID:11" />
+  
+<!--
+ <table id="searchtable" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+   <td id="searchinput">
+    <input type="text" maxlength="128" autocomplete="off" name="q" value="Search" onfocus="if(this.value=='Search'){this.value='';}" onblur="if(this.value==''){this.value='Search';}"/>
+   </td>
+   <td id="searchbutton">
+    <input type="hidden" name="cx" value="015502513156171547487:pcshjhkjzqe" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input type="submit" name="sa" value="Search" id="submit"/>
+   </td>
+  </tr>
+ </table>
+ -->
+</form>
+</div>
+
+<div class="headLinks" style="position: absolute; top: 2.8em; right: 1px; width: 452px; padding: 4px 0px 4px 0px;text-align: right;">
+        <div id="banner_contact_us"><a href="/contact.html">Contact us</a></div>
+        <div id="banner_about_us"><a href="/contact/history.html">About us</a></div>
+        <div id="banner_cookies"><a href="/privacy-policy.html">Privacy &amp; Cookies</a></div>
+        <div id="banner_sitemap"><a href="/sitemap.html">Site map</a></div>
+        <div id="banner_ourpeople"><a href="/people/">Our people</a></div>
+        <div id="banner_ourresearch"><a href="/research/">Our research</a></div>
+</div>
+
+  
+
+<div style="position: absolute; top: 6em; right: -6px; width: 293px; padding: 4px 0px 4px 0px;text-align: right; vertical-align: center; text-align: center">
+
+	<div class="icon24_2">
+		<a href="http://www.facebook.com/DepartmentOfComputerScienceUniversityOfOxford"><img src="/images/icons/24/socicon/facebook.png" alt="On Facebook" title="The Department on Facebook"/></a>
+		<div>Facebook</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="https://twitter.com/CompSciOxford"><img src="/images/icons/24/socicon/twitter.png" alt="Follow us on twitter" title="Follow us on twitter"/></a>
+		<div>Twitter</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="http://www.linkedin.com/company/department-of-computer-science-university-of-oxford"><img src="/images/icons/24/socicon/linkedin.png" alt="Linked in" title="Linked in"/></a>
+		<div>Linked in</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="http://www.flickr.com/photos/computerscienceoxford/"><img src="/images/icons/24/socicon/flickrcol.png" alt="Flickr" title="Flickr"/></a>
+		<div>Flickr</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.cs.ox.ac.uk/seminars/oasis/previous.html&amp;hl=en-GB"><img src="/images/icons/24/socicon/google.png" alt="Google plus" title="Google plus"/></a>
+		<div>Google plus</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="http://digg.com/submit?url=https%3A%2F%2Fwww.cs.ox.ac.uk/seminars/oasis/previous.html&amp;"><img src="/images/icons/24/socicon/digg.png" alt="Digg" title="Digg"/></a>
+		<div>Digg</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="https://pinterest.com/pin/create/link/?url=https%3A%2F%2Fwww.cs.ox.ac.uk/seminars/oasis/previous.html&amp;"><img src="/images/icons/24/socicon/pinterest.png" alt="Pinterest" title="Pinterest"/></a>
+		<div>Pinterest</div>
+	</div>
+
+	<div class="icon24_2">
+		<a href="http://www.stumbleupon.com/submit?url=https%3A%2F%2Fwww.cs.ox.ac.uk/seminars/oasis/previous.html&amp;"><img src="/images/icons/24/socicon/stumbleupon.png" alt="Stumble Upon" title="Stumble Upon"/></a>
+		<div>Stumble Upon</div>
+	</div>
+
+</div>
+
+</div>
+	<!-- EU Cookie law banner -->
+		<div style="position: absolute; right: 0px; top: 0px; width: 480px; border: 1px solid #002147;background-color: white; display: none" id="cookiepolicy">
+		<div style="padding: 7px; font-size: 80%">
+			<div style="float:right; padding: 7px"><button onclick="continueUsingSite()" style='background-color: #001247; color: white; border: 0; background-image: url("/images/ox-bg.gif");'>Continue&hellip;</button></div>
+			<p>We use cookies on this website. <a href="/privacy-policy.html">Our privacy policy</a> explains what cookies are and how they are being used here.
+			If you continue to access our website, we'll assume that you consent to receiving cookies from this website.</p>
+			
+			</div>
+		</div>
+	<!--/ EU Cookie law banner -->
+</div>
+
+<div id="pageurl" style="display: none">
+www.cs.ox.ac.uk/seminars/oasis/previous.html
+</div>
+
+<!-- header div ends -->
+
+<!-- breadcrumb div starts -->
+
+<div id="breadcrumb"><span id="breadcrumb-label">You are here:</span><ul><li><a href="/">Home</a></li><li><a href="/news/">News &amp; Events</a></li><li><a href="/seminars/">Seminars</a></li><li><span class="youarehere">OASIS: The Oxford Advanced Seminar on Informatic Structures</span></li></ul></div><div id="content"><h1>OASIS: The Oxford Advanced Seminar on Informatic Structures</h1><p class="smallsize"><a href="/seminars/">View all seminar series</a></p><p>The Oxford Advanced Seminar on Informatic Structures is a weekly interdisciplinary seminar of the Department of Computer Science, University of Oxford. This seminar series exposes the research interests of the&nbsp;<a href="http://www.cs.ox.ac.uk/research/fls/">Foundations&nbsp; Logic and Structures</a> research theme.&nbsp;The series was initiated by&nbsp;<a href="http://www.cs.ox.ac.uk/people/Bob.Coecke/">Bob Coecke</a>, and also organised by&nbsp;<a href="http://www.tzevelekos.org/">Nikos Tzevelekos</a>&nbsp;and&nbsp;<a href="mailto:mehrs@cs.ox.ac.uk">Mehrnoosh Sadrzadeh</a>. &nbsp;A predecessor of OASIS was initiated by&nbsp;<a href="http://www.cs.ox.ac.uk/people/Samson.Abramsky/">Samson Abramsky</a>.</p>
+<p>We have an organising programme committee of three people - <a href="mailto:heunen@cs.ox.ac.uk">Chris Heunen</a>, <a href="http://www.cs.ox.ac.uk/people/clare.horsman/">Clare Horsman</a>&nbsp;and <a href="mailto:jamievicary@gmail.com">Jamie Vicary</a> - spanning the breadth of the interests of the Foundations group, from category theory, quantum computation and quantum information theory, to logic, semantics. Feel free to contact any of us for further information or if you want to be added to the OASIS mailing list or to the Oxford Logic mailing list.</p>
+<p>Everyone is more than welcome to attend OASIS. Unless otherwise stated, the talks are on Fridays at 2 pm in Lecture Theatre B of the Department of Computer Science, followed by informal friendly discussions over tea and biscuits in the&nbsp; lounge. Hope to see you all there.</p><p class="filterline"><a class="menu" href="/seminars/oasis">Forthcoming seminars</a><span class="youarehere">Previous seminars</span></p><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1425.html" itemprop="url"><span itemprop="name">Tracking Quantum Computations By Polynomial Arithmetic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-06-12">Friday 12th June
+                    (week 7, Trinity Term 2015).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Ken Regan</span>
+            (<span itemprop="affiliation">University at Buffalo (State University of New York)</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1406.html" itemprop="url"><span itemprop="name">Rigid Graphs for Adaptive Networks</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-06-05">Friday 5th June
+                    (week 6th week, Hilary Term 2015).
+          14:00</span> in <span itemprop="location">LTB</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Reiko Heckel</span>
+            (<span itemprop="affiliation">University of Leicester</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1389.html" itemprop="url"><span itemprop="name">Symmetry and modularity emerge from the algorithmic nature of evolution.</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-05-29">Friday 29th May
+                    (week 5, Trinity Term 2015).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Ard Louis</span>
+            (<span itemprop="affiliation">University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1384.html" itemprop="url"><span itemprop="name">The spectrum problem for noncommutative rings and algebras</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-05-22">Saturday 22nd May
+                    (week 4, Trinity Term 2015).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Manuel Reyes</span>
+            (<span itemprop="affiliation">Bowdoin College</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1414.html" itemprop="url"><span itemprop="name">NetKAT: A Formal System for the Verification of Networks</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-05-15">Friday 15th May
+                    (week 3, Trinity Term 2015).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Alexandra Silva</span>
+            (<span itemprop="affiliation">Radboud University Nijmegen</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1321.html" itemprop="url"><span itemprop="name">Upsetting The New World Order</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-03-06">Friday 6th March
+                    (week 7, Hilary Term 2015).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Conor McBride</span>
+            (<span itemprop="affiliation">University of Strathclyde</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1311.html" itemprop="url"><span itemprop="name">Incompatibility in quantum theory and other operational theories</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-02-20">20th February
+                    (week 5, Hilary Term 2015).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Teiko Heinosaari</span>
+            (<span itemprop="affiliation">University of Turku</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1322.html" itemprop="url"><span itemprop="name">Non-locality and "quantum non-contextuality"</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-02-13">13th February
+                    (week 4, Hilary Term 2015).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Petros Wallden</span></div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1355.html" itemprop="url"><span itemprop="name">Constructor Theory of Information - an overview</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-02-06">Friday 6th February
+                    (week 3, Hilary Term 2015).
+          14:00</span> in <span itemprop="location">LTA, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Chiara Marletto</span>
+            (<span itemprop="affiliation">Researcher in quantum foundations in the Materials Science department, and JRF at Wolfson</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1335.html" itemprop="url"><span itemprop="name">On the total variation distance of labelled Markov chains</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-01-30">Friday 30th January
+                    (week 2, Hilary Term 2015).
+          14:00</span> in <span itemprop="location">Lecture Theatre A, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Stefan Kiefer</span>
+            (<span itemprop="affiliation">University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1314.html" itemprop="url"><span itemprop="name">The mathematical structure of theories of resource convertibility</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2015-01-23">23rd January
+                    (week 1, Hilary Term 2015).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Tobias Fritz</span>
+            (<span itemprop="affiliation">Perimeter Institute</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1201.html" itemprop="url"><span itemprop="name">Colliding worlds: how cutting-edge science is redefining contemporary art</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-12-05">Friday 5th December
+                    (week 8, Michaelmas Term 2014).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Arthur I. Miller</span>
+            (<span itemprop="affiliation">University College London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1297.html" itemprop="url"><span itemprop="name">OASIS 10 Year Anniversary Workshop</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-11-24">Monday 24th November
+                    (week 7, Michaelmas Term 2014).
+          14:30</span> in <span itemprop="location">Lecture Theatre B, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Samson Abramsky, Bob Coecke, Dan Ghica, Mehrnoosh Sadrzadeh and Nikos Tzevelekos</span></div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1296.html" itemprop="url"><span itemprop="name">Compiling functional programs to unconventional architectures (with or without game semantics)</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-11-24">Monday 24th November
+                    (week 7, Michaelmas Term 2014).
+          15:30</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dan Ghica</span>
+            (<span itemprop="affiliation">University of Birmingham</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1295.html" itemprop="url"><span itemprop="name">The Mathematics of Non-Locality and Contextuality</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-11-24">Monday 24th November
+                    (week 7, Michaelmas Term 2014).
+          14:30</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Samson Abramsky</span>
+            (<span itemprop="affiliation">University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1294.html" itemprop="url"><span itemprop="name">Quantifiers in categorical compositional distributional semantics</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-11-24">Monday 24th November
+                    (week 7, Michaelmas Term 2014).
+          16:30</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Mehrnoosh Sadrzadeh</span>
+            (<span itemprop="affiliation">Queen Mary University of London, UK</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1293.html" itemprop="url"><span itemprop="name">Pictures of behaviours</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-11-24">Monday 24th November
+                    (week 7, Michaelmas Term 2014).
+          15:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Bob Coecke</span>
+            (<span itemprop="affiliation">University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1292.html" itemprop="url"><span itemprop="name">Automata and programs over infinite alphabets</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-11-24">Monday 24th November
+                    (week 7, Michaelmas Term 2014).
+          17:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Nikos Tzevelekos</span>
+            (<span itemprop="affiliation">Queen Mary University of London, UK</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1291.html" itemprop="url"><span itemprop="name">Distributed Quantum Computation</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-11-21">Friday 21st November
+                    (week 6, Michaelmas Term 2014).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Michael Ben-Or</span>
+            (<span itemprop="affiliation">The Hebrew University, Israel</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1206.html" itemprop="url"><span itemprop="name">Quantum circuits for quantum operations</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-11-14">Friday 14th November
+                    (week 5, Michaelmas Term 2014).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Roger Colbeck</span>
+            (<span itemprop="affiliation">University of York</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1203.html" itemprop="url"><span itemprop="name">Quantum Proofs for Classical Theorems</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-10-24">Friday 24th October
+                    (week 2, Michaelmas Term 2014).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Ronald de Wolf</span>
+            (<span itemprop="affiliation">Centrum Wiskunde &amp; Informatica (CWI) Amsterdam</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1186.html" itemprop="url"><span itemprop="name">Discrete Quantum Theories</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-07-25">Friday 25th July
+                    (week , Trinity Term 2014).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Andrew Hanson</span>
+            (<span itemprop="affiliation">Indiana University Bloomington</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1187.html" itemprop="url"><span itemprop="name">Negative Probabilities, Fine's Theorem and Quantum Histories</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-06-20">Friday 20th June
+                    (week 8, Trinity Term 2014).
+          14:00</span> in <span itemprop="location">Hoare Room, RHB</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Johnathon Haliwell</span>
+            (<span itemprop="affiliation">Imperial College London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1134.html" itemprop="url"><span itemprop="name">Majorana fermions: a new computational paradigm</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-05-09">Friday 9th May
+                    (week 2, Hilary Term 2014).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Jiannis Pachos</span>
+            (<span itemprop="affiliation">University of Leeds</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1005.html" itemprop="url"><span itemprop="name">A Quantum-theoretic Framework for Concept Theory and Natural Language Processing</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-03-14">Friday 14th March
+                    (week 8, Hilary Term 2003).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Sandro Sozzo</span>
+            (<span itemprop="affiliation">University of Leicester</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1100.html" itemprop="url"><span itemprop="name">TBA</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-03-12">Wednesday 12th March
+                    (week 8, Hilary Term 2014).
+          15:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Pawel Sobocinski</span>
+            (<span itemprop="affiliation">University of Southampton</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1000.html" itemprop="url"><span itemprop="name">Classical simulation of quantum computations</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-02-28">Friday 28th February
+                    (week 6, Hilary Term 2014).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Richard Jozsa</span>
+            (<span itemprop="affiliation">University of Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1006.html" itemprop="url"><span itemprop="name">Network theory: an overview</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-02-21">Friday 21st February
+                    (week 5, Hilary Term 2014).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">John Baez</span>
+            (<span itemprop="affiliation">University of California, Riverside</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1008.html" itemprop="url"><span itemprop="name">Coalgebraic Logic Programming: from Semantics to Implementation</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-02-07">Friday 7th February
+                    (week 3, Hilary Term 2014).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">John Power</span>
+            (<span itemprop="affiliation">Department of Computer Science, University of Bath</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1007.html" itemprop="url"><span itemprop="name">Lossy quantum data compression</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-01-31">Friday 31st January
+                    (week 2, Hilary Term 2014).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Nilanjana Datta</span>
+            (<span itemprop="affiliation">Statistical Laboratory, University of Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/998.html" itemprop="url"><span itemprop="name">Communication complexity of quantum channels</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2014-01-24">Friday 24th January
+                    (week 1, Hilary Term 2014).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Alberto Montina</span>
+            (<span itemprop="affiliation">http://www.perimeterinstitute.ca/people/alberto-montina</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/960.html" itemprop="url"><span itemprop="name">Quantitative Quiescent Consistency: A correctness criterion for concurrent objects</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-12-06">Friday 6th December
+                    (week 8, Michaelmas Term 2013).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Radha Jagadeesan</span>
+            (<span itemprop="affiliation">DePaul University Chicago</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/983.html" itemprop="url"><span itemprop="name">The Symplectic Camel in Quantum Mechanics</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-11-29">Friday 29th November
+                    (week 7, Michaelmas Term 2013).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Maurice de Gosson</span>
+            (<span itemprop="affiliation">University of Vienna</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/985.html" itemprop="url"><span itemprop="name">Topos Semantics for First- and Higher-Order Modal Logic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-11-08">Friday 8th November
+                    (week 4, Michaelmas Term 2013).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Kohei Kishida</span>
+            (<span itemprop="affiliation">University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/940.html" itemprop="url"><span itemprop="name">Entanglement in Extended Quantum Systems</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-11-01">Friday 1st November
+                    (week 3, Michaelmas Term 2013).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">John Cardy</span>
+            (<span itemprop="affiliation">University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/974.html" itemprop="url"><span itemprop="name">A new separation algorithm, finding high dimensional Bell inequities and how to improve the bounds on Grothendieck’s constant</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-10-25">Friday 25th October
+                    (week 2, Michaelmas Term 2013).
+          14:00</span> in <span itemprop="location">Lecture Theatre A, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Steve Brierley</span>
+            (<span itemprop="affiliation">University of Bristol</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/950.html" itemprop="url"><span itemprop="name">Quantum measurements constrained by symmetry</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-10-10">Thursday 10th October
+                    (week 0, Michaelmas Term 2013).
+          14:00</span> in <span itemprop="location">Tony Hoare room (Robert Hooke building)</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Leon Loveridge</span>
+            (<span itemprop="affiliation">University of British Columbia</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/862.html" itemprop="url"><span itemprop="name">A flea on Schroedinger's cat</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-06-07">Friday 7th June
+                    (week 7, Trinity Term 2013).
+          14:00</span> in <span itemprop="location">Tony Hoare Room, Robert Hooke building</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Klaas Landsman</span>
+            (<span itemprop="affiliation">Radboud University Nijmegen</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/910.html" itemprop="url"><span itemprop="name">Generalizing Complexity Theory</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-05-24">Friday 24th May
+                    (week 5, Trinity Term 2013).
+          14:00</span> in <span itemprop="location">Tony Hoare Room</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Ed Blakey</span>
+            (<span itemprop="affiliation">University of Bristol</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/848.html" itemprop="url"><span itemprop="name">Nonstandard Analysis: a new way to compute</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-05-17">Friday 17th May
+                    (week 4, Trinity Term 2013).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Sam Sanders</span>
+            (<span itemprop="affiliation">University of Ghent</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/904.html" itemprop="url"><span itemprop="name">Efficient Distributed Quantum Computing</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-05-10">Friday 10th May
+                    (week 3, Trinity Term 2013).
+          14:00</span> in <span itemprop="location">Tony Hoare Room</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Oliver Gray</span>
+            (<span itemprop="affiliation">University of Bristol</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/877.html" itemprop="url"><span itemprop="name">The existence of an information unit as a postulate of quantum theory</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-04-26">Friday 26th April
+                    (week 1, Trinity Term 2013).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Lluis Masanes</span></div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/859.html" itemprop="url"><span itemprop="name">Landauer Defended: A Reply to Norton</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-03-06">Wednesday 6th March
+                    (week 8, Hilary Term 2013).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">James Ladyman</span>
+            (<span itemprop="affiliation">University of Bristol</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/847.html" itemprop="url"><span itemprop="name">Reconsidering MacLane: Coherence for associativity in the infinitary and untyped settings.</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-03-01">Friday 1st March
+                    (week 7, Hilary Term 2013).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Peter Hines</span>
+            (<span itemprop="affiliation">University of York</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/839.html" itemprop="url"><span itemprop="name">How energy conservation limits your vision</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-02-22">Friday 22nd February
+                    (week 6, Hilary Term 2013).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Miguel Navascues</span>
+            (<span itemprop="affiliation">University of Bristol</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/851.html" itemprop="url"><span itemprop="name">Towards Learning Lattice Orderings for Distributional Semantics</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-02-08">Friday 8th February
+                    (week 4, Hilary Term 2013).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Daoud Clarke</span>
+            (<span itemprop="affiliation">University of Sussex</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/838.html" itemprop="url"><span itemprop="name">Matter-geometry coupling in low-dimensional state-sum models</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-02-01">Friday 1st February
+                    (week 3, Hilary Term 2013).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">John Barrett</span>
+            (<span itemprop="affiliation">University of Nottingham</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/837.html" itemprop="url"><span itemprop="name">Quantum Complete Boolean Algebras</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-01-25">Friday 25th January
+                    (week 2, Hilary Term 2013).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">John D. Maitland Wright</span>
+            (<span itemprop="affiliation">Christ Church College Oxford, University of Aberdeen</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/836.html" itemprop="url"><span itemprop="name">Physics of Information: a network-theoretic perspective</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2013-01-18">Friday 18th January
+                    (week 1, Hilary Term 2013).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Simone Severini</span>
+            (<span itemprop="affiliation">University College London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/831.html" itemprop="url"><span itemprop="name">How do I contain thee?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-11-30">Friday 30th November
+                    (week 8, Michaelmas Term 2012).
+          14:00</span> in <span itemprop="location">Tony Hoare Room, Robert Hooke Building</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Klaus Draeger</span>
+            (<span itemprop="affiliation">Department of Computer Science, University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/818.html" itemprop="url"><span itemprop="name">From Giles's game for reasoning in physics to analytic proof systems for fuzzy logics</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-11-23">Friday 23rd November
+                    (week 7, Michaelmas Term 2012).
+          14:00</span> in <span itemprop="location">Tony Hoare Room</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Christian G. Fermueller</span>
+            (<span itemprop="affiliation">Technische Universität Wien</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/803.html" itemprop="url"><span itemprop="name">Quantum information processing in spacetime</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-11-16">Friday 16th November
+                    (week 6, Michaelmas Term 2012).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Ivette Fuentes</span>
+            (<span itemprop="affiliation">University of Nottingham</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/817.html" itemprop="url"><span itemprop="name">Living Logic and the Logic of Life: Prospects for Linking Theoretical Computer Science with Ecosystem Research</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-11-02">Friday 2nd November
+                    (week 4, Michaelmas Term 2012).
+          14:00</span> in <span itemprop="location">Tony Hoare Room</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Baltasar Trancon and Michael Hauhs</span>
+            (<span itemprop="affiliation">Ecological Modelling, BayCEER, Dr.-Hans-Frisch-Str. 1–3, University of Bayreuth, Germany</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/802.html" itemprop="url"><span itemprop="name">Fermions in spin foam models</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-10-26">Friday 26th October
+                    (week 3, Michaelmas Term 2012).
+          14:00</span> in <span itemprop="location">Tony Hoare room, Robert Hooke building</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">John Barrett</span>
+            (<span itemprop="affiliation">professor of mathematical physics, University of Nottingham</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/813.html" itemprop="url"><span itemprop="name">The status of device independent quantum key distribution</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-10-19">19th October
+                    (week 2, Michaelmas Term 2012).
+          14:00</span> in <span itemprop="location">Tony Hoare Room</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dr Jon Barrett</span>
+            (<span itemprop="affiliation">University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/819.html" itemprop="url"><span itemprop="name">Fixpoints and Iterated Updates in Abstract Argumentation</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-10-12">Friday 12th October
+                    (week 1, Michaelmas Term 2012).
+          14:00</span> in <span itemprop="location">Tony Hoare Room</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Davide Grossi</span>
+            (<span itemprop="affiliation">University of Liverpool</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/796.html" itemprop="url"><span itemprop="name">A graphical strategy language to enable proof re-use</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-09-13">Thursday 13th September
+                    (week -5, Michaelmas Term 2012).
+          14:00</span> in <span itemprop="location">Lecture Theatre A</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Gudmund Grov</span>
+            (<span itemprop="affiliation">Heriot-Watt University</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/734.html" itemprop="url"><span itemprop="name">Allegories of enriched categories</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-06-20">Wednesday 20th June
+                    (week 9, Hilary Term 2012).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Isar Stubbe</span>
+            (<span itemprop="affiliation">Maître de Conférences at Université du Littoral-Côte d'Opale.</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/738.html" itemprop="url"><span itemprop="name">When can a system S be decomposed into A and B?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-06-01">Friday 1st June
+                    (week 6, Trinity Term 2012).
+          14:00</span> in <span itemprop="location">Lecture Theatre B (LTB)</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Peter Bruza</span>
+            (<span itemprop="affiliation">Professor of Information Ecology, Science and Engineering Faculty, Queensland University of Technology</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/733.html" itemprop="url"><span itemprop="name">Time, the Quantum---and Montevideo?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-05-04">Friday 4th May
+                    (week 2, Hilary Term 2012).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Jeremy Butterfield</span>
+            (<span itemprop="affiliation">Senior Research Fellow, Trinity College, University of Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/709.html" itemprop="url"><span itemprop="name">A General Result about Sequent Systems and Defining Rules — and its application to modal concepts</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-04-27">Friday 27th April
+                    (week 1, Trinity Term 2012).
+          14:00</span> in <span itemprop="location">Lecture Theatre B (LTB)</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Greg Restall</span>
+            (<span itemprop="affiliation">Faculty of Philosophy, Anthropology and Social Inquiry, University of Melbourne</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/687.html" itemprop="url"><span itemprop="name">Introduction to Homotopy Type Theory</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-04-27">Friday 27th April
+                    (week 1, Trinity Term 2012).
+          10:30</span> in <span itemprop="location">051</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Benno van den Berg</span>
+            (<span itemprop="affiliation">Utrecht University</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/741.html" itemprop="url"><span itemprop="name">Concurrency and enriched bicategories</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-04-20">Friday 20th April
+                    (week 0, Trinity Term 2012).
+          14:00</span> in <span itemprop="location">Room 051, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Mike Stay</span>
+            (<span itemprop="affiliation">Google and the University of Auckland</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/708.html" itemprop="url"><span itemprop="name">A Complexity-Theoretic Study of some Fragments of English</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-03-09">Friday 9th March
+                    (week 8, Hilary Term 2012).
+          14:00</span> in <span itemprop="location">Lecture Theatre B (LTB)</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Prof. Ian Pratt-Hartmann</span>
+            (<span itemprop="affiliation">School of Computer Science, University of Manchester</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/726.html" itemprop="url"><span itemprop="name">Quantum linguistics’ and Searle’s Chinese room argument</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-03-01">Friday March
+                    (week 7, Hilary Term 2012).
+          14:00</span> in <span itemprop="location">Lecture Theatre B (LTB)</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">J. Mark Bishop</span>
+            (<span itemprop="affiliation">Professor of Cognitive Computing, Department of Computing, Goldsmiths, University of London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/723.html" itemprop="url"><span itemprop="name">Homotopy Type Theory</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-02-24">Friday 24th February
+                    (week 6, Hilary Term 2012).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Kobi Kremnitzer</span>
+            (<span itemprop="affiliation">Mathematical Instituteq</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/698.html" itemprop="url"><span itemprop="name">A new approach to many-valued modal logics</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-02-17">Friday 17th February
+                    (week 5, Hilary Term 2012).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Alexander Kurz</span>
+            (<span itemprop="affiliation">University of Leicester</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/689.html" itemprop="url"><span itemprop="name">Discrete State-Space Stochastic Networks with Product Form -- Discovery or Invention?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-02-03">Friday 3rd February
+                    (week 3, Hilary Term 2012).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Erol Gelenbe</span>
+            (<span itemprop="affiliation">Dennis Gabor Professor at Imperial College</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/707.html" itemprop="url"><span itemprop="name">Monogamy - Why Alice and Bob don't get out enough</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-01-27">Friday 27th January
+                    (week 2, Hilary Term 2012).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Alastair Kay</span>
+            (<span itemprop="affiliation">Mathematical Institute, University of Oxford and Centre for Quantum Technologies, National University of Singapore</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/665.html" itemprop="url"><span itemprop="name">Coalgebraic Modal Logic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2012-01-20">Friday 20th January
+                    (week 1, Hilary Term 2003).
+          14:00</span> in <span itemprop="location">LTB</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Clemens Kupke</span>
+            (<span itemprop="affiliation">Research Assistant at University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/656.html" itemprop="url"><span itemprop="name">A Probabilistic Semantics for Natural Language</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-12-09">Friday 9th December
+                    (week 9, Michaelmas Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre A (LTA)</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Shalom Lappin</span>
+            (<span itemprop="affiliation">Professor of Computational Linguistics, Department of Philosophy, King’s College London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/657.html" itemprop="url"><span itemprop="name">Hybrid Representational Adequacy</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-12-02">Friday 2nd December
+                    (week 8, Michaelmas Term 2011).
+          14:00</span> in <span itemprop="location">380</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Roy Crole</span>
+            (<span itemprop="affiliation">Senior Lecturer of Computer Science, Department of Computer Science, University of Leicester</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/655.html" itemprop="url"><span itemprop="name">Computing Quantifier Scope for Natural Language using Natural Logic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-11-25">Friday 25th November
+                    (week 7, Michaelmas Term 2011).
+          14:00</span> in <span itemprop="location">Room 380</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Mark Steedman</span>
+            (<span itemprop="affiliation">Professor of Cognitive Science, School of Informatics, University of Edinburgh</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/658.html" itemprop="url"><span itemprop="name">Perspectives on Information Causality</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-11-18">Friday 18th November
+                    (week 6, Michaelmas Term 2011).
+          14:00</span> in <span itemprop="location">380</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Tony Short</span>
+            (<span itemprop="affiliation">Research Fellow at the Department of Applied Mathematics and Theoretical Physics, University of Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/681.html" itemprop="url"><span itemprop="name">The Importance of Being Linearizable</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-11-11">Friday 11th November
+                    (week 5, Michaelmas Term 2011).
+          14:00</span> in <span itemprop="location">380</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Alexey Gotsman</span>
+            (<span itemprop="affiliation">IMDEA Software Institute, Spain</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/654.html" itemprop="url"><span itemprop="name">On searching for small Kochen-Specker vector systems</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-11-04">Friday 4th November
+                    (week 4, Michaelmas Term 2011).
+          14:00</span> in <span itemprop="location">380</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Joel Ouaknine</span>
+            (<span itemprop="affiliation">Professor of Computer Science, Department of Computer Science, University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/663.html" itemprop="url"><span itemprop="name">Noether's famous 1918 symmetry theorem: what does it prove?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-10-21">Friday 21st October
+                    (week 2, Michaelmas Term 2011).
+          14:00</span> in <span itemprop="location">380</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Harvey Brown</span>
+            (<span itemprop="affiliation">Professor of Philosophy of Physics, University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/661.html" itemprop="url"><span itemprop="name">Passive storage of quantum information</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-10-07">Friday 7th October
+                    (week 0, Michaelmas Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Alastair Kay</span>
+            (<span itemprop="affiliation">University of Oxford and National University of Singapore</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/583.html" itemprop="url"><span itemprop="name">Does a computer have an arrow of time?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-06-24">Friday 24th June
+                    (week 8, Trinity Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Owen Maroney</span>
+            (<span itemprop="affiliation">Department of Philosophy, University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/609.html" itemprop="url"><span itemprop="name">Geometry and Probability In Quantum Theory</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-06-17">Friday 17th June
+                    (week 7, Trinity Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Department of Computer Science</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Professor Lane P. Hughston</span>
+            (<span itemprop="affiliation">Imperial College London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/605.html" itemprop="url"><span itemprop="name">Isomorphisms of types in the presence of higher-order references</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-06-14">Tuesday 14th June
+                    (week , Trinity Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Pierre Clairambault</span>
+            (<span itemprop="affiliation">University of Bath</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/577.html" itemprop="url"><span itemprop="name">A Modular Logic for Reasoning on Concurrent Markovian Systems</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-06-03">Friday 3rd June
+                    (week 5, Trinity Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Radu Mardare</span>
+            (<span itemprop="affiliation">Aalborg University</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/576.html" itemprop="url"><span itemprop="name">Concurrent strategies</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-05-27">Friday 27th May
+                    (week 4, Trinity Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Glynn Winskel</span>
+            (<span itemprop="affiliation">University of Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/582.html" itemprop="url"><span itemprop="name">Complexity results for dependence logic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-05-23">Monday 23rd May
+                    (week 4, Trinity Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Juha Kontinen</span>
+            (<span itemprop="affiliation">Dept. of Mathematics and Statistics, University of Helsinki</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/590.html" itemprop="url"><span itemprop="name">Virtual double categories as a context for cooking categories of games</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-05-20">Friday 20th May
+                    (week 3, Trinity Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dr Nathan Bowler</span>
+            (<span itemprop="affiliation">University of Cambridge, DPMMS</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/543.html" itemprop="url"><span itemprop="name">Introduction to Inductive Logic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-05-13">Friday 13th May
+                    (week 2, Trinity Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Prof. Jeff Parris</span>
+            (<span itemprop="affiliation">School of Mathematics, University of Manchester</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/581.html" itemprop="url"><span itemprop="name">Cartesian functors and foliated categories</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-05-06">Friday 6th May
+                    (week 1, Trinity Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Professor Jean Benabou</span>
+            (<span itemprop="affiliation">Paris</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/546.html" itemprop="url"><span itemprop="name">The Logic of Here and There and its Applications</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-03-18">Friday 18th March
+                    (week 9, Hilary Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">David Pearce</span>
+            (<span itemprop="affiliation">Dept. Artificial Intelligence,  Universidad Politécnica de Madrid</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/545.html" itemprop="url"><span itemprop="name">Local names, memory and symmetry in operational semantics</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-03-11">Friday 11th March
+                    (week 8, Hilary Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Vincenzo Ciancia</span>
+            (<span itemprop="affiliation">Institute for Logic Language Computation, University of Amsterdam</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/568.html" itemprop="url"><span itemprop="name">Spin systems as toy models for emergent gravity</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-03-07">Monday 7th March
+                    (week 8, Hilary Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Fotini Markopoulou</span>
+            (<span itemprop="affiliation">Perimeter Institute</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/544.html" itemprop="url"><span itemprop="name">Lexical meaning in flux</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-03-04">Friday 4th March
+                    (week 7, Hilary Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Prof. Robin Cooper</span>
+            (<span itemprop="affiliation">Department of Philosophy, Linguistics and Theory of Science, University of Gothenburg</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/566.html" itemprop="url"><span itemprop="name">On the Classical Origins of Quantum Correlations</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-02-25">Friday 25th February
+                    (week 6, Hilary Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Joy Christian</span>
+            (<span itemprop="affiliation">University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/550.html" itemprop="url"><span itemprop="name">A Theory of Nondeterministic and Probabilistic Processes</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-02-18">Friday 18th February
+                    (week 5, Hilary Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Prof Matthew Hennessy</span>
+            (<span itemprop="affiliation">Trinity College Dublin</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/551.html" itemprop="url"><span itemprop="name">Ultrametric Semantics of Reactive Programs</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-02-11">Friday 11th February
+                    (week 4, Hilary Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Neel Krishnaswami</span>
+            (<span itemprop="affiliation">Microsoft Research Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/549.html" itemprop="url"><span itemprop="name">Formalizing Domains, Ultrametric Spaces and Semantics of Programming Languages</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-02-04">Friday 4th February
+                    (week 3, Hilary Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Nick Benton</span>
+            (<span itemprop="affiliation">Microsoft Research Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/542.html" itemprop="url"><span itemprop="name">Simplicial Sets and No-Go Theorems</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-01-28">Friday 28th January
+                    (week 2, Hilary Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Noson Yanofsky</span>
+            (<span itemprop="affiliation">CUNY</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/538.html" itemprop="url"><span itemprop="name">Horn Formulas as Linear Inequalities and Nonlocality Paradoxes</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2011-01-21">Friday 21st January
+                    (week 1, Hilary Term 2011).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Tobias Fritz</span>
+            (<span itemprop="affiliation">ICFO, Barcelona</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/514.html" itemprop="url"><span itemprop="name">Towards a non-commutative logic of effects</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-12-03">Friday 3rd December
+                    (week 8, Michaelmas Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Noam Zeilberger</span>
+            (<span itemprop="affiliation">Laboratoire PPS, Université Paris 7 - Denis Diderot</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/529.html" itemprop="url"><span itemprop="name">Quantum Coherence in Brain Activity: Why and Whether?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-11-26">Friday 26th November
+                    (week 7, Michaelmas Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Prof. Roger Penrose (Sir)</span>
+            (<span itemprop="affiliation">Maths Institute, University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/513.html" itemprop="url"><span itemprop="name">Attacking Large Industrial Code with Bi-Abductive Inference</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-11-12">Friday 12th November
+                    (week 5, Michaelmas Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dino Distefano</span>
+            (<span itemprop="affiliation">Queen Mary, University of London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/525.html" itemprop="url"><span itemprop="name">Event structures with symmetry: towards a domain theory for concurrency</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-11-05">Friday 5th November
+                    (week 3, Michaelmas Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dr Sam Staton</span>
+            (<span itemprop="affiliation">PPS, Paris VII</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/512.html" itemprop="url"><span itemprop="name">A special bialgebra for event logic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-10-22">Friday 22nd October
+                    (week 2, Michaelmas Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dan Ghica</span>
+            (<span itemprop="affiliation">University of Birmingham</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/518.html" itemprop="url"><span itemprop="name">Quantum Communication in Rindler Spacetime</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-10-15">Friday 15th October
+                    (week 1, Michaelmas Term 2010).
+          12:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Prakash Panangaden</span>
+            (<span itemprop="affiliation">Computing Laboratory, University of Oxford -- on sabbatical from School of Computer Science, McGill University</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/517.html" itemprop="url"><span itemprop="name">On Higher-Order Algebra</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-10-05">Tuesday 5th October
+                    (week 0, Michaelmas Term 2010).
+          16:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Marcelo Fiore</span>
+            (<span itemprop="affiliation">Computer Laboratory, University of Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/492.html" itemprop="url"><span itemprop="name">A formalism-local framework for general probabilistic theories including quantum theory</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-06-25">Friday 25th June
+                    (week 9, Trinity Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Lucien Hardy</span>
+            (<span itemprop="affiliation">Perimeter Institute</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/471.html" itemprop="url"><span itemprop="name">This will be an OASIS duo, we will have two seminars:  one  2-3, the other 3-4.</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-06-18">Friday 18th June
+                    (week 8, Trinity Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Bill Roscoe and Dana Scott</span>
+            (<span itemprop="affiliation">Bill: OUCL,   Dana: CMU and Visiting Fellow  of Magdalen College</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/466.html" itemprop="url"><span itemprop="name">Information Theory, Lattice of Information and Information Leakage</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-06-04">Friday 4th June
+                    (week 6, Trinity Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Pasquale Malacaria</span>
+            (<span itemprop="affiliation">Queen Mary</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/486.html" itemprop="url"><span itemprop="name">Decision problems for probabilistic and quantum automata</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-05-21">Friday 21st May
+                    (week 4, Trinity Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">James Worrell</span>
+            (<span itemprop="affiliation">Oxford University Computing Laboratory</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/465.html" itemprop="url"><span itemprop="name">Weighted automata and quantitative logics</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-05-14">Friday 14th May
+                    (week 3, Trinity Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Manfred Droste</span>
+            (<span itemprop="affiliation">University of Leipzig</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/481.html" itemprop="url"><span itemprop="name">Knots, World-Lines, and Quantum Computation</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-05-07">Friday 7th May
+                    (week 2, Trinity Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Professor Steve Simon</span>
+            (<span itemprop="affiliation">Department of Physics, University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/468.html" itemprop="url"><span itemprop="name">Effective Reasoning about Effectful Programs</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-04-30">Friday 30th April
+                    (week 1, Trinity Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Jeremy Gibbons</span>
+            (<span itemprop="affiliation">Oxford University Computing Laboratory</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/467.html" itemprop="url"><span itemprop="name">Scalars, Monads, and Categories (and maybe a bit more)</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-04-23">Friday 23rd April
+                    (week 0th week, Trinity Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Professor Bart Jacobs</span>
+            (<span itemprop="affiliation">Radboud University Nijmegen</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/404.html" itemprop="url"><span itemprop="name">The theory of simultaneous equations</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-03-10">Wednesday 10th March
+                    (week 8, Hilary Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre A, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Tom Leinster</span>
+            (<span itemprop="affiliation">University of Glasgow</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/410.html" itemprop="url"><span itemprop="name">An introduction to deciding higher-order matching</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-03-05">Friday 5th March
+                    (week 7, Hilary Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Colin Stirling</span>
+            (<span itemprop="affiliation">Laboratory for Foundations of Computer Science, University of Edinburgh</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/409.html" itemprop="url"><span itemprop="name">The Audacity of Hope: Thoughts on Reclaiming the Database Dream</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-02-26">Friday 26th February
+                    (week 6, Hilary Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Phil Wadler</span>
+            (<span itemprop="affiliation">University of Edinburgh</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/403.html" itemprop="url"><span itemprop="name">String diagrams, a topological account of proofs and programs</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-02-18">Thursday 18th February
+                    (week 5, Hilary Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre **A**, Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Paul-André Melliès</span>
+            (<span itemprop="affiliation">Laboratoire PPS, Paris VIII</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/415.html" itemprop="url"><span itemprop="name">Algebras and Languages for Molecular Programming</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-02-12">Friday 12th February
+                    (week 4, Hilary Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Luca Cardelli</span>
+            (<span itemprop="affiliation">Microsoft Research, Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/417.html" itemprop="url"><span itemprop="name">A Demonic Approach to Information in Probabilistic Systems</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-02-05">Friday 5th February
+                    (week 3, Hilary Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Josée Desharnais</span>
+            (<span itemprop="affiliation">Laval Univesity, Visiting Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/418.html" itemprop="url"><span itemprop="name">Entropies on test spaces</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-01-29">Friday 29th January
+                    (week 2, Hilary Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Jonathan Barrett</span>
+            (<span itemprop="affiliation">University of Bristol</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/416.html" itemprop="url"><span itemprop="name">Extensions of the Church Synthesis Problem</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2010-01-22">Friday 22nd January
+                    (week 1, Hilary Term 2010).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Alex Rabinovich</span>
+            (<span itemprop="affiliation">Tel Aviv University, Visiting Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/360.html" itemprop="url"><span itemprop="name">Functional Programming in Sublinear Space</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-12-04">Friday 4th December
+                    (week 8, Michaelmas Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Ulrich Schoepp</span>
+            (<span itemprop="affiliation">LMU Munich</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/359.html" itemprop="url"><span itemprop="name">Constructing TQFTs, HQFTs and ...?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-11-27">Friday 27th November
+                    (week 7, Michaelmas Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Timothy Porter</span>
+            (<span itemprop="affiliation">University of Wales, Bangor</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/385.html" itemprop="url"><span itemprop="name">Understanding the basic building blocks of quantum information</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-11-20">Friday 20th November
+                    (week , Michaelmas Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Oxford University Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dr Jonathan Oppenheim</span>
+            (<span itemprop="affiliation">DAMTP, University of Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/358.html" itemprop="url"><span itemprop="name">Structural Recursion with Pure Local Names</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-11-13">Friday 13th November
+                    (week 5, Michaelmas Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Andrew Pitts</span>
+            (<span itemprop="affiliation">University of Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/357.html" itemprop="url"><span itemprop="name">Quantum, classical and discord correlations</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-11-06">Friday 6th November
+                    (week 4, Michaelmas Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Vlatko Vedral</span>
+            (<span itemprop="affiliation">Professor of Quantum Information Science at University of Oxford, Professor of Physics at National University of Singapore</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/384.html" itemprop="url"><span itemprop="name">A quantum memory lasting seconds in silicon</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-10-30">Friday 30th October
+                    (week 3, Michaelmas Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B, Oxford University Computing Laboratory</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dr John Morton</span>
+            (<span itemprop="affiliation">Department of Materials, University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/355.html" itemprop="url"><span itemprop="name">The issues around proving Fermat's Last Theorem in Peano Arithmetic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-10-23">Friday 23rd October
+                    (week 2, Michaelmas Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Professor Angus Macintyre FRS</span>
+            (<span itemprop="affiliation">Mathematics Research Centre, Queen Mary University of London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/354.html" itemprop="url"><span itemprop="name">First-Order Reasoning for Higher-Order Concurrency</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-10-16">Friday 16th October
+                    (week 1, Michaelmas Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Vasileios Koutavas</span>
+            (<span itemprop="affiliation">Trinity College Dublin</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/361.html" itemprop="url"><span itemprop="name">Optimal Coin Flipping</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-09-30">Wednesday 30th September
+                    (week -1, Michaelmas Term 2009).
+          16:30</span> in <span itemprop="location">Lecture Theater B (Joint with Departmental Seminar)</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dexter Kozen</span>
+            (<span itemprop="affiliation">Joseph Newton Pew, Jr. Professor in Engineering, Computer Science Department, Cornell University</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/308.html" itemprop="url"><span itemprop="name">Games and Logics with Partial Order Models</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-06-19">Friday 19th June
+                    (week 8, Trinity Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Julian Gutierrez</span>
+            (<span itemprop="affiliation">University of Edinburgh</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/307.html" itemprop="url"><span itemprop="name">Computing stable outcomes in weighted voting games</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-06-12">Friday 12th June
+                    (week 7, Trinity Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Edith Elkind</span>
+            (<span itemprop="affiliation">University of Southampton/ Nanyang Technological University</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/304.html" itemprop="url"><span itemprop="name">Generalized Esakia duality and canonical formulas for intuitionistic logic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-06-05">Friday 5th June
+                    (week 6, Trinity Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Nick Bezhanishvili</span>
+            (<span itemprop="affiliation">Imperial College</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/306.html" itemprop="url"><span itemprop="name">The Coalgebraic mu-Calculus</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-05-29">Friday 29th May
+                    (week 5, Trinity Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dirk Pattinson</span>
+            (<span itemprop="affiliation">Imperial College</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/305.html" itemprop="url"><span itemprop="name">Communication Optimisation and Progress in Multiparty Session Types</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-05-22">Friday 22nd May
+                    (week 4, Trinity Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Nobuko Yoshida</span>
+            (<span itemprop="affiliation">Imperial College</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/309.html" itemprop="url"><span itemprop="name">Understanding Exhaustible Sets and Bar Recursion</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-05-15">Friday 15th May
+                    (week 3, Trinity Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Martin Escardo</span>
+            (<span itemprop="affiliation">University of Birmingham</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/310.html" itemprop="url"><span itemprop="name">Lower Bounds for Monadic Second-Order Model-Checking</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-05-08">Friday 8th May
+                    (week 2, Trinity Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theatre B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Stephan Kreutzer</span>
+            (<span itemprop="affiliation">University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/203.html" itemprop="url"><span itemprop="name">A Complexity Dichotomy for Hypergraph Partition Functions</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-03-13">Friday 13th March
+                    (week 8, Hilary Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Prof. Leslie Goldberg</span>
+            (<span itemprop="affiliation">University of Liverpool</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/206.html" itemprop="url"><span itemprop="name">Terminal coalgebras (Joint work with Tom Leinster)</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-03-06">Friday 6th March
+                    (week 7, Hilary Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Eugenia Cheng</span>
+            (<span itemprop="affiliation">University of Sheffield</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/201.html" itemprop="url"><span itemprop="name">Second-Order Quantifier Elimination</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-02-27">Friday 27th February
+                    (week 6, Hilary Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Renate Schmidt</span>
+            (<span itemprop="affiliation">University of Manchester</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/200.html" itemprop="url"><span itemprop="name">How to make Chloroform do Addition: classical computing in NMR</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-02-20">Friday 20th February
+                    (week 5, Hilary Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Prof. Susan Stepney</span>
+            (<span itemprop="affiliation">University of York</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/199.html" itemprop="url"><span itemprop="name">Logic of coalitional ability under bounded resources</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-02-13">Friday 13th February
+                    (week 4, Hilary Term 2009).
+          12:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Natasha Alechina</span>
+            (<span itemprop="affiliation">University of Nottingham</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/205.html" itemprop="url"><span itemprop="name">Fraisse's Construction from a Topos-Theoretic Perspective (joint with Maths Dept, Different time and place)</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-02-05">Thursday 5th February
+                    (week 3, Hilary Term 2009).
+          17:00</span> in <span itemprop="location">Maths Department</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Olivia Caramello</span>
+            (<span itemprop="affiliation">University of Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/197.html" itemprop="url"><span itemprop="name">A Game based Abstraction Refinement Framework for Markov Decision Processes</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-01-30">Friday 30th January
+                    (week 2, Hilary Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Prof. Marta Kwiatkowska</span>
+            (<span itemprop="affiliation">Computing Laboratory, University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/196.html" itemprop="url"><span itemprop="name">LINEAR LOGIC IN LINGUISTICS AND COGNITIVE SCIENCE: LAMBEK CALCULUS, PREGROUPS AND THE GEOMETRY OF COGNITION</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2009-01-23">Friday 23rd January
+                    (week 1, Hilary Term 2009).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Prof. Claudia Casadio</span>
+            (<span itemprop="affiliation">University of Chieti,  Italy</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/128.html" itemprop="url"><span itemprop="name">The issues around proving Fermat's Last Theorem in Peano Arithmetic (Joint with Logic Seminar of Maths Department)</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-12-05">Friday 5th December
+                    (week 8, Michaelmas Term 2008).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Angus MacIntyre</span>
+            (<span itemprop="affiliation">School of Mathematics, Queen Mary University of London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/127.html" itemprop="url"><span itemprop="name">Description Logic II: Implementation and Optimisation</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-11-28">Friday 28th November
+                    (week 7, Michaelmas Term 2008).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Ian Horrocks</span>
+            (<span itemprop="affiliation">Computing Laboratory, University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/126.html" itemprop="url"><span itemprop="name">The locale of random sequences</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-11-21">Friday 21st November
+                    (week 6, Michaelmas Term 2008).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Alex Simpson</span>
+            (<span itemprop="affiliation">School of Informatics, University of Edinburgh</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/125.html" itemprop="url"><span itemprop="name">Models of quantum phenomena</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-11-13">Thursday 13th November
+                    (week 5, Michaelmas Term 2008).
+          17:00</span> in <span itemprop="location">Mathematics Department, L3</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Bob Coecke</span>
+            (<span itemprop="affiliation">Computing Laboratory, University of Oxford</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/124.html" itemprop="url"><span itemprop="name">Functional interpretations, linear logic and games</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-11-07">Friday 7th November
+                    (week 4, Michaelmas Term 2008).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Paulo Oliva</span>
+            (<span itemprop="affiliation">Department of Computer Science, Queen Mary University of London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/123.html" itemprop="url"><span itemprop="name">Operational Reconstructions of Hilbert Space Quantum Mechanics - A Guided Tour</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-10-31">Friday 31st October
+                    (week 3, Michaelmas Term 2008).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Paul Busch</span>
+            (<span itemprop="affiliation">Department of Mathematics, University  of York</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/122.html" itemprop="url"><span itemprop="name">Proof systems for intuitionistic logic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-10-24">Friday 24th October
+                    (week 2, Michaelmas Term 2008).
+          14:00</span> in <span itemprop="location">Lecture Theater B</span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Roy Dyckhoff</span>
+            (<span itemprop="affiliation">School of Computer Science,  University of St Andrews.</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/897.html" itemprop="url"><span itemprop="name">Graphical calculus underlying Grassmann, Clifford, and symmetric function Hopf algebras</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-05-16">16th May
+                    (week , Trinity Term 2008).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Bertfried Fauser</span>
+            (<span itemprop="affiliation">University of Konstanz</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1039.html" itemprop="url"><span itemprop="name">How Computationally Relevant is Definability?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-03-07">7th March
+                    (week , Hilary Term 2008).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Barry Cooper</span>
+            (<span itemprop="affiliation">Leeds</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1038.html" itemprop="url"><span itemprop="name">Is Intuitionistic Logic relevant for Computer Science?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-02-29">Friday 29th February
+                    (week 7, Hilary Term 2008).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Thorsten Altenkirch</span>
+            (<span itemprop="affiliation">Nottingham</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1037.html" itemprop="url"><span itemprop="name">A games model of bunched implications</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-02-08">Friday 8th February
+                    (week 4, Hilary Term 2008).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Guy McCusker</span>
+            (<span itemprop="affiliation">Bath</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1036.html" itemprop="url"><span itemprop="name">Description Logic Based Ontology Languages</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-02-01">Friday 1st February
+                    (week 3, Hilary Term 2008).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Ian Horrocks</span>
+            (<span itemprop="affiliation">OUCL</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1035.html" itemprop="url"><span itemprop="name">The complexity of small universal Turing machines</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2008-01-25">Friday 25th January
+                    (week 2, Hilary Term 2008).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Damien Woods</span>
+            (<span itemprop="affiliation">UC Cork</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1044.html" itemprop="url"><span itemprop="name">Ibn Sina's syllogistic: a logic between modal and many-valued</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-11-30">30th November
+                    (week 8, Michaelmas Term 2007).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Wilfrid Hodges</span>
+            (<span itemprop="affiliation">Queen Mary, London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1043.html" itemprop="url"><span itemprop="name">Optimal computation with noisy quantum walks</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-11-23">Friday 23rd November
+                    (week 7, Michaelmas Term 2007).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Viv Kendon</span>
+            (<span itemprop="affiliation">Leeds</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1042.html" itemprop="url"><span itemprop="name">Bell Inequalities, Free Variables and the Undecidability of Chaotic Invariant Sets.</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-11-16">Friday 16th November
+                    (week 6, Michaelmas Term 2007).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Tim Palmer</span>
+            (<span itemprop="affiliation">ECMWF</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1041.html" itemprop="url"><span itemprop="name">Clifford algebras and shadow phase spaces in quantum theory: the way to unite Schrodinger, Pauli and Dirac with Bohm in one algebraic structure</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-11-02">Friday 2nd November
+                    (week 4, Michaelmas Term 2007).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Basil Hiley</span>
+            (<span itemprop="affiliation">Birkbeck, London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1040.html" itemprop="url"><span itemprop="name">Structural Operational Semantics for Computational Effects</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-10-26">Friday 26th October
+                    (week 3, Michaelmas Term 2007).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">John Power</span>
+            (<span itemprop="affiliation">Bath</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1048.html" itemprop="url"><span itemprop="name">Broadcasting and Teleportation in General Probabilistic Theories</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-07-09">Friday 9th July 2007  12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Alex Wilce</span>
+            (<span itemprop="affiliation">Susquehana, US</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1047.html" itemprop="url"><span itemprop="name">Finding network modules by ranking pathways</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-06-08">Friday 8th June
+                    (week 7, Trinity Term 2007).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dusko Pavlovic</span>
+            (<span itemprop="affiliation">http://www.kestrel.edu/home/people/pavlovic/</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1046.html" itemprop="url"><span itemprop="name">Some models of quantum computation</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-06-01">1st June
+                    (week , Trinity Term 2007).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Jacob Biamonte</span>
+            (<span itemprop="affiliation">D-Wave and Harvard</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1045.html" itemprop="url"><span itemprop="name">Information Retrieval in a Geometric Context</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-05-08">Friday 8th May
+                    (week 3, Trinity Term 2007).
+          14:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Keith van Rijsbergen</span>
+            (<span itemprop="affiliation">University of Glasgow</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1053.html" itemprop="url"><span itemprop="name">Second-order Game Semantics and Type Isomorphisms</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-03-02">2nd March
+                    (week , Hilary Term 2007).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Joachim de Lataillade</span>
+            (<span itemprop="affiliation">PPS - Paris 7</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1052.html" itemprop="url"><span itemprop="name">Types for Quantum Computing</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-02-23">23rd February
+                    (week , Hilary Term 2007).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Ross Duncan</span>
+            (<span itemprop="affiliation">OUCL</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1051.html" itemprop="url"><span itemprop="name">Networks and Conditional Reasoning</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-02-09">Friday 9th February
+                    (week 4, Hilary Term 2007).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Hannes Leitgeb</span>
+            (<span itemprop="affiliation">Bristol - Philosophy</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1050.html" itemprop="url"><span itemprop="name">The Power of Closed Reduction</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-02-02">Friday 2nd February
+                    (week , Hilary Term 2007).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Maribel Fernández</span>
+            (<span itemprop="affiliation">King's College London - Computing</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1049.html" itemprop="url"><span itemprop="name">A categoricity property of the Poincare fundamental groupoid functor</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2007-01-26">Friday 26th January
+                    (week 2, Hilary Term 2007).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Misha Gavrilovich</span>
+            (<span itemprop="affiliation">Humboldt Universitat Berlin - Mathematics</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1058.html" itemprop="url"><span itemprop="name">Forget this talk (joint work with Peter Shor)</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-12-08">Friday 8th December
+                    (week 9, Michaelmas Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Aram Harrow</span>
+            (<span itemprop="affiliation">University of Bristol</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1057.html" itemprop="url"><span itemprop="name">Quantum random numbers</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-12-01">Friday 1st December
+                    (week 8, Michaelmas Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Rudiger Schack</span>
+            (<span itemprop="affiliation">Royal Holloway, London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1056.html" itemprop="url"><span itemprop="name">Comparatives</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-11-24">Friday 24th November
+                    (week 7, Michaelmas Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Stephen Pulman</span>
+            (<span itemprop="affiliation">OUCL</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1055.html" itemprop="url"><span itemprop="name">Logically perfect structures and quantum geometries</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-11-03">Friday 3rd November
+                    (week 4, Michaelmas Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Boris Zilber</span>
+            (<span itemprop="affiliation">Oxford, Mathematical Institute</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1054.html" itemprop="url"><span itemprop="name">Second Order Logic over Finite Structures -- Report on a Research Program</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-10-20">Friday 20th October
+                    (week 2, Michaelmas Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Georg Gottlob</span>
+            (<span itemprop="affiliation">OUCL</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1059.html" itemprop="url"><span itemprop="name">Traced Monoidal Categories and Hoare Logic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-05-05">Friday 5th May
+                    (week 2, Trinity Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Mathiesen &amp; Oliva</span>
+            (<span itemprop="affiliation">Queen Mary, London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1066.html" itemprop="url"><span itemprop="name">Measuring Interference via Entropy</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-03-03">Friday 3rd March
+                    (week 7, Hilary Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Pasquale Malacaria</span>
+            (<span itemprop="affiliation">Queen Mary, London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1065.html" itemprop="url"><span itemprop="name">Quantum Physics and Economics? A Survey of Possible Links</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-02-24">Friday 24th February
+                    (week 6, Hilary Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Emmanuel Haven</span>
+            (<span itemprop="affiliation">University of Essex</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1064.html" itemprop="url"><span itemprop="name">Recursive coalgebras</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-02-17">Friday 17th February
+                    (week 5, Hilary Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Stefan Milius</span>
+            (<span itemprop="affiliation">University of Braunschweig, Germany</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1063.html" itemprop="url"><span itemprop="name">Looking at linear optics quantum computing with the eye of a computer scientist</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-02-10">Friday 10th February
+                    (week 4, Hilary Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Jens Eisert</span>
+            (<span itemprop="affiliation">Imperial College, London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1062.html" itemprop="url"><span itemprop="name">Vector Space Models of Meaning</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-02-03">3rd February
+                    (week 3, Hilary Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Stephen Clark</span>
+            (<span itemprop="affiliation">OUCL</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1061.html" itemprop="url"><span itemprop="name">Socially Responsive, Environmentally Friendly Logic</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-01-27">Friday 27th January
+                    (week 2, Hilary Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Samson Abramsky</span>
+            (<span itemprop="affiliation">OUCL</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1060.html" itemprop="url"><span itemprop="name">Why playing logical games? Some philosophical answers</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2006-01-20">Friday 20th January
+                    (week 1, Hilary Term 2006).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Mathieu Marion</span>
+            (<span itemprop="affiliation">University of Quebec at Montreal</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1073.html" itemprop="url"><span itemprop="name">Infinite trees, higher-order recursion schemes and game semantics</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-12-02">Friday 2nd December
+                    (week 8, Michaelmas Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Luke Ong</span>
+            (<span itemprop="affiliation">Oxford University Computing Lab</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1072.html" itemprop="url"><span itemprop="name">A Game Semantics of Names and Pointers</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-11-18">Friday 18th November
+                    (week 6, Michaelmas Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Jim Laird</span>
+            (<span itemprop="affiliation">University of Sussex at Brighton</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1071.html" itemprop="url"><span itemprop="name">Graph Games Revisited</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-11-11">Friday 11th November
+                    (week 5, Michaelmas Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Andrea Schalk</span>
+            (<span itemprop="affiliation">University of Manchester</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1070.html" itemprop="url"><span itemprop="name">Abstract Interpretation Revisited</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-11-04">Friday 4th November
+                    (week 4, Michaelmas Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dan Ghica</span>
+            (<span itemprop="affiliation">University of Birmingham</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1069.html" itemprop="url"><span itemprop="name">Proofnets for the modal logic S5</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-10-28">Friday 28th October
+                    (week 3, Michaelmas Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Greg Restall</span>
+            (<span itemprop="affiliation">University of Melbourne</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1068.html" itemprop="url"><span itemprop="name">Tutorial on Game Semantics</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-10-21">21st October
+                    (week 2, Michaelmas Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Andrzej Murawski</span>
+            (<span itemprop="affiliation">OUCL</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1067.html" itemprop="url"><span itemprop="name">Introductory talk on Algorithmic Game Semantics</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-10-14">14th October
+                    (week 1, Michaelmas Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Samson Abramsky</span>
+            (<span itemprop="affiliation">OUCL</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1078.html" itemprop="url"><span itemprop="name">Resource Sensitive Frames</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-07-29">29th July
+                    (week 14, Trinity Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Mai Gehrke</span>
+            (<span itemprop="affiliation">New Mexico State University, US</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1077.html" itemprop="url"><span itemprop="name">Structural parameters: good, bad and ugly</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-07-01">1st July
+                    (week 10, Trinity Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Michael Fellows</span>
+            (<span itemprop="affiliation">University of Newcastle, Australia</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1076.html" itemprop="url"><span itemprop="name">The complexity of graph state preparation</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-06-03">3rd June
+                    (week 6, Trinity Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Philippe Jorrand</span>
+            (<span itemprop="affiliation">Leibniz Laboratory - Grenoble - France</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1075.html" itemprop="url"><span itemprop="name">Reactive Kripke Semantics and Arc Accessibility</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-05-27">Friday 27th May
+                    (week 5, Trinity Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Dov Gabbay</span>
+            (<span itemprop="affiliation">King's College London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1074.html" itemprop="url"><span itemprop="name">Probabilistic Model-Checking of Quantum Protocols</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2005-05-13">Friday 13th May
+                    (week 3, Trinity Term 2005).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Simon Gay</span>
+            (<span itemprop="affiliation">University of Glasgow</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1088.html" itemprop="url"><span itemprop="name">Spin Networks and Anyonic Topological Quantum Computing</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2004-12-20">Monday 20th December
+                    (week 11, Michaelmas Term 2004).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Louis H Kauffman</span>
+            (<span itemprop="affiliation">University of Illinois at Chicago</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1087.html" itemprop="url"><span itemprop="name">Is there really that much room in Hilbert space?</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2004-12-17">Friday 17th December
+                    (week 10, Michaelmas Term 2004).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Frank Valckenborgh</span>
+            (<span itemprop="affiliation">Macquarie University, Sydney, Australia</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1086.html" itemprop="url"><span itemprop="name">A calculus and logic of resources and processes</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2004-12-03">Friday 3rd December
+                    (week 8, Michaelmas Term 2004).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">David Pym</span>
+            (<span itemprop="affiliation">University of Bath</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1085.html" itemprop="url"><span itemprop="name">Quantal Spaces</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2004-11-26">Friday 26th November
+                    (week 7, Michaelmas Term 2004).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Christopher J Mulvey</span>
+            (<span itemprop="affiliation">University of Sussex/University of Cambridge</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1084.html" itemprop="url"><span itemprop="name">The role of non-commutative geometry in algebraic quantum mechanics: a physicist's perspective</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2004-11-19">Friday 19th November
+                    (week 6, Michaelmas Term 2004).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Basil Hiley</span>
+            (<span itemprop="affiliation">Birkbeck, London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1083.html" itemprop="url"><span itemprop="name">Topological analysis of refinement</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2004-11-12">Friday 12th November
+                    (week 5, Michaelmas Term 2004).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Michael Huth</span>
+            (<span itemprop="affiliation">Imperial College, London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1082.html" itemprop="url"><span itemprop="name">Distance in Graphs and Hyperconvexity</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2004-11-05">Friday 5th November
+                    (week 4, Michaelmas Term 2004).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Mike Smyth</span>
+            (<span itemprop="affiliation">Imperial College, London</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1081.html" itemprop="url"><span itemprop="name">Engineers Do Space Too</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2004-10-29">Friday 29th October
+                    (week 3, Michaelmas Term 2004).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Stephen Cameron</span>
+            (<span itemprop="affiliation">Oxford University</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1080.html" itemprop="url"><span itemprop="name">Synthetic topology of data types and classical spaces</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2004-10-22">Friday 22nd October
+                    (week 2, Michaelmas Term 2004).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Martin H Escardo</span>
+            (<span itemprop="affiliation">University of Birmingham</span>)
+        </div></div><div class="newsItem" itemscope="itemscope" itemtype="http://schema.org/Event"><div class="newsItemTitle"><a href="/seminars/1079.html" itemprop="url"><span itemprop="name">Spatial Representations, Discrete and Continuous (The Differential Geometry of Information)</span></a></div><div class="newsItemPosted"><span itemprop="startDate" content="2004-10-15">Friday 15th October
+                    (week 1, Michaelmas Term 2004).
+          12:00</span> in <span itemprop="location"></span></div><div class="newsItemPerson" itemprop="performer" itemscope="itemscope" itemtype="http://schema.org/Person"><span itemprop="name">Jonathan Gratus</span>
+            (<span itemprop="affiliation">University of Wales at Bangor</span>)
+        </div></div><br></br><table><tr><td class="personInfo"><p><b>Coordinator</b></p></td><td><p class="listedlinks"><div itemscope="itemscope" itemtype="http://schema.org/Person" style="height: 120px; width: 140px;border: 1px solid lightgray; display: inline-block; padding: 5px; padding-top: 21px;vertical-align: top; margin: 0 5px 11px 0"><div style="height: 80px"><center><a href="/people/Chris.Heunen"><img align="center" height="80" src="/files/6692//small_chrisheunen2_small.jpg" alt="Personal photo - Chris Heunen"></img></a></center></div><div style="line-height: 16px; padding-top: 5px"><center><a href="/people/Chris.Heunen"><span itemprop="name">Chris Heunen</span></a></center></div></div><div itemscope="itemscope" itemtype="http://schema.org/Person" style="height: 120px; width: 140px;border: 1px solid lightgray; display: inline-block; padding: 5px; padding-top: 21px;vertical-align: top; margin: 0 5px 11px 0"><div style="height: 80px"><center><a href="http://www.cs.ox.ac.uk/people/aleks.kissinger/about.html"><img align="center" height="80" src="/files/3979//small_30886_547261062545_26402149_31934592_6281944_n.jpg" alt="Personal photo - Aleks Kissinger"></img></a></center></div><div style="line-height: 16px; padding-top: 5px"><center><a href="http://www.cs.ox.ac.uk/people/aleks.kissinger/about.html"><span itemprop="name">Aleks Kissinger</span></a></center></div></div><div itemscope="itemscope" itemtype="http://schema.org/Person" style="height: 120px; width: 140px;border: 1px solid lightgray; display: inline-block; padding: 5px; padding-top: 21px;vertical-align: top; margin: 0 5px 11px 0"><div style="height: 80px"><center><a href="/people/Sam.Staton"><img align="center" height="80" src="/files/7250//small_samlow.jpg" alt="Personal photo - Sam Staton"></img></a></center></div><div style="line-height: 16px; padding-top: 5px"><center><a href="/people/Sam.Staton"><span itemprop="name">Sam Staton</span></a></center></div></div><div itemscope="itemscope" itemtype="http://schema.org/Person" style="height: 120px; width: 140px;border: 1px solid lightgray; display: inline-block; padding: 5px; padding-top: 21px;vertical-align: top; margin: 0 5px 11px 0"><div style="height: 80px"><center><a href="/people/Jamie.Vicary"><img align="center" height="80" src="/files/5912//small_jamie-cropped2.jpg" alt="Personal photo - Jamie Vicary"></img></a></center></div><div style="line-height: 16px; padding-top: 5px"><center><a href="/people/Jamie.Vicary"><span itemprop="name">Jamie Vicary</span></a></center></div></div></p></td></tr><tr><td class="personInfo"><p><b>Related Themes</b></p></td><td><p class="listedlinks"><a href="/research/fls">Foundations, Logic and Structures</a></p></td></tr><tr><td class="personInfo"><p><b>Related Activities</b></p></td><td><p class="listedlinks"><a href="/activities/algprog">Algebra of Programming</a> | <a href="/activities/compling">Computational Linguistics</a> | <a href="/activities/epistemic">Dynamic Epistemic Logic</a> | <a href="/activities/gamesemantics">Game Semantics and its Applications</a> | <a href="/activities/quantum">Quantum Group</a></p></td></tr></table></div><div id="sidebar">
+<!--  mainnav div starts -->
+<div id="nav">     
+ <h2 id="mainsections">Main sections</h2>
+ 
+ <ul class="mainnav" >
+  <li>
+   <a href="/" title="Return to the Home page" class="menu" >Home
+   </a>
+  </li>
+  <li>
+   <a href="/prospectivestudents/" title="Information for prospective students, and admissions information" class="menu" >Prospective Students
+   </a>
+  </li>
+  <li>
+   <a href="/currentstudents/" title="Information for current graduate and undergraduate students" class="menu" >Current Students
+   </a>
+  </li>
+  <li>
+   <a href="/research/" title="Research themes, activities and projects; publications and people" class="menu">Research
+   </a>
+  </li>
+  <li>
+   <a href="/people/" title="Faculty, research staff and students, administrative and support staff" class="menu" >People
+   </a>
+  </li>
+  <li>
+    <span class="youarehere">News
+   </span>
+  </li>
+  <li>
+   <a href="/seminarsEvents.html" title="Recent events" class="menu">Events
+   </a>
+  </li>
+  <li>
+   <a href="/vacanciesstudentships.html" title="Job vacancies and studentships" class="menu">Vacancies &amp; Studentships
+   </a>
+  </li>
+  <li>
+   <a href="/contact.html" title="Directions for visitors, contact information and details for press" class="menu">Contact Us
+   </a>
+  </li>
+  <li>
+   <a href="/alumni/" title="The Department of Computer Science Alumni Network" class="menu">Alumni
+   </a>
+  </li>
+  <li>
+   <a href="https://www.cs.ox.ac.uk/industry/" title="The Department of Computer Science Industry Liaison Network" class="menu">Industry Liaison
+   </a>
+  </li>
+ </ul>
+<h2 id="inthissection">RSS Feeds</h2>
+<div class="popoutarea">
+<ul>
+<li class="popout" id="newsfeedspopout"><a href="javascript:void(0)" onblur="var parentNode=this.parentNode;window.setTimeout(function(){parentNode.className='popout';},200);" onclick="if(this.parentNode.className=='popout'){changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.parentNode.className='poppedout';this.focus();}else{changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.blur(); };"><span>News</span></a>
+
+<div class="popoutmenu">
+<h2 id="inthissection">News</h2>
+<ul class="subnav">
+<li><a title="News" class="rss" href="http://www.cs.ox.ac.uk/feeds/News-All.xml">All news</a></li>
+<li><a title="Awards" class="rss"
+      href="http://www.cs.ox.ac.uk/feeds/News-Awards.xml">Awards</a></li>
+<li><a title="Events" class="rss"
+      href="http://www.cs.ox.ac.uk/feeds/News-Events.xml">Events</a></li>
+<li><a title="Miscellaneous" class="rss"
+      href="http://www.cs.ox.ac.uk/feeds/News-Miscellaneous.xml">Miscellaneous</a></li>
+<li><a title="Projects" class="rss"
+      href="http://www.cs.ox.ac.uk/feeds/News-Projects.xml">Project news</a></li>
+<li><a title="Publications" class="rss"
+      href="http://www.cs.ox.ac.uk/feeds/News-Publications.xml">Publications</a></li>
+<li><a title="Projects" class="rss" href="http://www.cs.ox.ac.uk/feeds/Projects-All.xml">Current Projects</a></li>
+</ul>
+</div>
+
+</li>
+</ul>
+</div>
+
+<div class="popoutarea">
+<ul>
+<li class="popout"><a href="javascript:void(0)" onblur="var parentNode=this.parentNode;window.setTimeout(function(){parentNode.className='popout';},200);" onclick="if(this.parentNode.className=='popout'){changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.parentNode.className='poppedout';this.focus();}else{changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.blur(); };"><span>Vacancies &amp; studentships</span></a>
+<div class="popoutmenu">
+<h2 id="inthissection">Vacancies &amp; studentships</h2>
+<ul class="subnav">
+<li><a title="Vacancies" class="rss" href="http://www.cs.ox.ac.uk/feeds/News-Vacancies.xml">Vacancies</a></li>
+<li><a title="Studentships" class="rss" href="http://www.cs.ox.ac.uk/feeds/News-Studentships.xml">Studentships</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+
+<h2 id="inthissection">Calendars</h2>
+
+<div class="popoutarea">
+<ul>
+<li class="popout"><a href="javascript:void(0)" onblur="var parentNode=this.parentNode;window.setTimeout(function(){parentNode.className='popout';},200);" onclick="if(this.parentNode.className=='popout'){changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.parentNode.className='poppedout';this.focus();}else{changeCSSClass(this.parentNode.parentNode.parentNode.parentNode,'poppedout','popout');this.blur(); };"><span>Seminars &amp; timetables</span></a>
+<div class="popoutmenu">
+<h2 id="inthissection">Seminars &amp; timetables</h2>
+
+<ul class="subnav">
+<li><a href="javascript:void(0)" onclick="icalLink('http://www.cs.ox.ac.uk/feeds/SeminarSeries-All.ics','All Seminars')" class="ical">All Seminars</a></li>
+<li><a href="javascript:void(0)" onclick="icalLink('http://www.cs.ox.ac.uk/feeds/Timetable-Lecture.ics','Lecture timetable')" class="ical">Lecture timetable</a></li>
+<li><a href="javascript:void(0)" onclick="icalLink('http://www.cs.ox.ac.uk/feeds/Timetable-Practical.ics','Practical timetable')" class="ical">Practical timetable</a></li>
+<li><a href="javascript:void(0)" onclick="icalLink('http://www.cs.ox.ac.uk/feeds/Timetable-Class.ics','Class timetable')" class="ical">Class timetable</a></li>
+</ul>
+
+</div>
+</li>
+</ul>
+</div>
+
+<h2 id="inthissection">Internal</h2>
+<ul class="subnav">
+<li><a href="/internal/" class="menu">Internal / Intranet</a></li>
+<li><a href="/login/" class="menu">Edit website / database login</a></li>
+<li><a href="https://wiki.cs.ox.ac.uk/wiki/support" class="menu">IT Support</a></li>
+</ul>
+</div>
+</div>
+
+
+
+</div>
+<!-- all div ends -->
+</body>
+</html>

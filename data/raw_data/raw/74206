@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8">
+    <title>https://data.ox.ac.uk/graph/itservices/services/data | data.ox.ac.uk</title>
+    <link rel="stylesheet" href="//static.data.ox.ac.uk/main.css" type="text/css"/>
+    
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/css/basic.css"  media="all"/>
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/css/tiny.css" media="screen and (max-width: 639px)" />
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/css/small.css" media="(min-width: 640px)" />
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/css/medium.css" media="(min-width: 999px) and (max-width: 1599px)" />
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/css/large.css" media="screen and (min-width: 1600px)" />
+    <link rel="stylesheet" type="text/css" href="//static.data.ox.ac.uk/font-awesome/css/font-awesome.min.css">
+
+    
+<link rel="stylesheet" media="screen" href="//active.oucs.ox.ac.uk/shared/stylesheet/analytics/analytics.css" type="text/css"/>
+
+    <link rel="icon" href="//static.data.ox.ac.uk/favicon.ico" type="image/x-icon"/>
+    <meta name="robots" content="noindex"/>
+    <link rel="alternate" type="application/xhtml+xml" href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=html">
+    <link rel="alternate" type="text/html" href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=html">
+    <link rel="alternate" type="text/n3" href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=n3">
+    <link rel="alternate" type="text/plain" href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=nt">
+    <link rel="alternate" type="application/rdf+xml" href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=rdf">
+    <link rel="alternate" type="text/turtle" href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=ttl">
+  <!--[if lt IE 9]>
+  <script src="//static.data.ox.ac.uk/lib/html5shiv.min.js"></script>
+  <![endif]-->
+    <script type="text/javascript">
+      var staticURL = "//static.data.ox.ac.uk/";
+    </script>
+    <script type="text/javascript" src="//static.data.ox.ac.uk/lib/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="//static.data.ox.ac.uk/lib/openlayers/OpenLayers.js"></script>
+    <script   type="text/javascript" src="//static.data.ox.ac.uk/app/dataox-1.0.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="//static.data.ox.ac.uk/js/base.js"></script>
+    
+    <link href="//data.ox.ac.uk/search/?opensearchdescription" type="application/opensearchdescription+xml" rel="search" title="data.ox.ac.uk">
+  </head>
+
+
+  <body class="">
+    <div class="container">
+    <header>
+      <a href="http://www.ox.ac.uk/">
+        <img src="//static.data.ox.ac.uk/brandmark.gif" alt="University of Oxford"/>
+      </a>
+      
+      <p class="title">Open Data about the University of Oxford</p>
+      <p>data.ox.ac.uk</p>
+      
+      <a href="https://docs.data.ox.ac.uk/overview.html#service-status"><img src="//static.data.ox.ac.uk/beta.png" alt="beta" title="data.ox.ac.uk is currently in beta" id="beta-badge"/></a>
+    </header>
+    
+    <nav>
+      <ul>
+
+        <li><a href="//data.ox.ac.uk/">home</a></li>
+        <li><a href="//data.ox.ac.uk/datasets/">datasets</a></li>
+        <li><a href="//data.ox.ac.uk/explore/">explore</a></li>
+        <li><a href="//data.ox.ac.uk/sparql/">sparql</a></li>
+        <li><a href="https://docs.data.ox.ac.uk/">documentation</a></li>
+        <li><a href="//data.ox.ac.uk/contact/">contact</a></li>
+
+      </ul>
+
+      <div class="search-form">
+        <form method="get" action="//data.ox.ac.uk/search/" style="display:inline;">
+          <label for="search-query">Search&hellip;</label>
+          <input id="search-query" name="q" style="width:100px"/>
+          <input class="search-submit" type="submit" value="Search"/>
+        </form>
+      </div>
+
+    </nav>
+
+    <article>
+    
+    
+    <h1>
+      https://data.ox.ac.uk/graph/itservices/services/data
+    </h1>
+    
+    <div class="subject-uri">URI: <a href="https://data.ox.ac.uk/graph/itservices/services/data" title="This identifies the thing this page is about. You should use it when referring to https://data.ox.ac.uk/graph/itservices/services/data (as opposed to the URL for this page)">https://data.ox.ac.uk/graph/itservices/services/data</a></div>
+
+    
+    
+    
+    
+    
+    
+    <div style="clear:both"></div>
+    
+    
+
+    
+    <aside class="toolbox">
+      
+      <section class="page-metadata">
+        <h2>Toolbox</h2>
+        <ul>
+          <li>
+            <a href="//data.ox.ac.uk/sparql/?query=SELECT%20%3Fsubject%20%3Fpredicate%20WHERE%20%7B%20%20%3Fsubject%20%3Fpredicate%20%3Chttps%3A//data.ox.ac.uk/graph/itservices/services/data%3E%20%7D%20LIMIT%20200">
+              What links here
+            </a>
+          </li>
+          
+            <li>
+              Other things of type:
+                
+                <a href="//data.ox.ac.uk/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%20%3Fsubject%20a%20%3Chttp%3A//xmlns.com/foaf/0.1/Document%3E%20%7D%20LIMIT%20200">
+                  Document</a>, 
+                
+                <a href="//data.ox.ac.uk/sparql/?query=SELECT%20%3Fsubject%20WHERE%20%7B%20%20%3Fsubject%20a%20%3Chttp%3A//www.w3.org/ns/sparql-service-description%23Graph%3E%20%7D%20LIMIT%20200">
+                  sd:Graph</a>
+              
+            </li>
+          
+          <li><a href="http://sig.ma/search?q=https%3A//data.ox.ac.uk/graph/itservices/services/data">View at sig.ma</a></li>
+        </ul>
+        
+        <h2>Page metadata</h2>
+<!-- This isn't working at the moment
+        <h3>Applicable licences</h3>
+
+        <p>The licensing of these data is unknown.</p>
+
+
+        <h3>Datasets</h3>
+
+        <p>This data was not drawn from any datasets.</p>
+
+-->
+
+        
+        <h3>Other formats</h3>
+        
+        <ul>
+
+          <li>
+            <a href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=html">HTML</a>
+          </li>
+
+          <li>
+            <a href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=n3">Notation3</a>
+          </li>
+
+          <li>
+            <a href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=nt">NTriples</a>
+          </li>
+
+          <li>
+            <a href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=rdf">RDF/XML</a>
+          </li>
+
+          <li>
+            <a href="/doc/?uri=https%3A%2F%2Fdata.ox.ac.uk%2Fgraph%2Fitservices%2Fservices%2Fdata&amp;format=ttl">Turtle</a>
+          </li>
+
+        </ul>
+
+        <h3>Queries</h3>
+
+        <p>This page was generated using the following queries:</p>
+
+        <ul>
+
+          <li>
+            <a href="//data.ox.ac.uk/sparql/?common_prefixes=on&amp;query=%0ADESCRIBE%20%3Chttps%3A//data.ox.ac.uk/graph/itservices/services/data%3E">DESCRIBE &lt;https://data.ox.ac.uk/graph/itservices/services/data&gt;</a>
+          </li>
+
+        </ul>
+
+      </section>
+
+    </aside>    
+    
+    
+    
+    <aside class="sidebar">
+      
+      
+      
+      
+      
+      
+      
+    </aside>
+    
+
+    
+    
+    <table class="description">
+      <tbody>
+
+        <tr class="row-odd">
+          <th><a href="/doc/?uri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fcreated">Date Created</a></th>
+          <td>
+            
+              <div>2013-03-01 17:01:25+00:00</div>
+            
+          </td>
+        </tr>
+
+        <tr class="row-even">
+          <th><a href="/doc/?uri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Flicense">License</a></th>
+          <td>
+            
+              <div><a href="/doc/?uri=http%3A%2F%2Fcreativecommons.org%2Fpublicdomain%2Fzero%2F1.0%2F">Creative Commons Zero</a></div>
+            
+          </td>
+        </tr>
+
+        <tr class="row-odd">
+          <th><a href="/doc/?uri=http%3A%2F%2Fpurl.org%2Fdc%2Fterms%2Fmodified">Date Modified</a></th>
+          <td>
+            
+              <div>2015-06-18 02:08:03+01:00</div>
+            
+          </td>
+        </tr>
+
+        <tr class="row-even">
+          <th><a href="/doc/?uri=http%3A%2F%2Frdfs.org%2Fns%2Fvoid%23inDataset">in dataset</a></th>
+          <td>
+            
+              <div><a href="https://data.ox.ac.uk/doc/dataset/itservices/services">IT Services Service Catalogue</a></div>
+            
+          </td>
+        </tr>
+
+        <tr class="row-odd">
+          <th><a href="/doc/?uri=http%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23type">type</a></th>
+          <td>
+            
+              <div><a href="/desc/?uri=http%3A%2F%2Fwww.w3.org%2Fns%2Fsparql-service-description%23Graph">sd:Graph</a></div>
+            
+              <div><a href="/doc/?uri=http%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2FDocument">Document</a></div>
+            
+          </td>
+        </tr>
+
+      </tbody>
+    </table>
+    
+    
+    
+
+    <div style="clear:both"></div>
+</article>
+
+      <footer>
+        Site © University of Oxford •
+        <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" title="Attribution-ShareAlike 2.0 UK: England &amp; Wales">CC-BY-SA 2.0</a> •
+        <a href="//data.ox.ac.uk/legal-and-privacy/">Legal and privacy</a> •
+        <a href="https://github.com/ox-it/dataox">Source</a>
+      </footer>
+    </div>
+    
+<script type="text/javascript" src="//active.oucs.ox.ac.uk/shared/stylesheet/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="//active.oucs.ox.ac.uk/shared/stylesheet/analytics/analytics.js"></script>
+<script type="text/javascript">
+  optionalAnalytics({
+	  analyticsID: "UA\u002D35258720\u002D1",
+	  domain: ".data.ox.ac.uk",
+	  doNotTrack: false,
+	  privacyPolicyURL: "//data.ox.ac.uk/legal\u002Dand\u002Dprivacy/#analytics",
+	  policy: "out-out",
+          extraGaq: [["_setCustomVar", 1, "authenticated", "no", 2]]
+  });
+</script>
+
+
+  </body>
+
+</html>

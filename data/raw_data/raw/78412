@@ -1,0 +1,237 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+	<META HTTP-EQUIV="Expires" CONTENT="0">
+	<title>Faculty of Linguistics, Philology & Phonetics</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+	<meta name="Generator" content="Exponent Content Management System - 0.96.6.GA" >
+	<meta name="Keywords" content="Faculty, Linguistics, Philology, Phonetics, Prospective Students, Research, projects, course info, calendar, people, research staff" >
+	<meta name="Description" content="53" >
+	<!--[if IE]><style type="text/css"> img { behavior: url(external/png-opacity.htc); } body { behavior: url(external/csshover.htc); }</style><![endif]-->
+	<script type="text/javascript" src="/exponent.js.php"></script>
+
+	<link rel="stylesheet" type="text/css" title="default" href="/themes/simpletheme/styles.css">
+	<link rel="stylesheet" type="text/css" href="/themes/simpletheme/print-lpp.css"  media="print">
+	<!--[if lte IE 7 ]>
+	 <link rel="stylesheet" type="text/css" title="default" href="/themes/simpletheme/styles-ie.css" >
+	<![endif]-->
+
+
+
+</head>
+
+<body onload="exponentJSinitialize();">
+
+
+<!-- LOGIN BOX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+<div id="wrapper">
+	<!-- BANNER XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+	<div id="wrapper-head">
+
+		<div id="tl-corner-img">
+		<img src="/themes/simpletheme/images/heading-fac.gif" width="600" height="100" border="0" alt="Faculty heading">
+		</div>
+
+		<div id="tr-corner-img">
+		<a href="http://www.ox.ac.uk" target="_blank"><img src="/themes/simpletheme/images/ox_small_cmyk_pos.jpg" width="100" height="100" border="0" alt="Oxford University logo"></a>
+		</div>
+		<!-- FACEBOOK LINK xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+		<div id="facebook">
+			<a href="https://weblearn.ox.ac.uk/portal/hierarchy/humdiv/linguist" target="_blank">Weblearn</a><br />
+			<a href="https://www.facebook.com/OxfordLinguistics" target="_blank">Follow us on Facebook</a>
+		</div>
+		<!-- SEARCH BOX xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+		<div id="search">
+			<form id="searchform" method="get"
+			action="http://googlesearch.oucs.ox.ac.uk/search">
+					<input type="hidden" name="as_sitesearch" value="ling-phil.ox.ac.uk">
+					<input name="UnitPicture"   type="hidden"
+					value="http://www.oucs.ox.ac.uk/googlesearch/radcliffe.jpg">
+					<input name="client" value="oxford" type="hidden">
+					<input name="proxystylesheet" value="oxford" type="hidden">
+					<input name="output" value="xml_no_dtd" type="hidden">
+					<input name="q" id="input-search" size="10" onfocus="clearsearch();"
+					maxlength="2048" value=""  type="text">
+					<input name="Go" value="Search" type="submit">
+
+			</form>
+		</div>
+	</div>
+
+	<!-- BREADCRUMB XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	<div class="breadcrumb">
+		<div class="breadcrumb">
+&nbsp;
+																																																																																																		
+		  			 <a class="breadcrumb"
+  			  			href="http://www.ling-phil.ox.ac.uk/people">People</a>&nbsp;
+				&gt;																														
+		  			 <a class="activecrumb"
+  			  			href="http://www.ling-phil.ox.ac.uk/research_staff">Research Staff</a>&nbsp;
+																																												</div>	</div>
+	-->
+	<!-- HORIZ NAV XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+	<!-- <a class="skipnav" href="#maincontent">Skip navigation</a> --> <!-- ALLOW SCREEN READERS TO SKIP NAV -->
+
+	<!-- HORIZ MENU xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+						
+							<div id="menu1">
+																															 
+							
+					
+						
+							<a href="http://www.ling-phil.ox.ac.uk/">Home</a>&nbsp;
+																					</div>
+																																																											
+							<div id="menu2">
+																											 
+							
+					
+						
+							<a href="http://www.ling-phil.ox.ac.uk/research">Research</a>&nbsp;
+																					</div>
+																																									<div id="menu3">
+																							 
+							
+					
+						
+							<a href="http://www.ling-phil.ox.ac.uk/prospective">Prospective students</a>&nbsp;
+																					</div>
+																																					<div id="menu4">
+																			 
+							
+					
+						
+							<a href="http://www.ling-phil.ox.ac.uk/course">For current<br>students</a>&nbsp;
+																					</div>
+																																																																														<div id="menu5-focus">
+															 
+							
+											<a href="postholders">People</a>
+															</div>
+																																																																																																			<div id="menu6">
+											 
+												<a href="http://www.ling-phil.ox.ac.uk/calendar">Calendar<br>& events</a>
+										</div>
+																																							<div id="menu7">
+							 
+							
+					
+						
+							<a href="http://www.ling-phil.ox.ac.uk/contact">Contact</a>&nbsp;
+																					</div>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																					<div id="menu5line">
+			<ul>
+									<li style="width:90px; border-left: 2px solid #9ba032;"><a href="postholders">Postholders</a></li>
+													<li style="width:172px; border-left: 2px solid #9ba032;"><a href="faculty_members">Other Faculty members</a></li>
+													<li style="width:110px; border-left: 2px solid #9ba032;"><a href="faculty_board">Faculty Board</a></li>
+													<li style="width:110px; background-color:#bdc442;"><a href="research_staff">
+					<strong>Researchers</strong></a></li>
+													<li style="width:80px;"><a href="people_grads">Graduates</a></li>
+													<li style="width:110px;"><a href="admin_staff">Admin staff</a></li>
+											</ul>
+		</div>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																									
+
+
+
+
+
+<!--	<div id="menu1"><a href="home">Home</a></div>
+	<div id="menu2"><a href="research">Research</a></div>
+	<div id="menu3"><a href="prospective">Prospective<br>students</a></div>
+	<div id="menu4"><a href="course">For current<br>students</a></div>
+	<div id="menu5-focus"><a href="people">People</a></div>
+	<div id="menu5line">
+		<ul>
+
+		<li style="width:110px; border-left: 2px solid #9ba032;"><a href="postholders">Postholders</a></li><li style="width:130px; border-left: 2px solid #9ba032;"><a href="faculty_members">Faculty members</a></li><li style="width:110px; background-color:#bdc442;"><a href="research_staff"><strong>Research staff</strong></a></li><li style="width:100px;"><a href="people-grads">Graduates</a></li><li style="width:100px;"><a href="admin_staff">Admin staff</a></li><li style="width:70px; border-right: 2px solid #9ba032;"><a href="it_staff">IT staff</a></li>		</ul>
+	</div>
+	<div id="menu6"><a href="calendar">Calendar<br>& events</a></div>
+	<div id="menu7"><a href="contact">Contact</a></div>
+-->
+
+	<!-- CONTENT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+	<div id="people-wrapper-body">
+
+		<div id="people-content">
+			
+				<a name="mod_205"></a>
+					<div class="container_box">
+				<div style="width: 100%">
+				<div>
+	<h2>Researchers</h2>
+<table width="95%" cellspacing="0" cellpadding="4" border="0" align="center">
+    <tbody>
+        <tr>
+            <th width="30%">Name</th>
+            <th width="70%">Position</th>
+        </tr>
+        <tr>
+            <td>&nbsp;<a href="mailto:chiara.cappellaro@ling-phil.ox.ac.uk">Dr Chiara Cappellaro</a></td>
+            <td>British Academy Postdoctoral Fellow and Research Fellow at St John's College</td>
+        </tr>
+        <tr>
+            <td><a href="http://www.sjc.ox.ac.uk/660-6662/Dr-Louise-Esher.html">Dr Louise Esher</a></td>
+            <td>Junior Research Fellos, St John's College</td>
+        </tr>
+        <tr>
+            <td><a href="mailto:sandra.kotzor@ling-phil.ox.ac.uk">Dr Sandra Kotzor</a></td>
+            <td>Post-doctoral Fellow</td>
+        </tr>
+        <tr>
+            <td><a href="http://users.ox.ac.uk/~shug1472/">Dr John Lowe</a></td>
+            <td>Leverhulme Early Career Research Fellow</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" href="http://www.phon.ox.ac.uk/ravary">Dr Ladan Ravary</a></td>
+            <td>Research Associate</td>
+        </tr>
+        <tr>
+            <td><a href="sytsema">Dr Johanneke Sytsema</a></td>
+            <td>Research Associate</td>
+        </tr>
+        <tr>
+            <td><a href="mailto:alessandro.vatri@classics.ox.ac.uk">Dr Alessandro Vatri</a></td>
+            <td>Research Assistant in Comparative Philology</td>
+        </tr>
+        <tr>
+            <td><a href="wetterlin">Dr Allison Wetterlin</a></td>
+            <td>Research Fellow</td>
+        </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+				</div>
+			</div>
+												<p>&nbsp;</p>
+		</div>
+		<div id="people-img">
+			
+				<a name="mod_602"></a>
+					<div class="container_box">
+				<div style="width: 100%">
+				<div>
+	<p><img width="180"  border="0" alt="Dr Adam Roberts" src="/files/people/adam.roberts.jpg" />&nbsp;</p>
+</div>
+				</div>
+			</div>
+											</div>
+		<!--
+		<div id="people-extra">
+			
+		</div>
+		-->
+		<p>&nbsp;</p>
+	</div>
+	<!-- CONTENT END XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
+
+
+</div>
+</body>
+</html>
+
+<!--Execution time : 0 seconds-->

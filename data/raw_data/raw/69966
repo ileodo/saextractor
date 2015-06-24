@@ -1,0 +1,2101 @@
+
+
+<!-- Title boiler plate for website header -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text-html; charset=utf-8">
+<link rel="SHORTCUT ICON" href="favicon.ico" />
+			 
+<link rel="stylesheet" type="text/css" href="css/obvg_main.css" />
+<title>Talks - Torr Vision Group</title>
+</head>
+<body>
+
+
+<!--Google Analytics FOR OXFORD WEBPAGE-->		
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-49889291-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+<center>
+<div class="container">
+<div class="titlebar">
+	<!-- ORIGINAL
+		 <img class="titleimage" src="images/logo.jpg" alt="Oxford Brookes Vision Group" />
+		 Oxford Brookes Vision Group
+	 -->
+		 <img class="titleimage" src="images/logo.jpg" alt="Torr Vision Group" />
+		 Torr Vision Group
+		 <A href="http://www.ox.ac.uk/" target=_NEW>		 
+		 <img class="titleimage" src="images/ox_brand4_rev.gif" alt="University of Oxford" />
+	     </A>
+</div> <!-- end of titlebar div -->
+<div class='buttons' id='navbuttons'>
+  <a href='index.php'>About</a>
+  <a href='people.php'>People</a>
+  <a href='projects.php'>Projects</a>
+  <a href='publications.php'>Publications</a>
+  <a href='prizes.php'>Prizes</a>
+  <span id='activelink'>Talks</span>
+  <a href='code.php'>Code</a>
+  <a href='links_collaborators.php'>Collaborators</a>
+  <a href='links.php'>Links</a>
+  <a href='travel_directions.php'>Travel Directions</a>
+</div> <!-- end of buttons div -->
+<div class='content'>
+
+<script type="text/javascript">
+function ToggleDetails(oButton, oItems)
+{
+	if (oItems.style.display == "none")
+	{
+		oItems.style.display = "block";
+		oButton.title = "Hide";
+		oButton.alt = "Hide";
+		oButton.src = "./images/small_minus.gif";
+	}
+	else
+	{
+		oItems.style.display = "none";
+		oButton.title = "Show";
+		oButton.alt = "Show";
+		oButton.src = "./images/small_plus.gif";
+	}
+	return;
+}
+</script>
+
+<p>
+In addition to our own seminar program, we also have joint seminars with the <a href="http://www.robots.ox.ac.uk/seminars">Oxford Robotics Research Group</a> at the University of Oxford, and the <a href="http://www.robots.ox.ac.uk/~vgg/rg/">Visual Geometry Group</a>, also at the University of Oxford.
+</p>
+
+<p> 
+Click on the 
+<span style='background-color: #DDE7E9'>&nbsp;<img src="./images/small_plus.gif" alt="Show" title="Show" />&nbsp;</span> button to view 
+more detailed information about a talk, or click on the
+<span style='background-color: #DDE7E9'>&nbsp;<img src="./images/small_minus.gif" alt="Hide" title="Hide" />&nbsp;</span>
+button to hide the details.
+</p>
+
+<p><i>Note: JavaScript must be enabled for this page to work correctly.</i></p>
+
+<h3>Previous Talks</h3><div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn0' class='javabtn' border='0' onclick='ToggleDetails(btn0,info0)'>
+</span>
+11/12/2014, <b>Rodrigo Andrade de Bem</b> on <i>&quot;One Millisecond Face Alignment with an Ensemble of Regression Trees&quot;</i><br>
+</div>
+<div id='info0' class='talkinfo' style='display: none' >
+<b>Date: </b>11/12/2014<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>LR8, IE Building, University of Oxford
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn1' class='javabtn' border='0' onclick='ToggleDetails(btn1,info1)'>
+</span>
+02/12/2014, <b>Rodrigo Andrade de Bem</b> on <i>&quot;Fast Edge Detection Using Structured Forests&quot;</i><br>
+</div>
+<div id='info1' class='talkinfo' style='display: none' >
+<b>Date: </b>02/12/2014<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>LR8, IE Building, University of Oxford
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.robots.ox.ac.uk/~tvg/talks/2014/Rodrigo_Fast_Edge_Detection_Using_Structured_Forests.pdf"></a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn2' class='javabtn' border='0' onclick='ToggleDetails(btn2,info2)'>
+</span>
+27/11/2014, <b>Luca Bertinetto</b> on <i>&quot;Correlation Filters and Visual Tracking&quot;</i><br>
+</div>
+<div id='info2' class='talkinfo' style='display: none' >
+<b>Date: </b>27/11/2014<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>LR8, IE Building, University of Oxford
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn3' class='javabtn' border='0' onclick='ToggleDetails(btn3,info3)'>
+</span>
+20/11/2014, <b>Victor Adrian Prisacariu (University of Oxford)</b> on <i>&quot;InfiniTAM: A Framework for the Volumetric Integration of Depth Images&quot;</i><br>
+</div>
+<div id='info3' class='talkinfo' style='display: none' >
+<b>Date: </b>20/11/2014<br>
+<b>Time: </b>1:00pm<br>
+<b>Location: </b>LR8, IE Building, University of Oxford
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn4' class='javabtn' border='0' onclick='ToggleDetails(btn4,info4)'>
+</span>
+20/11/2014, <b>Stephan Liwicki (University of Oxford)</b> on <i>&quot;Large Scale Dense - SLAM&quot;</i><br>
+</div>
+<div id='info4' class='talkinfo' style='display: none' >
+<b>Date: </b>20/11/2014<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>LR8, IE Building, University of Oxford
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn5' class='javabtn' border='0' onclick='ToggleDetails(btn5,info5)'>
+</span>
+17/08/2012, <b>Lubor Ladicky (Oxford University)</b> on <i>&quot;Lubor BMVC Practice Talk&quot;</i><br>
+</div>
+<div id='info5' class='talkinfo' style='display: none' >
+<b>Date: </b>17/08/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Headington BG1
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/Lubor_bmvc12.ppt">Lubor BMVC Practice Talk</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn6' class='javabtn' border='0' onclick='ToggleDetails(btn6,info6)'>
+</span>
+17/08/2012, <b>Vibhav Vineet (Oxford Brookes University)</b> on <i>&quot;Vibhav ECCV Practice Talk&quot;</i><br>
+</div>
+<div id='info6' class='talkinfo' style='display: none' >
+<b>Date: </b>17/08/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Headington BG1
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn7' class='javabtn' border='0' onclick='ToggleDetails(btn7,info7)'>
+</span>
+17/08/2012, <b>Vibhav Vineet (Oxford Brookes University)</b> on <i>&quot;Meanfield Based Image Segmentation&quot;</i><br>
+</div>
+<div id='info7' class='talkinfo' style='display: none' >
+<b>Date: </b>17/08/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Headington BG1
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/staff/VibhavVineet/mf_filter_inference/">Meanfield Based Image Segmentation (Tutorial)</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn8' class='javabtn' border='0' onclick='ToggleDetails(btn8,info8)'>
+</span>
+14/08/2012, <b>Mike Sapienza (Oxford Brookes University)</b> on <i>&quot;Mike BMVC Practice Talk&quot;</i><br>
+</div>
+<div id='info8' class='talkinfo' style='display: none' >
+<b>Date: </b>14/08/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Headington BG1
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn9' class='javabtn' border='0' onclick='ToggleDetails(btn9,info9)'>
+</span>
+14/08/2012, <b>Vibhav Vineet (Oxford Brookes University)</b> on <i>&quot;Vibhav BMVC Practice Talk&quot;</i><br>
+</div>
+<div id='info9' class='talkinfo' style='display: none' >
+<b>Date: </b>14/08/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Headington BG1
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn10' class='javabtn' border='0' onclick='ToggleDetails(btn10,info10)'>
+</span>
+14/08/2012, <b>Paul Sturgess (Oxford Brookes University)</b> on <i>&quot;Paul BMVC Practice Talk&quot;</i><br>
+</div>
+<div id='info10' class='talkinfo' style='display: none' >
+<b>Date: </b>14/08/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Headington BG1
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn11' class='javabtn' border='0' onclick='ToggleDetails(btn11,info11)'>
+</span>
+14/08/2012, <b>Sunando Sengupta (Oxford Brookes University)</b> on <i>&quot;Sunando IROS Practice Talk&quot;</i><br>
+</div>
+<div id='info11' class='talkinfo' style='display: none' >
+<b>Date: </b>14/08/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Headington BG1
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn12' class='javabtn' border='0' onclick='ToggleDetails(btn12,info12)'>
+</span>
+14/05/2012, <b>Prof. Klaus D. McDonald-Maier(University of Essex)</b> on <i>&quot;Embedded and Intelligent Systems&quot;</i><br>
+</div>
+<div id='info12' class='talkinfo' style='display: none' >
+<b>Date: </b>14/05/2012<br>
+<b>Time: </b>12:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn13' class='javabtn' border='0' onclick='ToggleDetails(btn13,info13)'>
+</span>
+11/05/2012, <b>Steve Hicks(Oxford Neuroscience, University of Oxford)</b> on <i>&quot;Augmenting vision of the severely sight impaired: Development of a prototype display and future directions.&quot;</i><br>
+</div>
+<div id='info13' class='talkinfo' style='display: none' >
+<b>Date: </b>11/05/2012<br>
+<b>Time: </b>1:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn14' class='javabtn' border='0' onclick='ToggleDetails(btn14,info14)'>
+</span>
+24/04/2012, <b>Anders Dahl and Henrik Aanaes (Technical University of Denmark)</b> on <i>&quot;Robotics for Computer Vision Research&quot;</i><br>
+</div>
+<div id='info14' class='talkinfo' style='display: none' >
+<b>Date: </b>24/04/2012<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn15' class='javabtn' border='0' onclick='ToggleDetails(btn15,info15)'>
+</span>
+23/03/2012, <b>Vibhav Vineet (Oxford Brookes University)</b> on <i>&quot;Efficient Bilateral Filtering&quot;</i><br>
+</div>
+<div id='info15' class='talkinfo' style='display: none' >
+<b>Date: </b>23/03/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/Vibhav_03_definition_bf.ppt">Efficient Bilateral Filtering</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/vibhav_06_implementation.ppt">Bilateral Filtering</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn16' class='javabtn' border='0' onclick='ToggleDetails(btn16,info16)'>
+</span>
+16/03/2012, <b>Vibhav Vineet (Oxford Brookes University)</b> on <i>&quot;Rank Prize practice talk&quot;</i><br>
+</div>
+<div id='info16' class='talkinfo' style='display: none' >
+<b>Date: </b>16/03/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn17' class='javabtn' border='0' onclick='ToggleDetails(btn17,info17)'>
+</span>
+16/03/2012, <b>Dr. Jonathan Warrell (Oxford Brookes University)</b> on <i>&quot;Mean Fiel Approximations&quot;</i><br>
+</div>
+<div id='info17' class='talkinfo' style='display: none' >
+<b>Date: </b>16/03/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/Warrerl_Mean_field_approximation_summary.pptx">Mean Feild Approximations </a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn18' class='javabtn' border='0' onclick='ToggleDetails(btn18,info18)'>
+</span>
+16/03/2012, <b>Vibhav Vineet (Oxford Brookes University)</b> on <i>&quot;Bilateral Filterinng&quot;</i><br>
+</div>
+<div id='info18' class='talkinfo' style='display: none' >
+<b>Date: </b>16/03/2012<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/Vibhav_03_definition_bf.ppt">Efficient Bilateral Filtering</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/vibhav_06_implementation.ppt">Bilateral Filtering</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn19' class='javabtn' border='0' onclick='ToggleDetails(btn19,info19)'>
+</span>
+09/03/2012, <b>Dr Patrick Perez  (Technicolor)</b> on <i>&quot;Visual search&quot;</i><br>
+</div>
+<div id='info19' class='talkinfo' style='display: none' >
+<b>Date: </b>09/03/2012<br>
+<b>Time: </b>1:00pm<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn20' class='javabtn' border='0' onclick='ToggleDetails(btn20,info20)'>
+</span>
+02/12/2011, <b>Mr Vibhav Vineet(Oxford Brookes University)</b> on <i>&quot;Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials&quot;</i><br>
+</div>
+<div id='info20' class='talkinfo' style='display: none' >
+<b>Date: </b>02/12/2011<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://graphics.stanford.edu/projects/densecrf/densecrf.pdf">Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials</a></p><p>  <a href="http://graphics.stanford.edu/projects/densecrf/densecrf-supplement.pdf"></a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn21' class='javabtn' border='0' onclick='ToggleDetails(btn21,info21)'>
+</span>
+02/12/2011, <b>Mr Julien Valentin(Oxford Brookes University)</b> on <i>&quot;KinectFusion: Real-Time Dense Surface Mapping and Tracking&quot;</i><br>
+</div>
+<div id='info21' class='talkinfo' style='display: none' >
+<b>Date: </b>02/12/2011<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://research.microsoft.com/apps/pubs/default.aspx?id=155378">KinectFusion: Real-Time Dense Surface Mapping and Tracking</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn22' class='javabtn' border='0' onclick='ToggleDetails(btn22,info22)'>
+</span>
+07/11/2011, <b>Dr Mikelis Bickis (University of Saskatchewan, Canada)</b> on <i>&quot;The geometry of imprecise updating&quot;</i><br>
+</div>
+<div id='info22' class='talkinfo' style='display: none' >
+<b>Date: </b>07/11/2011<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn23' class='javabtn' border='0' onclick='ToggleDetails(btn23,info23)'>
+</span>
+25/10/2011, <b>Jose Manuel Alvarez (Computer Vision Center, Barcelona)</b> on <i>&quot; Cues and Priors for Vision-based Road Detection&quot;</i><br>
+</div>
+<div id='info23' class='talkinfo' style='display: none' >
+<b>Date: </b>25/10/2011<br>
+<b>Time: </b>1:30pm<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn24' class='javabtn' border='0' onclick='ToggleDetails(btn24,info24)'>
+</span>
+04/10/2011, <b>Shuai Kyle Zheng (Oxford Brookes University)</b> on <i>&quot;Image Classification and Object Detection&quot;</i><br>
+</div>
+<div id='info24' class='talkinfo' style='display: none' >
+<b>Date: </b>04/10/2011<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn25' class='javabtn' border='0' onclick='ToggleDetails(btn25,info25)'>
+</span>
+23/09/2011, <b>Vibhav Vineet (Oxford Brookes University)</b> on <i>&quot;Discriminative Models for Multi-Class Object Layout&quot;</i><br>
+</div>
+<div id='info25' class='talkinfo' style='display: none' >
+<b>Date: </b>23/09/2011<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn26' class='javabtn' border='0' onclick='ToggleDetails(btn26,info26)'>
+</span>
+21/09/2011, <b>Ziming Zhang (Oxford University)</b> on <i>&quot;BRIEF: Binary Robust Independent Elementary Features&quot;</i><br>
+</div>
+<div id='info26' class='talkinfo' style='display: none' >
+<b>Date: </b>21/09/2011<br>
+<b>Time: </b>10:30am<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn27' class='javabtn' border='0' onclick='ToggleDetails(btn27,info27)'>
+</span>
+19/07/2011, <b>Dr Ognjen Arandjelovic (University of Cambridge)</b></div>
+<div id='info27' class='talkinfo' style='display: none' >
+<b>Date: </b>19/07/2011<br>
+<b>Time: </b>10:00am<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn28' class='javabtn' border='0' onclick='ToggleDetails(btn28,info28)'>
+</span>
+19/07/2011, <b>Dr Fabio Cuzzolin (Oxford Brookes University)</b></div>
+<div id='info28' class='talkinfo' style='display: none' >
+<b>Date: </b>19/07/2011<br>
+<b>Time: </b>10:45am<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn29' class='javabtn' border='0' onclick='ToggleDetails(btn29,info29)'>
+</span>
+19/07/2011, <b>Teofilo Emidio de Campos (Oxford University)</b></div>
+<div id='info29' class='talkinfo' style='display: none' >
+<b>Date: </b>19/07/2011<br>
+<b>Time: </b>11:30am<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn30' class='javabtn' border='0' onclick='ToggleDetails(btn30,info30)'>
+</span>
+18/07/2011, <b>Dr Jonathan Warrel (Oxford Brookes University)</b> on <i>&quot;EMMCVPR Practice Talk&quot;</i><br>
+</div>
+<div id='info30' class='talkinfo' style='display: none' >
+<b>Date: </b>18/07/2011<br>
+<b>Time: </b>4:30pm<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn31' class='javabtn' border='0' onclick='ToggleDetails(btn31,info31)'>
+</span>
+21/06/2011, <b>Lubor Ladicky (Oxford University)</b> on <i>&quot;Locally Linear Support Vector Machines&quot;</i><br>
+</div>
+<div id='info31' class='talkinfo' style='display: none' >
+<b>Date: </b>21/06/2011<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T221
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/staff/PhilipTorr/Papers/2011/LadickyTorrICML11.pdf">ICML 2011 Paper (oral)</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn32' class='javabtn' border='0' onclick='ToggleDetails(btn32,info32)'>
+</span>
+21/06/2011, <b>Lubor Ladicky (Oxford University)</b> on <i>&quot;Practise MSR/Google technical talks&quot;</i><br>
+</div>
+<div id='info32' class='talkinfo' style='display: none' >
+<b>Date: </b>21/06/2011<br>
+<b>Time: </b>2:30pm<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn33' class='javabtn' border='0' onclick='ToggleDetails(btn33,info33)'>
+</span>
+21/06/2011, <b>Jonathan Warrell (Oxford Brookes University)</b> on <i>&quot;EMMCVPR Submission&quot;</i><br>
+</div>
+<div id='info33' class='talkinfo' style='display: none' >
+<b>Date: </b>21/06/2011<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn34' class='javabtn' border='0' onclick='ToggleDetails(btn34,info34)'>
+</span>
+17/06/2011, <b>Victor Adrian Prisacariu (Oxford University)</b> on <i>&quot;Nonlinear Shape Manifolds as Shape Priors in Level Set Segmentation and Tracking&quot;</i><br>
+</div>
+<div id='info34' class='talkinfo' style='display: none' >
+<b>Date: </b>17/06/2011<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T221
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/victor_17_6_11.txt">Victor practice CVPR 2011 Talk</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn35' class='javabtn' border='0' onclick='ToggleDetails(btn35,info35)'>
+</span>
+17/06/2011, <b>Ben Benfold (Oxford University)</b> on <i>&quot;Stable Multi-Target Tracking in Real-Time Surveillance Video&quot;</i><br>
+</div>
+<div id='info35' class='talkinfo' style='display: none' >
+<b>Date: </b>17/06/2011<br>
+<b>Time: </b>3:30pm<br>
+<b>Location: </b>T221
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/ben_17_6_11.txt">Ben practice CVPR 2011 Talk</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn36' class='javabtn' border='0' onclick='ToggleDetails(btn36,info36)'>
+</span>
+10/06/2011, <b>Sundando Sengupta (Oxford Brookes University)</b> on <i>&quot;Overview of the Pascal Challenge&quot;</i><br>
+</div>
+<div id='info36' class='talkinfo' style='display: none' >
+<b>Date: </b>10/06/2011<br>
+<b>Time: </b>3:40pm<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn37' class='javabtn' border='0' onclick='ToggleDetails(btn37,info37)'>
+</span>
+10/06/2011, <b>Julien Valentin (Oxford Brookes University)</b> on <i>&quot;Highlights of winning entries in the Pascal segmentation challenge&quot;</i><br>
+</div>
+<div id='info37' class='talkinfo' style='display: none' >
+<b>Date: </b>10/06/2011<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn38' class='javabtn' border='0' onclick='ToggleDetails(btn38,info38)'>
+</span>
+03/06/2011, <b>Vibhav Vineet and Jonathan Warrell (Oxford Brookes University)</b> on <i>&quot;Dual Decomposition Methods&quot;</i><br>
+</div>
+<div id='info38' class='talkinfo' style='display: none' >
+<b>Date: </b>03/06/2011<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T221
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/rg_june_03_2011_ddm/DualDecomposition_PAMI.pdf">Introduction Paper</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/rg_june_03_2011_ddm/global_perspective_for_map_inference.pdf">Application paper</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn39' class='javabtn' border='0' onclick='ToggleDetails(btn39,info39)'>
+</span>
+27/05/2011, <b>Julien Valentin (Oxford Brookes University)</b> on <i>&quot;Review of MRG's work&quot;</i><br>
+</div>
+<div id='info39' class='talkinfo' style='display: none' >
+<b>Date: </b>27/05/2011<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T221
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.robots.ox.ac.uk/~mobile/wikisite/pmwiki/pmwiki.php?n=Main.Publications">Website</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn40' class='javabtn' border='0' onclick='ToggleDetails(btn40,info40)'>
+</span>
+27/05/2011, <b>Natasha Govender (Oxford Brookes University)</b> on <i>&quot;Review of current work&quot;</i><br>
+</div>
+<div id='info40' class='talkinfo' style='display: none' >
+<b>Date: </b>27/05/2011<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn41' class='javabtn' border='0' onclick='ToggleDetails(btn41,info41)'>
+</span>
+20/05/2011, <b>Sunando Sengupta (Oxford Brookes University)</b> on <i>&quot;fastHOG&quot;</i><br>
+</div>
+<div id='info41' class='talkinfo' style='display: none' >
+<b>Date: </b>20/05/2011<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.robots.ox.ac.uk/~lav/Papers/prisacariu_reid_tr2310_09/prisacariu_reid_tr2310_09.html">Website</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn42' class='javabtn' border='0' onclick='ToggleDetails(btn42,info42)'>
+</span>
+20/05/2011, <b>Vibhav Vineet (Oxford Brookes University)</b> on <i>&quot;Graph cuts on GPU&quot;</i><br>
+</div>
+<div id='info42' class='talkinfo' style='display: none' >
+<b>Date: </b>20/05/2011<br>
+<b>Time: </b>3:30pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn43' class='javabtn' border='0' onclick='ToggleDetails(btn43,info43)'>
+</span>
+20/05/2011, <b>Julien Valentine (Oxford Brookes University)</b> on <i>&quot;FABMAP&quot;</i><br>
+</div>
+<div id='info43' class='talkinfo' style='display: none' >
+<b>Date: </b>20/05/2011<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.robots.ox.ac.uk/~mobile/wikisite/pmwiki/pmwiki.php?n=Software.FABMAP">Software page</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn44' class='javabtn' border='0' onclick='ToggleDetails(btn44,info44)'>
+</span>
+12/05/2011, <b>Ziming Zhang (Oxford Brookes University)</b> on <i>&quot;Recent advances in local coordinate coding&quot;</i><br>
+</div>
+<div id='info44' class='talkinfo' style='display: none' >
+<b>Date: </b>12/05/2011<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T221
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://ufldl.stanford.edu/eccv10-tutorial/">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn45' class='javabtn' border='0' onclick='ToggleDetails(btn45,info45)'>
+</span>
+12/05/2011, <b>Lubor Ladicky (Oxford University)</b> on <i>&quot;Locally Linear Support Vector Machines&quot;</i><br>
+</div>
+<div id='info45' class='talkinfo' style='display: none' >
+<b>Date: </b>12/05/2011<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T221
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/staff/PhilipTorr/Papers/2011/LadickyTorrICML11.pdf">ICML 2011 Paper (oral)</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn46' class='javabtn' border='0' onclick='ToggleDetails(btn46,info46)'>
+</span>
+29/09/2010, <b>Natasha Govender (Oxford Brookes University)</b> on <i>&quot;Active Object Verification using Vocabulary Trees&quot;</i><br>
+</div>
+<div id='info46' class='talkinfo' style='display: none' >
+<b>Date: </b>29/09/2010<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/ng_sept_29_2010_abstract.txt">Abstract</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn47' class='javabtn' border='0' onclick='ToggleDetails(btn47,info47)'>
+</span>
+27/09/2010, <b>Ingmar Posner</b> on <i>&quot;Where's What? - Towards Semantic Mapping of Urban environments&quot;</i><br>
+</div>
+<div id='info47' class='talkinfo' style='display: none' >
+<b>Date: </b>27/09/2010<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/ip_sept_27_2010_abstract.txt">Abstract</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn48' class='javabtn' border='0' onclick='ToggleDetails(btn48,info48)'>
+</span>
+18/08/2010, <b>Amir Saffari </b> on <i>&quot;Semi-Supervised Learning in Vision&quot;</i><br>
+</div>
+<div id='info48' class='talkinfo' style='display: none' >
+<b>Date: </b>18/08/2010<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.ymer.org/amir/research/semi-supervised-learning-in-vision-cvpr-2010-tutorial/">Tutorial</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn49' class='javabtn' border='0' onclick='ToggleDetails(btn49,info49)'>
+</span>
+23/07/2010, <b>Ziming Zhang (Oxford Brookes University)</b> on <i>&quot;AdaMKL: A Novel Biconvex Multiple Kernel Learning Approach&quot;</i><br>
+</div>
+<div id='info49' class='talkinfo' style='display: none' >
+<b>Date: </b>23/07/2010<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/ziming_icpr_2010_AdaMKL.pdf">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn50' class='javabtn' border='0' onclick='ToggleDetails(btn50,info50)'>
+</span>
+20/05/2010, <b>Andrea Fossati (EPFL - Computer Vision Laboratory)</b> on <i>&quot;Priors for 3D Human Body Tracking&quot;</i><br>
+</div>
+<div id='info50' class='talkinfo' style='display: none' >
+<b>Date: </b>20/05/2010<br>
+<b>Time: </b>12:00pm<br>
+<b>Location: </b>T221
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/af_may_2010_abstract.txt">Abstract</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn51' class='javabtn' border='0' onclick='ToggleDetails(btn51,info51)'>
+</span>
+28/04/2010, <b>Dr Linda Brown (University of Nottingham)</b> on <i>&quot;Taking the energy out of motion&quot;</i><br>
+</div>
+<div id='info51' class='talkinfo' style='display: none' >
+<b>Date: </b>28/04/2010<br>
+<b>Time: </b>12:00pm<br>
+<b>Location: </b>T216
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/linda_brown_abstract_28_04_10.txt">Abstract</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn52' class='javabtn' border='0' onclick='ToggleDetails(btn52,info52)'>
+</span>
+15/01/2010, <b>Sara Vicente (University College London)</b> on <i>&quot;Joint optimization of segmentation and appearance models&quot;</i><br>
+</div>
+<div id='info52' class='talkinfo' style='display: none' >
+<b>Date: </b>15/01/2010<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/sara_vicente_jan_15_2010_abstract.txt">Abstract</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn53' class='javabtn' border='0' onclick='ToggleDetails(btn53,info53)'>
+</span>
+11/12/2009, <b>Sam Hare (Oxford Brookes Univeristy)</b> on <i>&quot;'Multiple Instance Learning: Algorithms and Applications' and 'Object Detection with Discriminatively Trained Part Based Models'&quot;</i><br>
+</div>
+<div id='info53' class='talkinfo' style='display: none' >
+<b>Date: </b>11/12/2009<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T221
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/rg_dec_11_09">Papers</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn54' class='javabtn' border='0' onclick='ToggleDetails(btn54,info54)'>
+</span>
+09/12/2009, <b>Tom Shannon (Vicon)</b> on <i>&quot;Capturing Memories&quot;</i><br>
+</div>
+<div id='info54' class='talkinfo' style='display: none' >
+<b>Date: </b>09/12/2009<br>
+<b>Time: </b>12:00pm<br>
+<b>Location: </b>T221
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/tom_shannon_dec_09_09.txt">Abstract</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn55' class='javabtn' border='0' onclick='ToggleDetails(btn55,info55)'>
+</span>
+04/12/2009, <b>Lubor Ladicky (Oxford Brookes University)</b> on <i>&quot;Nonlinear Learning using Local Coordinate Coding&quot;</i><br>
+</div>
+<div id='info55' class='talkinfo' style='display: none' >
+<b>Date: </b>04/12/2009<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/rg_dec_09_nonlinear_learning">Papers</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn56' class='javabtn' border='0' onclick='ToggleDetails(btn56,info56)'>
+</span>
+30/10/2009, <b>Sam Hare (Oxford Brookes University)</b> on <i>&quot;Max-Margin Additive Classifiers for Detection&quot;</i><br>
+</div>
+<div id='info56' class='talkinfo' style='display: none' >
+<b>Date: </b>30/10/2009<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>MR4, IEB, Oxford University
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/sam_rg_30_oct_09_slides.pdf">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn57' class='javabtn' border='0' onclick='ToggleDetails(btn57,info57)'>
+</span>
+30/10/2009, <b>Nick Lord (Sony)</b> on <i>&quot;Compact Signatures for High-speed Interest Point Description and Matching&quot;</i><br>
+</div>
+<div id='info57' class='talkinfo' style='display: none' >
+<b>Date: </b>30/10/2009<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>MR4, IEB, Oxford University
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/nick_lord_CompactSignaturesPresentation.ppt">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn58' class='javabtn' border='0' onclick='ToggleDetails(btn58,info58)'>
+</span>
+14/10/2009, <b>Greg Rogez (Oxford Brookes University)</b> on <i>&quot;Randomized forrests for human pose detection&quot;</i><br>
+</div>
+<div id='info58' class='talkinfo' style='display: none' >
+<b>Date: </b>14/10/2009<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T221
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn59' class='javabtn' border='0' onclick='ToggleDetails(btn59,info59)'>
+</span>
+03/09/2009, <b>Sandor Szedmak (University of Southampton)</b> on <i>&quot;Learning structured outputs efficiently via maximum margins&quot;</i><br>
+</div>
+<div id='info59' class='talkinfo' style='display: none' >
+<b>Date: </b>03/09/2009<br>
+<b>Time: </b>11:00am<br>
+<b>Location: </b>T216
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/sandor_mmr_0909.pdf">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn60' class='javabtn' border='0' onclick='ToggleDetails(btn60,info60)'>
+</span>
+03/09/2009, <b>Jonathan Warrell (University College London)</b> on <i>&quot;Representing Object-level Knowledge for Segmentation and Image Parsing: Epitome Priors and Bayesian supervised clustering approaches&quot;</i><br>
+</div>
+<div id='info60' class='talkinfo' style='display: none' >
+<b>Date: </b>03/09/2009<br>
+<b>Time: </b>2:30pm<br>
+<b>Location: </b>T216
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/warrell_0909.pptx">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn61' class='javabtn' border='0' onclick='ToggleDetails(btn61,info61)'>
+</span>
+06/08/2009, <b>Chris Russell (Oxford Brookes University)</b> on <i>&quot;Normalized Cuts&quot;</i><br>
+</div>
+<div id='info61' class='talkinfo' style='display: none' >
+<b>Date: </b>06/08/2009<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/rg_august_09_normalized_cuts">Papers</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn62' class='javabtn' border='0' onclick='ToggleDetails(btn62,info62)'>
+</span>
+06/08/2009, <b>Sam Hare (Oxford Brookes University)</b> on <i>&quot;19 Facts About Faces and a Comparison of High Dimensional Classifiers&quot;</i><br>
+</div>
+<div id='info62' class='talkinfo' style='display: none' >
+<b>Date: </b>06/08/2009<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/rg_august_09_normalized_cuts">Papers</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn63' class='javabtn' border='0' onclick='ToggleDetails(btn63,info63)'>
+</span>
+30/07/2009, <b>Chris Russell (Oxford Brookes University)</b> on <i>&quot;Semi-Supervised Learning&quot;</i><br>
+</div>
+<div id='info63' class='talkinfo' style='display: none' >
+<b>Date: </b>30/07/2009<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/rg_july_09_ss_learning/">Papers</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn64' class='javabtn' border='0' onclick='ToggleDetails(btn64,info64)'>
+</span>
+23/07/2009, <b>Lubor Ladicky (Oxford Brookes University)</b> on <i>&quot;Boosting&quot;</i><br>
+</div>
+<div id='info64' class='talkinfo' style='display: none' >
+<b>Date: </b>23/07/2009<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn65' class='javabtn' border='0' onclick='ToggleDetails(btn65,info65)'>
+</span>
+18/06/2009, <b>Dr. Vittorio Ferrari</b> on <i>&quot;2D Human Pose Estimation and Search in (almost) Unconstrained Video&quot;</i><br>
+</div>
+<div id='info65' class='talkinfo' style='display: none' >
+<b>Date: </b>18/06/2009<br>
+<b>Time: </b>12:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/vitto_abstract_18_6_09.txt">Abstract</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/vittorio_brookes_18_6_09.ppt">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn66' class='javabtn' border='0' onclick='ToggleDetails(btn66,info66)'>
+</span>
+10/06/2009, <b>Professor Steffen Lauritzen (University of Oxford)</b> on <i>&quot;Aspects of Local Computation&quot;</i><br>
+</div>
+<div id='info66' class='talkinfo' style='display: none' >
+<b>Date: </b>10/06/2009<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T221
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/lauritzen_brookes.pdf">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn67' class='javabtn' border='0' onclick='ToggleDetails(btn67,info67)'>
+</span>
+22/05/2009, <b>Paul Sturgess (Oxford Brookes University)</b> on <i>&quot;BMVC 09 Work&quot;</i><br>
+</div>
+<div id='info67' class='talkinfo' style='display: none' >
+<b>Date: </b>22/05/2009<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn68' class='javabtn' border='0' onclick='ToggleDetails(btn68,info68)'>
+</span>
+26/03/2009, <b>Jon Rihan and David Jarzebowski</b> on <i>&quot;Nearest Neighbour Search&quot;</i><br>
+</div>
+<div id='info68' class='talkinfo' style='display: none' >
+<b>Date: </b>26/03/2009<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.cs.ubc.ca/~lowe/papers/09muja.pdf">Fast approximate nearest neighbors with automatic algorithm configuration</a></p><p>  <a href="http://www.cs.ubc.ca/~lowe/papers/cvpr97.pdf">Shape Indexing Using Approximate Nearest-Neighbour Search in High-Dimensional Spaces</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/hartley/kdtrees_camera_ready-2.pdf">Optimised KD-trees for fast image descriptor matching</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn69' class='javabtn' border='0' onclick='ToggleDetails(btn69,info69)'>
+</span>
+20/03/2009, <b>Nigel Crook (University of Oxford)</b> on <i>&quot;Dirichlet Processes in Dialogue Modelling&quot;</i><br>
+</div>
+<div id='info69' class='talkinfo' style='display: none' >
+<b>Date: </b>20/03/2009<br>
+<b>Time: </b>12:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/crook/ncrook_march_09.ppt">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn70' class='javabtn' border='0' onclick='ToggleDetails(btn70,info70)'>
+</span>
+30/01/2009, <b>Catherine Hobbs</b> on <i>&quot;Singularity Theory and Applications&quot;</i><br>
+</div>
+<div id='info70' class='talkinfo' style='display: none' >
+<b>Date: </b>30/01/2009<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>T216
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/catherine_hobbs/Singularity Theory and Applications.ppt">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn71' class='javabtn' border='0' onclick='ToggleDetails(btn71,info71)'>
+</span>
+26/01/2009, <b>Fabio Cuzzolin</b> on <i>&quot;Bilinear modeling for robust action/identity recognition from gait&quot;</i><br>
+</div>
+<div id='info71' class='talkinfo' style='display: none' >
+<b>Date: </b>26/01/2009<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/fabio/fabio_brookes_260109.ppt">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn72' class='javabtn' border='0' onclick='ToggleDetails(btn72,info72)'>
+</span>
+21/01/2009, <b>Fabio Cuzzolin</b> on <i>&quot;Coherent Laplacian 3D protrusion segmentation&quot;</i><br>
+</div>
+<div id='info72' class='talkinfo' style='display: none' >
+<b>Date: </b>21/01/2009<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T216
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/fabio/fabio_slides_210109.ppt">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn73' class='javabtn' border='0' onclick='ToggleDetails(btn73,info73)'>
+</span>
+06/10/2008, <b>Pawan Kumar (University of Oxford)</b> on <i>&quot;NIPS work&quot;</i><br>
+</div>
+<div id='info73' class='talkinfo' style='display: none' >
+<b>Date: </b>06/10/2008<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn74' class='javabtn' border='0' onclick='ToggleDetails(btn74,info74)'>
+</span>
+03/10/2008, <b>Nick Lord (Sony)</b> on <i>&quot;Kernel Methods Tutorial&quot;</i><br>
+</div>
+<div id='info74' class='talkinfo' style='display: none' >
+<b>Date: </b>03/10/2008<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn75' class='javabtn' border='0' onclick='ToggleDetails(btn75,info75)'>
+</span>
+02/10/2008, <b>Lubor Ladicky (Oxofrd Brookes University)</b> on <i>&quot;Pascal Challenge&quot;</i><br>
+</div>
+<div id='info75' class='talkinfo' style='display: none' >
+<b>Date: </b>02/10/2008<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn76' class='javabtn' border='0' onclick='ToggleDetails(btn76,info76)'>
+</span>
+15/08/2008, <b>Jon Rihan (Oxford Brookes University)</b> on <i>&quot;Vincent Lepetit and Pascal Fua on 'A fast local descriptor for dense matching'&quot;</i><br>
+</div>
+<div id='info76' class='talkinfo' style='display: none' >
+<b>Date: </b>15/08/2008<br>
+<b>Time: </b>3:30pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/rihan/tola_lepetit_fua_fast_local_descriptor_for_dense_matching.pdf">A fast local descriptor for dense matching</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn77' class='javabtn' border='0' onclick='ToggleDetails(btn77,info77)'>
+</span>
+15/08/2008, <b>Chris Russel (Oxford Brookes University)</b> on <i>&quot;Cosegmentation of Image Pairs by Histogram Matching - Incorporating a Global Constraint into MRFs&quot;</i><br>
+</div>
+<div id='info77' class='talkinfo' style='display: none' >
+<b>Date: </b>15/08/2008<br>
+<b>Time: </b>4:30pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://research.microsoft.com/research/pubs/view.aspx?type=Technical%20Report&id=1080">Technical Report</a></p><p>  <a href="http://research.microsoft.com/vision/cambridge/papers/carrot_CVPR06.pdf">Short version</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn78' class='javabtn' border='0' onclick='ToggleDetails(btn78,info78)'>
+</span>
+07/08/2008, <b>Lubor Ladicky (Oxford Brookes University)</b> on <i>&quot;Jamie Shotton, Matthew Johnson, Roberto Cipolla : 'Semantic Texton Forests for Image Categorization and Segmentation' and Zhuowen Tu : 'Auto-context and Its application to High-level Vision Tasks'&quot;</i><br>
+</div>
+<div id='info78' class='talkinfo' style='display: none' >
+<b>Date: </b>07/08/2008<br>
+<b>Time: </b>5:00pm<br>
+<b>Location: </b>T216
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.loni.ucla.edu/~ztu/publication/auto_cvpr08.pdf">Auto-context and Its application to High-level Vision Tasks</a></p><p>  <a href="http://jamie.shotton.org/work/publications/cvpr08.pdf">Semantic Texton Forests for Image Categorization and Segmentation</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn79' class='javabtn' border='0' onclick='ToggleDetails(btn79,info79)'>
+</span>
+02/07/2008, <b>Pawan Kumar (University of Oxford)</b> on <i>&quot;Efficiently Solving Convex Relaxations for MAP Estimation&quot;</i><br>
+</div>
+<div id='info79' class='talkinfo' style='display: none' >
+<b>Date: </b>02/07/2008<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>T216
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn80' class='javabtn' border='0' onclick='ToggleDetails(btn80,info80)'>
+</span>
+20/06/2008, <b>Robby Tan (Imperial College London)</b> on <i>&quot;Color Analysis in Computer Vision&quot;</i><br>
+</div>
+<div id='info80' class='talkinfo' style='display: none' >
+<b>Date: </b>20/06/2008<br>
+<b>Time: </b>1:00pm<br>
+<b>Location: </b>Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn81' class='javabtn' border='0' onclick='ToggleDetails(btn81,info81)'>
+</span>
+19/06/2008, <b>Fabio Cuzzolin (INRIA)</b> on <i>&quot;Machine learning methods and imprecise probabilities for computer vision&quot;</i><br>
+</div>
+<div id='info81' class='talkinfo' style='display: none' >
+<b>Date: </b>19/06/2008<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn82' class='javabtn' border='0' onclick='ToggleDetails(btn82,info82)'>
+</span>
+19/06/2008, <b>Edward Rosten (Los Alamos National Laboratory)</b> on <i>&quot;Faster and Better: A Machine Learning Approach to Corner Detection&quot;</i><br>
+</div>
+<div id='info82' class='talkinfo' style='display: none' >
+<b>Date: </b>19/06/2008<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn83' class='javabtn' border='0' onclick='ToggleDetails(btn83,info83)'>
+</span>
+14/05/2008, <b>Gregory Rogez (University of Zaragoza)</b> on <i>&quot;Randomized Trees for Human Pose Detection&quot;</i><br>
+</div>
+<div id='info83' class='talkinfo' style='display: none' >
+<b>Date: </b>14/05/2008<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/staff/PhilipTorr/Papers/2008/CVPR08/CVPR2008-RandomForest.pdf">Paper</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/files/random_trees_for_human_pose_detection-talk.pdf">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn84' class='javabtn' border='0' onclick='ToggleDetails(btn84,info84)'>
+</span>
+29/04/2008, <b>Paul Sturgess (Oxford Brookes University)</b> on <i>&quot;An introduction to the acclaimed PASCAL Visual Object Classes Recognition Challenge and a Presentation on Local Features and Kernels for Classification of Texture and Object Categories&quot;</i><br>
+</div>
+<div id='info84' class='talkinfo' style='display: none' >
+<b>Date: </b>29/04/2008<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T16, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.pascal-network.org/challenges/VOC/">Website</a></p><p>  <a href="http://www.dcs.qmul.ac.uk/~jgzhang/publications/zhang_ijcv06.pdf">Paper</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn85' class='javabtn' border='0' onclick='ToggleDetails(btn85,info85)'>
+</span>
+15/04/2008, <b>Stanislav Zivy (University of Oxford)</b> on <i>&quot;(Submodular) Valued Constraints&quot;</i><br>
+</div>
+<div id='info85' class='talkinfo' style='display: none' >
+<b>Date: </b>15/04/2008<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T221, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/files/zivny_slides_04_08.pdf">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn86' class='javabtn' border='0' onclick='ToggleDetails(btn86,info86)'>
+</span>
+22/02/2008, <b>Karteek Alahari (Oxford Brookes University)</b> on <i>&quot;MRF Optimization via Dual Decomposition: Message-Passing Revisited&quot;</i><br>
+</div>
+<div id='info86' class='talkinfo' style='display: none' >
+<b>Date: </b>22/02/2008<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.csd.uoc.gr/~komod/publications/docs/ICCV07_Dual_Decomposition.pdf">Paper</a></p><p>  <a href="http://www.csd.uoc.gr/~komod/publications/docs/Dual_Decomposition_TR.pdf
+"></a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn87' class='javabtn' border='0' onclick='ToggleDetails(btn87,info87)'>
+</span>
+19/02/2008, <b>Srikumar Ramalingam (Oxford Brookes University)</b> on <i>&quot;Preprocessing of Unconstrained Quadratic Binary Optimization&quot;</i><br>
+</div>
+<div id='info87' class='talkinfo' style='display: none' >
+<b>Date: </b>19/02/2008<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://rutcor.rutgers.edu/pub/rrr/reports2006/10_2006.pdf">Paper</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn88' class='javabtn' border='0' onclick='ToggleDetails(btn88,info88)'>
+</span>
+15/02/2008, <b>Chris Russel (Oxford Brookes University)</b> on <i>&quot;A Linear Programming Approach to Max-sum Problem: A Review&quot;</i><br>
+</div>
+<div id='info88' class='talkinfo' style='display: none' >
+<b>Date: </b>15/02/2008<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="ftp://cmp.felk.cvut.cz/pub/cmp/articles/werner/Werner-PAMI-2007.pdf">Paper</a></p></blockquote><p><b>Resources:</b></p><blockquote><p>  <a href="ftp://cmp.felk.cvut.cz/pub/cmp/articles/werner/Werner-maxsum-slides-2006.pdf">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn89' class='javabtn' border='0' onclick='ToggleDetails(btn89,info89)'>
+</span>
+28/09/2007, <b>Srikumar Ramalingam (Oxford Brookes)</b> on <i>&quot;Pseudo Boolean Optimization&quot;</i><br>
+</div>
+<div id='info89' class='talkinfo' style='display: none' >
+<b>Date: </b>28/09/2007<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn90' class='javabtn' border='0' onclick='ToggleDetails(btn90,info90)'>
+</span>
+25/09/2007, <b>Jose Maria Martinez Montiel (University of Zaragoza)</b> on <i>&quot;Inverse Depth Monocular SLAM&quot;</i><br>
+</div>
+<div id='info90' class='talkinfo' style='display: none' >
+<b>Date: </b>25/09/2007<br>
+<b>Time: </b>12:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/montiel/civera_icra07.pdf">Paper</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/montiel/ICRA06Final.pdf">Paper</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/montiel/montiel_rss06.pdf">Paper</a></p></blockquote><p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/montiel/InverseDepthMonocularSLAM.pdf">Paper</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/montiel/inverseDepth_indoor.avi">http://cms.brookes.ac.uk/research/visiongroup/talks/montiel/inverseDepth_indoor.avi</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/montiel/inverseDepth_outdoor.avi">http://cms.brookes.ac.uk/research/visiongroup/talks/montiel/inverseDepth_outdoor.avi</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/montiel/inverseDepth_loopClosing.avi">http://cms.brookes.ac.uk/research/visiongroup/talks/montiel/inverseDepth_loopClosing.avi</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn91' class='javabtn' border='0' onclick='ToggleDetails(btn91,info91)'>
+</span>
+22/09/2007, <b>Michael J. Black (Brown University)</b> on <i>&quot;Fields of Experts: High-order Markov Random Field Models of Natural Scenes&quot;</i><br>
+</div>
+<div id='info91' class='talkinfo' style='display: none' >
+<b>Date: </b>22/09/2007<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn92' class='javabtn' border='0' onclick='ToggleDetails(btn92,info92)'>
+</span>
+16/09/2007, <b>Srikumar Ramalingam (Oxford Brookes) and Gregory Rogez (University of Zaragoza)</b> on <i>&quot;LSH and PSH&quot;</i><br>
+</div>
+<div id='info92' class='talkinfo' style='display: none' >
+<b>Date: </b>16/09/2007<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn93' class='javabtn' border='0' onclick='ToggleDetails(btn93,info93)'>
+</span>
+10/09/2007, <b>Olly Woodford (University of Oxford)</b> on <i>&quot;On New View Synthesis Using Multiview Stereo&quot;</i><br>
+</div>
+<div id='info93' class='talkinfo' style='display: none' >
+<b>Date: </b>10/09/2007<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn94' class='javabtn' border='0' onclick='ToggleDetails(btn94,info94)'>
+</span>
+31/08/2007, <b>Carl Henrik Ek (Oxford Brookes)</b> on <i>&quot;Dimensionality Reduction&quot;</i><br>
+</div>
+<div id='info94' class='talkinfo' style='display: none' >
+<b>Date: </b>31/08/2007<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>LR6, IE Building, University of Oxford
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/ek/cvrg.pdf">Slides</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/ek/cvrg_code.tar.gz">Code</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn95' class='javabtn' border='0' onclick='ToggleDetails(btn95,info95)'>
+</span>
+16/08/2007, <b>Daniel Cremers (University of Bonn)</b> on <i>&quot;Continuous and Discrete Optimization Methods in Computer Vision&quot;</i><br>
+</div>
+<div id='info95' class='talkinfo' style='display: none' >
+<b>Date: </b>16/08/2007<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/cremers/cremers_oxford07.pdf">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn96' class='javabtn' border='0' onclick='ToggleDetails(btn96,info96)'>
+</span>
+01/08/2007, <b>Gregory Rogez (University of Zaragoza)</b> on <i>&quot;A Spatio-temporal 2D-Models Framework for Human Motion Analysis in Monocular Gait Sequences&quot;</i><br>
+</div>
+<div id='info96' class='talkinfo' style='display: none' >
+<b>Date: </b>01/08/2007<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/rogez/Brookes_010807.ppt">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn97' class='javabtn' border='0' onclick='ToggleDetails(btn97,info97)'>
+</span>
+31/07/2007, <b>Richard Hartley (Australian National University)</b> on <i>&quot;Convex Optimisation for Geometric Problems&quot;</i><br>
+</div>
+<div id='info97' class='talkinfo' style='display: none' >
+<b>Date: </b>31/07/2007<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn98' class='javabtn' border='0' onclick='ToggleDetails(btn98,info98)'>
+</span>
+17/07/2007, <b>Anton van den Hengel (University of Adelaide)</b> on <i>&quot;Rapid interactive scene modelling from video&quot;</i><br>
+</div>
+<div id='info98' class='talkinfo' style='display: none' >
+<b>Date: </b>17/07/2007<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn99' class='javabtn' border='0' onclick='ToggleDetails(btn99,info99)'>
+</span>
+16/07/2007, <b>Carl Ek (Oxford Brookes)</b> on <i>&quot;Dimensionality Reduction for Data Consolidation&quot;</i><br>
+</div>
+<div id='info99' class='talkinfo' style='display: none' >
+<b>Date: </b>16/07/2007<br>
+<b>Time: </b>5:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn100' class='javabtn' border='0' onclick='ToggleDetails(btn100,info100)'>
+</span>
+15/06/2007, <b>Daniel Huttenlocher (Cornell  University)</b> on <i>&quot;The Formation and Evolution of Groups in Large Social Networks&quot;</i><br>
+</div>
+<div id='info100' class='talkinfo' style='display: none' >
+<b>Date: </b>15/06/2007<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn101' class='javabtn' border='0' onclick='ToggleDetails(btn101,info101)'>
+</span>
+25/05/2007, <b>Daniel Huttenlocher (Cornell  University)</b> on <i>&quot;Learning and Recognizing Visual Object Categories Without Detecting Features&quot;</i><br>
+</div>
+<div id='info101' class='talkinfo' style='display: none' >
+<b>Date: </b>25/05/2007<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn102' class='javabtn' border='0' onclick='ToggleDetails(btn102,info102)'>
+</span>
+18/05/2007, <b>Lubor Ladicky (Oxford Brookes)</b> on <i>&quot;Scene understanding and higher order cliques in MRF's&quot;</i><br>
+</div>
+<div id='info102' class='talkinfo' style='display: none' >
+<b>Date: </b>18/05/2007<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn103' class='javabtn' border='0' onclick='ToggleDetails(btn103,info103)'>
+</span>
+15/05/2007, <b>Vitorrio Ferrari (University of Oxford)</b> on <i>&quot;Accurate object detection with deformable shape models learnt from images&quot;</i><br>
+</div>
+<div id='info103' class='talkinfo' style='display: none' >
+<b>Date: </b>15/05/2007<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn104' class='javabtn' border='0' onclick='ToggleDetails(btn104,info104)'>
+</span>
+09/02/2007, <b>Srikumar Ramalingam (Oxford Brookes)</b> on <i>&quot;'What Energy Functions can be Minimized via Graph Cuts?' and on 'Exact Optimization for Markov Random Fields with Convex Priors'&quot;</i><br>
+</div>
+<div id='info104' class='talkinfo' style='display: none' >
+<b>Date: </b>09/02/2007<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.cs.cornell.edu/~rdz/Papers/KZ-PAMI04.pdf">Paper</a></p><p>  <a href="http://ieeexplore.ieee.org/iel5/34/27651/01233908.pdf">Paper</a></p><p>  <a href="http://www.cs.rpi.edu/~freedd/publications/freedman_cvpr05-cuts.pdf"></a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn105' class='javabtn' border='0' onclick='ToggleDetails(btn105,info105)'>
+</span>
+26/01/2007, <b>Pushmeet Kohli (Oxford Brookes)</b> on <i>&quot;MAP estimation via agreement on (hyper)trees: Message-passing and linear-programming approaches&quot;</i><br>
+</div>
+<div id='info105' class='talkinfo' style='display: none' >
+<b>Date: </b>26/01/2007<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJaaWil05_LP.pdf">Paper</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn106' class='javabtn' border='0' onclick='ToggleDetails(btn106,info106)'>
+</span>
+14/11/2006, <b>Tomas Werner (Czech Technical University)</b> on <i>&quot;A Linear Programming Approach to Max-sum Problem&quot;</i><br>
+</div>
+<div id='info106' class='talkinfo' style='display: none' >
+<b>Date: </b>14/11/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="ftp://cmp.felk.cvut.cz/pub/cmp/articles/werner/Werner-maxsum-slides-2006.pdf">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn107' class='javabtn' border='0' onclick='ToggleDetails(btn107,info107)'>
+</span>
+30/10/2006, <b>Chris Russell (Oxford Brookes)</b> on <i>&quot;'TextonBoost' and on 'The Layout Consistent Random Field for Recognizing and Segmenting Partially Occluded Objects'&quot;</i><br>
+</div>
+<div id='info107' class='talkinfo' style='display: none' >
+<b>Date: </b>30/10/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://research.microsoft.com/users/antcrim/papers/Criminisi_eccv2006.pdf">http://research.microsoft.com/users/antcrim/papers/Criminisi_eccv2006.pdf</a></p><p>  <a href="http://johnwinn.org/Publications/papers/Winn_Shotton_LayoutCRF_CVPR2006.pdf">http://johnwinn.org/Publications/papers/Winn_Shotton_LayoutCRF_CVPR2006.pdf</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn108' class='javabtn' border='0' onclick='ToggleDetails(btn108,info108)'>
+</span>
+13/10/2006, <b>Frederic Abad and Christophe Vestri (IMRA Europe)</b> on <i>&quot;Vision-based surrounding monitor by IMRA Europe&quot;</i><br>
+</div>
+<div id='info108' class='talkinfo' style='display: none' >
+<b>Date: </b>13/10/2006<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/abad_vestri/abstract_20061013.txt">http://cms.brookes.ac.uk/research/visiongroup/talks/abad_vestri/abstract_20061013.txt</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn109' class='javabtn' border='0' onclick='ToggleDetails(btn109,info109)'>
+</span>
+29/09/2006, <b>Stefan Carlsson (KTH, Stockholm)</b> on <i>&quot;Recognizing, Tracking and Labeling Human Motion&quot;</i><br>
+</div>
+<div id='info109' class='talkinfo' style='display: none' >
+<b>Date: </b>29/09/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/carlson/abstract_20060929.txt">http://cms.brookes.ac.uk/research/visiongroup/talks/carlson/abstract_20060929.txt</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn110' class='javabtn' border='0' onclick='ToggleDetails(btn110,info110)'>
+</span>
+26/09/2006, <b>Tim Cootes (University of Manchester)</b> on <i>&quot;Automatic Construction of Statistical Models of Appearance&quot;</i><br>
+</div>
+<div id='info110' class='talkinfo' style='display: none' >
+<b>Date: </b>26/09/2006<br>
+<b>Time: </b>1:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn111' class='javabtn' border='0' onclick='ToggleDetails(btn111,info111)'>
+</span>
+22/09/2006, <b>Ali Shahrokni (University of Oxford)</b> on <i>&quot;Segmentation&quot;</i><br>
+</div>
+<div id='info111' class='talkinfo' style='display: none' >
+<b>Date: </b>22/09/2006<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.robots.ox.ac.uk/~ali/">http://www.robots.ox.ac.uk/~ali/</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn112' class='javabtn' border='0' onclick='ToggleDetails(btn112,info112)'>
+</span>
+22/09/2006, <b>Prof Alexandre Falcao (State University of Campinas)</b> on <i>&quot;Image Segmentation as a Discrete Mathematics Problem&quot;</i><br>
+</div>
+<div id='info112' class='talkinfo' style='display: none' >
+<b>Date: </b>22/09/2006<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/falcao/Resumo_Palestra_Oxford_Paris.txt">http://cms.brookes.ac.uk/research/visiongroup/talks/falcao/Resumo_Palestra_Oxford_Paris.txt</a></p><p>  <a href="http://www.ic.unicamp.br/~afalcao/">http://www.ic.unicamp.br/~afalcao/</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn113' class='javabtn' border='0' onclick='ToggleDetails(btn113,info113)'>
+</span>
+18/09/2006, <b>Pawan Kumar (Oxford Brookes)</b> on <i>&quot;Solving Markov Random Fields using Second Order Cone Programming Relaxations&quot;</i><br>
+</div>
+<div id='info113' class='talkinfo' style='display: none' >
+<b>Date: </b>18/09/2006<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/pawankumar/MRFSOCP-final.ppt">http://cms.brookes.ac.uk/research/visiongroup/talks/pawankumar/MRFSOCP-final.ppt</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn114' class='javabtn' border='0' onclick='ToggleDetails(btn114,info114)'>
+</span>
+01/09/2006, <b>Derek Hoiem (Canegie Mellon University)</b> on <i>&quot;Automatic Photo Popup (Prepared for SIGGRAPH 2005.)&quot;</i><br>
+</div>
+<div id='info114' class='talkinfo' style='display: none' >
+<b>Date: </b>01/09/2006<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.cs.cmu.edu/~dhoiem/presentations/SIGGRAPH05.zip">http://www.cs.cmu.edu/~dhoiem/presentations/SIGGRAPH05.zip</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn115' class='javabtn' border='0' onclick='ToggleDetails(btn115,info115)'>
+</span>
+01/09/2006, <b>John Winn (Microsoft Research)</b> on <i>&quot;Divergence measures and message passing (work by Tom Minka)&quot;</i><br>
+</div>
+<div id='info115' class='talkinfo' style='display: none' >
+<b>Date: </b>01/09/2006<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn116' class='javabtn' border='0' onclick='ToggleDetails(btn116,info116)'>
+</span>
+31/08/2006, <b>Dr Thorsten Thormahlen (Adelaide)</b> on <i>&quot;Rapid Interactive Modelling from Video with Graph Cuts&quot;</i><br>
+</div>
+<div id='info116' class='talkinfo' style='display: none' >
+<b>Date: </b>31/08/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/staff/PhilipTorr/Papers/2006/Eurographics/EurographicsShortFinal.pdf">http://cms.brookes.ac.uk/staff/PhilipTorr/Papers/2006/Eurographics/EurographicsShortFinal.pdf</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn117' class='javabtn' border='0' onclick='ToggleDetails(btn117,info117)'>
+</span>
+25/07/2006, <b>Chris Russell (Oxford Brookes)</b> on <i>&quot;Texture Synthesis&quot;</i><br>
+</div>
+<div id='info117' class='talkinfo' style='display: none' >
+<b>Date: </b>25/07/2006<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/russell/presentationc.ppt">http://cms.brookes.ac.uk/research/visiongroup/talks/russell/presentationc.ppt</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn118' class='javabtn' border='0' onclick='ToggleDetails(btn118,info118)'>
+</span>
+24/07/2006, <b>Huma Lodhi (Sheffield University)</b> on <i>&quot;String Kernels&quot;</i><br>
+</div>
+<div id='info118' class='talkinfo' style='display: none' >
+<b>Date: </b>24/07/2006<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.doc.ic.ac.uk/~hml/">http://www.doc.ic.ac.uk/~hml/</a></p></blockquote><p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/lodhi/sk_oxford.pdf">http://cms.brookes.ac.uk/research/visiongroup/talks/lodhi/sk_oxford.pdf</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn119' class='javabtn' border='0' onclick='ToggleDetails(btn119,info119)'>
+</span>
+14/07/2006, <b>Yutaka Hirano (Toyota Japan)</b> on <i>&quot;Visual recognition for intelligent robot and car&quot;</i><br>
+</div>
+<div id='info119' class='talkinfo' style='display: none' >
+<b>Date: </b>14/07/2006<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn120' class='javabtn' border='0' onclick='ToggleDetails(btn120,info120)'>
+</span>
+07/07/2006, <b>Fred Nicolls (Cape Town)</b> on <i>&quot;Machine Vision and Digital Image Processing at UCT&quot;</i><br>
+</div>
+<div id='info120' class='talkinfo' style='display: none' >
+<b>Date: </b>07/07/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/nicolls/fn_dip2006.ppt">http://cms.brookes.ac.uk/research/visiongroup/talks/nicolls/fn_dip2006.ppt</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn121' class='javabtn' border='0' onclick='ToggleDetails(btn121,info121)'>
+</span>
+07/07/2006, <b>Ramin Zabih (Cornell)</b> on <i>&quot;MRI Reconstruction&quot;</i><br>
+</div>
+<div id='info121' class='talkinfo' style='display: none' >
+<b>Date: </b>07/07/2006<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn122' class='javabtn' border='0' onclick='ToggleDetails(btn122,info122)'>
+</span>
+07/07/2006, <b>Rob Fergus (MIT)</b> on <i>&quot;Removing Camera Shake from a Single Photograph&quot;</i><br>
+</div>
+<div id='info122' class='talkinfo' style='display: none' >
+<b>Date: </b>07/07/2006<br>
+<b>Time: </b>5:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn123' class='javabtn' border='0' onclick='ToggleDetails(btn123,info123)'>
+</span>
+19/05/2006, <b>Tom Shannon (Oxford Metrics)</b> on <i>&quot;Motion Capture&quot;</i><br>
+</div>
+<div id='info123' class='talkinfo' style='display: none' >
+<b>Date: </b>19/05/2006<br>
+<b>Time: </b>12:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn124' class='javabtn' border='0' onclick='ToggleDetails(btn124,info124)'>
+</span>
+16/05/2006, <b>Yuri Boykov (University of Western Ontario)</b> on <i>&quot;From Photohulls to Photoflux Optimization&quot;</i><br>
+</div>
+<div id='info124' class='talkinfo' style='display: none' >
+<b>Date: </b>16/05/2006<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn125' class='javabtn' border='0' onclick='ToggleDetails(btn125,info125)'>
+</span>
+24/03/2006, <b>Carl Henrik Ek (Oxford Brookes)</b> on <i>&quot;Video Cut.&quot;</i><br>
+</div>
+<div id='info125' class='talkinfo' style='display: none' >
+<b>Date: </b>24/03/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://research.microsoft.com/displayarticle.aspx?id=689">http://research.microsoft.com/displayarticle.aspx?id=689</a></p><p>  <a href="http://research.microsoft.com/~cohen/">http://research.microsoft.com/~cohen/</a></p><p>  <a href="http://research.microsoft.com/%7Ecohen/VideoCutout2005.pdf">http://research.microsoft.com/%7Ecohen/VideoCutout2005.pdf</a></p><p>  <a href="http://research.microsoft.com/%7Ecohen/VideoTooningFinal.pdf">http://research.microsoft.com/%7Ecohen/VideoTooningFinal.pdf</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn126' class='javabtn' border='0' onclick='ToggleDetails(btn126,info126)'>
+</span>
+19/03/2006, <b>David Lowe (University of British Columbia)</b> on <i>&quot;Object Recognition and Image Matching using Invariant Local Features&quot;</i><br>
+</div>
+<div id='info126' class='talkinfo' style='display: none' >
+<b>Date: </b>19/03/2006<br>
+<b>Time: </b>2:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn127' class='javabtn' border='0' onclick='ToggleDetails(btn127,info127)'>
+</span>
+15/03/2006, <b>Chris Russell and Karteek Alahari (Oxford Brookes)</b> on <i>&quot;Approximation Algorithms for Classification Problems with Pairwise Relationships: Metric Labeling and Markov Random Fields (part 2)&quot;</i><br>
+</div>
+<div id='info127' class='talkinfo' style='display: none' >
+<b>Date: </b>15/03/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.cs.cornell.edu/home/kleinber/focs99-mrf.ps">http://www.cs.cornell.edu/home/kleinber/focs99-mrf.ps</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn128' class='javabtn' border='0' onclick='ToggleDetails(btn128,info128)'>
+</span>
+10/03/2006, <b>Oliver Woodford (University of Oxford)</b> on <i>&quot;Contrastive Divergence ML learning&quot;</i><br>
+</div>
+<div id='info128' class='talkinfo' style='display: none' >
+<b>Date: </b>10/03/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>LR7, IE Building, University of Oxford
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/woodford/cont_div.ppt">http://cms.brookes.ac.uk/research/visiongroup/talks/woodford/cont_div.ppt</a></p><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/woodford/files/cont_div.tar">http://cms.brookes.ac.uk/research/visiongroup/talks/woodford/files/cont_div.tar</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn129' class='javabtn' border='0' onclick='ToggleDetails(btn129,info129)'>
+</span>
+07/03/2006, <b>Chris Russell and Karteek Alahari (Oxford Brookes)</b> on <i>&quot;Approximation Algorithms for Classification Problems with Pairwise Relationships: Metric Labeling and Markov Random Fields (part 1)&quot;</i><br>
+</div>
+<div id='info129' class='talkinfo' style='display: none' >
+<b>Date: </b>07/03/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://www.cs.cornell.edu/home/kleinber/focs99-mrf.ps">http://www.cs.cornell.edu/home/kleinber/focs99-mrf.ps</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn130' class='javabtn' border='0' onclick='ToggleDetails(btn130,info130)'>
+</span>
+28/02/2006, <b>Jian J Zhang (Bournemouth University)</b> on <i>&quot;Computer Animation - Modelling, Rendering and Deformation&quot;</i><br>
+</div>
+<div id='info130' class='talkinfo' style='display: none' >
+<b>Date: </b>28/02/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn131' class='javabtn' border='0' onclick='ToggleDetails(btn131,info131)'>
+</span>
+03/02/2006, <b>Pawan Kumar (Oxford Brookes)</b> on <i>&quot;Second Order Cone Programming&quot;</i><br>
+</div>
+<div id='info131' class='talkinfo' style='display: none' >
+<b>Date: </b>03/02/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn132' class='javabtn' border='0' onclick='ToggleDetails(btn132,info132)'>
+</span>
+01/02/2006, <b>Pushmeet Kohli (Oxford Brookes)</b> on <i>&quot;A New Framework for Approximate Labeling via Graph Cuts&quot;</i><br>
+</div>
+<div id='info132' class='talkinfo' style='display: none' >
+<b>Date: </b>01/02/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn133' class='javabtn' border='0' onclick='ToggleDetails(btn133,info133)'>
+</span>
+27/01/2006, <b>Vladimir Kolmogorov (UCL Adastral Park)</b> on <i>&quot;Primal-dual Algorithm for Convex Markov Random Fields&quot;</i><br>
+</div>
+<div id='info133' class='talkinfo' style='display: none' >
+<b>Date: </b>27/01/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/kolmogorov/paris2.ppt">http://cms.brookes.ac.uk/research/visiongroup/talks/kolmogorov/paris2.ppt</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn134' class='javabtn' border='0' onclick='ToggleDetails(btn134,info134)'>
+</span>
+01/01/2006, <b>Vladimir Kolmogorov (UCL Adastral Park)</b> on <i>&quot;Algorithms for MAP estimation in Markov Random Fields&quot;</i><br>
+</div>
+<div id='info134' class='talkinfo' style='display: none' >
+<b>Date: </b>01/01/2006<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/kolmogorov/paris1.ppt">http://cms.brookes.ac.uk/research/visiongroup/talks/kolmogorov/paris1.ppt</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn135' class='javabtn' border='0' onclick='ToggleDetails(btn135,info135)'>
+</span>
+02/12/2005, <b>Pawan Kumar (Oxford Brookes)</b> on <i>&quot;Graphical models and the junction tree algorithm&quot;</i><br>
+</div>
+<div id='info135' class='talkinfo' style='display: none' >
+<b>Date: </b>02/12/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn136' class='javabtn' border='0' onclick='ToggleDetails(btn136,info136)'>
+</span>
+01/11/2005, <b>Olly Woodford (University of Oxford)</b> on <i>&quot;On the Spatial Statistics of Optical Flow&quot;</i><br>
+</div>
+<div id='info136' class='talkinfo' style='display: none' >
+<b>Date: </b>01/11/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn137' class='javabtn' border='0' onclick='ToggleDetails(btn137,info137)'>
+</span>
+01/11/2005, <b>Carl Ek (Oxford Brookes)</b> on <i>&quot;Fields of Experts: A Framework for Learning Image Priors&quot;</i><br>
+</div>
+<div id='info137' class='talkinfo' style='display: none' >
+<b>Date: </b>01/11/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn138' class='javabtn' border='0' onclick='ToggleDetails(btn138,info138)'>
+</span>
+26/07/2005, <b>Ramin Zabih (Cornell)</b> on <i>&quot;LP, extended maxflow and TRW&quot;</i><br>
+</div>
+<div id='info138' class='talkinfo' style='display: none' >
+<b>Date: </b>26/07/2005<br>
+<b>Time: </b>1:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/zabih/lp_extendedmaxflow_trw.ppt">http://cms.brookes.ac.uk/research/visiongroup/talks/zabih/lp_extendedmaxflow_trw.ppt</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn139' class='javabtn' border='0' onclick='ToggleDetails(btn139,info139)'>
+</span>
+22/07/2005, <b>Carl Henrik Ek (Oxford Brookes)</b> on <i>&quot;Dimensionality Reduction and Manifold Learning&quot;</i><br>
+</div>
+<div id='info139' class='talkinfo' style='display: none' >
+<b>Date: </b>22/07/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn140' class='javabtn' border='0' onclick='ToggleDetails(btn140,info140)'>
+</span>
+17/06/2005, <b>Stephen Westland (University of Leeds)</b> on <i>&quot;Computational Colour Vision&quot;</i><br>
+</div>
+<div id='info140' class='talkinfo' style='display: none' >
+<b>Date: </b>17/06/2005<br>
+<b>Time: </b>12:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/westland/computational_colour_vision.ppt">http://cms.brookes.ac.uk/research/visiongroup/talks/westland/computational_colour_vision.ppt</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn141' class='javabtn' border='0' onclick='ToggleDetails(btn141,info141)'>
+</span>
+16/06/2005, <b>Pawan Kumar Mudigonda (Oxford Brookes)</b> on <i>&quot;What Energy Functions can be minimized using Graph Cuts&quot;</i><br>
+</div>
+<div id='info141' class='talkinfo' style='display: none' >
+<b>Date: </b>16/06/2005<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Lecture Room 8, IEB, University of Oxford
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn142' class='javabtn' border='0' onclick='ToggleDetails(btn142,info142)'>
+</span>
+15/06/2005, <b>Professor Richard Hartley (Australian National University)</b> on <i>&quot;L-inf Minimization in Geometric Reconstruction Problems&quot;</i><br>
+</div>
+<div id='info142' class='talkinfo' style='display: none' >
+<b>Date: </b>15/06/2005<br>
+<b>Time: </b>4:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/hartley/linf.pdf">Paper</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn143' class='javabtn' border='0' onclick='ToggleDetails(btn143,info143)'>
+</span>
+07/06/2005, <b>Vladimir Kolmogorov (UCL Adastral Park)</b> on <i>&quot;Pseudo-Boolean Optimization&quot;</i><br>
+</div>
+<div id='info143' class='talkinfo' style='display: none' >
+<b>Date: </b>07/06/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Reading:</b></p><blockquote><p>  <a href="http://rutcor.rutgers.edu/~boros/Papers/2002-DAM-BH.pdf">http://rutcor.rutgers.edu/~boros/Papers/2002-DAM-BH.pdf</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn144' class='javabtn' border='0' onclick='ToggleDetails(btn144,info144)'>
+</span>
+06/05/2005, <b>Pushmeet Kohli (Oxford Brookes)</b> on <i>&quot;MAP-MRF Inference via Tree Reweighted Message Passing&quot;</i><br>
+</div>
+<div id='info144' class='talkinfo' style='display: none' >
+<b>Date: </b>06/05/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn145' class='javabtn' border='0' onclick='ToggleDetails(btn145,info145)'>
+</span>
+29/04/2005, <b>Pawan Kumar (Oxford Brookes)</b> on <i>&quot;Introduction to Graphical Models&quot;</i><br>
+</div>
+<div id='info145' class='talkinfo' style='display: none' >
+<b>Date: </b>29/04/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/pawankumar/graphmodel.ppt">slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn146' class='javabtn' border='0' onclick='ToggleDetails(btn146,info146)'>
+</span>
+25/04/2005, <b>Christophe Restif (Oxford Brookes)</b> on <i>&quot;Image Segmentation with Level Sets&quot;</i><br>
+</div>
+<div id='info146' class='talkinfo' style='display: none' >
+<b>Date: </b>25/04/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/restif/levelsets.ppt">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn147' class='javabtn' border='0' onclick='ToggleDetails(btn147,info147)'>
+</span>
+20/04/2005, <b>Manish Jethwa (Oxford Brookes)</b> on <i>&quot;Bayesian Belief Propagation&quot;</i><br>
+</div>
+<div id='info147' class='talkinfo' style='display: none' >
+<b>Date: </b>20/04/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+<p><b>Resources:</b></p><blockquote><p>  <a href="http://cms.brookes.ac.uk/research/visiongroup/talks/jethwa/BBP.ppt">Slides</a></p></blockquote></div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn148' class='javabtn' border='0' onclick='ToggleDetails(btn148,info148)'>
+</span>
+06/04/2005, <b>Carl Henrik Ek (Oxford Brookes)</b> on <i>&quot;Paramter Sensitive Hashing and Boosting&quot;</i><br>
+</div>
+<div id='info148' class='talkinfo' style='display: none' >
+<b>Date: </b>06/04/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn149' class='javabtn' border='0' onclick='ToggleDetails(btn149,info149)'>
+</span>
+01/04/2005, <b>Pawan Kumar (Oxford Brookes)</b> on <i>&quot;Understanding generalizations of belief Propagation&quot;</i><br>
+</div>
+<div id='info149' class='talkinfo' style='display: none' >
+<b>Date: </b>01/04/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn150' class='javabtn' border='0' onclick='ToggleDetails(btn150,info150)'>
+</span>
+25/03/2005, <b>Manish Jethwa and Mathieu Bray (Oxford Brookes)</b> on <i>&quot;Spectral methods for Segmentation&quot;</i><br>
+</div>
+<div id='info150' class='talkinfo' style='display: none' >
+<b>Date: </b>25/03/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+<div class='talk'>
+<div class='talkheading'>
+<span style='margin-right: 4px'>
+  <img src='./images/small_plus.gif' alt='Show' title='Show' id='btn151' class='javabtn' border='0' onclick='ToggleDetails(btn151,info151)'>
+</span>
+25/03/2005, <b>Pushmeet Kohli (Oxford Brookes)</b> on <i>&quot;What energy functions can be minimized using Graph cuts&quot;</i><br>
+</div>
+<div id='info151' class='talkinfo' style='display: none' >
+<b>Date: </b>25/03/2005<br>
+<b>Time: </b>3:00pm<br>
+<b>Location: </b>Room T216, Turing Building
+</div></div><br>
+
+</div> <!-- end of content div -->
+
+<div class="footer">
+
+<!--BROOKES
+Department of Computing, Oxford Brookes University,<br>
+Wheatley Campus, Wheatley, Oxford, OX33 1HX,<br>
+United Kingdom.
+-->
+
+<!--University of Oxford-->
+Department of Engineering Science, University of Oxford,<br>
+Parks Road, Oxford, OX1 3PJ,<br>
+United Kingdom.
+
+
+</div> <!-- end of footer div -->
+</center>
+
+<!-- ML: OLD -->
+<!-- BEGIN google Analytics script -->
+<!--
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2729467-1";
+urchinTracker();
+</script>
+-->
+<!-- END google Analytics script -->
+
+</body>
+</html>
+

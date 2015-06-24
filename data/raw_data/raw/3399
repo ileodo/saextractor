@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Thing 6 | 23 Things for Research</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://blogs.bodleian.ox.ac.uk/23things/wp-content/themes/twentyeleven-bodleian/style.css" />
+<link rel="pingback" href="http://blogs.bodleian.ox.ac.uk/23things/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://blogs.bodleian.ox.ac.uk/23things/wp-content/themes/twentyeleven-bodleian/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="23 Things for Research &raquo; Feed" href="http://blogs.bodleian.ox.ac.uk/23things/feed/" />
+<link rel="alternate" type="application/rss+xml" title="23 Things for Research &raquo; Comments Feed" href="http://blogs.bodleian.ox.ac.uk/23things/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="23 Things for Research &raquo; Thing 6 Category Feed" href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-6/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blogs.bodleian.ox.ac.uk\/23things\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='moztheme2011-css'  href='http://blogs.bodleian.ox.ac.uk/23things/wp-content/plugins/twenty-eleven-theme-extensions/moztheme2011.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='output-css'  href='http://blogs.bodleian.ox.ac.uk/23things/wp-content/plugins/addthis/css/output.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://blogs.bodleian.ox.ac.uk/23things/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-29066209-6']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/23things/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/23things/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.bodleian.ox.ac.uk/23things/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.bodleian.ox.ac.uk/23things/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">#branding {
+  background: #21b7ea;
+}
+
+#branding img {
+  height: auto;
+  width: auto;
+  margin: 5px;
+  float: left;
+}
+
+#branding hgroup {
+  margin: 5px 0 90px 15px;
+}
+
+#branding hgroup h1  {
+  clear: right;
+  padding: 5px 0;
+  color: #fff;
+}
+
+#branding hgroup h2#site-description {
+ clear: right;
+  padding: 5px 0;
+  color: #fff;
+font-weight: bold
+
+}
+
+#cookies_notification #cookies_notification_text {
+  color: #fff !important;
+}
+
+#branding #searchform {
+  display: none
+}
+
+@media (max-width: 650px) {
+  #branding hgroup {
+    margin-bottom: 5px;
+  }
+
+  #cookies_notification #cookies_notification_text {
+    color: #ccc !important;
+  }
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f2f2f2; background-image: url('http://blogs.bodleian.ox.ac.uk/23things/files/2012/09/2lbco5u.gif'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+</head>
+
+<body class="archive category category-thing-6 category-14 custom-background single-author two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+
+                                                  			<div class="textwidget"><img src="/23things/files/2012/09/engage-e-with-hat-68tall.jpg" alt="Engage" />
+<hgroup>
+  <h1 id="site-title"><span><a href="/23things/" title="23 Things for Research" rel="home">23 Things for Research</a></span></h1>
+  <h2 id="site-description" style="color: #fff;">An online learning programme for researchers, students and staff at the University of Oxford</h2>
+</hgroup></div>
+		                        
+			
+								<form method="get" id="searchform" action="http://blogs.bodleian.ox.ac.uk/23things/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://blogs.bodleian.ox.ac.uk/23things/all-about-23-things/">All about 23 Things</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="http://blogs.bodleian.ox.ac.uk/23things/schedule/">The 23 Things for Research schedule</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://blogs.bodleian.ox.ac.uk/23things/sign-up/">Sign up for 23 Things</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="http://blogs.bodleian.ox.ac.uk/23things/reflective-writing/">Reflective writing</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="http://blogs.bodleian.ox.ac.uk/23things/links/">Links</a></li>
+</ul></div>			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<section id="primary">
+			<div id="content" role="main">
+
+			
+				<header class="page-header">
+					<h1 class="page-title">Category Archives: <span>Thing 6</span></h1>
+
+									</header>
+
+				
+								
+					
+	<article id="post-516" class="post-516 post type-post status-publish format-standard hentry category-thing-6">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6-2014-twitter/" title="Permalink to Thing 6 2014: Twitter" rel="bookmark">Thing 6 2014: Twitter</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6-2014-twitter/" title="7:31 am" rel="bookmark"><time class="entry-date" datetime="2014-10-20T07:31:03+00:00" pubdate>October 20, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/23things/author/liz.mccarthy/" title="View all posts by Liz McCarthy" rel="author">Liz McCarthy</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6-2014-twitter/#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><strong>What is Twitter?<br />
+</strong><a href="https://twitter.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/', 'Twitter']);" title="Twitter">Twitter</a> is a micro-blogging service that allows you to publish short updates of up to 140 characters. You can follow other users to subscribe to their updates. All updates from users you follow appear in your own feed, so it’s easy to see them.</p>
+<p><strong>Why use Twitter?</strong><br />
+It’s a common misconception that Twitter is ALL about people tweeting what they had for breakfast (or their latest date, or their sleeping habits, etc.). Although there are certainly (many!) people who only use Twitter for these things, the reality is that many professional users prefer to use it to ask questions, network or share relevant information and interesting links. It can be a powerful tool, both for building professional contacts and for staying up to date in your area. There are also many organizations and researchers using Twitter creatively to stay in touch with their students or contacts. You can use Twitter to tweet your work, ask questions, crowdsource data and reach new audiences, as well as to publicise events and news, get feedback and get/answer questions in the classroom. You might use Twitter for any of the following (via <a href="http://dh23things.wordpress.com/2012/10/01/dh23-thing-four-building-a-network/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://dh23things.wordpress.com/2012/10/01/dh23-thing-four-building-a-network/', '#DH23']);" title="#DH23">#DH23</a>):</p>
+<ul>
+<li>Publicising your work, such as a new blog post or article</li>
+<li>Disseminating news about your professional activities, such as attending a conference</li>
+<li>Commenting on news in your field or HE in general</li>
+<li>Sharing interesting context you find, through tweeting URLs or through retweeting others’ tweets</li>
+<li>News updates (from blogs such as those of other 23 Things participants, <a href="https://twitter.com/insidehighered" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/insidehighered', 'InsideHigherEd']);" title="insidehighered"  target="_blank">InsideHigherEd</a> or publications such as the <a href="https://twitter.com/timeshighered" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/timeshighered', 'THES']);" title="Times Higher Education"  target="_blank">THES</a> or <a href="https://twitter.com/GdnHigherEd" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/GdnHigherEd', 'Guardian Higher Education']);" title="Guardian HIgher Education"  target="_blank">Guardian Higher Education</a>)</li>
+<li>Opportunities and news from professional or research bodies such as Vitae or the UK Research Staff Association or funding bodies such as the Research Councils UK or AHRC</li>
+<li>Calls for papers, funding opportunities or jobs</li>
+<li>Activities in departments, libraries and other research centres</li>
+<li>Live tweeting at conferences (either participating in the conference audience ‘backchannel’ or to get a flavour of discussions and speakers to look up, and participate remotely by asking questions, if you can’t attend in person)</li>
+<li>Asking questions, and answering those of others</li>
+<li>Crowdsourcing and finding research collaborators or participants</li>
+<li>Finding and contacting individual scholars in your field who might be able to recommend readings, answer questions or suggest opportunities that would be interesting for you</li>
+<li>Enhancing some of the more informal communication that occurs in the academic world such as networking at conferences and seminars, bumping into colleagues at your own and other institutions or moral support from peers</li>
+<li>Peer support</li>
+<li>A bit of light relief: follow<a href="https://twitter.com/phdcomics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/phdcomics', ' @PhDcomics']);" title="PhD comics"  target="_blank"> @PhDcomics</a> or <a href="https://twitter.com/LegoAcademics" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/LegoAcademics', '@LegoAcademics']);" >@LegoAcademics</a></li>
+</ul>
+<p><strong>Some basic Twitter vocabulary</strong><br />
+(see the <a href="https://support.twitter.com/entries/166337-the-twitter-glossary" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://support.twitter.com/entries/166337-the-twitter-glossary', 'Twitter Glossary']);" title="Twitter Glossary">Twitter Glossary</a> for more)</p>
+<ul>
+<li>Tweet: a single update of no more than 140 characters</li>
+<li>RT: A Retweet, or a way of reposting a tweet originally posted by another user, sometime with your own text added (<a href="https://support.twitter.com/articles/77606-what-is-retweet-rt" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://support.twitter.com/articles/77606-what-is-retweet-rt', 'more info on Retweets from Twitter support']);" title="What is a retweet?">more info on Retweets from Twitter support</a>)</li>
+<li>@reply: a reply to another user (<a href="https://support.twitter.com/articles/14023-what-are-replies-and-mentions" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://support.twitter.com/articles/14023-what-are-replies-and-mentions', 'more info on @reply from Twitter support']);" title="@ reply and mentions">more info on @reply from Twitter support</a>)</li>
+<li>DM: a private message sent to another user (<a href="https://support.twitter.com/articles/14606-what-is-a-direct-message-dm" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://support.twitter.com/articles/14606-what-is-a-direct-message-dm', 'more info on DMs from Twitter support']);" title="Using DMs">more info on DMs from Twitter support</a>)</li>
+<li>#: A hashtag, which provides a method of grouping tweets by adding a standard tag, e.g. #bodleian, so that all tweets on a particular event or issue can be easily searched and tracked (<a href="https://support.twitter.com/articles/49309-what-are-hashtags-symbols" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://support.twitter.com/articles/49309-what-are-hashtags-symbols', 'more info on hashtags from Twitter support']);" title="Hashtags">more info on hashtags from Twitter support</a>)</li>
+</ul>
+<p><strong>Task</strong><br />
+If you already have a Twitter account, skip ahead to Exploring Further. If not, follow these easy steps to get one set up.</p>
+<ol>
+<li>Go to <a href="https://twitter.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/', 'http://twitter.com/']);" title="Twitter">http://twitter.com/</a> and use the sign up box to get started. Follow the steps to create an account (if you want more help, Twitter provides <a href="https://support.twitter.com/articles/100990-how-to-sign-up-on-twitter" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://support.twitter.com/articles/100990-how-to-sign-up-on-twitter', 'detailed step-by-step instructions']);" title="Sign up to Twitter">detailed step-by-step instructions</a>). You may want to think about your online presence when you decide on a user name. Do you want to be consistent across your various accounts?</li>
+<li>Once you have created your account, you’ll be taken to your Twitter homepage where there are further steps to work through to get you started, e.g. updating your profile to include a short biography or adding a profile picture. You can come back to these steps at any time using the link to Settings in the top right corner of the screen. We recommend you leave the privacy box unchecked so that others can see your tweets and communicate with you.<a href="http://blogs.bodleian.ox.ac.uk/23things/files/2014/09/Untitled.jpg"><img class="aligncenter size-full wp-image-517" src="http://blogs.bodleian.ox.ac.uk/23things/files/2014/09/Untitled.jpg" alt="Untitled" width="1215" height="882" /></a></li>
+<li>Now post your first update! Click on the status box on the top left where it says ‘Compose new Tweet…’. Write a comment – maybe something about your participation in 23 Things. As you type you will see the number in the top right of the box decrease; this tells you how many characters you have left. Leave enough space to add the hashtag #oxengage at the end. This is the hashtag for the Engage and 23 Things programmes and will allow others to search for all #oxengage tweets. Once you’re done, click ‘update’. You’ll see your tweet appear in your timeline.</li>
+<li>Find people to follow.
+<ol>
+<li>Search by name or twitter handle in the search box. Try looking for and following <a href="https://twitter.com/bodleianlibs" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/bodleianlibs', '@bodleianlibs']);" title="Bodleian Libraries on Twitter">@bodleianlibs</a> and <a href="https://twitter.com/ltgoxford" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/ltgoxford', '@ltgoxford']);" title="LTGOxford on Twitter">@ltgoxford</a>.</li>
+<li>There’s also a follow button on every user’s profile page.</li>
+</ol>
+</li>
+<li><strong>Exploring further<br />
+</strong></p>
+<ul>
+<li>Twitter hashtags offer a great way of following conferences – either by finding out about and interacting with those at a conference with you, or by hearing details of a conference you were unable to attend. Take a look and see if a conference of interest to you has/had a hashtag, and then see what sort of tweets come up under that hashtag (keep in mind that Twitter may not show results before a certain date).</li>
+<li>Another way to use hashtags is to set up real time chats – for instance, the <a href="http://www.guardian.co.uk/higher-education-network/live-q-a" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/higher-education-network/live-q-a', 'Guardian Higher Education chats']);" title="Guardian HE chats">Guardian Higher Education chats</a> each Friday, or the <a href="http://phdchat.pbworks.com/w/page/33280234/PhD%20Chat" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://phdchat.pbworks.com/w/page/33280234/PhD%20Chat', '#phdchats']);" title="PhDchats">#phdchats</a> on Wednesdays. These are usually held at specific times each week or month, and you can participate by tweeting your comments or questions with the appropriate hashtag. Take a look at the tweets around last week’s Guardian HE chat (conveniently on academic blogging – search for <a href="https://twitter.com/search?q=%23helivechat&amp;src=typd" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/search?q=%23helivechat&amp;src=typd', '#HElivechat']);" title="HElivechat on Twitter">#HElivechat</a>) or <a href="https://twitter.com/search?q=%23phdchat&amp;src=typd" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/search?q=%23phdchat&amp;src=typd', '#phdchat']);" title="#phdchat on Twitter">#phdchat</a> to get an idea. There’s an <a href="https://docs.google.com/spreadsheet/ccc?key=0AhisaMy5TGiwcnVhejNHWnZlT3NvWFVPT3Q4NkIzQVE#gid=0" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://docs.google.com/spreadsheet/ccc?key=0AhisaMy5TGiwcnVhejNHWnZlT3NvWFVPT3Q4NkIzQVE#gid=0', 'open Google doc that lists over 300 live chats']);" title="Live chat list">open Google doc that lists over 300 live chats</a> and their dates/times; they cover all sorts of topics.</li>
+<li>Use lists! Twitter allows you to make lists of other Twitter users, so you can categorize people in helpful ways. You can also follow other Twitter users’ lists. @ltgoxford has some great <a href="https://twitter.com/ltgoxford/lists" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/ltgoxford/lists', 'lists of people and departments in the University']);" title="LTG lists">lists of people and departments in the University</a> who are on Twitter</li>
+<li>Set up and save searches for relevant topics, people or events in your field.</li>
+<li>Take a look at a few Twitter clients. Tools like <a href="http://tweetdeck.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://tweetdeck.com/', 'Tweetdeck']);" title="Tweetdeck">Tweetdeck</a> and <a href="http://hootsuite.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://hootsuite.com/', 'Hootsuite']);" title="Hootsuite">Hootsuite</a> allow you to schedule tweets ahead of time and track retweets, reach and other stats.</li>
+</ul>
+<p><strong>Blog post<br />
+</strong>Think about Twitter and how you think it may or may not be relevant to you. Do you feel it’s useful? Why or why not? Tag your post ‘Thing 6′.</p>
+<p><strong>Further Reading:<br />
+</strong></p>
+<ul>
+<li><a href="http://www.slideshare.net/ktlindsay/twitter-for-academia" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.slideshare.net/ktlindsay/twitter-for-academia', 'Twitter for Academia']);" title="Twitter for Academia">Twitter for Academia</a></li>
+<li>Guardian: <a href="http://www.guardian.co.uk/higher-education-network/blog/2011/sep/12/twitter-revolutionise-academia-research" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.guardian.co.uk/higher-education-network/blog/2011/sep/12/twitter-revolutionise-academia-research', 'How Twitter will revolutionise academic research and teaching']);" title="Guardian: How Twitter will revolutionise academic research and teaching">How Twitter will revolutionise academic research and teaching</a></li>
+<li>From the LSE: <a href="http://blogs.lse.ac.uk/impactofsocialsciences/2011/09/29/twitter-guide/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://blogs.lse.ac.uk/impactofsocialsciences/2011/09/29/twitter-guide/', 'A guide to using Twitter in university research, teaching, and impact activities']);" title="LSE guide to Twitter">A guide to using Twitter in university research, teaching, and impact activities</a></li>
+</ul>
+</li>
+</ol>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-6/" rel="category tag">Thing 6</a>			</span>
+									
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6-2014-twitter/#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-516 -->
+
+				
+					
+	<article id="post-381" class="post-381 post type-post status-publish format-standard hentry category-thing-6 tag-online-presence">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6-2013-consider-your-personal-brand/" title="Permalink to Thing 6 2013: Consider your personal brand" rel="bookmark">Thing 6 2013: Consider your personal brand</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6-2013-consider-your-personal-brand/" title="8:05 am" rel="bookmark"><time class="entry-date" datetime="2013-10-21T08:05:16+00:00" pubdate>October 21, 2013</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/23things/author/liz.mccarthy/" title="View all posts by Liz McCarthy" rel="author">Liz McCarthy</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6-2013-consider-your-personal-brand/#comments">8</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://blogs.bodleian.ox.ac.uk/23things/files/2013/10/Screen-shot-2013-10-15-at-22.20.07.png"><img class="aligncenter size-full wp-image-383" alt="Thing 6 2013: Consider your online presence" src="http://blogs.bodleian.ox.ac.uk/23things/files/2013/10/Screen-shot-2013-10-15-at-22.20.07.png" width="1234" height="175" /></a>Your ‘personal brand’ is affected by online information and your online presence, whether you’re active online or not. The first thing many people (including potential and current employers!) will do when they hear your name is Google you, and it’s important to learn how to ‘curate’ that brand, which should be considered part of your professional identity. A good way to think about it is as an extension of the professional you. A strong online presence can be a powerful tool in achieving your professional goals, particularly in promoting your work and reaching a wider audience.</p>
+<p>For Thing 6, we’ll be exploring a number of ways to manage and keep tabs on your digital footprint. You’ve already made a crucial step in setting up your blog! Some of these represent some basic tools that everyone should be familiar with. If you’re pretty comfortable with the basics, we’ll provide some additional options you may wish to explore.</p>
+<p><strong>Task:<br />
+</strong>We’ll begin by taking a look at what content is associated with your name online. Start by Googling yourself. Type your name into <a href="http://www.google.co.uk/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.google.co.uk/', 'Google']);" title="Google"  target="_blank">Google</a> (and/or any other search engine) and see what comes up (you may also want to try nicknames &#8211; Liz vs Elizabeth, for example). Do the same thing over at <a href="http://socialmention.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://socialmention.com/', 'socialmention']);" title="social mention"  target="_blank">socialmention</a>, which gathers data from social media. Next try running your name through <a href="http://personas.media.mit.edu/personasWeb.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://personas.media.mit.edu/personasWeb.html', 'MIT’s Personas project']);" title="MIT Personas project"  target="_blank">MIT’s Personas project</a> (EDITOR&#8217;S UPDATE: the Personas tool seems to be broken at the moment, although it&#8217;s worth checking back as it&#8217;s a fun visual representation of your online presence), which is a great way to visualise the types of content associated with your name and clue you in to other people with the same name.</p>
+<p>You may want to try combining your name with certain key words (e.g. ‘libraries’ or ‘neuroscience’), or even seeing if what comes up when you search for keywords only (e.g. ‘neuroscience researchers oxford’). Do you or your work appear on the first page or two? If so, is it content with which you’d like to see yourself associated?</p>
+<p>Once you’ve analysed how you appear online, start to think about how you’d like to appear and what you might be able to do to make that happen. Quite a few of the tools we’ll explore in upcoming Things can improve and augment your online presence (having a LinkedIn profile, for example, is a great way to make sure you’re visible), but there are things you can do now:</p>
+<p><em>Accounts</em><br />
+First of all, think about online accounts and profiles you already have. Do they come up when you search? Do you want them to? Make sure accounts you already manage are up to date and reflect the persona you want to share &#8211; including your name and photograph, if relevant. If you haven’t already, fill out the ‘About’ page on your new or existing blog, and consider adding a photograph. Try to be consistent across all platforms.</p>
+<p><em>Professional vs Personal</em><br />
+Do you want to keep your professional and personal identities separate online? Many choose a middle ground and let their personality shine through their professional presence. Keep in mind that if content is accessible to colleagues and professional contacts, you probably don’t want your latest holiday snaps or student party photos showing (although this may be fine for some people/accounts). You may also want to consider whether anonymity does or does not fit in with your professional goals.</p>
+<p><strong>Blog post:<br />
+</strong></p>
+<ul>
+<li>How easy were you to find online? Were you happy with what you found? What sort of ‘person’ emerged, and what might other people think about him or her? What did you, or might you, do to address this?</li>
+<li>How important do you think it is to maintain a professional presence online?</li>
+<li>Tag your blog post ‘Thing 6’.</li>
+</ul>
+<p><strong>Exploring further<br />
+</strong>If you feel you already have a handle on your online presence, or if you’d like to take what you’ve just done a little bit further, there’s always more you can do to ‘curate’ your online brand.</p>
+<ul>
+<li>Consider linking. If you have multiple online accounts, find ways to connect them. If you have accounts on social media tools like Twitter or LinkedIn, you may want to provide links to them on your blog (see this <a href="http://en.support.wordpress.com/links/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.support.wordpress.com/links/', 'WordPress help article']);" title="Wordpress help: creating links"  target="_blank">WordPress help article</a> if you want info on creating links). Google favours pages on .ac.uk domains, so include a link to your University profile or page (if applicable) from your other accounts.</li>
+<li>Try setting up a Google alert for your name, or perhaps your name with a keyword or two. Go to <a href="http://www.google.com/alerts" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.google.com/alerts', 'http://www.google.com/alerts']);" title="Google alerts"  target="_blank">http://www.google.com/alerts</a> and choose your search terms, how often you’d like to receive alerts, and where you’d like to receive them.</li>
+</ul>
+<p><strong>Further reading<br />
+</strong></p>
+<ul>
+<li><a href="http://chronicle.com/blogs/profhacker/creating-and-maintaining-a-professional-presence-online-a-roundup-and-reflection/43030" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://chronicle.com/blogs/profhacker/creating-and-maintaining-a-professional-presence-online-a-roundup-and-reflection/43030', 'Chronicle of Higher Education article on professional online presence for academics']);" title="C of Higher Ed: Online presence"  target="_blank">Chronicle of Higher Education article on professional online presence for academics</a></li>
+<li><a href="http://mashable.com/2012/08/29/personal-branding-for-students/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://mashable.com/2012/08/29/personal-branding-for-students/', 'Personal branding for students']);" title="Mashable: Personal branding"  target="_blank">Personal branding for students</a></li>
+<li><a href="http://www.timeshighereducation.co.uk/story.asp?storycode=413005" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.timeshighereducation.co.uk/story.asp?storycode=413005', 'Times Higher Education article on online presence for academics']);" title="THE: Online presence"  target="_blank">Times Higher Education article on online presence for academics</a></li>
+<li><a href="http://dh23things.wordpress.com/2012/10/10/the-researcher-online-building-your-online-identity/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://dh23things.wordpress.com/2012/10/10/the-researcher-online-building-your-online-identity/', 'DH23Things presentation on &#8216;Building your online identity&#8217; for researchers']);" title="DH 23: Building your online identity"  target="_blank">DH23Things presentation on &#8216;Building your online identity&#8217; for researchers</a></li>
+<li><a href="http://prezi.com/hl392i93n8um/you-already-have-a-brand-here-are-5-ways-to-influence-it/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://prezi.com/hl392i93n8um/you-already-have-a-brand-here-are-5-ways-to-influence-it/', 'You already have a personal brand: here are 5 ways to influence it']);" title="Ned Potter: Online brand">You already have a personal brand: here are 5 ways to influence it</a></li>
+</ul>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-6/" rel="category tag">Thing 6</a>			</span>
+									<span class="sep"> | </span>
+							<span class="tag-links">
+				<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="http://blogs.bodleian.ox.ac.uk/23things/tag/online-presence/" rel="tag">online presence</a>			</span>
+						
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6-2013-consider-your-personal-brand/#comments"><b>8</b> Replies</a></span>
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-381 -->
+
+				
+					
+	<article id="post-123" class="post-123 post type-post status-publish format-standard hentry category-thing-6 tag-online-presence">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6/" title="Permalink to Thing 6: Consider your personal brand" rel="bookmark">Thing 6: Consider your personal brand</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6/" title="8:27 am" rel="bookmark"><time class="entry-date" datetime="2012-10-15T08:27:36+00:00" pubdate>October 15, 2012</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/23things/author/liz.mccarthy/" title="View all posts by Liz McCarthy" rel="author">Liz McCarthy</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6/#comments">4</a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Your ‘personal brand’ is affected by online information and your online presence, whether you’re active online or not. The first thing many people (including potential and current employers!) will do when they hear your name is Google you, and it’s important to learn how to ‘curate’ that brand, which should be considered part of your professional identity. A good way to think about it is as an extension of the professional you. A strong online presence can be a powerful tool in achieving your professional goals, particularly in promoting your work and reaching a wider audience.</p>
+<p>For Thing 6, we’ll be exploring a number of ways to manage and keep tabs on your digital footprint. You’ve already made a crucial step in setting up your blog! Some of these represent some basic tools that everyone should be familiar with. If you’re pretty comfortable with the basics, we’ll provide some additional options you may wish to explore.</p>
+<p><strong>Task:<br />
+</strong>We’ll begin by taking a look at what content is associated with your name online. Start by Googling yourself. Type your name into <a href="http://www.google.co.uk/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.google.co.uk/', 'Google']);" title="Google"  target="_blank">Google</a> (and/or any other search engine) and see what comes up (you may also want to try nicknames &#8211; Liz vs Elizabeth, for example). Do the same thing over at <a href="http://socialmention.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://socialmention.com/', 'socialmention']);" title="social mention"  target="_blank">socialmention</a>, which gathers data from social media. Next try running your name through <a href="http://personas.media.mit.edu/personasWeb.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://personas.media.mit.edu/personasWeb.html', 'MIT’s Personas project']);" title="MIT Personas project"  target="_blank">MIT’s Personas project</a>, which is a great way to visualise the types of content associated with your name and clue you in to other people with the same name.</p>
+<p>You may want to try combining your name with certain key words (e.g. ‘libraries’ or ‘neuroscience’), or even seeing if what comes up when you search for keywords only (e.g. ‘neuroscience researchers oxford’). Do you or your work appear on the first page or two? If so, is it content with which you’d like to see yourself associated?</p>
+<p>Next, try searching for your name or keywords over at <a href="https://adwords.google.com/o/Targeting/Explorer?__c=1000000000&amp;__u=1000000000&amp;ideaRequestType=KEYWORD_IDEAS" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://adwords.google.com/o/Targeting/Explorer?__c=1000000000&amp;__u=1000000000&amp;ideaRequestType=KEYWORD_IDEAS', 'Google Adwords']);" title="Google Adwords"  target="_blank">Google Adwords</a>. This can tell you how many people are searching for your name, and what kinds of keywords they’re looking for at the same time.</p>
+<p>Once you’ve analysed how you appear online, start to think about how you’d like to appear and what you might be able to do to make that happen. Quite a few of the tools we’ll explore in upcoming Things can improve and augment your online presence (having a LinkedIn profile, for example, is a great way to make sure you’re visible), but there are things you can do now:</p>
+<p><em>Accounts</em><br />
+First of all, think about online accounts and profiles you already have. Do they come up when you search? Do you want them to? Make sure accounts you already manage are up to date and reflect the persona you want to share &#8211; including your name and photograph, if relevant. If you haven’t already, fill out the ‘About’ page on your new or existing blog, and consider adding a photograph. Try to be consistent across all platforms.</p>
+<p><em>Professional vs Personal</em><br />
+Do you want to keep your professional and personal identities separate online? Many choose a middle ground and let their personality shine through their professional presence. Keep in mind that if content is accessible to colleagues and professional contacts, you probably don’t want your latest holiday snaps or student party photos showing (although this may be fine for some people/accounts). You may also want to consider whether anonymity does or does not fit in with your professional goals.</p>
+<p><strong>Blog post:<br />
+</strong></p>
+<ul>
+<li>How easy were you to find online? Were you happy with what you found? What sort of ‘person’ emerged, and what might other people think about him or her? What did you, or might you, do to address this?</li>
+<li>How important do you think it is to maintain a professional presence online?</li>
+<li>Tag your blog post ‘Thing 6’.</li>
+</ul>
+<p><strong>Exploring further<br />
+</strong>If you feel you already have a handle on your online presence, or if you’d like to take what you’ve just done a little bit further, there’s always more you can do to ‘curate’ your online brand.</p>
+<ul>
+<li>Consider linking. If you have multiple online accounts, find ways to connect them. If you have accounts on social media tools like Twitter or LinkedIn, you may want to provide links to them on your blog (see this <a href="http://en.support.wordpress.com/links/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.support.wordpress.com/links/', 'WordPress help article']);" title="Wordpress help: creating links"  target="_blank">WordPress help article</a> if you want info on creating links). Google favours pages on .ac.uk domains, so include a link to your University profile or page (if applicable) from your other accounts.</li>
+<li>Try setting up a Google alert for your name, or perhaps your name with a keyword or two. Go to <a href="http://en.support.wordpress.com/links/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.support.wordpress.com/links/', 'http://www.google.com/alerts']);" title="Google alerts"  target="_blank">http://www.google.com/alerts</a> and choose your search terms, how often you’d like to receive alerts, and where you’d like to receive them.</li>
+</ul>
+<p><strong>Further reading<br />
+</strong></p>
+<ul>
+<li><a href="http://chronicle.com/blogs/profhacker/creating-and-maintaining-a-professional-presence-online-a-roundup-and-reflection/43030" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://chronicle.com/blogs/profhacker/creating-and-maintaining-a-professional-presence-online-a-roundup-and-reflection/43030', 'Chronicle of Higher Education article on professional online presence for academics']);" title="C of Higher Ed: Online presence"  target="_blank">Chronicle of Higher Education article on professional online presence for academics</a></li>
+<li><a href="http://mashable.com/2012/08/29/personal-branding-for-students/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://mashable.com/2012/08/29/personal-branding-for-students/', 'Personal branding for students']);" title="Mashable: Personal branding"  target="_blank">Personal branding for students</a></li>
+<li><a href="http://www.timeshighereducation.co.uk/story.asp?storycode=413005" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.timeshighereducation.co.uk/story.asp?storycode=413005', 'Times Higher Education article on online presence for academics']);" title="THE: Online presence"  target="_blank">Times Higher Education article on online presence for academics</a></li>
+<li><a href="http://dh23things.wordpress.com/2012/10/10/the-researcher-online-building-your-online-identity/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://dh23things.wordpress.com/2012/10/10/the-researcher-online-building-your-online-identity/', 'DH23Things presentation on &#8216;Building your online identity&#8217; for researchers']);" title="DH 23: Building your online identity"  target="_blank">DH23Things presentation on &#8216;Building your online identity&#8217; for researchers</a></li>
+<li><a href="http://prezi.com/hl392i93n8um/you-already-have-a-brand-here-are-5-ways-to-influence-it/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://prezi.com/hl392i93n8um/you-already-have-a-brand-here-are-5-ways-to-influence-it/', 'You already have a personal brand: here are 5 ways to influence it']);" title="Ned Potter: Online brand">You already have a personal brand: here are 5 ways to influence it</a></li>
+</ul>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-6/" rel="category tag">Thing 6</a>			</span>
+									<span class="sep"> | </span>
+							<span class="tag-links">
+				<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged</span> <a href="http://blogs.bodleian.ox.ac.uk/23things/tag/online-presence/" rel="tag">online presence</a>			</span>
+						
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-6/#comments"><b>4</b> Replies</a></span>
+			
+					</footer><!-- #entry-meta -->
+	</article><!-- #post-123 -->
+
+				
+				
+			
+			</div><!-- #content -->
+		</section><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="addthis-widget-2" class="widget atwidget"><div class="addthis_toolbox addthis_default_style addthis_"  ><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_email"></a><a class="addthis_button_pinterest_share"></a><a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a></div></aside><aside id="search-2" class="widget widget_search">	<form method="get" id="searchform" action="http://blogs.bodleian.ox.ac.uk/23things/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-23-2014/">Thing 23 2014: Wrap up</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-21-2014/">Thing 22 2014: Using Doodle and other online scheduling tools</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-21-2014-2/">Thing 21 2014: Hangouts, Skype and more</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-20-2014/">Thing 20 2014: Google Docs and Dropbox</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/bonus-thing-6-2014/">Bonus Thing 6 2014: Researcher identifiers and your publication profile</a>
+						</li>
+				</ul>
+		</aside><aside id="linkcat-60" class="widget widget_links"><h3 class="widget-title">2014 Participants</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://rockonaroll.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://rockonaroll.wordpress.com/', 'A Rock on a Roll']);" >A Rock on a Roll</a></li>
+<li><a href="http://bigbrowncat.tumblr.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://bigbrowncat.tumblr.com/', 'Big Brown Cat']);" >Big Brown Cat</a></li>
+<li><a href="http://digitaldithering.tumblr.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://digitaldithering.tumblr.com/', 'Digital Ditherings']);" >Digital Ditherings</a></li>
+<li><a href="http://filigranesandfibres.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://filigranesandfibres.wordpress.com/', 'Filigranes and Fibres']);" >Filigranes and Fibres</a></li>
+<li><a href="http://jakethepony.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://jakethepony.wordpress.com/', 'Jake the Pony']);" >Jake the Pony</a></li>
+<li><a href="http://latinamericandevelopment.blogspot.co.uk/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://latinamericandevelopment.blogspot.co.uk/', 'Latin American Development']);" >Latin American Development</a></li>
+<li><a href="http://annewelsh.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://annewelsh.wordpress.com/', 'Library Marginalia']);" >Library Marginalia</a></li>
+<li><a href="http://mishonstatements.blogspot.co.uk/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://mishonstatements.blogspot.co.uk/', 'Mish on Statements']);" >Mish on Statements</a></li>
+<li><a href="http://newbieresearcher.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://newbieresearcher.wordpress.com/', 'Newbie Researcher']);" >Newbie Researcher</a></li>
+<li><a href="http://procrastinationoxford.org/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://procrastinationoxford.org/', 'Procrastination Oxford']);" >Procrastination Oxford</a></li>
+<li><a href="http://psylina.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://psylina.wordpress.com/', 'Psylina Psays']);" >Psylina Psays</a></li>
+<li><a href="http://roomb100.tumblr.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://roomb100.tumblr.com/', 'Room B100']);" >Room B100</a></li>
+<li><a href="http://talesofatraineelibrarian.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://talesofatraineelibrarian.wordpress.com/', 'Tales of a Trainee Librarian']);" >Tales of a Trainee Librarian</a></li>
+<li><a href="http://theclerkstale.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://theclerkstale.wordpress.com/', 'The Clerk\'s Tale']);" >The Clerk&#039;s Tale</a></li>
+<li><a href="http://thingsbrightandshiny.blogspot.ie/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://thingsbrightandshiny.blogspot.ie/', 'Things Bright and Shiny']);" >Things Bright and Shiny</a></li>
+<li><a href="http://swyved.tumblr.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://swyved.tumblr.com/', 'This Is Swyved']);" >This Is Swyved</a></li>
+<li><a href="http://www.tonahangen.com/blog/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.tonahangen.com/blog/', 'Tona Hangen']);" >Tona Hangen</a></li>
+
+	</ul>
+</aside>
+<aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-61"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/bonus-thing/" >Bonus Thing</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/guest-posts/" >Guest Posts</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-1/" >Thing 1</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-10/" >Thing 10</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-11/" >Thing 11</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-12/" >Thing 12</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-13/" >Thing 13</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-14/" >Thing 14</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-15/" >Thing 15</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-16/" >Thing 16</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-17/" >Thing 17</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-18/" >Thing 18</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-19/" >Thing 19</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-2/" >Thing 2</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-20/" >Thing 20</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-21/" >Thing 21</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-22/" >Thing 22</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-23/" >Thing 23</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-3/" >Thing 3</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-4/" >Thing 4</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-5/" >Thing 5</a>
+</li>
+	<li class="cat-item cat-item-14 current-cat"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-6/" >Thing 6</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-7/" >Thing 7</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-8/" >Thing 8</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-9/" >Thing 9</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/updates/" >Updates</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/welcome/" >Welcome</a>
+</li>
+		</ul>
+</aside><aside id="text-4" class="widget widget_text"><h3 class="widget-title">Subscribe by RSS</h3>			<div class="textwidget"><div><a href="/23things/feed" title="Subscribe by RSS"><img src="/wp-content/themes/twentyeleven-shakespeare/images/rss32.png" alt="RSS"></a>
+</div>
+	</div>
+		</aside><aside id="text-8" class="widget widget_text"><h3 class="widget-title">Subscribe by email</h3>			<div class="textwidget"><a href="http://blogs.bodleian.ox.ac.uk/23things/wp-admin/admin.php?page=s2">Sign up</a> to receive notifications of new posts by email.</div>
+		</aside><aside id="text-5" class="widget widget_text"><h3 class="widget-title">Creative Commons</h3>			<div class="textwidget"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB', '']);" rel="license"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span>23 Things for Research</span> is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB', 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License']);" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</div>
+		</aside>		</div><!-- #secondary .widget-area -->
+
+  </div><!-- #main -->
+
+  <footer id="colophon" role="contentinfo">
+    
+
+    <div id="site-generator">
+              <div class="widget-area">
+          <aside id="text-6" class="widget widget_text">			<div class="textwidget"><a href="http://www.bodleian.ox.ac.uk/"><img style="margin-right: 25px" src="/23things/files/2014/01/bodleian.png" alt="Bodleian Libraries"></a>
+
+<a href="http://www.it.ox.ac.uk/"><img style="margin-left: 25px" src="/23things/files/2012/09/iTservices91x80.png" alt="IT Services"></a>
+
+<p>
+  &copy; 2012 <a href="http://www.bodleian.ox.ac.uk/">Bodleian Libraries</a>
+  |
+  <a href="/23things/accessibility">Accessibility</a>
+  |
+  <a href="/23things/terms-of-use">Terms of Use</a>
+  |
+  <a href="/23things/cookies">Cookies</a>
+</p></div>
+		</aside>        </div>
+      
+    </div>
+
+  </footer><!-- #colophon -->
+
+  <style type="text/css">/* <![CDATA[ */
+.cookie-policy, .cookie-policy .grid {
+  background: url('http://www.bodleian.ox.ac.uk/__data/assets/image/0018/116505/footer-pattern.png') repeat-x 0 -3px black;
+}
+.cookie-policy {
+  color: white;
+  font-size: 0.857em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.cookie-policy .grid {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1008px;
+}
+.cookie-policy .grid .twelve {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 978px;
+}
+.cookie-policy a.close {
+  background: url('http://www.bodleian.ox.ac.uk/__data/assets/image/0010/116497/close-cookie-policy-box.jpg') scroll no-repeat center center transparent;
+  display: block;
+  float: right;
+  margin: 3px 0 0 20px;
+  height: 18px;
+  width: 18px;
+}
+.cookie-policy .detail.for-desktop {
+  display: block;
+}
+.cookie-policy .detail.for-mobile {
+  display: none;
+}
+.cookie-policy .detail {
+  color: #bebebe;
+  padding: 3px 0;
+}
+.cookie-policy .detail a {
+  color: #ffffff;
+}
+.cookie-policy p {
+  margin: 2px 0;
+  font: 12px 'Arial', sans-serif;
+}
+/* ]]> */</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="application/javascript">
+/* Close cookie policy notice */
+function createCookie(name, value, days) {
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    var expires = "; expires=" + date.toGMTString();
+  } else var expires = "";
+  document.cookie = name + "=" + value + expires + "; path=/";
+}
+
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+  }
+  return null;
+}
+
+function eraseCookie(name) {
+  createCookie(name, "", -1);
+}
+jQuery(function(){
+  jQuery('.cookie-policy a.close').click(function (e) {
+    e.preventDefault();
+    jQuery('.cookie-policy').hide();
+    createCookie('groupCookiePolicyClosed', 1, 30);
+  });
+  if (readCookie('groupCookiePolicyClosed')) {
+    jQuery('.cookie-policy a.close').parent().hide();
+  }
+});
+/* Close cookie policy - end*/
+</script>
+<div class="cookie-policy">
+  <div class="grid">
+    <div class="twelve">
+      <a href="#" title="Accept and close" class="close"></a>
+      <p class="detail for-desktop">This site uses cookies to support some content and functions, and also Google Analytics. By using this site you agree to their use. <a href="http://blogs.bodleian.ox.ac.uk/cookies">Find out more and opt out &raquo;</a></p>
+      <p class="detail for-mobile"><a href="http://blogs.bodleian.ox.ac.uk/cookies">This site uses cookies to support some content and functions, and also Google Analytics &raquo;</a></p>
+    </div>
+  </div>
+</div>
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+<script type="text/javascript">
+
+var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-4.0.7';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50703cbb55109449"></script><script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201525'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Junaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/23things/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201525.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'59077320',post:'0',tz:'1',srv:'blogs.bodleian.ox.ac.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '59077320', '0' ]);
+</script>
+<!--wp_footer-->
+</body>
+</html>

@@ -5,7 +5,7 @@ import socket
 import sys
 
 from util import config
-from SAEJudge.JudgeQueue import JudgeQueue
+from SAEJudge.SAEJudge import SAEJudge
 import logging
 from util.logger import log
 
@@ -16,7 +16,7 @@ log.info('start listening on %s' % str(config.socket_addr_judge))
 sock.bind(config.socket_addr_judge)
 # Listen for incoming connections
 sock.listen(10)
-queue = JudgeQueue()
+queue = SAEJudge(config.path_dtree,config.dtree_param)
 
 while True:
     # Wait for a connection

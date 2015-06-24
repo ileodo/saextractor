@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html>
+<head><title>
+	Untitled Page
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=chemistry-layout&amp;s=21&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+</head>
+<body class="help-page">
+    <form method="post" action="Help.aspx?helpkey=search-help" id="form1">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="5" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0MTg0MzI0NjQPZBYCAgMPZBYCAgEPZBYCAgMPFgIeBFRleHQFiQ08ZGl2Pg0KPHA+QSBxdWVyeSBpcyBicm9rZW4gdXAgaW50byB0ZXJtcyBhbmQgb3BlcmF0b3JzLiBUaGVyZSBhcmUgdHdvIHR5cGVzIG9mIHRlcm1zOiBTaW5nbGUgVGVybXMgYW5kIFBocmFzZXMuPC9wPg0KPHA+QSBTaW5nbGUgVGVybSBpcyBhIHNpbmdsZSB3b3JkIHN1Y2ggYXMgInRlc3QiIG9yICJoZWxsbyIuPC9wPg0KPHA+QSBQaHJhc2UgaXMgYSBncm91cCBvZiB3b3JkcyBzdXJyb3VuZGVkIGJ5IGRvdWJsZSBxdW90ZXMgc3VjaCBhcyAiaGVsbG8gZG9sbHkiLjwvcD4NCjxwPk11bHRpcGxlIHRlcm1zIGNhbiBiZSBjb21iaW5lZCB0b2dldGhlciB3aXRoIEJvb2xlYW4g" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="b3BlcmF0b3JzIHRvIGZvcm0gYSBtb3JlIGNvbXBsZXggcXVlcnkuIEJvb2xlYW4gb3BlcmF0b3JzIGFsbG93IHRlcm1zIHRvIGJlIGNvbWJpbmVkIHRocm91Z2ggbG9naWMgb3BlcmF0b3JzLiBUaGUgc2VhcmNoIGVuZ2luZSBzdXBwb3J0cyBBTkQsICIrIiwgT1IsIE5PVCBhbmQgIi0iIGFzIEJvb2xlYW4gb3BlcmF0b3JzIChOb3RlOiBCb29sZWFuIG9wZXJhdG9ycyBtdXN0IGJlIEFMTCBDQVBTKS4gJm5ic3A7VGhlIE9SIG9wZXJhdG9yIGlzIHRoZSBkZWZhdWx0IGNvbmp1bmN0aW9uIG9wZXJhdG9yLiBUaGlzIG1lYW5zIHRoYXQgaWYgdGhlcmUgaXMgbm8gQm9vbGVhbiBvcGVyYXRvciBiZXR3ZWVuIHR3byB0ZXJtcywgdGhlIE9SIG9wZXJhdG9yIGlzIHVz" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="ZWQuIFRoZSBPUiBvcGVyYXRvciBsaW5rcyB0d28gdGVybXMgYW5kIGZpbmRzIGEgbWF0Y2hpbmcgZG9jdW1lbnQgaWYgZWl0aGVyIG9mIHRoZSB0ZXJtcyBleGlzdCBpbiBhIGRvY3VtZW50LiAmbmJzcDtUaGUgQU5EIG9wZXJhdG9yIG1hdGNoZXMgZG9jdW1lbnRzIHdoZXJlIGJvdGggdGVybXMgZXhpc3QgYW55d2hlcmUgaW4gdGhlIHRleHQgb2YgYSBzaW5nbGUgZG9jdW1lbnQuPC9wPg0KPHA+VGhlIE5PVCBvcGVyYXRvciBleGNsdWRlcyBkb2N1bWVudHMgdGhhdCBjb250YWluIHRoZSB0ZXJtIGFmdGVyIE5PVC48L3A+DQo8cD5UaGUgc2VhcmNoIGVuZ2luZSBzdXBwb3J0cyB1c2luZyBwYXJlbnRoZXNlcyB0byBncm91cCBjbGF1c2VzIHRvIGZvcm0gc3Vi" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="IHF1ZXJpZXMuIFRoaXMgY2FuIGJlIHZlcnkgdXNlZnVsIGlmIHlvdSB3YW50IHRvIGNvbnRyb2wgdGhlIGJvb2xlYW4gbG9naWMgZm9yIGEgcXVlcnkuIEV4YW1wbGU6IChqYWthcnRhIE9SIGFwYWNoZSkgQU5EIHdlYnNpdGU8L3A+DQo8cD5UaGUgIisiIG9yIHJlcXVpcmVkIG9wZXJhdG9yIHJlcXVpcmVzIHRoYXQgdGhlIHRlcm0gYWZ0ZXIgdGhlICIrIiBzeW1ib2wgZXhpc3Qgc29tZXdoZXJlIGluIGEgdGhlIGZpZWxkIG9mIGEgc2luZ2xlIGRvY3VtZW50LjwvcD4NCjxwPlRvIGRvIGEgZnV6enkgc2VhcmNoIHVzZSB0aGUgdGlsZGUsICJ+Iiwgc3ltYm9sIGF0IHRoZSBlbmQgb2YgYSBTaW5nbGUgd29yZCBUZXJtLjwvcD4NCjxwPlRvIHBlcmZvcm0gYSBz" />
+<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="aW5nbGUgY2hhcmFjdGVyIHdpbGRjYXJkIHNlYXJjaCB1c2UgdGhlICI/IiBzeW1ib2wuPC9wPg0KPHA+VG8gcGVyZm9ybSBhIG11bHRpcGxlIGNoYXJhY3RlciB3aWxkY2FyZCBzZWFyY2ggdXNlIHRoZSAiKiIgc3ltYm9sLjwvcD4NCjxwPk5vdGU6IFlvdSBjYW5ub3QgdXNlIGEgKiBvciA/IHN5bWJvbCBhcyB0aGUgZmlyc3QgY2hhcmFjdGVyIG9mIGEgc2VhcmNoLjwvcD4NCjwvZGl2PmRkPtldAl564xhDM/KVSg5t0zWI1ac=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BDEA3729" />
+    <div id="pnlHelp">
+	
+        
+        <div>
+<p>A query is broken up into terms and operators. There are two types of terms: Single Terms and Phrases.</p>
+<p>A Single Term is a single word such as "test" or "hello".</p>
+<p>A Phrase is a group of words surrounded by double quotes such as "hello dolly".</p>
+<p>Multiple terms can be combined together with Boolean operators to form a more complex query. Boolean operators allow terms to be combined through logic operators. The search engine supports AND, "+", OR, NOT and "-" as Boolean operators (Note: Boolean operators must be ALL CAPS). &nbsp;The OR operator is the default conjunction operator. This means that if there is no Boolean operator between two terms, the OR operator is used. The OR operator links two terms and finds a matching document if either of the terms exist in a document. &nbsp;The AND operator matches documents where both terms exist anywhere in the text of a single document.</p>
+<p>The NOT operator excludes documents that contain the term after NOT.</p>
+<p>The search engine supports using parentheses to group clauses to form sub queries. This can be very useful if you want to control the boolean logic for a query. Example: (jakarta OR apache) AND website</p>
+<p>The "+" or required operator requires that the term after the "+" symbol exist somewhere in a the field of a single document.</p>
+<p>To do a fuzzy search use the tilde, "~", symbol at the end of a Single word Term.</p>
+<p>To perform a single character wildcard search use the "?" symbol.</p>
+<p>To perform a multiple character wildcard search use the "*" symbol.</p>
+<p>Note: You cannot use a * or ? symbol as the first character of a search.</p>
+</div>
+    
+</div>
+    
+    
+
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript"> 
+try{
+var mojoPageTracker = _gat._getTracker("UA-49363107-1");
+
+mojoPageTracker._setCustomVar(1, "member-type", "anonymous", 1);mojoPageTracker._trackPageview();
+} catch(err) {} </script></form>
+</body>
+</html>

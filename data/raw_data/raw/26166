@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Collider - The Large Hadron Collider Mobile Phone App</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <style>
+            body {
+                padding-top: 60px;
+                padding-bottom: 40px;
+            }
+        </style>
+        <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+        <!-- This code is taken from http://twitter.github.com/bootstrap/examples/hero.html -->
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+                    <a class="brand" href="./index.html">Collider</a>
+                    <div class="nav-collapse collapse">
+                        <ul class="nav">
+                            <li class="active"><a href="./index.html">Home</a></li>
+                            <li><a href="./about.html">About</a></li>
+                            <li><a href="./contact.html">Contact</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Particle Physics <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="./sm.html">The Standard Model</a></li>
+                                    <li><a href="./higgs.html">The Higgs Boson</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">About ATLAS <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="./atlas.html">General Information</a></li>
+                                    <li><a href="./atlas-detail.html">ATLAS Subdetectors</a></li>
+                                    <li><a href="./detecting.html">Detecting Particles</a></li>
+                                    <li><a href="./analysis.html">Reconstructing Events</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="./credits.html">Credits</a></li>
+                        </ul>
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+
+            <!-- Main hero unit for a primary marketing message or call to action -->
+            <div class="hero-unit-huge">
+                <h1>Collider</h1>
+                <p>LHC Collisions on your Mobile Phone</p>
+                <p><a class="btn btn-primary btn-huge" href="./about.html">Get the App &raquo;</a></p>
+            </div>
+
+            <div class="row">
+                <div class="span8 offset2">
+                    <h1 class="text-center">The Higgs Boson in your hand</h1>
+                    <p class="lead text-center"><strong>Collider</strong> is a mobile application that lets you view high energy particle collisions directly from the Large Hadron Collider, making it simple to understand what's going on at a glance.</p>
+                    <p class="lead text-center">View live events, straight from the ATLAS Detector at CERN.<br/>Find out how to identify different particles.<br/>Hunt for the Higgs Boson.</p>
+                </div>
+            </div>
+
+            <hr>
+
+            <!-- Example row of columns -->
+            <div id="tutorial" class="row">
+                <div class="span4">
+                    <h2 class="text-center">Get Collider</h2>
+                    <p class="text-center"><a class="btn" href="./about.html"><img src="./img/ss1.png" class="img-polaroid"></a></p>
+                    <p class="text-center">A Z Boson decay visualised inside Collider.</p>
+                </div>
+                <div class="span4">
+                    <h2 class="text-center">Detecting Particles</h2>
+                    <p class="text-center"><a class="btn" href="./detecting.html"><img src="./img/detecting.png" class="img-polaroid"></a></p>
+                    <p class="text-center">ATLAS uses several layers of different detectors in order to observe particles.</p>
+                </div>
+                <div class="span4">
+                    <h2 class="text-center">Piecing Together Events</h2>
+                    <p class="text-center"><a class="btn" href="./analysis.html"><img src="./img/jigsaw.png" class="img-polaroid"></a></p>
+                    <p class="text-center">Many particles decay into smaller particles before we can see them. We must look at all of the pieces in an event to reconstruct the puzzle.</p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="span4">
+                    <h2 class="text-center">What is ATLAS?</h2>
+                    <p class="text-center"><a class="btn" href="./atlas.html"><img src="./img/atlaslogo.png" class="img-polaroid"></a></p>
+                    <p class="text-center">ATLAS is a giant detector at the Large Hadron Collider.</p>
+                </div>
+                <div class="span4">
+                    <h2 class="text-center">What is a Higgs Boson?</h2>
+                    <p class="text-center"><a class="btn" href="./higgs.html"><img src="./img/atlashiggs.png" class="img-polaroid"></a></p>
+                    <p class="text-center">The Higgs boson is a particle which explains why other particles have mass.</p>
+               </div>
+                <div class="span4">
+                    <h2 class="text-center">Credits</h2>
+                    <p class="text-center"><a class="btn" href="./credits.html"><img src="./img/credits.png" class="img-polaroid"></a></p>
+                    <p class="text-center">Collider was created by physicists at the University of Oxford, with help from STFC, ATLAS and CERN.</p>
+               </div>
+            </div>
+
+            <hr>
+
+            <footer>
+                <p>&copy; University of Oxford, 2013</p>
+            </footer>
+
+        </div> <!-- /container -->
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+
+        <script src="js/vendor/bootstrap.min.js"></script>
+
+        <script src="js/main.js"></script>
+
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-42555369-1', 'ox.ac.uk');
+          ga('send', 'pageview');
+
+        </script>
+    </body>
+</html>

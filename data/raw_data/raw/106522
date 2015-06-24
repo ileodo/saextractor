@@ -1,0 +1,310 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content=" 
+Poverty is a complex phenomenon with multiple causes. In the Oxford Martin School Programme on Human Rights for Future Generations we focus on studying normative, legal, and institutional questions that are related to poverty. We examine whether a human rights paradigm offers a meaningful foundation for addressing issues linked to poverty, in particular for the relationship between current and future generations. Our approach is interdisciplinary, and we aim to develop a human rights framework which draws on ethics, law, politics and international relations. We consider what exactly the term ‘poverty’ means, and we evaluate from a philosophical perspective what kind of moral claims those facing poverty can be argued to have. We also study the agents with moral and legal duties towards persons facing poverty, and how duties in the context of poverty should be institutionalised. Should the states be considered as the primary duty-bearers? What role should intergovernmental organisations, non-governmental organisations, and multinational corporations have in the protection of persons from poverty? We also evaluate the link between legal and philosophical human rights analysis. If it is concluded that the moral claims of those facing poverty extend beyond the existing legal human rights framework, what – if anything – should be done about this incongruence?" />
+<link rel="shortcut icon" href="http://www.humanrights.ox.ac.uk/sites/humanrights.ox.ac.uk/files/favicon_1.ico" type="image/vnd.microsoft.icon" />
+<meta about="/research-themes/poverty" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="Poverty" />
+<link rel="shortlink" href="/taxonomy/term/4" />
+<link rel="alternate" type="application/rss+xml" title="RSS - Poverty" href="http://www.humanrights.ox.ac.uk/taxonomy/term/4/feed" />
+<link rel="canonical" href="/research-themes/poverty" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+	<title>Poverty | Oxford Human Rights at the Faculty of Law</title>
+	<style type="text/css" media="all">
+@import url("http://www.humanrights.ox.ac.uk/modules/system/system.base.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/modules/system/system.menus.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/modules/system/system.messages.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/modules/system/system.theme.css?nop0nk");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.humanrights.ox.ac.uk/sites/all/modules/date/date_api/date.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/modules/field/theme/field.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/modules/node/node.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/modules/search/search.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/modules/user/user.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/sites/all/modules/views/css/views.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/sites/all/modules/ckeditor/css/ckeditor.css?nop0nk");
+</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin,latin-ext" media="all" />
+<style type="text/css" media="all">
+@import url("http://www.humanrights.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/sites/all/modules/nice_menus/nice_menus.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/sites/all/modules/nice_menus/nice_menus_default.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/sites/all/modules/views_slideshow/views_slideshow.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/views_slideshow_cycle.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/modules/taxonomy/taxonomy.css?nop0nk");
+</style>
+<style type="text/css" media="all">
+@import url("http://www.humanrights.ox.ac.uk/sites/all/themes/humanrights/css/style.css?nop0nk");
+@import url("http://www.humanrights.ox.ac.uk/sites/humanrights.ox.ac.uk/files/google_fonts.css?nop0nk");
+</style>
+	<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/misc/drupal.js?nop0nk"></script>
+<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/sites/all/modules/nice_menus/superfish/js/superfish.js?nop0nk"></script>
+<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/sites/all/modules/nice_menus/superfish/js/jquery.bgiframe.min.js?nop0nk"></script>
+<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/sites/all/modules/nice_menus/superfish/js/jquery.hoverIntent.minified.js?nop0nk"></script>
+<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/sites/all/modules/nice_menus/nice_menus.js?nop0nk"></script>
+<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/sites/all/modules/views_slideshow/js/views_slideshow.js?nop0nk"></script>
+<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/sites/all/libraries/jquery.cycle/jquery.cycle.all.js?nop0nk"></script>
+<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/sites/all/modules/views_slideshow/contrib/views_slideshow_cycle/js/views_slideshow_cycle.js?nop0nk"></script>
+<script type="text/javascript" src="http://www.humanrights.ox.ac.uk/sites/all/modules/google_analytics/googleanalytics.js?nop0nk"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1161194-19"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"humanrights","theme_token":"dex_mZ9v2Q5lYM0JySTHKPcHNCB-XVr_7fcHRVo3npg","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300\u0026subset=latin,latin-ext":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/nice_menus\/nice_menus.css":1,"sites\/all\/modules\/nice_menus\/nice_menus_default.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"modules\/taxonomy\/taxonomy.css":1,"sites\/all\/themes\/humanrights\/css\/style.css":1,"public:\/\/google_fonts.css":1}},"nice_menus_options":{"delay":"1","speed":"fast"},"viewsSlideshow":{"slideshow-block":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowPager":{"slideshow-block":{"bottom":{"type":"viewsSlideshowPagerFields"}}},"viewsSlideshowPagerFields":{"slideshow-block":{"bottom":{"activatePauseOnHover":0}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_slideshow-block":{"num_divs":4,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"slideshow-block","effect":"fade","transition_advanced":1,"timeout":7000,"speed":700,"delay":0,"sync":1,"random":0,"pause":0,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-4" >
+	<div id="skip-link">
+		<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+	</div>
+		<div id="headerback"></div>
+
+<div id="container">
+	<div id="headwrap">
+		<div id="header">
+			<div id="logo">
+                <a href="/" >
+                    <img id="oxlogo" src="/sites/all/themes/humanrights/css/images/oxlogo.png" />
+                    <img id="title" src="/sites/all/themes/humanrights/css/images/title.png" />
+                </a>
+				<div class="clear"></div>
+			</div>
+			<div id="mainmenu">
+				  <div class="region region-menu">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="expanded"><a href="/about" title="Find out more about us and our work">About</a><ul class="menu"><li class="first leaf"><a href="/people">People</a></li>
+<li class="last leaf"><a href="/partners">Partners</a></li>
+</ul></li>
+<li class="expanded active-trail"><a href="/research" class="active-trail">Research</a><ul class="menu"><li class="first leaf"><a href="/research" title="">Overview</a></li>
+<li class="expanded"><a href="/research/projects" title="">All Projects</a><ul class="menu"><li class="first leaf"><a href="/research/projects/law-relating-humanitarian-relief-operations-armed-conflict">The Law of Humanitarian Assistance</a></li>
+<li class="leaf"><a href="/research/projects/just-war-theory-20-project">Just War Theory 2.0 project</a></li>
+<li class="leaf"><a href="/research/projects/climate-change-and-non-ideal-justice">Non-Ideal Justice</a></li>
+<li class="leaf"><a href="/research/projects/responsibility-protect-and-human-rights">Responsibility to Protect and Human Rights</a></li>
+<li class="leaf"><a href="/research/projects/human-rights-and-budgeting">Human Rights and Budgeting</a></li>
+<li class="leaf"><a href="/research/projects/use-robotic-weapons-systems-armed-forces">Robotic Weapons Systems</a></li>
+<li class="leaf"><a href="/research/projects/arms-trade-treaty-project">Arms Trade Treaty</a></li>
+<li class="last leaf"><a href="/research/projects/protection-education-armed-conflict-situations">Protection of Education in Armed Conflict Situations</a></li>
+</ul></li>
+<li class="last expanded active-trail"><a href="/research-themes" class="active-trail">By Theme</a><ul class="menu"><li class="first leaf active-trail"><a href="/research-themes/poverty" title="" class="active-trail active">Poverty</a></li>
+<li class="leaf"><a href="/research-themes/armed-conflict" title="">Armed Conflict</a></li>
+<li class="last leaf"><a href="/research-themes/climate-change" title="">Climate Change</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/events" title="">Events</a><ul class="menu"><li class="first last leaf"><a href="/events/past">Past Events</a></li>
+</ul></li>
+<li class="leaf"><a href="/news">News</a></li>
+<li class="last leaf"><a href="/contact" title="">Contact</a></li>
+</ul>  </div>
+</div>
+  </div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+
+	<div id="main">
+		<div id="content">
+
+			<h1>Poverty</h1>
+			  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="term-listing-heading"><div id="taxonomy-term-4" class="taxonomy-term vocabulary-research-themes">
+
+  
+  <div class="content">
+    <div class="taxonomy-term-description"><p> </p>
+<p>Poverty is a complex phenomenon with multiple causes. In the Oxford Martin School Programme on Human Rights for Future Generations we focus on studying normative, legal, and institutional questions that are related to poverty. We examine whether a human rights paradigm offers a meaningful foundation for addressing issues linked to poverty, in particular for the relationship between current and future generations. Our approach is interdisciplinary, and we aim to develop a human rights framework which draws on ethics, law, politics and international relations. We consider what exactly the term ‘poverty’ means, and we evaluate from a philosophical perspective what kind of moral claims those facing poverty can be argued to have. We also study the agents with moral and legal duties towards persons facing poverty, and how duties in the context of poverty should be institutionalised. Should the states be considered as the primary duty-bearers? What role should intergovernmental organisations, non-governmental organisations, and multinational corporations have in the protection of persons from poverty? We also evaluate the link between legal and philosophical human rights analysis. If it is concluded that the moral claims of those facing poverty extend beyond the existing legal human rights framework, what – if anything – should be done about this incongruence?</p>
+</div>  </div>
+
+</div>
+</div><div id="node-108" class="node node-research-project node-teaser clearfix" about="/research/projects/protection-education-armed-conflict-situations" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/research/projects/protection-education-armed-conflict-situations">Protection of Education in Armed Conflict Situations</a></h2>
+    <span property="dc:title" content="Protection of Education in Armed Conflict Situations" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>It is a sad reality that educational facilities as battlegrounds are a common feature of many situations of insecurity and armed conflict. Excessive use of force by state forces or by non-state armed groups, combined with the fact that hostilities often take place in urban areas, make educational facilities, students, and educators frequent casualties. Moreover, evidence suggests that education ‘as such’ is not simply the victim of collateral damage but has become a specific target of attack.</p></div></div></div>  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/research/projects/protection-education-armed-conflict-situations" rel="tag" title="Protection of Education in Armed Conflict Situations">Read more<span class="element-invisible"> about Protection of Education in Armed Conflict Situations</span></a></li>
+</ul>
+  
+</div>
+<div id="node-107" class="node node-research-project node-teaser clearfix" about="/research/projects/responsibility-protect-and-human-rights" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/research/projects/responsibility-protect-and-human-rights">Responsibility to Protect and Human Rights</a></h2>
+    <span property="dc:title" content="Responsibility to Protect and Human Rights" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Prof. Jennifer Welsh (Special Adviser to the UN Secretary-General on the Responsibility to Protect) and Dr. Gilles Giacca are conducting a research on the relationship between "Resposnibility to Protect" and human rights.</p></div></div></div>  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/research/projects/responsibility-protect-and-human-rights" rel="tag" title="Responsibility to Protect and Human Rights">Read more<span class="element-invisible"> about Responsibility to Protect and Human Rights</span></a></li>
+</ul>
+  
+</div>
+<div id="node-100" class="node node-research-project node-teaser clearfix" about="/research/projects/orienting-institutions-towards-long-term" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/research/projects/orienting-institutions-towards-long-term">Orienting Institutions towards the Long Term</a></h2>
+    <span property="dc:title" content="Orienting Institutions towards the Long Term" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>It is a common complaint that policymaking is too much oriented towards the short term. One countermeasure to this myopia consists in speaking to the conscience of policymakers and urging them to choose policies that take better account of the future. Another countermeasure consists in taking policymakers “as they are” and redesigning institutions such that they force or at least support them in choosing policies that take the future better into account. In this research project, we are focusing on the latter route, i.e.</p></div></div></div>  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/research/projects/orienting-institutions-towards-long-term" rel="tag" title="Orienting Institutions towards the Long Term">Read more<span class="element-invisible"> about Orienting Institutions towards the Long Term</span></a></li>
+</ul>
+  
+</div>
+<div id="node-35" class="node node-research-project node-teaser clearfix" about="/research/projects/human-rights-and-budgeting" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/research/projects/human-rights-and-budgeting">Human Rights and Budgeting</a></h2>
+    <span property="dc:title" content="Human Rights and Budgeting" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Traditionally human rights have had a marginal role in state budgeting. We consider this to be an important deficiency that needs urgent addressing. As budgets have a central role in states’ policy-making, the development and the application of this analytical framework can be considered to be of fundamental importance. The implementation of policies generally requires resources, and states need to decide how to raise revenue and how to allocate its scarce resources between competing policy proposals.</p></div></div></div>  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/research/projects/human-rights-and-budgeting" rel="tag" title="Human Rights and Budgeting">Read more<span class="element-invisible"> about Human Rights and Budgeting</span></a></li>
+</ul>
+  
+</div>
+<div id="node-23" class="node node-research-project node-teaser clearfix" about="/research/projects/arms-trade-treaty-project" typeof="sioc:Item foaf:Document">
+
+  
+        <h2><a href="/research/projects/arms-trade-treaty-project">Arms Trade Treaty Project</a></h2>
+    <span property="dc:title" content="Arms Trade Treaty Project" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="rtejustify">On Tuesday, 2 April 2013, after many years of discussions and negotiations, the United Nations General Assembly adopted the UN Arms Trade Treaty (ATT) by an overwhelming margin — the first ever global agreement governing the conventional arms trade. The treaty has been open for signature since 3 June 2013.</p>
+<p class="rtejustify"> </p></div></div></div>  </div>
+
+  <ul class="links inline"><li class="node-readmore first last"><a href="/research/projects/arms-trade-treaty-project" rel="tag" title="Arms Trade Treaty Project">Read more<span class="element-invisible"> about Arms Trade Treaty Project</span></a></li>
+</ul>
+  
+</div>
+  </div>
+</div>
+  </div>
+		</div>
+		<div id="rightarea">  <div class="region region-rightarea">
+    <div id="block-views-research-themes-block" class="block block-views">
+
+    <h2>Research Themes</h2>
+  
+  <div class="content">
+    <div class="view view-research-themes view-id-research_themes view-display-id-block view-dom-id-715cfb63a3f986590590275a7de6dafa">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/research-themes/poverty" class="active"><div class="resimg"></div>
+Poverty</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/research-themes/climate-change"><div class="resimg"></div>
+Climate change</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd views-row-last">  
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/research-themes/armed-conflict"><div class="resimg"></div>
+Armed Conflict</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div class="clear"></div>    </div>
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-research-projects-block-2" class="block block-views">
+
+    <h2>Research Projects</h2>
+  
+  <div class="content">
+    <div class="view view-research-projects view-id-research_projects view-display-id-block_2 view-dom-id-f87ddad1331a29dc1f3a820c62a0f7e5">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+          <a href="/research/projects/climate-change-and-non-ideal-justice">Climate Change and Non-Ideal Justice</a>    </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+          <a href="/research/projects/international-humanitarian-law-and-international-human-rights-law">International Humanitarian Law and International Human Rights Law</a>    </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+          <a href="/research/projects/law-relating-humanitarian-relief-operations-armed-conflict">Law Relating to Humanitarian Relief Operations in Armed Conflict</a>    </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+          <a href="/research/projects/ethics-climate-change-and-role-discounting"> Ethics, Climate Change, and the role of Discounting</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+</div>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div id="footwrap">
+		<div id="footer">
+		<div id="footinner">
+			            <a href="http://www.oxfordmartin.ox.ac.uk/" >
+                <img id="omslogo" src="/sites/all/themes/humanrights/css/images/Oxford_Martin_School_logo.png" />
+            </a>
+            <a href="http://www.law.ox.ac.uk/" >
+                <img id="lawlogo" src="/sites/all/themes/humanrights/css/images/faculty_of_law_grey_square.png" />
+            </a>
+			<div id="copyright">2013 Copyright University of Oxford</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>		<script type="text/javascript">
+		(function($){
+			$(document).ready(function(){
+				$('li.expanded').mouseenter(function(){
+					$(this).addClass('over').children('ul.menu').show();
+				}).mouseleave(function(){
+					$(this).removeClass('over').find('ul.menu').hide();
+				});
+			});
+		})(jQuery)
+	</script>
+</body>
+</html>

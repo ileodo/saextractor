@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Imperial College London - STOP-HCV</title>
+			<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/general.css" type="text/css" />
+	<link rel="stylesheet" media="print" href="/_static/website/stylesheets/print.css" type="text/css" />
+	<link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery.lightbox-0.5.css" type="text/css" /><link rel="stylesheet" media="screen" href="/_static/website/stylesheets/jquery-ui-1.10.4.custom.min.css" type="text/css" />	<script id="jquery" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" ></script>
+	<script src="/_static/website/javascripts/jquery.lightbox-0.5.min.js" type="text/javascript"></script><script src="/_static/website/javascripts/jquery-ui-1.10.4.custom.min.js" type="text/javascript"></script>		<link rel="shortcut icon" href="/_static/website/images/icons/favicon.ico" type="image/x-icon" />
+</head>
+<body class="stop-hcv" >
+	<div id="header-wrapper">
+		<div id="header">
+			<div class="group">
+				<h1 style="position:absolute"><a href="/" title="Link to STOP-HCV homepage"><img class="stop-hcv-logo" src="/_static/website/images/STOP-HCV-logo-with-strapline.gif" width="270" height="100" alt="STOP-HCV" /></a></h1>
+			
+			<ul id="header-menu" style="width:100%;float:right;">
+				<li><a class="link-home-stophcv" href="/" title="Home">Home</a></li>
+				<li><a class="link-site-map-stophcv" href="/_sitemap" title="Site Map">Site Map</a></li>
+				<li><a class="link-contact-stophcv" href="/contact" title="Contact">Contact</a></li>
+				<li><a class="link-partner-access-stophcv" href="/partner-access" title="Contact">Partner Access</a></li>
+				<li><a class="link-edit-stophcv" href="/_admin/view/302" title="Edit">Edit</a></li>				<li><!-- <form class="search" action="/_search" method="get"><div class="search-box"><input id="search-field" name="q" type="text" size="10" value="Search..." onFocus="if(this.value == 'Search...') {this.value = '';}" onBlur="if (this.value == '') {this.value = 'Search...';}" /><input id="magnifier_image" name="b" type="image" src="/_static/website/images/icons/icon-search.gif" alt="magnifying glass" /></div></form> -->
+				<form class="search" id="cse-search-box" action="/_search">
+				<input type="hidden" name="cx" value="013190107294343682755:8njvtlob3vq" />
+				<input type="hidden" name="ie" value="UTF-8" />
+				<input id="ndmsearchbox" style="width:120px;color:#002147" type="text" name="q" size="31" />
+				
+				<input type="hidden" name="nojs" value="1" />
+			</form>
+				</li>
+			</ul>
+			<a href="http://www.mrc.ac.uk" target="_blank"><img class="mrc-image" src="/_static/website/images/stop-hcv-mrc.jpg" alt="medical research council" /></a>
+			</div>
+			<div class="stop-hcv-primary-menu group">
+			<ul id="primary-menu">
+							<li ><span class="primary-menu-link-wrapper"><a  href="/home" title="Home">Home</a></span></li>
+							<li ><span class="primary-menu-separator">|</span><span class="primary-menu-link-wrapper"><a  href="/about-stop-hcv" title="About STOP-HCV">About STOP-HCV</a></span></li>
+							<li class="current"><span class="primary-menu-separator">|</span><span class="primary-menu-link-wrapper"><a  href="/partners" title="Partners">Partners</a></span></li>
+							<li ><span class="primary-menu-separator">|</span><span class="primary-menu-link-wrapper"><a  href="/patient-information" title="Patient information">Patient information</a></span></li>
+						<li style="padding:5px;float:right;"><a href="https://twitter.com/STOPHCV" class="twitter-follow-button" data-show-count="false">Follow @STOPHCV</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</li>
+			</ul>
+			</div>
+		</div>
+	</div>
+	<div id="content-wrapper">
+									<ul id="secondary-menu" class="group">
+							<li class="current"><a  class="secondary-menu-link" href="/consortium-members" title="Consortium members">Consortium members</a></li>
+							<li><a  class="secondary-menu-link" href="/mrc-stratified-medicine" title="MRC &amp; Stratified Medicine">MRC &amp; Stratified Medicine</a></li>
+							<li><a  class="secondary-menu-link" href="/external-advisory-board" title="External Advisory Board">External Advisory Board</a></li>
+							</ul>	
+					<script type="text/javascript">
+$( document ).ready(function() {
+	$("a.research_group_link").each(function(index) {
+		if ($("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").length > 0) {
+			$("div#vacancy_feed_" + this.id.substr(20,6) + " p.job_links").append(this);
+		}
+		else {
+			$(this).hide();
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+$(function() {
+	$('a.lightbox').lightBox({
+		overlayOpacity: 0.6,
+		imageLoading: '/_static/website/images/lightbox/lightbox-ico-loading.gif',
+		imageBtnClose: '/_static/website/images/lightbox/lightbox-btn-close.gif',
+		imageBtnPrev: '/_static/website/images/lightbox/lightbox-btn-prev.gif',
+		imageBtnNext: '/_static/website/images/lightbox/lightbox-btn-next.gif',
+		imageBlank: '/_static/website/images/lightbox/lightbox-blank.gif'
+	});
+});
+</script>
+<div id="content">
+	<div class="group" style="border-radius: 10px; padding: 5px; background-color: #9bcfc5;"><div class="image_container left"><img src="/_asset/image/graham-cooke.png" alt="Graham Cooke" /></div>
+<p><strong>Graham Cooke</strong></p>
+<p><a href="http://www.imperial.ac.uk/AP/faces/pages/read/Home.jsp?person=g.cooke&amp;_adf.ctrl-state=aatr1896n_103&amp;_afrRedirect=844781174678044">Graham Cooke</a>&nbsp;is a Clinical Senior Lecturer in Infectious Diseases at the Department of Medicine, Imperial College London. His research has focussed on human genetics of tuberculosis, HIV and malaria, using genome wide approaches, to identify novel targets for intervention. &nbsp;He was previously based at the Africa Centre for Health and Population Studies in KwaZulu-Natal investigating the clinical and public health aspects of HIV/Tuberculosis care. His current work focuses on HIV co-infection, particularly HIV/Hepatitis and HIV/Tuberculosis.</p>
+<p>Dr Cooke leads work strand 7: Clinical implementation.</p>
+<p>Email:&nbsp;<a href="mailto:g.cooke@imperial.ac.uk">g.cooke@imperial.ac.uk</a></p>
+</div></div>
+<div id="side-bar">
+	<div class="side-box">
+		<h3>Consortium members</h3>
+		<ul>
+						<li><a  href="/university-of-birmingham" title="University of Birmingham">University of Birmingham</a>			</li>
+						<li><a  href="/university-of-bristol" title="University of Bristol">University of Bristol</a>			</li>
+						<li><a  href="/university-of-dundee" title="University of Dundee">University of Dundee</a>			</li>
+						<li><a  href="/university-of-edinburgh" title="University of Edinburgh">University of Edinburgh</a>			</li>
+						<li><a  href="/university-of-glasgow" title="University of Glasgow">University of Glasgow</a>			</li>
+						<li class="current"><a  href="/imperial-college-london" title="Imperial College London">Imperial College London</a>			</li>
+						<li><a  href="/london-school-of-hygiene-and-tropical-medicine" title="London School of Hygiene and Tropical Medicine">London School of Hygiene and Tropical Medicine</a>			</li>
+						<li><a  href="/university-of-nottingham" title="University of Nottingham">University of Nottingham</a>			</li>
+						<li><a  href="/university-of-oxford-consortium-lead" title="University of Oxford (consortium lead)">University of Oxford (consortium lead)</a>			</li>
+						<li><a  href="/queen-mary-university-of-london-2" title="Queen Mary University of London">Queen Mary University of London</a>			</li>
+						<li><a  href="/university-of-southampton" title="University of Southampton">University of Southampton</a>			</li>
+						<li><a  href="/wellcome-trust-sanger-institute" title="Wellcome Trust Sanger Institute">Wellcome Trust Sanger Institute</a>			</li>
+						<li><a  href="/public-health-england" title="Public Health England">Public Health England</a>			</li>
+						<li><a  href="/the-hepatitis-c-trust" title="The Hepatitis C Trust">The Hepatitis C Trust</a>			</li>
+						<li><a  href="/conatus" title="Conatus">Conatus</a>			</li>
+						<li><a  href="/gilead" title="Gilead">Gilead</a>			</li>
+						<li><a  href="/janssen-diagnostics" title="Janssen Diagnostics">Janssen Diagnostics</a>			</li>
+						<li><a  href="/medivir" title="Medivir">Medivir</a>			</li>
+						<li><a  href="/merck" title="Merck">Merck</a>			</li>
+						<li><a  href="/oncimmune" title="Oncimmune">Oncimmune</a>			</li>
+						<li><a  href="/united-therapeutics" title="United Therapeutics">United Therapeutics</a>			</li>
+					</ul>
+	</div>
+</div>
+		<div id="footer">
+			<p><a style="float:left;" href="http://www.ndm.ox.ac.uk/" title="Link to Nuffield Department of Medicine homepage" target="_blank"><img class="logo-rect" src="/_static/website/images/NDM-rec-spotblue_162x50.png" alt="Nuffield Department of Medicine logo" /></a><a style="float:right;" href="http://www.ox.ac.uk/" title="Link to Oxford University homepage" target="_blank"><img class="logo-rect" src="/_static/website/images/ox-rectangle-border.gif" alt="Oxford University logo" /></a>
+				© 2015 The Peter Medawar Building for Pathogen Research, University of Oxford,<br /> South Parks Road, Oxford, OX1&nbsp;3SY, United Kingdom
+			</p>
+						<p id="power_and_drive">Driven by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/_static/website/images/newt-favicon.gif" alt="newt favicon" /> Newt</a>, Powered by <a href="http://www.ndm.ox.ac.uk/ndm-tools"><img src="/_static/website/images/pinfox-favicon.gif" alt="pinfox favicon" /> Pinfox</a></p>
+			<p><a href="/">Home</a> | <a href="/_sitemap">Site Map</a> | <a href="/contact">Contact</a> | <a href="http://www.admin.ox.ac.uk/foi/" target="_blank">Freedom of Information</a> | <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/" target="_blank">Privacy Policy</a> | <a href="http://www.ox.ac.uk/copyright.html" target="_blank">Copyright</a> | <a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility</a> | <a href="http://www.medsci.ox.ac.uk/" target="_blank">Medical Sciences Division</a> | <a href="http://www.ox.ac.uk/" target="_blank">Oxford University</a><br /><a href="http://www.genome.gov" target="_blank">NHGRI images courtesty of Jane Ades</a></p>
+		</div>
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44734616-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script></body>
+</html>

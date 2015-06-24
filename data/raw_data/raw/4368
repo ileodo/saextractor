@@ -1,0 +1,640 @@
+		
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Radcliffe Science Library | Print, Copy and Scan (PCAS)</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width; initial-scale=1.0">
+  <meta name="lastUpdated" content="2014-02-11 10:49:08">
+  <meta name="lastPublished" content="2009-10-08 09:16:16">
+  
+<!-- 2012 Bodleian Libraries Main //-->
+
+<!-- Custom top menu type //-->
+
+<!-- general optional //-->
+
+<!-- User Defined //-->
+<meta name="Description" content="The Radcliffe Science Library provides services to support the teaching and learning needs of the science community at Oxford University." />
+<meta name="Keywords" content="Radcliffe Science Library; RSL; science libraries; PCAS; print; copy; scan; photocopy" />
+
+<!-- System Defined //-->
+<meta name="Title" content="Printing, Copying and Scanning (PCAS) service" />
+<meta name="Date Published" content="08/10/2009 09:16:AM" />
+
+<!-- Navigation type //-->
+
+<!-- RHS Column Library //-->
+
+<!-- Social Sharing Metadata //-->
+
+<!-- Open Graph Basic //-->
+<meta name="og:title" content="Printing, Copying and Scanning (PCAS) service" />
+<meta name="og:type" content="website" />
+<meta name="og:url" content="http://www.bodleian.ox.ac.uk/science/use/printing" />
+<meta name="og:image" content="http://www.bodleian.ox.ac.uk/__data/resize/resize.php?sa=154,,172516" />
+
+<!-- Open Graph Optional //-->
+<meta name="og:determiner" content="auto" />
+<meta name="og:locale" content="en_GB" />
+<meta name="og:site_name" content="Bodleian Libraries" />
+
+<!-- Twitter Cards Basic //-->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@BodleianLibs" />
+<meta name="twitter:title" content="Printing, Copying and Scanning (PCAS) service" />
+<meta name="twitter:description" content="The Radcliffe Science Library provides services to support the teaching and learning needs of the science community at Oxford University." />
+
+<!-- Twitter Cards Optional //-->
+<meta name="twitter:image" content="http://www.bodleian.ox.ac.uk/__data/resize/resize.php?sa=154,,172516" />
+
+
+  <meta property="og:image" content="http://www.bodleian.ox.ac.uk/__data/resize/resize.php?s=50&a="/>
+  <link rel="shortcut icon" href="http://www.bodleian.ox.ac.uk/__data/assets/file/0003/89436/bod-logo-16.ico" />			<link rel="stylesheet" type="text/css" href="http://www.bodleian.ox.ac.uk/__data/assets/file/0016/130822/master.css?v=0.1.6" media="all" />
+								<link rel="stylesheet" type="text/css" href="http://www.bodleian.ox.ac.uk/__data/assets/file/0011/130889/responsive.css?v=0.1.3" media="all" />
+								<link rel="stylesheet" type="text/css" href="http://www.bodleian.ox.ac.uk/__data/assets/file/0019/122365/master.css?v=0.1.60" media="all" />
+								
+
+  <!--[if IE 7]>
+						<![endif]-->
+  <!--[if IE 6]>
+						<link rel="stylesheet" type="text/css" href="http://www.bodleian.ox.ac.uk/__data/assets/file/0005/130892/ie6.css?v=0.1.3" media="all" />
+								<![endif]-->
+  
+  
+			<!--[if lt IE 8]><script src="http://www.bodleian.ox.ac.uk/__data/assets/js_file/0015/121029/IE8.js"></script><![endif]-->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+<script type="text/javascript">if (typeof jQuery == 'undefined') {document.write(unescape("%3Cscript src='http://www.bodleian.ox.ac.uk/__data/assets/js_file/0007/121030/jquery-1.8.2.min.js' type='text/javascript'%3E%3C/script%3E"));}</script>
+
+<script type="text/javascript" src="http://www.bodleian.ox.ac.uk/__data/assets/js_file/0009/121032/thirdparty.js"></script><!-- thirdparty.js -->
+<script type="text/javascript" src="http://www.bodleian.ox.ac.uk/__data/assets/js_file/0008/121031/master.js"></script><!-- master.js -->
+<script type="text/javascript" src="http://www.bodleian.ox.ac.uk/__data/assets/js_file/0005/122468/auto_anchors.js"></script><!-- auto_anchors.js -->
+
+<!-- ShareThis -->
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "ur-d23cb29f-4a10-310f-ea9e-17fdba971be", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16864247-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type="text/javascript" src="/__data/assets/js_file/0011/78860/asset_tracking.js"></script>			
+
+
+
+  <meta http-equiv="Last-Modified" content="Tue, 11 Feb 2014 10:49:08 +0000" />
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 18 June 2015 11:10:21
+-->
+
+
+
+</head>
+<body class="floating-footer" data-librarydata-id="47">
+  <div id="top"></div>
+  
+  <div class="cookie-policy">
+  <div class="grid">
+    <div class="twelve">
+      <a href="#" title="Accept and close" class="close"></a>
+      <div class="detail for-desktop">This site uses cookies to support some content and functions, and also Google Analytics. By using this site you agree to their use. <a href="http://www.bodleian.ox.ac.uk/cookies">Find out more and opt out &raquo;</a></div>
+      <div class="detail for-mobile">This site uses cookies to support some content and functions, and also Google Analytics. <a href="http://www.bodleian.ox.ac.uk/cookies">More &raquo;</a></div>
+    </div>
+  </div>
+</div><!-- END .cookie-policy -->  
+  <div class="header grid">
+    <div class="header-links five">
+  <p>
+    <a href="/science/">Home</a>
+    <a href="/">Bodleian Libraries</a>
+    <a href="http://www.bodleian.ox.ac.uk/science/ask">Ask a librarian</a>    
+<a href="http://www.bodleian.ox.ac.uk/science/contact">Contact</a>
+    <a class="visible-on-mobile goToDesktop" href="/science/">Go to desktop site</a>
+  </p>
+</div><div class="logo long-logo seven">
+  <a href="http://www.bodleian.ox.ac.uk/science" title="Homepage">
+    <img src="http://www.bodleian.ox.ac.uk/__data/assets/image/0005/120992/logo.jpg" width="117" height="102" alt="Bodleian Libraries logo" />
+    <span class="page-title">Radcliffe Science Library</span>
+    <span class="division">Bodleian Libraries</span>
+    <span class="university">University of Oxford</span>
+  </a>
+</div><div class="search five">
+  <ul class="tab-menu">
+    <li><a href="#search-on-website">Website</a><span class="arrow"></span></li>
+    <li><a href="#search-in-catalogue">Catalogue (SOLO)</a><span class="arrow"></span></li>
+  </ul>
+  <div id="search-on-website" class="tab default">
+    <form action="http://www.bodleian.ox.ac.uk/science/site-search" method="get">
+      <div>
+        <input class="text" type="text" placeholder="Search this site" value="" name="query_and" />
+        <input class="submit" type="submit" value="" title="Search" />
+        <input type="hidden" value="site-search-alt" name="form" />
+        <input type="hidden" value="_default_preview" name="profile" />
+        <input type="hidden" value="oxford-bodleian-libraries-web-master" name="collection" />
+        <input type="hidden" value="" name="start_rank" />
+        <input type="hidden" value="20" name="gscope1" />
+      </div>
+    </form>
+  </div>
+<!-- SOLO search tab (#171616) -->
+<div id="search-in-catalogue" class="tab catalogue">
+  <form action="http://www.bodleian.ox.ac.uk/__data/solo.php" method="get" class="solo-search-form">
+    <div>
+      <input class="text" type="text" name="q" placeholder="Search in catalogue (SOLO)" value ="" />
+      <input class="submit" type="submit" name="fn" value="search" title="Search" />
+    </div>
+  </form>
+</div>
+<script type="text/javascript">
+  // Upgrade to modern SOLO search term interface
+  // (for non-JS users, this is also done by /__data/solo.php)
+  $(function(){
+    $('.solo-search-form').submit(function(){
+      window.location='http://solo.bodleian.ox.ac.uk/primo_library/libweb/action/dlSearch.do?vid=OXVU1&search_scope=LSCOP_OX&onCampus=true&institution=OX&query=any,contains,' + $(this).find('input:text').val();
+      return false;
+    });
+  });
+</script>
+</div>  </div><!-- END .header -->
+
+  <!-- noindex -->
+  <div class="menu  grid">
+  <a href="#" class="menu-button show-menu"><span>Menu</span></a>
+  <a href="#section-menu" class="menu-button show-submenu"><span>Section menu</span></a>
+  <ul class="twelve">
+    <li>
+  <a href="http://www.bodleian.ox.ac.uk/science/subjects" class="link_list">Subjects <span class="arrow">a</span>
+</a>
+
+
+  <div class="linkListSubmenu"><div class="main-nav-level2-container">
+  <div class="nav-column">
+    <ul class="level-2">
+      <li><a href="http://www.bodleian.ox.ac.uk/science/subjects/biochemistry">Biochemistry</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/bioinformatics">Bioinformatics</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/biology">Biology</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/biomedical-science">Biomedical Sciences</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/chemistry">Chemistry</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/clinical-medicine">Clinical Medicine</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/computer_science">Computer Science</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/engineering">Engineering</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/earthsciences">Earth Sciences</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/forestry">Forestry</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/geography">Geography and the Environment</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/health-care">Health Care</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/history-of-science">History of Science</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/materials">Materials</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/mathematics">Mathematics</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/medicine">Medicine</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/ornithology">Ornithology</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/pathology">Pathology</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/pharmacology">Pharmacology</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/physics">Physics</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/physiol_anat_genetics">Physiology, Anatomy &amp; Genetics</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/plant-sciences">Plant Sciences</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/taxonomy">Plant Taxonomy</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/preclinical-medicine">Preclinical Medicine</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/psychology">Psychology</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/statistics">Statistics</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/subjects/zoology">Zoology</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/science/resources" class="page_link">Finding resources <span class="arrow">a</span>
+</a>
+
+
+  
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/science/use" class="link_list">Using this library <span class="arrow">a</span>
+</a>
+
+
+  <div class="linkListSubmenu"><div class="main-nav-level2-container">
+  <div class="nav-column">
+    <ul class="level-2">
+      <li><a href="http://www.bodleian.ox.ac.uk/science/use/admissions">Admissions</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/finding-your-way-around-the-rsl">Finding your way around the RSL</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/borrowing">Borrowing</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/asr">Requesting material from closed stacks and offsite storage</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/printing">Printing, Copying and Scanning (PCAS) service</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/scan-and-deliver">Scan and Deliver</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/docsupply">Document supply and interlibrary loans</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/3d-printing">3D printing</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/faq">FAQ</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/library-it-facilities">Computers and networks</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/e-readers">E-reader and tablet loans</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/areas">Spaces and room bookings</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/disability">Disabled readers</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/use/rules">Rules</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/science/about" class="link_list">About us <span class="arrow">a</span>
+</a>
+
+
+  <div class="linkListSubmenu"><div class="main-nav-level2-container">
+  <div class="nav-column">
+    <ul class="level-2">
+      <li><a href="http://www.bodleian.ox.ac.uk/science/about/hours">Opening hours</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/contact">Contact us</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/about/locate">Finding us</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/about/new_books">New books</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/about/science-and-medicine-dispatch">Science and Medicine Dispatch (newsletter)</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/about/blog">Science Libraries blog</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/about/rsl_history">History of the Radcliffe Science Library and Collections</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/about/jobs">Jobs</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/about/poetry-competition-2013">Poetry competition 2013</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/science/training" class="link_list">Training <span class="arrow">a</span>
+</a>
+
+
+  <div class="linkListSubmenu"><div class="main-nav-level2-container">
+  <div class="nav-column">
+    <ul class="level-2">
+      <li><a href="http://www.bodleian.ox.ac.uk/science/training/training_at_the_rsl">Training at the RSL</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/training/rsl-undergraduate-induction">Undergraduate Induction at the RSL 2014</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/training/rsl-graduate-induction">Graduate Induction at the RSL 2014</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/training/research-information-training">Research Information Training 2015</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/training/library-assistant">Library Assistant (mobile guide)</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/training/wiser">Bodleian iSkills</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/training/libguides">LibGuides</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/training/presentations">Presentations and tutorials</a></li>
+    </ul>
+  </div>
+</div>
+</div>
+
+</li><li>
+  <a href="http://blogs.bodleian.ox.ac.uk/science/" class="">Blog <span class="arrow">a</span>
+</a>
+
+
+  <div class="linkListSubmenu"></div>
+
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/science/2020-vision" class="">2020 Vision <span class="arrow">a</span>
+</a>
+
+
+  
+</li><li class="last">
+  <a href="http://www.bodleian.ox.ac.uk/science/contact" class="page_link">Contact us <span class="arrow">a</span>
+</a>
+
+
+  
+</li>
+  </ul>
+</div><!-- END .menu -->
+  <!-- main content -->
+  <div class="main grid rhs_ grid_designers-nine">
+  
+  <!-- left navigation -->
+  		
+    <div class="submenu designers-three">
+      
+      
+      
+      
+      
+      
+      <ul class="menu_level_1">
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/admissions"> Admissions</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/finding-your-way-around-the-rsl"> Finding your way around the RSL</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/borrowing"> Borrowing</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/asr"> Stack and offsite requests</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="current">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/printing"> Print, Copy and Scan (PCAS)</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/scan-and-deliver"> Scan and Deliver</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/docsupply"> Document supply</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/3d-printing"> 3D printing</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/faq"> FAQ</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/library-it-facilities"> Computers and networks</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/e-readers"> E-reader and tablet loans</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/areas"> Spaces and room bookings</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/disability"> Disabled readers</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/rules"> Rules</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                
+      </ul>
+    </div><!-- submenu designers-three -->
+  
+							
+    
+  <!-- new left navigation for megamenu and it's children -->
+  			
+  <!-- end new left navigation for megamenu and it's children -->
+  
+  <!-- endnoindex -->
+
+   <!-- Article Header -->
+   
+						
+ 
+    
+
+      <div class="article-header designers-nine">
+         
+			<!--<div class="social-media share-this hidden-on-mobile">-->
+<div class="share-this hidden-on-mobile">
+  <span class='st_facebook_hcount'></span>
+  <span class='st_twitter_hcount'></span>
+  <span class='st_googleplus_hcount'></span>
+</div>			
+         <div class="breadcrumb">
+          
+						
+      <a href="http://www.bodleian.ox.ac.uk">Home</a>
+   
+			  &raquo;  <a href="http://www.bodleian.ox.ac.uk/science/use">Using this library</a>  &raquo;            <span>Print, Copy and Scan (PCAS)</span>
+         </div><!-- breadcrumb-->
+       </div><!-- article-header -->
+       
+
+    <!-- additional content wrapper -->
+    <div class="">
+
+       
+
+       <!-- main content -->
+       <div class="designers-nine ">
+          <div class="content">
+              
+		<!-- <p><strong>The Radcliffe Science Library provides services to support the teaching and learning needs of the science community at Oxford University.</strong></p>
+-->
+
+
+
+<div id="new_div_110425">
+
+ <p><img style="BORDER-BOTTOM: rgb(0,0,0) 0px solid; BORDER-LEFT: rgb(0,0,0) 0px solid; BORDER-TOP: rgb(0,0,0) 0px solid; BORDER-RIGHT: rgb(0,0,0) 0px solid" class="left_image" alt="PCAS logo" src="http://www.bodleian.ox.ac.uk/__data/assets/image/0012/110424/PCAS-logo-150px-wide.jpg" align="left">Any library card holder can copy, print and scan using the Bodleian Libraries' PCAS system.</p> <p>To operate any of the self-service printer/copiers/scanners you will need to set up an online PCAS account.</p> <h2>How do I set up an account?</h2> <p>You will first need to register for an account, creating your own user name and password and then add credit to this account in order to pay for your copying, printing or scanning. You can set up a new PCAS account (using your credit or debit card) by visiting <a href="https://bodleian.pcounterwebpay.com/">PCAS Webpay</a>. Once you have set up an account you can add credit by visiting the same site. Please note: setting up a PCAS account does not guarantee access to the Bodleian Libraries.&nbsp; Admission is only for holders of a valid Library card.<br></p> <h2>How much does it cost?</h2> <p>The current costs for printing, copying and scanning are in the table below.</p> <p> <table class="border"> <tbody> <tr> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 50%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td0_0"><br></td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td0_1"><b>Single sided</b></td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td0_2"><b>Double sided (Duplex)</b></td></tr> <tr> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 50%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td1_0">black/white or colour scan</td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td1_1">2p&nbsp;</td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td1_2">n/a</td></tr> <tr> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 50%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td2_0">black/white&nbsp;A4 photocopy or print</td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td2_1">6p</td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td2_2">9p</td></tr> <tr> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 50%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td3_0">colour A4 photocopy or print</td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td3_1">38p</td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td3_2">57p</td></tr> <tr> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 50%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td4_0">black/white&nbsp;A3 photocopy or print</td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td4_1">10p</td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td4_2">15p</td></tr> <tr> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 50%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td5_0">colour A3 photocopy or print</td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td5_1">76p</td> <td style="BORDER-BOTTOM-COLOR: rgb(153,204,255); BORDER-TOP-COLOR: rgb(153,204,255); WIDTH: 25%; BORDER-RIGHT-COLOR: rgb(153,204,255); BORDER-LEFT-COLOR: rgb(153,204,255)" id="_td5_2">&pound;1.14</td></tr></tbody></table></p> <h2>How do I photocopy, scan or print?</h2> 
+
+</div>
+
+<div class="three" id="new_div_141500">
+ <a href="http://www.bodleian.ox.ac.uk/__data/assets/pdf_file/0003/72696/FAQs-for-readers-0911.pdf">FAQs</a> (PDF)<br><a href="./?a=115852">Getting Started</a> (Slideshow or PDF)<br><a href="./?a=116889">Managing your account</a> (Slideshow)<br><a href="./?a=116123">Scanning guide</a> (Slideshow or PDF)<br><a href="./?a=115978">Photocopying guide</a> (Slideshow or PDF)<br><a href="http://www.bodleian.ox.ac.uk/__data/assets/pdf_file/0011/95474/prices.pdf">Price Poster</a> (PDF)<br><a href="http://www.bodleian.ox.ac.uk/using/copy/copyright">PCAS Terms and Conditions</a> (webpage) 
+</div>
+
+<div class="three" id="new_div_141506">
+ <a href="./?a=116198">Printing from Library PCs</a> (Slideshow or PDF)<br><a href="./?a=117695">Printing from SunRays</a> (Slideshow or PDF)<br><a href="./?a=116897">Printing from Laptops</a> (PDF)<br><a href="./?a=116893">Printing from USBs</a> (Slideshow or PDF)<br><a href="./?a=117275">Collecting your printing</a> (Slideshow or PDF)<br><a href="./?a=108744">Scan &amp; Deliver</a> (webpage) 
+</div>
+
+<div class="clear" id="new_div_141508">
+
+</div>
+
+<div id="new_div_141498">
+ <h2>Printing</h2><p>Printing from computers is also managed by the PCAS system. You can pay for prints using your PCAS account. Prints can be collected from any copier/printer in any of the Bodleian Libraries. Log onto the copier/printer with your PCAS username/password and all print jobs sent to your account will be waiting for you. Print jobs are purged after 72 hours. </p> <h2>Laptop and remote printing system</h2> <p>RemotePrint is a web based system that allows you to send print jobs from your laptop, home PC and mobile phone to PCAS.&nbsp; You can then collect your printing at any of the Bodleian Libraries copiers/printers.</p> <p>You can access the RemotePrint system by going to <a href="http://remoteprint.bodleian.ox.ac.uk">http://remoteprint.bodleian.ox.ac.uk</a> <br></p> <h2>Who do I contact to ask questions or report problems?</h2>It is best to contact a member of library staff in the first instance but you can also email <a href="mailto:pcas@bodleian.ox.ac.uk">pcas@bodleian.ox.ac.uk</a> with questions and issues.<br><br>Terms and conditions can be found on the <a href="http://www.bodleian.ox.ac.uk/services/copy/pcas-tcs">PCAS Terms and Conditions</a> pages. 
+</div>
+
+<div id="new_div_161438">
+<br />
+
+
+</div>
+
+<div id="new_div_112139">
+
+<div id="content_div_107864">
+<H2>Copyright</H2>
+<H3>You may legally copy..</H3>
+<P></p>
+<TABLE class=border>
+<TBODY>
+<TR>
+<TD id=_td0_0><STRONG>from a book</STRONG></TD>
+<TD id=_td0_1>one chapter or 5%, whichever is the greater</TD></TR>
+<TR>
+<TD id=_td1_0><STRONG>from an article</STRONG><BR>(or conference proceedings or other non-literary collective work)</TD>
+<TD id=_td1_1>one article or 5%, whichever is the greater</TD></TR>
+<TR>
+<TD id=_td2_0><STRONG>from a law report</STRONG></TD>
+<TD id=_td2_1>one case or 5%, whichever is the greater</TD></TR>
+<TR>
+<TD id=_td3_0><STRONG>from a collective literary work</STRONG><BR>(eg short stories, poems, etc)</TD>
+<TD id=_td3_1>one short story or poem only, up to 10 pages in length</TD></TR></TBODY></TABLE>
+<P>Various other laws may apply in cases where you are writing a review or an essay, or where more than 70 years have passed since the author's death. For more detailed copyright advice, please visit <A href="http://www.bodleian.ox.ac.uk/services/copy/copyright">the Bodleian Libraries' copyright pages</A>.</P>
+</div>
+
+</div>
+
+
+
+<div class="clear"></div>
+
+
+
+
+
+
+<!-- image gallery turned of temporary - to turn it on put the - Bottom Images Listing, id: 118547 - from Tools folder to field below
+--><div class="share-for-mobile visible-on-mobile">
+   <span class="st_facebook_hcount"></span>
+   <span class="st_twitter_hcount"></span>
+   <span class="st_googleplus_hcount"></span>
+</div>          </div>
+       </div>
+
+       <!-- right column -->
+       
+					
+    </div> <!-- additional content wrapper end-->
+
+  </div><!-- END .main -->
+  
+<!-- noindex -->
+
+  <!-- Footer etc -->
+  
+			<div class="grid back-to-top">
+  <a href="#top">Back to top</a>
+</div>		
+  <div id="section-menu" class="submenu submenu-for-mobile grid">
+    <div class="twelve">
+      
+      
+      
+      
+      
+      
+      <ul class="menu_level_1">
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/admissions"> Admissions</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/finding-your-way-around-the-rsl"> Finding your way around the RSL</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/borrowing"> Borrowing</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/asr"> Stack and offsite requests</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="current">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/printing"> Print, Copy and Scan (PCAS)</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/scan-and-deliver"> Scan and Deliver</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/docsupply"> Document supply</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/3d-printing"> 3D printing</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/faq"> FAQ</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/library-it-facilities"> Computers and networks</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/e-readers"> E-reader and tablet loans</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/areas"> Spaces and room bookings</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/disability"> Disabled readers</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                  <li class="">
+            <a href="http://www.bodleian.ox.ac.uk/science/use/rules"> Rules</a>
+            <span class="arrow"></span>
+            
+            		
+          </li>
+                
+    </ul>
+  </div>
+</div>
+
+				<div class="footer-links">
+  <div class="grid">
+    <div class="within-bodleian footer-links-box three">
+ <strong>Radcliffe Science Library</strong><ul><li><a href="http://solo.bodleian.ox.ac.uk/">Search SOLO</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/about/hours">Opening hours</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/about/locate">Finding us</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/contact">Contact us</a></li><li><a href="http://www.bodleian.ox.ac.uk/science/about/science-and-medicine-dispatch">Newsletter</a></li><li><a href="http://www.facebook.com/pages/Radcliffe-Science-Library/129158417104870">Find us on Facebook</a></li><li><a href="http://twitter.com/radcliffescilib">Follow us on Twitter</a></li></ul> 
+    </div>
+    <div class="further-reading footer-links-box three">
+
+ <strong>Bodleian Libraries</strong> <ul><li><a href="http://www.bodleian.ox.ac.uk/subjects-and-libraries/subjects">Subjects</a></li><li><a href="http://www.bodleian.ox.ac.uk/subjects-and-libraries/libraries">Libraries</a></li><li><a href="http://www.bodleian.ox.ac.uk/subjects-and-libraries/subjects/librarians">Subject librarians</a></li><li><a href="http://www.bodleian.ox.ac.uk/subjects-and-libraries/opening-hours">Opening hours</a></li><li><a href="http://www.bodleian.ox.ac.uk/subjects-and-libraries/social">Social media directory</a><br></li><li><a href="http://www.bodleian.ox.ac.uk">Bodleian Libraries home page</a><br></li><li><a href="http://www.ox.ac.uk">University of Oxford</a></li></ul> 
+    </div>
+    <div class="address two">
+      <div>
+        <strong>Address</strong>
+        <address>
+<div id="new_div_116769">
+Radcliffe Science Library<br>Parks Road<br>Oxford<br>OX1 3QP
+</div>
+    </address>
+      </div>
+      <a href="http://www.ox.ac.uk/" target="_blank" title="University of Oxford Homepage"><img src="http://www.bodleian.ox.ac.uk/__data/assets/image/0019/116740/footer-university-of-oxford-logo.jpg" width="100" height="100" alt="University of Oxford Logo" /></a>
+    </div>
+    <div class="map four">
+      <div id="library_map"></div>
+      <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyBtgxMIN-8j798f7NPvuaTQa_nVf5i9WWQ&sensor=false"></script>
+      <script type="text/javascript" src="//librarydata.bodleian.ox.ac.uk/libraries/47.js"></script>
+    </div>
+    <div class="info twelve">
+ <ul><li><a href="http://www.bodleian.ox.ac.uk/staff">Staff intranet</a></li><li><a href="http://www.bodleian.ox.ac.uk/bodley/about-us/contact">Contact us</a></li><li><a href="http://www.bodleian.ox.ac.uk/accessibility">Accessibility</a></li><li><a href="http://www.bodleian.ox.ac.uk/terms-of-use">Terms of use</a></li><li><a href="http://www.bodleian.ox.ac.uk/privacy">Privacy</a></li></ul> 
+      <span>&copy; Bodleian Libraries 2015</span>
+    </div>
+  </div>
+</div><!-- END .footer-links --><div class="footer-contact-us">
+  <div class="grid">
+    <div class="twelve">
+<script type="text/javascript">
+  var librarydata_id = $('body').data('librarydata-id');
+  if(librarydata_id != ''){
+    document.write('\x3Cscript type="text/javascript" src="//librarydata.bodleian.ox.ac.uk/libraries/' + librarydata_id  + '/social.js">\x3C/script>');
+  }
+</script>
+<span id="new_div_116716">
+ <p><strong>+44 1865-272800</strong></p> 
+</span>
+      <a href="#" class="close"></a>
+      <a href="http://www.bodleian.ox.ac.uk/science/contact" class="btn contact-us">Contact us</a>
+
+   </div>
+ </div>
+</div><!-- END .footer-contact-us -->			
+<!-- endnoindex -->
+
+
+</body>
+</html>

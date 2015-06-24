@@ -1,0 +1,348 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://podcasts.ox.ac.uk/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>collider | University of Oxford Podcasts - Audio and Video Lectures</title>
+  <style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/modules/system/system.base.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.menus.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.messages.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.theme.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/modules/field/theme/field.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/google_appliance/theme/google_appliance.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/node/node.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/search/search.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/user/user.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/views/css/views.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/default.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/layout.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/style.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/podcasts/themes/betacast/custom.css?nps7e5");
+</style>
+<style type="text/css" media="print">
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/print.css?nps7e5");
+</style>
+  <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie6.css";</style>
+<![endif]--><!--[if gt IE 6]>
+      <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie7.css";</style>
+<![endif]--><!--[if gt IE 7]>
+      <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie8.css";</style>
+<![endif]-->  <script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/drupal.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/ajax.js?v=7.35"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/views/js/base.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/progress.js?v=7.35"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/views/js/ajax_view.js?nps7e5"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jwplayer.key="1DVFGWjiExVevwKOLsJRD3aMUuMGRzDelQvniVm0wDE="
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"betacast","theme_token":"fVCJuUJAgQSyJgxgyms7PYuppVLUEaourmqd7IWMZ0g","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"sites\/all\/modules\/google_appliance\/theme\/google_appliance.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/podcasts\/themes\/betacast\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/podcasts\/themes\/betacast\/custom.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:d90f9b1a22b6f5f01f2164f65d03777b":{"view_name":"taxonomy_term","view_display_id":"page","view_args":"8703","view_path":"taxonomy\/term\/8703","view_base_path":"taxonomy\/term\/%","view_dom_id":"d90f9b1a22b6f5f01f2164f65d03777b","pager_element":0},"views_dom_id:91f3af71a755396a6619ab0df9d9f48e":{"view_name":"taxonomy_term","view_display_id":"other","view_args":"8703","view_path":"taxonomy\/term\/8703","view_base_path":"taxonomy\/term\/%","view_dom_id":"91f3af71a755396a6619ab0df9d9f48e","pager_element":0},"views_dom_id:1cc15c4ead8fd63e3b248b05dafdd211":{"view_name":"taxonomy_term","view_display_id":"units","view_args":"8703","view_path":"taxonomy\/term\/8703","view_base_path":"taxonomy\/term\/%","view_dom_id":"1cc15c4ead8fd63e3b248b05dafdd211","pager_element":0},"views_dom_id:973e7276f29bf7b42c35c9a3443c3465":{"view_name":"taxonomy_term","view_display_id":"other","view_args":"8703","view_path":"taxonomy\/term\/8703","view_base_path":"taxonomy\/term\/%","view_dom_id":"973e7276f29bf7b42c35c9a3443c3465","pager_element":0},"views_dom_id:802b4d8cdde3aa53e956dd8af307b67d":{"view_name":"taxonomy_term","view_display_id":"units","view_args":"8703","view_path":"taxonomy\/term\/8703","view_base_path":"taxonomy\/term\/%","view_dom_id":"802b4d8cdde3aa53e956dd8af307b67d","pager_element":0}}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26636073-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-8703" >
+  <div id="googledesc">
+    Over 4000 free audio and video lectures, seminars and teaching resources from Oxford University.
+  </div>
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    <div id="skipnav"><a href="#content">Skip to Content</a> <a href="#navigation">Skip to Navigation</a></div>  
+<div id="page-wrapper">
+<div id="page" class="page with-navigation with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo-title">
+          <a href="http://www.ox.ac.uk/" title="University of Oxford Website" rel="home" id="logo">
+        <img src="http://podcasts.ox.ac.uk/sites/podcasts/themes/betacast/logo.png" alt="University of Oxford Logo"/>
+      </a>
+    
+          <div id="name-and-slogan">
+
+                    <div id="site-name">
+              <a href="/" title="Podcasts Homepage" rel="home">Podcasts</a>
+            </div>
+        
+        
+      </div>
+    	
+    </div> <!-- /logo-title -->
+          <div id="header-region">
+          <div class="region region-header">
+    <div id="block-google_appliance-ga_block_search_form" class="block block-google-appliance block-odd first last block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <form action="/keywords/collider" method="post" id="google-appliance-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search Google Appliance</h2>
+    <div class="form-item form-type-textfield form-item-search-keys">
+  <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+ <input type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-PsZn8WuzDNvhV6eZfIjV84lE6wAJ15duJj29Ef3EcvE" />
+<input type="hidden" name="form_id" value="google_appliance_block_form" />
+  
+</div>
+</div></form>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+      </div>
+    
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+
+    <div id="content">
+      <div id="content-inner" class="inner column center">
+
+                  <div id="content-header">
+
+            
+                          <div id="highlight">  <div class="region region-highlight">
+    <div id="block-views-taxonomy_term_block-block_1" class="block block-views block-odd first last block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-block view-id-taxonomy_term_block view-display-id-block_1 view-dom-id-f3a94dba6e235621d39b36b2eb1eb050">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../">Home</a> &raquo; <a href="../keywords">Keywords</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+</div>
+            	    
+	    
+                          <h1 class="title">collider</h1>
+            
+                         
+            
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd first block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term view-id-taxonomy_term view-display-id-page view-dom-id-d90f9b1a22b6f5f01f2164f65d03777b">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-taxonomy_term_block-keywords" class="block block-views block-even block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-block view-id-taxonomy_term_block view-display-id-keywords view-dom-id-d539db1af3419fc3c18e4dfea6c5befb">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-nothing-2">    <h3 class="views-label views-label-nothing-2">Relevant Links</h3>    <span class="field-content"><ul>
+<li></li>
+<li><a href="http://www.campaign.ox.ac.uk/" target="_blank">The Campaign</a></li>
+<li><a href="http://www.ox.ac.uk/welcome/" target="_blank">Welcome to the University</a></li>
+</ul></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-taxonomy_term-other" class="block block-views block-odd last block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term view-id-taxonomy_term view-display-id-other view-dom-id-91f3af71a755396a6619ab0df9d9f48e">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-6" >
+         <thead>
+      <tr>
+                  <th class="views-field views-field-counter" >
+            #          </th>
+                  <th class="views-field views-field-field-licence" >
+                      </th>
+                  <th class="views-field views-field-title" >
+            Episode Title          </th>
+                  <th class="views-field views-field-body" >
+            Description          </th>
+                  <th class="views-field views-field-field-people" >
+            People          </th>
+                  <th class="views-field views-field-created" >
+            Date          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-counter" >
+            1          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/quick-look-around-large-hadron-collider">A quick look around the Large Hadron Collider</a>          </td>
+                  <td class="views-field views-field-body" >
+            Oxford Sparks presents a visit to the Large Hadron Collider at CERN in Geneva. Find out more and explore other LHC resources at www.oxfordsparks.net/animations/lhc No protons were harmed in the making of this animation.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/alan-barr" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Alan Barr</a>          </td>
+                  <td class="views-field views-field-created" >
+            15 Apr 2013          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-counter" >
+            2          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/higgs-boson-particle-discovery-claimed-large-hadron-collider">Higgs boson-like particle discovery claimed at the Large Hadron Collider</a>          </td>
+                  <td class="views-field views-field-body" >
+            Scientists at the Large Hadron Collider claim the discovery of the Higgs boson particle. Alan Barr of Oxford&#039;s Physics department, UK physics coordinator for LHC&#039;s ATLAS experiment, describes what it means for science.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/alan-barr" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Alan Barr</a>, <a href="/people/steven-legg" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Steven Legg</a>          </td>
+                  <td class="views-field views-field-created" >
+            05 Jul 2012          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+        </div>
+
+        
+      </div>
+      
+          
+    </div> <!-- /content-inner /content -->
+    
+
+          <div id="navigation" class="menu with-primary">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-227 first"><a href="/">Home</a></li>
+<li class="menu-1196"><a href="/series" title="Browse all series">Series</a></li>
+<li class="menu-600"><a href="/people" title="Browse contributors to podcasts">People</a></li>
+<li class="menu-602"><a href="/units" title="Browse all departments and colleges">Depts &amp; Colleges</a></li>
+<li class="menu-1621 last"><a href="/open">Open Education</a></li>
+</ul>              </div>
+    
+     <!-- /sidebar-first -->
+
+     <!-- /sidebar-second -->
+    
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-block-3" class="block block-block block-odd first last block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <p>This website uses cookies for Google Analytics tracking - please see our <a href="http://podcasts.ox.ac.uk/privacy">Privacy Policy</a></p>
+<p><a href="http://podcasts.ox.ac.uk/about">About</a> | <a href="http://podcasts.ox.ac.uk/accessibility">Accessibility</a> | <a href="http://www.oucs.ox.ac.uk/podcasts/how-to-podcast.xml.ID=publish">Contribute</a> | <a href="http://podcasts.ox.ac.uk/copyright">Copyright</a> | <a href="http://podcasts.ox.ac.uk/contact">Contact us</a> | <a href="http://podcasts.ox.ac.uk/privacy">Privacy</a></p>
+<p><a href="http://mediapub.it.ox.ac.uk/">MediaPub Publishing Portal for Oxford Podcast Contributors</a></p>
+<p><a href="http://talks.ox.ac.uk/" target="">Upcoming Talks in Oxford</a></p>
+<p><a target="_blank" href="http://www.ox.ac.uk/copyright.html">© 2011-2014 The University of Oxford</a></p>
+		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+</div> <!-- /page-wrapper -->  </body>
+</html>

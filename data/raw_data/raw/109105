@@ -1,0 +1,573 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://podcasts.ox.ac.uk/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Humanities at the Department for Continuing Education | University of Oxford Podcasts - Audio and Video Lectures</title>
+  <style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/modules/system/system.base.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.menus.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.messages.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/system/system.theme.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/modules/field/theme/field.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/google_appliance/theme/google_appliance.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/node/node.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/search/search.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/modules/user/user.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/views/css/views.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nps7e5");
+</style>
+<style type="text/css" media="all">
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/default.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/layout.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/style.css?nps7e5");
+@import url("http://podcasts.ox.ac.uk/sites/podcasts/themes/betacast/custom.css?nps7e5");
+</style>
+<style type="text/css" media="print">
+@import url("http://podcasts.ox.ac.uk/sites/all/themes/basic/css/print.css?nps7e5");
+</style>
+  <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie6.css";</style>
+<![endif]--><!--[if gt IE 6]>
+      <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie7.css";</style>
+<![endif]--><!--[if gt IE 7]>
+      <style type="text/css" media="all">@import "/sites/podcasts/themes/betacast/ie8.css";</style>
+<![endif]-->  <script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/drupal.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/jquery.form.js?v=2.52"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/ajax.js?v=7.35"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/google_analytics_reports/google_analytics_reports/google_analytics_reports.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/views/js/base.js?nps7e5"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/misc/progress.js?v=7.35"></script>
+<script type="text/javascript" src="http://podcasts.ox.ac.uk/sites/all/modules/views/js/ajax_view.js?nps7e5"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jwplayer.key="1DVFGWjiExVevwKOLsJRD3aMUuMGRzDelQvniVm0wDE="
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"betacast","theme_token":"hVjYPnTHUn6JQOsKQLsVArCsaoY7E4wGjxc9I7s5Fw0","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"sites\/all\/modules\/google_appliance\/theme\/google_appliance.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/podcasts\/themes\/betacast\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/podcasts\/themes\/betacast\/custom.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:6773ff051211cd7e559ac36f14802ef7":{"view_name":"taxonomy_term","view_display_id":"page","view_args":"15770","view_path":"taxonomy\/term\/15770","view_base_path":"taxonomy\/term\/%","view_dom_id":"6773ff051211cd7e559ac36f14802ef7","pager_element":0},"views_dom_id:8a89d3d53c8d82f9100ad95243083f16":{"view_name":"taxonomy_term_files","view_display_id":"subscribe","view_args":"15770","view_path":"taxonomy\/term\/15770","view_base_path":null,"view_dom_id":"8a89d3d53c8d82f9100ad95243083f16","pager_element":0},"views_dom_id:292e30267a08d99b01e6eab879ec5945":{"view_name":"taxonomy_term","view_display_id":"series","view_args":"15770","view_path":"taxonomy\/term\/15770","view_base_path":"taxonomy\/term\/%","view_dom_id":"292e30267a08d99b01e6eab879ec5945","pager_element":0},"views_dom_id:ccf9f2d5478150d02c167db38fa9ec17":{"view_name":"taxonomy_term","view_display_id":"units","view_args":"15770","view_path":"taxonomy\/term\/15770","view_base_path":"taxonomy\/term\/%","view_dom_id":"ccf9f2d5478150d02c167db38fa9ec17","pager_element":0},"views_dom_id:6a69f53cafff226dad06334c3186d6f4":{"view_name":"taxonomy_term_files","view_display_id":"subscribe","view_args":"15770","view_path":"taxonomy\/term\/15770","view_base_path":null,"view_dom_id":"6a69f53cafff226dad06334c3186d6f4","pager_element":0},"views_dom_id:dd4b584c6b81e20144e03ee22965289d":{"view_name":"taxonomy_term","view_display_id":"series","view_args":"15770","view_path":"taxonomy\/term\/15770","view_base_path":"taxonomy\/term\/%","view_dom_id":"dd4b584c6b81e20144e03ee22965289d","pager_element":0},"views_dom_id:cd21eb5b0f74b05513908fc1e44200f9":{"view_name":"taxonomy_term","view_display_id":"units","view_args":"15770","view_path":"taxonomy\/term\/15770","view_base_path":"taxonomy\/term\/%","view_dom_id":"cd21eb5b0f74b05513908fc1e44200f9","pager_element":0}}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26636073-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-15770" >
+  <div id="googledesc">
+    Over 4000 free audio and video lectures, seminars and teaching resources from Oxford University.
+  </div>
+  <div id="skip">
+    <a href="#main-menu">Jump to Navigation</a>
+  </div>
+    <div id="skipnav"><a href="#content">Skip to Content</a> <a href="#navigation">Skip to Navigation</a></div>  
+<div id="page-wrapper">
+<div id="page" class="page with-navigation with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <div id="header">
+    <div id="logo-title">
+          <a href="http://www.ox.ac.uk/" title="University of Oxford Website" rel="home" id="logo">
+        <img src="http://podcasts.ox.ac.uk/sites/podcasts/themes/betacast/logo.png" alt="University of Oxford Logo"/>
+      </a>
+    
+          <div id="name-and-slogan">
+
+                    <div id="site-name">
+              <a href="/" title="Podcasts Homepage" rel="home">Podcasts</a>
+            </div>
+        
+        
+      </div>
+    	
+    </div> <!-- /logo-title -->
+          <div id="header-region">
+          <div class="region region-header">
+    <div id="block-google_appliance-ga_block_search_form" class="block block-google-appliance block-odd first last block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <form action="/series/humanities-department-continuing-education" method="post" id="google-appliance-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search Google Appliance</h2>
+    <div class="form-item form-type-textfield form-item-search-keys">
+  <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+ <input type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-xFyciPa2heC2kgwQc5LD0TCzUu-zZi4zpiEV9f5PNIw" />
+<input type="hidden" name="form_id" value="google_appliance_block_form" />
+  
+</div>
+</div></form>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+      </div>
+    
+  </div> <!-- /header -->
+
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main" class="clearfix">
+
+    <div id="content">
+      <div id="content-inner" class="inner column center">
+
+                  <div id="content-header">
+
+            
+                          <div id="highlight">  <div class="region region-highlight">
+    <div id="block-views-taxonomy_term_block-block_1" class="block block-views block-odd first last block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-block view-id-taxonomy_term_block view-display-id-block_1 view-dom-id-8b082a146e079c5d984f38f463829e48">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../">Home</a> &raquo; <a href="../series">Series</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+</div>
+            	    
+	    
+                          <h1 class="title">Humanities at the Department for Continuing Education</h1>
+            
+                         
+            
+          </div> <!-- /#content-header -->
+        
+        <div id="content-area">
+            <div class="region region-content">
+    <div id="block-system-main" class="block block-system block-odd first block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term view-id-taxonomy_term view-display-id-page view-dom-id-6773ff051211cd7e559ac36f14802ef7">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-446d77835a9b17b0e519b41f23cac866" class="block block-views block-even block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-block view-id-taxonomy_term_block view-display-id-block_series_details view-dom-id-fff2e6a10dec4b5b515007c16ef5d661">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-series-album-cover">        <div class="field-content"><img typeof="foaf:Image" src="http://podcasts.ox.ac.uk/sites/podcasts/files/styles/large/public/images/series/originals/humanities_album_0_2_0.jpg?itok=H-5kdHnb" width="220" height="220" /></div>  </div>  
+  <div class="views-field views-field-nothing-2">    <h3 class="views-label views-label-nothing-2">Relevant Links</h3>    <span class="field-content"><ul>
+<li></li>
+<li><a href="http://www.conted.ox.ac.uk/" title="Department for Continuing Education" target="_blank">Department for Continuing Educatio...</a></li>
+<li><a href="http://www.conted.ox.ac.uk/">Continuing Education</a></li>
+<li><a href="http://www.campaign.ox.ac.uk/" target="_blank">The Campaign</a></li>
+<li><a href="http://www.ox.ac.uk/welcome/" target="_blank">Welcome to the University</a></li>
+</ul></span>  </div>  
+  <div class="views-field views-field-description">        <div class="field-content"><p>A collection of audio and video resources of lectures, seminars and presentations from the Department&#039;s humanities&#039; programmes.</p>
+</div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-taxonomy_term_files-subscribe" class="block block-views block-odd block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-subscribe view-dom-id-8a89d3d53c8d82f9100ad95243083f16">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><strong>Subscribe: </strong></span>  </div>  
+  <div class="views-field views-field-field-itunes-u-audio-code">        <div class="field-content"><span class="itunesu"><a href="https://itunes.apple.com/gb/itunes-u/id381703571">iTunes U Audio</a></span></div>  </div>  
+  <div class="views-field views-field-field-itunes-u-video-code">        <div class="field-content"><span class="itunesu"><a href="https://itunes.apple.com/gb/itunes-u/id381703588">iTunes U Video</a></span></div>  </div>  </div>
+    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-audio">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-mediapub-nid">        <div class="field-content"><span class="feed_audio"><a href="http://mediapub.it.ox.ac.uk/feeds/129015/audio.xml">Audio RSS Feed</a></span></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-video">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-mediapub-nid">        <div class="field-content"><span class="feed_video"><a href="http://mediapub.it.ox.ac.uk/feeds/129015/video.xml">Video RSS Feed</a></span></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="view view-taxonomy-term-files view-id-taxonomy_term_files view-display-id-document">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-taxonomy_term-series" class="block block-views block-even last block-even clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <div class="view view-taxonomy-term view-id-taxonomy_term view-display-id-series view-dom-id-292e30267a08d99b01e6eab879ec5945">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-7" >
+         <thead>
+      <tr>
+                  <th class="views-field views-field-counter" >
+            #          </th>
+                  <th class="views-field views-field-field-licence" >
+                      </th>
+                  <th class="views-field views-field-title" >
+            Episode Title          </th>
+                  <th class="views-field views-field-body" >
+            Description          </th>
+                  <th class="views-field views-field-field-people" >
+            People          </th>
+                  <th class="views-field views-field-created" >
+            Date          </th>
+                  <th class="views-field views-field-field-media-files" >
+            Media Files          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-counter" >
+            1          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/spiders-yes-why-cats">Spiders, yes, but why cats?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Prof.Iain McGilchrist illustrates his argument by appeal to a number of paintings done by psychotic patients. He points to various commonalities between these paintings and speculates on the ways in which they support claims about the two hemispheres and           </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/iain-mcgilchrist" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Iain McGilchrist</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 May 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1026778/download?token=upGMKfNVa7a_kvVHzg5Dc29apeTOSdUK5aoNKjyc95o" type="audio/mpeg; length=65756746"></a> <span class="file-size">(62.71 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1026779/download?token=58S6FZBIO09i8Pzzo7T8Qc_aLunfGI8PtwNr2-nuiII" type="video/mp4; length=138953051"></a> <span class="file-size">(132.52 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            2          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/was-schubert-musical-brain">Was Schubert a musical brain?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Prof. Raymond Tallis deepens his argument against the idea that we are our brains. He believes there is a distinction in kind between humans and other animals. This he illustrates by appeal to the differences between the music of Schubert and the singing           </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/raymond-tallis" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Raymond Tallis</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 May 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1026776/download?token=N86iLTleVE0SkqWaFu4KAG0NhkwlsUim2KYt0_gukJM" type="audio/mpeg; length=46443390"></a> <span class="file-size">(44.29 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1026777/download?token=NTV7rP1oyswTYz6odQn_pgM801daPv8vjBeDOUtF-fI" type="video/mp4; length=94966948"></a> <span class="file-size">(90.57 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            3          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/am-i-my-mind">Am I my mind?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Prof. Iain McGilchrist, whilst agreeing with Tallis that we are not our brains argues that we can learn a great deal about our culture by learning more about our brain. In particular we should recognise we have two hemispheres, each with a different funct          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/iain-mcgilchrist" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Iain McGilchrist</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 May 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1026781/download?token=lWSN4cDehoves0xUdmcygHPL-8ZNg-deKiCA12FHRmI" type="audio/mpeg; length=60899530"></a> <span class="file-size">(58.08 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1026782/download?token=k4-8boTgH6mRKdhZDKRffUZKUPLjbLZTtswtlGNQSsI" type="video/mp4; length=112850977"></a> <span class="file-size">(107.62 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            4          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" title="Creative Commons Attribution-Non-Commercial-Share Alike 2.0 UK: England &amp; Wales; http://creativecommons.org/licenses/by-nc-sa/2.0/uk/" class="licence">Creative Commons</a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/am-i-my-brain">Am I my brain?</a>          </td>
+                  <td class="views-field views-field-body" >
+            Prof. Raymond Tallis argues that extraordinary claims have been made for neurophysiology. For example it has been said that a person is nothing but his or her brain. Professor Raymond Tallis rejects this ‘neuromania’. He shows why it is attractive, but al          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/raymond-tallis" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Raymond Tallis</a>          </td>
+                  <td class="views-field views-field-created" >
+            07 May 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1026783/download?token=drN8l7Tsd3aEFkl5ULRKXxGsgGHgKC8Hh198lI6KcSc" type="audio/mpeg; length=47465874"></a> <span class="file-size">(45.27 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1026784/download?token=jeb3M_Pn9J8201DYDOuYJ9ThKcx_Ce2uHjNdQlem4HA" type="video/mp4; length=93873428"></a> <span class="file-size">(89.52 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            5          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/truth-about-art-3-aesthetics">The Truth about Art 3 - Aesthetics</a>          </td>
+                  <td class="views-field views-field-body" >
+            Another ancient belief held that an art should be governed by rules.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/patrick-doorly" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Patrick Doorly</a>          </td>
+                  <td class="views-field views-field-created" >
+            11 Apr 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1026833/download?token=NPwFvxjmVvmt9o4c4TkCfIkNG0i83VTk_I5t1RMmIzs" type="video/mp4; length=453349898"></a> <span class="file-size">(432.35 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1026834/download?token=BvaWK0cqE9kB5NwZgQjXfY9ORYwofwhLyIergk-0HiQ" type="audio/mpeg; length=55212482"></a> <span class="file-size">(52.65 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            6          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/truth-about-art-1-mystery-or-mastery">The Truth about Art 1 - Mystery or Mastery</a>          </td>
+                  <td class="views-field views-field-body" >
+            E.H. Gombrich famously observed that &#039;there really is no such thing as Art&#039; (with a capital A).          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/patrick-doorly" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Patrick Doorly</a>          </td>
+                  <td class="views-field views-field-created" >
+            11 Apr 2014          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1026836/download?token=JFQKk_d4AFOEiwTXeBE0giWe4rC2--kLVL-1n0Sp4Wg" type="video/mp4; length=110457224"></a> <span class="file-size">(105.34 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1026837/download?token=c6y32tEv8bByn-9_bfVwlk7zRXlUJXTnHTNog-9RBnI" type="audio/mpeg; length=119526392"></a> <span class="file-size">(113.99 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            7          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/learning-and-work-medieval-england-0">Learning and Work in Medieval England</a>          </td>
+                  <td class="views-field views-field-body" >
+            Did Medieval people go on learning through their adult life? If so, what kind of things did they learn about, who taught them, and how was it done? This lecture was delivered 23rd May 2013 as part of national Adult Learners&#039; Week.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/elizabeth-gemmill" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Elizabeth Gemmill</a>          </td>
+                  <td class="views-field views-field-created" >
+            29 May 2013          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1029644/download?token=PCxlh_BCTUFe4tZtvszA0KZN7T9BLHy7jCbNyRlC1HU" type="audio/mpeg; length=94487903"></a> <span class="file-size">(90.11 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-counter" >
+            8          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/talking-camera">Talking to Camera</a>          </td>
+                  <td class="views-field views-field-body" >
+            A new one-day course at the Department for Continuing Education taught by Paul Heiney, writer and broadcaster, this course is intended to help people face a video camera with confidence, and communicate through the fast-growing video media.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/paul-heiney" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Paul Heiney</a>          </td>
+                  <td class="views-field views-field-created" >
+            04 May 2011          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1029495/download?token=J6iCI3rxKnpxjWAKUCyCS9nm2cSfKGxlNtnp_szo2GU" type="video/mp4; length=25586854"></a> <span class="file-size">(24.4 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032285/download?token=YVoRjQKK-WO-qlk4b0my-FQGFmNZClgBtBvSAzustdw" type="audio/mpeg; length=1264123"></a> <span class="file-size">(1.21 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-counter" >
+            9          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/john-milton-poet-pamphleteer-and-patriot">John Milton: poet, pamphleteer and patriot</a>          </td>
+                  <td class="views-field views-field-body" >
+            Dr Anna Beer gives an overview of the life and works of the poet John Milton.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/anna-beer" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Anna Beer</a>          </td>
+                  <td class="views-field views-field-created" >
+            11 Sep 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032515/download?token=hgIqMjTd0xtb5_Igga-SbpnpnrZJ0cQDI0EulmsHCjU" type="audio/mpeg; length=49991211"></a> <span class="file-size">(47.68 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1029760/download?token=8tdhoGQ19WmiKiKNyrR6zktwRzrvjfnFb2FhiIjZ0KU" type="video/mp4; length=324102508"></a> <span class="file-size">(309.09 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-counter" >
+            10          </td>
+                  <td class="views-field views-field-field-licence" >
+            <a href="/open" class="licence"></a>          </td>
+                  <td class="views-field views-field-title" >
+            <a href="/if-i-were-you-i-wouldnt-start-here-understanding-oxford-through-its-past">If I were you, I wouldn&#039;t start from here: understanding Oxford through its past</a>          </td>
+                  <td class="views-field views-field-body" >
+            Local history lecture, by Chris Day, giving an overview of the history of the University of Oxford.          </td>
+                  <td class="views-field views-field-field-people" >
+            <a href="/people/chris-day" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Chris Day</a>          </td>
+                  <td class="views-field views-field-created" >
+            01 Sep 2008          </td>
+                  <td class="views-field views-field-field-media-files" >
+            <div class="item-list"><ul><li class="first"><span class="file"><img class="file-icon" alt="" title="audio/mpeg" src="/modules/file/icons/audio-x-generic.png" /> <a href="/file/1032937/download?token=jhQYo6E0hcutUnt2diaAMLycsCMIk5Kaz00Bb-Jwbj8" type="audio/mpeg; length=59871192"></a> <span class="file-size">(57.1 MB)</span></span></li>
+<li class="last"><span class="file"><img class="file-icon" alt="" title="video/mp4" src="/modules/file/icons/video-x-generic.png" /> <a href="/file/1029945/download?token=ZsK_Oy1h2gLbDLule5O7kuOLkoTe8QpWZCkRK0MVu_8" type="video/mp4; length=373649227"></a> <span class="file-size">(356.34 MB)</span></span></li>
+</ul></div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+        </div>
+
+        
+      </div>
+      
+          
+    </div> <!-- /content-inner /content -->
+    
+
+          <div id="navigation" class="menu with-primary">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-227 first"><a href="/">Home</a></li>
+<li class="menu-1196"><a href="/series" title="Browse all series">Series</a></li>
+<li class="menu-600"><a href="/people" title="Browse contributors to podcasts">People</a></li>
+<li class="menu-602"><a href="/units" title="Browse all departments and colleges">Depts &amp; Colleges</a></li>
+<li class="menu-1621 last"><a href="/open">Open Education</a></li>
+</ul>              </div>
+    
+     <!-- /sidebar-first -->
+
+     <!-- /sidebar-second -->
+    
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <div id="footer">
+        <div class="region region-footer">
+    <div id="block-block-3" class="block block-block block-odd first last block-odd clearfix">
+  <div class="block-inner">
+
+                		
+		<div class="content" >
+		  <p>This website uses cookies for Google Analytics tracking - please see our <a href="http://podcasts.ox.ac.uk/privacy">Privacy Policy</a></p>
+<p><a href="http://podcasts.ox.ac.uk/about">About</a> | <a href="http://podcasts.ox.ac.uk/accessibility">Accessibility</a> | <a href="http://www.oucs.ox.ac.uk/podcasts/how-to-podcast.xml.ID=publish">Contribute</a> | <a href="http://podcasts.ox.ac.uk/copyright">Copyright</a> | <a href="http://podcasts.ox.ac.uk/contact">Contact us</a> | <a href="http://podcasts.ox.ac.uk/privacy">Privacy</a></p>
+<p><a href="http://mediapub.it.ox.ac.uk/">MediaPub Publishing Portal for Oxford Podcast Contributors</a></p>
+<p><a href="http://talks.ox.ac.uk/" target="">Upcoming Talks in Oxford</a></p>
+<p><a target="_blank" href="http://www.ox.ac.uk/copyright.html">© 2011-2014 The University of Oxford</a></p>
+		</div>
+
+  </div>
+</div> <!-- /block-inner /block -->  </div>
+    </div> <!-- /footer -->
+  
+</div> <!-- /page -->
+</div> <!-- /page-wrapper -->  </body>
+</html>

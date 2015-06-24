@@ -1,0 +1,295 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+
+	<meta name="description" content="
+		
+	Fawei Geng&#039;s Blog - Technology-enhanced learning and teaching	" />
+
+	<title>
+	  2012  March | Fawei Geng&#039;s Blog	</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://blogs.it.ox.ac.uk/fawei/wp-content/themes/oucs-personal/style.css" />
+		<link rel="pingback" href="http://blogs.it.ox.ac.uk/fawei/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Fawei Geng&#039;s Blog &raquo; Feed" href="http://blogs.it.ox.ac.uk/fawei/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fawei Geng&#039;s Blog &raquo; Comments Feed" href="http://blogs.it.ox.ac.uk/fawei/comments/feed/" />
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/fawei/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/fawei/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/fawei/wp-content/plugins/simple-google-analytics/js/sga.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.it.ox.ac.uk/fawei/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.it.ox.ac.uk/fawei/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+		<style type="text/css" media="screen">
+			#catapult-cookie-bar {
+				display: none;
+				direction: ltr;
+				color: #ddd;
+				min-height: 30px;
+				position: fixed;
+				left: 0;
+				top: 0;
+				width: 100%;
+				z-index: 99999;
+				padding:6px 20px 4px;
+				background-color: #464646;
+				text-align:left;
+			}
+			#catapult-cookie-bar a {
+				color: #fff;;
+			}
+			button#catapultCookie {
+				margin:0 20px;
+				line-height:20px;
+				background:#45AE52;
+				border:none;
+				color: #fff;;
+				padding:4px 12px;
+				border-radius: 3px;
+				cursor: pointer;
+				font-size: 13px;
+				font-weight: bold;
+			}
+		</style>
+<!-- Simple Google Analytics Begin -->
+<script type="text/javascript">
+var _gaq = [['_setAccount','UA-45708824-1'],['_trackPageview']];(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- Simple Google Analytics End -->
+<meta id="syntaxhighlighteranchor" name="syntaxhighlighter-version" content="3.1.3" />
+
+</head>
+
+<body class="archive date">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<h1 id="site-title">
+					<span>
+						<a href="http://blogs.it.ox.ac.uk/fawei/" title="Fawei Geng&#039;s Blog" rel="home">Fawei Geng&#039;s Blog</a>
+					</span>
+				</h1>				
+				<div id="site-description">Technology-enhanced learning and teaching</div>
+
+										
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu"><ul><li ><a href="http://blogs.it.ox.ac.uk/fawei/" title="Home">Home</a></li><li class="page_item page-item-2"><a href="http://blogs.it.ox.ac.uk/fawei/about/">About Fawei Geng</a></li></ul></div>
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+
+
+			<div id="post-227" class="post-227 post type-post status-publish format-standard hentry category-e-learning category-learning-and-teaching category-learning-technology tag-e-learning-tools tag-free tag-interactive-content tag-open-source">
+			<h2 class="entry-title"><a href="http://blogs.it.ox.ac.uk/fawei/2012/03/07/creating-interactive-online-learning-materials-using-free-open-source-e-learning-applications/" title="Permalink to Creating interactive online learning materials using free open source e-learning applications" rel="bookmark">Creating interactive online learning materials using free open source e-learning applications</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogs.it.ox.ac.uk/fawei/2012/03/07/creating-interactive-online-learning-materials-using-free-open-source-e-learning-applications/" title="11:00 am" rel="bookmark"><span class="entry-date">March 7, 2012</span></a> <span class="meta-sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.it.ox.ac.uk/fawei/author/oucs0048/" title="View all posts by Fawei Geng">Fawei Geng</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-summary">
+				<p>Most VLEs (Virtual Learning Environment) offer a HTML editing tool which allows you to create online content without learning HTML codes.   However, the web pages created using the tool have limitations: e.g. lack of interactions and sophisticated navigation. Here are &hellip; <a href="http://blogs.it.ox.ac.uk/fawei/2012/03/07/creating-interactive-online-learning-materials-using-free-open-source-e-learning-applications/">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-summary -->
+	
+			<div class="entry-utility">
+				<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">
+					Posted in </span> <a href="http://blogs.it.ox.ac.uk/fawei/category/e-learning/" title="View all posts in e-learning" rel="category tag">e-learning</a>, <a href="http://blogs.it.ox.ac.uk/fawei/category/learning-and-teaching/" title="View all posts in learning and teaching" rel="category tag">learning and teaching</a>, <a href="http://blogs.it.ox.ac.uk/fawei/category/learning-technology/" title="View all posts in learning technology" rel="category tag">learning technology</a>					
+				</span>
+				<span class="meta-sep">|</span>
+									<span class="tag-links">
+						<span class="entry-utility-prep entry-utility-prep-tag-links">Tagged </span> <a href="http://blogs.it.ox.ac.uk/fawei/tag/e-learning-tools/" rel="tag">e-learning tools</a>, <a href="http://blogs.it.ox.ac.uk/fawei/tag/free/" rel="tag">free</a>, <a href="http://blogs.it.ox.ac.uk/fawei/tag/interactive-content/" rel="tag">interactive content</a>, <a href="http://blogs.it.ox.ac.uk/fawei/tag/open-source/" rel="tag">open source</a>					</span>
+					<span class="meta-sep">|</span>
+								<span class="comments-link"><a href="http://blogs.it.ox.ac.uk/fawei/2012/03/07/creating-interactive-online-learning-materials-using-free-open-source-e-learning-applications/#respond" title="Comment on Creating interactive online learning materials using free open source e-learning applications">Leave a comment</a></span>
+							</div><!-- #entry-utility -->
+		</div><!-- #post-227 -->
+
+		
+	
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+<li id="search-3" class="widget-container widget_search"><form role="search" method="get" id="searchform" action="http://blogs.it.ox.ac.uk/fawei">
+    <div><label class="screen-reader-text" for="s">Search for:</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Search" />
+    </div>
+</form></li><li id="text-3" class="widget-container widget_text">			<div class="textwidget"><a href="https://twitter.com/#!/oxford4learning" target="_blank">
+<img src="http://blogs.it.ox.ac.uk/fawei/files/2012/02/follow-me.jpg" alt="Following Fawei on Twitter" />
+</a>
+
+</div>
+		</li><li id="rss-3" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://blogs.it.ox.ac.uk/fawei/feed/' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/fawei/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://blogs.it.ox.ac.uk/fawei' title='Technology-enhanced learning and teaching'>Entries RSS</a></h3><ul><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/fawei/2015/05/29/acit-newsletter-week-5-sakai-research-courses-libraries/' title='1. OxTALENT Update 2. Latest WebLearn Improvements 3. Online Research Database Service (ORDS) – New Filtering Feature and Training Course 4. WebLearn Courses Next Week 5. Upcoming ITLP Courses 6. Bodleian Libraries Workshops 1. OxTALENT Update The OxTALENT competition committee … Continue reading →'>ACIT Newsletter – Week 5 #Sakai #research #courses #libraries</a></li><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/fawei/2015/05/22/acit-newsletter-week-4-dhoxss-free-courses-visual-digial-educause/' title='1. Registration is now open for the Digital Humanities at Oxford Summer School 2. ITLP courses in June 3. Upcoming Bodleian workshops 4. From Educause: 7 things you should know about visual literacy 1. Registration is now open for the … Continue reading →'>ACIT Newsletter Week 4 #dhoxss #free #courses #visual #digial #educause</a></li><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/fawei/2015/05/15/oxford-acit-newsletter-trinity-term-15-week-4-altc-awards-courses-students-digital/' title='1.  OxTALENT closing date extended to 22 May 2015 2. Registration is now open for the Digital Humanities at Oxford Summer School 3. WebLearn Improved Student Experience (WISE) project 4. Upcoming ITLP courses 5. Current articles from a peer-reviewed Open … Continue reading →'>Oxford ACIT Newsletter – Trinity Term 15 Week 3 #altc #awards #courses #students #digital</a></li></ul></li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+				<li id="tag_cloud-3" class="widget-container widget_tag_cloud"><h3 class="widget-title">Tag Cloud</h3><div class="tagcloud"><a href='http://blogs.it.ox.ac.uk/fawei/tag/alt/' class='tag-link-63' title='4 topics' style='font-size: 15.179487179487pt;'>ALT</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/altc/' class='tag-link-32707' title='2 topics' style='font-size: 11.230769230769pt;'>altc</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/apple/' class='tag-link-98' title='2 topics' style='font-size: 11.230769230769pt;'>Apple</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/awards/' class='tag-link-65' title='4 topics' style='font-size: 15.179487179487pt;'>Awards</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/communication-2/' class='tag-link-7706' title='2 topics' style='font-size: 11.230769230769pt;'>communication</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/courses/' class='tag-link-174' title='7 topics' style='font-size: 18.769230769231pt;'>courses</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/creative-commons/' class='tag-link-28' title='2 topics' style='font-size: 11.230769230769pt;'>creative commons</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/data/' class='tag-link-4484' title='2 topics' style='font-size: 11.230769230769pt;'>data</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/digital/' class='tag-link-149' title='2 topics' style='font-size: 11.230769230769pt;'>digital</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/digital-media/' class='tag-link-15310' title='2 topics' style='font-size: 11.230769230769pt;'>digital media</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/e-learning-tools/' class='tag-link-6934' title='5 topics' style='font-size: 16.615384615385pt;'>e-learning tools</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/engage/' class='tag-link-13951' title='2 topics' style='font-size: 11.230769230769pt;'>engage</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/engagement/' class='tag-link-23015' title='2 topics' style='font-size: 11.230769230769pt;'>engagement</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/feedback/' class='tag-link-154' title='2 topics' style='font-size: 11.230769230769pt;'>feedback</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/free/' class='tag-link-7220' title='11 topics' style='font-size: 22pt;'>free</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/free-courses/' class='tag-link-31093' title='2 topics' style='font-size: 11.230769230769pt;'>free courses</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/free-education/' class='tag-link-8100' title='5 topics' style='font-size: 16.615384615385pt;'>free education</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/funding/' class='tag-link-252' title='2 topics' style='font-size: 11.230769230769pt;'>funding</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/how-to/' class='tag-link-5424' title='4 topics' style='font-size: 15.179487179487pt;'>how to</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/images/' class='tag-link-183' title='2 topics' style='font-size: 11.230769230769pt;'>images</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/innovation/' class='tag-link-421' title='2 topics' style='font-size: 11.230769230769pt;'>innovation</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/itunes-u/' class='tag-link-32' title='3 topics' style='font-size: 13.384615384615pt;'>iTunes U</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/learning/' class='tag-link-134' title='3 topics' style='font-size: 13.384615384615pt;'>learning</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/learning-analytics/' class='tag-link-8104' title='2 topics' style='font-size: 11.230769230769pt;'>Learning Analytics</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/learning-resources/' class='tag-link-14278' title='2 topics' style='font-size: 11.230769230769pt;'>learning resources</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/ltg-announce/' class='tag-link-32672' title='3 topics' style='font-size: 13.384615384615pt;'>LTG announce</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/mobile-learning/' class='tag-link-108' title='2 topics' style='font-size: 11.230769230769pt;'>mobile learning</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/mooc/' class='tag-link-26108' title='2 topics' style='font-size: 11.230769230769pt;'>MOOC</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/open/' class='tag-link-337' title='2 topics' style='font-size: 11.230769230769pt;'>Open</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/open-source/' class='tag-link-82' title='6 topics' style='font-size: 17.871794871795pt;'>open source</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/podcasting/' class='tag-link-86' title='2 topics' style='font-size: 11.230769230769pt;'>Podcasting</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/podcasts/' class='tag-link-115' title='2 topics' style='font-size: 11.230769230769pt;'>podcasts</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/quality/' class='tag-link-5150' title='1 topic' style='font-size: 8pt;'>Quality</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/research-2/' class='tag-link-31472' title='3 topics' style='font-size: 13.384615384615pt;'>research</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/sakai/' class='tag-link-90' title='3 topics' style='font-size: 13.384615384615pt;'>Sakai</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/social-media/' class='tag-link-13944' title='2 topics' style='font-size: 11.230769230769pt;'>social media</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/teaching/' class='tag-link-103' title='2 topics' style='font-size: 11.230769230769pt;'>teaching</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/tel/' class='tag-link-29620' title='2 topics' style='font-size: 11.230769230769pt;'>TEL</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/tips/' class='tag-link-6038' title='2 topics' style='font-size: 11.230769230769pt;'>tips</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/top-100/' class='tag-link-8082' title='2 topics' style='font-size: 11.230769230769pt;'>top 100</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/twitter/' class='tag-link-308' title='5 topics' style='font-size: 16.615384615385pt;'>Twitter</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/video/' class='tag-link-193' title='4 topics' style='font-size: 15.179487179487pt;'>video</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/vle/' class='tag-link-95' title='5 topics' style='font-size: 16.615384615385pt;'>VLE</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/web/' class='tag-link-295' title='2 topics' style='font-size: 11.230769230769pt;'>Web</a>
+<a href='http://blogs.it.ox.ac.uk/fawei/tag/weblearn/' class='tag-link-105' title='5 topics' style='font-size: 16.615384615385pt;'>weblearn</a></div>
+</li><li id="categories-3" class="widget-container widget_categories"><h3 class="widget-title">Categories </h3>		<ul>
+	<li class="cat-item cat-item-4976"><a href="http://blogs.it.ox.ac.uk/fawei/category/communication/" title="View all posts filed under Communication">Communication</a>
+</li>
+	<li class="cat-item cat-item-253"><a href="http://blogs.it.ox.ac.uk/fawei/category/community/" title="View all posts filed under Community">Community</a>
+</li>
+	<li class="cat-item cat-item-69"><a href="http://blogs.it.ox.ac.uk/fawei/category/e-learning/" title="View all posts filed under e-learning">e-learning</a>
+</li>
+	<li class="cat-item cat-item-14271"><a href="http://blogs.it.ox.ac.uk/fawei/category/free-online-courses/" title="View all posts filed under Free online courses">Free online courses</a>
+</li>
+	<li class="cat-item cat-item-32676"><a href="http://blogs.it.ox.ac.uk/fawei/category/ideas/" title="View all posts filed under ideas">ideas</a>
+</li>
+	<li class="cat-item cat-item-4456"><a href="http://blogs.it.ox.ac.uk/fawei/category/learning-and-teaching/" title="View all posts filed under learning and teaching">learning and teaching</a>
+</li>
+	<li class="cat-item cat-item-4844"><a href="http://blogs.it.ox.ac.uk/fawei/category/learning-technology/" title="View all posts filed under learning technology">learning technology</a>
+</li>
+	<li class="cat-item cat-item-238"><a href="http://blogs.it.ox.ac.uk/fawei/category/research/" title="View all posts filed under Research">Research</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blogs.it.ox.ac.uk/fawei/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+		</ul>
+</li><li id="archives-4" class="widget-container widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='http://blogs.it.ox.ac.uk/fawei/2015/05/' title='May 2015'>May 2015</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2015/03/' title='March 2015'>March 2015</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2015/02/' title='February 2015'>February 2015</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2015/01/' title='January 2015'>January 2015</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2014/10/' title='October 2014'>October 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2014/08/' title='August 2014'>August 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2014/07/' title='July 2014'>July 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2014/06/' title='June 2014'>June 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2014/05/' title='May 2014'>May 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2014/04/' title='April 2014'>April 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2014/03/' title='March 2014'>March 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2014/02/' title='February 2014'>February 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2014/01/' title='January 2014'>January 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2013/12/' title='December 2013'>December 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2013/11/' title='November 2013'>November 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2013/10/' title='October 2013'>October 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2013/09/' title='September 2013'>September 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2013/02/' title='February 2013'>February 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2013/01/' title='January 2013'>January 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2012/11/' title='November 2012'>November 2012</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2012/10/' title='October 2012'>October 2012</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2012/05/' title='May 2012'>May 2012</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2012/04/' title='April 2012'>April 2012</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2012/03/' title='March 2012'>March 2012</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2012/02/' title='February 2012'>February 2012</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2012/01/' title='January 2012'>January 2012</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2011/12/' title='December 2011'>December 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2011/10/' title='October 2011'>October 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2011/07/' title='July 2011'>July 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2011/01/' title='January 2011'>January 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2010/12/' title='December 2010'>December 2010</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2009/12/' title='December 2009'>December 2009</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/fawei/2009/11/' title='November 2009'>November 2009</a></li>
+		</ul>
+</li>			</ul>
+		</div><!-- #secondary .widget-area -->
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+			
+<p>				
+<a href="http://blogs.it.ox.ac.uk/fawei/" title="Fawei Geng&#039;s Blog" rel="home">
+					Fawei Geng&#039;s Blog				</a>
+</p>					
+					
+									<p class="disclaimer" >The views expressed on this blog are mine and not necessarily those of the University of Oxford IT Services.</p>			
+			
+			
+
+			</div>
+
+			<div id="site-generator">powered by <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">WordPress</a><br/>
+      <a href="http://blogs.oucs.ox.ac.uk/">IT Services Blogs</a> hosted by <a href="http://www.it.ox.ac.uk/" title="University of Oxford IT Services">University of Oxford IT Services</a>
+			</div>
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!catapultReadCookie("catAccCookies")){//If the cookie has not been set
+				jQuery("#catapult-cookie-bar").show();
+							}
+		});
+	</script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/fawei/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js?ver=1.8'></script>
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201525.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'30690221',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(30690221,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+<div id="catapult-cookie-bar">This site uses cookies<button id="catapultCookie" tabindex=1 onclick="catapultAcceptCookies();">Okay, thanks</button><a tabindex=1 href="http://blogs.it.ox.ac.uk/fawei/cookie-policy">Find out more</a></div>
+</body>
+</html>

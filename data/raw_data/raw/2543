@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<!-- Sorry no IE7 support! -->
+<!-- @see http://foundation.zurb.com/docs/index.html#basicHTMLMarkup -->
+
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta name="viewport" content="width=device-width, maximum-scale = 1.0" />
+<link rel="shortcut icon" href="https://www.wolfson.ox.ac.uk/sites/www.wolfson.ox.ac.uk/themes/wolfson/favicon.ico" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link href="https://fonts.googleapis.com/css?family=Droid+Serif" rel="stylesheet" />
+  <title>www.wolfson.ox.ac.uk</title>
+  <style>
+@import url("https://www.wolfson.ox.ac.uk/modules/system/system.base.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/modules/system/system.messages.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/modules/system/system.theme.css?nnvk9x");
+</style>
+<style>
+@import url("https://www.wolfson.ox.ac.uk/sites/all/modules/calendar/css/calendar_multiday.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/sites/all/modules/date/date_api/date.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/modules/field/theme/field.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/modules/node/node.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/modules/search/search.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/modules/user/user.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/sites/all/modules/views/css/views.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/sites/all/modules/ckeditor/css/ckeditor.css?nnvk9x");
+</style>
+<style>
+@import url("https://www.wolfson.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/sites/all/modules/panels/css/panels.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/sites/all/modules/calendar/css/calendar-overlap.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/sites/all/modules/date/date_views/css/date_views.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/sites/all/modules/panels/plugins/layouts/onecol/onecol.css?nnvk9x");
+</style>
+
+<!--[if lte IE 9]>
+<link rel="stylesheet" href="https://www.wolfson.ox.ac.uk/sites/www.wolfson.ox.ac.uk/themes/wolfson/css/ie9.css?nnvk9x" />
+<![endif]-->
+
+<!--[if IE]>
+<link rel="stylesheet" href="https://www.wolfson.ox.ac.uk/sites/www.wolfson.ox.ac.uk/themes/wolfson/css/ie.css?nnvk9x" />
+<![endif]-->
+<style>
+@import url("https://www.wolfson.ox.ac.uk/sites/www.wolfson.ox.ac.uk/themes/zurb-foundation/css/foundation.min.css?nnvk9x");
+@import url("https://www.wolfson.ox.ac.uk/sites/www.wolfson.ox.ac.uk/themes/wolfson/css/custom.css?nnvk9x");
+</style>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script>
+<script src="https://www.wolfson.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.wolfson.ox.ac.uk/misc/drupal.js?nnvk9x"></script>
+<script src="https://www.wolfson.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script src="https://www.wolfson.ox.ac.uk/sites/all/modules/jquery_update/replace/misc/jquery.form.min.js?v=2.69"></script>
+<script src="https://www.wolfson.ox.ac.uk/misc/ajax.js?v=7.36"></script>
+<script src="https://www.wolfson.ox.ac.uk/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="https://www.wolfson.ox.ac.uk/sites/all/modules/calendar/js/calendar_overlap.js?nnvk9x"></script>
+<script src="https://www.wolfson.ox.ac.uk/sites/all/modules/views/js/base.js?nnvk9x"></script>
+<script src="https://www.wolfson.ox.ac.uk/misc/progress.js?v=7.36"></script>
+<script src="https://www.wolfson.ox.ac.uk/sites/all/modules/views/js/ajax_view.js?nnvk9x"></script>
+<script src="https://www.wolfson.ox.ac.uk/sites/all/modules/google_analytics/googleanalytics.js?nnvk9x"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-10412060-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="https://www.wolfson.ox.ac.uk/sites/www.wolfson.ox.ac.uk/themes/wolfson/js/vendor/custom.modernizr.js?nnvk9x"></script>
+<script src="https://www.wolfson.ox.ac.uk/sites/www.wolfson.ox.ac.uk/themes/wolfson/js/foundation.min.js?nnvk9x"></script>
+<script src="https://www.wolfson.ox.ac.uk/sites/www.wolfson.ox.ac.uk/themes/wolfson/js/scripts.js?nnvk9x"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"wolfson","theme_token":"65_JAELxfpSi-Gc5sXUXNNaK7YEmWbfGSphCFI3dLEA","jquery_version":"1.7","js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.7.1\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/calendar\/js\/calendar_overlap.js":1,"sites\/all\/modules\/views\/js\/base.js":1,"misc\/progress.js":1,"sites\/all\/modules\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/www.wolfson.ox.ac.uk\/themes\/wolfson\/js\/vendor\/custom.modernizr.js":1,"sites\/www.wolfson.ox.ac.uk\/themes\/wolfson\/js\/foundation.min.js":1,"sites\/www.wolfson.ox.ac.uk\/themes\/wolfson\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/calendar\/css\/calendar-overlap.css":1,"sites\/all\/modules\/date\/date_views\/css\/date_views.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/www.wolfson.ox.ac.uk\/themes\/wolfson\/css\/ie9.css":1,"sites\/www.wolfson.ox.ac.uk\/themes\/wolfson\/css\/ie.css":1,"sites\/www.wolfson.ox.ac.uk\/themes\/zurb-foundation\/css\/normalize.css":1,"sites\/www.wolfson.ox.ac.uk\/themes\/zurb-foundation\/css\/foundation.min.css":1,"sites\/www.wolfson.ox.ac.uk\/themes\/wolfson\/css\/custom.css":1}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:2e211a65ed4cfdaeb0a3bd1df603427c":{"view_name":"events_calendar","view_display_id":"page_3","view_args":"2015-06-16","view_path":"calendar-node-field-event-date\/day\/2015-06-16","view_base_path":"calendar-node-field-event-date\/day","view_dom_id":"2e211a65ed4cfdaeb0a3bd1df603427c","pager_element":0}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});</script>
+  <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-calendar-node-field-event-date page-calendar-node-field-event-date-day page-calendar-node-field-event-date-day-2015-06-16 section-calendar-node-field-event-date views-page" >
+  <div class="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<!-- .off-canvas-wrap -->
+<div class="off-canvas-wrap">
+	<div class="inner-wrap">
+		<nav class="row top-header">
+			<section class="logo-column columns large-8">
+				<h1 class="title">
+                          <a href="/"><img src="https://www.wolfson.ox.ac.uk/sites/www.wolfson.ox.ac.uk/themes/wolfson/logo.png"
+						alt="www.wolfson.ox.ac.uk "
+						title="www.wolfson.ox.ac.uk " id="logo" /></a>
+                      </h1>
+			</section>
+			<section class="columns large-4 header-right">
+			   <div class="university-logo"><a href="http://www.ox.ac.uk"><img typeof="foaf:Image" src="https://www.wolfson.ox.ac.uk/sites/www.wolfson.ox.ac.uk/themes/wolfson/images/university_logo_small_positive.gif" alt="" /></a></div>
+               <div class="header-search-box">
+                <form action="/calendar-node-field-event-date/day/2015-06-16" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline row collapse">
+  <div class="small-8 large-10 medium-10 columns"><div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="small-8 columns form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+</div>
+  <div class="small-4 large-2 medium-2 columns"><button class="postfix small-4 large-2 columns form-submit" id="edit-submit" name="op" value="Search" type="submit"><span class="label">Search</span><i class='fi-magnifying-glass'></i></button>
+</div>
+  <input type="hidden" name="form_build_id" value="form-xCcqaxnB_8lVRGZLaUTzDbU0XqT_JYfEKSqRT_twF-k" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+
+ </div></form>               </div>
+               <div class="header-social-media">
+                <div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-custom pane-2 header-social-media"  >
+  
+      
+  
+  <div class="pane-content">
+    <a href="http://www.youtube.com/user/WOLFSONCOLLEGEOXFORD"><i class="fi-social-youtube"></i></a>
+<a href="https://twitter.com/#%21/WolfsonCollege"><i class="fi-social-twitter"></i></a>
+<a href="https://www.facebook.com/wolfsoniansworldwide"><i class="fi-social-facebook"></i></a>
+<a href="http://www.linkedin.com/groups?home=&amp;gid=157446&amp;trk=anet_ug_hm"><i class="fi-social-linkedin"></i></a>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+               </div>
+			</section>
+		</nav>
+		<aside class="left-off-canvas-menu">
+			<div class="trigger-exit-off-canvas">
+				<i class="fi-x"></i>
+			</div>
+                         <section class="block block-panels-mini block-panels-mini-offset-menu-and-content">
+
+      
+      <div class="panel-display panel-1col clearfix" id="mini-panel-offset_menu_and_content">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-menu-tree pane-main-menu"  >
+  
+        <h2 class="pane-title">
+      Main menu    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-2 menu-name-main-menu parent-mlid-main-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children active-trail menu-mlid-1228"><a href="/about-wolfson" class="active-trail active-trail">About Wolfson</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1229"><a href="/academic" title="">Academic life</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1231"><a href="/college-life" title="">College life</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1230"><a href="/admissions">Admissions</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1232"><a href="/our-venue-your-event" title="">Conferences and events</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1227"><a href="https://www.alumniweb.ox.ac.uk/wolfsonians/" title="">Alumni and friends</a><div class="menu-arrow-right"></div></li>
+<li class="last leaf has-children menu-mlid-1548"><a href="/current-members" title="">Current members</a><div class="menu-arrow-right"></div></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-block-1"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="http://www.youtube.com/user/WOLFSONCOLLEGEOXFORD"><i class="fi-social-youtube"></i></a><br />
+<a href="https://twitter.com/#%21/WolfsonCollege"><i class="fi-social-twitter"></i></a><br />
+<a href="https://www.facebook.com/wolfsoniansworldwide"><i class="fi-social-facebook"></i></a><br />
+<a href="http://www.linkedin.com/groups?home=&amp;gid=157446&amp;trk=anet_ug_hm"><i class="fi-social-linkedin"></i></a><br />
+<a href="http://podcasts.ox.ac.uk/units/wolfson-college"><i class="fi-microphone"></i></a><br />
+<a href="http://m.ox.ac.uk/news/wolfson/"><i class="fi-mobile"></i></a></p>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  
+</section>                </aside>
+
+		<!--.page -->
+		<div role="document" class="page">
+
+			<!--.l-header region -->
+			<header role="banner" class="l-header">
+                              <nav class="main-dropdown-menu row show-for-large-up">
+                  <ul id="main-menu" class="main-nav left"><li class="active-trail active-trail active-trail active-trail"><a href="/%23" class="active-trail active-trail active-trail active-trail button mlid-1228 dropdown" data-dropdown="drop-1228" data-original-href="https://www.wolfson.ox.ac.uk/about-wolfson">About Wolfson</a><ul id="drop-1228" data-dropdown-content class="f-dropdown"><li class="first leaf active-trail show-for-small"><a href="/about-wolfson" class="active-trail active-trail active-trail active-trail">About Wolfson</a><li class="first leaf"><a href="/message">From the President</a></li><li class="expanded has-dropdown" title=""><a href="/history" title="">College history</a></li><li class="leaf" title=""><a href="/gardens" title="">College gardens</a></li><li class="leaf" title=""><a href="/virtualtour" title="">Virtual tour of Wolfson</a></li><li class="leaf" title=""><a href="/how-get-here" title="">How to get here</a></li><li class="leaf"><a href="/college-officers">College Officers</a></li><li class="leaf"><a href="/vacancies">Job vacancies</a></li><li class="leaf"><a href="/about-wolfson/policies">Policies</a></li><li class="leaf" title=""><a href="/contact-us" title="">Contact us</a></li><li class="leaf"><a href="/events-calendar">Events calendar</a></li><li class="last leaf"><a href="/news">News</a></li></ul></li><li class="leaf has-dropdown" title=""><a href="/%23" title="" class="button mlid-1229 dropdown" data-dropdown="drop-1229" data-original-href="https://www.wolfson.ox.ac.uk/academic">Academic life</a><ul id="drop-1229" data-dropdown-content class="f-dropdown"><li class="leaf show-for-small"><a href="/academic" title="">Academic life</a><li class="first leaf"><a href="/883-lectures-seminars">Lectures and seminars</a></li><li class="expanded has-dropdown"><a href="/clusters">Research Clusters</a></li><li class="leaf"><a href="/fellowships">Fellowships and visiting scholarships</a></li><li class="leaf"><a href="/creativearts">Creative Arts Fellows</a></li><li class="leaf"><a href="/academic-life/visiting-scholars">Visiting Scholars</a></li><li class="expanded has-dropdown"><a href="/library">Library</a></li><li class="leaf"><a href="/romulus">Romulus</a></li><li class="leaf"><a href="/emeritus-fellows">Emeritus Fellows</a></li><li class="leaf"><a href="/governing-body-fellows">Governing Body Fellows</a></li><li class="leaf"><a href="/honorary-fellows">Honorary Fellows</a></li><li class="leaf"><a href="/junior-research-fellows">Junior Research Fellows</a></li><li class="leaf"><a href="/research-fellows">Research Fellows</a></li><li class="last leaf"><a href="/supernumerary-fellows">Supernumerary Fellows</a></li></ul></li><li class="leaf has-dropdown" title=""><a href="/%23" title="" class="button mlid-1231 dropdown" data-dropdown="drop-1231" data-original-href="https://www.wolfson.ox.ac.uk/college-life">College life</a><ul id="drop-1231" data-dropdown-content class="f-dropdown"><li class="leaf show-for-small"><a href="/college-life" title="">College life</a><li class="first leaf"><a href="/facilities">Facilities</a></li><li class="leaf" title=""><a href="/community" title="">The community</a></li><li class="leaf"><a href="/membership">Common Room</a></li><li class="leaf" title=""><a href="/clubs/societies" title="">Clubs and societies</a></li><li class="leaf" title=""><a href="/annualsocialevents" title="">Annual social events</a></li><li class="expanded has-dropdown"><a href="/accommodation">Accommodation</a></li><li class="leaf"><a href="/catering">Food and drink</a></li><li class="leaf" title=""><a href="https://www.wolfson.ox.ac.uk/degreedays#overlay-context=content/meal-booking-graduation" title="">Graduation ceremonies</a></li><li class="last expanded has-dropdown" title=""><a href="/nursery" title="">Wolfson College Oxford nursery</a></li></ul></li><li class="leaf has-dropdown"><a href="/%23" class="button mlid-1230 dropdown" data-dropdown="drop-1230" data-original-href="https://www.wolfson.ox.ac.uk/admissions">Admissions</a><ul id="drop-1230" data-dropdown-content class="f-dropdown"><li class="leaf show-for-small"><a href="/admissions">Admissions</a><li class="first leaf" title=""><a href="/whywolfson" title="">Why choose Wolfson?</a></li><li class="leaf" title=""><a href="/admissions/courses" title="">Courses and subjects</a></li><li class="leaf"><a href="/howtoapply">How to apply</a></li><li class="leaf" title=""><a href="/admissions/fees" title="">Fees and finance</a></li><li class="expanded has-dropdown"><a href="/scholarships-0">Scholarships</a></li><li class="leaf" title=""><a href="/support" title="">Student support</a></li><li class="leaf"><a href="/student-profiles">Student profiles</a></li><li class="last leaf"><a href="/faq">FAQ</a></li></ul></li><li class="leaf has-dropdown" title=""><a href="/%23" title="" class="button mlid-1232 dropdown" data-dropdown="drop-1232" data-original-href="https://www.wolfson.ox.ac.uk/our-venue-your-event">Conferences and events</a><ul id="drop-1232" data-dropdown-content class="f-dropdown"><li class="leaf show-for-small"><a href="/our-venue-your-event" title="">Conferences and events</a><li class="first leaf" title=""><a href="/conference/meetings" title="">Conferences and meetings</a></li><li class="leaf"><a href="/conference/dining">Dining</a></li><li class="leaf" title=""><a href="/conference/weddings-and-parties" title="">Weddings and parties</a></li><li class="leaf"><a href="/conference/bed-and-breakfast">Bed and Breakfast</a></li><li class="leaf" title=""><a href="/conference/rooms" title="">Conference rooms</a></li><li class="leaf"><a href="/conference/rates">Rates</a></li><li class="leaf"><a href="/student-member-room-bookings">Student/Member room bookings</a></li><li class="last leaf"><a href="/conference/contact-us">Contact us</a></li></ul></li><li class="collapsed" title=""><a href="https://www.alumniweb.ox.ac.uk/wolfsonians/" title="" class="button mlid-1227">Alumni and friends</a></li><li class="last leaf has-dropdown" title=""><a href="/%23" title="" class="button mlid-1548 dropdown" data-dropdown="drop-1548" data-original-href="https://www.wolfson.ox.ac.uk/current-members">Current members</a><ul id="drop-1548" data-dropdown-content class="f-dropdown"><li class="last leaf show-for-small"><a href="/current-members" title="">Current members</a><li class="first leaf"><a href="/contact">Staff Contact Details</a></li><li class="expanded has-dropdown"><a href="/internal/students">Current Students</a></li><li class="expanded has-dropdown"><a href="/clubs">Clubs &amp; Societies</a></li><li class="leaf"><a href="/internal/careers">Careers Service</a></li><li class="leaf"><a href="/funds">Academic Activity Funds</a></li><li class="leaf"><a href="/wolfson-college-term-calendar">Term Calendar</a></li><li class="expanded has-dropdown"><a href="/welfare">Health &amp; Welfare</a></li><li class="leaf"><a href="/internal/publications">Publications</a></li><li class="expanded has-dropdown"><a href="/internal/catering">Catering</a></li><li class="expanded has-dropdown"><a href="/library/internal">Library</a></li><li class="expanded has-dropdown"><a href="/computing">IT Facilities</a></li><li class="expanded has-dropdown"><a href="/internal/accommodation">Accommodation</a></li><li class="expanded has-dropdown"><a href="/internal/facilities">College Facilities</a></li><li class="leaf"><a href="/guestrooms">Guest Rooms</a></li><li class="leaf"><a href="/maintenance">Maintenance</a></li><li class="leaf"><a href="/committees">College Committees</a></li><li class="last leaf"><a href="/housekeeping-request-form">Housekeeping</a></li></ul></li></ul>                </nav>
+                            <nav class="main-mobile-menu-bar hide-for-large-up">
+			   <div class="left-small"><a href="#" class="left-off-canvas-toggle menu-icon"><span>Menu</span></a></div>
+			   </nav>
+
+              
+            </header>
+			<!--/.l-header -->
+
+  
+  
+  
+  <main role="main" class="row l-main">
+			<div class="large-12 main columns">
+      
+      <a id="main-content"></a>
+
+      
+      
+              <h2 class="element-invisible">Primary tabs</h2><ul class="button-group"><li><a href="/calendar-node-field-event-date" class="small button secondary">Month</a></li>
+<li><a href="/calendar-node-field-event-date/week" class="small button secondary">Week</a></li>
+<li class="active"><a href="/calendar-node-field-event-date/day" class="small button secondary">Day<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="/calendar-node-field-event-date/year" class="small button secondary">Year</a></li>
+</ul>              
+      
+        
+      
+      <div class="view view-events-calendar view-id-events_calendar view-display-id-page_3 view-dom-id-2e211a65ed4cfdaeb0a3bd1df603427c">
+            <div class="view-header">
+      <div class="date-nav-wrapper clearfix">
+  <div class="date-nav item-list">
+    <div class="date-heading">
+      <h3>Tuesday, June 16, 2015</h3>
+    </div>
+    <ul class="pager">
+          <li class="date-prev">
+        <a href="https://www.wolfson.ox.ac.uk/calendar-node-field-event-date/day/2015-06-15" title="Navigate to previous day" rel="nofollow">&laquo; Prev</a>      </li>
+              <li class="date-next">
+        <a href="https://www.wolfson.ox.ac.uk/calendar-node-field-event-date/day/2015-06-17" title="Navigate to next day" rel="nofollow">Next &raquo;</a>      </li>
+        </ul>
+  </div>
+</div>    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="calendar-calendar"><div class="day-view">
+<div id="multi-day-container">
+  <table class="full">
+    <tbody>
+      <tr class="holder">
+        <td class="calendar-time-holder"></td>
+        <td class="calendar-day-holder"></td>
+      </tr>
+      <tr>
+        <td class="calendar-agenda-hour first">
+           <span class="calendar-hour">All day</span>
+        </td>
+        <td class="calendar-agenda-items multi-day last">
+                    <div class="calendar">
+            <div class="inner">
+             <div class="item">
+  <div class="view-item view-item-events_calendar">
+  <div class="calendar dayview">
+        <div class="calendar.2280.field_event_date.0.0 contents">
+                      <a href="/event/exhibition-colombian-indigenous-peoples-wisdom-nature">Exhibition: Colombian Indigenous Peoples: Wisdom of Nature</a>                      <span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2015-06-01T10:00:00+00:00">2015-06-01 10:00</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2015-06-19T19:00:00+00:00">2015-06-19 19:00</span>          </div>  
+        <div class="cutoff">&nbsp;</div>
+      </div> 
+  </div>   
+</div>            </div>
+          </div>
+             
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="header-body-divider">&nbsp;</div>
+<div id="single-day-container">
+    <script>
+    try {
+  	  // Hide container while it renders...  Degrade w/o javascript support
+      jQuery('#single-day-container').css('visibility','hidden');
+    }catch(e){ 
+      // swallow 
+    }
+  </script>
+    <table class="full">
+    <tbody>
+      <tr class="holder">
+        <td class="calendar-time-holder"></td>
+        <td class="calendar-day-holder"></td>
+      </tr>
+      <tr>
+        <td class="first">
+                                            <div class="first calendar-agenda-hour">
+              <span class="calendar-hour">Before 01</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">01</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">02</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">03</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">04</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">05</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">06</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">07</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">08</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">09</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">10</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">11</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">12</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">13</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">14</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">15</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">16</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">17</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">18</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">19</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">20</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">21</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="calendar-agenda-hour">
+              <span class="calendar-hour">22</span><span class="calendar-ampm"></span>
+            </div>
+                                  <div class="last calendar-agenda-hour">
+              <span class="calendar-hour">23</span><span class="calendar-ampm"></span>
+            </div>
+             
+        </td>
+        <td class="last">
+                                <div class="first calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper first_item">
+                                      <div class="inner">
+                                                   <div class="item">
+  <div class="view-item view-item-events_calendar">
+  <div class="calendar dayview">
+        <div class="calendar.2227.field_event_date.0.0 contents">
+                        
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/event/life-writing-lunch-seminar-joanna-kavenna">Life-Writing Lunch Seminar: Joanna Kavenna</a></span>  </div>  
+  <div class="views-field views-field-field-event-date">        <div class="field-content"><span class="date-display-single">2015-06-16 <span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2015-06-16T13:00:00+00:00">13:00</span> to <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2015-06-16T14:00:00+00:00">14:00</span></span></div>  </div>          </div>  
+        <div class="cutoff">&nbsp;</div>
+      </div> 
+  </div>   
+</div>                                              </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+                                <div class="last calendar-agenda-items single-day">
+            <div class="half-hour">&nbsp;</div>
+                        <div class="calendar item-wrapper">
+                          <div class="inner">
+                                &nbsp;                             </div>
+            </div>
+          </div>
+             
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div class="single-day-footer">&nbsp;</div>
+</div></div>
+<script>
+try {
+  // Size and position the viewport inline so there are no delays
+  calendar_resizeViewport(jQuery);
+  calendar_scrollToFirst(jQuery);
+  jQuery('#single-day-container').css('visibility','visible');
+}catch(e){ 
+  // swallow 
+}
+</script>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="/events" class="wolfson-button-small">View events in list</a></p>
+    </div>
+  
+  
+</div>  
+    </div>
+			<!--/.main region -->
+
+    
+      </main>
+			<!--/.main-->
+
+  
+      <!--.footer-columns -->
+			<section class="l-footer-columns">
+              <div class="footer-first large-12 columns">
+              <section class="block block-panels-mini block-panels-mini-footer-responsive">
+
+      
+      <div class="row" id="mini-panel-footer_responsive">
+  <div class="large-12 columns">
+    <div class="panel-pane pane-menu-tree pane-main-menu footer-column columns large-4 small-12"  >
+  
+        <h2 class="pane-title">
+      Sections    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-1 menu-name-main-menu parent-mlid-main-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children active-trail menu-mlid-1228"><a href="/about-wolfson" class="active-trail">About Wolfson</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1229"><a href="/academic" title="">Academic life</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1231"><a href="/college-life" title="">College life</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1230"><a href="/admissions">Admissions</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1232"><a href="/our-venue-your-event" title="">Conferences and events</a><div class="menu-arrow-right"></div></li>
+<li class="leaf has-children menu-mlid-1227"><a href="https://www.alumniweb.ox.ac.uk/wolfsonians/" title="">Alumni and friends</a><div class="menu-arrow-right"></div></li>
+<li class="last leaf has-children menu-mlid-1548"><a href="/current-members" title="">Current members</a><div class="menu-arrow-right"></div></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-menu-tree pane-menu-quick-links footer-column columns large-4 small-12"  >
+  
+        <h2 class="pane-title">
+      Quick links    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-menu-quick-links-1 menu-name-menu-quick-links parent-mlid-menu-quick-links:0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1387"><a href="https://www.wolfson.ox.ac.uk/" title="">Home</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1554"><a href="/minibus" title="">Minibus</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1572"><a href="https://www.wolfson.ox.ac.uk/guestnights" title="">Meal bookings</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1556"><a href="/how-get-here" title="">How to find us</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1555"><a href="/contact" title="">Staff contact details</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1557"><a href="/vacancies" title="">Job vacancies</a><div class="menu-arrow-right"></div></li>
+<li class="leaf menu-mlid-1559"><a href="/news" title="">News</a><div class="menu-arrow-right"></div></li>
+<li class="leaf active-trail menu-mlid-1558"><a href="/calendar-node-field-event-date" title="" class="active-trail">Event calendar</a><div class="menu-arrow-right"></div></li>
+<li class="last leaf menu-mlid-1643"><a href="https://www.wolfson.ox.ac.uk/node/1969" title="">Live image of building work</a><div class="menu-arrow-right"></div></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1 footer-column columns large-4 small-12"  >
+  
+        <h2 class="pane-title">
+      Contact    </h2>
+    
+  
+  <div class="pane-content">
+    <div>Wolfson College,</div>
+<div>Linton Road,</div>
+<div>Oxford OX2 6UD</div>
+<div>T: +44 (0)1865 274 100</div>
+<div>Charity nr: 1141446.</div>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+  
+</section>        </div>
+                    <div class="footer-second large-12 columns">
+              <section class="block block-views block-views-tweets-block">
+
+      
+      <div class="view view-tweets view-id-tweets view-display-id-block row view-dom-id-f4fd0442942310fcf7b129d86a6100d4">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first columns large-6 small-12">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><span class="icon"><i class="fi-social-twitter"></i><span class="tweet-text">Take hold of your data and learn to <a target="_blank" rel="nofollow" href="http://search.twitter.com/search?q=%23crowdsource">#crowdsource</a> at <a target="_blank" rel="nofollow" href="http://search.twitter.com/search?q=%23DHOxSS15">#DHOxSS15</a> Oxford. Registration closes 29 June. <a target="_blank" rel="nofollow" href="http://t.co/9EPZIpgqzn">http://t.co/9EPZIpgqzn</a> <a target="_blank" rel="nofollow" href="http://search.twitter.com/search?q=%23digitalhumanities">#digitalhumanities</a></span>
+<div class="tweet-time"><em class="placeholder">5 hours 35 min</em> ago</div></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last columns large-6 small-12">
+      
+  <div class="views-field views-field-nothing">        <span class="field-content"><span class="icon"><i class="fi-social-twitter"></i><span class="tweet-text"><a target="_blank" rel="nofollow" href="http://twitter.com/alicewilliams86">@alicewilliams86</a> Thank you so much for sharing these gorgeous photos Alice. Sorry to see you go - hope you can come back to visit often!</span>
+<div class="tweet-time"><em class="placeholder">5 hours 42 min</em> ago</div></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><span class="twitter-follow">Follow @WolfsonCollege on Twitter <i class="fi-social-twitter"></i></span></p>
+    </div>
+  
+  
+</div>  
+</section>        </div>
+                      </section>
+			<!--/.footer-columns-->
+  
+  <!--.l-footer-->
+  <footer class="l-footer panel" role="contentinfo">
+    <div class="squeeze row">
+          <div class="footer large-6 columns">
+            <section class="block block-block block-block-1">
+
+      
+      <p><a href="http://www.youtube.com/user/WOLFSONCOLLEGEOXFORD"><i class="fi-social-youtube"></i></a><br />
+<a href="https://twitter.com/#%21/WolfsonCollege"><i class="fi-social-twitter"></i></a><br />
+<a href="https://www.facebook.com/wolfsoniansworldwide"><i class="fi-social-facebook"></i></a><br />
+<a href="http://www.linkedin.com/groups?home=&amp;gid=157446&amp;trk=anet_ug_hm"><i class="fi-social-linkedin"></i></a><br />
+<a href="http://podcasts.ox.ac.uk/units/wolfson-college"><i class="fi-microphone"></i></a><br />
+<a href="http://m.ox.ac.uk/news/wolfson/"><i class="fi-mobile"></i></a></p>
+  
+</section>      </div>
+    
+          <div class="copyright large-6 columns">
+        &copy; 2015 www.wolfson.ox.ac.uk All rights reserved.      </div>
+        </div>
+			</footer>
+			<!--/.footer-->
+
+  
+  </div>
+		<!--/.page -->
+
+		<a class="exit-off-canvas"></a>
+	</div>
+</div>
+<!-- .off-canvas-list -->
+
+      <script>
+    (function ($, Drupal, window, document, undefined) {
+      $(document).foundation();
+    })(jQuery, Drupal, this, this.document);
+  </script>
+</body>
+</html>

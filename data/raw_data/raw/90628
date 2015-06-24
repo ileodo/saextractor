@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html xml:lang="EN" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://dutch.clp.ox.ac.uk/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="/?q=node/106" />
+<link rel="canonical" href="/?q=chw0091" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Folio 43r | Jan van Boendale - MS Marshall 29</title>
+  <style type="text/css" media="all">
+@import url("http://dutch.clp.ox.ac.uk/modules/system/system.base.css?nq4tyg");
+@import url("http://dutch.clp.ox.ac.uk/modules/system/system.menus.css?nq4tyg");
+@import url("http://dutch.clp.ox.ac.uk/modules/system/system.messages.css?nq4tyg");
+@import url("http://dutch.clp.ox.ac.uk/modules/system/system.theme.css?nq4tyg");
+</style>
+<style type="text/css" media="all">
+@import url("http://dutch.clp.ox.ac.uk/modules/comment/comment.css?nq4tyg");
+@import url("http://dutch.clp.ox.ac.uk/modules/field/theme/field.css?nq4tyg");
+@import url("http://dutch.clp.ox.ac.uk/modules/node/node.css?nq4tyg");
+@import url("http://dutch.clp.ox.ac.uk/modules/search/search.css?nq4tyg");
+@import url("http://dutch.clp.ox.ac.uk/modules/user/user.css?nq4tyg");
+@import url("http://dutch.clp.ox.ac.uk/sites/all/modules/ckeditor/css/ckeditor.css?nq4tyg");
+</style>
+<style type="text/css" media="all">
+@import url("http://dutch.clp.ox.ac.uk/sites/all/themes/dutch/css/styles.css?nq4tyg");
+</style>
+<style type="text/css" media="print">
+@import url("http://dutch.clp.ox.ac.uk/sites/all/themes/dutch/css/print.css?nq4tyg");
+</style>
+  <script type="text/javascript" src="http://dutch.clp.ox.ac.uk/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://dutch.clp.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://dutch.clp.ox.ac.uk/misc/drupal.js?nq4tyg"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dutch","theme_token":"IOO5JbMqxLUvA4fYd2QFkGnq_Tu9CNbDc4UgoqfVpOw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/themes\/dutch\/css\/styles.css":1,"sites\/all\/themes\/dutch\/css\/print.css":1}}});
+//--><!]]>
+</script>
+
+<!-- IMAGE FOLDER NAME IS SAME AS PAGE NAME. EXAMINE PAGE QUERYSTRING AND IF q = chwnnnn DISPLAY ZOOMABLE IMAGE -->
+<script>
+	function urlParams() {
+		var e,
+		    u = {},
+		    a = /\+/g,
+		    r = /([^&=]+)=?([^&]*)/g,
+		    d = function (s) { return decodeURIComponent(s.replace(a, " ")); },
+		    q = window.location.search.substring(1);
+
+		while (e = r.exec(q))
+			u[d(e[1])] = d(e[2]);
+
+		return u;
+	};
+
+	jQuery(document).ready(function() {
+		var params = urlParams();
+		//console.log("q is " + params["q"]);
+		if (params["q"] && params["q"].slice(0,3) == 'chw')
+		{
+			//console.log(" first 3 chars are: " + params["q"].slice(0,3));
+			Z.showImage("zoom",params["q"],"zSkinPath=Assets/Skins/Light&zNavigatorVisible=0&zToolbarVisible=1&zToolbarPosition=0&zLogoVisible=0&zInitialX=2800&zInitialY=3300&zInitialZoom=10");
+		}
+
+		if (!params["q"])
+		{
+			jQuery(".first").css('background-color', '#FFFFFF');
+		}
+
+	});
+
+</script>
+
+
+  <!-- zoomify code -->
+  <script type="text/javascript" src="ZoomifyImageViewer.js"></script>
+
+
+
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-106 node-type-page" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page">
+	<div id="wrapper">
+
+ 		<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+		<!-- BANNER REGION  -->
+ 		<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+		<div id="banner-region">
+			<div id="site-logo">
+				<a href="http://dutch.clp.ox.ac.uk"><img src="/sites/all/themes/dutch/images/dutch-logo2.jpg" alt="Middle Dutch logo"></a>
+			</div> <!-- END LOGO  -->
+			<div id="logo">
+				<a href="http://www.ox.ac.uk" target="_blank"><img src="/sites/all/themes/dutch/images/ox-logo.jpg" alt="Oxford University logo"></a>
+			</div> <!-- END LOGO  -->
+  			<div id="sitetitle">
+  				<h1 class="fontface">Jan Van Boendale<br />MS Marshall 29</h1>
+	         </div> <!-- END SITETITLE  -->
+
+	         <div id="sitestrap">
+	         		<a href="http://www.ling-phil.ox.ac.uk" target="_blank">Faculty of<br />Linguistics,<br />Philology &<br />Phonetics</a>
+
+	         </div>
+        </div> <!-- END BANNER-REGION -->
+
+		<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+		<!-- SEARCH REGION  -->
+		<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+	   <div id="search-region">
+             <div class="region region-search">
+    <div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/?q=chw0091" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-53scik_oK73yIBNoJyVHBOd7ro7c42rbmxH5LHtb30s" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+	    </div>  <!-- END SEARCH-REGION  -->
+
+		<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+		<!-- LEFT NAVIGATION  -->
+			<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+		<div id="horiz-menu">
+
+				  <div class="region region-nav">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/?q=project">MS Marshall 29</a></li>
+<li class="collapsed"><a href="/?q=contents">Contents</a></li>
+<li class="leaf"><a href="/?q=research">Research</a></li>
+<li class="last leaf"><a href="/?q=bibliography">Bibliography</a></li>
+</ul>  </div>
+</div>
+  </div>
+
+		</div> <!-- END LEFT-REGION  -->
+
+
+		<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+		<!-- REST OF PAGE  -->
+		<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+		<div id="three-regions">
+
+
+
+
+ 			<div id="centre-region">
+
+ 				    														<h1 class="title" id="page-title">Folio 43r</h1>
+																									<div class="tabs"></div>
+																								  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-106" class="node node-page clearfix" about="/?q=chw0091" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Folio 43r" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><table>
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<th><a href="?q=book2">Index</a> | <a href="?q=chw0090">&lt;&lt; Previous page</a> | <a href="?q=chw0092">Next page &gt;&gt;</a></th>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td><span class="l" id="l3622">En<span class="ex" id="ex4894">de</span> hare offera<span class="ex" id="ex4895">n</span>de en<span class="ex" id="ex4896">de</span> ha<span class="ex" id="ex4897">re</span> ere</span><span class="l" id="l3623">Daer af minderde sere</span><span class="l" id="l3624">En<span class="ex" id="ex4898">de</span> si ghemiste<span class="ex" id="ex4899">n</span> vande<span class="ex" id="ex4900">n</span> vordele<span class="ex" id="ex4901">n</span></span><span class="l" id="l3625">En<span class="ex" id="ex4902">de</span> vande<span class="ex" id="ex4903">n</span> goede<span class="ex" id="ex4904">n</span> morselen</span><span class="lineNumber">[7460]</span><span class="l" id="l3626">Die si hadden te voren</span><span class="l" id="l3627">En<span class="ex" id="ex4905">de</span> viele<span class="ex" id="ex4906">n</span> in sulken tore<span class="ex" id="ex4907">n</span></span><span class="l" id="l3628">En<span class="ex" id="ex4908">de</span> in so ouerdadeghen nijt</span><span class="l" id="l3629">Dat si sonder respijt</span><span class="l" id="l3630">Met hare<span class="ex" id="ex4909">n</span> valscheyde<span class="ex" id="ex4910">n</span> groet</span><span class="lineNumber">[7465]</span><span class="l" id="l3631">Cristu<span class="ex" id="ex4911">m</span> brachten ter doet</span><span class="l" id="l3632">Dat nye mensche op ertrike</span><span class="l" id="l3633">Doet en starf so bitterlike</span><span class="l" id="l3634">En<span class="ex" id="ex4912">de</span> si wel wisten nochtan</span><span class="l" id="l3635">Dat <span class="ex" id="ex4913">cristus</span> was een heylich ma<span class="ex" id="ex4914">n</span></span><span class="lineNumber">[7470]</span><span class="l" id="l3636">En<span class="ex" id="ex4915">de</span> dat een puer me<span class="ex" id="ex4916">n</span>sche niet hadde moge<span class="ex" id="ex4917">n</span></span><span class="l" id="l3637">Alsulke doet noch wond<span class="ex" id="ex4918">er</span> toghe<span class="ex" id="ex4919">n</span></span><span class="l" id="l3638">Nochtan en bescoet algad<span class="ex" id="ex4920">er</span> niet</span><span class="parag" id="parag170">¶</span><span class="l" id="l3639">Nu merct dan ende besiet</span><span class="l" id="l3640">Of <span class="ex" id="ex4921">cristus</span> noch hier ned<span class="ex" id="ex4922">er</span> quame</span><span class="lineNumber">[7475]</span><span class="l" id="l3641">En<span class="ex" id="ex4923">de</span> den papen tfordele name</span><span class="l" id="l3642">En<span class="ex" id="ex4924">de</span> hen openbaer seyde</span><span class="l" id="l3643">Hare ghebreke en<span class="ex" id="ex4925">de</span> archeyde</span><span class="l" id="l3644">En<span class="ex" id="ex4926">de</span> hen de waerh<span class="ex" id="ex4927">ey</span><sup class="sup hi" id="hi57">t</sup> twint en hale</span><span class="l" id="l3645">En<span class="ex" id="ex4928">de</span> dat volke altemale</span><span class="lineNumber">[7480]</span><span class="l" id="l3646">Vande<span class="ex" id="ex4929">n</span> pape<span class="ex" id="ex4930">n</span> woude keren</span><span class="l" id="l3647">En<span class="ex" id="ex4931">de</span> he<span class="ex" id="ex4932">m</span> houde<span class="ex" id="ex4933">n</span> aen <span class="ex" id="ex4934">cristus</span> leren</span><span class="l" id="l3648">So dat den pape<span class="ex" id="ex4935">n</span> met allen</span><span class="l" id="l3649">Ere en<span class="ex" id="ex4936">de</span> weerde begonste ontfalle<span class="ex" id="ex4937">n</span></span><span class="l" id="l3650">En<span class="ex" id="ex4938">de</span>si dan saghen met</span><span class="lineNumber">[7485]</span><span class="l" id="l3651">Dat te nieute soude gae<span class="ex" id="ex4939">n</span> haer wet</span><span class="l" id="l3652">Soude<span class="ex" id="ex4940">n</span> si daer noch yet na staen</span><span class="l" id="l3653">Dat sine and<span class="ex" id="ex4941">er</span>werf daden vaen</span><span class="l" id="l3654">Ic vruchte jaesi sekerlike</span><span class="l" id="l3655">Daer om radic v ghemeynlike</span><span class="lineNumber">[7490]</span><span class="l" id="l3656">Dat ghi niet en siet op haer dade</span><span class="l" id="l3657">Maer aen hare predecade</span><span class="l" id="l3658">Die si doen int ghemene</span><span class="l" id="l3659">Daer ane houdt v allene</span><span class="l" id="l3660">Nochta<span class="ex" id="ex4942">n</span> dole<span class="ex" id="ex4943">n</span> si som ghenoech</span><span class="lineNumber">[7495]</span><span class="l" id="l3661">En<span class="ex" id="ex4944">de</span> segghe<span class="ex" id="ex4945">n</span> meer of min da<span class="ex" id="ex4946">n</span> int gheuoech</span><span class="l" id="l3662">Wa<span class="ex" id="ex4947">n</span>t sijs selue niet en co<span class="ex" id="ex4948">n</span>nen vinde<span class="ex" id="ex4949">n</span></span><span class="l" id="l3663">Dat si den volke willen ontbinde<span class="ex" id="ex4950">n</span></span><span class="l" id="l3664">Alse iacob die dichter hoghe</span><span class="l" id="l3665">Spreect in sijn dyaloghe</span><span class="lineNumber">[7500]</span><span class="l" id="l3666">God spreect oec selue voerwa<span class="ex" id="ex4951">r</span>e</span><span class="l" id="l3667">In dewangelie openbare</span><span class="l" id="l3668">Dat si doen des en doet niet</span><span class="l" id="l3669">Maer dat si p<span class="ex" id="ex4952">re</span>deken des pliet</span><span class="l" id="l3670">En<span class="ex" id="ex4953">de</span> oec seghet hi int ghemene</span></td>
+			<td width="580">
+			<div id="content_centre">
+			<div id="zoom">&nbsp;</div>
+			</div>
+			</td>
+			<td><span class="lineNumber">[7505]</span><span class="l" id="l3671">Huedt v ieghen die ghene</span><span class="l" id="l3672">Die he<span class="ex" id="ex4954">m</span> in scapene cledre tone<span class="ex" id="ex4955">n</span></span><span class="l" id="l3673">Dat si v niene v<span class="ex" id="ex4956">er</span>leyde<span class="ex" id="ex4957">n</span> noch hone<span class="ex" id="ex4958">n</span></span><span class="l" id="l3674">Wa<span class="ex" id="ex4959">n</span>t hoe si he<span class="ex" id="ex4960">m</span> va<span class="ex" id="ex4961">n</span> bute<span class="ex" id="ex4962">n</span> doe<span class="ex" id="ex4963">n</span> kinne<span class="ex" id="ex4964">n</span></span><span class="l" id="l3675">Si sijn gripende wolue va<span class="ex" id="ex4965">n</span> binne<span class="ex" id="ex4966">n</span></span><span class="lineNumber">[7510]</span><span class="l" id="l3676">Dit spreect god meest opte<span class="ex" id="ex4967">n</span> abite</span><span class="l" id="l3677">Ghemaect na gheesteliker vite</span><span class="l" id="l3678">Daer meneghe grote boesheyt</span><span class="l" id="l3679">Dicke ond<span class="ex" id="ex4968">er</span> gheborghen leyt</span><span class="parag" id="parag171">¶</span><span class="l" id="l3680">Die pape<span class="ex" id="ex4969">n</span> oec dat verstaet</span><span class="lineNumber">[7515]</span><span class="l" id="l3681">Prisen de<span class="ex" id="ex4970">n</span> volke dat aflaet</span><span class="l" id="l3682">Maer me<span class="ex" id="ex4971">n</span> sietse selde<span class="ex" id="ex4972">n</span> lopen</span><span class="l" id="l3683">Yegherinc om aflaet te cope<span class="ex" id="ex4973">n</span></span><span class="l" id="l3684">Ghelijc dat die leke liede</span><span class="l" id="l3685">Dat aflaet hale<span class="ex" id="ex4974">n</span> en<span class="ex" id="ex4975">de</span> gheue<span class="ex" id="ex4976">n</span> miede</span><span class="lineNumber">[7520]</span><span class="paragln" id="parag172">¶</span><span class="l" id="l3686">En<span class="ex" id="ex4977">de</span> oec heeft groet wond<span class="ex" id="ex4978">er</span> mi</span><span class="l" id="l3687">Bi wat saken dat het si</span><span class="l" id="l3688">Niet en sitten si int sermoen</span><span class="l" id="l3689">Ghelijc dat leke liede doen</span><span class="l" id="l3690">Nochta<span class="ex" id="ex4979">n</span> datme<span class="ex" id="ex4980">n</span> vele pape<span class="ex" id="ex4981">n</span> vint</span><span class="lineNumber">[7525]</span><span class="l" id="l3691">In scrifturen harde blint</span><span class="l" id="l3692">Die luttel v<span class="ex" id="ex4982">er</span>staen die dinghe<span class="ex" id="ex4983">n</span></span><span class="l" id="l3693">Die si lesen ofte singhen</span><span class="l" id="l3694">Soe dat he<span class="ex" id="ex4984">n</span> also groet noet ware</span><span class="l" id="l3695">Alse den leke<span class="ex" id="ex4985">n</span> te comene dare</span><span class="lineNumber">[7530]</span><span class="l" id="l3696">Om te lerene de<span class="ex" id="ex4986">n</span> hemelsche<span class="ex" id="ex4987">n</span> pat</span><span class="l" id="l3697">En<span class="ex" id="ex4988">de</span> dus scuwe<span class="ex" id="ex4989">n</span> si al dat</span><span class="l" id="l3698">Dat si de<span class="ex" id="ex4990">n</span> leeke<span class="ex" id="ex4991">n</span> volke raden</span><span class="l" id="l3699">Mede te comene te ghenade<span class="ex" id="ex4992">n</span></span><span class="l" id="l3700">Si en prisen dienst noch ere</span><span class="lineNumber">[7535]</span><span class="l" id="l3701">Die me<span class="ex" id="ex4993">n</span> doet onsen here</span><span class="l" id="l3702">En si dat sire winnen ane</span><span class="l" id="l3703">Anders doe<span class="ex" id="ex4994">n</span> si ons te v<span class="ex" id="ex4995">er</span>stane</span><span class="l" id="l3704">Dat es ieghe<span class="ex" id="ex4996">n</span> der kerke<span class="ex" id="ex4997">n</span> recht</span><span class="l" id="l3705">Dit vinden wi nv ende echt</span><span class="lineNumber">[7540]</span><span class="paragln" id="parag173">¶</span><span class="l" id="l3706">Es die kerke ghebroke<span class="ex" id="ex4998">n</span> ofte ontdect</span><span class="l" id="l3707">Of wat dinghe<span class="ex" id="ex4999">n</span> dat d<span class="ex" id="ex5000">er</span> in ghebreect</span><span class="l" id="l3708">Eest clocke boeke ofte outer lake<span class="ex" id="ex5001">n</span></span><span class="l" id="l3709">Kelc orname<span class="ex" id="ex5002">n</span>t ofte and<span class="ex" id="ex5003">er</span> saken</span><span class="l" id="l3710">Sine gaue<span class="ex" id="ex5004">n</span> daer niet toe een mite</span><span class="lineNumber">[7545]</span><span class="l" id="l3711">Maer si willen sijn quite</span><span class="l" id="l3712">Van alle<span class="ex" id="ex5005">n</span> coste dies benic vroet</span><span class="l" id="l3713">Daer me<span class="ex" id="ex5006">n</span> gods dienst mede doet</span><span class="l" id="l3714">Dit en sijn gheen goede exemple</span><span class="l" id="l3715">Si hore<span class="ex" id="ex5007">n</span> ten huse vande<span class="ex" id="ex5008">n</span> temple</span><span class="lineNumber">[7550]</span><span class="l" id="l3716">Maer si en sijn gode ghee<span class="ex" id="ex5009">n</span> aelmoesene sculdech</span><span class="l" id="l3717">Dies benic harde onverduldech</span><span class="l" id="l3718">Dat si gheuen ald<span class="ex" id="ex5010">us</span> va<span class="ex" id="ex5011">n</span> hen kere<span class="ex" id="ex5012">n</span></span><span class="l" id="l3719">Al ouer al ten dienste ons here<span class="ex" id="ex5013">n</span></span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+						 
+
+			</div> <!-- END CENTRE-REGION  -->
+
+ 			<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+			<!-- FOOTER  -->
+ 			<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+			<div id="footer" >
+				 <p>
+				 	<a href="mailto:johanneke.sytsema@ling-phil.ox.ac.uk">Enquiries</a>&nbsp;&nbsp;
+				 	|&nbsp;&nbsp;<a href="?q=/user/login">Login</a>&nbsp;&nbsp;				 	|&nbsp;&nbsp;&copy; 2012 Faculty of Linguistics, Phonology & Phonetics, University of Oxford. All rights reserved
+ 				</p>
+			</div> <!-- END FOOTER  -->
+ 			<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+		</div> <!-- END THREE-REGIONS -->
+
+ 		<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+	</div>  <!-- END WRAPPER  -->
+
+ </div>  <!-- END PAGE -->
+
+  </body>
+</html>

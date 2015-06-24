@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Briefings | The Migration Observatory</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/migobs_favicon.ico" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/css/css_1665ebad20a42328e1abfed76efea276.css" />
+<link type="text/css" rel="stylesheet" media="print" href="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/css/css_42cfd5730c718526b639a2036bdb8436.css" />
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" media="all" href="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/css/css_378ed18a4bf523cb4e88b957d5afdf51.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" media="all" href="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/css/css_378ed18a4bf523cb4e88b957d5afdf51.css" />
+<![endif]-->
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" media="all" href="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/css/css_6e14cd359e38cf04fcc3e6cbd847c94a.css" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/js/js_c86a5fb9135ad34b419d8393ed2871c8.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"imagebrowser":{"basepath":"\/","filepath":"sites\/files\/migobs","modulepath":"sites\/all\/modules\/imagebrowser"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views","carousels":{"jcarousel-dom-1":{"view_options":{"view_args":"","view_path":"node\/73","view_base_path":null,"view_display_id":"block_1","view_name":"mainstage","jcarousel_dom_id":1},"wrap":"circular","visible":1,"scroll":1,"auto":15,"autoPause":1,"start":1,"skin":"default","selector":".jcarousel-dom-1"},"jcarousel-dom-2":{"view_options":{"view_args":"","view_path":"node\/73","view_base_path":null,"view_display_id":"block_1","view_name":"video_carousel","jcarousel_dom_id":2},"wrap":"circular","skin":"default","autoPause":1,"start":1,"selector":".jcarousel-dom-2"}}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+	    addthis_pub = 'migrationobservatory';
+	    addthis_logo = 'http://www.addthis.com/images/yourlogo.png';
+	    addthis_logo_background = 'EFEFFF';
+	    addthis_logo_color = '666699';
+	    addthis_brand = 'The Migration Observatory';
+	    addthis_options = 'email, twitter, linkedin, delicious, facebook, favorites';
+	    addthis_disable_flash = 'false';
+	
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var addthis_share = {templates: { twitter: '{{title}} : {{url}} @migobs' }}
+//--><!]]>
+</script>
+</head>
+
+<body id="top" class="not-front not-logged-in page-node node-type-automatic-listing one-sidebar sidebar-right path-briefings pathlast-briefings">
+
+	<div id="header">
+	
+		<div id="logo">
+			<a href="/">The Migration Observatory</a>
+		</div><!--/logo-->
+		
+		      <ul class="links"><li class="menu-3000 first"><a href="/news-and-commentary" title="News and commentary">News and commentary</a></li>
+<li class="menu-1571 active-trail active"><a href="/briefings" title="Briefings" class="active">Briefings</a></li>
+<li class="menu-3025"><a href="/data-and-resources" title="Data and resources">Data and resources</a></li>
+<li class="menu-1575"><a href="/policy-primers" title="Policy primers">Policy primers</a></li>
+<li class="menu-5285"><a href="/reports" title="Reports">Reports</a></li>
+<li class="menu-1014 last"><a href="/about-us" title="About us">About us</a></li>
+</ul>    		
+		  	<div id="header-right">
+  	          <div id="mission"><p class="about-us">The Migration Observatory informs debates on international migration and public policy. <br/>
+<a href="/about-us">Learn more about us</a></p></div>  
+  	        
+<div id="block-block-18" class="block block-block odd">
+    <div class="content">
+     <ul class="menu">
+<li class="first"><a class="facebook" title="Follow us on Facebook" href="http://www.facebook.com/migrationobservatory">Facebook</a></li>
+<li><a class="twitter" title="Follow us on Twitter" href="http://twitter.com/migobs">Twitter</a></li>
+<li class="last"><a class="vimeo" title="Vimeo" href="http://vimeo.com/channels/migobs">Vimeo</a></li>
+</ul>
+   </div>
+</div>
+<div id="block-menu-menu-project" class="block block-menu even">
+  <div class="content">
+    <a id="projects-toggle" href="/projects">Browse by projects</a>
+    <!--menu-->
+  <ul class="menu">
+<li class="leaf first"><a href="/Projects/scotland" title="Migration in Scotland">Migration in Scotland</a></li>
+<li class="leaf"><a href="/projects/census" title="Migration in the Census">Migration in the Census</a></li>
+<li class="leaf"><a href="/projects/election" title="Migration in the Election">Migration in the Election</a></li>
+<li class="leaf last"><a href="/projects/media" title="Migration in the Media">Migration in the Media</a></li>
+  </ul>
+  <!--/menu-->
+  </div>
+</div>
+<div id="block-menu-menu-browse-by-topics" class="block block-menu odd">
+  <div class="content">
+    <a id="topics-toggle" href="/topics">Browse by topic</a>
+    <!--menu-->
+  <ul class="menu">
+<li class="leaf first"><a href="/topics/migration-to-and-from-uk" title="Migration to and from the UK">Migration to and from the UK</a></li>
+<li class="leaf"><a href="/topics/migrants-in-the-uk" title="Migrants in the UK">Migrants in the UK</a></li>
+<li class="leaf"><a href="/topics/impacts-of-migration" title="Impacts of Migration">Impacts of migration</a></li>
+<li class="leaf"><a href="/topics/migration-and-public-opinion" title="Migration and public opinion">Migration and public opinion</a></li>
+<li class="leaf"><a href="/topics/enforcement" title="Enforcement">Enforcement</a></li>
+<li class="leaf last"><a href="/topics/international-comparisons" title="International comparisons">International Comparisons</a></li>
+  </ul>
+  <!--/menu-->
+  </div>
+</div>
+<div id="block-search" class="block block-search even">
+    <div class="content">
+    <form action="/briefings"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="form-item" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<div class="form-button edit-submit"><span><input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" /></span></div>
+<input type="hidden" name="form_build_id" id="form-0FCwtiDWPARo4Wf3JE3Kvu2ihljHh54xpUrvZTFd0Yc" value="form-0FCwtiDWPARo4Wf3JE3Kvu2ihljHh54xpUrvZTFd0Yc"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+
+</div></form>
+  </div>
+</div>	  </div><!--/header-right-->
+    		
+    
+    	</div> <!-- /header -->
+	
+	<div id="primary-col">
+		
+				
+		<h1>Briefings<span class="title_bg"></span></h1>
+		
+		
+		
+		
+		<div id="content">
+      
+
+<div class="buildmode-full node node-type-automatic_listing  clear-block">
+  <div class="nd-region-header clear-block " ><div class="field field-intro">
+         <p>Our briefings explain what we know and don’t know about the scale, characteristics and impacts of migration and migrants in the UK. We are aiming to provide a comprehensive picture. If you think we have missed an important issue, you can <a href="/forms/suggest-briefing">suggest a new briefing here</a>. Policy issues are discussed in our <a href="/policy-primers">Policy Primers</a> and <a href="/news-and-commentary">News and Commentary section</a>. </p>
+   </div>
+</div><div class="nd-region-middle-wrapper   nd-no-sidebars" ><div class="nd-region-middle"><div class="field field-view-highlights">
+        <div class="view view-briefings view-id-briefings view-display-id-page_1 view-dom-id-1">
+    
+      <div class="view-filters">
+      <form action="/briefings"  accept-charset="UTF-8" method="get" id="views-exposed-form-briefings-page-1">
+<div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clear-block">
+          <div class="views-exposed-widget views-widget-filter-tid">
+                  <label for="edit-tid">
+            Filter by topic          </label>
+                        <div class="views-widget">
+          <div class="form-item" id="edit-tid-wrapper">
+ <select name="tid" class="form-select" id="edit-tid" ><option value="All" selected="selected">- Any -</option><option value="10">Migration to and from the UK</option><option value="11">Migrants in the UK</option><option value="12">Impacts of migration</option><option value="13">Migration and public opinion</option><option value="14">Enforcement</option><option value="15">International comparisons</option></select>
+</div>
+        </div>
+      </div>
+        <div class="views-exposed-widget views-submit-button">
+      <div class="form-button edit-submit-briefings"><span><input type="submit" id="edit-submit-briefings" value="Apply"  class="form-submit" /></span></div>
+    </div>
+  </div>
+</div>
+
+</div></form>
+    </div>
+  
+  
+      <div class="view-content">
+        <ol class="view-listing">
+    <li class="first odd">
+      
+      <div class="title">
+  
+    
+      <a href="/briefings/long-term-international-migration-flows-and-uk">Long-Term International Migration Flows to and from the UK</a>
+      </div>
+  
+
+      <div class="date">
+  
+    
+      <span class="date-display-single">12 Jun 2015</span>
+      </div>
+  
+
+      <div class="intro">
+  
+    
+      This briefing provides an overview of Long-Term International Migration (LTIM) inflows (immigration), outflows (emigration), and the difference between the two (net migration) in the UK.
+      </div>
+  
+    </li>
+      <li class="even">
+      
+      <div class="title">
+  
+    
+      <a href="/briefings/geographical-distribution-and-characteristics-long-term-international-migration-flows-uk">Geographical Distribution and Characteristics of Long-Term International Migration Flows to the UK</a>
+      </div>
+  
+
+      <div class="date">
+  
+    
+      <span class="date-display-single">29 May 2015</span>
+      </div>
+  
+
+      <div class="intro">
+  
+    
+      This briefing focuses on long-term international migrants coming to the UK. It examines their characteristics, where they go after they arrive in the UK, and trends over time.
+Please note that the...
+      </div>
+  
+    </li>
+      <li class="odd">
+      
+      <div class="title">
+  
+    
+      <a href="/briefings/labour-market-effects-immigration">The Labour Market Effects of Immigration</a>
+      </div>
+  
+
+      <div class="date">
+  
+    
+      <span class="date-display-single">22 May 2015</span>
+      </div>
+  
+
+      <div class="intro">
+  
+    
+      This briefing discusses the impacts of immigration on the labour market in the UK, focusing on wages and employment.
+      </div>
+  
+    </li>
+      <li class="even">
+      
+      <div class="title">
+  
+    
+      <a href="/briefings/election-2015-briefing-why-do-international-migrants-come-uk">Election 2015 Briefing - Why do International Migrants Come to the UK?</a>
+      </div>
+  
+
+      <div class="date">
+  
+    
+      <span class="date-display-single">6 May 2015</span>
+      </div>
+  
+
+      <div class="intro">
+  
+    
+      The idea that the UK is a particularly attractive destination for migrants is a regular theme of media and policy debates. This briefing looks at levels of migration to the UK, how the UK compares to...
+      </div>
+  
+    </li>
+      <li class="odd">
+      
+      <div class="title">
+  
+    
+      <a href="/briefings/election-2015-briefing-impacts-migration-local-public-services">Election 2015 Briefing - Impacts of Migration on Local Public Services</a>
+      </div>
+  
+
+      <div class="date">
+  
+    
+      <span class="date-display-single">6 May 2015</span>
+      </div>
+  
+
+      <div class="intro">
+  
+    
+      Discussions of the numbers, characteristics and impacts of migration often focus on the UK as a whole. However, migration patterns differ substantially by local area. This briefing discusses evidence...
+      </div>
+  
+    </li>
+      <li class="even">
+      
+      <div class="title">
+  
+    
+      <a href="/briefings/election-2015-briefing-migration-and-welfare-benefits">Election 2015 Briefing - Migration and Welfare Benefits</a>
+      </div>
+  
+
+      <div class="date">
+  
+    
+      <span class="date-display-single">5 May 2015</span>
+      </div>
+  
+
+      <div class="intro">
+  
+    
+      Welfare benefits have become an ongoing theme in the UK immigration debate, particularly with regard to EU migration. Rules on non-UK citizens’ access to various forms of social assistance are...
+      </div>
+  
+    </li>
+      <li class="odd">
+      
+      <div class="title">
+  
+    
+      <a href="/briefings/election-2015-briefing-enforcement-enforced-removals-and-voluntary-departures-people-viola">Election 2015 Briefing - Enforcement: Enforced Removals and Voluntary Departures of People Violating Immigration Law</a>
+      </div>
+  
+
+      <div class="date">
+  
+    
+      <span class="date-display-single">16 Apr 2015</span>
+      </div>
+  
+
+      <div class="intro">
+  
+    
+      The removal of foreign nationals who are not authorised to live in the UK or have violated the terms of their leave to remain is an ongoing theme in the immigration debate. This briefing looks at...
+      </div>
+  
+    </li>
+      <li class="even">
+      
+      <div class="title">
+  
+    
+      <a href="/briefings/election-2015-briefing-fiscal-impacts-migration-uk">Election 2015 Briefing - Fiscal Impacts of Migration to the UK</a>
+      </div>
+  
+
+      <div class="date">
+  
+    
+      <span class="date-display-single">16 Apr 2015</span>
+      </div>
+  
+
+      <div class="intro">
+  
+    
+      This briefing examines how migrants affect public finances in the UK. It looks at what past studies have found, why it is difficult to establish a definitive estimate of migrants’ fiscal...
+      </div>
+  
+    </li>
+      <li class="odd">
+      
+      <div class="title">
+  
+    
+      <a href="/briefings/non-european-student-migration-uk">Non-European Student Migration to the UK</a>
+      </div>
+  
+
+      <div class="date">
+  
+    
+      <span class="date-display-single">15 Apr 2015</span>
+      </div>
+  
+
+      <div class="intro">
+  
+    
+      This briefing answers key questions about how many students from outside Europe come to the UK, where they come from, their characteristics, who sponsors them, and how many eventually settle in the...
+      </div>
+  
+    </li>
+      <li class="last even">
+      
+      <div class="title">
+  
+    
+      <a href="/briefings/election-2015-briefing-uk-migration-policy-2010-general-election">Election 2015 Briefing - UK Migration Policy since the 2010 General Election</a>
+      </div>
+  
+
+      <div class="date">
+  
+    
+      <span class="date-display-single">13 Apr 2015</span>
+      </div>
+  
+
+      <div class="intro">
+  
+    
+      The government has introduced a range of policies that affect the three largest routes people use to enter the UK - as workers, family members of UK residents, and students. This briefing examines...
+      </div>
+  
+    </li>
+    </ol>
+    </div>
+  
+      <ul class="pager item-list"><li class="pager-current even first">1</li>
+<li class="pager-item odd"><a href="/briefings?page=1" title="Go to page 2" class="active">2</a></li>
+<li class="pager-item even"><a href="/briefings?page=2" title="Go to page 3" class="active">3</a></li>
+<li class="pager-item odd"><a href="/briefings?page=3" title="Go to page 4" class="active">4</a></li>
+<li class="pager-item even"><a href="/briefings?page=4" title="Go to page 5" class="active">5</a></li>
+<li class="pager-item odd"><a href="/briefings?page=5" title="Go to page 6" class="active">6</a></li>
+<li class="pager-next even"><a href="/briefings?page=1" title="Go to next page" class="active">next ›</a></li>
+<li class="pager-last odd last"><a href="/briefings?page=5" title="Go to last page" class="active">last »</a></li>
+</ul>  
+  
+  
+  
+  
+</div>   </div>
+</div></div><div class="nd-region-footer clear-block " ><div class="field field-addthis"><ul class="sharebar">
+    <li class="addthis"><a href="http://www.addthis.com/bookmark.php"
+      onmouseover="return addthis_open(this, '', 'http://www.migrationobservatory.ox.ac.uk/briefings', 'Briefings')"
+      onmouseout="addthis_close()"
+      onclick="return addthis_sendto()">Share this page</a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script></li>
+              <li class="print"><a href="">Print this page</a></li>
+              <li class="backtotop"><a href="#top">Back to top</a></li>
+              </ul></div></div></div> <!-- /node -->
+
+		</div><!--/content-->
+
+		
+				
+  </div> <!--/primary-col-->
+
+	
+		    <div id="secondary-col">
+			
+<div id="block-menu-primary-links" class="block block-menu odd">
+    <div class="content">
+    <div id="slimmenu"><!--menu-->
+  <ul class="menu">
+<li class="expanded  active-trail-up active-trail-up-1 active-trail-active-branch menu-depth-1 active-trail"><span class=" active-trail-up active-trail-up-1 active-trail-active-branch menu-depth-1"><a href="/briefings" class="active">In Briefings</a></span><!--menu-->
+  <ul class="menu">
+<li class="leaf first"><a href="/briefings?tid=10" title="">Migration to and from the UK</a></li>
+<li class="leaf"><a href="/briefings?tid=11" title="">Migrants in the UK</a></li>
+<li class="leaf"><a href="/briefings?tid=13" title="">Migration and public opinion</a></li>
+<li class="leaf"><a href="/briefings?tid=12" title="">Impacts of migration</a></li>
+<li class="leaf"><a href="/briefings?tid=14" title="">Enforcement</a></li>
+<li class="leaf last"><a href="/briefings?tid=15" title="">International comparisons</a></li>
+  </ul>
+  <!--/menu-->
+</li>
+  </ul>
+  <!--/menu-->
+</div>  </div>
+</div>
+<div id="block-nodesinblock-2" class="block block-nodesinblock even">
+    <div class="content">
+    <div class="nodesinblock" id="nodesinblock-78">
+
+<div class="buildmode-promotion node node-type-promotion  clear-block">
+  <div class="nd-region-middle-wrapper   nd-no-sidebars" ><div class="nd-region-middle"><div class="field field-promotion-image">
+        <img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/thumb_promotion/promotions/suggest-briefing.png" alt="" title="" width="56" height="56" class="imagecache imagecache-thumb_promotion imagecache-default imagecache-thumb_promotion_default"/>  </div>
+<div class="field field-title"><h2>Suggest a briefing</h2></div><div class="field field-summary">
+    <a href="/forms/suggest-briefing">Got an idea for a briefing? Send it to us!</a></div>
+</div></div></div> <!-- /node -->
+
+</div><div class="nodesinblock" id="nodesinblock-84">
+
+<div class="buildmode-promotion node node-type-promotion  clear-block">
+  <div class="nd-region-middle-wrapper   nd-no-sidebars" ><div class="nd-region-middle"><div class="field field-promotion-image">
+        <img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/thumb_promotion/promotions/rss_blue_0.png" alt="" title="" width="56" height="56" class="imagecache imagecache-thumb_promotion imagecache-default imagecache-thumb_promotion_default"/>  </div>
+<div class="field field-title"><h2>Briefings RSS</h2></div><div class="field field-summary">
+    <a href="/briefings/all/rss">Get updated when new briefings are available</a></div>
+</div></div></div> <!-- /node -->
+
+</div>  </div>
+</div>
+<div id="block-nodesinblock-9" class="block block-nodesinblock odd">
+    <div class="content">
+    <div class="nodesinblock" id="nodesinblock-804">
+
+<div class="buildmode-promotion node node-type-promotion  clear-block">
+  <div class="nd-region-middle-wrapper   nd-no-sidebars" ><div class="nd-region-middle"><div class="field field-promotion-image">
+        <img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/thumb_promotion/promotions/star_0.png" alt="" title="" width="56" height="56" class="imagecache imagecache-thumb_promotion imagecache-default imagecache-thumb_promotion_default"/>  </div>
+<div class="field field-title"><h2>Browse all analysis</h2></div><div class="field field-summary">
+    <a href="/briefings-commentaries-and-policy-primers">View all briefings, primers, commentaries and reports</a></div>
+</div></div></div> <!-- /node -->
+
+</div>  </div>
+</div>
+<div id="block-block-10" class="block block-block even">
+    <h2>Press contact</h2>
+    <div class="content">
+     <p>If you would like to make a press enquiry, please contact:<br /><strong>Rob McNeil</strong><br /> + 44 (0)1865 274568<br /> + 44 (0)7500 970081<br /> <a href="mailto:robert.mcneil@compas.ox.ac.uk">robert.mcneil@compas.ox.ac.uk</a></p>
+   </div>
+</div>    </div> <!--/secondary-col-->      
+		
+	<div id="footer">
+    
+    
+<div id="block-views-video-carousel-block-1" class="block block-views odd">
+    <h2><a href="/data-and-resources/video">Latest video</a></h2>
+    <div class="content">
+    <div class="view view-video-carousel view-id-video_carousel view-display-id-block_1 view-dom-id-8">
+    
+  
+  
+      <div class="view-content">
+      <ul class="jcarousel jcarousel-view--video-carousel--block-1 jcarousel-dom-2 jcarousel-skin-default">
+      <li class="jcarousel-item-1 odd">
+  
+    
+      <a href="/node/2585"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-youtube-9JY_JFooF04.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/ons-long-term-international-migration-estimates-nov-2014">ONS Long-Term International Migration Estimates (Nov 2014)</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-2 even">
+  
+    
+      <a href="/node/2474"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/ONS%20video_0.png" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/international-migration-uk-august-2014">International Migration to &amp; from the UK - August 2014</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-3 odd">
+  
+    
+      <a href="/node/2286"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-92129557.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/uk-common-european-asylum-system-and-eu-immigration-law">The UK, the Common European Asylum System and EU Immigration Law</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-4 even">
+  
+    
+      <a href="/node/2285"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-93494196.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/migration-news">Migration in the News</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-5 odd">
+  
+    
+      <a href="/node/2284"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-93494197.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/public-opinion-immigration-scotland">Public Opinion on Immigration in Scotland</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-6 even">
+  
+    
+      <a href="/node/2283"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-92613312.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/uk-eu-citizenship-and-free-movement-persons">The UK, EU Citizenship and Free Movement of Persons</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-7 odd">
+  
+    
+      <a href="/node/2180"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/ONS%20video.png" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/international-migration-and-uk">International Migration to and from the UK</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-8 even">
+  
+    
+      <a href="/node/2142"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-youtube-kFmvXPP7ZkU.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/2011-census-fertility-rates-non-uk-born-women-living-england-wales">2011 Census: Fertility rates for non-UK born women living in England &amp; Wales</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-9 odd">
+  
+    
+      <a href="/node/1859"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-youtube-kRjL_aA97wo.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/2011-census-english-language-proficiency-england-and-wales">2011 Census: English language proficiency in England and Wales</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-10 even">
+  
+    
+      <a href="/node/1745"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-youtube-VScSNLRw92A.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/2011-census-economic-and-social-characteristics-population-nationality">2011 Census: Economic and Social characteristics of the Population by nationality</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-11 odd">
+  
+    
+      <a href="/node/1741"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-69965667.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/role-migration-advisory-committee-mac">The Role of the Migration Advisory Committee (MAC)</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-12 even">
+  
+    
+      <a href="/node/1723"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-69308876.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/impact-immigration-property-crime">The Impact of Immigration on Property Crime</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-13 odd">
+  
+    
+      <a href="/node/1685"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-67198026.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/social-care-older-people-and-demand-migrant-workers-updated">Social Care for Older People and Demand for Migrant Workers (updated)</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-14 even">
+  
+    
+      <a href="/node/1684"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-67198025.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/migrants-london-policy-challenges-updated">Migrants in London: Policy Challenges (updated)</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-15 odd">
+  
+    
+      <a href="/node/1666"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-youtube-ljvI1_ecQSQ.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/2011-census-country-birth-and-non-uk-passport-holders">2011 Census: Country of birth and non-UK passport holders</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-16 even">
+  
+    
+      <a href="/node/1592"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-youtube-djPQS2QLscw.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/2011-census-non-uk-born-short-term-residents">2011 Census: Non-UK born short-term residents</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-17 odd">
+  
+    
+      <a href="/node/1587"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-youtube-Z3qCbIiGRQ4.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/2011-census-language-england-and-wales">2011 Census: Language in England and Wales</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-18 even">
+  
+    
+      <a href="/node/1583"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-62178296.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/public-opinion-migration-updated">Public Opinion on Migration (updated)</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-19 odd">
+  
+    
+      <a href="/node/1582"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-62178297.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/overview-uk-census-and-migration-data">Overview of the UK Census and Migration Data</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-20 even">
+  
+    
+      <a href="/node/1581"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-62178298.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/office-national-statistics-migration-data">The Office for National Statistics Migration Data</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-21 odd">
+  
+    
+      <a href="/node/1544"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-youtube-M3d-8Sf2kSM.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/2011-census-international-migration">2011 Census: International Migration</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-22 even">
+  
+    
+      <a href="/node/1233"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-42143841.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/thinking-behind-numbers">Thinking behind the Numbers</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-23 odd">
+  
+    
+      <a href="/node/1224"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-41780240.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/selecting-best-and-brightest">Selecting the Best and Brightest</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-24 even">
+  
+    
+      <a href="/node/1114"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-32897362.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/migration-and-development">Migration and Development</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-25 odd">
+  
+    
+      <a href="/node/896"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-28005217.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/asylum-policy">Asylum Policy</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-26 even">
+  
+    
+      <a href="/node/895"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-28004635.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/uk-and-global-migration-governance">The UK and Global Migration Governance</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-27 odd">
+  
+    
+      <a href="/node/856"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-26012487.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/integration">Integration</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-28 even">
+  
+    
+      <a href="/node/850"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/nick.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/mixed-migration-policy-challenges">Mixed Migration: Policy Challenges</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-29 odd">
+  
+    
+      <a href="/node/747"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-23314034.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/irregular-migrant-children-and-public-policy">Irregular Migrant Children and Public Policy</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-30 even">
+  
+    
+      <a href="/node/639"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/mrvideo.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/labour-shortages-and-immigration-policy">Labour Shortages and Immigration Policy</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-31 odd">
+  
+    
+      <a href="/node/635"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-21519269.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/citizenship-what-it-and-why-does-it-matter">Citizenship: What Is It and Why Does It Matter?</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-32 even">
+  
+    
+      <a href="/node/637"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-21524071.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/uk-migration-policy-and-eu-law">UK Migration Policy and EU Law</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-33 odd">
+  
+    
+      <a href="/node/634"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-21489858.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/demographic-objectives-migration-policy">Demographic objectives in migration policy</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-34 even">
+  
+    
+      <a href="/node/645"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-21551183.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/immigration-detention-policy-challenges">Immigration Detention: Policy Challenges</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-35 odd">
+  
+    
+      <a href="/node/640"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-21546763.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/controlling-labour-immigration-caps-and-alternatives">Controlling Labour Immigration: Caps and Alternatives</a></span></a>
+  
+</li>
+      <li class="jcarousel-item-36 even">
+  
+    
+      <a href="/node/644"><img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/video_carousel_thumbnail/media/emvideo-vimeo-21555753_1.jpg" alt="" title="" width="140" height="105" class="imagecache imagecache-video_carousel_thumbnail"/><span><a href="/data-and-resources/video/migration-observatory-launch-video">The Migration Observatory launch video</a></span></a>
+  
+</li>
+  </ul>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+<div id="block-block-8" class="block block-block even">
+    <h2>Keeping up to date</h2>
+    <div class="content">
+     <ul class="menu">
+<li><a href="/about-us/newsletter" class="email" title="Sign up for our newsletter">Sign up for our newsletter</a></li>
+<li><a href="http://twitter.com/migobs" class="twitter" title="Follow us on Twitter">Follow us on Twitter</a></li>
+<li><a href="http://www.facebook.com/migrationobservatory" style="background:url(/sites/files/migobs/imagefield_thumbs/image/icon-facebook.png) no-repeat 0 6px;" title="Follow us on Facebook">Follow us on Facebook</a></li>
+</ul>
+   </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block odd">
+    <h2>Topics</h2>
+    <div class="content">
+    <div class="menu-block-1 menu-name-menu-browse-by-topics parent-mlid-0 menu-level-1">
+  <!--menu-->
+  <ul class="menu">
+<li class="leaf first menu-mlid-912"><a href="/topics/migration-to-and-from-uk" title="Migration to and from the UK">Migration to and from the UK</a></li>
+<li class="leaf menu-mlid-913"><a href="/topics/migrants-in-the-uk" title="Migrants in the UK">Migrants in the UK</a></li>
+<li class="leaf menu-mlid-909"><a href="/topics/impacts-of-migration" title="Impacts of Migration">Impacts of migration</a></li>
+<li class="leaf menu-mlid-911"><a href="/topics/migration-and-public-opinion" title="Migration and public opinion">Migration and public opinion</a></li>
+<li class="leaf menu-mlid-908"><a href="/topics/enforcement" title="Enforcement">Enforcement</a></li>
+<li class="leaf last menu-mlid-910"><a href="/topics/international-comparisons" title="International comparisons">International Comparisons</a></li>
+  </ul>
+  <!--/menu-->
+</div>
+  </div>
+</div>
+<div id="block-nodesinblock" class="block block-nodesinblock even">
+    <div class="content">
+    <div class="nodesinblock" id="nodesinblock-53">
+
+<div class="buildmode-promotion node node-type-promotion  clear-block">
+  <div class="nd-region-middle-wrapper   nd-no-sidebars" ><div class="nd-region-middle"><div class="field field-promotion-image">
+        <img src="http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/imagecache/thumb_promotion/promotions/teaser2.png" alt="" title="" width="56" height="56" class="imagecache imagecache-thumb_promotion imagecache-default imagecache-thumb_promotion_default"/>  </div>
+<div class="field field-title"><h2>Glossary</h2></div><div class="field field-summary">
+    <a href="/glossary">Unsure of a term? Take a look at our glossary</a></div>
+</div></div></div> <!-- /node -->
+
+</div>  </div>
+</div>
+<div id="block-block-3" class="block block-block odd">
+    <div class="content">
+     <ul id="logos">
+<li><a href="http://www.ox.ac.uk"><img src="/sites/default/themes/custom/migobs/images/footer_logo-oxford.gif" width="50" height="50" alt="Oxford University logo" /></a></li>
+<li><a href="http://www.compas.ox.ac.uk/"><img src="/sites/default/themes/custom/migobs/images/footer_logo-compas.gif" width="69" height="52" alt="Compas logo" /></a></li>
+<li><a href="http://www.esrc.ac.uk/"><img src="/sites/default/themes/custom/migobs/images/footer_logo-esrc.gif" width="61" height="50" alt="Esrc logo" /></a></li>
+<li><a href="http://esmeefairbairn.org.uk/"><img src="/sites/files/migobs/image/EsmeeFairbairnBLK_0_0.png?1389627262" width="76" height="40" alt="Esmee Fairbairn logo" /></a></li>
+<li><a href="http://www.unboundphilanthropy.org/"><img src="/sites/default/themes/custom/migobs/images/footer_logo-unbound.gif" width="80" height="47" alt="Unbound logo" /></a></li>
+<li><a href="http://www.bctrust.org.uk/"><img src="/sites/default/themes/custom/migobs/images/footer_logo-cadbury.gif" width="86" height="50" alt="Barrow Cadbury Trust logo" /></a></li>
+<li class="last" style="margin-top:15px;"><a href="http://www.phf.org.uk/" title="Visit the PHF website"><img src="/sites/files/migobs/image/phf_logo_rev.png?1394612907" width="86" height="22" alt="PHF logo" /></a></li>
+</ul>
+<!--/logos--><!--/logos-->   </div>
+</div>
+<div id="block-menu-menu-footer-links" class="block block-menu even">
+    <div class="content">
+    <!--menu-->
+  <ul class="menu">
+<li class="leaf first"><a href="/about-us/contact" title="Contact The Migration Observatory">Contact</a></li>
+<li class="leaf"><a href="/press-office" title="">Press Office</a></li>
+<li class="leaf"><a href="/use-cookies-0" title="Use of Cookies">Use of Cookies</a></li>
+<li class="leaf"><a href="/have-your-say-about-resource" title="Give us your feeback about the website and how it could be improved">Provide feedback about this resource</a></li>
+<li class="leaf"><a href="/accessibility" title="Accessibility">Accessibility</a></li>
+<li class="leaf last"><a href="/rss" title="">RSS</a></li>
+  </ul>
+  <!--/menu-->
+  </div>
+</div>	
+  </div> <!-- /.footer -->
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-19529651-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>

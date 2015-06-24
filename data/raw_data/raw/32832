@@ -1,0 +1,483 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	Exam requirements - Undergraduate Course
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=printerfriendly&amp;s=6&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Undergraduate Course Site Search" href="http://course.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	<meta name="viewport" content="width=670, initial-scale=0.45, minimum-scale=0.45" />
+<link rel='shortcut icon' href='/Data/Sites/6/skins/printerfriendly/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://course.chem.ox.ac.uk/1new-page.aspx' /></head>
+<body class="pagebody">
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="24" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIDD2QWDAIXDw8WAh4HVmlzaWJsZWhkZAIjDw8WAh8AaGRkAiUPDxYEHghDc3NDbGFzcwU5YXJ0LWxheW91dC1jZWxsIGFydC1zaWRlYmFyMSBsZWZ0c2lkZSBsZWZ0MmNvbHVtbiBjbXN6b25lHgRfIVNCAgJkFgICAQ9kFgICAg9kFgJmEDwrAAkCAA8WCB4LXyFEYXRhQm91bmRnHgxEYXRhU291cmNlSUQFEVBhZ2VNYXBEYXRhU291cmNlHg1QYXRoU2VwYXJhdG9yBHweDU5ldmVyRXhwYW5kZWRkZAgUKwAJBScwOjAsMDoxLDA6MiwwOjMsMDo0LDE6NCwwOjQsMDo1LDA6NiwwOjcUKwACFgweBFRleHQFFElub3JnYW5pYyBwcmFjdGljYWxzHgVWYWx1ZQUkNDUyMGNhODEtODdmMi00MzUyLWIwZGQtZmVjNGQyM2ZhNGEz" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="HgtOYXZpZ2F0ZVVybAUbfi9pbm9yZ2FuaWMtcHJhY3RpY2Fscy5hc3B4HghEYXRhUGF0aAUDNDY5HglEYXRhQm91bmRnHhBQb3B1bGF0ZU9uRGVtYW5kZxQrAAQFCzA6MCwwOjEsMDoyFCsAAhYMHwcFDkZpcnN0IFllYXIgSUNMHwgFJGJmNjlhODFmLWEwZTctNDNhYS04MDBlLTA3ZGIwMDFiMDQ4Nx8JBRV+L2ZpcnN0LXllYXItaWNsLmFzcHgfCgUDNjcwHwtnHwxoZBQrAAIWDB8HBQ9TZWNvbmQgWWVhciBJQ0wfCAUkM2YzNjJlNzctZmZlZS00ZWM0LWEyZjYtM2QwYWZlZjdiMGYwHwkFFn4vc2Vjb25kLXllYXItaWNsLmFzcHgfCgUDNjcxHwtnHwxoZBQrAAIWDB8HBQ5UaGlyZCBZZWFyIElDTB8IBSQ0ZjQ5Y2FmOC0yMjQwLTRmMTAtOThmYy0wNWQzYzlkMTBk" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="YTgfCQUVfi90aGlyZC15ZWFyLWljbC5hc3B4HwoFAzcxOR8LZx8MaGQUKwACFgwfBwUST3JnYW5pYyBQcmFjdGljYWxzHwgFJGQxYTkzZTE2LTgwMzItNDMyMi1hMmI1LTIwODVhYWViOTFlMB8JBRl+L29yZ2FuaWMtcHJhY3RpY2Fscy5hc3B4HwoFAzQ4NB8LZx8MZxQrAAQFCzA6MCwwOjEsMDoyFCsAAhYMHwcFDUZpcnN0IFllYXIgRFAfCAUkNmE4ZjI0ODctYjIzNi00MDZjLThiNDgtMWE5Zjc5ZjA5N2EwHwkFFH4vZmlyc3QteWVhci1kcC5hc3B4HwoFAzY2OB8LZx8MaGQUKwACFgwfBwUUU2Vjb25kL1RoaXJkIFllYXIgRFAfCAUkN2I3MTYzNWQtYWNiNi00M2VjLTgzNjEtYTM1NDI2ZTljMWI3HwkFGn4vc2Vjb25kdGhpcmQteWVhci1kcC5hc3B4HwoFAzY2" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="OR8LZx8MaGQUKwACFgwfBwUUMm5kIHllYXIgYWxsb2NhdGlvbnMfCAUkM2JmNTEyMDQtZWE0YS00ZDYyLThiZGYtNGU3MjE4YjcyMzMyHwkFG34vMm5kLXllYXItYWxsb2NhdGlvbnMuYXNweB8KBQM2NDEfC2cfDGhkFCsAAhYOHwcFE1BoeXNpY2FsIHByYWN0aWNhbHMfCAUkMWQ3ZTUwNTYtYmNmMy00NTBjLWFmMTEtOGE4MjVjYWQ2Y2Y5HwkFGn4vcGh5c2ljYWwtcHJhY3RpY2Fscy5hc3B4HwoFAzQ3MR8LZx8MZx4IRXhwYW5kZWRnFCsABgUbMDowLDA6MSwwOjIsMDozLDA6NCwwOjUsMTo1FCsAAhYMHwcFCDFzdCB5ZWFyHwgFJDYxNDQ2NjJjLTc4OGItNGM2My1iYTY3LTA1NGNiM2FmOWE2Mx8JBQ9+LzFzdC15ZWFyLmFzcHgfCgUDNDczHwtnHwxnFCsAAgUD" />
+<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="MDowFCsAAhYMHwcFDkNvbGxlZ2UgR3JvdXBzHwgFJDBhMDg4ZTRlLWRjOTgtNDNmYi1iZTM1LWEzMTQyMzQ4YTZmMx8JBRV+L2NvbGxlZ2UtZ3JvdXBzLmFzcHgfCgUDNTc3HwtnHwxoZBQrAAIWDB8HBRQxc3QgeWVhciBleHBlcmltZW50cx8IBSQyZjdlZDExNS03MGIyLTRkMTEtYjc3OS1iNTk2YzEzZDBhNDkfCQUbfi8xc3QteWVhci1leHBlcmltZW50cy5hc3B4HwoFAzQ3NR8LZx8MaBQrAAEFTzA6MCwxOjAsMDowLDE6MCwwOjAsMTowLDA6MCwxOjAsMDowLDE6MCwwOjAsMTowLDA6MCwxOjAsMDowLDE6MCwwOjAsMTowLDA6MCwxOjAUKwACFg4fBwUOMm5kIC8gM3JkIHllYXIfCAUkODdhODQ2NDktYjUzMi00ZjcyLTlkYzUtYWZkN2VmMGZmNzVkHwkFFH4v" />
+<input type="hidden" name="__VIEWSTATE5" id="__VIEWSTATE5" value="Mm5kLS0zcmQteWVhci5hc3B4HwoFAzQ3OR8LZx8MZx8NZxQrAAYFEzA6MCwwOjEsMDoyLDA6MywwOjQUKwACFgwfBwUOQ29sbGVnZSBHcm91cHMfCAUkM2IxZjRjYzAtYjE3My00NTJjLTkzZDgtZDUwODdkOWQzZjU5HwkFFn4vMWNvbGxlZ2UtZ3JvdXBzLmFzcHgfCgUDNjQ2HwtnHwxoZBQrAAIWDB8HBSZFeHBlcmltZW50cyBkaXJlY3RvcnkgLSAybmQgLyAzcmQgeWVhch8IBSRmODg4MTNkOC1iYTU3LTQ0N2EtYjUxMC00MmNkNTQ1ZDJiMWYfCQUqfi9leHBlcmltZW50cy1kaXJlY3RvcnktMm5kLS0zcmQteWVhci5hc3B4HwoFAzY0OB8LZx8MaGQUKwACFgwfBwUXV2hpY2ggZXhwZXJpbWVudHMgd2hlbj8fCAUkZjUzZDM1MmItMmVkMi00MzcxLWE5MTYtMzYw" />
+<input type="hidden" name="__VIEWSTATE6" id="__VIEWSTATE6" value="NTgxZjFiODBiHwkFHX4vd2hpY2gtZXhwZXJpbWVudHMtd2hlbi5hc3B4HwoFAzU5Mh8LZx8MaGQUKwACFgwfBwUfV2hvIGNhbiBzaWduIG9mZiBhbiBleHBlcmltZW50Px8IBSQ5ZmY5NDg2NS1lZGM3LTQyZTQtYjc3NS0yMDRjYzUxZDFhN2YfCQUPfi9uZXctcGFnZS5hc3B4HwoFAzY0MB8LZx8MaGQUKwACFhAfBwURRXhhbSByZXF1aXJlbWVudHMfCAUkMTJhNzdiNzYtZDVlNi00OTdhLWIxYTAtNzVmY2IwZTIzZTUyHwkFEH4vMW5ldy1wYWdlLmFzcHgfCgUDNjQ5HwtnHghTZWxlY3RlZGcfDGgfDWdkFCsAAhYMHwcFGDJuZC8zcmQgeWVhciBleHBlcmltZW50cx8IBSRmMGMzNTY3My0yNDhhLTQ0ZWItYTllNS1kMDU5Y2UwMWM1NDUfCQUgfi8ybmQtLTNyZC15" />
+<input type="hidden" name="__VIEWSTATE7" id="__VIEWSTATE7" value="ZWFyLWV4cGVyaW1lbnRzLmFzcHgfCgUDNDgwHwtnHwxnFCsAGAX0ATA6MCwwOjEsMDoyLDA6MywwOjQsMDo1LDA6NiwwOjcsMDo4LDA6OSwwOjEwLDA6MTEsMDoxMiwwOjEzLDA6MTQsMDoxNSwwOjE2LDA6MTcsMDoxOCwwOjE5LDA6MjAsMDoyMSwwOjIyLDA6MjMsMToyMywwOjIzLDE6MjMsMDoyMywxOjIzLDA6MjMsMToyMywwOjIzLDE6MjMsMDoyMywxOjIzLDA6MjMsMToyMywwOjIzLDE6MjMsMDoyMywxOjIzLDA6MjMsMToyMywwOjIzLDE6MjMsMDoyMywxOjIzLDA6MjMsMToyMywwOjIzLDE6MjMUKwACFgwfBwUlQ29yZSAxLiBEaWZmdXNpb24tbGltaXRlZCBBZ2dyZWdhdGlvbh8IBSRiYTU0NGI3Mi1iYmQ5LTRjYjItOWNmNi1iY2E2ZGUzZGE0YjAfCQUr" />
+<input type="hidden" name="__VIEWSTATE8" id="__VIEWSTATE8" value="fi9jb3JlLTEtZGlmZnVzaW9uLWxpbWl0ZWQtYWdncmVnYXRpb24uYXNweB8KBQM1ODcfC2cfDGhkFCsAAhYMHwcFGUNvcmUgMmEuIEJvbWIgQ2Fsb3JpbWV0cnkfCAUkZDc3ZTIyZWQtMDFlMS00YWUzLTljM2YtZGI3ZjQ4NDg5ZmM4HwkFIX4vY29yZS0yYS1ib21iLS0tY2Fsb3JpbWV0cnkuYXNweB8KBQM1ODAfC2cfDGhkFCsAAhYMHwcFHUNvcmUgMmIuIFJlYWN0aW9uIENhbG9yaW1ldHJ5HwgFJDNjYjk1MmMwLWQ4OWMtNDI4Zi1hYjBmLWE3OWUzMGYxYjg0Zh8JBSN+L2NvcmUtMmItcmVhY3Rpb24tY2Fsb3JpbWV0cnkuYXNweB8KBQM1OTgfC2cfDGhkFCsAAhYMHwcFL0NvcmUgMy4gUG90ZW50aW9tZXRyaWMgc3R1ZHkgb2YgcmVkb3ggcmVhY3Rpb25zHwgF" />
+<input type="hidden" name="__VIEWSTATE9" id="__VIEWSTATE9" value="JDY3OGRkMDM0LTIwMDItNGQyOS04ZTYzLTRmYzkwNjY3YzJjZh8JBTV+L2NvcmUtMy1wb3RlbnRpb21ldHJpYy1zdHVkeS1vZi1yZWRveC1yZWFjdGlvbnMuYXNweB8KBQM2MjMfC2cfDGhkFCsAAhYMHwcFIkNvcmUgNC4gSVIgU3BlY3RydW0gb2YgSENsIGFuZCBEQ2wfCAUkM2ZkNzBiZmItNDAxNS00YTE0LWIwMWMtMDIwNWVhMjI5ZWVhHwkFKH4vY29yZS00LWlyLXNwZWN0cnVtLW9mLWhjbC1hbmQtZGNsLmFzcHgfCgUDNTY3HwtnHwxoZBQrAAIWDB8HBRxBMS4gSW50cm9kdWN0aW9uIHRvIEZsYW1lIEFBHwgFJDk1MDNlMmY1LTUwYTQtNGI2Zi1hMWM5LTY4ZjJmMTU4NjRlMx8JBSJ+L2ExLWludHJvZHVjdGlvbi10by1mbGFtZS1hYS5hc3B4HwoFAzU3Mh8L" />
+<input type="hidden" name="__VIEWSTATE10" id="__VIEWSTATE10" value="Zx8MaGQUKwACFgwfBwUmQTIuIEdhcyBDaHJvbWF0b2dyYXBoeSAocGFja2VkIGNvbHVtbikfCAUkODQyYmUxNTYtYzFmYS00NDc5LTgyYzAtMzNmZjMzNmNlN2E5HwkFKn4vYTItZ2FzLWNocm9tYXRvZ3JhcGh5LXBhY2tlZC1jb2x1bW4uYXNweB8KBQM2MDAfC2cfDGhkFCsAAhYMHwcFI0QxLiBEaXBvbGUgTW9tZW50cyBmcm9tIENhcGFjaXRhbmNlHwgFJDA2MWQwYjU2LTc5YTgtNDhiNi05NDcwLTY1YWVmYjlhMjRmZB8JBSl+L2QxLWRpcG9sZS1tb21lbnRzLWZyb20tY2FwYWNpdGFuY2UuYXNweB8KBQM1NzEfC2cfDGhkFCsAAhYMHwcFIkQzLiBNZWFzdXJlbWVudCBvZiBCcm93bmlhbiBNb3Rpb24fCAUkZTE4YjdjYWQtYjIwOC00N2YzLWFiMjItZWVkNGVj" />
+<input type="hidden" name="__VIEWSTATE11" id="__VIEWSTATE11" value="OGNhNWQwHwkFKH4vZDMtbWVhc3VyZW1lbnQtb2YtYnJvd25pYW4tbW90aW9uLmFzcHgfCgUDNTc1HwtnHwxoZBQrAAIWDB8HBSZENC4gQXBwbGljYXRpb24gb2YgRGVieWUtSHVja2VsIFRoZW9yeR8IBSRlNjU4ZDg5MS04MjU0LTQ1MDQtODYwNC04MGUwNDhmNjI3NjcfCQUsfi9kNC1hcHBsaWNhdGlvbi1vZi1kZWJ5ZS1odWNrZWwtdGhlb3J5LmFzcHgfCgUDNTk5HwtnHwxoZBQrAAIWDB8HBRxENS4gSW9ucyBpbiBBcXVlb3VzIFNvbHV0aW9uHwgFJDc0N2M3YzMxLTU1NjQtNDE0NS04NTNkLTQxZjUwYTA1OGM3MB8JBSJ+L2Q1LWlvbnMtaW4tYXF1ZW91cy1zb2x1dGlvbi5hc3B4HwoFAzYyNR8LZx8MaGQUKwACFgwfBwUhSzEuIE94eWdlbiBhdG9tIFJlYWN0" />
+<input type="hidden" name="__VIEWSTATE12" id="__VIEWSTATE12" value="aW9uIEtpbmV0aWNzHwgFJGZmY2RiNjVhLTcyNzgtNGQ2Ni04OWQ2LTk4NjY0MGZmMWU4MR8JBSd+L2sxLW94eWdlbi1hdG9tLXJlYWN0aW9uLWtpbmV0aWNzLmFzcHgfCgUDNTcwHwtnHwxoZBQrAAIWDB8HBSNLNC4gS2luZXRpY3Mgb2YgYXNwaXJpbiBoeWRyb2x5c2lzIB8IBSQ5NGU2Yjk0NC0yZDM5LTQ0MmQtOTAxYy1lZWJjODc1MzA2NjcfCQUpfi9rNC1raW5ldGljcy1vZi1hc3BpcmluLWh5ZHJvbHlzaXMtLmFzcHgfCgUEMTM1Mx8LZx8MaGQUKwACFgwfBwUiTTEuIENvbXB1dGF0aW9uYWwgTk1SIFNwZWN0cm9zY29weR8IBSQ3YzljNGI5ZS0yYTg3LTQ0NzItOWQ1Mi0wODVhZjQ3NTFjNDgfCQUofi9tMS1jb21wdXRhdGlvbmFsLW5tci1zcGVjdHJvc2Nv" />
+<input type="hidden" name="__VIEWSTATE13" id="__VIEWSTATE13" value="cHkuYXNweB8KBQM1ODUfC2cfDGhkFCsAAhYMHwcFF00yLiBNb2xlY3VsYXIgTW9kZWxsaW5nHwgFJGUzMTIyODU1LTIxNTAtNDMyZS04MzU5LWY1YWNhOThiZTIyMh8JBR1+L20yLW1vbGVjdWxhci1tb2RlbGxpbmcuYXNweB8KBQM1ODIfC2cfDGhkFCsAAhYMHwcFIk00YS4gSHVja2VsIFRoZW9yeSAoY29tcHV0YXRpb25hbCkfCAUkZGYyZjI5YmEtNGYxZi00ZDQzLWIyNzMtMTE5NmQzZDgzZTY4HwkFJn4vbTRhLWh1Y2tlbC10aGVvcnktY29tcHV0YXRpb25hbC5hc3B4HwoFAzYwMR8LZx8MaGQUKwACFgwfBwUsTTRiLiBIZXRlcm9udWNsZWFyIE1vbGVjdWxlcyAoY29tcHV0YXRpb25hbCkfCAUkZWUwY2ZkNDctNmY5NS00NzI4LTg4ZTEtNzYyOWNjZmExOTg1" />
+<input type="hidden" name="__VIEWSTATE14" id="__VIEWSTATE14" value="HwkFMH4vbTRiLWhldGVyb251Y2xlYXItbW9sZWN1bGVzLWNvbXB1dGF0aW9uYWwuYXNweB8KBQM2MDMfC2cfDGhkFCsAAhYMHwcFHlAxLiBDeWNsaWMgVm9sdGFtbWV0cnkgcHJvamVjdB8IBSQzMzNmMmViNi0wNWI4LTQxNmMtYmEwNi02YTBiNzI5MDIxNTAfCQUwfi9tMy1jb21wdXRhdGlvbmFsLWR5bmFtaWMtZWxlY3Ryb2NoZW1pc3RyeS5hc3B4HwoFAzU4OR8LZx8MaGQUKwACFgwfBwUUUzIuIFJhbWFuIE1pY3Jvc2NvcHkfCAUkMzVjNDllYjEtMTQ0Zi00NDFmLWFkMzgtZmEyMmYzODQ5Y2RjHwkFGX4vOS1yYW1hbi1taWNyb3Njb3B5LmFzcHgfCgUDNTg2HwtnHwxoZBQrAAIWDB8HBSRTMy4gU3BlY3Ryb3Njb3B5IG9mIEF0b21zIGFuZCBGbGFtZXMfCAUk" />
+<input type="hidden" name="__VIEWSTATE15" id="__VIEWSTATE15" value="NTQ2N2Y0OTQtMTViYi00YzBmLTlkZTItYjIwMzllMmRiZjkwHwkFKn4vczMtc3BlY3Ryb3Njb3B5LW9mLWF0b21zLWFuZC1mbGFtZXMuYXNweB8KBQM1OTEfC2cfDGhkFCsAAhYMHwcFHlM0LiBGbHVvcmVzY2VuY2UgYW5kIFF1ZW5jaGluZx8IBSQ4NmQ3ZjM3OC0yMjA4LTQ0NjMtYTQyNC0yZGQzMTc3ZTIwNzAfCQUkfi9zNC1mbHVvcmVzY2VuY2UtYW5kLXF1ZW5jaGluZy5hc3B4HwoFAzU2OB8LZx8MaGQUKwACFgwfBwUaVDEuIFRoZSBDTy1DTzIgRXF1aWxpYnJpdW0fCAUkYTBiOGFhODItM2E5ZS00NTVlLWE1ODctOTZhN2E3NzZiOGI3HwkFH34vNS10aGUtY28tY28yLWVxdWlsaWJyaXVtLmFzcHgfCgUDNTY2HwtnHwxoZBQrAAIWDB8HBRdUMi4gTml0cm9n" />
+<input type="hidden" name="__VIEWSTATE16" id="__VIEWSTATE16" value="ZW4gQWRzb3JwdGlvbh8IBSQ1ZDNmNmM3My0wMjYyLTQ4ODAtODBlMy02NDE5Nzg3MjJhYWIfCQUdfi90Mi1uaXRyb2dlbi1hZHNvcnB0aW9uLmFzcHgfCgUDNTY0HwtnHwxoZBQrAAIWDB8HBSdJbnN0cnVtZW50IG1hbnVhbHMgYW5kIGJhY2tncm91bmQgbm90ZXMfCAUkNGRjYmM1YWMtMTcyNy00M2Q3LTliODUtZDk4OWM4MWVhZTRlHwkFLn4vaW5zdHJ1bWVudC1tYW51YWxzLWFuZC1iYWNrZ3JvdW5kLW5vdGVzLmFzcHgfCgUDNTE0HwtnHwxoZBQrAAIWDB8HBQlJVCBTa2lsbHMfCAUkODRkMDE4MDUtOTJmOC00ZGIxLTlmOWYtZWI2MzYzZGI2YmVmHwkFEH4vaXQtc2tpbGxzLmFzcHgfCgUDNDg1HwtnHwxnFCsAAwUHMDowLDA6MRQrAAIWDB8HBRRGaXJzdCBZ" />
+<input type="hidden" name="__VIEWSTATE17" id="__VIEWSTATE17" value="ZWFyIElUIFNraWxscx8IBSQ4NGE4YTNkMi1kYzg0LTQxNzgtYjNiNS01ZTIyMWE5Nzk0ZjQfCQUbfi9maXJzdC15ZWFyLWl0LXNraWxscy5hc3B4HwoFBDE3MDQfC2cfDGhkFCsAAhYMHwcFFkRhdGFiYXNlcyBmb3IgQ2hlbWlzdHMfCAUkODQ0Y2U5ZTMtNDFhMS00NWU4LWE5OTAtZDFjOTMxNWQzZjMxHwkFHX4vZGF0YWJhc2VzLWZvci1jaGVtaXN0cy5hc3B4HwoFBDE0NjUfC2cfDGhkFCsAAhYMHwcFBlNhZmV0eR8IBSQ5ZWYxYjE4NS1kNGI0LTQzMDMtODg2Yy0wMWUwMmExYmExMWMfCQUNfi9zYWZldHkuYXNweB8KBQQxNjAwHwtnHwxoZBQrAAIWDB8HBQhHbG9zc2FyeR8IBSQzMGQ1ZTBlZC04NjJjLTQ5ZWEtODJiMS0wM2YyN2FkOWU2OTgfCQUPfi9nbG9z" />
+<input type="hidden" name="__VIEWSTATE18" id="__VIEWSTATE18" value="c2FyeS5hc3B4HwoFAzY4NR8LZx8MaGQUKwACFgwfBwUoQWxhbiBIb3dlIEF3YXJkIGZvciBKdW5pb3IgRGVtb25zdHJhdG9ycx8IBSQ4MzBmNTlkNS1iNTE2LTQ5MmEtOGE0ZS00NzQxMGQ0ZDIxY2IfCQUvfi9hbGFuLWhvd2UtYXdhcmQtZm9yLWp1bmlvci1kZW1vbnN0cmF0b3JzLmFzcHgfCgUEMTYzOB8LZx8MZxQrAAUFDzA6MCwwOjEsMDoyLDA6MxQrAAIWDB8HBQwyMDE0IFdpbm5lcnMfCAUkNDI4NzhiZWYtMTNlNy00NDBmLTg3MmUtZTU0MTkyNThkMjYyHwkFE34vMjAxNC13aW5uZXJzLmFzcHgfCgUEMTY0MB8LZx8MaGQUKwACFgwfBwUwT3JnYW5pYyBDaGVtaXN0cnkgSnVuaW9yIERlbW9uc3RyYXRvcnMgMjAxNC0yMDE1HwgFJDE4YjFkMjg3LTZhOWIt" />
+<input type="hidden" name="__VIEWSTATE19" id="__VIEWSTATE19" value="NGNjNC04Y2NjLTEyNTQzODAwMTE0Nh8JBTd+L29yZ2FuaWMtY2hlbWlzdHJ5LWp1bmlvci1kZW1vbnN0cmF0b3JzLTIwMTQtMjAxNS5hc3B4HwoFBDE2NDMfC2cfDGcUKwAEBQswOjAsMDoxLDA6MhQrAAIWDB8HBQlNaWNoZWxtYXMfCAUkOWZmNTQxOTMtNTIwNS00YjA1LWFmM2QtNDM2NmM0YmY3Yjc2HwkFEH4vbWljaGVsbWFzLmFzcHgfCgUEMTY5MB8LZx8MaGQUKwACFgwfBwUGSGlsYXJ5HwgFJDQ4ODIyMDhhLTBkMTEtNGFlNS05ODI0LWEwYWYxOGY2YzhhMB8JBQ1+L2hpbGFyeS5hc3B4HwoFBDE2OTYfC2cfDGhkFCsAAhYMHwcFB1RyaW5pdHkfCAUkOTYzN2I5M2QtN2NmYy00ZmVlLTg5MWMtYWQxN2JkNjY1NWZhHwkFDn4vdHJpbml0eS5hc3B4HwoFBDE3" />
+<input type="hidden" name="__VIEWSTATE20" id="__VIEWSTATE20" value="MDUfC2cfDGhkFCsAAhYMHwcFMVBoeXNpY2FsIENoZW1pc3RyeSBKdW5pb3IgZGVtb25zdHJhdG9ycyAyMDE0LTIwMTUfCAUkNmU0OTRkYTEtZTlkMi00NmYxLThhNzYtYjBmYjQwNjViNjlmHwkFOH4vcGh5c2ljYWwtY2hlbWlzdHJ5LWp1bmlvci1kZW1vbnN0cmF0b3JzLTIwMTQtMjAxNS5hc3B4HwoFBDE2NDQfC2cfDGcUKwADBQcwOjAsMDoxFCsAAhYMHwcFCU1pY2hlbG1hcx8IBSQ2NTU3MGU2OC01ZTVjLTRmNjctOTM2MC0xNjhkNTNhNzcwYTYfCQUVfi9taWNoZWxtYXMtUFRDTC5hc3B4HwoFBDE3MDkfC2cfDGhkFCsAAhYMHwcFBkhpbGFyeR8IBSRiZGM0NTM3ZC05MjQ3LTQ3MTgtODcxNC1jZWIxZjY1MGE0ZDAfCQUSfi9oaWxhcnktUFRDTC5hc3B4HwoF" />
+<input type="hidden" name="__VIEWSTATE21" id="__VIEWSTATE21" value="BDE3MTAfC2cfDGhkFCsAAhYMHwcFMklub3JnYW5pYyBDaGVtaXN0cnkgSnVuaW9yIGRlbW9uc3RyYXRvcnMgMjAxNC0yMDE1HwgFJGFiZWRmYWJiLTJlMjYtNGUyMy1hOTZkLWU3NDg4NjY1ODdkYR8JBTl+L2lub3JnYW5pYy1jaGVtaXN0cnktanVuaW9yLWRlbW9uc3RyYXRvcnMtMjAxNC0yMDE1LmFzcHgfCgUEMTY1MR8LZx8MaGQUKwACFgwfBwUIRmVlZGJhY2sfCAUkYTM1ZDYwYTUtYzczOS00ZDYyLTlmMmYtYTBhM2ZkMmJiZGU1HwkFD34vZmVlZGJhY2suYXNweB8KBQQxNzE5HwtnHwxoZAUUY3RsMDAkY3RsMDV8bm5lbmVubm5kAicPDxYEHwEFNWFydC1sYXlvdXQtY2VsbCBhcnQtY29udGVudCBjZW50ZXItbGVmdG1hcmdpbiBjbXN6b25lHwICAmQWAgIF" />
+<input type="hidden" name="__VIEWSTATE22" id="__VIEWSTATE22" value="D2QWAmYPZBYCAgIPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHwBoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHgpDYWxsYmFja0lEBSljdGwwMCRtYWluQ29udGVudCRjdGwwMCRSYXRpbmckVXNlclJhdGluZ2QCDQ8PFgIfAGhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIfDwUvY3RsMDAkbWFpbkNvbnRlbnQkY3RsMDAkUmF0aW5nQm90dG9tJFVzZXJSYXRpbmdkAikPDxYGHwEFEXJpZ2h0c2lkZSBjbXN6b25lHwICAh8AaGRkAjcPDxYCHwBoZGQYAgUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFFWN0bDAwJFBhZ2VNZW51MSRjdGwwMAUVY3RsMDAkU2l0ZU1lbnUxJGN0bDAwDw9kBSRiN2E1MzIwZS1hNWJhLTQ3NmQtOTM2ZC1jYWE2OTVlMWEy" />
+<input type="hidden" name="__VIEWSTATE23" id="__VIEWSTATE23" value="ODRkY1nuJSM57QoLHiPKzX1riCbTQLQ=" />
+
+
+<script src="/ScriptResource.axd?d=EHWBFVSWDap_XQ_f-DdPnRIFtYlp7qloWf8E-c_pw9lbfIlFYZX-NWF4yFrDSwYWajicVe30fw0G13MBrguNr_81NuPq592ItKI_frsocFrUdcnz3xNwz2ozYPuzUBOsC1s5izc_J8Q03gn262AmXueXPgNtWKgrQkhA_5AGLCbFhnFzZLVM__0n24ZbSzxOp0n0wj8B_bG9hxoW4_qNR7FiJoXy4oUtoBiGrcXfL_WwpeE7kGOaoU2NYxyteRKrUQr7tbLf0DtSgZMo8rlPxtvLuznmM_AJMv1y3FTeWOg8-5JuhxdGCHj4y_sfQFsStPAEMOhz1CmYE58WimRbYCeUEY5oDgJV928fb645ygaQNwCwg6u0ruY0ll_5ezFnxPH2Ag2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAPOnJVVoAxpF1kmlbHpYgDDluqpT+SRPGaj6Cukd6ylpw/INqdqdR6WrdirVNBGS8nTYPG9ra3COgXsaBdH/OXolSqaiQ==" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://course.chem.ox.ac.uk/Default.aspx'>Undergraduate Course</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+	    
+
+<div class="AspNet-Menu-Horizontal" id="ctl00_SiteMenu1_ctl00">
+		<ul class="AspNet-Menu">
+			<li class="AspNet-Menu-Leaf">
+				<a href="/home.aspx" class="AspNet-Menu">
+					<span>Home</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/bridging.aspx" class="AspNet-Menu">
+					<span>Bridging</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/year-1.aspx" class="AspNet-Menu">
+					<span>Year 1</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/year-2.aspx" class="AspNet-Menu">
+					<span>Year 2</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/year-3.aspx" class="AspNet-Menu">
+					<span>Year 3</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/part-ii-year.aspx" class="AspNet-Menu">
+					<span>Part II Year</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/supplementary-sub.aspx" class="AspNet-Menu">
+					<span>Supplementary Sub.</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf AspNet-Menu-SelectedLeaf">
+				<a href="/practicals.aspx" class="AspNet-Menu AspNet-Menu-SelectedLeaf">
+					<span>Practicals</span></a>
+			</li>
+		</ul>
+
+</div>
+
+
+	    <div class="topnav">
+            <ul>
+            
+            <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+            <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+            
+            
+            
+            
+            
+            <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+            <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2f1new-page.aspx%3fskin%3dprinterfriendly">Sign In</a></li>
+            
+            </ul>  
+        </div>    
+        
+    </div>
+    <div id="wrapcenter">
+	    <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+	
+		    <div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+
+	<div class="AspNet-TreeView" id="ctl00_PageMenu1_ctl00">
+			<ul id="ctl00_PageMenu1_ctl00_UL">
+				<li class="AspNet-TreeView-Root">
+					<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/inorganic-practicals.aspx" title="Expand this node.">&nbsp;</a>
+					<a href="/inorganic-practicals.aspx">
+						Inorganic practicals</a>
+					<ul class="AspNet-TreeView-Hide treehide">
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/first-year-icl.aspx">
+								First Year ICL</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/second-year-icl.aspx">
+								Second Year ICL</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/third-year-icl.aspx">
+								Third Year ICL</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root">
+					<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/organic-practicals.aspx" title="Expand this node.">&nbsp;</a>
+					<a href="/organic-practicals.aspx">
+						Organic Practicals</a>
+					<ul class="AspNet-TreeView-Hide treehide">
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/first-year-dp.aspx">
+								First Year DP</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/secondthird-year-dp.aspx">
+								Second/Third Year DP</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/2nd-year-allocations.aspx">
+								2nd year allocations</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-ChildSelected">
+					<a class="AspNet-TreeView-Collapse" onclick="ExpandCollapse__TreeView(this);return false;" href="/physical-practicals.aspx" title="Collapse this node.">&nbsp;</a>
+					<a href="/physical-practicals.aspx">
+						Physical practicals</a>
+					<ul>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/1st-year.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/1st-year.aspx">
+								1st year</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/college-groups.aspx">
+										College Groups</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/1st-year-experiments.aspx">
+								1st year experiments</a>
+						</li>
+						<li class="AspNet-TreeView-Parent AspNet-TreeView-ChildSelected">
+							<a class="AspNet-TreeView-Collapse" onclick="ExpandCollapse__TreeView(this);return false;" href="/2nd--3rd-year.aspx" title="Collapse this node.">&nbsp;</a>
+							<a href="/2nd--3rd-year.aspx">
+								2nd / 3rd year</a>
+							<ul>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/1college-groups.aspx">
+										College Groups</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/experiments-directory-2nd--3rd-year.aspx">
+										Experiments directory - 2nd / 3rd year</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/which-experiments-when.aspx">
+										Which experiments when?</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/new-page.aspx">
+										Who can sign off an experiment?</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf AspNet-TreeView-Selected">
+									<a href="/1new-page.aspx">
+										Exam requirements</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/2nd--3rd-year-experiments.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/2nd--3rd-year-experiments.aspx">
+								2nd/3rd year experiments</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/core-1-diffusion-limited-aggregation.aspx">
+										Core 1. Diffusion-limited Aggregation</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/core-2a-bomb---calorimetry.aspx">
+										Core 2a. Bomb Calorimetry</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/core-2b-reaction-calorimetry.aspx">
+										Core 2b. Reaction Calorimetry</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/core-3-potentiometric-study-of-redox-reactions.aspx">
+										Core 3. Potentiometric study of redox reactions</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/core-4-ir-spectrum-of-hcl-and-dcl.aspx">
+										Core 4. IR Spectrum of HCl and DCl</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/a1-introduction-to-flame-aa.aspx">
+										A1. Introduction to Flame AA</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/a2-gas-chromatography-packed-column.aspx">
+										A2. Gas Chromatography (packed column)</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/d1-dipole-moments-from-capacitance.aspx">
+										D1. Dipole Moments from Capacitance</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/d3-measurement-of-brownian-motion.aspx">
+										D3. Measurement of Brownian Motion</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/d4-application-of-debye-huckel-theory.aspx">
+										D4. Application of Debye-Huckel Theory</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/d5-ions-in-aqueous-solution.aspx">
+										D5. Ions in Aqueous Solution</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/k1-oxygen-atom-reaction-kinetics.aspx">
+										K1. Oxygen atom Reaction Kinetics</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/k4-kinetics-of-aspirin-hydrolysis-.aspx">
+										K4. Kinetics of aspirin hydrolysis </a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/m1-computational-nmr-spectroscopy.aspx">
+										M1. Computational NMR Spectroscopy</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/m2-molecular-modelling.aspx">
+										M2. Molecular Modelling</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/m4a-huckel-theory-computational.aspx">
+										M4a. Huckel Theory (computational)</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/m4b-heteronuclear-molecules-computational.aspx">
+										M4b. Heteronuclear Molecules (computational)</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/m3-computational-dynamic-electrochemistry.aspx">
+										P1. Cyclic Voltammetry project</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/9-raman-microscopy.aspx">
+										S2. Raman Microscopy</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/s3-spectroscopy-of-atoms-and-flames.aspx">
+										S3. Spectroscopy of Atoms and Flames</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/s4-fluorescence-and-quenching.aspx">
+										S4. Fluorescence and Quenching</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/5-the-co-co2-equilibrium.aspx">
+										T1. The CO-CO2 Equilibrium</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/t2-nitrogen-adsorption.aspx">
+										T2. Nitrogen Adsorption</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/instrument-manuals-and-background-notes.aspx">
+								Instrument manuals and background notes</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root">
+					<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/it-skills.aspx" title="Expand this node.">&nbsp;</a>
+					<a href="/it-skills.aspx">
+						IT Skills</a>
+					<ul class="AspNet-TreeView-Hide treehide">
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/first-year-it-skills.aspx">
+								First Year IT Skills</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/databases-for-chemists.aspx">
+								Databases for Chemists</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/safety.aspx">
+						Safety</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/glossary.aspx">
+						Glossary</a>
+				</li>
+				<li class="AspNet-TreeView-Root">
+					<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/alan-howe-award-for-junior-demonstrators.aspx" title="Expand this node.">&nbsp;</a>
+					<a href="/alan-howe-award-for-junior-demonstrators.aspx">
+						Alan Howe Award for Junior Demonstrators</a>
+					<ul class="AspNet-TreeView-Hide treehide">
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/2014-winners.aspx">
+								2014 Winners</a>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/organic-chemistry-junior-demonstrators-2014-2015.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/organic-chemistry-junior-demonstrators-2014-2015.aspx">
+								Organic Chemistry Junior Demonstrators 2014-2015</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/michelmas.aspx">
+										Michelmas</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/hilary.aspx">
+										Hilary</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/trinity.aspx">
+										Trinity</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Parent">
+							<a class="AspNet-TreeView-Expand" onclick="ExpandCollapse__TreeView(this);return false;" href="/physical-chemistry-junior-demonstrators-2014-2015.aspx" title="Expand this node.">&nbsp;</a>
+							<a href="/physical-chemistry-junior-demonstrators-2014-2015.aspx">
+								Physical Chemistry Junior demonstrators 2014-2015</a>
+							<ul class="AspNet-TreeView-Hide treehide">
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/michelmas-PTCL.aspx">
+										Michelmas</a>
+								</li>
+								<li class="AspNet-TreeView-Leaf">
+									<a href="/hilary-PTCL.aspx">
+										Hilary</a>
+								</li>
+							</ul>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/inorganic-chemistry-junior-demonstrators-2014-2015.aspx">
+								Inorganic Chemistry Junior demonstrators 2014-2015</a>
+						</li>
+					</ul>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/feedback.aspx">
+						Feedback</a>
+				</li>
+			</ul>
+
+	</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+		    <a id="startcontent"></a>
+		    
+	    
+</div>
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+            
+	        
+	        
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1024" class=" moduletitle">Examination requirements</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<p>
+	Examination requirements are as follows:</p>
+<p style="padding-left: 30px;">
+	<strong>2nd year:</strong> Complete satisfactorily and have signed off ten experiments.</p>
+<p style="padding-left: 30px;">
+	<strong>3rd year:</strong> Each candidate must have completed their practical requirement, which is a core second year requirement of 60 credit hours in each laboratory plus a third year requirement of 72 credit hours plus the IT practicals; except those candidates who take pass a Supplementary Subject will have a reduced third year requirement of 36 credit hours plus the IT practicals. The third year requirement is a free choice of third year experiments offered by the three teaching labs. All practical work must be completed and marked off by 5 pm, Friday, 4th week of Trinity Term.</p>
+
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+	    
+</div>
+	    		
+	</div>
+	<div id="wrapfooter">
+	    <br class="clear" />
+	    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+	    <a href='/1new-page.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> | 
+	    &copy; 2008 - 2015 Departmental of Chemistry
+	    <br /><br />
+		<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+		<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+		<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://course.chem.ox.ac.uk/csshandler.ashx?skin=printerfriendly'  title='Valid CSS'>CSS</a> |
+        <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+	</div>
+</div>
+
+
+
+
+<div>
+	<input type="hidden" name="ctl00$ctl05" id="ctl00_ctl05" />
+</div>
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script>
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript"> 
+try{
+var mojoPageTracker = _gat._getTracker("UA-49363107-1");
+
+mojoPageTracker._setCustomVar(1, "member-type", "anonymous", 1);mojoPageTracker._trackPageview();
+} catch(err) {} </script></form>
+</body>
+</html>

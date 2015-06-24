@@ -1,0 +1,819 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Oxford Vaccine Group RSS" href="http://www.ovg.ox.ac.uk/rss.xml" />
+<link rel="shortcut icon" href="//sites/default/files/ovg_logo.png" type="image/x-icon" />
+  <meta name="google-translate-customization" content="637335110dfd94e8-944f420b924c130d-g9866f319faecb97b-11"></meta>
+  <title>Oxford Vaccine Group</title>
+  <!--[if IE 7]>
+        <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/OVG/css/ie7.css?M" />
+        <![endif]-->
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/ctools/css/ctools.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/views/css/views.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/OVG/css/ovg.css?s" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/OVG/css/custom_ovg.css?s" />
+    <style type="text/css">
+.newsticker {
+	list-style-type: none;
+	padding: 3px;
+	margin: 0;
+	position: absolute;
+	top: 310px;
+	left: 50px;
+	color: #F00F00 !important;
+}
+</style>
+   
+<!--video player-->
+<link rel="stylesheet" href="/sites/all/themes/OVG/prettyPhoto/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8" />
+<script src="/sites/all/themes/OVG/prettyPhoto/js/jquery-1.10.1.js"></script>
+<script src="/sites/all/themes/OVG/prettyPhoto/js/jquery.prettyPhoto.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+  $(document).ready(function(){
+    $("a[rel^='prettyPhoto']").prettyPhoto();
+  });
+</script>
+
+<script type="text/javascript" src="/misc/jquery.js?v"></script>
+<script type="text/javascript" src="/misc/drupal.js?v"></script>
+
+  <script src="/sites/all/themes/OVG/jquery.newsticker.js"></script>
+  <script type="text/javascript">
+
+$(document).ready(
+	function()
+	{
+		$("#news").newsTicker();
+	}
+);
+   </script>
+  <!--[if IE]>
+<script type="text/javascript" src="javascript/hover.js"></script>
+<![endif]-->
+
+</head>
+<body id="homepage">
+    <!--[if lte IE 6]>
+        <div style="color:red; font-size:20px;"><strong>Please update your Internet Explorer version!</strong></div>
+<![endif]-->
+<div id="site_container">
+  <div id="logo"><a href="/"><img src="/sites/all/themes/OVG/images/headerPaed.png" width="925" height="132" alt="OVG" /></a>
+    
+  </div>
+<div id="navigation">
+    <ul>
+      <li class="most-left"><a href="/">Home</a>
+      <li><a href="about-us">About Us</a>
+      	<!--[if !lte IE 6]><![IGNORE[--><![IGNORE[]]><ul id="submenu"> 
+			
+            <li><a href='/staff'>Staff</a></li>
+            <li><a href='/clinical-services'>Clinical Services</a></li>
+            <li><a href='/vaccine-knowledge'>Vaccine Knowledge</a></li>
+            <li><a href='/news-and-media'>News and Media</a></li>
+            <li><a href='/contact-details'>Contact Details</a></li>
+      		<li><a href='/how-find-us'>How to find us</a></li>
+            <li><a href='/vaccsline'>Vaccsline</a></li>
+            <li><a href='/oxford-vaccine-centre'>Oxford Vaccine Centre</a></li>
+	    <li><a href='partners'>Partners</a></li>
+            <li><a href='collaborators'>Collaborators</a></li>
+            
+        </ul><!--<![endif]-->
+      </li>
+      <li class=""><a href="research">Research</a>
+      	<!--[if !lte IE 6]><![IGNORE[--><![IGNORE[]]><ul id="submenu">
+      		<li><a href='/recruiting-studies'>Recruiting studies</a></li>
+            <li><a href='/studies-follow'>Studies in Follow-up</a></li>
+            <li><a href='/closed-studies'>Closed studies</a></li>
+            <li><a href='/laboratory-work'>Laboratory work</a></li>
+            <li><a href='/publications-2015'>Publications</a></li>
+      	</ul><!--<![endif]-->
+      </li>
+      <li class=""><a href="events-and-training">Events &amp; Training</a>
+      	<!--[if !lte IE 6]><![IGNORE[--><![IGNORE[]]><ul id="submenu">
+      		<li><a href='/iic'>IIC</a></li>
+            <li><a href='/immunisation-seminar'>Immunisation Seminar</a></li>
+      		<li><a href='/postgraduate-diploma-pid'>Postgrad Diploma in PID</a></li>
+            <li><a href='/bugs-bites-and-altitude'>Bugs, Bites and Altitude</a></li>
+        </ul><!--<![endif]-->
+      </li>
+      <li class=""><a href="get-involved ">Get involved</a>
+        <!--[if !lte IE 6]><![IGNORE[--><![IGNORE[]]><ul id="submenu">
+	<li><a href='/resources-participants'>Resources for participants</a></li>
+	<li><a href='experiences-trials'>Experiences of our studies</a></li>
+	<li><a href='/recruiting-studies'>Recruiting studies</a></li>
+	<li><a href='/ppi'>Public Involvement Group</a></li>
+	<li><a href='/work-schools'>Work with schools</a></li>
+      	</ul><!--<![endif]-->
+      </li>
+      <li class=""><a href="job-opportunities">Job opportunities</a>
+      	<!--[if !lte IE 6]><![IGNORE[--><![IGNORE[]]><ul id="submenu">
+        	<li><a href='/paediatrics-department-vacancies'>Paediatrics Department</a></li>
+      		<li><a href='/oxford-university-vacancies'>Oxford University</a></li>
+      	</ul><!--<![endif]-->
+      </li>
+    </ul>
+  </div>
+  <div id="main_content_container">  
+    <div id="left_content_container">
+      <div id="left_column_nav">
+        <div id="block-block-1" class="block block-block">
+
+  <div class="content">
+    <!--<div class="" style="position:absolute; top:331px; padding:5px 0 0 5px;">
+<div >
+<a href="/OVG/blogs/ojohn/new-menb-vaccine-be-licensed" style="color:red !important; font-size:1em;"><b>LATEST NEWS: </b><br />New MenB vaccine to receive <br /> European license - an important <br />step in the fight against <br />meningitis</a>
+
+</div>
+</div>-->
+<div class="info" style="position:absolute; top:340px;">
+<div class="" >
+The Oxford Vaccine Group is an independent multi-disciplinary clinical trials and epidemiology group based at the Centre for Clinical Vaccinology and Tropical Medicine, University of Oxford. OVG works towards the goal of developing new and improved vaccines for the prevention of infection in adults and children. <a style="color:#FFFFFF" href="/about-us">(more)</a><br /><br />
+Oxford Vaccine Group adheres to the following policy for clinical trials of vaccines <a style="color:#FFFFFF" href="/policy-clinical-trials-vaccines">(more)</a>.
+</div>
+          <!--<div style="">
+</div>-->
+</div>
+
+  </div>
+</div>
+      </div>
+       <div id="middle_column">
+         <div id="node-1" class="node clear-block">
+
+
+  <h2><a href="/homepage" title="Homepage">Homepage</a></h2>
+
+  <div class="meta">
+  
+    </div>
+
+  <div class="content">
+      </div>
+
+  </div><div id="block-block-2" class="block block-block">
+
+  <div class="content">
+    			
+
+
+<!-- JoomlaWorks "Frontpage Slideshow (standalone)" (v2.4) starts here -->
+<script type="text/javascript">
+	//<![CDATA[
+	document.write('<style type="text/css" media="all">@import "http://ovg.nsms.ox.ac.uk/fpss/templates/JJ-Obs/css/template_css.php?w=919&h=270&sw=200";</style>');
+	//]]>
+</script>
+<!-- Load jQuery remotely -->
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">google.load("jquery", "1.6.2");</script>
+<script type="text/javascript" src="http://ovg.nsms.ox.ac.uk/fpss/includes/js/fpss.packed.js"></script>
+<script type="text/javascript">
+	//<![CDATA[
+	jQuery.noConflict();
+	jQuery(document).ready(function($){
+		$('.fpssModuleContainer').frontpageSlideshow({
+			'crossFadeDelay':6000,
+			'crossFadeSpeed':1000,
+			'loaderDelay':800,
+			'navEvent':'click',
+			'autoslide':true,
+			'textPlay':'Play',
+			'textPause':'Pause'
+		});
+	});
+	//]]>
+</script>
+
+<!-- JoomlaWorks "Frontpage Slideshow (standalone)" (v2.4) ends here -->
+
+
+
+
+<!-- JoomlaWorks "Frontpage Slideshow (standalone)" (v2.4) starts here -->
+<div class="fpssModuleContainer">
+<div id="fpss-outer-container">
+	<div id="fpss-container">
+		<div id="fpss-slider">
+			<div id="slide-wrapper">
+				<div id="slide-outer">
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/staff.JPG) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/staff.JPG" alt="" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about " class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Behind the playingfields.JPG) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Behind the playingfields.JPG" alt="Merton College from the playing fields" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+																<h1><a href="javascript:void(0);">Merton College from the playing fields</a></h1>
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about Merton College from the playing fields" class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Q students.JPG) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Q students.JPG" alt="Students at Queens College" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+																<h1><a href="javascript:void(0);">Students at Queens College</a></h1>
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about Students at Queens College" class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/ChristChurch.JPG) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/ChristChurch.JPG" alt="Christ Church College" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+																<h1><a href="javascript:void(0);">Christ Church College</a></h1>
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about Christ Church College" class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/bikes.JPG) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/bikes.JPG" alt="The only way to travel in Oxford" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+																<h1><a href="javascript:void(0);">The only way to travel in Oxford</a></h1>
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about The only way to travel in Oxford" class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/WaterMeadows.jpg) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/WaterMeadows.jpg" alt="Christ Church Meadow" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+																<h1><a href="javascript:void(0);">Christ Church Meadow</a></h1>
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about Christ Church Meadow" class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Morris men.JPG) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Morris men.JPG" alt="May Day Morris Men" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+																<h1><a href="javascript:void(0);">May Day Morris Men</a></h1>
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about May Day Morris Men" class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/MoreSpires.JPG) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/MoreSpires.JPG" alt="Oxford&rsquo;s Dreaming Spires" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+																<h1><a href="javascript:void(0);">Oxford’s Dreaming Spires</a></h1>
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about Oxford&rsquo;s Dreaming Spires" class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Heads.JPG) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Heads.JPG" alt="13 &ldquo;Emperors or Philosophers Heads&rdquo;, Sheldonian Theatre" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+																<h1><a href="javascript:void(0);">13 “Emperors or Philosophers Heads”, Sheldonian Theatre</a></h1>
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about 13 &ldquo;Emperors or Philosophers Heads&rdquo;, Sheldonian Theatre" class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/IMG_5984.JPG) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/IMG_5984.JPG" alt="Magnolia in Spring" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+																<h1><a href="javascript:void(0);">Magnolia in Spring</a></h1>
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about Magnolia in Spring" class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								<div class="slide">
+					<div class="slide-inner">
+						<a href="javascript:void(0);" class="fpss_img">
+							<span>
+								<span style="background:url(http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/RadcliffeCamera.JPG) no-repeat;">
+									<span>
+										<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/RadcliffeCamera.JPG" alt="Radcliffe Camera Square" />
+									</span>
+								</span>
+							</span>
+						</a>
+												<div class="fpss-introtext">
+							<div class="slidetext">
+
+																<h1><a href="javascript:void(0);">Radcliffe Camera Square</a></h1>
+								
+								
+								
+								
+																<a href="javascript:void(0);" title="Read more about Radcliffe Camera Square" class="readon">More...</a>
+															</div>
+						</div>
+											</div>
+				</div>
+								</div>
+			</div>
+		</div>
+		<div id="navi-outer">
+			<div id="pseudobox"></div>
+				<div class="ul_container">
+					<ul>
+												<li>
+							<a class="navi" href="#" title="">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/staff.JPG" alt="Navigate to " />
+								</span>
+								<span class="navbar-key">01</span>
+								<span class="navbar-title"></span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li>
+							<a class="navi" href="#" title="Merton College from the playing fields">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Behind the playingfields.JPG" alt="Navigate to Merton College from the playing fields" />
+								</span>
+								<span class="navbar-key">02</span>
+								<span class="navbar-title">Merton College from the playing fields</span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li>
+							<a class="navi" href="#" title="Students at Queens College">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Q students.JPG" alt="Navigate to Students at Queens College" />
+								</span>
+								<span class="navbar-key">03</span>
+								<span class="navbar-title">Students at Queens College</span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li>
+							<a class="navi" href="#" title="Christ Church College">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/ChristChurch.JPG" alt="Navigate to Christ Church College" />
+								</span>
+								<span class="navbar-key">04</span>
+								<span class="navbar-title">Christ Church College</span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li>
+							<a class="navi" href="#" title="The only way to travel in Oxford">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/bikes.JPG" alt="Navigate to The only way to travel in Oxford" />
+								</span>
+								<span class="navbar-key">05</span>
+								<span class="navbar-title">The only way to travel in Oxford</span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li>
+							<a class="navi" href="#" title="Christ Church Meadow">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/WaterMeadows.jpg" alt="Navigate to Christ Church Meadow" />
+								</span>
+								<span class="navbar-key">06</span>
+								<span class="navbar-title">Christ Church Meadow</span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li>
+							<a class="navi" href="#" title="May Day Morris Men">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Morris men.JPG" alt="Navigate to May Day Morris Men" />
+								</span>
+								<span class="navbar-key">07</span>
+								<span class="navbar-title">May Day Morris Men</span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li>
+							<a class="navi" href="#" title="Oxford’s Dreaming Spires">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/MoreSpires.JPG" alt="Navigate to Oxford&rsquo;s Dreaming Spires" />
+								</span>
+								<span class="navbar-key">08</span>
+								<span class="navbar-title">Oxford’s Dreaming Spires</span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li>
+							<a class="navi" href="#" title="13 “Emperors or Philosophers Heads”, Sheldonian Theatre">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/Heads.JPG" alt="Navigate to 13 &ldquo;Emperors or Philosophers Heads&rdquo;, Sheldonian Theatre" />
+								</span>
+								<span class="navbar-key">09</span>
+								<span class="navbar-title">13 “Emperors or Philosophers Heads”, Sheldonian Theatre</span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li>
+							<a class="navi" href="#" title="Magnolia in Spring">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/IMG_5984.JPG" alt="Navigate to Magnolia in Spring" />
+								</span>
+								<span class="navbar-key">10</span>
+								<span class="navbar-title">Magnolia in Spring</span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li>
+							<a class="navi" href="#" title="Radcliffe Camera Square">
+								<span class="navbar-img">
+									<img src="http://ovg.nsms.ox.ac.uk/fpss/slideshows/demo/images/RadcliffeCamera.JPG" alt="Navigate to Radcliffe Camera Square" />
+								</span>
+								<span class="navbar-key">11</span>
+								<span class="navbar-title">Radcliffe Camera Square</span>
+								<span class="navbar-tagline"></span>
+								<span class="navbar-clr"></span>
+							</a>
+						</li>
+												<li class="noimages"><a id="fpss-container_next" href="#" title="Next"></a></li>
+						<li class="noimages"><a id="fpss-container_playButton" href="#" title="Play/Pause Slide">Pause</a></li>
+						<li class="noimages"><a id="fpss-container_prev" href="#" title="Previous"></a></li>
+						<li class="clr"></li>
+					</ul>
+				</div>
+			</div>
+		<div class="fpss-clr"></div>
+	</div>
+	<div class="fpss-clr"></div>
+</div>
+</div><div style="display:none;">Frontpage Slideshow (standalone) | Copyright &copy; 2006-2011 JoomlaWorks Ltd.</div>
+<!-- JoomlaWorks "Frontpage Slideshow (standalone)" (v2.4) ends here -->
+
+<span style="	position: absolute; top: 310px; left: 10px; color:#F00F00; font-size:18px;"><strong>News: &nbsp;</strong></span>
+
+<ul id="news">
+<li><a href="menw-recommendation" target="_blank" style="color: #F00F00 !important; font-size:18px;"> &nbsp; JCVI recommends immunising 14-18 year olds against MenW</a></li>
+<!-- <li><a href="http://ebolavaccine.org.uk/" target="_blank" style="color: #F00F00 !important; font-size:18px;"> &nbsp; EBOLA VACCINE STUDY BEGINS AT THE OXFORD VACCINE GROUP</a></li> -->
+
+</ul>  </div>
+</div>
+<div id="block-block-3" class="block block-block">
+
+  <div class="content">
+    <div class="column_holder unselectable" style="position:absolute; top:330px;" >
+<!-- end of this div is in next block --><!-- end of this div is in next block --><div class="left_content">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/sites/default/files/IMG_1325.jpg" width="92" height="82" alt="" /></td>
+<td>
+<h4  style="margin-top:-3px; color:#AA004F;">Research</h4>
+<p><a href="/research"><br />
+<div style="text-align:justify">Clinical trials are an essential part of vaccine development.  Since 2001 over 11,000 adults and children have been enrolled. (…more)</div></a></p></td>
+</tr>
+</table>
+</div>
+<div class="right_content">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/OVG/sites/all/themes/OVG/images/news.jpg" width="92" height="82" alt="" /></td>
+<td>
+<h4 style="margin-top:-3px; color:#AA004F;">Partnerships</h4>
+<p><a href="/partnerships"><br />
+<div style="text-align:justify">Funding for the group’s activities is from a range of sources including registered charities, public funding and the pharmaceutical industry. (…more) </div>
+<p></p></a></p></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- end column header div --><!-- end column header div --><div class="clear"></div>
+<div class="dotted_lines">
+<div class="leftside"></div>
+<div class="rightside"></div>
+</div>
+<div class="column_holder" style="position:absolute;top:470px;">
+<!-- end of this div is in next block --><!-- end of this div is in next block --><div class="left_content">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/OVG/sites/default/files/IMG_008.jpg" width="92" height="82" alt="" /></td>
+<td>
+<h4 style="margin-top:-3px;color:#AA004F;">Events &amp; Training</h4>
+<p><a href="/events-and-training"><br />
+<div style="text-align:justify">We are committed to providing high quality education and training, together with research updates for medical professionals (…more)</div>
+<p></p></a></p></td>
+</tr>
+</table>
+</div>
+<div class="right_content">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/sites/default/files/Karla_and_Carys2.jpg" width="92" height="82" alt="" /></td>
+<td>
+<h4 style="margin-top:-3px; color:#AA004F;">Get involved</h4>
+<p><a href="/get-involved"><br />
+<div style="text-align:justify">Find out how you can get involved in the work of the Oxford Vaccine Group. (…more)</div>
+<p></p></a></p></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- end of column_holder div --><!-- end of column_holder div --><div class="clear"></div>
+<div class="dotted_lines">
+<div class="leftside"></div>
+<div class="rightside"></div>
+</div>
+<div class="column_holder" style="position:absolute;top:620px;">
+<!-- end of this div is in next block --><!-- end of this div is in next block --><div class="left_content">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/sites/default/files/KarenSm.jpg" width="92" height="82" alt="" /></td>
+<td>
+<h4 style="margin-top:-3px;color:#AA004F;">VACCSline</h4>
+<p><a href="/vaccsline"><br />
+<div style="text-align:justify">We aim to improve the quality and coverage of immunisations available to our population by supporting those delivering immunisation (…more)</div>
+<p></p></a></p></td>
+</tr>
+</table>
+</div>
+<div class="right_content">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td><img src="/sites/default/files/IMG_1624.jpg" width="92" height="82" alt="" /></td>
+<td>
+<h4 style="margin-top:-3px; color:#AA004F;">Recruiting Studies</h4>
+<p><a href="/recruiting-studies"><br />
+<div style="text-align:justify">We are currently recruiting to several studies. If you are interested in finding out about how to take part, click here</div>
+<p></p></a></p></td>
+</tr>
+</table>
+</div>
+</div>
+<!-- end of column_holder div --><!-- end of column_holder div -->  </div>
+</div>
+<div id="block-search-0" class="block block-search">
+  <h2>Search</h2>
+
+  <div class="content">
+    <form action="/"  accept-charset="UTF-8" method="post" id="search-block-form">
+<div><div class="container-inline">
+  <div class="form-item" id="edit-search-block-form-1-wrapper">
+ <label for="edit-search-block-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-F1SGLhHC84kKFJlfor7-5U9O1WQXuQ1m3K0s4zT1FKA" value="form-F1SGLhHC84kKFJlfor7-5U9O1WQXuQ1m3K0s4zT1FKA"  />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+
+</div></form>
+  </div>
+</div>
+      </div>
+    </div>
+    <div id="right_column">
+      <div id="block-block-6" class="block block-block">
+
+  <div class="content">
+    <div class="content" style="margin-top:330px;">
+<a href="http://www.ovg.ox.ac.uk/vaccine-knowledge-home" target="_blank"><img width="178px" src="/sites/default/files/VKP_logo_OVGhomepage.jpg"</a>
+<br />
+
+
+<div class="search_box">
+<span style="font-size:130%">Search: </span>
+     <input name="search_type" id="this" type="radio" value="" checked=""> <label for="this">This site</label>&nbsp;<input name="search_type" id="people" type="radio" value=""> <label for="people">People</label>
+<table cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="search_field"><input name="search_query" type="text" id="search_query" value="" onfocus="clearText(this)" onblur="clearText(this)" onkeypress="{if (event.keyCode==13) searchOn()}"></td>
+<td><input name="search_button" type="image" src="/sites/all/themes/OVG/images/search.jpg" title="Search" onclick="searchOn()"></td>
+</tr>
+</tbody></table>
+</div>
+ </div>
+<script language="javascript" type="text/javascript" src="/scripts/functions.js" ></script>
+<img width="178px" src="/sites/default/files/ukcrc.jpg" alt="uk crc"/>
+
+<a href="/partners"><img width="178px" src="/sites/default/files/nihr_colour.jpg" alt="nihr"/></a>  </div>
+</div>
+    </div>
+  </div>
+  <div id="footer_area">
+    <div id="bookmarks">
+      
+      <table cellspacing="0" cellpadding="0">
+        <tr>
+          <td>Bookmark this page</td>
+          <td><a href="http://www.delicious.com/save" onclick="window.open('http://www.delicious.com/save?v=5&noui&jump=close&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title), 'delicious','toolbar=no,width=550,height=550'); return false;"><img src="/sites/all/themes/OVG/images/delicious.jpg" width="16" height="20" alt="" /></a></td>
+          <td><a href="http://digg.com/submit?phase=2&url=http://www.ovg.ox.ac.uk/"><img src="/sites/all/themes/OVG/images/digg.jpg" width="17" height="20" alt="" /></a></td>
+          <td><a href="http://www.facebook.com/sharer.php?u=http://www.ovg.ox.ac.uk/"><img src="/sites/all/themes/OVG/images/facebook.jpg" width="17" height="20" alt="" /></a></td>
+          <td><a href="http://twitter.com/"><img src="/sites/all/themes/OVG/images/twitter.jpg" width="15" height="20" alt="" /></a></td>
+          <td><a href="https://plus.google.com/114606716027875442439" rel="publisher">Google+</a></td>
+	  <td><a href="http://www.stumbleupon.com/submit?url=http://www.ovg.ox.ac.uk/"><img src="/sites/all/themes/OVG/images/stumbleupon.jpg" width="17" height="20" alt="" /></a></td>
+          <td class="share"><a href="#">Share</a></td>
+          <td><a href="mailto:"><img src="/sites/all/themes/OVG/images/email.jpg" width="24" height="20" alt="" /></a></td>
+          <td class="print"><a href="#">Print page</a></td>
+           <td><a href="javascript:window.print()"><img src="/sites/all/themes/OVG/images/print.jpg" width="25" height="20" alt="" /></a></td>
+	   <td></td><td></td><td></td><td></td><td></td><td></td>
+	   <td>Translate page</td>
+	   <td><div id="google_translate_element"></div><script type="text/javascript">
+							  function googleTranslateElementInit() {
+							      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-37195227-1'}, 'google_translate_element');
+							  }
+							</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        </td>
+        </tr>
+  </table>
+      
+    </div>
+		<div style='width:650px; margin:auto; padding-top:20px; text-align: center;'>This unit receives <a href="http://www.netscc.ac.uk/nihr_trials_overview/CTU_support_funding.asp">National Institute for Health Research CTU Support Funding.</a>  This funding has been awarded to support the unit in developing and supporting <a href="http://www.nihr.ac.uk/Pages/default.aspx">NIHR</a> trials.</div>
+  </div>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37819785-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37870136-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

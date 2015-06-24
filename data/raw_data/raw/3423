@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Thing 20 2014: Google Docs and Dropbox | 23 Things for Research</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://blogs.bodleian.ox.ac.uk/23things/wp-content/themes/twentyeleven-bodleian/style.css" />
+<link rel="pingback" href="http://blogs.bodleian.ox.ac.uk/23things/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://blogs.bodleian.ox.ac.uk/23things/wp-content/themes/twentyeleven-bodleian/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="23 Things for Research &raquo; Feed" href="http://blogs.bodleian.ox.ac.uk/23things/feed/" />
+<link rel="alternate" type="application/rss+xml" title="23 Things for Research &raquo; Comments Feed" href="http://blogs.bodleian.ox.ac.uk/23things/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="23 Things for Research &raquo; Thing 20 2014: Google Docs and Dropbox Comments Feed" href="http://blogs.bodleian.ox.ac.uk/23things/thing-20-2014/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blogs.bodleian.ox.ac.uk\/23things\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='moztheme2011-css'  href='http://blogs.bodleian.ox.ac.uk/23things/wp-content/plugins/twenty-eleven-theme-extensions/moztheme2011.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='output-css'  href='http://blogs.bodleian.ox.ac.uk/23things/wp-content/plugins/addthis/css/output.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://blogs.bodleian.ox.ac.uk/23things/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-29066209-6']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/23things/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/23things/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.bodleian.ox.ac.uk/23things/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.bodleian.ox.ac.uk/23things/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Bonus Thing 6 2014: Researcher identifiers and your publication profile' href='http://blogs.bodleian.ox.ac.uk/23things/bonus-thing-6-2014/' />
+<link rel='next' title='Thing 21 2014: Hangouts, Skype and more' href='http://blogs.bodleian.ox.ac.uk/23things/thing-21-2014-2/' />
+<meta name="generator" content="WordPress 4.2.2" />
+<link rel='canonical' href='http://blogs.bodleian.ox.ac.uk/23things/thing-20-2014/' />
+<link rel='shortlink' href='http://wp.me/p3ZSI0-9U' />
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">#branding {
+  background: #21b7ea;
+}
+
+#branding img {
+  height: auto;
+  width: auto;
+  margin: 5px;
+  float: left;
+}
+
+#branding hgroup {
+  margin: 5px 0 90px 15px;
+}
+
+#branding hgroup h1  {
+  clear: right;
+  padding: 5px 0;
+  color: #fff;
+}
+
+#branding hgroup h2#site-description {
+ clear: right;
+  padding: 5px 0;
+  color: #fff;
+font-weight: bold
+
+}
+
+#cookies_notification #cookies_notification_text {
+  color: #fff !important;
+}
+
+#branding #searchform {
+  display: none
+}
+
+@media (max-width: 650px) {
+  #branding hgroup {
+    margin-bottom: 5px;
+  }
+
+  #cookies_notification #cookies_notification_text {
+    color: #ccc !important;
+  }
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f2f2f2; background-image: url('http://blogs.bodleian.ox.ac.uk/23things/files/2012/09/2lbco5u.gif'); background-repeat: repeat; background-position: top left; background-attachment: scroll; }
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Thing 20 2014: Google Docs and Dropbox" />
+<meta property="og:url" content="http://blogs.bodleian.ox.ac.uk/23things/thing-20-2014/" />
+<meta property="og:description" content="Thing 20 allows you to explore different tools for online collaboration and file-sharing - as well as the benefits of using these tools for your individual work. It can be frustrating to work on gr..." />
+<meta property="article:published_time" content="2014-11-24T07:26:04+00:00" />
+<meta property="article:modified_time" content="2014-11-13T21:10:26+00:00" />
+<meta property="article:author" content="http://blogs.bodleian.ox.ac.uk/23things/author/liz.mccarthy/" />
+<meta property="og:site_name" content="23 Things for Research" />
+<meta property="og:image" content="http://blogs.bodleian.ox.ac.uk/23things/files/2014/11/142455033_49ce50a89b.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:image" content="http://blogs.bodleian.ox.ac.uk/23things/files/2014/11/142455033_49ce50a89b.jpg?w=240" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:creator" content="@bodleianlibs" />
+</head>
+
+<body class="single single-post postid-614 single-format-standard custom-background single-author two-column right-sidebar moz-sidebar-adjust moz-nav-adjust">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+
+                                                  			<div class="textwidget"><img src="/23things/files/2012/09/engage-e-with-hat-68tall.jpg" alt="Engage" />
+<hgroup>
+  <h1 id="site-title"><span><a href="/23things/" title="23 Things for Research" rel="home">23 Things for Research</a></span></h1>
+  <h2 id="site-description" style="color: #fff;">An online learning programme for researchers, students and staff at the University of Oxford</h2>
+</hgroup></div>
+		                        
+			
+								<form method="get" id="searchform" action="http://blogs.bodleian.ox.ac.uk/23things/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://blogs.bodleian.ox.ac.uk/23things/all-about-23-things/">All about 23 Things</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="http://blogs.bodleian.ox.ac.uk/23things/schedule/">The 23 Things for Research schedule</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="http://blogs.bodleian.ox.ac.uk/23things/sign-up/">Sign up for 23 Things</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="http://blogs.bodleian.ox.ac.uk/23things/reflective-writing/">Reflective writing</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="http://blogs.bodleian.ox.ac.uk/23things/links/">Links</a></li>
+</ul></div>			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<div id="primary">
+			<div id="content" role="main">
+
+				
+					<nav id="nav-single">
+						<h3 class="assistive-text">Post navigation</h3>
+						<span class="nav-previous"><a href="http://blogs.bodleian.ox.ac.uk/23things/bonus-thing-6-2014/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-21-2014-2/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+					
+<article id="post-614" class="post-614 post type-post status-publish format-standard hentry category-thing-20">
+	<header class="entry-header">
+		<h1 class="entry-title">Thing 20 2014: Google Docs and Dropbox</h1>
+
+				<div class="entry-meta">
+			<span class="sep">Posted on </span><a href="http://blogs.bodleian.ox.ac.uk/23things/thing-20-2014/" title="8:26 am" rel="bookmark"><time class="entry-date" datetime="2014-11-24T08:26:04+00:00" pubdate>November 24, 2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/23things/author/liz.mccarthy/" title="View all posts by Liz McCarthy" rel="author">Liz McCarthy</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div id="attachment_615" style="width: 510px" class="wp-caption aligncenter"><a href="https://www.flickr.com/photos/33128961@N00/142455033/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.flickr.com/photos/33128961@N00/142455033/', '']);" ><img class="wp-image-615 size-full" src="http://blogs.bodleian.ox.ac.uk/23things/files/2014/11/142455033_49ce50a89b.jpg" alt="Working together..." width="500" height="321" /></a><p class="wp-caption-text">Working together&#8230;</p></div>
+<p>Thing 20 allows you to explore different tools for online collaboration and file-sharing &#8211; as well as the benefits of using these tools for your individual work.</p>
+<p>It can be frustrating to work on group documents; keeping track of versions is difficult, and emailing round updated copies every day is time consuming. Being able to store and edit documents online can help solve these problems, and tools like Google Drive (formerly Google docs) and Dropbox make it possible.</p>
+<p><strong>Google docs</strong><br />
+One of the main purposes of Google Drive (formerly Google Docs) is to allow multiple people to edit the same document, spreadsheet or presentation without creating duplicate copies. Documents can either be uploaded or created from scratch within Google Drive and the fact that everyone can access the file in one place means that it is much simpler to edit and update. This can be very useful for researchers who are collaborating on a project; for this 23 Things programme we used Google Docs to store and share post content and schedule.</p>
+<p><strong>Considerations<br />
+</strong>Before sharing any material on these services, consider the following questions:</p>
+<h4><em>What kind of material are you sharing, and is it appropriate for your chosen platform?<br />
+</em>Does the material you are sharing contain sensitive information? If so, is sharing it on any of these cloud-based services the best way to disseminate it? Consider security measures such as encryption to protect your data.</h4>
+<h4></h4>
+<h4><em>Are you allowed to share this material?</em><br />
+You must only share material in which you own copyright, or have the appropriate rights to do so. While there are limited provisions under copyright law that allow material to be shared online, sharing copyright material through these services without explicit or implicit permission from the copyright owner may infringe their copyright.</h4>
+<h4></h4>
+<h4><em>With whom are you sharing this material?</em><br />
+Only share material with individuals you trust. Use private folders to restrict access to this material, and if publishing or sharing links to these folders, make sure to only send them to their intended recipients.  Frequently review who has access to your shared folders, and update access to them regularly.</h4>
+<h4></h4>
+<h4><em>How are you sharing this material?<br />
+</em>Only use cloud-based services on computers that are secure against online threats such as viruses and key-logging software. If using mobile devices, make sure you are connected to the internet using an encrypted WiFi network. If you cease using a particular device or computer, make sure you deauthorise any cloud-based services from these devices.</h4>
+<p><strong>Task:</strong><br />
+Accessing Google Drive is quite straightforward: simply <a href="http://drive.google.com/#my-drive" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://drive.google.com/#my-drive', 'login']);" >login</a> with the same username and password that you would use to access your Google account. If you don’t have a Google account, you can quickly set one up by clicking <a href="https://www.google.com/accounts/NewAccount" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.google.com/accounts/NewAccount', 'here']);" >here</a> and completing the online form.</p>
+<p>Once you have logged in to Google Drive, click ‘Create’ and choose what kind of document you would like to create – such as a spreadsheet, word-processing document or a presentation.</p>
+<p>Create your document and it will save automatically, or you can force a save by pressing Ctrl+s.</p>
+<p>Now you are ready to share your document, either with a colleague or even with another 23 Things participant if you wish! Click on the ‘Share’ button in the top right-hand corner of the screen. In the ‘Add People’ box, enter the email address of the person with whom you would like to share the document and decide whether you will allow them to edit the document or just to view it. Click ‘Share’ and this person will now receive an email with a direct link to your document.</p>
+<p><strong>Dropbox</strong><br />
+Dropbox is a free desktop application which allows you to store your documents online so that you can access them from multiple computers.</p>
+<p>Like Google Docs, Dropbox can also be used when collaborating with others on a project as it enables easy file-sharing without the need for creating duplicates. For example, one person can drop documents and files into Dropbox and then invite other people to access and edit those files.</p>
+<p><strong>Task</strong><br />
+If you don’t already have a Dropbox account, go to the <a href="https://www.dropbox.com/register" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.dropbox.com/register', 'Dropbox website']);" >Dropbox website</a> and create one. Once you have created an account, you will be directed to a page that explains how to download Dropbox.</p>
+<p>After you have downloaded and installed Dropbox, you will have a Dropbox folder on your computer where you can store any files that you want to share with others. You can access these files from any computer by logging into the Dropbox website with your username and password. From here, you can view, download and upload files securely using any web browser.</p>
+<p><em>Sharing documents using Dropbox<br />
+</em>Sharing with someone who already has a Dropbox account:<br />
+Go to the Dropbox website, log in if you aren&#8217;t already logged in, and click on the tab called ‘Sharing’.</p>
+<p>Select the option to share an existing folder or create a new one, click ‘next’ and then select your folder. Enter the email address of someone with whom you wish to share your folder and click ‘share folder’. This will send an email inviting the recipient to view your folder via Dropbox. If the recipient is not yet a member of Dropbox, the email will direct them to page asking them to register.</p>
+<p>Sharing with someone who does not have a Dropbox account:<br />
+Dropbox will also allow you to share with people who do not have a Dropbox account. Simply hover over the right-hand side of the listing in your online account and click &#8216;share link&#8217;, then either email the link or use the &#8216;get link&#8217; button to copy the URL. This will give you a URL which links to your file and you can then paste this, for example, into emails or blog posts in order to share it with others.</p>
+<p><strong>Blog post</strong><br />
+Write about your first impressions of any or all of these tools and/or their potential uses for your work. If you are already using one or more of them, you could write about the kinds of projects for which they have been useful. If you wish, you could also compare and contrast the value of each of these different tools and consider how they could be used to further your own professional development. Tag your post &#8216;Thing 20&#8242;.</p>
+<p><strong>Exploring further</strong><br />
+Dropbox and Google Drive aren&#8217;t the only tools that allow you to organise your documents and notes online. Take a look at <a href="http://evernote.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://evernote.com/', 'Evernote']);" >Evernote</a>, <a href="https://springpad.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://springpad.com/', 'Springpad']);" >Springpad</a> (and <a href="http://lifehacker.com/should-i-use-springpad-or-evernote-504486764" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://lifehacker.com/should-i-use-springpad-or-evernote-504486764', 'compare the two']);" >compare the two</a>) or even <a href="http://office.microsoft.com/en-gb/onenote/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://office.microsoft.com/en-gb/onenote/', 'OneNote']);" >OneNote</a>.</p>
+<div class="addthis_toolbox addthis_default_style " addthis:url='http://blogs.bodleian.ox.ac.uk/23things/thing-20-2014/' addthis:title='Thing 20 2014: Google Docs and Dropbox '  ><a class="addthis_button_facebook_like" fb:like:layout="button_count"></a><a class="addthis_button_tweet"></a><a class="addthis_button_pinterest_pinit"></a><a class="addthis_counter addthis_pill_style"></a></div>			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-20/" rel="category tag">Thing 20</a> by <a href="http://blogs.bodleian.ox.ac.uk/23things/author/liz.mccarthy/">Liz McCarthy</a>. Bookmark the <a href="http://blogs.bodleian.ox.ac.uk/23things/thing-20-2014/" title="Permalink to Thing 20 2014: Google Docs and Dropbox" rel="bookmark">permalink</a>.		
+			</footer><!-- .entry-meta -->
+</article><!-- #post-614 -->
+
+						<div id="comments">
+	
+	
+			<h2 id="comments-title">
+			One thought on &ldquo;<span>Thing 20 2014: Google Docs and Dropbox</span>&rdquo;		</h2>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-19758">
+		<article id="comment-19758" class="comment">
+			<footer class="comment-meta">
+				<div class="comment-author vcard">
+					<img alt='' src='http://2.gravatar.com/avatar/e478a1f5b3c7d19d9f2a259414ae9dc6?s=68&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/e478a1f5b3c7d19d9f2a259414ae9dc6?s=136&amp;d=mm&amp;r=g 2x' class='avatar avatar-68 photo' height='68' width='68' /><span class="fn"><a href='http://mundoadvertisement.blogspot.com.es/' rel='external nofollow' class='url'>KUMAR, DINESH</a></span> on <a href="http://blogs.bodleian.ox.ac.uk/23things/thing-20-2014/#comment-19758"><time pubdate datetime="2014-12-07T02:19:22+00:00">December 7, 2014 at 2:19 am</time></a> <span class="says">said:</span>
+									</div><!-- .comment-author .vcard -->
+
+				
+			</footer>
+
+			<div class="comment-content"><p>Useful info!!</p>
+</div>
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/23things/thing-20-2014/?replytocom=19758#respond' onclick='return addComment.moveForm( "comment-19758", "19758", "respond", "614" )' aria-label='Reply to KUMAR, DINESH'>Reply <span>&darr;</span></a>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol>
+
+		
+	
+				
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/23things/thing-20-2014/#respond" style="display:none;">Cancel reply</a></small></h3>
+			<div id="commentform" class="comment-form">
+				<iframe src="http://jetpack.wordpress.com/jetpack-comment/?blogid=59077320&#038;postid=614&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Leave+a+Reply&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en-US&#038;jetpack_version=3.5.3&#038;sig=633abccb79f4d7b47d42bc9f91b7233302bd486f#parent=http%3A%2F%2Fblogs.bodleian.ox.ac.uk%2F23things%2Fthing-20-2014%2F" allowtransparency="false" style="width:100%; height: 430px;border:0px;" frameBorder="0" scrolling="no" name="jetpack_remote_comment" id="jetpack_remote_comment"></iframe>
+			</div>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+		</div><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="addthis-widget-2" class="widget atwidget"><div class="addthis_toolbox addthis_default_style addthis_"  ><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_email"></a><a class="addthis_button_pinterest_share"></a><a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a></div></aside><aside id="search-2" class="widget widget_search">	<form method="get" id="searchform" action="http://blogs.bodleian.ox.ac.uk/23things/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-23-2014/">Thing 23 2014: Wrap up</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-21-2014/">Thing 22 2014: Using Doodle and other online scheduling tools</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-21-2014-2/">Thing 21 2014: Hangouts, Skype and more</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/thing-20-2014/">Thing 20 2014: Google Docs and Dropbox</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/23things/bonus-thing-6-2014/">Bonus Thing 6 2014: Researcher identifiers and your publication profile</a>
+						</li>
+				</ul>
+		</aside><aside id="linkcat-60" class="widget widget_links"><h3 class="widget-title">2014 Participants</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://rockonaroll.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://rockonaroll.wordpress.com/', 'A Rock on a Roll']);" >A Rock on a Roll</a></li>
+<li><a href="http://bigbrowncat.tumblr.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://bigbrowncat.tumblr.com/', 'Big Brown Cat']);" >Big Brown Cat</a></li>
+<li><a href="http://digitaldithering.tumblr.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://digitaldithering.tumblr.com/', 'Digital Ditherings']);" >Digital Ditherings</a></li>
+<li><a href="http://filigranesandfibres.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://filigranesandfibres.wordpress.com/', 'Filigranes and Fibres']);" >Filigranes and Fibres</a></li>
+<li><a href="http://jakethepony.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://jakethepony.wordpress.com/', 'Jake the Pony']);" >Jake the Pony</a></li>
+<li><a href="http://latinamericandevelopment.blogspot.co.uk/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://latinamericandevelopment.blogspot.co.uk/', 'Latin American Development']);" >Latin American Development</a></li>
+<li><a href="http://annewelsh.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://annewelsh.wordpress.com/', 'Library Marginalia']);" >Library Marginalia</a></li>
+<li><a href="http://mishonstatements.blogspot.co.uk/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://mishonstatements.blogspot.co.uk/', 'Mish on Statements']);" >Mish on Statements</a></li>
+<li><a href="http://newbieresearcher.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://newbieresearcher.wordpress.com/', 'Newbie Researcher']);" >Newbie Researcher</a></li>
+<li><a href="http://procrastinationoxford.org/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://procrastinationoxford.org/', 'Procrastination Oxford']);" >Procrastination Oxford</a></li>
+<li><a href="http://psylina.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://psylina.wordpress.com/', 'Psylina Psays']);" >Psylina Psays</a></li>
+<li><a href="http://roomb100.tumblr.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://roomb100.tumblr.com/', 'Room B100']);" >Room B100</a></li>
+<li><a href="http://talesofatraineelibrarian.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://talesofatraineelibrarian.wordpress.com/', 'Tales of a Trainee Librarian']);" >Tales of a Trainee Librarian</a></li>
+<li><a href="http://theclerkstale.wordpress.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://theclerkstale.wordpress.com/', 'The Clerk\'s Tale']);" >The Clerk&#039;s Tale</a></li>
+<li><a href="http://thingsbrightandshiny.blogspot.ie/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://thingsbrightandshiny.blogspot.ie/', 'Things Bright and Shiny']);" >Things Bright and Shiny</a></li>
+<li><a href="http://swyved.tumblr.com/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://swyved.tumblr.com/', 'This Is Swyved']);" >This Is Swyved</a></li>
+<li><a href="http://www.tonahangen.com/blog/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.tonahangen.com/blog/', 'Tona Hangen']);" >Tona Hangen</a></li>
+
+	</ul>
+</aside>
+<aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-61"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/bonus-thing/" >Bonus Thing</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/guest-posts/" >Guest Posts</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-1/" >Thing 1</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-10/" >Thing 10</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-11/" >Thing 11</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-12/" >Thing 12</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-13/" >Thing 13</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-14/" >Thing 14</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-15/" >Thing 15</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-16/" >Thing 16</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-17/" >Thing 17</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-18/" >Thing 18</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-19/" >Thing 19</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-2/" >Thing 2</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-20/" >Thing 20</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-21/" >Thing 21</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-22/" >Thing 22</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-23/" >Thing 23</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-3/" >Thing 3</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-4/" >Thing 4</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-5/" >Thing 5</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-6/" >Thing 6</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-7/" >Thing 7</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-8/" >Thing 8</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/thing-9/" >Thing 9</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/updates/" >Updates</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://blogs.bodleian.ox.ac.uk/23things/category/welcome/" >Welcome</a>
+</li>
+		</ul>
+</aside><aside id="text-4" class="widget widget_text"><h3 class="widget-title">Subscribe by RSS</h3>			<div class="textwidget"><div><a href="/23things/feed" title="Subscribe by RSS"><img src="/wp-content/themes/twentyeleven-shakespeare/images/rss32.png" alt="RSS"></a>
+</div>
+	</div>
+		</aside><aside id="text-8" class="widget widget_text"><h3 class="widget-title">Subscribe by email</h3>			<div class="textwidget"><a href="http://blogs.bodleian.ox.ac.uk/23things/wp-admin/admin.php?page=s2">Sign up</a> to receive notifications of new posts by email.</div>
+		</aside><aside id="text-5" class="widget widget_text"><h3 class="widget-title">Creative Commons</h3>			<div class="textwidget"><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB', '']);" rel="license"><img alt="Creative Commons Licence" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span>23 Things for Research</span> is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_GB', 'Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License']);" rel="license">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</div>
+		</aside>		</div><!-- #secondary .widget-area -->
+
+  </div><!-- #main -->
+
+  <footer id="colophon" role="contentinfo">
+    
+
+    <div id="site-generator">
+              <div class="widget-area">
+          <aside id="text-6" class="widget widget_text">			<div class="textwidget"><a href="http://www.bodleian.ox.ac.uk/"><img style="margin-right: 25px" src="/23things/files/2014/01/bodleian.png" alt="Bodleian Libraries"></a>
+
+<a href="http://www.it.ox.ac.uk/"><img style="margin-left: 25px" src="/23things/files/2012/09/iTservices91x80.png" alt="IT Services"></a>
+
+<p>
+  &copy; 2012 <a href="http://www.bodleian.ox.ac.uk/">Bodleian Libraries</a>
+  |
+  <a href="/23things/accessibility">Accessibility</a>
+  |
+  <a href="/23things/terms-of-use">Terms of Use</a>
+  |
+  <a href="/23things/cookies">Cookies</a>
+</p></div>
+		</aside>        </div>
+      
+    </div>
+
+  </footer><!-- #colophon -->
+
+  <style type="text/css">/* <![CDATA[ */
+.cookie-policy, .cookie-policy .grid {
+  background: url('http://www.bodleian.ox.ac.uk/__data/assets/image/0018/116505/footer-pattern.png') repeat-x 0 -3px black;
+}
+.cookie-policy {
+  color: white;
+  font-size: 0.857em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.cookie-policy .grid {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1008px;
+}
+.cookie-policy .grid .twelve {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 978px;
+}
+.cookie-policy a.close {
+  background: url('http://www.bodleian.ox.ac.uk/__data/assets/image/0010/116497/close-cookie-policy-box.jpg') scroll no-repeat center center transparent;
+  display: block;
+  float: right;
+  margin: 3px 0 0 20px;
+  height: 18px;
+  width: 18px;
+}
+.cookie-policy .detail.for-desktop {
+  display: block;
+}
+.cookie-policy .detail.for-mobile {
+  display: none;
+}
+.cookie-policy .detail {
+  color: #bebebe;
+  padding: 3px 0;
+}
+.cookie-policy .detail a {
+  color: #ffffff;
+}
+.cookie-policy p {
+  margin: 2px 0;
+  font: 12px 'Arial', sans-serif;
+}
+/* ]]> */</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="application/javascript">
+/* Close cookie policy notice */
+function createCookie(name, value, days) {
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    var expires = "; expires=" + date.toGMTString();
+  } else var expires = "";
+  document.cookie = name + "=" + value + expires + "; path=/";
+}
+
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+  }
+  return null;
+}
+
+function eraseCookie(name) {
+  createCookie(name, "", -1);
+}
+jQuery(function(){
+  jQuery('.cookie-policy a.close').click(function (e) {
+    e.preventDefault();
+    jQuery('.cookie-policy').hide();
+    createCookie('groupCookiePolicyClosed', 1, 30);
+  });
+  if (readCookie('groupCookiePolicyClosed')) {
+    jQuery('.cookie-policy a.close').parent().hide();
+  }
+});
+/* Close cookie policy - end*/
+</script>
+<div class="cookie-policy">
+  <div class="grid">
+    <div class="twelve">
+      <a href="#" title="Accept and close" class="close"></a>
+      <p class="detail for-desktop">This site uses cookies to support some content and functions, and also Google Analytics. By using this site you agree to their use. <a href="http://blogs.bodleian.ox.ac.uk/cookies">Find out more and opt out &raquo;</a></p>
+      <p class="detail for-mobile"><a href="http://blogs.bodleian.ox.ac.uk/cookies">This site uses cookies to support some content and functions, and also Google Analytics &raquo;</a></p>
+    </div>
+  </div>
+</div>
+</div><!-- #page -->
+
+	<div style="display:none">
+	<div class="grofile-hash-map-e478a1f5b3c7d19d9f2a259414ae9dc6">
+	</div>
+	</div>
+<script type="text/javascript">
+
+var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-4.0.7';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-50703cbb55109449"></script><script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/23things/wp-content/plugins/akismet/_inc/form.js?ver=3.1.1'></script>
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/23things/wp-includes/js/comment-reply.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201525'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Junaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/23things/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.2.2'></script>
+
+		<!--[if IE]>
+		<script type="text/javascript">
+		if ( 0 === window.location.hash.indexOf( '#comment-' ) ) {
+			// window.location.reload() doesn't respect the Hash in IE
+			window.location.hash = window.location.hash;
+		}
+		</script>
+		<![endif]-->
+		<script type="text/javascript">
+			var comm_par_el = document.getElementById( 'comment_parent' ),
+			    comm_par = (comm_par_el && comm_par_el.value) ? comm_par_el.value : '',
+			    frame = document.getElementById( 'jetpack_remote_comment' ),
+			    tellFrameNewParent;
+
+			tellFrameNewParent = function() {
+				if ( comm_par ) {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=59077320&postid=614&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.5.3&sig=633abccb79f4d7b47d42bc9f91b7233302bd486f#parent=http%3A%2F%2Fblogs.bodleian.ox.ac.uk%2F23things%2Fthing-20-2014%2F" + '&replytocom=' + parseInt( comm_par, 10 ).toString();
+				} else {
+					frame.src = "http://jetpack.wordpress.com/jetpack-comment/?blogid=59077320&postid=614&comment_registration=0&require_name_email=1&stc_enabled=1&stb_enabled=1&show_avatars=1&avatar_default=mystery&greeting=Leave+a+Reply&greeting_reply=Leave+a+Reply+to+%25s&color_scheme=light&lang=en-US&jetpack_version=3.5.3&sig=633abccb79f4d7b47d42bc9f91b7233302bd486f#parent=http%3A%2F%2Fblogs.bodleian.ox.ac.uk%2F23things%2Fthing-20-2014%2F";
+				}
+			};
+
+	
+			if ( 'undefined' !== typeof addComment ) {
+				addComment._Jetpack_moveForm = addComment.moveForm;
+
+				addComment.moveForm = function( commId, parentId, respondId, postId ) {
+					var returnValue = addComment._Jetpack_moveForm( commId, parentId, respondId, postId ), cancelClick, cancel;
+
+					if ( false === returnValue ) {
+						cancel = document.getElementById( 'cancel-comment-reply-link' );
+						cancelClick = cancel.onclick;
+						cancel.onclick = function() {
+							var cancelReturn = cancelClick.call( this );
+							if ( false !== cancelReturn ) {
+								return cancelReturn;
+							}
+
+							if ( !comm_par ) {
+								return cancelReturn;
+							}
+
+							comm_par = 0;
+
+							tellFrameNewParent();
+
+							return cancelReturn;
+						};
+					}
+
+					if ( comm_par == parentId ) {
+						return returnValue;
+					}
+
+					comm_par = parentId;
+
+					tellFrameNewParent();
+
+					return returnValue;
+				};
+			}
+
+	
+			if ( window.postMessage ) {
+				if ( document.addEventListener ) {
+					window.addEventListener( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				} else if ( document.attachEvent ) {
+					window.attachEvent( 'message', function( event ) {
+						if ( "http:\/\/jetpack.wordpress.com" !== event.origin ) {
+							return;
+						}
+
+						jQuery( frame ).height( event.data );
+					} );
+				}
+			}
+		</script>
+
+	<script type='text/javascript' src='http://stats.wp.com/e-201525.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'59077320',post:'614',tz:'1',srv:'blogs.bodleian.ox.ac.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '59077320', '614' ]);
+</script>
+<!--wp_footer-->
+</body>
+</html>

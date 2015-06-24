@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<head>
+
+<title>Health</title>
+<meta http-equiv='content-type' content='text/html; charset=utf-8' />
+<meta name='keywords' content="Lincoln College Oxford Turl Street England U.K."/>
+<meta name='description' content=""/>
+<script>window.siteRoot = '';window.uploadDir = '/uploads/';window.mediaDir = window.uploadDir + 'media/';</script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script type='text/javascript'>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36665038-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<meta name='viewport' content='width=1090, maximum-scale=1.5' />
+<link rel='shortcut icon' href='/favicon.ico' />
+
+<link rel='stylesheet' type='text/css' href='/css/normalize.css' />
+<link href='http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Cabin+Condensed:400,500,600,700' rel='stylesheet' type='text/css'>
+<link rel='stylesheet' type='text/css' href='/css/style.css' />
+<link rel='stylesheet' href='/twitter/jquery.rareform.tweet.css' />
+
+
+<link rel='stylesheet' href='/js/royalslider/royalslider.css'>
+<link rel='stylesheet' href='/js/royalslider/skins/default/rs-default.css'>
+<link rel='stylesheet' href='/js/royalslider/fullWidthNoOverflow.css'>
+<script src='/js/royalslider/jquery-1.8.3.min.js'></script>
+<script src='/js/royalslider/jquery.royalslider.min.js'></script>
+<script type='text/javascript' charset='utf-8' src='/twitter/jquery.tweet.js'></script>
+
+
+<!--[if lte IE 9]>
+	<link rel="stylesheet" type="text/css" href="css/ie9.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="css/ie8.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" href="css/ie7.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script>window.html5 || document.write('<script src="js/html5.js"><\/script>')</script>
+<![endif]-->
+
+</head>
+
+<body>
+
+<div id='topBar'>
+	<div class='innerDiv'>
+		<ul>
+			<li><a href='/Latest-News?tag=Event'>Events</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li><a href='/Latest-News'>News</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li><a href='/contact'>Contact</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li class='navTwitter'><a href='https://twitter.com/LincolnAlumni' target='_blank'><img src='/images/twitterTopBar.png' alt='follow us on twitter' /></a></li>
+			<li class='navFacebook'><a href='https://www.facebook.com/lincolnoxalumni' target='_blank'><img src='/images/facebookTopBar.png' alt='like us on facebook' /></a></li>
+		</ul>
+	</div>
+</div>
+
+<div id='menuBlock'>
+	<div class='innerDiv'>
+		<a href='/./'>
+			<img id='logo' alt='Lincoln Arms' src='/images/logo.png' width='204' height='42' />
+		</a>
+		<div id='nav'>
+			<ul class='sm0'>
+<li><a href='/Home'><span class='sm0i'>Home</span></a></li>
+<li><a href='/Rectors-Welcome'><span class='sm0i'>About Lincoln</span></a></li>
+<li><a href='/Why-Choose-Lincoln'><span class='sm0i'>Admissions</span></a></li>
+<li class='menuthis'><a href='/Current-Students-landing-page'><span class='sm0i'>Current Students</span></a></li>
+<li><a href='/LP-Fellows'><span class='sm0i'>Fellows &amp; Staff</span></a></li>
+<li><a href='/Alumni'><span class='sm0i'>Alumni</span></a></li>
+<li><a href='/Conferencing-at-Lincoln'><span class='sm0i'>Conferences at Lincoln</span></a></li>
+</ul>		</div>
+	</div>
+</div>
+
+
+<div class='rsWrap'>
+  <div class='sliderContainer fullWidth clearfix'>
+    <div id='full-width-slider' class='royalSlider heroSlider rsMinW visibleNearby'>
+
+      <div class='rsContent'>
+        <img class='rsImg' src='/uploads/media/genericSliderPics/Lincoln Pictures 215.jpg' alt='' width='972' height='295' data-rsw='972' data-rsh='295' />
+      </div>
+
+    
+      <div class='rsContent'>
+        <img style='display:block; margin-left:auto; margin-right:auto;' class='rsImg' src='/uploads/media/genericSliderPics/Lincoln Pictures 410.jpg' alt='Lincoln College' width='972' height='295' data-rsw='972' data-rsh='295' />
+      </div>
+      
+      <div class='rsContent'>
+        <img class='rsImg' src='/uploads/media/genericSliderPics/Lincoln Pictures 096.jpg' alt='' width='972' height='295' data-rsw='972' data-rsh='295' />
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script id='addJS'>
+jQuery(document).ready(function($) {
+  $('#full-width-slider').royalSlider({
+    addActiveClass: true,
+    arrowsNav: true,
+    loop: false,
+    keyboardNavEnabled: true,
+    controlsInside: false,
+    imageScaleMode: 'none',
+    arrowsNavAutoHide: false,
+    autoScaleSlider: false, 
+    autoScaleSliderWidth: 972,     
+    autoScaleSliderHeight: 295,
+    slidesSpacing: 0,
+    controlNavigation: 'none',
+    thumbsFitInViewport: false,
+    navigateByClick: false,
+    startSlideId: 1,
+    autoPlay: true,
+    transitionType:'move',
+    globalCaption: false,
+    deeplinking: {
+      enabled: true,
+      change: false
+    },
+
+    /* size of all images http://help.dimsemenov.com/kb/royalslider-jquery-plugin-faq/adding-width-and-height-properties-to-images */
+    imgWidth: 972,
+    imgHeight: 295
+  }).data('royalSlider');
+});
+</script>
+
+<div class='underSlider home'></div>
+
+<div class='columnContainer'>
+  <div class='innerDiv'>
+    <div class='leftSideNav'>
+      
+          <h3 class='fellowsSideNav'>
+            Current Students
+          </h3><ul class='sm0'>
+<li><a href='/Current-Students-landing-page'><span class='sm0i'>Current Students</span></a></li>
+<li class='menuthis'><a href='/Domestic'><span class='sm0i'>Domestic</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/JCR'><span class='sm1i'>JCR</span></a></li>
+<li><a href='/MCR'><span class='sm1i'>MCR</span></a></li>
+<li><a href='/Undergraduate-Accommodation'><span class='sm1i'>Undergraduate Accommodation</span></a></li>
+<li><a href='/Grad-Accommodation'><span class='sm1i'>Graduate Accommodation</span></a></li>
+<li><a href='/Meals'><span class='sm1i'>Meals</span></a></li>
+<li class='menuthis leaf'><a href='/Health'><span class='sm1i'>Health and Welfare</span></a></li>
+<li><a href='https://www.linc.ox.ac.uk/SGR-Booking-Enquiry-Form'><span class='sm1i'>Student Guest Room Booking</span></a></li>
+<li><a href='/College-policies-students'><span class='sm1i'>College policies for students</span></a></li>
+<li><a href='/Download-the-Lincoln-App'><span class='sm1i'>Download the Lincoln App</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Academic'><span class='sm0i'>Academic</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/term-dates'><span class='sm1i'>Term Dates</span></a></li>
+<li><a href='/Examination-Information'><span class='sm1i'>Examination Information</span></a></li>
+<li><a href='/Library-User-FAQs'><span class='sm1i'>Library User FAQs</span></a></li>
+<li><a href='/IT-at-Lincoln'><span class='sm1i'>IT at Lincoln</span></a></li>
+<li><a href='/Graduation-Ceremonies'><span class='sm1i'>Graduation Ceremonies</span></a></li>
+<li><a href='/Transcripts'><span class='sm1i'>Transcripts</span></a></li>
+<li><a href='/Grants-and-Awards'><span class='sm1i'>Awards for Academic Achievements</span></a></li>
+<li><a href='https://weblearn.ox.ac.uk/portal'><span class='sm1i'>Weblearn</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Financial'><span class='sm0i'>Financial</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Grants-and-Awards'><span class='sm1i'>Awards for Academic Achievements</span></a></li>
+<li><a href='/Annual-Fund-Grants'><span class='sm1i'>Annual Fund Grants</span></a></li>
+<li><a href='/Undergraduate-Accommodation'><span class='sm1i'>Undergraduate Accommodation</span></a></li>
+<li><a href='/Grad-Accommodation'><span class='sm1i'>Graduate Accommodation</span></a></li>
+<li><a href='/Meals'><span class='sm1i'>Meals</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Online-Meal-Booking'><span class='sm0i'>Meal Booking</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Online-Meal-Booking'><span class='sm1i'>Online Meal Booking</span></a></li>
+<li><a href='/Weekly-Menus'><span class='sm1i'>Weekly Menus</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/SGR-Booking-Enquiry-Form'><span class='sm0i'>Student Guest Rooms</span></a></li>
+<li><a href='/Room-Booking-Form'><span class='sm0i'>Teaching and Meeting Rooms</span></a></li>
+<li><a href='/Report-Maintenance-Issues'><span class='sm0i'>Report Maintenance Issues</span></a></li>
+<li><a href='http://laundrywatch.laundryserv.co.uk/'><span class='sm0i'>Laundry Watch</span></a></li>
+<li><a href='/Student-Handbook-201112'><span class='sm0i'>Student Handbook 2014-15</span></a></li>
+<li><a href='/Telethon-2015-Applications'><span class='sm0i'>Telethon 2015 Applications</span></a></li>
+</ul>    </div>
+    <div class='rightSideMain generic'>
+      <div class='aFellow'>
+
+
+  <h1 class='wtitle'>Health and Welfare</h1>
+  
+  <div class='mainArticle' style='clear:none;'>
+    
+    <p>Lincoln cares deeply about the health and welfare of its Students, Staff and Fellows. Below, you can find details about where you should go for advice and help both inside college and within the wider university.<br />
+<br />
+<strong><span style="font-size:14px;">Health</span></strong><br />
+<br />
+For physical ailments you should usually consult either the College Doctor (Dr Naomi Drury) or the College Nurse (Ms Midge Curran).&nbsp; The Nurse is generally available to sort out minor illnesses and injuries where you feel you need some help but do not necessarily need to see a doctor. She is also available for a confidential chat and deals with welfare matters too.<br />
+<br />
+Dr Drury&rsquo;s surgery (9 King Edward Street, Oxford, OX1 4JA) is open from 8am to 6pm Monday to Friday, and students should first make an appointment by telephone (01865 242657).<br />
+<br />
+Alternatively, the College Nurse, (phone 279817, email <a href="mailto:nurse@lincoln.ox.ac.uk">nurse@lincoln.ox.ac.uk</a> or <a href="mailto:midge.curran@lincoln.ox.ac.uk">midge.curran@lincoln.ox.ac.uk </a>or contact through the Porters&#39; Lodge), is available at the College Surgery in Chapel Quad at the following times in weeks 0-9:</p>
+
+<table border="1" cellpadding="2" cellspacing="2">
+	<tbody>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">Monday </span></big></small></th>
+			<td>13.00 - 14.00</td>
+			<td>17.00 - 18.00</td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">Tuesday </span></big></small></th>
+			<td>12.00 - 14.00</td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">Wednesday </span></big></small></th>
+			<td>13.00 - 14.00</td>
+			<td>17.00 - 18.00<o:p></o:p></td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">Thursday </span></big></small></th>
+			<td>08.00 - 09.00<o:p></o:p></td>
+			<td>13.00 - 14.00</td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">Friday </span></big></small></th>
+			<td>12.00 - 14.00</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><o:p></o:p></p>
+
+<p>The Lodge (01865 279800) should also be contacted in case of accident or sudden illness and the Porter will call for the doctor or nurse, as appropriate. In emergencies, an ambulance should of course be called straight away, but the Lodge should also be informed so that College Officers such as the Senior Tutor and Dean can be made aware.</p>
+
+<p>Lincoln&nbsp;College&nbsp;students can register with&nbsp;<a href="http://www.studental.co.uk/" target="_blank">Studental</a>, the dental practice at&nbsp;Oxford&nbsp;Brookes&nbsp;University, phone 01865 484608. This practice offers NHS dental care.&nbsp;</p>
+
+<p><span style="font-size:14px;"><strong>Welfare</strong></span><br />
+<br />
+There are a number of people you can contact regarding any difficulties or problems you might experience. The <a href="http://www.lincoln.ox.ac.uk/uploads/files/Student%20Handbook/6.%20Student%20Support%202014.pdf">student handbook</a> includes a more complete list but the College Chaplain and Welfare Officer will be able to advise you in more detail.</p>
+
+<p>It is important to note that both the College Doctor and College Nurse are able and willing to advise people with welfare concerns. Please see details above if you need to get in touch.</p>
+
+<p>Outside college, there is the University Counselling Service and Nightline (both affiliated to the University) and Samaritans, which is independent. Details may be found below. Oxford also has a <a href="http://ousu.org/advice/student-advice-service">student advice service</a> which might be useful.</p>
+
+<p><span style="line-height: 1.6;">Other useful contacts:&nbsp;</span></p>
+
+<table border="1" cellpadding="2" cellspacing="2">
+	<tbody>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">College Lodge: </span></big></small></th>
+			<td>(2)79800</td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">College Doctors: </span></big></small></th>
+			<td>242657* <o:p></o:p></td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">College Nurse: </span></big></small></th>
+			<td>(2)79817 <o:p></o:p></td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">College Chaplain: </span></big></small></th>
+			<td>&nbsp;(2)79789<o:p></o:p></td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">College Office </span></big></small></th>
+			<td>(2)79801/79844/87347</td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">Samaritans: </span></big></small></th>
+			<td>&nbsp;722122</td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">Nightline: </span></big></small></th>
+			<td>(2)70270 <o:p></o:p></td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">Police Station </span></big></small></th>
+			<td>101</td>
+		</tr>
+		<tr>
+			<th scope="col" style="background-color: rgb(83, 94, 123);"><small><big>&nbsp;<span style="color:#FFFFFF;">University Counselling Service </span></big></small></th>
+			<td>&nbsp;(2)70300</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="line-height: 1.6;">For University/College numbers, omit the (2) if ringing internally.</span><br />
+* Note: this surgery number should be used at all times. Callers will be redirected out of hours.</p>
+    
+     
+  </div>
+        </div>
+    </div>
+    
+
+  </div>
+</div>
+
+<div class='footer'>
+	<div class='ifooter'>
+			</div>
+	<div class='tweetBar innerDiv'>
+		<a href='https://twitter.com/LincolnAlumni' target='_blank' /><img class='tweetIcon' src='/images/footerTweet.png' /></a>
+		<!--<p class='footerTweet'>Exciting news! New Lincoln App for iPhones and iPads <a href='https://itunes.apple.com/us/app/lincoln/id660653829?ls=1&mt=8' target='_blank'>https://itunes.apple.com/us/app/lincoln/id660653829?ls=1&mt=8</a> … and Google Play for Android … 3 days ago</p>-->
+        <div class='footerTweet'></div>
+		<div class='tweetNav'>
+			<span id='tweetPrev'><</span>
+			<span id='tweetNext'>></span>
+		</div>
+	</div>
+	<div class='bottomBar innerDiv'>
+		<p><a href='http://tankcms.com' target='_blank' />powered by tank</a> | <a href='http://rareformnewmedia.com/' target='_blank'>web design oxford by rare form</a> | Lincoln College is a Registered Charity no. 1139261</p>
+	</div>
+</div>
+
+<script>
+var numOfTweetsToShow = 20;
+jQuery(function($){
+  $(".footerTweet").tweet({
+  	modpath: '/twitter/',
+    join_text: "auto",
+    username: "LincolnAlumni",
+    count: numOfTweetsToShow,
+    loading_text: "loading tweets...",
+    template: "{text}... {time}"
+  });
+
+  // twitter navigation functionality
+  // disable right click for tweet nav
+  $('.footer .tweetBar .tweetNav').live('contextmenu', function(e){
+	return false;
+  });
+  // disable drag selection for tweetBar
+  $('.footer .tweetBar').attr('unselectable','on').css({
+	'-moz-user-select':'-moz-none',
+	'-moz-user-select':'none',
+	'-o-user-select':'none',
+	'-khtml-user-select':'none', /* you could also put this in a class */
+	'-webkit-user-select':'none',/* and add the CSS class here instead */
+	'-ms-user-select':'none',
+	'user-select':'none'
+  }).bind('selectstart', function(){
+  	return false;
+  });
+
+  var currentTweet = '0';
+  $('.tweet_list li:gt('+currentTweet+')').hide();
+
+  // disable the nav buttons if there is nothing to show
+  var tweetPrevOpacity;
+  var tweetNextOpacity;
+  function checkTweetVal(){
+  	// prev button
+	if (parseFloat(currentTweet)<=0){
+		$('#tweetPrev').css('opacity', '0.4');
+		$('#tweetPrev').css('cursor', 'context-menu');
+
+	} else {
+		$('#tweetPrev').css('opacity', '1.0');
+		$('#tweetPrev').css('cursor', 'pointer');
+	}
+	// next button
+	if (parseFloat(currentTweet)>=parseFloat(numOfTweetsToShow)-1){
+		$('#tweetNext').css('opacity', '0.4');
+		$('#tweetNext').css('cursor', 'context-menu');
+	} else {
+		$('#tweetNext').css('opacity', '1.0');
+		$('#tweetNext:hover').css('cursor', 'pointer');
+	}
+	tweetPrevOpacity = $('#tweetPrev').css('opacity');
+	tweetNextOpacity = $('#tweetNext').css('opacity');
+	//console.log('prev - '+tweetPrevOpacity+',  next - '+tweetNextOpacity);
+  }
+  checkTweetVal();
+ 
+  $('#tweetPrev').click(function(){
+  	checkTweetVal();
+  	if (tweetPrevOpacity === '1'){
+  		if (!$('.tweet_list li:animated').length>0){
+		  	var prevTweet = parseFloat(currentTweet)-1;
+		  	$('.tweet_list li:eq('+currentTweet+')').fadeOut('slow',function(){
+		  		$('.tweet_list li:eq('+prevTweet+')').fadeIn();
+	  		});
+	  		currentTweet = prevTweet;
+	  		//console.log('previous tweet.  currently showing tweet is '+currentTweet);
+	  		checkTweetVal();
+	  	}
+	} else {
+		//console.log('negative value so no going back');
+	}
+  });
+
+  $('#tweetNext').click(function(){
+  	checkTweetVal();
+  	if (tweetNextOpacity === '1'){
+  		if (!$('.tweet_list li:animated').length>0){
+		  	var nextTweet = parseFloat(currentTweet)+1;
+		  	$('.tweet_list li:eq('+currentTweet+')').fadeOut('slow',function(){
+		  		$('.tweet_list li:eq('+nextTweet+')').fadeIn();
+		  	});
+		  	currentTweet = nextTweet;
+		  	//console.log('next tweet.  currently showing tweet is '+currentTweet);
+		  	checkTweetVal();
+		}
+	} else {
+		//console.log('max tweet limit reached, disable click functionality');
+	}
+  });
+});
+
+</script>

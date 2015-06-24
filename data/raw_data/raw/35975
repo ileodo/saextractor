@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+<link rel="apple-touch-icon-precomposed" href="http://www.linacre.ox.ac.uk/sites/all/themes/contrib/omega/omega/apple-touch-icon-precomposed.png" />
+<link rel="apple-touch-icon-precomposed" href="http://www.linacre.ox.ac.uk/sites/all/themes/contrib/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="http://www.linacre.ox.ac.uk/sites/all/themes/contrib/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="http://www.linacre.ox.ac.uk/sites/all/themes/contrib/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="description" content="Linacre College has a number of grants available to existing members to help with travel/expenses relating to conferences/attending research-related events. To apply for one of the grants, please download and complete the relevant form, below, and return to the College Secretary:" />
+<link rel="canonical" href="http://www.linacre.ox.ac.uk/current-members/funding" />
+<link rel="shortlink" href="http://www.linacre.ox.ac.uk/node/621" />
+<link rel="shortcut icon" href="http://www.linacre.ox.ac.uk/sites/default/files/favicon-32.png" type="image/png" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=3" />
+  <title>Funding | Linacre College</title>
+  <link rel="stylesheet" href="http://www.linacre.ox.ac.uk/sites/default/files/css/css_HRTCi2lcXt0aacOpZFdEiqA1Tizbsa7yr02VTZbzhwY.css" media="all" />
+<link rel="stylesheet" href="http://www.linacre.ox.ac.uk/sites/default/files/css/css_xTT42TWq_6gQas_-GI4NrlySlS0sbVcWXIIQ8qVBB9Y.css" media="all" />
+<link rel="stylesheet" href="http://www.linacre.ox.ac.uk/sites/default/files/css/css_4FooS4LRjlSoaoxihOCCgd1ex8RnfgB3f4Uf0coksCg.css" media="screen and (min-width: 1120px)" />
+<link rel="stylesheet" href="http://www.linacre.ox.ac.uk/sites/default/files/css/css_Risqnpnyk6A9062k1s6GQthCcVa_ZuvX9uDLhbqZwC4.css" media="all" />
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="http://www.linacre.ox.ac.uk/sites/default/files/css/css__aA0QzV242AnMXTMp23jw9ZV8NtRXgbv7_zZEV7ytpo.css" media="all" />
+<![endif]-->
+<link rel="stylesheet" href="http://www.linacre.ox.ac.uk/sites/default/files/css/css_ZK13aJ4qnajTQQjc8hLWXicC5_DSE5Sl3Zh8zWp1_Bc.css" media="all" />
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="http://www.linacre.ox.ac.uk/sites/default/files/css/css_k1pC1f_DflUY7mld52ngtawrQCuaNF9YINnncP8tI7Q.css" media="all" />
+<![endif]-->
+  <script src="http://www.linacre.ox.ac.uk/sites/all/libraries/modernizr/modernizr.min.js?nq35er"></script>
+<script>Modernizr.load({
+  test: Modernizr.mq('only all'),
+  yep : ['/sites/all/libraries/hammerjs/hammer.min.js','/sites/all/modules/contrib/responsive_menu/js/responsive_menu.config.js']
+});</script>
+<script src="http://www.linacre.ox.ac.uk/sites/default/files/js/js_zcr7qdJwUJtAs6pdAwwQ_oZEp2PEyYm12ML-ZvtJxAo.js"></script>
+<script src="http://www.linacre.ox.ac.uk/sites/default/files/js/js_oyc7Kk_MWEgcdAFN6EvQhy5Nl9IHa9dZGqTkN2luIl0.js"></script>
+<script>document.createElement( "picture" );</script>
+<script src="http://www.linacre.ox.ac.uk/sites/default/files/js/js_SwbeMYzgaGvHp8WjYNGRHfzqDUGxqE_zTk5E-auMrJo.js"></script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="http://www.linacre.ox.ac.uk/sites/default/files/js/js_XC8dNx_jPgRtqQQIyfljU-ISp6itWLN3-BrCnd-o0Ks.js"></script>
+<![endif]-->
+<script src="http://www.linacre.ox.ac.uk/sites/default/files/js/js__tbqILf1l05j9UgX0cox2UmojxycTr9o8QU8VEEU0Dw.js"></script>
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-16236027-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="http://www.linacre.ox.ac.uk/sites/default/files/js/js_QNvmlwmR5V9h4FzihFw875_IgtTDA-OjM_C6fBqvvAs.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"linacre","theme_token":"FXySBnsRjUuRMBIaIZhVDhQeATKhepkp3tzfQDW2zKk","jquery_version":"1.8","js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.js":1,"sites\/all\/modules\/contrib\/picture\/picture.js":1,"sites\/all\/libraries\/fastclick\/fastclick.js":1,"0":1,"sites\/all\/libraries\/modernizr\/modernizr.min.js":1,"1":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/contrib\/omega\/omega\/js\/no-js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"2":1,"sites\/all\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/color.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"sites\/all\/themes\/custom\/linacre\/libraries\/html5shiv\/html5shiv.min.js":1,"sites\/all\/themes\/custom\/linacre\/libraries\/html5shiv\/html5shiv-printshiv.min.js":1,"sites\/all\/modules\/contrib\/linkit\/js\/linkit.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"misc\/progress.js":1,"sites\/all\/modules\/contrib\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/all\/themes\/custom\/ac_base\/js\/ac-base.behaviors.js":1,"sites\/all\/themes\/custom\/linacre\/js\/linacre.behaviors.js":1,"sites\/all\/themes\/custom\/linacre\/js\/ckeditor.behaviors.js":1,"sites\/all\/themes\/custom\/linacre\/js\/minutes-toggle.js":1},"css":{"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/system\/system.base.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/system\/system.menus.theme.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/system\/system.messages.theme.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/system\/system.theme.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/book\/book.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/field\/field.theme.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/search\/search.theme.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/user\/user.theme.css":1,"sites\/all\/themes\/contrib\/omega\/omega\/css\/modules\/user\/user.base.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/libraries\/colorbox\/example1\/colorbox.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/print\/print_ui\/css\/print_ui.theme.css":1,"sites\/all\/modules\/contrib\/responsive_menu\/css\/responsive_menu.css":1,"sites\/all\/modules\/contrib\/responsive_menu\/css\/responsive_menu_desktop.css":1,"sites\/all\/themes\/custom\/ac_base\/css\/ac-base.normalize.css":1,"sites\/all\/themes\/custom\/ac_base\/css\/ac-base.hacks.css":1,"sites\/all\/themes\/custom\/ac_base\/css\/ac-base.styles.css":1,"sites\/all\/themes\/custom\/linacre\/css\/linacre.normalize.css":1,"sites\/all\/themes\/custom\/linacre\/css\/linacre.hacks.css":1,"sites\/all\/themes\/custom\/linacre\/css\/linacre.styles.css":1,"sites\/all\/themes\/custom\/linacre\/libraries\/jqueryui\/jquery-ui-1.9.2.custom.css":1,"sites\/all\/themes\/custom\/ac_base\/css\/ac-base.no-query.css":1,"sites\/all\/themes\/custom\/linacre\/css\/linacre.no-query.css":1,"all:0":1,"sites\/all\/themes\/custom\/linacre\/css\/layouts\/agile-hero\/ac-base-agile-hero.layout.css":1,"all:1":1}},"colorbox":{"transition":"elastic","speed":"350","opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"linkit":{"autocompletePath":"http:\/\/www.linacre.ox.ac.uk\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"\/linkit\/dashboard\/","currentInstance":{}},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":".*\\.pdf","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"responsive_menu":{"breakpoint":"1120"}});</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-621 node-type-page node-sp-context-active section-current-members">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  <input type="checkbox" id="main-nav-check"/>
+<nav id="menu" class="responsive-menu-wrapper responsive-menu-block menu-name-main-menu">
+  <label for="main-nav-check" class="toggle" onclick="" title="Close">&times;</label>
+  <ul><li class="first expanded menu-mlid-728"><a href="/about-linacre">About Linacre</a><label for="728" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="728" class="sub-nav-check"/><ul id="menu-tree-mlid-728" class="sub-nav"><li class="sub-heading">About Linacre <label for="728" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-2011"><a href="/about-linacre/news">News</a></li>
+<li class="leaf menu-mlid-2012"><a href="/about-linacre/announcements">Announcements</a></li>
+<li class="leaf menu-mlid-2013"><a href="/about-linacre/gallery">Gallery</a></li>
+<li class="expanded menu-mlid-2014"><a href="/about-linacre/events">Events</a><label for="2014" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="2014" class="sub-nav-check"/><ul id="menu-tree-mlid-2014" class="sub-nav"><li class="sub-heading">Events <label for="2014" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first last leaf menu-mlid-2015"><a href="/about-linacre/events/archive">Events archive</a></li>
+</ul></li>
+<li class="expanded menu-mlid-792"><a href="/about-linacre/college-history">College history</a><label for="792" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="792" class="sub-nav-check"/><ul id="menu-tree-mlid-792" class="sub-nav"><li class="sub-heading">College history <label for="792" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-793"><a href="/about-linacre/college-history/thomas-linacre">Thomas Linacre</a></li>
+<li class="last leaf menu-mlid-2017"><a href="/old-members-friends/giving-linacre/named-areas-college" title="">Named areas of College</a></li>
+</ul></li>
+<li class="leaf menu-mlid-1754"><a href="/about-linacre/staff-and-fellows/fellows">Fellows</a></li>
+<li class="leaf menu-mlid-2016"><a href="/about-linacre/staff">Staff</a></li>
+<li class="leaf menu-mlid-797"><a href="/about-linacre/sustainability">Sustainablility</a></li>
+<li class="leaf menu-mlid-2335"><a href="/about-linacre/junior-research-fellowships">Junior Research Fellowships</a></li>
+<li class="leaf menu-mlid-2359"><a href="/about-linacre/senior-associates">Senior Associates</a></li>
+<li class="leaf menu-mlid-796"><a href="/about-linacre/policies-schemes">Policies &amp; schemes</a></li>
+<li class="last leaf menu-mlid-1859"><a href="/about-linacre/vacancies">Vacancies</a></li>
+</ul></li>
+<li class="expanded menu-mlid-729"><a href="/prospective-students">Prospective Students</a><label for="729" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="729" class="sub-nav-check"/><ul id="menu-tree-mlid-729" class="sub-nav"><li class="sub-heading">Prospective Students <label for="729" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-2348"><a href="/prospective-students" title="Prospective Students">Prospective Students</a></li>
+<li class="leaf menu-mlid-807"><a href="/prospective-students/welcome-linacre">Welcome to Linacre</a></li>
+<li class="expanded menu-mlid-808"><a href="/prospective-students/applying-linacre">Applying to Linacre</a><label for="808" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="808" class="sub-nav-check"/><ul id="menu-tree-mlid-808" class="sub-nav"><li class="sub-heading">Applying to Linacre <label for="808" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first last leaf menu-mlid-811"><a href="/prospective-students/applying-linacre/selection-criteria">Selection Criteria</a></li>
+</ul></li>
+<li class="leaf menu-mlid-809"><a href="/prospective-students/fees-expenses">Fees &amp; Expenses</a></li>
+<li class="last expanded menu-mlid-810"><a href="/prospective-students/scholarships">Scholarships</a><label for="810" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="810" class="sub-nav-check"/><ul id="menu-tree-mlid-810" class="sub-nav"><li class="sub-heading">Scholarships <label for="810" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-2337"><a href="/prospective-students/scholarships/aj-hosier-studentship">A.J. Hosier</a></li>
+<li class="leaf menu-mlid-2349"><a href="/prospective-students/scholarships/brewer-street-scholarship">Brewer Street</a></li>
+<li class="leaf menu-mlid-2161"><a href="/prospective-students/scholarships/canadian-alumni-scholarship">Canadian Alumni</a></li>
+<li class="leaf menu-mlid-2158"><a href="/prospective-students/scholarships/canadian-national-scholarship">Canadian National</a></li>
+<li class="leaf menu-mlid-2350"><a href="/prospective-students/scholarships/carolyn-and-franco-gianturco-scholarship-music">Carolyn and Franco Gianturco (Music)</a></li>
+<li class="leaf menu-mlid-2342"><a href="/prospective-students/scholarships/carolyn-franco-gianturco-scholarship-theoretical-chemistry">Carolyn &amp; Franco Gianturco (Theoretical Chemistry)</a></li>
+<li class="leaf menu-mlid-2304"><a href="/prospective-students/scholarships/daube-law-scholarship">Daube (Law)</a></li>
+<li class="leaf menu-mlid-2282"><a href="/prospective-students/scholarships/epa-cephalosporin-scholarship">EPA Cephalosporin</a></li>
+<li class="leaf menu-mlid-2354"><a href="/prospective-students/scholarships/eldred-waverley-scholarship">Eldred-Waverley Scholarship</a></li>
+<li class="leaf menu-mlid-2306"><a href="/prospective-students/scholarships/hitachi-chemical-environmental-scholarship">Hitachi Chemical Environmental</a></li>
+<li class="leaf menu-mlid-2298"><a href="/prospective-students/scholarships/jeol-scholarship-materials-characterisation">JEOL (Materials Characterisation)</a></li>
+<li class="leaf menu-mlid-2163"><a href="/prospective-students/scholarships/linacre-green-student-bursary">Linacre Green Student</a></li>
+<li class="leaf menu-mlid-2278"><a href="/prospective-students/scholarships/mary-blaschko-graduate-scholarship">Mary Blaschko</a></li>
+<li class="leaf menu-mlid-2162"><a href="/prospective-students/scholarships/norman-ivy-lloyd-scholarshipcommonwealth-shared-scholarship">Norman &amp; Ivy Lloyd / Commonwealth Shared</a></li>
+<li class="leaf menu-mlid-2360"><a href="/prospective-students/scholarships/oxford-agnese-nelms-haury-scholarship">Oxford-Agnese Nelms Haury Scholarship</a></li>
+<li class="leaf menu-mlid-2363"><a href="/prospective-students/scholarships/oxford-allan-nesta-ferguson-african-graduate-scholarship">Oxford-Allan &amp; Nesta Ferguson African Graduate Scholarship</a></li>
+<li class="leaf menu-mlid-2343"><a href="/prospective-students/scholarships/oxford-e-p-abraham-cephalosporin-graduate-scholarship">Oxford - E P Abraham Cephalosporin</a></li>
+<li class="leaf menu-mlid-2344"><a href="/prospective-students/scholarships/oxford-linacre-african-scholarship">Oxford-Linacre African</a></li>
+<li class="leaf menu-mlid-2303"><a href="/prospective-students/scholarships/rausing-scholarship-anthropology">Rausing (Anthropology)</a></li>
+<li class="leaf menu-mlid-2279"><a href="/prospective-students/scholarships/rausing-scholarship-english">Rausing (English)</a></li>
+<li class="leaf menu-mlid-2352"><a href="/prospective-students/scholarships/ronald-jane-olson-scholarship-refugee-studies">Ronald &amp; Jane Olson (Refugee Studies)</a></li>
+<li class="leaf menu-mlid-2280"><a href="/prospective-students/scholarships/ryle-scholarship-philosophy">Ryle (Philosophy)</a></li>
+<li class="last leaf menu-mlid-2341"><a href="/prospective-students/scholarships/sir-bryan-cartledge-professor-paul-slack-scholarships-humanities">Sir Bryan Cartledge &amp; Professor Paul Slack (Humanities)</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded active-trail menu-mlid-733"><a href="/current-members" class="active-trail">Current members</a><label for="733" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="733" class="sub-nav-check"/><ul id="menu-tree-mlid-733" class="sub-nav"><li class="sub-heading">Current members <label for="733" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-1153"><a href="/current-members/college-information/handbook">Handbook</a></li>
+<li class="expanded menu-mlid-1016"><a href="/current-members/common-room">Common Room</a><label for="1016" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="1016" class="sub-nav-check"/><ul id="menu-tree-mlid-1016" class="sub-nav"><li class="sub-heading">Common Room <label for="1016" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-1866"><a href="/current-members/common-room/cr-executive-team">CR Executive Team</a></li>
+<li class="leaf menu-mlid-2073"><a href="/current-members/common-room/societies">Societies</a></li>
+<li class="expanded menu-mlid-2006"><a href="/current-members/common_room/cr_events">Common room Events</a><label for="2006" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="2006" class="sub-nav-check"/><ul id="menu-tree-mlid-2006" class="sub-nav"><li class="sub-heading">Common room Events <label for="2006" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first last leaf menu-mlid-2007"><a href="/current-members/common_room/cr_events/archive">Common room Events archive</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2008"><a href="/current-members/common-room/gallery">Common Room Gallery</a></li>
+<li class="leaf menu-mlid-2010"><a href="/current-members/common-room/minutes" title="">Minutes &amp; Motions</a></li>
+<li class="leaf menu-mlid-1863"><a href="/current-members/common-room/documents">Documents</a></li>
+<li class="leaf menu-mlid-1680"><a href="/current-members/common-room/termcard">Termcard</a></li>
+<li class="leaf menu-mlid-1867"><a href="/current-members/common-room/facilities-resources">Facilities &amp; Resources</a></li>
+<li class="leaf menu-mlid-1868"><a href="/current-members/common-room/freshers-guide">Freshers&#039; Guide</a></li>
+<li class="last expanded menu-mlid-2268"><a href="/current-members/common-room/student-welfare">Student Welfare</a><label for="2268" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="2268" class="sub-nav-check"/><ul id="menu-tree-mlid-2268" class="sub-nav"><li class="sub-heading">Student Welfare <label for="2268" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first last leaf menu-mlid-2362"><a href="/current-members/common-room/student-welfare" title="">Student Welfare</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf active-trail active menu-mlid-2293"><a href="/current-members/funding" class="active-trail active">Funding</a></li>
+<li class="leaf menu-mlid-2357"><a href="/current-members/common-room/environment">Environment</a></li>
+<li class="leaf menu-mlid-2297"><a href="/current-members/graduation-days">Graduation Days</a></li>
+<li class="expanded menu-mlid-929"><a href="/current-members/welfare">Welfare</a><label for="929" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="929" class="sub-nav-check"/><ul id="menu-tree-mlid-929" class="sub-nav"><li class="sub-heading">Welfare <label for="929" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first last leaf menu-mlid-2269"><a href="/current-members/welfare/hardship-funds">Hardship Funds</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-2296"><a href="/current-members/awards">Awards</a></li>
+</ul></li>
+<li class="expanded menu-mlid-732"><a href="/old-members-friends">Old Members &amp; Friends</a><label for="732" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="732" class="sub-nav-check"/><ul id="menu-tree-mlid-732" class="sub-nav"><li class="sub-heading">Old Members & Friends <label for="732" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-2276"><a href="/old-members-friends/old-members-friends-events">Old Members &amp; Friends Events</a></li>
+<li class="leaf menu-mlid-2022"><a href="/old-members-friends/gallery">Old Members Gallery</a></li>
+<li class="expanded menu-mlid-1876"><a href="/old-members-friends/activities">Activities</a><label for="1876" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="1876" class="sub-nav-check"/><ul id="menu-tree-mlid-1876" class="sub-nav"><li class="sub-heading">Activities <label for="1876" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-1878"><a href="/old-members-friends/activities/networks">Networks</a></li>
+<li class="leaf menu-mlid-2336"><a href="/old-members-friends/activities/linacre-news">Linacre News</a></li>
+<li class="leaf menu-mlid-1879"><a href="/old-members-friends/activities/societies">Societies</a></li>
+<li class="last leaf menu-mlid-1877"><a href="/old-members-friends/activities/linacre-college-prints-and-merchandise">Linacre College Prints &amp; Merchandise</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1161"><a href="/old-members-friends/funds-campaigns">Funds &amp; Campaigns</a><label for="1161" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="1161" class="sub-nav-check"/><ul id="menu-tree-mlid-1161" class="sub-nav"><li class="sub-heading">Funds & Campaigns <label for="1161" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first last expanded menu-mlid-1871"><a href="/old-members-friends/funds-campaigns/50th-anniversary-campaign">50th Anniversary Campaign</a><label for="1871" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="1871" class="sub-nav-check"/><ul id="menu-tree-mlid-1871" class="sub-nav"><li class="sub-heading">50th Anniversary Campaign <label for="1871" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-2340"><a href="/old-members-friends/funds-campaigns/50th-anniversary-campaign/anthropology-scholarship-fund" title="Anthropology Scholarship Fund">Anthropology</a></li>
+<li class="leaf menu-mlid-1875"><a href="/old-members-friends/funds-campaigns/50th-anniversary-campaign/hicks-scholarship-fund">Hicks Scholarship Fund</a></li>
+<li class="leaf menu-mlid-2339"><a href="/old-members-friends/funds-campaigns/50th-anniversary-campaign/women-science-scholarship-fund" title="Women in Science Scholarship Fund">Women in Science Scholarship Fund</a></li>
+<li class="leaf menu-mlid-1177"><a href="/old-members-friends/funds-campaigns/50th-anniversary-campaign/paul-nurse-jrf-fund">Paul Nurse JRF Fund</a></li>
+<li class="leaf menu-mlid-2358"><a href="/old-members-friends/funds-campaigns/50th-anniversary-campaign/patrick-heffernan-fund">Patrick Heffernan Fund</a></li>
+<li class="last leaf menu-mlid-1874"><a href="/old-members-friends/funds-campaigns/50th-anniversary-campaign/coffee-break-philanthropy">Coffee Break Philanthropy</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded menu-mlid-1149"><a href="/old-members-friends/visiting-linacre">Visiting Linacre</a><label for="1149" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="1149" class="sub-nav-check"/><ul id="menu-tree-mlid-1149" class="sub-nav"><li class="sub-heading">Visiting Linacre <label for="1149" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first last leaf menu-mlid-1162"><a href="/old-members-friends/visiting-linacre/oxford-alumni-card">Oxford Alumni Card</a></li>
+</ul></li>
+<li class="expanded menu-mlid-1829"><a href="/old-members-friends/giving-linacre">Giving to Linacre</a><label for="1829" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="1829" class="sub-nav-check"/><ul id="menu-tree-mlid-1829" class="sub-nav"><li class="sub-heading">Giving to Linacre <label for="1829" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-1165"><a href="/old-members-friends/giving-linacre/legacies">Legacies</a></li>
+<li class="leaf menu-mlid-1164"><a href="/old-members-friends/giving-linacre/named-areas-college">Named Areas of College</a></li>
+<li class="leaf menu-mlid-1163"><a href="/old-members-friends/giving-linacre/donor-thanks">Scholarship Thanks</a></li>
+<li class="last leaf menu-mlid-1167"><a href="/old-members-friends/giving-linacre/corporate-relations">Corporate Relations</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-2347"><a href="/old-members-friends/contact">Contact</a></li>
+</ul></li>
+<li class="expanded menu-mlid-731"><a href="/facilities">Facilities</a><label for="731" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="731" class="sub-nav-check"/><ul id="menu-tree-mlid-731" class="sub-nav"><li class="sub-heading">Facilities <label for="731" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first expanded menu-mlid-1243"><a href="/facilities/accommodation">Accommodation</a><label for="1243" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="1243" class="sub-nav-check"/><ul id="menu-tree-mlid-1243" class="sub-nav"><li class="sub-heading">Accommodation <label for="1243" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-2033"><a href="/facilities/accommodation/griffiths-building">Griffiths Building</a></li>
+<li class="leaf menu-mlid-2034"><a href="/facilities/accommodation/oc-tanner-building">OC Tanner Building</a></li>
+<li class="leaf menu-mlid-2032"><a href="/facilities/accommodation/bamborough-building">Bamborough Building</a></li>
+<li class="leaf menu-mlid-2029"><a href="/facilities/accommodation/abraham">Abraham</a></li>
+<li class="leaf menu-mlid-2028"><a href="/facilities/accommodation/5-bradmore-road">5 Bradmore Road</a></li>
+<li class="leaf menu-mlid-2027"><a href="/facilities/accommodation/8-bradmore-road">8 Bradmore Road</a></li>
+<li class="leaf menu-mlid-2031"><a href="/facilities/accommodation/ursula-hicks-house">Ursula Hicks House</a></li>
+<li class="leaf menu-mlid-2035"><a href="/facilities/accommodation/beeches">The Beeches</a></li>
+<li class="leaf menu-mlid-2030"><a href="/facilities/accommodation/walton-street">Walton Street</a></li>
+<li class="leaf menu-mlid-2026"><a href="/facilities/accommodation/rhodes-building">The Rhodes Building</a></li>
+<li class="leaf menu-mlid-2025"><a href="/facilities/accommodation/holloway-house">Holloway House</a></li>
+<li class="last leaf menu-mlid-2036"><a href="/facilities/accommodation/neil-fraser-bell-house">Neil Fraser-Bell House</a></li>
+</ul></li>
+<li class="expanded menu-mlid-931"><a href="/facilities/college-dining-hall" title="">College Dining Hall</a><label for="931" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="931" class="sub-nav-check"/><ul id="menu-tree-mlid-931" class="sub-nav"><li class="sub-heading">College Dining Hall <label for="931" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first last leaf menu-mlid-2311"><a href="/facilities/college-dining-room/guest-night-prices-and-menus">Guest Night prices and menus</a></li>
+</ul></li>
+<li class="leaf menu-mlid-933"><a href="/facilities/conference-facilities">Conference Facilities</a></li>
+<li class="leaf menu-mlid-935"><a href="/facilities/gym">Gym</a></li>
+<li class="expanded menu-mlid-936"><a href="/facilities/it">IT</a><label for="936" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="936" class="sub-nav-check"/><ul id="menu-tree-mlid-936" class="sub-nav"><li class="sub-heading">IT <label for="936" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-940"><a href="/facilities/it/risk-period">At Risk Period</a></li>
+<li class="leaf menu-mlid-1831"><a href="/facilities/it/it-faq">IT FAQ</a></li>
+<li class="leaf menu-mlid-941"><a href="/facilities/it/it-regulations">IT Regulations</a></li>
+<li class="leaf menu-mlid-943"><a href="/facilities/it/it-support">IT Support</a></li>
+<li class="leaf menu-mlid-942"><a href="/facilities/it/report-problem">Report a Problem</a></li>
+<li class="last leaf menu-mlid-944"><a href="/facilities/it/services">Services</a></li>
+</ul></li>
+<li class="leaf menu-mlid-934"><a href="/facilities/study-rooms">Study Rooms</a></li>
+<li class="expanded menu-mlid-1830"><a href="/facilities/library">Library</a><label for="1830" class="toggle-sub" onclick="">&#9658;</label><input type="checkbox" id="1830" class="sub-nav-check"/><ul id="menu-tree-mlid-1830" class="sub-nav"><li class="sub-heading">Library <label for="1830" class="toggle" onclick="" title="Back">&#9664;</label></li><li class="first leaf menu-mlid-2019"><a href="/facilities/library/library-guide">Library Guide</a></li>
+<li class="last leaf menu-mlid-2160"><a href="/facilities/library/finding-resources">Finding resources</a></li>
+</ul></li>
+<li class="leaf menu-mlid-2159"><a href="/facilities/guest-room" title="">Guest Room</a></li>
+<li class="last leaf menu-mlid-2164"><a href="/facilities/storage">Storage</a></li>
+</ul></li>
+<li class="last leaf menu-mlid-1242"><a href="/contact">Contact</a></li>
+</ul></nav>
+
+
+<div class="l-responsive-page-container">  <div class="l-page has-one-sidebar has-sidebar-second">
+  <header class="l-header" role="banner">
+    <div class="l-constrained">
+      <div class="l-branding site-branding">
+                  <a href="/" title="Home" rel="home" class="site-branding__logo"><img src="http://www.linacre.ox.ac.uk/sites/default/files/logo100.png" alt="Home" /></a>
+                  <div class="site-branding__name-wrapper">
+                  <a href="/" class="site-branding__name" title="Home" rel="home"><span>Linacre College</span></a>
+                          <h2 class="site-branding__slogan">University of Oxford</h2>
+                  </div>
+              </div>
+        <div class="l-region l-region--header">
+    <div id="block-search-form" role="search" class="block block--search block--search-form">
+        <div class="block__content">
+    <form class="search-block-form" action="/current-members/funding" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-searchfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." placeholder="Enter search term" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit button button--primary" /></div><input type="hidden" name="form_build_id" value="form-IEjIDUc0GRdHFAtYL90BXGYYmzDGMH4LXV_U78se3Jk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+<div id="block-responsive-menu-toggle" class="block block--responsive-menu block--responsive-menu-toggle">
+        <div class="block__content">
+    <label id="toggle-icon" for="main-nav-check" class="toggle" onclick="" title="Menu">&#x2261;</label>  </div>
+</div>
+  </div>
+      
+    </div>
+      </header>
+
+  
+  <div class="l-main l-constrained">
+    <a id="main-content"></a>
+    <h2 class="element-invisible">You are here</h2><ul class="breadcrumb"><li><a href="/">Home</a></li><li><a href="/current-members">Current members</a></li></ul>    
+    <div class="l-content" role="main">
+                                      <h1><div data-quickedit-field-id="node/621/title/en/full">Funding</div></h1>
+                        <div  data-quickedit-entity-id="node/621" about="/current-members/funding" typeof="foaf:Document" class="ds-1col node node--page view-mode-full node--full node--page--full clearfix">
+
+  
+  <div class="field field-name-body"><p>
+	Linacre College has a number of grants available to existing members to help with travel/expenses relating to conferences/attending research-related events.</p>
+<p>
+	To apply for one of the grants, please download and complete the relevant form, below, and return to the College Secretary:</p>
+<p>
+	<strong>Application for a Grant for Conference expenses</strong> Download form (<a href="/file/359/download/">word</a>)(<a href="/file/360/download/">pdf</a>).<br />
+	Please read the qualifying conditions (<a href="/file/341/download/">here</a>) here before you submit an application for Special Research expenses or on the basis of Hardship.</p>
+<p>
+	<strong>Application for a Writing-Up Bursary</strong> A small number of writing-up grants of £1,000 each are available annually for DPhil students – two Bamborough Fund bursaries and two from the EPA Cephalosporin Bursary Fund for medical students. Download form (<a href="/file/362/download/">word</a>) (<a href="/file/363/download/">pdf</a>).</p>
+<p>
+	<strong>OPAL Course Fees</strong> Linacre House Trust may reimburse up to 50% of OPAL course fees on successful completion of the course. This grant does not include examination fees or the cost of course textbooks. Download form (<a href="/file/365/download/">word</a>) or (<a href="/file/364/download/">pdf</a>)</p>
+<p>
+	In addition to more general conference travel grants, Linacre has a Fund, established by a former student, available to support current Linacre students in specific areas:</p>
+<p>
+	<strong>The Frederick Mulder Fund</strong>, established in 2004 by Dr Frederick Mulder, offers travel grants, normally for fieldwork, to students working on social deprivation, in fields such as Social Policy, Anthropology, and Refugee Studies. Download form (<a href="/file/366/download/">word</a>)(<a href="/file/367/download/">pdf</a>)</p>
+<p>
+	<strong>Leeds Hoban Linacre - Huntington Exchange Fellowship</strong><br />
+	This Exchange Fellowship was set up in 2009, thanks to the generosity of an Old Member and her husband. It enables a Linacre member annually to visit the Huntington Library, California, for a period of 4 weeks (and a similar arrangement exists for a Huntington member); the Fellowship, approximately £1,700 in value, pays for the Exchange Fellow’s travel and accommodation. The Huntington Library will help in finding accommodation. On their return to Linacre, in Michaelmas Term, the Exchange Fellow will be expected to give a paper at a Linacre Seminar, related to the area of their research at the Huntington. Details of each year’s Exchange Fellowship are published in Michaelmas Term preceding the visit, and are posted on a College noticeboard, and also on Linacre’s website. </p>
+<p>
+	<strong>University level sporting or non-sporting activities</strong><br />
+	There is a small fund to reimburse part of the expenses of students participating at University level in sporting or non-sporting activities. An email application detailing expenditure, together with a supporting letter/email from the President (or equivalent) of the relevant club, should be sent to the <a href="mailto:college.secretary@linacre.ox.ac.uk">College Secretary</a> by the end of Week 1 of Hilary Term.  The Linacre House Trust Committee considers applications in Week 3 of Hilary Term.  If some funds remain unspent, another round of applications will be accepted in the first week of Trinity Term.  Only students who are liable for College fees are eligible to apply. </p>
+<p>
+	<strong>College Hardship Funds</strong>  If you experience unforeseen financial hardship during your time at Linacre, there are some <a href="/current-members/welfare/hardship-funds/">College Hardship Funds </a>you can apply for.  Please read the qualifying conditions (<a href="/file/341/download/">here</a>) here before you submit an application for on the basis of hardship.</p>
+</div></div>
+
+    </div>
+
+          <aside class="l-region l-region--sidebar-second">
+    <nav id="block-menu-block-1" role="navigation" class="block block--menu-block block--menu-block-1">
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-1153"><a href="/current-members/college-information/handbook">Handbook</a></li>
+<li class="collapsed menu-mlid-1016"><a href="/current-members/common-room">Common Room</a></li>
+<li class="leaf active-trail active menu-mlid-2293"><a href="/current-members/funding" class="active-trail active">Funding</a></li>
+<li class="leaf menu-mlid-2357"><a href="/current-members/common-room/environment">Environment</a></li>
+<li class="leaf menu-mlid-2297"><a href="/current-members/graduation-days">Graduation Days</a></li>
+<li class="collapsed menu-mlid-929"><a href="/current-members/welfare">Welfare</a></li>
+<li class="last leaf menu-mlid-2296"><a href="/current-members/awards">Awards</a></li>
+</ul></div>
+</nav>
+  </aside>
+
+        
+      </div>
+
+  <footer class="l-footer-wrapper" role="contentinfo">
+      <div class="l-region l-region--footer">
+    <div id="block-block-6" class="block block--block block--block-6">
+        <div class="block__content">
+    <p>Follow us:</p>
+<p><a href="https://www.facebook.com/pages/Linacre-College/332592916772500?fref=ts"><img src="/sites/all/themes/custom/linacre/images/facebook.png" style="height: 49px; width: 50px; margin-top: 1px" /></a> <a href="https://twitter.com/LinacreCollege"><img src="/sites/all/themes/custom/linacre/images/twitter.png" style="height: 49px; width: 50px;" /></a></p>
+<p> </p>
+  </div>
+</div>
+<div id="block-block-5" class="block block--block block--block-5">
+        <div class="block__content">
+    <p>St.Cross Rd, Oxford OX1 3JA<br />
+Reception: 01865 271650</p>
+  </div>
+</div>
+<div id="block-block-4" class="block block--block block--block-4">
+        <div class="block__content">
+    <p>
+	© 2014 Linacre College - All rights reserved<br />
+	Registered Charity Number: 1142130<br /><a href="/site-credits">Site Credits</a></p>
+  </div>
+</div>
+<div id="block-block-12" class="block block--block block--block-12">
+        <div class="block__content">
+    <p>
+	<a href="/node/37"><img alt="" src="http://production.linacre.ox.ac.uk/sites/default/files/styles/body_image/public/welfare_0.png?itok=CKA9sCtz" /></a><br />
+	Welfare</p>
+  </div>
+</div>
+<div id="block-block-8" class="block block--block block--block-8">
+        <div class="block__content">
+    <p><a href="http://www.fairtrade.org.uk/"><img alt="" class="media-image attr__typeof__foaf:Image img__fid__300 img__view_mode__default attr__format__default attr__field_file_image_alt_text[und][0][value]__ attr__field_file_image_title_text[und][0][value]__" src="http://production.linacre.ox.ac.uk/sites/default/files/styles/body_image/public/fairtrade.png?itok=wd8x3k7f" typeof="foaf:Image" /></a><br />
+A Fair Trade institution</p>
+  </div>
+</div>
+<div id="block-block-7" class="block block--block block--block-7">
+        <div class="block__content">
+    <p><a href="http://www.ox.ac.uk/"><img alt="" class="media-image attr__typeof__foaf:Image img__fid__301 img__view_mode__default attr__format__default attr__field_file_image_alt_text[und][0][value]__ attr__field_file_image_title_text[und][0][value]__" src="http://production.linacre.ox.ac.uk/sites/default/files/styles/body_image/public/uoo.png?itok=9qynvSFb" typeof="foaf:Image" /></a><br />
+A college of the University of Oxford</p>
+  </div>
+</div>
+  </div>
+  </footer>
+</div>
+  </div>
+<script src="http://www.linacre.ox.ac.uk/sites/default/files/js/js_6TAnF117heNLUe_NSA6QrMWPUlMbDthN85wxrI4UFUM.js"></script>
+<script src="http://www.linacre.ox.ac.uk/sites/default/files/js/js_PswhOgVL3fUPx_wk5fZs88uT0_eY2T-0DTnTV2t8dXE.js"></script>
+<script>jQuery(document).ready(function() {
+        FastClick.attach(document.body);
+      });</script>
+</body>
+</html>

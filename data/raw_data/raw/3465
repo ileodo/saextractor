@@ -1,0 +1,248 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+
+	<meta name="description" content="
+		
+	Academic IT Research Support team - Provides specialist IT support for researchers at the University of Oxford	" />
+
+	<title>
+	  2015  March | Academic IT Research Support team	</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://blogs.it.ox.ac.uk/acit-rs-team/wp-content/themes/oucs-team/style.css" />
+		<link rel="pingback" href="http://blogs.it.ox.ac.uk/acit-rs-team/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Academic IT Research Support team &raquo; Feed" href="http://blogs.it.ox.ac.uk/acit-rs-team/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Academic IT Research Support team &raquo; Comments Feed" href="http://blogs.it.ox.ac.uk/acit-rs-team/comments/feed/" />
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-content/plugins/simple-google-analytics/js/sga.js?ver=3.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.it.ox.ac.uk/acit-rs-team/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.it.ox.ac.uk/acit-rs-team/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.6.1" />
+
+		<style type="text/css" media="screen">
+			#catapult-cookie-bar {
+				display: none;
+				direction: ltr;
+				color: #ddd;
+				min-height: 30px;
+				position: fixed;
+				left: 0;
+				top: 0;
+				width: 100%;
+				z-index: 99999;
+				padding:6px 20px 4px;
+				background-color: #464646;
+				text-align:left;
+			}
+			#catapult-cookie-bar a {
+				color: #fff;;
+			}
+			button#catapultCookie {
+				margin:0 20px;
+				line-height:20px;
+				background:#45AE52;
+				border:none;
+				color: #fff;;
+				padding:4px 12px;
+				border-radius: 3px;
+				cursor: pointer;
+				font-size: 13px;
+				font-weight: bold;
+			}
+		</style>
+<!-- Simple Google Analytics Begin -->
+<script type="text/javascript">
+var _gaq = [['_setAccount','UA-46326994-1'],['_trackPageview']];(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- Simple Google Analytics End -->
+<meta id="syntaxhighlighteranchor" name="syntaxhighlighter-version" content="3.1.3" />
+	
+	
+</head>
+
+<body class="archive date">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<h1 id="site-title">
+					<span>
+						<a href="http://blogs.it.ox.ac.uk/acit-rs-team/" title="Academic IT Research Support team" rel="home">Academic IT Research Support team</a>
+					</span>
+				</h1>				
+				<div id="site-description">Provides specialist IT support for researchers at the University of Oxford</div>
+
+										<!-- <img src="http://blogs.it.ox.ac.uk/acit-rs-team/wp-content/themes/oucs-team/images/headers/berries.jpg" width="940" height="198" alt="" /> -->
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu-header"><ul id="menu-menu-1" class="menu"><li id="menu-item-395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-395"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/about/">About</a></li>
+<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-410"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/">Specialist advice</a>
+<ul class="sub-menu">
+	<li id="menu-item-892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-892"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/agent-based-modelling/">Agent-based modelling</a></li>
+	<li id="menu-item-1295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1295"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/data-modelling-and-migration/">Data modelling and migration</a></li>
+	<li id="menu-item-893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/digital-humanities/">Digital Humanities</a></li>
+	<li id="menu-item-894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-894"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/research-data-management/">Research data management</a>
+	<ul class="sub-menu">
+		<li id="menu-item-895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-895"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/rdmcourses/">Training courses and events</a>
+		<ul class="sub-menu">
+			<li id="menu-item-1787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1787"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/rdmcourses/datatalks/">Things to do with data &#8211; lunchtime talks</a></li>
+			<li id="menu-item-1784" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1784"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/rdmcourses/datatalksarchive/">Things to do with data &#8211; archive of past talks</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-1202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1202"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/intellectual-property/">Intellectual property</a></li>
+	<li id="menu-item-1174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1174"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/software-selection/">Software selection</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1658"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/software-selection/vistalks/">Data visualisation &#8211; lunchtime talks</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1214"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/software-sustainability/">Software sustainability</a></li>
+	<li id="menu-item-1302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1302"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/advice/text-encoding-analysis-and-digitization/">Text encoding, analysis and digitization</a></li>
+</ul>
+</li>
+<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/projects/">Project work</a></li>
+<li id="menu-item-413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-413"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/web-resources/">Web resources</a></li>
+<li id="menu-item-1168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1168"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/category/reports/">3-month reports</a></li>
+<li id="menu-item-383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-383"><a title="Blog" href="http://blogs.it.ox.ac.uk/acit-rs-team/">Blog</a></li>
+<li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/team/">Team</a></li>
+<li id="menu-item-920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-920"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/contact-us/">Contact</a></li>
+</ul></div>				
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+
+
+			<div id="post-1726" class="post-1726 post type-post status-publish format-standard hentry category-reports">
+			<h2 class="entry-title"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/2015/03/25/3-month-report-december-to-february-2015/" title="Permalink to 3-month report: December to February 2015" rel="bookmark">3-month report: December to February 2015</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogs.it.ox.ac.uk/acit-rs-team/2015/03/25/3-month-report-december-to-february-2015/" title="3:43 pm" rel="bookmark"><span class="entry-date">March 25, 2015</span></a> <span class="meta-sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.it.ox.ac.uk/acit-rs-team/author/howardn/" title="View all posts by Howard Noble">Howard Noble</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-summary">
+				<p>Highlights Another great quarter for actively engaging the researchers: the Things to do with data, Data visualization and Corpus Linguistics seminar series, training in using ORDS, XML editing with Oxygen, the TEI Guidelines, XPath Searching,  agent-based modelling, and a new &hellip; <a href="http://blogs.it.ox.ac.uk/acit-rs-team/2015/03/25/3-month-report-december-to-february-2015/">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+			</div><!-- .entry-summary -->
+	
+			<div class="entry-utility">
+				<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">
+					Posted in </span> <a href="http://blogs.it.ox.ac.uk/acit-rs-team/category/reports/" title="View all posts in Reports" rel="category tag">Reports</a>					
+				</span>
+				<span class="meta-sep">|</span>
+								<span class="comments-link"><a href="http://blogs.it.ox.ac.uk/acit-rs-team/2015/03/25/3-month-report-december-to-february-2015/#respond" title="Comment on 3-month report: December to February 2015">Leave a comment</a></span>
+							</div><!-- #entry-utility -->
+		</div><!-- #post-1726 -->
+
+		
+	
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+<li id="search-2" class="widget-container widget_search"><form role="search" method="get" id="searchform" action="http://blogs.it.ox.ac.uk/acit-rs-team">
+    <div><label class="screen-reader-text" for="s">Search for:</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Search" />
+    </div>
+</form></li><li id="categories-3" class="widget-container widget_categories"><h3 class="widget-title">Categories</h3><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="209">Events</option>
+	<option class="level-0" value="164">News</option>
+	<option class="level-0" value="332">Projects</option>
+	<option class="level-0" value="140">Reports</option>
+	<option class="level-0" value="38149">Specialisms</option>
+	<option class="level-1" value="38150">&nbsp;&nbsp;&nbsp;Data modelling and migration</option>
+	<option class="level-1" value="38156">&nbsp;&nbsp;&nbsp;Software sustainability</option>
+	<option class="level-0" value="1">Uncategorized</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://blogs.it.ox.ac.uk/acit-rs-team/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</li><li id="rss-2" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://gdata.youtube.com/feeds/api/playlists/PLsRaSjArZMOIO8GDaOdo320EdRAQGapXB' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='' title=''>RS YouTube playlist</a></h3></li><li id="rss-7" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://blogs.it.ox.ac.uk/resdataman/feed/' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://researchdata.ox.ac.uk/' title='Support for researchers in managing and sharing data'>Research Data Management</a></h3><ul><li><a class='rsswidget' href='http://researchdata.ox.ac.uk/2015/05/01/the-new-epsrc-research-data-expectations-and-how-to-meet-them/' title='With the new EPSRC expectations coming into effect today, 1st May 2015, we have put together a simple compliance checklist for EPSRC-funded researchers at the University of Oxford. This lists the three essential steps that you need to take to ensure your future articles are compliant, and the two conditional elements of which you need to be aware. Take a look at it at http://researchdata.ox.ac.uk/files/2014/03/EPSRC-Research-Data-Self-Assesment-Checklist.pdf. We’ve also been talking to a number of researchers in the MPLS division about their concerns regarding the EPSRC Expectations, and have been trying to address the questions we’re hearing via the EPSRC FAQ page at http://researchdata.ox.ac.uk/epsrc-data-requirements-and-what-you-need-to-do/. If you have questions about the Expectations that are not addressed here, please write to researchdata@ox.ac.uk, and one of our support team will be happy to help out.'>The new EPSRC Research Data Expectations, and how to meet them</a></li><li><a class='rsswidget' href='http://researchdata.ox.ac.uk/2015/05/01/ora-data-welcomes-new-users-and-feedback/' title='(posted on behalf of Amanda Flynn, Bodleian Libaries) The Bodleian has recently launched a new service for the University, the Oxford Research Archive for Data (ORA-Data). An integrated digital repository and catalogue for research data, ORA-Data offers a service to archive and enable the discovery, citation and sharing of data produced by researchers at Oxford. ORA-Data is aimed especially at researchers who wish: • to deposit data that underpins publications • to deposit data that their funding body requires be preserved and made accessible • to add a record to the University’s catalogue of data about a dataset stored elsewhere Any type of digital research data, from across all academic disciplines, may be deposited in ORA-Data, and we accept any file format. ORA-Data sits within the original Oxford Research Archive (ORA) for publications, so that data can be linked easily to – and browsed alongside – related publications. A permanent descriptive record is created for all data deposited in ORA-Data and a persistent unique identifier generated (a DOI, or Digital Object Identifier), which allows your dataset to be clearly attributed and cited. Data and records will be discoverable through Google and other search engines, maximising the visibility and impact of your research. You can also choose to set an embargo period for your files if you wish. Research data management is an increasingly important concern for the University. The UK Research Councils view publicly funded research data as a public good, produced in the public interest, and now require such data to be made openly available at the close of projects with as few restrictions as possible. The EPSRC (Engineering and Physical Sciences Research Council), for example, has a set of expectations about research data management which come into effect today, 1 May 2015: https://www.epsrc.ac.uk/about/standards/researchdata/. We’re pleased to announce that depositing in ORA-Data will allow researchers and the University to comply with these expectations. Until July 2015, ORA-Data is running as a free pilot, though there are plans for it to become a chargeable service in the future (with a draft charging model currently under negotiation). During the pilot period, we’re very keen to encourage researchers to try out ORA-Data, and very much welcome any feedback from users to help us improve the service. We’re pleased to say that we’ve already been able to act on some suggestions we’ve received; for example, we’re now able to offer instant DOIs for data so that you don’t have to wait for us to process your deposit before being able to cite the dataset in an article submitted for publication. ORA-Data can be accessed via the main ORA website: http://ora.ox.ac.uk; just select ‘Contribute’ followed by the ‘Data’ link. A full guide to using ORA-Data, packed with help and support, is also available: http://ox.libguides.com/ora-data. To get in touch with the ORA-Data team please contact us at: ora@bodleian.ox.ac.uk – we would love to hear from you if you’d like to find out more about what we can offer or how we can help with your data. Amanda Flynn, Bodleian Libraries'>ORA-Data welcomes new users and feedback</a></li></ul></li><li id="rss-5" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='https://blogs.it.ox.ac.uk/martinw/feed/' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='https://blogs.it.ox.ac.uk/martinw' title='Digital research in the Humanities'>Martin Wynne</a></h3><ul><li><a class='rsswidget' href='https://blogs.it.ox.ac.uk/martinw/2015/05/05/beyond-the-digital-humanities/' title='The NeDiMAH Conference ‘Beyond the Digital Humanities’ was held at the School of Advanced Study, University of London, on Tuesday 5th May 2015. NeDiMAH has run for four years as a project of the European Science Foundation, with the backing of research funders … Continue reading →'>Beyond the Digital Humanities</a></li><li><a class='rsswidget' href='https://blogs.it.ox.ac.uk/martinw/2015/04/22/clarin-uk-latest-news-and-forthcoming-opportunities/' title='CLARIN-UK: a new consortium and a new CLARIN country The UK is currently preparing an application to join the CLARIN European Research Infrastructure Consortium as an Observer. The Arts and Humanities Research Council, in cooperation with JISC and the other … Continue reading →'>CLARIN-UK: latest news and forthcoming opportunities</a></li></ul></li><li id="rss-3" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='https://blogs.it.ox.ac.uk/jamesc/feed/' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='https://blogs.it.ox.ac.uk/jamesc' title='Work-Related Unkempt Thoughts'>James Cummings</a></h3><ul><li><a class='rsswidget' href='https://blogs.it.ox.ac.uk/jamesc/2015/05/14/childish-toys/' title='I count religion but a childish toy, and hold there is no sin but ignorance. Jew of Malta, Christopher Marlowe Occasionally, indeed almost cyclically, on some of the mailing lists I’m on a big theoretical war erupts where someone declares … Continue reading →'>childish toys</a></li><li><a class='rsswidget' href='https://blogs.it.ox.ac.uk/jamesc/2015/02/03/what-is-the-tei/' title='Recently I gave a lecture to those interested in Digital Classics at the University of Oxford as part of the Digital Classics Seminar Series with people much more qualified to talk about Classics (digital or otherwise) than me.  I’m not, nor … Continue reading →'>What is the TEI? And Why Should I Care? (A brief introduction for classicists)</a></li></ul></li><li id="rss-4" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='https://blogs.it.ox.ac.uk/modelling4all/feed/' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='https://blogs.it.ox.ac.uk/modelling4all' title='Helping academics to use agent-based computer modelling to support learning, teaching, research and public engagement activities.'>Agent-based modelling</a></h3><ul><li><a class='rsswidget' href='https://blogs.it.ox.ac.uk/modelling4all/2015/06/10/epidemic-game-maker-now-works-in-all-browsers-with-no-installation/' title='The new Web version of NetLogo is now complete enough to run all the games that can be created by the Epidemic Game Maker. No plug-ins, no Java applets, just plain JavaScript. Works on tablets and phones too.'>Epidemic Game Maker now works in all browsers with no installation</a></li><li><a class='rsswidget' href='https://blogs.it.ox.ac.uk/modelling4all/2015/05/19/abm-get-together-may-2015/' title='The May 2015 ABM get-together brought together over twenty Oxford researchers (as well as visitors from Bath and Rutherford Lab) from diverse fields. Jan Dubbelboer is using NetLogo to create an ABM about flood damage, risk and property buying decisions … Continue reading →'>ABM get-together May 2015</a></li></ul></li><li id="rss-9" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://osswatch.jiscinvolve.org/wp/feed/' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://osswatch.jiscinvolve.org/wp' title='open source software advisory service'>OSS Watch</a></h3><ul><li><a class='rsswidget' href='http://osswatch.jiscinvolve.org/wp/2015/02/19/untangling-the-university-web-presence-with-openscholar/' title='This is a guest post from the OpenScholar team at Gizra. A lot of public sector organisations have moved recently to an open source CMS solution, citing the benefits not just in cost but also in flexibility, and its great to … Continue reading →'>Untangling the university web presence with OpenScholar</a></li><li><a class='rsswidget' href='http://osswatch.jiscinvolve.org/wp/2015/02/05/open-source-software-licensing-trends/' title='This is a guest post from Jim Farmer, Chairman of Instructional Media + Magic Inc. Jim has also written a series of feature articles on open source for Informa’s London-based Intellectual Property Magazine. Higher education has traditionally been a knowledge “sharing” … Continue reading →'>Open Source Software Licensing Trends</a></li><li><a class='rsswidget' href='http://osswatch.jiscinvolve.org/wp/2014/12/11/open-or-fauxpen-use-the-oss-watch-openness-rating-tool-to-find-out/' title='Is your software open or fauxpen? This is the question that OSS Watch, in partnership with Pia Waugh, developed the Openness Rating to help you find out. Using a series of questions covering legal issues, governance, standards, knowledge sharing and market … Continue reading →'>Open or Fauxpen? Use the OSS Watch Openness Rating tool to find out</a></li></ul></li><li id="rss-8" class="widget-container widget_rss"><h3 class="widget-title"><a class='rsswidget' href='http://blogs.it.ox.ac.uk/mturska/feed' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://blogs.it.ox.ac.uk/mturska' title='                                                    build in progress'>Magdalena Turska</a></h3><ul><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/mturska/2015/03/06/dixit-supervisory-meeting-boras/' title='Requirements for a publication infrastructure Project Description Magdalena Turska ER3 Borås Introduction The original DiXiT project bid described my work shortly as ‘a requirements study for a publication architecture targeting multiple media, not only web and paper, but also mobile … Continue reading →'>DiXiT supervisory meeting: Borås</a></li><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/mturska/2015/03/03/dixit-camp-3-boras/' title='In Oxford snowdrops and early daffodils are blooming already but in Borås, Sweden the lakes are still frozen and ground is sprinkled with snow. What brought me there was the third – and last – DiXiT Camp. These half-yearly gatherings … Continue reading →'>DiXiT Camp 3 Borås</a></li><li><a class='rsswidget' href='http://blogs.it.ox.ac.uk/mturska/2015/02/02/tcp/' title='The Text Creation Partnership (TCP) creates standardized, accurate XML/SGML encoded electronic text editions of early printed books. This work, and the resulting text files, are jointly funded and owned by more than 150 libraries worldwide. All of the TCP’s work … Continue reading →'>TCP</a></li></ul></li><li id="archives-2" class="widget-container widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+			<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2015/04/' title='April 2015'>April 2015</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2015/03/' title='March 2015'>March 2015</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2015/01/' title='January 2015'>January 2015</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2014/12/' title='December 2014'>December 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2014/10/' title='October 2014'>October 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2014/09/' title='September 2014'>September 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2014/06/' title='June 2014'>June 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2014/03/' title='March 2014'>March 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2014/01/' title='January 2014'>January 2014</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2013/12/' title='December 2013'>December 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2013/09/' title='September 2013'>September 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2013/08/' title='August 2013'>August 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2013/07/' title='July 2013'>July 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2013/05/' title='May 2013'>May 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/acit-rs-team/2013/03/' title='March 2013'>March 2013</a></li>
+		</ul>
+</li><li id="meta-2" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="https://blogs.it.ox.ac.uk/acit-rs-team/wp-login.php?action=shibboleth">Log in</a></li>
+			<li><a href="http://blogs.it.ox.ac.uk/acit-rs-team/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogs.it.ox.ac.uk/acit-rs-team/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>						</ul>
+</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+			<p>
+				<a href="http://blogs.it.ox.ac.uk/acit-rs-team/" title="Academic IT Research Support team" rel="home">
+					Academic IT Research Support team				</a></p>
+			</div>
+
+			<div id="site-generator">powered by <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">WordPress</a><br/>
+      <a href="http://blogs.oucs.ox.ac.uk/">IT Services Blogs</a> hosted by <a href="http://www.it.ox.ac.uk/" title="University of Oxford IT Services">University of Oxford IT Services</a>
+			</div>
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!catapultReadCookie("catAccCookies")){//If the cookie has not been set
+				jQuery("#catapult-cookie-bar").show();
+							}
+		});
+	</script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/acit-rs-team/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js?ver=1.8'></script>
+<div id="catapult-cookie-bar">This site uses cookies<button id="catapultCookie" tabindex=1 onclick="catapultAcceptCookies();">Okay, thanks</button><a tabindex=1 href="http://blogs.it.ox.ac.uk/acit-rs-team/cookie-policy">Find out more</a></div>
+</body>
+</html>

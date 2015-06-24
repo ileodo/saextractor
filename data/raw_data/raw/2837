@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="ie ie8" lang="en-US"><![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+    <!-- META TAGS -->
+    <meta charset="UTF-8">
+
+    <!-- Title -->
+    <title>Centre for Doctoral Training in Autonomous Intelligent Machines and Systems</title>
+
+    <!-- Define a viewport to mobile devices to use - telling the browser to assume that the page is as wide as the device (width=device-width) and setting the initial page zoom level to be 1 (initial-scale=1.0) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no" />
+
+    
+    <!-- Style Sheet-->
+    <link rel="stylesheet" href="http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/style.css"/>
+
+    <!-- Pingback URL -->
+    <link rel="pingback" href="http://aims.robots.ox.ac.uk/xmlrpc.php"/>
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="Centre for Doctoral Training in Autonomous Intelligent Machines and Systems" href="http://aims.robots.ox.ac.uk/feed/"/>
+    <link rel="alternate" type="application/atom+xml" title="Centre for Doctoral Training in Autonomous Intelligent Machines and Systems" href="http://aims.robots.ox.ac.uk/feed/atom/"/>
+    
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+
+    <link rel="alternate" type="application/rss+xml" title="Centre for Doctoral Training in Autonomous Intelligent Machines and Systems &raquo; Feed" href="http://aims.robots.ox.ac.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Centre for Doctoral Training in Autonomous Intelligent Machines and Systems &raquo; Comments Feed" href="http://aims.robots.ox.ac.uk/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Centre for Doctoral Training in Autonomous Intelligent Machines and Systems &raquo; Home Comments Feed" href="http://aims.robots.ox.ac.uk/home/feed/" />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://aims.robots.ox.ac.uk/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.3.8&#038;ver=3.9.2' type='text/css' media='all' />
+<style type='text/css'>
+.tp-caption.roundedimage img {
+	-webkit-border-radius: 300px;
+    -moz-border-radius: 300px;
+    border-radius: 300px;
+}
+  
+.tp-button.red{
+  background-color: #f15b5a;
+  background-image: none;
+  font-size: 18px;
+        color: #fff;
+  padding: 15px 30px;
+  text-shadow: none;
+  letter-spacing: 1px;
+   -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+  -webkit-box-shadow: 0px 0px 0px 0px #f15b5a;
+-moz-box-shadow: 0px 0px 0px 0px #f15b5a;
+box-shadow: 0px 0px 0px 0px #f15b5a;
+ }
+.tp-button.red:hover{
+      background-color: #3a3c41;
+    -webkit-box-shadow: 0px 0px 0px 0px #3a3c41;
+-moz-box-shadow: 0px 0px 0px 0px #3a3c41;
+box-shadow: 0px 0px 0px 0px #3a3c41;
+      }
+</style>
+<link rel='stylesheet' id='rs-plugin-captions-css'  href='http://aims.robots.ox.ac.uk/wp-content/plugins/revslider/rs-plugin/css/captions.php?rev=4.3.8&#038;ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpemailcapturestyles-css'  href='http://aims.robots.ox.ac.uk/wp-content/plugins/wp-email-capture/inc/css/wp-email-capture-styles.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='google-raleway-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A400%2C100%2C200%2C300%2C500%2C600%2C700%2C800%2C900&#038;ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-droid-serif-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700%2C400italic%2C700italic&#038;ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css-css'  href='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/css/bootstrap.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css-css'  href='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/css/flexslider.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='animations-css-css'  href='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/css/animations.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css-css'  href='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/css/font-awesome.css?ver=4.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='datepicker-css-css'  href='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/css/datepicker.css?ver=1.10.4' type='text/css' media='all' />
+<link rel='stylesheet' id='swipebox-css-css'  href='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/css/swipebox.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='meanmenu-css-css'  href='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/css/meanmenu.css?ver=2.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css-css'  href='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/css/main.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-responsive-css-css'  href='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/css/custom-responsive.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-css-css'  href='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/css/custom.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wptoolset-field-datepicker-css'  href='http://aims.robots.ox.ac.uk/wp-content/plugins/types/embedded/common/toolset-forms/css/wpt-jquery-ui/datepicker.css?ver=0.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.plugins.min.js?rev=4.3.8&#038;ver=3.9.2'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.3.8&#038;ver=3.9.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aims.robots.ox.ac.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aims.robots.ox.ac.uk/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='News' href='http://aims.robots.ox.ac.uk/news/' />
+<meta name="generator" content="WordPress 3.9.2" />
+<link rel='canonical' href='http://aims.robots.ox.ac.uk/' />
+<link rel='shortlink' href='http://aims.robots.ox.ac.uk/' />
+<style type='text/css' id='dynamic-css'>
+
+nav.main-menu ul > li ul li{
+border-color:#73d1e7;
+}
+
+a{
+color:#3a3c41;
+}
+
+a:hover, a:focus{
+color:#f15b5a;
+}
+
+form input[type="submit"]{
+background-color:#3a3c41;
+}
+
+form input[type="submit"]:hover, form input[type="submit"]:focus{
+background-color:#f15b5a;
+}
+
+form input[type="submit"]{
+color:#ffffff;
+}
+
+form input[type="submit"]:hover, form input[type="submit"]:focus{
+color:#ffffff;
+}
+
+.read-more{
+background-color:#67c9e0;
+}
+
+.read-more:hover, .read-more:focus{
+background-color:#f15b5a;
+}
+
+.read-more{
+color:#ffffff;
+}
+
+.read-more:hover, .read-more:focus{
+color:#ffffff;
+}
+
+#main-footer, .footer-bottom, #main-footer .widget ul, #main-footer .widget ul li{
+border-color:#4a4c52;
+}
+
+#main-footer .widget a{
+color:#b5bac6;
+}
+
+#main-footer .widget a:hover{
+color:#cbd1de;
+}
+
+#main-footer .widget a:active{
+color:#cbd1de;
+}
+
+.footer-bottom .footer-social-nav li .fa{
+color:#53565c;
+}
+
+.footer-bottom .footer-social-nav li .fa:hover{
+color:#ffffff;
+}
+
+.footer-bottom .footer-social-nav li .fa:active{
+color:#ffffff;
+}
+
+</style><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><script src="http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/respond.min.js"></script><![endif]-->
+<style type='text/css' id='quick-css'>
+                                            
+</style>
+
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<style type="text/css" title="dynamic-css" class="options-output">nav.main-menu{margin-top:0;}h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h1 span, h2 span, h3 span, h4 span, h5 span, h6 span{color:#3a3c41;}body{color:#7b7d85;}.header-top{background-color:#60646d;}.header-top p{color:#bbbfc9;}.header-top p span{color:#fefefe;}#header{background-color:#ffffff;}nav.main-menu ul > li > a{color:#60646d;}nav.main-menu ul > li:hover > a, nav.main-menu ul > .current-menu-item > a, nav.main-menu ul > li ul{background-color:#67c9e0;}nav.main-menu ul > li:hover > a, nav.main-menu ul > .current-menu-item > a, nav.main-menu ul > li ul li a{color:#ffffff;}nav.main-menu ul > li ul li:hover a{background-color:#53c3dd;}.page-top{background-color:#ffffff;}#main-footer{background-color:#3a3c41;}#main-footer .widget h3.title{color:#f0f5f7;}#main-footer{color:#9ba0aa;}.footer-bottom p{color:#7a7d86;}</style>    
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body class="home page page-id-11 page-template page-template-home-template-php" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+<!--[if lt IE 7]>
+<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="<php echo 'http://www.google.com/chromeframe/?redirect=true'; ?>">activate Google Chrome Frame</a> to improve your experience.</p>
+<![endif]-->
+
+
+<header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+  <div class="container" style="margin-top: -15px;">
+      <div class="row" style="background-color: white;">
+          <div class="col-lg-3 col-md-3 " align="center">
+            <a href="http://aims.robots.ox.ac.uk"><img src="/aims/aims_logo.png" style="margin-top: 25px;"></a>
+          </div>
+          <div class="col-lg-4 col-md-4 " align="center">
+            <div style="padding-top: 10px; margin-bottom: -10px;">
+              <a href="http://aims.robots.ox.ac.uk"><center><font style="font-family: 'Roboto', sans-serif; font-size: 160%;"><b>EPSRC Centre for Doctoral Training in Autonomous Intelligent<br>Machines and Systems</b></font></center></a>
+            </div>
+          </div>
+          <div class="col-lg-1 col-md-1 " style="text-align: center;">
+          
+          </div>
+          <div class="col-lg-2 col-md-2 " style="text-align: center;">
+              <a href="http://www.epsrc.ac.uk/"><img src="/aims/EPSRC.jpg" style="margin-top: 19px;"></a>
+          </div>
+          <div class="col-lg-2 col-md-2 " style="text-align: center;">
+              <a href="http://www.ox.ac.uk/"><img src="/aims/oxlogo.gif" style="margin-top: 20px;"></a>
+          </div>
+      </div>
+  </div>
+</header>
+
+<header id="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+    <div class="container" style="margin-top: -40px; margin-bottom: -10px;">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+
+                
+                <center>
+                <!-- Main Navigation -->
+                <nav class="main-menu" style="float: none !important;">
+                    <ul id="menu-main-menu" class="header-nav clearfix"><li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-has-children menu-item-215"><a href="http://aims.robots.ox.ac.uk/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="http://aims.robots.ox.ac.uk/academics-and-staff/">Academics and Staff</a></li>
+	<li id="menu-item-472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a href="http://aims.robots.ox.ac.uk/students/">Students</a></li>
+	<li id="menu-item-343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="http://aims.robots.ox.ac.uk/news/">News and Events</a></li>
+	<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a href="http://aims.robots.ox.ac.uk/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-374"><a href="http://aims.robots.ox.ac.uk/how-to-apply/">Prospective Students</a>
+<ul class="sub-menu">
+	<li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="http://aims.robots.ox.ac.uk/how-to-apply/">How to Apply</a></li>
+	<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="http://aims.robots.ox.ac.uk/full-width-faqs/">FAQ</a></li>
+	<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="http://aims.robots.ox.ac.uk/cdt-program/">CDT Program</a></li>
+	<li id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><a href="http://aims.robots.ox.ac.uk/cdt-taught-modules/">CDT Taught Modules</a></li>
+	<li id="menu-item-359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-359"><a href="http://aims.robots.ox.ac.uk/cdt-research-themes/">CDT Research Themes</a></li>
+	<li id="menu-item-396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-396"><a href="http://aims.robots.ox.ac.uk/other-scholarships/">Other Scholarships</a></li>
+</ul>
+</li>
+<li id="menu-item-487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="http://aims.robots.ox.ac.uk/current-students/">Current Students</a></li>
+<li id="menu-item-476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-476"><a href="http://aims.robots.ox.ac.uk/research/">Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="http://aims.robots.ox.ac.uk/propose-a-project/">Propose a Project</a></li>
+</ul>
+</li>
+<li id="menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><a href="http://aims.robots.ox.ac.uk/industrial-partners/">Industrial Partners</a></li>
+</ul>                </nav>
+                </center>
+
+                <div id="responsive-menu-container"></div>
+
+            </div>
+        </div>
+    </div>
+</header>
+<table width='100%' style='border-width: 0px;'><tr><td style='border-width: 0px;'><center><b>Applications for this programme is now closed for entry in October 2015</b><br><br></center></td></table><!-- START REVOLUTION SLIDER 4.3.8 fixed mode -->
+
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper" style="margin:0px auto;background-color:#eeeeee;padding:0px;margin-top:0px;margin-bottom:0px;height:540px;width:1053px;">
+	<div id="rev_slider_1_1" class="rev_slider" style="display:none;height:540px;width:1053px;">
+<ul>	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
+		<!-- MAIN IMAGE -->
+		<img src="http://aims.robots.ox.ac.uk/wp-content/uploads/2014/09/slider1.jpg"  alt="slider1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption medium_light_black2 sfr tp-resizeme"
+			data-x="448"
+			data-y="105" 
+			data-speed="300"
+			data-start="2100"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="300"
+			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;"><strong>&nbsp;Revolutionising&nbsp;</strong>
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption large_bold_black2 sfr tp-resizeme"
+			data-x="448"
+			data-y="166" 
+			data-speed="300"
+			data-start="2700"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="300"
+			style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;"><strong>&nbsp;our society by&nbsp;</strong>
+		</div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption large_bold_trans_red2 sfb tp-resizeme"
+			data-x="448"
+			data-y="228" 
+			data-speed="300"
+			data-start="3300"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="300"
+			style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">&nbsp;Autonomous,&nbsp;<br>&nbsp;Intelligent Machines&nbsp;<br>&nbsp;and Systems&nbsp;
+		</div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption largepinkbg2 sfr tp-resizeme"
+			data-x="497"
+			data-y="384" 
+			data-speed="300"
+			data-start="4500"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="300"
+			style="z-index: 5; max-width: auto; max-height: auto; white-space: nowrap;"><center>which&nbsp;can&nbsp;learn, adapt&nbsp;and act<br>independently of human control</center>
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="fade" data-slotamount="7" data-masterspeed="1500" >
+		<!-- MAIN IMAGE -->
+		<img src="http://aims.robots.ox.ac.uk/wp-content/uploads/2014/09/slider2.jpg"  alt="slider2"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption large_bold_red2 sft customout"
+			data-x="center" data-hoffset="-162"
+			data-y="18" 
+			data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+			data-speed="500"
+			data-start="1500"
+			data-easing="Back.easeOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="500"
+			data-endeasing="Power4.easeIn"
+			data-captionhidden="on"
+			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Delivering highly-trained individuals
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption medium_bold_darkgray2 skewfromrightshort customout"
+			data-x="center" data-hoffset="-165"
+			data-y="74" 
+			data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+			data-speed="500"
+			data-start="3000"
+			data-easing="Back.easeOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="500"
+			data-endeasing="Power4.easeIn"
+			data-captionhidden="on"
+			style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;"><center>versed in the sciences of robotics,<br>computer vision, wireless embedded systems,<br>machine learning, control and verification</center>
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-transition="zoomin" data-slotamount="7" data-masterspeed="600" >
+		<!-- MAIN IMAGE -->
+		<img src="http://aims.robots.ox.ac.uk/wp-content/uploads/2014/09/slider3.jpg"  alt="slider3"  data-bgposition="left top" data-bgfit="cover" data-bgrepeat="no-repeat">
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption light_bg_darkgray3 lfr customout"
+			data-x="29"
+			data-y="94" 
+			data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+			data-speed="500"
+			data-start="2500"
+			data-easing="Power4.easeOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="500"
+			data-captionhidden="on"
+			style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">ADVANCING PRACTICAL MODELS & TECHNIQUES
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption bold_bg_white3 lfr customout"
+			data-x="115"
+			data-y="139" 
+			data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+			data-speed="500"
+			data-start="2800"
+			data-easing="Power4.easeOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="500"
+			data-captionhidden="on"
+			style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">TO ENABLE COMPUTERS AND ROBOTS<BR>TO MAKE DECISIONS UNDER UNCERTAINTY
+		</div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption lfb tp-resizeme"
+			data-x="229"
+			data-y="390" 
+			data-speed="300"
+			data-start="3400"
+			data-easing="Power3.easeInOut"
+			data-splitin="none"
+			data-splitout="none"
+			data-elementdelay="0.1"
+			data-endelementdelay="0.1"
+			data-endspeed="300"
+			style="z-index: 4; max-width: 550px; max-height: auto; white-space: nowrap;"><a href='http://aims.robots.ox.ac.uk/research/' class='tp-button red small'>Read More</a>
+		</div>
+	</li>
+</ul>
+<div class="tp-bannertimer"></div>	</div>
+</div>			
+			<script type="text/javascript">
+
+				var tpj=jQuery;				
+				tpj.noConflict();				
+				var revapi1;
+				
+				tpj(document).ready(function() {
+								
+				if(tpj('#rev_slider_1_1').revolution == undefined)
+					revslider_showDoubleJqueryError('#rev_slider_1_1');
+				else
+				   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+					{
+						dottedOverlay:"none",
+						delay:9000,
+						startwidth:1053,
+						startheight:540,
+						hideThumbs:10,
+						
+						thumbWidth:100,
+						thumbHeight:50,
+						thumbAmount:3,
+						
+						navigationType:"none",
+						navigationArrows:"solo",
+						navigationStyle:"round",
+						
+						touchenabled:"on",
+						onHoverStop:"on",
+						
+						swipe_velocity: 0.7,
+						swipe_min_touches: 1,
+						swipe_max_touches: 1,
+						drag_block_vertical: false,
+												
+						keyboardNavigation:"off",
+						
+						navigationHAlign:"center",
+						navigationVAlign:"bottom",
+						navigationHOffset:0,
+						navigationVOffset:20,
+
+						soloArrowLeftHalign:"left",
+						soloArrowLeftValign:"center",
+						soloArrowLeftHOffset:20,
+						soloArrowLeftVOffset:0,
+
+						soloArrowRightHalign:"right",
+						soloArrowRightValign:"center",
+						soloArrowRightHOffset:20,
+						soloArrowRightVOffset:0,
+								
+						shadow:3,
+						fullWidth:"off",
+						fullScreen:"off",
+
+						spinner:"spinner0",
+						
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+
+						
+						shuffle:"off",
+						
+												
+												
+												
+												
+												
+						hideThumbsOnMobile:"off",
+						hideNavDelayOnMobile:1500,						hideBulletsOnMobile:"on",
+						hideArrowsOnMobile:"on",
+						hideThumbsUnderResolution:0,
+						
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:768,
+						hideAllCaptionAtLilmit:0,
+						startWithSlide:0,
+						videoJsPath:"http://aims.robots.ox.ac.uk/wp-content/plugins/revslider/rs-plugin/videojs/",
+						fullScreenOffsetContainer: ""	
+					});
+				
+				});	//ready
+				
+			</script>
+			
+			<!-- END REVOLUTION SLIDER --><div class="home-features clearfix">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-12 ">
+                <div class="features-intro clearfix">
+                    <h2>Key Skill Areas</h2>
+
+                    <p>The aim of the CDT is to train a world-class cohort of researchers in the theory and practice of a new generation of autonomous intelligent machines and systems. Training will be provided in four interconnected skills areas, the synthesis of which is key to building autonomy in AIMS applications.</p>
+                    <a class="read-more" href="http://aims.robots.ox.ac.uk/how-to-apply/">How to Apply</a>                </div>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-12 ">
+                <div class="row">
+
+                    <div class="col-lg-6 col-md-6 col-sm-6 single-feature">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-3 col-sm-3 icon-wrapper">
+                                <i class="fa fa-cogs"></i>                            </div>
+                            <div class="col-lg-9 col-md-9 col-sm-9">
+                                <h3>
+                                    Robotics, Vision and Perception                                </h3>
+                                <p>Enabling autonomous systems to identify and interpret complex scenes, from moving vehicles to human activity and form robust situation assessments to enable appropriate action and decision making.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-sm-6 single-feature">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-3 col-sm-3 icon-wrapper">
+                                <i class="fa fa-graduation-cap"></i>                            </div>
+                            <div class="col-lg-9 col-md-9 col-sm-9">
+                                <h3>
+                                    Machine Intelligence & Multi-Agent Systems                                </h3>
+                                <p>Making machine autonomy and intelligence ubiquitous; allowing machines to discreetly pervade the world around us and assist us.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="visible-lg clearfix"></div>
+                    <div class="visible-md clearfix"></div>
+                    <div class="visible-sm clearfix"></div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 single-feature">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-3 col-sm-3 icon-wrapper">
+                                <i class="fa fa-search"></i>                            </div>
+                            <div class="col-lg-9 col-md-9 col-sm-9">
+                                <h3>
+                                    Control & Verification                                </h3>
+                                <p>Developing effective techniques to monitor and control intelligent machines, such as those used in manufacturing, transportation and biosensing/healthcare systems, and to ensure their safety and dependability.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 col-md-6 col-sm-6 single-feature">
+                        <div class="row">
+                            <div class="col-lg-3 col-md-3 col-sm-3 icon-wrapper">
+                                <i class="fa fa-share-alt"></i>                            </div>
+                            <div class="col-lg-9 col-md-9 col-sm-9">
+                                <h3>
+                                    M2M, Secure Sensing & Actuation                                </h3>
+                                <p>Realise the vision of connecting intelligent devices seamlessly and everywhere and to allow them to share their sensing, monitoring and actuating capabilities.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="home-services clearfix">
+    <div class="container">
+        <div class="row">
+
+                            <div class="col-lg-12 col-md-12 col-sm-12 ">
+                    <div class="slogan-section animated fadeInUp clearfix">
+                        <h2>More on Key Skill Areas</h2><p>The aim of the CDT is to train a world-class cohort of researchers in the theory and practice of a new generation of autonomous intelligent machines and systems. Training will be provided in four interconnected skills areas, the synthesis of which is key to building autonomy in AIMS applications.</p>                    </div>
+                </div>
+            
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="tab-main animated fadeInDown clearfix">
+
+                    <div class="col-lg-4 col-md-4 col-sm-4">
+                                                        <div class="tab-title">
+                                    <h6>Robotics, Vision and Perception</h6>
+                                </div>
+                                                                <div class="tab-title">
+                                    <h6>Machine Intelligence &#038; Multi-Agent Systems</h6>
+                                </div>
+                                                                <div class="tab-title">
+                                    <h6>Control &#038; Verification</h6>
+                                </div>
+                                                                <div class="tab-title">
+                                    <h6>M2M, Secure Sensing &#038; Actuation</h6>
+                                </div>
+                                                    </div>
+
+                    <div class="col-lg-8 col-md-8 col-sm-8">
+                        <div class="tab-content">
+                                                            <article class="content clearfix hentry">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 col-sm-12 ">
+                                            <figure>
+                                                <a href="http://aims.robots.ox.ac.uk/key-skill-area/robotics-vision-and-perception/" rel="bookmark">
+                                                    <img width="670" height="500" src="http://aims.robots.ox.ac.uk/wp-content/uploads/2014/05/DriverlessCar_small-670x500.jpg" class="attachment-gallery-post-single wp-post-image" alt="(c) John Cairns" />                                                </a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12 ">
+                                            <h5><a href="http://aims.robots.ox.ac.uk/key-skill-area/robotics-vision-and-perception/" rel="bookmark">Robotics, Vision and Perception</a></h5>
+                                            <p>The first key skills area is in enabling autonomous systems to identify and interpret complex scenes, from moving vehicles to human activity and form robust situation assessments to enable appropriate action and decision making. For example, robotic&hellip;</p>
+                                            <a rel="bookmark" class="read-more" href="http://aims.robots.ox.ac.uk/key-skill-area/robotics-vision-and-perception/">Read More</a>
+                                        </div>
+                                    </div>
+                                </article>
+                                                                <article class="content clearfix hentry">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 col-sm-12 ">
+                                            <figure>
+                                                <a href="http://aims.robots.ox.ac.uk/key-skill-area/machine-intelligence-and-multi-agent-systems/" rel="bookmark">
+                                                    <img width="670" height="500" src="http://aims.robots.ox.ac.uk/wp-content/uploads/2014/05/11-06-2014-19.1-670x500.jpg" class="attachment-gallery-post-single wp-post-image" alt="11-06-2014 (19.1)" />                                                </a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12 ">
+                                            <h5><a href="http://aims.robots.ox.ac.uk/key-skill-area/machine-intelligence-and-multi-agent-systems/" rel="bookmark">Machine Intelligence &#038; Multi-Agent Systems</a></h5>
+                                            <p>The second key skills area is in making machine autonomy and intelligence ubiquitous; allowing machines to discreetly pervade the world around us and assist us. At the heart of this is a scaling issue and the need&hellip;</p>
+                                            <a rel="bookmark" class="read-more" href="http://aims.robots.ox.ac.uk/key-skill-area/machine-intelligence-and-multi-agent-systems/">Read More</a>
+                                        </div>
+                                    </div>
+                                </article>
+                                                                <article class="content clearfix hentry">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 col-sm-12 ">
+                                            <figure>
+                                                <a href="http://aims.robots.ox.ac.uk/key-skill-area/control-and-verification/" rel="bookmark">
+                                                    <img width="670" height="500" src="http://aims.robots.ox.ac.uk/wp-content/uploads/2014/05/11-06-2014-19.1-670x500.jpg" class="attachment-gallery-post-single wp-post-image" alt="11-06-2014 (19.1)" />                                                </a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12 ">
+                                            <h5><a href="http://aims.robots.ox.ac.uk/key-skill-area/control-and-verification/" rel="bookmark">Control &#038; Verification</a></h5>
+                                            <p>The third skills areas lies in developing effective techniques to monitor and control intelligent machines, such as those used in manufacturing, transportation and biosensing/healthcare systems, and to ensure their safety and dependability. For example, how do we&hellip;</p>
+                                            <a rel="bookmark" class="read-more" href="http://aims.robots.ox.ac.uk/key-skill-area/control-and-verification/">Read More</a>
+                                        </div>
+                                    </div>
+                                </article>
+                                                                <article class="content clearfix hentry">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 col-sm-12 ">
+                                            <figure>
+                                                <a href="http://aims.robots.ox.ac.uk/key-skill-area/m2m-secure-sensing-and-actuation/" rel="bookmark">
+                                                    <img width="670" height="500" src="http://aims.robots.ox.ac.uk/wp-content/uploads/2014/05/SnakeArm_small-670x500.jpg" class="attachment-gallery-post-single wp-post-image" alt="SnakeArm_small" />                                                </a>
+                                            </figure>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12 ">
+                                            <h5><a href="http://aims.robots.ox.ac.uk/key-skill-area/m2m-secure-sensing-and-actuation/" rel="bookmark">M2M, Secure Sensing &#038; Actuation</a></h5>
+                                            <p>The fourth skills area will be to realise the vision of connecting intelligent devices seamlessly and everywhere and to allow them to share their sensing, monitoring and actuating capabilities. This is often referred to as “M2M” or&hellip;</p>
+                                            <a rel="bookmark" class="read-more" href="http://aims.robots.ox.ac.uk/key-skill-area/m2m-secure-sensing-and-actuation/">Read More</a>
+                                        </div>
+                                    </div>
+                                </article>
+                                                        </div><!-- end of tab-content -->
+                    </div>
+
+                </div><!-- tab-main -->
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="home-blog text-center clearfix">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                                    <div class="slogan-section animated fadeInUp clearfix">
+                        <h2>Blog</h2>                    </div>
+                                        <div class="row">
+                                            <div class="col-lg-4 col-md-4 col-sm-12 ">
+                            <article class="common-blog-post animated fadeInRight clearfix">
+                                                                <div class="text-content clearfix">
+                                    <h5><a href="http://aims.robots.ox.ac.uk/robotics-and-control-workshop-in-bristol/" rel="bookmark">Robotics and Control Workshop in Bristol</a></h5>
+                                    <div class="entry-meta"><time datetime="2014-12-02T15:26:02+00:00">2 December, 2014</time>, by <a href="http://aims.robots.ox.ac.uk/author/aims/" title="Posts by AIMS" rel="author">AIMS</a></div>
+                                    <div class="for-border"></div>
+                                    <p>Last week  (25/11/14) the CDT in AIMS students attended the Robotics and Control Workshop in Bristol, where they met other&hellip; </p>
+                                </div>
+                            </article>
+                            <a class="read-more" href="http://aims.robots.ox.ac.uk/robotics-and-control-workshop-in-bristol/">Read More</a>
+                        </div>
+                                            </div>
+                            </div>
+
+        </div>
+    </div>
+</div>
+
+<footer id="main-footer" class="site-footer clearfix">
+    <div class="container">
+        <div class="row">
+
+            <div class=" col-lg-3 col-md-3 col-sm-6  ">
+                <section id="text-3" class="widget animated fadeInLeft widget_text"><h3 class="title">CDT in AIMS</h3>			<div class="textwidget">CDT Administrator (AIMS)<br>
+Ms Wendy Adams<br>
+Tel: (+44 or 0) 1865 283155<br>
+Fax: (+44 or 0) 1865 273010<br>
+Email: <a href="mailto:wendy.adams@eng.ox.ac.uk">wendy.adams@eng.ox.ac.uk</a></div>
+		</section>            </div>
+
+            <div class=" col-lg-3 col-md-3 col-sm-6  ">
+                            </div>
+
+            <div class="clearfix visible-sm"></div>
+
+            <div class=" col-lg-3 col-md-3 col-sm-6  ">
+                <section id="text-4" class="widget animated fadeInLeft widget_text"><h3 class="title"> </h3>			<div class="textwidget"><a href="http://aims.robots.ox.ac.uk/contact/">Contact Us Form</a><br>
+
+<a href="http://www.eng.ox.ac.uk/accessibility">Accessibility</a><br>
+
+<a href="http://www.admin.ox.ac.uk/foi/">Freedom of Information</a><br>
+
+<a href="http://www.eng.ox.ac.uk/privacy">Privacy Policy &amp; Cookies Statement</a><br>
+
+<a href="http://www.ox.ac.uk/copyright.html">University Copyright Statement</a></div>
+		</section>            </div>
+
+            <div class=" col-lg-3 col-md-3 col-sm-6  ">
+                            </div>
+
+            <div class="col-lg-12 col-md-12 col-sm-12 ">
+                <div class="footer-bottom animated fadeInDown clearfix">
+                    <div class="row">
+                                                    <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 ">
+                                <p>Department of Engineering Science, University of Oxford, Parks Road, Oxford, OX1 3PJ</p>
+                            </div>
+                                                    <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12  clearfix">
+                                <ul class="footer-social-nav">
+                                                                    </ul>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<a href="#top" id="scroll-top"></a>
+
+<script type='text/javascript' id='quick-js'>
+                                            
+</script>
+
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/bootstrap.min.js?ver=3.1.0'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/jquery.flexslider-min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/jquery.swipebox.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/jquery.isotope.min.js?ver=1.5.25'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/jquery.appear.js?ver=0.3.3'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/jquery.validate.min.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/jquery.jplayer.min.js?ver=2.6.0'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/jquery.autosize.min.js?ver=1.18.7'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/jquery.meanmenu.min.js?ver=2.0.6'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/jquery.velocity.min.js?ver=0.0.0'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-includes/js/comment-reply.min.js?ver=3.9.2'></script>
+<script type='text/javascript' src='http://aims.robots.ox.ac.uk/wp-content/themes/medical-theme/js/custom.js?ver=1.0'></script>
+</body>
+</html>

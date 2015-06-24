@@ -1,0 +1,547 @@
+		
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home | Bodleian Blogs</title>
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+<!-- 2012 Bodleian Libraries Main //-->
+
+<!-- Content Related //-->
+
+
+
+
+
+
+<!-- RHS Column //-->
+
+
+
+
+
+<!-- Social media urls //-->
+
+
+
+
+<!-- RHS Column Library //-->
+
+<!-- Content Box settings //-->
+
+
+<!-- general optional //-->
+
+<!-- User Defined //-->
+
+<!-- System Defined //-->
+
+
+
+<link rel="icon" type="image/png" href="favicon.png" />			<link rel="stylesheet" type="text/css" href="//www.bodleian.ox.ac.uk/__data/assets/file/0007/116476/master.css" media="all" />
+								<link rel="stylesheet" type="text/css" href="//www.bodleian.ox.ac.uk/__data/assets/file/0019/116560/responsive.css?v=0.1.15" media="all" />
+								<link rel="stylesheet" type="text/css" href="//www.bodleian.ox.ac.uk/__data/assets/file/0019/122365/master.css?v=0.1.4" media="all" />
+								
+
+  <!--[if IE 7]>
+						<link rel="stylesheet" type="text/css" href="//www.bodleian.ox.ac.uk/__data/assets/file/0003/120918/ie7.css?v=0.1.3" media="all" />
+								<![endif]-->
+  <!--[if IE 6]>
+						<link rel="stylesheet" type="text/css" href="//www.bodleian.ox.ac.uk/__data/assets/file/0004/116563/ie6.css?v=0.1.3" media="all" />
+								<![endif]-->
+  
+  
+			<!-- Scripts -->
+
+<!--[if lt IE 8]><script src="//www.bodleian.ox.ac.uk/__data/assets/js_file/0005/117626/IE8.js"></script><![endif]-->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.7.1.js"></script>
+
+
+<!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.17/jquery-ui.min.js"></script>-->
+
+
+<script type="text/javascript" src="//www.bodleian.ox.ac.uk/__data/assets/js_file/0010/123121/jquery.tmpl.min.js"></script>
+
+
+<script type="text/javascript">if (typeof jQuery == 'undefined') {document.write(unescape("%3Cscript src='//www.bodleian.ox.ac.uk/__data/assets/js_file/0008/117629/jquery-182min.js' type='text/javascript'%3E%3C/script%3E"));}</script><!-- jQuery Local Copy -->
+
+<script type="text/javascript" src="//www.bodleian.ox.ac.uk/__data/assets/js_file/0006/117627/thirdpartyjs.js"></script><!-- thirdparty.js -->
+<script type="text/javascript" src="//www.bodleian.ox.ac.uk/__data/assets/js_file/0007/117628/masterjs.js"></script><!-- master.js -->
+<script type="text/javascript" src="//www.bodleian.ox.ac.uk/__data/assets/js_file/0005/122468/auto_anchors.js"></script><!-- auto_anchors.js -->
+
+<!-- ShareThis -->
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+  stLight.options({publisher: "ur-d23cb29f-4a10-310f-ea9e-17fdba971be"});
+</script>
+
+<!-- FB autocompletion -->
+<script type="text/javascript" src="//www.bodleian.ox.ac.uk/__data/assets/js_file/0010/123103/jquery.funnelback-completion.js"></script>
+<script type="text/javascript">
+// Query completion setup.
+jQuery(function() {
+  jQuery("#query").fbcompletion({
+    'enabled': 'enabled',
+    'collection': 'oxford-bodleian-libraries-meta',
+    'program': 'http://fb-search03.squiz.co.uk/search/padre-qs.cgi',
+    'format': 'simple',
+    'alpha': '.5',
+    'show': '5',
+    'sort': '0',
+    'length': '1',
+    'delay': '0',
+    'profile': '_default_preview'
+  });
+});
+</script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37160863-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>			
+
+
+
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 20 February 2013 11:10:58
+-->
+
+
+
+<link rel="profile" href="http://gmpg.org/xfn/11" /><link rel="pingback" href="" /><link rel="stylesheet" type="text/css" href="/wp-content/themes/bodleian-2013/style.css" media="all" /><script type="text/javascript" src="/wp-content/themes/bodleian-2013/search.js"></script></head>
+
+<body class="floating-footer">
+  <div id="top"></div>
+  
+  
+			<div class="cookie-policy">
+  <div class="grid">
+    <div class="twelve">
+      <a href="#" title="Accept and close" class="close"></a>
+      <p class="detail for-desktop">This site uses cookies to support some content and functions, and also Google Analytics. By using this site you agree to their use. <a href="http://www.bodleian.ox.ac.uk/cookies">Find out more and opt out &raquo;</a></p>
+      <p class="detail for-mobile"><a href="http://www.bodleian.ox.ac.uk/cookies">This site uses cookies to support some content and functions, and also Google Analytics &raquo;</a></p>
+    </div>
+  </div>
+</div><!-- END .cookie-policy -->			
+  
+  <div class="header grid">
+    
+			<div class="header-links five">
+  <p>
+    <!-- 1. Desktop links; 2. Mobile links --><a href="http://www.bodleian.ox.ac.uk/home">Home</a><a href="http://www.bodleian.ox.ac.uk/using/ask">Ask a librarian</a><a href="http://www.bodleian.ox.ac.uk/accessibility">Accessibility</a><a href="http://www.bodleian.ox.ac.uk/site-map">Site map</a><a href="http://www.bodleian.ox.ac.uk/about-us/contact">Contact</a><a href="http://www.bodleian.ox.ac.uk" class="visible-on-mobile goToDesktop">Go to Desktop Site</a>  </p>
+</div><div class="logo seven">
+  <a href="http://www.bodleian.ox.ac.uk" class="mobile_header_logo_img_wrap" title="Bodleian Libraries homepage"><img src="//www.bodleian.ox.ac.uk/__data/assets/image/0005/117176/logo.jpg" width="117" height="102" alt="Bodleian Libraries logo"></a>
+  <a href="http://www.bodleian.ox.ac.uk" class="mobile_header_logo_text_wrap" title="Bodleian Libraries homepage">
+    <span class="page-title">Bodleian Libraries</span>
+    <span class="division">University of Oxford</span>
+  </a>
+</div><div class="search five">
+  <ul class="tab-menu">
+    <li><a href="#search-on-website">Website</a><span class="arrow"></span></li>
+    <li><a href="#search-in-catalogue">Catalogue (SOLO)</a><span class="arrow"></span></li>
+  </ul>
+  <div id="search-on-website" class="tab default">
+    <form action="http://www.bodleian.ox.ac.uk/site-search" method="get">
+      <div>
+        <input class="text" type="text" placeholder="Search this site" value="" name="query_and" />
+        <input class="submit" type="submit" value="" title="Search" />
+        <input type="hidden" value="site-search" name="form" />
+        <input type="hidden" value="_default_preview" name="profile" />
+        <input type="hidden" value="oxford-bodleian-libraries-meta" name="collection" />
+        <input type="hidden" value="" name="start_rank" />
+      </div>
+    </form>
+  </div>
+  <div id="search-in-catalogue" class="tab catalogue">
+    <form action="http://solo.bodleian.ox.ac.uk/primo_library/libweb/action/search.do" method="get">
+      <div>
+        <input type="hidden" name="dstmp" value="1361358660" />
+        <input type="hidden" name="dum" value="true" />
+        <input type="hidden" name="vid" value="OXVU1" />
+        <input class="text" type="text" name="vl(freeText0)" placeholder="Search in catalogue (SOLO)" value ="" />
+        <input class="submit" type="submit" name="fn" value="search" title="Search" />
+      </div>
+    </form>
+  </div>
+</div>			
+  </div><!-- END .header -->
+  
+  <div class="menu  grid">
+  <a href="#" class="menu-button show-menu"><span>Menu</span></a>
+  <a href="#section-menu" class="menu-button show-submenu"><span>Section menu</span></a>
+  <ul class="twelve">
+    <li>
+  <a href="http://www.bodleian.ox.ac.uk/subjects-and-libraries" class="page_link">Subjects &amp; Libraries <span class="arrow">a</span>
+</a>
+
+
+  
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/finding-resources" class="page_link">Finding resources <span class="arrow">a</span>
+</a>
+
+
+  
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/using" class="page_link">Using our libraries <span class="arrow">a</span>
+</a>
+
+
+  
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/whats-on" class="page_link">What's on <span class="arrow">a</span>
+</a>
+
+
+  
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/get-involved" class="page_link">Get involved <span class="arrow">a</span>
+</a>
+
+
+  
+</li><li>
+  <a href="http://www.bodleian.ox.ac.uk/our-work" class="page_link">Our work <span class="arrow">a</span>
+</a>
+
+
+  
+</li><li class="last">
+  <a href="http://www.bodleian.ox.ac.uk/about-us" class="page_link">About us <span class="arrow">a</span>
+</a>
+
+
+  
+</li>
+  </ul>
+</div><!-- END .menu -->  
+  <!-- main content -->
+  <div class="main grid rhs_ grid_designers-nine">
+  
+  <!-- left navigation -->
+  		
+    <div class="submenu designers-three"><div id="section_name">
+  <h3>
+    <a href="/">Blogs</a>
+  </h3>
+</div>
+<!-- /a-z -->
+<div id="nav_left">
+  <ul class="sidebar_widget menu_level_1" id="nav_left_first_level">
+    <li class="first_level_current current first">
+      <a class="first_level_current" href="/">Blog categories</a>
+      <ul class="blog_category_list menu_level_2" id="nav_left_second_level">
+        <li class="second_level_normal">
+          <a class="second_level_normal" href="/">All blogs</a>
+        </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/libraries" title="Oxford libraries and librarians">Oxford libraries and librarians</a>
+          </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/collections" title="Special collections and archives">Special collections and archives</a>
+          </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/research" title="Research and learning">Research and learning</a>
+          </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/digital" title="Digital Bodleian">Digital Bodleian</a>
+          </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/outreach" title="Exhibitions and outreach">Exhibitions and outreach</a>
+          </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/projects" title="Bodleian projects">Bodleian projects</a>
+          </li>
+              </ul>
+    </li>
+
+    <li class="first_level_current current">
+            <a class="first_level_current" href="/articles/2015/06">Recent posts</a>
+      <ul class="blog_month_list menu_level_2" id="nav_left_second_level">
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/06" title="All blog posts for June 2015">June 2015</a>
+          </li>
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/05" title="All blog posts for May 2015">May 2015</a>
+          </li>
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/04" title="All blog posts for April 2015">April 2015</a>
+          </li>
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/03" title="All blog posts for March 2015">March 2015</a>
+          </li>
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/02" title="All blog posts for February 2015">February 2015</a>
+          </li>
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/01" title="All blog posts for January 2015">January 2015</a>
+          </li>
+              </ul>
+    </li>
+
+    <li class="first_level_current current">
+      <a class="first_level_current" href="/a-z">A-Z of blogs</a>
+    </li>
+  </ul>
+</div>
+</div>
+  
+							
+  
+  
+  <!-- left navigation for megamenu only -->
+  
+  <!-- end left navigation for megamenu only -->
+
+
+   <!-- Article Header -->
+   
+						
+ 
+    
+
+      <div class="article-header designers-nine">
+         
+			<div class="social-media share-this hidden-on-mobile">
+  <span class='st_facebook_hcount'></span>
+  <span class='st_twitter_hcount'></span>
+  <span class='st_googleplus_hcount'></span>
+</div>			
+         <div class="breadcrumb"><p>
+  <a href="http://www.bodleian.ox.ac.uk/" id="home">Home</a>
+  &nbsp;&raquo;&nbsp;
+  <a href="/">Blogs</a>
+  <span id="extended_breadcrumbs">
+  </span>
+</p>
+
+<script type="text/javascript">/* <![CDATA[ */
+$(function(){
+  var h1 = $('#content h1:first');
+  var extended_breadcrumbs = $('#extended_breadcrumbs');
+  if(h1.attr('data-prefix')){
+    extended_breadcrumbs.append(' &nbsp;&raquo;&nbsp; <a href="' + h1.attr('data-prefix-url') + '">' + h1.attr('data-prefix') + '</a>');
+  }
+  extended_breadcrumbs.append(' &nbsp;&raquo;&nbsp; <a href="' + window.location + '">' + h1.text() + '</a>');
+});
+/* ]]> */</script>
+</div>
+       </div><!-- article-header -->
+       
+
+    <!-- additional content wrapper -->
+    <div class="">
+
+       
+
+       <!-- main content -->
+       <div class="designers-nine ">
+          <div class="content">
+              
+		
+
+
+<div id="content">
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29066209-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><form method="GET" action="/search" id="search_blogs">
+  <input type="text" name="q" id="q" placeholder="Search all blogs..." value="" />
+  <input class="submit" type="submit" value="" title="Search">
+</form>
+<h1>A-Z of blogs</h1>
+<div id="auto_anchor_links" data-auto-anchor-links="h2"></div>
+<div id="blogs_index">
+  <h2>#</h2><a href="http://blogs.bodleian.ox.ac.uk/23things/
+" title="23 Things programme
+">23 Things programme
+</a><br /><h2>A</h2><a href="http://alkashkul.wordpress.com/" title="al-kashkūl    الكشكول">al-kashkūl    الكشكول</a><br /><a href="http://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/" title="Archives and Manuscripts at the Bodleian Library">Archives and Manuscripts at the Bodleian Library</a><br /><h2>B</h2><a href="http://rslbio.blogspot.com/" title="Biochemistry librarian (Radcliffe Science Library)">Biochemistry librarian (Radcliffe Science Library)</a><br /><a href="http://ballads.bodleian.ox.ac.uk/blog/" title="Bodleian Ballads">Bodleian Ballads</a><br /><a href="http://blogs.bodleian.ox.ac.uk/digital/" title="Bodleian Digital Library">Bodleian Digital Library</a><br /><a href="http://bodedlib.tumblr.com/" title="Bodleian Education Library">Bodleian Education Library</a><br /><a href="http://futurearchives.blogspot.co.uk/" title="Bodleian Electronic Archives and Manuscripts (BEAM)">Bodleian Electronic Archives and Manuscripts (BEAM)</a><br /><a href="http://blogs.bodleian.ox.ac.uk/history/" title="Bodleian History Faculty Library">Bodleian History Faculty Library</a><br /><a href="http://blogs.bodleian.ox.ac.uk/skills/" title="Bodleian iskills blog">Bodleian iskills blog</a><br /><a href="http://blogs.bodleian.ox.ac.uk/lawbod/" title="Bodleian Law Library">Bodleian Law Library</a><br /><a href="http://blogs.bodleian.ox.ac.uk/maps/" title="Bodleian Map Room blog">Bodleian Map Room blog</a><br /><a href="http://bodleianmusic.blogspot.co.uk/
+" title="Bodleian Music Faculty Library">Bodleian Music Faculty Library</a><br /><a href="http://blogs.bodleian.ox.ac.uk/oil" title="Bodleian Oriental Institute Library">Bodleian Oriental Institute Library</a><br /><a href="http://bodwiser.wordpress.com/" title="BodWiser: Information resources, tools and skills">BodWiser: Information resources, tools and skills</a><br /><h2>C</h2><a href="http://claysanskritlibrary.wordpress.com/" title="Clay Sanskrit Library">Clay Sanskrit Library</a><br /><a href="http://conservativepartyarchive.blogspot.com/" title="Conservative Party Archive">Conservative Party Archive</a><br /><h2>D</h2><a href="http://blogs.bodleian.ox.ac.uk/dharma/" title="Digital Humanities Archives for Research Materials (DHARMa)">Digital Humanities Archives for Research Materials (DHARMa)</a><br /><h2>H</h2><a href="http://blogs.bodleian.ox.ac.uk/ham/" title="Historical Archives and Manuscripts">Historical Archives and Manuscripts</a><br /><h2>J</h2><a href="http://jesuslibraries.wordpress.com/" title="Jesus College Libraries blog">Jesus College Libraries blog</a><br /><a href="http://johnjohnsoncollectionnowandthen.wordpress.com/
+" title="John Johnson Collection">John Johnson Collection</a><br /><a href="http://ephemeraresources.blogspot.com/" title="John Johnson Collection: Ephemera resources">John Johnson Collection: Ephemera resources</a><br /><h2>L</h2><a href="http://languagelibraryatoxford.over-blog.com/" title="Language Centre Library">Language Centre Library</a><br /><a href="http://blogs.bodleian.ox.ac.uk/mullerlibrary/" title="Leopold Muller Memorial Library">Leopold Muller Memorial Library</a><br /><h2>M</h2><a href="http://www.magd.ox.ac.uk/libraries-and-archives/treasure-of-the-month-2/" title="Magdalen College Libraries, Treasure of the Month">Magdalen College Libraries, Treasure of the Month</a><br /><a href="http://manifoldgreatness.wordpress.com/" title="Manifold Greatness exhibition blog">Manifold Greatness exhibition blog</a><br /><h2>N</h2><a href="http://nuffieldcollegelibrary.wordpress.com/" title="Nuffield College Library">Nuffield College Library</a><br /><h2>O</h2><a href="http://blogs.bodleian.ox.ac.uk/oxrob/" title="Oxford Radiation Oncology blog">Oxford Radiation Oncology blog</a><br /><a href="http://researchdata.ox.ac.uk/home/research-data-blog/" title="Oxford Research Data Blog">Oxford Research Data Blog</a><br /><a href="http://www.oxscholcomms.blogspot.com/" title="Oxford Scholarly Communications">Oxford Scholarly Communications</a><br /><a href="http://ww1centenary.bodleian.ox.ac.uk/" title="Oxford World War I Centenary Programme">Oxford World War I Centenary Programme</a><br /><h2>P</h2><a href="http://bav.bodleian.ox.ac.uk/blog/" title="Polonsky Foundation Digitisation Project">Polonsky Foundation Digitisation Project</a><br /><h2>R</h2><a href="http://blogs.bodleian.ox.ac.uk/oxtru/" title="Resources for Oxford Transplant, Renal, and Urology Clinicians">Resources for Oxford Transplant, Renal, and Urology Clinicians</a><br /><a href="http://contedlibrary.blogspot.co.uk/  
+" title="Rewley House Continuing Education Library">Rewley House Continuing Education Library</a><br /><a href="http://blogs.bodleian.ox.ac.uk/conted/" title="Rewley House Continuing Education Library blog">Rewley House Continuing Education Library blog</a><br /><h2>S</h2><a href="http://blogs.bodleian.ox.ac.uk/sainsbury/" title="Sainsbury Library">Sainsbury Library</a><br /><a href="http://blogs.bodleian.ox.ac.uk/savingoxfordmedicine" title="Saving Oxford Medicine">Saving Oxford Medicine</a><br /><a href="http://blogs.bodleian.ox.ac.uk/science/" title="Science">Science</a><br /><a href="http://www.bodleian.ox.ac.uk/eebotcp/sect/" title="SECT Project Blog">SECT Project Blog</a><br /><a href="http://seldenmap.bodleian.ox.ac.uk/" title="Selden Map">Selden Map</a><br /><a href="http://oldchinesebooks.wordpress.com/
+" title="Serica: Old Chinese Books">Serica: Old Chinese Books</a><br /><a href="http://blogs.bodleian.ox.ac.uk/shelleysghost" title="Shelley's Ghost exhibition blog">Shelley's Ghost exhibition blog</a><br /><a href="http://blogs.bodleian.ox.ac.uk/ssl" title="Social Science Library">Social Science Library</a><br /><a href="http://shakespeare.bodleian.ox.ac.uk/blog/" title="Sprint for Shakespeare">Sprint for Shakespeare</a><br /><a href="http://stjohnscollegelibrary.wordpress.com/" title="St John's College Library, Special Collections">St John's College Library, Special Collections</a><br /><h2>T</h2><a href="http://blogs.bodleian.ox.ac.uk/taylorian/" title="Taylor Institution Library">Taylor Institution Library</a><br /><a href="http://blogs.bodleian.ox.ac.uk/theconveyor" title="The Conveyor">The Conveyor</a><br /><a href="http://yeshiuk.blogspot.co.uk/
+" title="Tibetan language collections">Tibetan language collections</a><br /><h2>U</h2><a href="http://blogs.bodleian.ox.ac.uk/oxfordtrainees/" title="University of Oxford library trainees' blog">University of Oxford library trainees' blog</a><br /><a href="http://blogs.bodleian.ox.ac.uk/us-studies/" title="US Studies resources at the University of Oxford">US Studies resources at the University of Oxford</a><br /><h2>V</h2><a href="http://blogs.bodleian.ox.ac.uk/vhl/" title="Vere Harmsworth Library">Vere Harmsworth Library</a><br /><h2>W</h2><a href="http://blogs.bodleian.ox.ac.uk/wellcome/" title="Wellcome Unit Library">Wellcome Unit Library</a><br /><a href="http://whatsthescoreatthebodleian.wordpress.com/" title="What's The Score at the Bodleian?">What's The Score at the Bodleian?</a><br /><a href="http://foxtalbot.bodleian.ox.ac.uk/" title="William Henry Fox Talbot Catalogue Raisonné">William Henry Fox Talbot Catalogue Raisonné</a><br /></div></div><!-- content -->
+
+
+<div class="clear"></div>
+
+
+
+
+
+
+<!-- image gallery turned of temporary - to turn it on put the - Bottom Images Listing, id: 118547 - from Tools folder to field below
+--><div class="share-for-mobile visible-on-mobile">
+   <span class="st_facebook_hcount"></span>
+   <span class="st_twitter_hcount"></span>
+   <span class="st_googleplus_hcount"></span>
+</div>          </div>
+       </div>
+
+       <!-- right column -->
+       
+
+       		
+    </div> <!-- additional content wrapper end-->
+
+  </div><!-- END .main -->
+  
+  <!-- Footer etc -->
+  
+			<div class="back-to-top">
+  <a href="#top">Back to top</a>
+</div>		
+  <div id="section-menu" class="submenu submenu-for-mobile grid"><div class="twelve"><div id="section_name">
+  <h3>
+    <a href="/">Blogs</a>
+  </h3>
+</div>
+<!-- /a-z -->
+<div id="nav_left">
+  <ul class="sidebar_widget menu_level_1" id="nav_left_first_level">
+    <li class="first_level_current current first">
+      <a class="first_level_current" href="/">Blog categories</a>
+      <ul class="blog_category_list menu_level_2" id="nav_left_second_level">
+        <li class="second_level_normal">
+          <a class="second_level_normal" href="/">All blogs</a>
+        </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/libraries" title="Oxford libraries and librarians">Oxford libraries and librarians</a>
+          </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/collections" title="Special collections and archives">Special collections and archives</a>
+          </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/research" title="Research and learning">Research and learning</a>
+          </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/digital" title="Digital Bodleian">Digital Bodleian</a>
+          </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/outreach" title="Exhibitions and outreach">Exhibitions and outreach</a>
+          </li>
+                  <li class="second_level_normal">
+            <a class="second_level_normal" href="/category/projects" title="Bodleian projects">Bodleian projects</a>
+          </li>
+              </ul>
+    </li>
+
+    <li class="first_level_current current">
+            <a class="first_level_current" href="/articles/2015/06">Recent posts</a>
+      <ul class="blog_month_list menu_level_2" id="nav_left_second_level">
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/06" title="All blog posts for June 2015">June 2015</a>
+          </li>
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/05" title="All blog posts for May 2015">May 2015</a>
+          </li>
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/04" title="All blog posts for April 2015">April 2015</a>
+          </li>
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/03" title="All blog posts for March 2015">March 2015</a>
+          </li>
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/02" title="All blog posts for February 2015">February 2015</a>
+          </li>
+                  <li class="second_level_normal">
+	    <a class="second_level_normal" href="/articles/2015/01" title="All blog posts for January 2015">January 2015</a>
+          </li>
+              </ul>
+    </li>
+
+    <li class="first_level_current current">
+      <a class="first_level_current" href="/a-z">A-Z of blogs</a>
+    </li>
+  </ul>
+</div>
+</div></div>
+<div class="footer-links">
+  <div class="grid">
+    <div class="within-bodleian footer-links-box three">
+ <strong>Information for readers</strong><ul><li><a href="http://www.bodleian.ox.ac.uk/subjects-and-libraries/subjects">Subjects</a></li><li><a href="http://www.bodleian.ox.ac.uk/subjects-and-libraries/libraries">Libraries A-Z</a></li><li><a href="http://www.bodleian.ox.ac.uk/subjects-and-libraries/opening-hours">Opening hours</a></li><li><a href="http://solo.bodleian.ox.ac.uk">SOLO</a></li><li><a href="http://www.bodleian.ox.ac.uk/finding-resources">Finding resources</a></li><li><a href="http://www.bodleian.ox.ac.uk/about-us/contact">Ask a librarian</a></li></ul> 
+  </div>
+    <div class="further-reading footer-links-box three"><STRONG>The Bodleian Libraries</STRONG>
+<UL>
+<LI><A href="http://www.bodleian.ox.ac.uk/about-us">About us</A>
+<LI><A href="http://www.bodleian.ox.ac.uk/about-us/media">Press &amp; media</A>
+<LI><A href="http://www.bodleian.ox.ac.uk/whats-on">What's on</A>
+<LI><A href="http://www.bodleian.ox.ac.uk/get-involved">Support us</A>
+<LI><A href="http://www.bodleian.ox.ac.uk/bodley/shop">Shop</A>
+<LI><A href="http://www.bodleian.ox.ac.uk/get-involved/keep-in-touch">Keep in touch</A>
+<LI><A href="http://www.bodleian.ox.ac.uk/about-us/jobs">Jobs</A>
+<LI><A href="http://www.ox.ac.uk">University of Oxford</A></LI></UL>  </div>
+    <div class="address two">
+      <div>
+        <strong>Address</strong>
+        <address>
+<div id="new_div_116769">
+ <p>Bodleian Libraries<br>Broad Street<br>Oxford<br>OX1 3BG</p> 
+</div>
+    </address>
+      </div>
+      <a href="http://www.ox.ac.uk/" target="_blank" title="University of Oxford Homepage"><img src="//www.bodleian.ox.ac.uk/__data/assets/image/0019/116740/footer-university-of-oxford-logo.jpg" width="100" height="100" alt="University of Oxford Logo" /></a>
+    </div>
+    <div class="map four">
+      <!-- https://maps.google.co.uk/maps?q=http:%2F%2Flibrarydata.bodleian.ox.ac.uk%2Flibraries.kml&hl=en&sll=51.524979,-0.101624&sspn=0.431481,1.051941&t=m&z=12 -->
+      <div id="library_map" style="width: 306px; height: 220px;"></div>
+    </div>
+
+    <!-- footer map renderer -->
+<!-- 2013-02-19 11:27 -->
+    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyBtgxMIN-8j798f7NPvuaTQa_nVf5i9WWQ&sensor=false"></script>
+
+
+
+
+<!-- 2013-02-19 11:27 -->
+    <script type="text/javascript" src="//librarydata.bodleian.ox.ac.uk/group/bodleian/list.js"></script>
+
+    <div class="info twelve"> <ul><li><a href="http://www.bodleian.ox.ac.uk/staff">Staff intranet</a></li><li><a href="http://www.bodleian.ox.ac.uk/about-us/contact">Contact us</a></li><li><a href="http://www.bodleian.ox.ac.uk/accessibility">Accessibility</a></li><li><a href="http://www.bodleian.ox.ac.uk/terms-of-use">Terms of use</a></li><li><a href="http://www.bodleian.ox.ac.uk/privacy">Privacy</a></li></ul> <script type="text/javascript" src="//www.bodleian.ox.ac.uk/__data/assets/js_file/0011/122231/FeedBackCornerjs.js?201301291355"></script><!-- feed back on this beta site survey corner -->      <span>&copy; Bodleian Libraries 2012</span>
+    </div>
+  </div>
+</div><!-- END .footer-links --><div class="footer-contact-us">
+  <div class="grid">
+    <div class="twelve">
+        <a rel="external" href="https://www.facebook.com/bodleianlibraries" class="social facebook 126077" title="Our Facebook page"></a>
+
+  <a rel="external" href="https://twitter.com/bodleianlibs" class="social twitter" title="Our Twitter channel"></a>
+
+  <a rel="external" href="//blogs.bodleian.ox.ac.uk/all.rss" class="social rss" title="RSS"></a>
+
+
+
+<span id="new_div_116716">
+ <p><strong>+44 (0)1865 277162</strong></p> 
+</span>
+      <a href="#" class="close"></a>
+      <a href="http://www.bodleian.ox.ac.uk/about-us/contact" class="btn contact-us">Contact us</a>
+    </div>
+  </div>
+</div><!-- END .footer-contact-us -->			
+
+
+</body>
+</html>

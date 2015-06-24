@@ -1,0 +1,172 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><!-- InstanceBegin template="/Templates/generic.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+
+<title>L i n g O</title>
+
+<!-- InstanceEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="LingO: Postgraduate Linguistics Conference at Oxford University, September 23-24, 2005">
+<meta name="keywords" content="LingO, linguistics, philology, conference, postgraduate conference, Oxford University, semantics, syntax, phonetics, 
+phonology, morphology, computational linguistics">
+
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body leftmargin="0" topmargin="0"  bgcolor="#8080FC">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="top" bgcolor="#8080FC" width="205"><a href="index.html"><img src="images/sp_left2.gif" width="205" height="219" border="0"></a></td>
+    <TD rowspan="5" BGCOLOR="#FFFFFF" width="1"><img src="images/spacer.gif"></TD>
+	<td align="left" valign="top" bgcolor="#8080FC" width="495"><a href="http://www.ox.ac.uk" target="_blank"><img src="images/sp_top2.gif" width="495" height="219" border="0" usemap="#top"></a></td>
+  <TD rowspan="5" BGCOLOR="#FFFFFF" width="1"><img src="images/spacer.gif"></TD>
+  <TD rowspan="5" BGCOLOR="#8080FC"><img src="images/spacer.gif"></TD>
+  </tr>
+  <TR><TD COLSPAN="7" BGCOLOR="#FFFFFF"><img src="images/spacer.gif"></TD></TR>
+ <tr>
+    <TD bgcolor="#8080FC"><img src="images/spacer.gif" width="1" height="340"></TD>
+	<td valign="top" width="495" bgcolor="#ffffff"><!-- InstanceBeginEditable name="Content" --><table width="100%" border="0" cellpadding="5" cellspacing="0">
+
+        <TR>
+
+          <TD ROWSPAN="2"><img src="images/spacer.gif"></TD>
+
+          <TD COLSPAN="2"><h1>Registration</h1></TD>
+
+        </TR>
+
+        <TR>
+
+          <TD COLSPAN="2"> <p>Conference materials may be picked up on Thursday, September 22 between 14:00 and 18:00 and on Friday, September 23 between 8:00 and 9:30 am at Mansfield College.</p>
+            <form action="/cgi-bin/lingomail.cgi" method="post" enctype="multipart/form-data" name="form1">
+<input type=hidden name="recipient" value="enquiries@ling-phil.ox.ac.uk">
+<input name="required" type="hidden" id="required" value="surname, firstname, uni, sender">
+<input type="hidden" name="subject" value="LingO Registration">
+<input type="hidden" name="redirect" value="/events/lingo/thanks.html">
+
+              <table width="100%" border="0" cellpadding="5" cellspacing="0">
+                <tr> 
+                  <td width="50%"><p>Surname*</p></td>
+                  
+                  <td width="50%"><p>First Name*</p></td>
+                  
+                </tr><tr> 
+                  
+                  <td ><input type="text" name="surname" size="25"></td>
+                  
+                  <td ><input type="text" name="firstname" size="25"></td>
+                </tr>
+                 <tr> 
+                  <td><p>Affiliation*<br>
+                      (university) </p></td>
+                  
+                  <td><p>Email*</p></td>
+                 
+                </tr><tr> 
+                
+                  <td><input type="text" name="uni" size="25"></td>
+                 
+                  <td><input type="text" name="sender" size="25"></td>
+                </tr>
+                <tr> 
+                  <td><p><strong>Address</strong></p></td>
+                  
+                  <td>&nbsp;</td>
+                </tr>
+                 <tr> 
+                  <td><p>Street</p></td>
+                 
+                  <td><p>City</p></td>
+                 
+                </tr><tr> 
+                  
+                  <td><input type="text" name="street" size="25"></td>
+                 
+                  <td><input type="text" name="city" size="25"></td>
+                </tr>
+                <tr> 
+                  <td><p>Postcode</p></td>
+                  
+                  <td><p>Country</p></td>
+                  
+                </tr><tr> 
+                 
+                  <td><input type="text" name="postcode" size="25"></td>
+                  
+                  <td><input type="text" name="country" size="25"></td>
+                </tr>
+                <tr>
+                  <td>Telephone</td>
+                  <td>Fax</td>
+                </tr>
+                <tr>
+                  <td><input type="text" name="phone" size="26"></td>
+                  <td><input type="text" name="fax" size="26"></td>
+                </tr>
+                <tr>
+                  <td colspan="2"><p>1. THE FULL OPTION (Cost &pound;100)<br>
+                      includes registration fee, a printed version of abtracts, two nights accomodation and meals at Mansfield college, formal dinner on the first evening.
+                      </p>
+                    <p>
+                      <input type="checkbox" name="full">
+Full Option &pound; 100<br>
+(see <a href="accom.html">Accommodation</a> for further description) </p>
+                    <p>2. INDIVIDUAL OPTIONS</p>
+                    <p>
+                      <input type="checkbox" name="reg" checked> 
+                      Registration &pound;12 to cover the charge of conference rooms and conference materials (printed version of abstracts).<br>
+                      <input type="checkbox" name="dinner">
+Dinner &pound; 15<br>
+                      <input type="checkbox" name="lunch"> 
+                      2 lunches &pound; 12<br>
+                  </p></td>
+                  
+                </tr>
+				<tr> 
+                 
+                  <td><p>* = required field </p></td>
+                  <td align="right" valign="bottom"> 
+                    <input name="image" type="image" src="images/reg_btn.gif" width="100" height="50">
+                  </td>
+                </tr>
+              </table>
+            </form>
+<p><strong>Payment</strong><br>
+
+            Payment in advance will be accepted by cheque or credit card. Make cheques payable to: University of Oxford</p>
+<p>If you wish to pay by credit card, please call +44-1865-280400 with your credit card information. Most major credit cards are accepted. </p>
+<p>You may also make payment 
+  
+          in cash on arrival for conference registration. However, payment for accommodation (the Full Option) must be made in advance. </p></TD>
+
+        </TR>
+
+     </table>
+
+	 <!-- InstanceEndEditable --></td>
+    
+  </tr>
+  <tr>
+    <td bgcolor="#ffffff" valign="bottom" colspan="7"><img src="images/spacer.gif"></td>
+    
+  </tr>
+  <TR>
+    <TD bgcolor="#8080FC">&nbsp; </TD>
+    <TD bgcolor="#8080FC" class=".nav">
+      <p align="center"><BR>
+        <span class="nav"><a href="index.html">Home</a> / <a href="call.html">Call for Abstracts</a> 
+        / <a href="registration.html">Registration</a> / <a href="guide.html">Guidelines</a> 
+        / <a href="programme.html">Programme</a> / <a href="proceedings.html"><br>
+        Proceedings</a> 
+        / <a href="contact.html">Contact</a> / <a href="travel.html">Travel</a> 
+        / <a href="accom.html">Accommodation</a></span></p>
+    <BR></TD></TR>
+</table>
+<map name="top">
+  <area shape="rect" coords="287,1,493,215" href="http://www.ox.ac.uk" target="_blank" alt="Oxford University">
+  <area shape="rect" coords="2,85,288,301" href="index.html" alt="LingO">
+</map>
+</body>
+<!-- InstanceEnd --></html>

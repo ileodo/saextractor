@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<title>Sign in - NeWT</title>
+	<link rel="stylesheet" media="screen" href="/osg/_static/newt/stylesheets/general.css" type="text/css" charset="UTF-8" />
+	<link rel="stylesheet" media="screen" href="/osg/_static/forms/stylesheets/content.css" type="text/css" charset="UTF-8" />	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" ></script>
+		<link rel="shortcut icon" href="/osg/_static/newt/images/icons/favicon.ico" type="image/x-icon" />
+</head>
+<body id="NDM">
+	<div id="header-wrapper">
+		<div id="header">
+			<ul id="header-menu">
+								<li><a class="option-sop" href="http://www.ndm.ox.ac.uk/newt-sop">SOP</a></li>
+				<li><a class="option-view-website" href="/osg/">View website</a></li>
+			</ul>
+			<a href="/osg/_admin" title="NeWT homepage"><img id="logo" src="/osg/_static/newt/images/logo.png" alt="NeWT logo" /></a>
+			<h1>NeWT</h1>
+			<h2>The NDM Website Toolbox</h2>
+		</div>
+	</div>
+	<div id="edit-content-wrapper">
+						<h1>Welcome to NeWT</h1>
+<p>NeWT is the NDM Website Toolbox, which you can use to manage both public-facing websites and intranets.</p>
+<p>Please email any feedback to the NDMS Operations Projects team - <a href="/osg/_access/help">contact details can be found towards the end of the help page</a>.</p>
+<form id="form_login" class="form" action="/osg/_access/sign-in#form_login" method="post" enctype="application/x-www-form-urlencoded" accept-charset="UTF-8">
+	<fieldset>
+		<legend>Sign in</legend>
+		<p class="form-help"><img src="/osg/_static/forms/images/required.gif" alt="*" /> indicates required information</p>				<p><strong>Please be aware that by signing in you are accepting that a small file (cookie) is stored on your computer allowing you to remain logged in between page requests.</strong></p>
+		<dl><dt>
+	<label for="form_login_email">Email address <img src="/osg/_static/forms/images/required.gif" alt="*" /></label>
+</dt>
+<dd>
+	<input id="form_login_email" class="textline" type="text" name="form_login_email" value="" />
+	</dd>
+<dt>
+	<label for="form_login_password">Password <img src="/osg/_static/forms/images/required.gif" alt="*" /></label>
+</dt>
+<dd>
+	<input id="form_login_password" class="textline" type="password" name="form_login_password" value="" />
+	</dd>
+</dl>
+		<input id="form_login_login" class="button" name="form_login_login" type="submit" value="Sign in" />
+			</fieldset>
+</form>
+<p>If you are having problems signing in, you can <a href="/osg/_access/reset-password">request a new password</a> or <a href="/osg/_access/help">seek help</a>.</p>
+		<div id="footer">
+			NeWT version 1.0.2 Salamander | © 2008-2015 Offices of the Nuffield Professor of Medicine, Nuffield Department of Clinical Medicine, University of Oxford
+		</div>
+	</div>
+	<script type="text/javascript">
+	if(typeof $=='function')
+	{
+		$(document).ready(function(){
+			var pageUrl="https";
+			pageUrl+='://'+"www.ndm.ox.ac.uk/osg/_access";
+			if(''=='form_edit')
+			{
+				setInterval(function(){
+					$.ajax({
+						url:pageUrl+'?locked='+""
+					});
+				},1000*5*60);
+			}
+		});
+	}
+	</script>
+</body>
+</html>

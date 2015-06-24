@@ -1,0 +1,1082 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+<title>Staying in the UK to Work &#8211; Visa Talk | Oxford University Careers Service</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+  <link rel="stylesheet" href="/wp-content/themes/ocs/css/flexslider.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="/wp-content/themes/ocs/css/megamenu.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="/wp-content/themes/ocs/css/style.css">
+  <link rel="stylesheet" href="/wp-content/themes/ocs/css/style_480_max.css">
+  <link rel="stylesheet" href="/wp-content/themes/ocs/css/style_481_768.css">
+  <link rel="stylesheet" href="/wp-content/themes/ocs/css/style_850_max.css">
+  <link rel="stylesheet" href="/wp-content/themes/ocs/css/style_980_min.css">
+  <link rel="stylesheet" href="/wp-content/themes/ocs/css/style_1024_max.css">
+
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.careers.ox.ac.uk/wp-content/themes/ocs/style.css" />
+  <link rel="pingback" href="http://www.careers.ox.ac.uk/xmlrpc.php" />
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/wp-content/themes/ocs/js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+  <script src="/wp-content/themes/ocs/js/libs/modernizr-2.5.3.min.js"></script>
+  <script src="/wp-content/themes/ocs/js/libs/respond.min.js"></script>
+  <script src="/wp-content/themes/ocs/js/libs/jquery.flexslider.js"></script>
+  <script type="text/javascript" src="/wp-content/themes/ocs/js/libs/megamenu_plugins.js"></script>
+  <script type="text/javascript" src="/wp-content/themes/ocs/js/libs/megamenu.min.js"></script>
+  
+
+
+  <script type="text/javascript">
+  // jQuery doc ready function
+  jQuery(document).ready(function(){
+  
+    // Mega Menu
+  	$('.megamenu').megaMenuCompleteSet({
+  		menu_speed_show : 300, // Time (in milliseconds) to show a drop down
+  		menu_speed_hide : 200, // Time (in milliseconds) to hide a drop down
+  		menu_speed_delay : 200, // Time (in milliseconds) before showing a drop down
+  		menu_effect : 'open_close_slide', // Drop down effect, choose between 'hover_fade', 'hover_slide', etc.
+  		menu_click_outside : 1, // Clicks outside the drop down close it (1 = true, 0 = false)
+  		menu_show_onload : 0 // Drop down to show on page load (type the number of the drop down, 0 for none)
+  	});
+  /*
+    // Change UL based navigation to SELECT for smaller resolutions
+    // Create the dropdown base
+    $("<select />").appendTo("nav.primary");
+    
+    // Create default option "Go to..."
+    $("<option />", {
+       "selected": "selected",
+       "value"   : "",
+       "text"    : "SITE NAVIGATION"
+    }).appendTo("nav.primary select");
+    
+    // Populate dropdown with menu items
+    $("nav.primary a").each(function() {
+     var el = $(this);
+     $("<option />", {
+         "value"   : el.attr("href"),
+         "text"    : el.text()
+     }).appendTo("nav select");
+    });
+    */
+   // To make dropdown actually work
+   // To make more unobtrusive: http://css-tricks.com/4064-unobtrusive-page-changer/
+    $("nav select").change(function() {
+      window.location = $(this).find("option:selected").val();
+    });
+  
+   // Hook up the FlexSlider 
+    $(window).load(function() {
+			$('.flexslider').flexslider({
+			 // animation: "slide",
+			  controlsContainer: ".flex-container"
+		  });
+		});
+    
+  //End doc ready function	
+  });
+
+  </script>
+<link rel="alternate" type="application/rss+xml" title="Oxford University Careers Service &raquo; Feed" href="http://www.careers.ox.ac.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Oxford University Careers Service &raquo; Comments Feed" href="http://www.careers.ox.ac.uk/comments/feed/" />
+
+<script>
+var MP3jPLAYLISTS = [];
+var MP3jPLAYERS = [];
+</script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.careers.ox.ac.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='usernoise-button-css'  href='http://www.careers.ox.ac.uk/wp-content/plugins/usernoise/css/button.css?ver=3.7.20' type='text/css' media='all' />
+<link rel='stylesheet' id='usernoise-form-css'  href='http://www.careers.ox.ac.uk/wp-content/plugins/usernoise/css/form.css?ver=3.7.20' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.careers.ox.ac.uk/wp-content/plugins/usernoise/vendor/font-awesome/css/font-awesome.css?ver=3.7.20' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.careers.ox.ac.uk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='page-list-style-css'  href='http://www.careers.ox.ac.uk/wp-content/plugins/sitemap/css/page-list.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='swiftype-css'  href='http://www.careers.ox.ac.uk/wp-content/plugins/swiftype-search/assets/autocomplete.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-css'  href='http://www.careers.ox.ac.uk/wp-content/plugins/video-embed-thumbnail-generator/video-js/video-js.css?ver=4.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='video-js-kg-skin-css'  href='http://www.careers.ox.ac.uk/wp-content/plugins/video-embed-thumbnail-generator/video-js/kg-video-js-skin.css?ver=4.42' type='text/css' media='all' />
+<link rel='stylesheet' id='kgvid_video_styles-css'  href='http://www.careers.ox.ac.uk/wp-content/plugins/video-embed-thumbnail-generator/css/kgvid_styles.css?ver=4.42' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.careers.ox.ac.uk/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.careers.ox.ac.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var usernoiseButton = {"text":"How useful was this page to you?","style":"background-color: #404040; color: #FFFFFF","class":"un-bottom","windowUrl":"\/wp-admin\/admin-ajax.php?action=un_load_window","showButton":"1","disableOnMobiles":"1","custom_button_id":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.careers.ox.ac.uk/wp-content/plugins/usernoise/js/usernoise.js?ver=3.7.20'></script>
+<script type='text/javascript' src='http://www.careers.ox.ac.uk/wp-content/plugins/usernoise/js/button.js?ver=3.7.20'></script>
+<script type='text/javascript' src='http://www.careers.ox.ac.uk/wp-content/plugins/cornerstone/js/lib.core.js?ver=0.7.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var swiftypeParams = {"engineKey":"fMwUemakTg8PyrwWVBDb"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.careers.ox.ac.uk/wp-content/plugins/swiftype-search/assets/install_swiftype.min.js?ver=4.2.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.careers.ox.ac.uk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.careers.ox.ac.uk/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='International Organisations&#8217; Day, 8th November, LSE' href='http://www.careers.ox.ac.uk/international-organisations-day-8th-november-lse/' />
+<link rel='next' title='Springboard &#8211; is it for YOU?' href='http://www.careers.ox.ac.uk/springboard-is-it-for-you-2/' />
+<meta name="generator" content="WordPress 4.2.2" />
+<link rel='canonical' href='http://www.careers.ox.ac.uk/staying-in-the-uk-to-work-visa-talk/' />
+<link rel='shortlink' href='http://www.careers.ox.ac.uk/?p=21529' />
+<!-- HeadSpace SEO 3.6.41 by John Godley - urbangiraffe.com -->
+<!-- HeadSpace -->
+<style type="text/css" media="screen">
+			html { margin-top: 32px; }
+			* html body { margin-top: 32px; }
+		#catapult-cookie-bar {
+			direction: ltr;
+			color: #DDD;
+			font: normal 13px/28px sans-serif;
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			z-index: 99999;
+			padding:2px 20px 0px 2px;
+			background-color: #464646;
+			background-image: -ms-linear-gradient(bottom, #373737, #464646 5px);
+			background-image: -moz-linear-gradient(bottom, #373737, #464646 5px);
+			background-image: -o-linear-gradient(bottom, #373737, #464646 5px);
+			background-image: -webkit-gradient(linear,left bottom,left top,from( #373737),to(#464646));
+			background-image: -webkit-linear-gradient(bottom, #373737, #464646 5px);
+			background-image: linear-gradient(bottom, #373737, #464646 5px);
+			text-align:left;
+		}
+		#catapult-cookie-bar a {
+			color:#fff;
+		}
+		button#catapultCookie {
+			margin:0 20px;
+			line-height:20px;
+			background:#45AE52;
+			border:none;
+			color:#fff;
+			padding:0 12px;
+			border-radius: 3px;
+			cursor: pointer;
+			font-size: 13px;
+			font-weight: bold;
+			font-family: sans-serif;
+			text-shadow: #555 1px 1px;
+		}
+		button#catapultCookie:hover {
+			background:#5EC544;
+		}
+		</style>
+		<script type="text/javascript">
+			function catapultAcceptCookies() {
+				days = 30;
+				var date = new Date();
+				date.setTime(date.getTime()+(days*24*60*60*1000));
+				var expires = "; expires="+date.toGMTString();
+				document.cookie = "catAccCookies=true"+expires+"; path=/";
+				jQuery("#catapult-cookie-bar").hide();
+				jQuery("html").css("margin-top","0");
+			}		
+		</script><style type="text/css"></style>
+<style type="text/css">
+
+#un-button{
+/*
+color: black;
+background: transparent;
+font: 14px bold;
+border: none;
+*/
+}
+</style>
+<script type="text/javascript">/* <![CDATA[ */(function($){if ( CNR ) $.extend(CNR, {"context":["public","user_guest"]});})(jQuery);/* ]]> */</script>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><script type="text/javascript">document.createElement('video');document.createElement('audio');</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6559168-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body class="single single-post postid-21529 single-format-standard singular two-column left-sidebar">
+<div id="page" class="hfeed">
+  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+       chromium.org/developers/how-tos/chrome-frame-getting-started -->
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+	<header id="branding" role="banner">
+    <div class="content">
+      <a class="logo" href="/" title="University of Oxford"><img src="/wp-content/themes/ocs/images/University-of-Oxford.png" alt="University of Oxford"/></a>
+      <a class="logo" href="/" title="HOME"><img src="/wp-content/themes/ocs/images/University-of-Oxford-Careers-Service.png" alt="The Careers Service"/></a>
+      <div class="options">
+        <a class="career rounded" href="/our-services/careerconnect/">CAREERCONNECT</a>
+<form action="/" method="get">
+        <div><input type="text" class="search" name="s" value="SEARCH SITE" onfocus="if(this.value=='SEARCH SITE') this.value='';" onblur="if(this.value=='') this.value='SEARCH SITE';" /></div>
+          <div><input type="image" class="searchSubmit" src="/wp-content/themes/ocs/images/search.png" alt="search" /></div>
+        </form>
+         <br class="clear" />
+      </div>
+      <br class="clear" />
+    </div>
+    
+<nav id="access" role="navigation" class="primary">
+  <div class="megamenu_container">    
+    <ul class="megamenu">
+      <li class="home borderBtm borderRight"><a href="http://www.careers.ox.ac.uk/" class="drop">HOME</a></li>
+      
+      <li class="nav1 borderBtm">
+        <a href="#" class="drop">OPTIONS AND OCCUPATIONS</a>
+        <div class="fullwidth">
+          <div class="featured">
+            <h2>RECENT BLOGS</h2>
+            <a href="http://www.careers.ox.ac.uk/?p=25143"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2012/11/Chemistry-equipment.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=25143">Scientist and Businesswoman, Ornella Barra, 16 June 2015</a><p>&nbsp;<br class="clear divider" /></p><a href="http://www.careers.ox.ac.uk/?p=25152"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2012/11/Robot-made-out-of-old-computer-parts.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=25152">Opening for graduates in software engineering</a>
+          </div>
+          <div class="inSection">
+            <h2><a href="http://www.careers.ox.ac.uk/options-and-occupations/">IN THIS SECTION</a></h2>
+            <ul>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/options-and-occupations/deciding-whats-right-for-you/" class="">DECIDING WHAT'S RIGHT FOR YOU</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/options-and-occupations/deciding-whats-right-for-you/develop-your-career-ideas/" class="">Develop your Career Ideas</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/options-and-occupations/deciding-whats-right-for-you/narrow-down-your-options/" class="">Narrow Down your Options</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/options-and-occupations/deciding-whats-right-for-you/how-to-make-a-career-decision/" class="">How to Make a Career Decision</a></li>
+         
+            </ul>
+            <ul>            
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/options-and-occupations/sectors-and-occupations/" class="">SECTORS AND OCCUPATIONS</a></li>
+                   <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/options-and-occupations/what-alumni-have-done/" class="">WHAT ALUMNI HAVE DONE</a></li>
+                      <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/options-and-occupations/using-your-subject/" class="">USING YOUR SUBJECT</a></li>
+             
+            </ul>
+            <ul>        
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/options-and-occupations/further-study/" class="">FURTHER STUDY</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/options-and-occupations/further-study/why-study-more/" class="">Why Study More</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/options-and-occupations/further-study/what-to-study/" class="">What to Study</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/options-and-occupations/further-study/where-to-study/" class="">Where to Study</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/options-and-occupations/further-study/postgraduate-study-in-the-usa/" class="">Postgraduate Study in the USA</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/options-and-occupations/further-study/how-to-get-funding/" class="">How to Get Funding</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/options-and-occupations/further-study/how-to-apply/" class="">How to Apply </a></li>
+            </ul>
+            <ul>
+                 <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/options-and-occupations/careers-beyond-profit/" class="">CAREERS BEYOND PROFIT</a></li> 
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/options-and-occupations/post-dphil-options/" class="">POST-DPHIL OPTIONS</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/options-and-occupations/research-staff-options/" class="">RESEARCH STAFF OPTIONS</a></li>
+			  <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/options-and-occupations/redundancy/" class="">REDUNDANCY</a></li>
+            </ul>
+          </div>
+        </div>
+      </li> <!-- end #nav1 -->
+      
+      <li class="nav2 borderBtm">
+        <a href="#" class="drop">INTERNSHIP OFFICE & WORK EXPERIENCE</a>
+        <div class="fullwidth">
+          <div class="featured">
+            <h2>RECENT BLOGS</h2>
+            <a href="http://www.careers.ox.ac.uk/?p=25168"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2014/10/Student-on-a-winding-staircase.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=25168">"Getting the Most Out of your Internship" Workshop: Places still Available!</a><p>&nbsp;<br class="clear divider" /></p><a href="http://www.careers.ox.ac.uk/?p=25150"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2013/11/Piggy-bank-with-money.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=25150">Internship funds available for Masters students!</a>
+          </div>
+          <div class="inSection2">
+            <h2><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/">THE INTERNSHIP OFFICE</a></h2>
+            <ul>
+            <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/about-the-internship-office-2/" class="">ABOUT THE INTERNSHIP OFFICE</a></li>
+			<li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/the-internship-programme/" class="">THE INTERNSHIP PROGRAMME</a></li>
+			<li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/the-internship-programme/about-the-internship-programme/" class="">About The Internship Programme</a></li>
+            <li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/the-internship-programme/find-and-apply-for-an-internship/" class="">Find and Apply for an Internship</a></li>
+			<li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/the-internship-programme/get-funding-on-the-internship-programme/" class="">Sources of Funding</a></li>
+   			<li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/the-internship-programme/information-for-successful-applicants/" class="">Information for Successful Applicants</a></li>
+			</ul>
+            <ul>              
+			<li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/doctoral-internships-information-for-students/" class="">The Doctoral Internship Programme</a></li>
+			<li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/doctoral-internships-information-for-students/the-doctoral-internship-programme-oxford-interdisciplinary-bioscience-dtp/" class="">Oxford Interdisciplinary Bioscience DTP</a></li>
+                      	        <li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/doctoral-internships-information-for-students/the-doctoral-internship-programme-humanities-dtp/" class="">Humanities DTP</a></li>
+          	        <li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/doctoral-internships-information-for-students/the-doctoral-internship-programme-social-sciences-dtc/" class="">Social Sciences DTC</a></li>
+   			<li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/moritz-heyman-internship-programme/" class="">Moritz-Heyman Internship Programme</a></li>
+            <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/micro-internships-for-students/" class="">Micro-Internship Programme</a></li>
+            <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/about-the-internship-office/hsbc-galatic-chang-rajii-scholarships/" class="">HSBC & Galatic Chang-Rajii Scholarships</a></li>
+            </ul>
+          </div>
+          <div class="inSection3">
+          <h2><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/">WORK EXPERIENCE</a></h2>
+		  <ul>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/employability-skills/" class="">EMPLOYABILITY SKILLS</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/employability-programmes/" class="">OUR EMPLOYABILITY PROGRAMMES</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/employability-programmes/the-student-consultancy/" class="">The Student Consultancy</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/employability-programmes/tse/" class="">The Student Entrepreneur</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/employability-programmes/insight-into-teaching/" class="">Insight Into Teaching</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/employability-programmes/insight-into-business/" class="">Insight Into Business</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/employability-programmes/insight-into-policy/">Insight Into Policy</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/employability-programmes/insight-into-medicine/">Insight Into Medicine</a></li>
+              </ul>
+              <ul>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/what-is-work-experience/" class="">INTERNSHIPS & WORK EXPERIENCE</a></li>
+   
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/internship-office-and-work-experience/doing-work-experience-abroad/" class="">DOING WORK EXPERIENCE ABROAD</a></li>
+              </ul>
+          </div>
+		  </div>
+      </li> <!-- end #nav2 -->
+      
+      <li class="nav3 borderBtm">
+        <a href="#" class="drop">SEARCHING FOR WORK</a>
+        <div class="fullwidth">
+          <div class="featured">
+                        <h2>RECENT BLOGS</h2>
+            <a href="http://www.careers.ox.ac.uk/?p=25161"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2014/09/Butterfly-with-Canada-flag.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=25161">Canadian Rhodes Scholars Foundation Scholarship</a><p>&nbsp;<br class="clear divider" /></p><a href="http://www.careers.ox.ac.uk/?p=25144"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2012/05/web-shutterstock-paper-chain.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=25144">Exciting new professional network just for Oxonians</a>
+          </div>
+          <div class="inSection">
+            <h2><a href="http://www.careers.ox.ac.uk/searching-for-work/">IN THIS SECTION</a></h2>
+            <ul>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/searching-for-work/where-to-look-for-work/" class="">WHERE TO LOOK FOR WORK</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/searching-for-work/where-to-look-for-work/job-internship-vacancies/" class="">Job & Internship Vacancies</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/searching-for-work/where-to-look-for-work/academic-research-vacancies/" class="">Academic & Research Vacancies</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/searching-for-work/where-to-look-for-work/work-in-oxford/" class="">Work in Oxford</a></li>
+                   <li class=""><a href="http://www.careers.ox.ac.uk/searching-for-work/where-to-look-for-work/freelancing/" class="">Freelancing</a></li>
+                        <li class=""><a href="http://www.careers.ox.ac.uk/searching-for-work/where-to-look-for-work/using-recruitment-agencies/" class="">Using Recruitment Agencies</a></li>
+            </ul>
+            <ul>              
+            	<li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/searching-for-work/how-to-research-employers/" class="">HOW TO RESEARCH EMPLOYERS</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/searching-for-work/networking-and-information-interviews/">NETWORKING</a></li>
+             
+             <li class=""><a href="http://www.careers.ox.ac.uk/searching-for-work/networking-and-information-interviews/using-linkedin/">Using LinkedIn</a></li>
+             
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/searching-for-work/how-to-prepare-for-a-careers-fair/" class="">HOW TO PREPARE FOR A CAREERS FAIR</a></li>
+            </ul>
+            <ul>              
+            	<li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/searching-for-work/visa-information/" class="">UK VISA INFORMATION</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/searching-for-work/work-outside-the-uk/" class="">WORK OUTSIDE THE UK</a></li>
+             
+            </ul>
+            <ul><li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/searching-for-work/diversity-job-searching/" class="">DIVERSITY JOB SEARCHING</a></li>
+            <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/searching-for-work/employment-law-faqs/" class="">EMPLOYMENT LAW FAQs</a></li>
+			<li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/searching-for-work/overcoming-disappointing-grades/" class="">OVERCOMING DISAPPOINTING GRADES</a></li>
+            </ul>
+          </div>
+        </div>
+      </li> <!-- end #nav3 -->
+      <br class="iPadDrop" />
+      <li class="nav4">
+        <a href="#" class="drop">THE APPLICATION PROCESS</a>
+        <div class="fullwidth">
+          <div class="featured">
+                      <h2>RECENT BLOGS</h2>
+            <a href="http://www.careers.ox.ac.uk/?p=24776"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2012/10/Lightbulb-in-the-shape-of-a-hand.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=24776">Consulting Case Practice: Hints and Tips from Jonathan Black</a><p>&nbsp;<br class="clear divider" /></p><a href="http://www.careers.ox.ac.uk/?p=23672"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2014/11/Laptop-turned-into-hot-air-balloon.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=23672">Go Get Creative</a>
+          </div>
+          <div class="inSection">
+            <h2><a href="http://www.careers.ox.ac.uk/the-application-process/">IN THIS SECTION</a></h2>
+            <ul>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/the-application-process/showing-your-suitability/" class="">SHOWING YOUR SUITABILITY</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/the-application-process/cvs/" class="">CVS</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/the-application-process/cover-letters/" class="">COVER LETTERS</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/the-application-process/speculative-applications/" class="">SPECULATIVE APPLICATIONS</a></li>
+            </ul>
+            <ul>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/the-application-process/application-forms/" class="">APPLICATION FORMS</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/the-application-process/psychometric-tests/" class="">PSYCHOMETRIC TESTS</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/the-application-process/assessment-centres/" class="">ASSESSMENT CENTRES</a></li>
+            </ul>
+            <ul>              
+            	<li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/the-application-process/interviews/" class="">INTERVIEWS</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/the-application-process/interviews/types-of-questions/" class="">Types of Question</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/the-application-process/interviews/prepare-points-to-make/" class="">Prepare points to make</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/the-application-process/interviews/make-a-good-first-impression/" class="">Make a Good First Impression</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/the-application-process/interviews/get-interview-practice/" class="">Get Interview Practice</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/the-application-process/interviews/case-studies/" class="">Case Studies</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/the-application-process/interviews/interview-feedback-database/" class="">Interview Feedback Database </a><img src="http://www.careers.ox.ac.uk/wp-content/themes/ocs/images/Padlock.png" title="Enter your Oxford Single Sign On details when prompted" width="10px"/ padding-left="5px"></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/the-application-process/interviews/types-of-interviews/" class="">Telephone and Video Interviews</a></li>
+            </ul>
+            <ul>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/the-application-process/presenting-non-uk-qualifications/" class="">PRESENTING NON-UK QUALIFICATIONS</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/the-application-process/handling-offers-and-rejection/" class="">HANDLING OFFERS AND REJECTION</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/the-application-process/handling-offers-and-rejection/offers/" class="">Offers</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/the-application-process/handling-offers-and-rejection/rejection/" class="">Rejection</a></li>
+            </ul>
+          </div>
+        </div>
+      </li> <!-- end #nav4 -->
+      
+      <li class="nav5">
+        <a href="#" class="drop">OUR SERVICES</a>
+        <div class="fullwidth">
+          <div class="featured">
+                     <h2>RECENT BLOGS</h2>
+            <a href="http://www.careers.ox.ac.uk/?p=25144"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2012/05/web-shutterstock-paper-chain.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=25144">Exciting new professional network just for Oxonians</a><p>&nbsp;<br class="clear divider" /></p><a href="http://www.careers.ox.ac.uk/?p=25135"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2012/05/web_shutterstock_76963291.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=25135">2016 Banking Internships  in Hong Kong and Singapore!</a>
+          </div>
+          <div class="inSection">
+            <h2><a href="http://www.careers.ox.ac.uk/our-services/">IN THIS SECTION</a></h2>
+            <ul>
+  <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/careerconnect/" class="">CAREERCONNECT</a></li>              
+  <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/see-a-careers-adviser/" class="">SEE A CAREERS ADVISER</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/our-services/see-a-careers-adviser/advice-sessions/" class="">Advice Sessions</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/our-services/see-a-careers-adviser/list-of-careers-advisers/#" class="">List of Careers Advisers</a></li>             
+			   <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/the-oxford-careers-network/" class="">THE OXFORD CAREERS NETWORK</a></li>
+            </ul>
+            <ul>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/events/" class="">EVENTS </a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/our-services/events/careers-fairs/" class="">Careers Fairs</a></li>
+                <li class=""><a href="http://www.careers.ox.ac.uk/our-services/events/career-lounges/" class="">Career Lounges</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/our-services/events/talks-workshops/" class="">Talks and Workshops</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/our-services/events/meet-employers/" class="">Meet Employers</a></li>
+             <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/events-just-for/female-students/" class="">SPRINGBOARD</a></li>
+             </ul>
+          
+            <ul>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/services-for/" class="">SERVICES FOR...</a></li>
+			  <li class=""><a href="http://www.careers.ox.ac.uk/our-services/for/researchers/" class="">...DPhils and Research Staff</a></li>
+               <li class=""><a href="http://www.careers.ox.ac.uk/our-services/for/masters-students/" class="">...Masters Students</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/our-services/for/alumni/" class="">...Alumni</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/our-services/for/disabled-students/" class="">...Disabled Students</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/our-services/for/international-students/" class="">...International Students</a></li>
+              </ul>
+              <ul>
+                        <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/resource-centre/" class="">RESOURCE CENTRE</a></li>
+			   <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/our-publications/" class="">OUR PUBLICATIONS</a></li>
+			   <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/our-podcasts/" class="">OUR PODCASTS</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/policies/" class="">OUR POLICIES</a></li>
+            
+	
+                   <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/contact-us/" class="">CONTACT US</a></li>			
+            </ul>
+          </div>
+        </div>
+      </li> <!-- end #nav5 -->
+      
+      <li class="nav6">
+        <a href="#" class="drop">INFORMATION FOR RECRUITERS</a>
+        <div class="fullwidth">
+          <div class="featured">
+              <h2>RECENT BLOGS</h2>   
+              <a href="http://www.careers.ox.ac.uk/?p=22416"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2012/05/shutterstock-wheelchair.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=22416">Disclosing a Disability or Long-Term Health Condition?</a><p>&nbsp;<br class="clear divider" /></p><a href="http://www.careers.ox.ac.uk/?p=12027"><img height="80" width="120" src="http://www.careers.ox.ac.uk/wp-content/uploads/2013/04/Employers-Pack-II.jpg" alt=""/></a><a class="textLink" href="http://www.careers.ox.ac.uk/?p=12027">Download our full Employers Pack</a>
+          </div>
+          <div class="inSection">
+            <h2><a href="http://www.careers.ox.ac.uk/info-for-recruiters/">IN THIS SECTION</a></h2>
+            <ul>
+            <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/info-for-recruiters/recruiting-at-oxford-an-overview/" class="">RECRUITING AT OXFORD: AN OVERVIEW</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/info-for-recruiters/advertise-your-vacancies/" class="">ADVERTISE YOUR VACANCIES</a></li>
+              <li class=""><a href=" http://www.careers.ox.ac.uk/info-for-recruiters/advertise-your-vacancies/the-oxford-guide-to-careers/">The Oxford Guide to Careers</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/info-for-recruiters/join-the-recruiters-group/" class="">JOIN THE RECRUITERS GROUP</a></li>     
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/info-for-recruiters/working-with-student-societies/" class="">WORKING WITH STUDENT SOCIETIES</a></li>
+			  <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/our-services/careerconnect/" class="">CAREERCONNECT</a></li>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/info-for-recruiters/contact-us/" class="">CONTACT US</a></li>			  
+            </ul>
+            <ul>             
+            	<li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/info-for-recruiters/raising-your-profile/" class="">RAISING YOUR PROFILE</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/raising-your-profile/fairs/" class="">Fairs</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/raising-your-profile/employer-presentations/" class="">Employer Presentations</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/raising-your-profile/e-shots-and-mailings/" class="">E-Shots and Mailings</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/raising-your-profile/skills-sessions/" class="">Skills Sessions</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/raising-your-profile/mock-interviews-for-recruiters/" class="">Mock Interviews</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/raising-your-profile/recruiter-in-residence/" class="">Recruiter in Residence</a></li>
+			  <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/raising-your-profile/springboard-information-for-recruiters/" class="">The Springboard Programme</a></li>
+            </ul>
+
+            <ul>
+			  <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/info-for-recruiters/the-internship-office-information-for-recruiters/" class="">THE INTERNSHIP OFFICE</a></li>
+			  <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/the-internship-office-information-for-recruiters/hire-an-oxford-intern/" class="">Hire an Oxford Intern</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/the-internship-office-information-for-recruiters/internships-information-for-sponsors/" class="">The Internship Programme</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/the-internship-office-information-for-recruiters/the-moritz-heyman-internship-programme-information-for-sponsors/" class="">Moritz-Heyman Internship Programme</a></li>	
+			  <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/the-internship-office-information-for-recruiters/doctoral-internships-information-for-recruiters/" class="">Doctoral Internship Programme</a></li>
+              			  <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/the-internship-office-information-for-recruiters/micro-internships/" class="">Micro-internships</a></li>
+			  <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/the-internship-office-information-for-recruiters/support-our-internship-programmes/" class="">Support our Internship Programmes</a></li>
+            </ul>
+            
+                        <ul>
+              <li class="sectionHeader"><a href="http://www.careers.ox.ac.uk/info-for-recruiters/join-our-work-experience-schemes/" class="">OUR OTHER WORK EXPERIENCE SCHEMES</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/join-our-work-experience-schemes/insight-into-teaching-recruiters/" class="">Insight Into Teaching</a></li>
+              <li class=""><a href="http://www.careers.ox.ac.uk/info-for-recruiters/join-our-work-experience-schemes/the-student-consultancy-recruiters/" class="">The Student Consultancy</a></li>
+            </ul>
+          </div>
+        </div>
+      </li> <!-- end #nav6 -->
+      
+    </ul> <!-- end .megamenu -->
+  </div> <!-- end .megamenu-container -->
+  <select>
+    <option value="/">HOME</option>
+    <option value="http://www.careers.ox.ac.uk/options-and-occupations/">OPTIONS AND OCCUPATIONS</option>
+    <option value="http://www.careers.ox.ac.uk/options-and-occupations/deciding-whats-right-for-you/">- DECIDING WHAT'S RIGHT FOR YOU</option>
+		<option value="http://www.careers.ox.ac.uk/options-and-occupations/sectors-and-occupations/">- SECTORS AND OCCUPATIONS</option>
+        		<option value="http://www.careers.ox.ac.uk/options-and-occupations/what-alumni-have-done/">- WHAT ALUMNI HAVE DONE</option>
+        		<option value="http://www.careers.ox.ac.uk/options-and-occupations/using-your-subject/">- USING YOUR SUBJECT</option>
+		<option value="http://www.careers.ox.ac.uk/options-and-occupations/further-study/">- FURTHER STUDY</option>
+        <option value="http://www.careers.ox.ac.uk/options-and-occupations/careers-beyond-profit/">- CAREERS BEYOND PROFIT</option>
+		<option value="http://www.careers.ox.ac.uk/options-and-occupations/post-dphil-options/">- POST-DPHIL OPTIONS</option>
+		<option value="http://www.careers.ox.ac.uk/options-and-occupations/research-staff-options/">- RESEARCH STAFF OPTIONS</option>
+		<option value="http://www.careers.ox.ac.uk/options-and-occupations/redundancy/">- REDUNDANCY</option>
+		
+    <option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/">INTERNSHIP OFFICE & WORK EXPERIENCE</option>
+    <option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/about-the-internship-office-2/">- ABOUT THE INTERNSHIP OFFICE</option>
+	<option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/the-internship-programme/">- THE INTERNSHIP PROGRAMME</option>
+	<option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/doctoral-internships-information-for-students/">- THE DOCTORAL INTERNSHIP PROGRAMME</option>
+   	<option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/moritz-heyman-internship-programme/">- MORITZ-HEYMAN INTERNSHIP PROGRAMME</option>
+	<option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/employability-skills/">- EMPLOYABILITY SKILLS</option>
+    <option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/employability-programmes/">- OUR EMPLOYABILITY PROGRAMMES</option>
+    <option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/what-is-work-experience/">- WHAT IS WORK EXPERIENCE?</option>
+    <option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/why-do-work-experience/">- WHY DO WORK EXPERIENCE?</option>
+    <option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/finding-work-experience/">- FINDING WORK EXPERIENCE</option>
+    <option value="http://www.careers.ox.ac.uk/internship-office-and-work-experience/doing-work-experience-abroad/">- DOING WORK EXPERIENCE ABROAD</option>
+    	
+    <option value="http://www.careers.ox.ac.uk/searching-for-work">SEARCHING FOR WORK</option>
+    <option value="http://www.careers.ox.ac.uk/searching-for-work/where-to-look-for-work/">- WHERE TO LOOK FOR WORK</option>
+    <option value="http://www.careers.ox.ac.uk/searching-for-work/how-to-research-employers/">- HOW TO RESEARCH EMPLOYERS</option>
+    <option value="http://www.careers.ox.ac.uk/searching-for-work/networking-and-information-interviews/">- NETWORKING</option>
+    <option value="http://www.careers.ox.ac.uk/searching-for-work/how-to-prepare-for-a-careers-fair/">- HOW TO PREPARE FOR A CAREERS FAIR</option>
+    <option value="http://www.careers.ox.ac.uk/searching-for-work/visa-information/">- UK VISA INFORMATION</option>
+    <option value="http://www.careers.ox.ac.uk/searching-for-work/work-outside-the-uk/">- WORK OUTSIDE THE UK</option>
+    <option value="http://www.careers.ox.ac.uk/searching-for-work/diversity-job-searching/">- DIVERSITY JOB SEARCHING</option>
+     <option value="http://www.careers.ox.ac.uk/searching-for-work/employment-law-faqs/">- EMPLOYMENT LAW FAQS</option>
+	<option value="http://www.careers.ox.ac.uk/searching-for-work/overcoming-disappointing-grades/">- OVERCOMING DISAPPOINTING GRADES</option>
+    
+    <option value="http://www.careers.ox.ac.uk/the-application-process/">THE APPLICATION PROCESS</option>
+    <option value="http://www.careers.ox.ac.uk/the-application-process/showing-your-suitability/">- SHOWING YOUR SUITABILITY</option>
+    <option value="http://www.careers.ox.ac.uk/the-application-process/cvs/">- CVS</option>
+    <option value="http://www.careers.ox.ac.uk/the-application-process/cover-letters/">- COVER LETTERS</option>
+    <option value="http://www.careers.ox.ac.uk/the-application-process/speculative-applications/">- SPECULATIVE APPLICATIONS</option>
+    <option value="http://www.careers.ox.ac.uk/the-application-process/application-forms/">- APPLICATION FORMS</option>
+    <option value="http://www.careers.ox.ac.uk/the-application-process/psychometric-tests/">- PSYCHOMETRIC TESTS</option>
+    <option value="http://www.careers.ox.ac.uk/the-application-process/assessment-centres/">- ASSESSMENT CENTRES</option>
+    <option value="http://www.careers.ox.ac.uk/the-application-process/interviews/">- INTERVIEWS</option>
+    <option value="http://www.careers.ox.ac.uk/the-application-process/presenting-non-uk-qualifications/">- PRESENTING NON-UK QUALIFICATIONS</option>
+    <option value="http://www.careers.ox.ac.uk/the-application-process/handling-offers-and-rejection/">- HANDLING OFFERS AND REJECTION</option>
+    
+    <option value="http://www.careers.ox.ac.uk//our-services/">OUR SERVICES</option>
+    <option value="http://www.careers.ox.ac.uk/our-services/careerconnect/">- CAREERCONNECT</option> 
+    <option value="http://www.careers.ox.ac.uk/our-services/see-a-careers-adviser/">- SEE A CAREERS ADVISER</option>
+    <option value="http://www.careers.ox.ac.uk/our-services/the-oxford-careers-network/">- THE OXFORD CAREERS NETWORK</option>
+     <option value="http://www.careers.ox.ac.uk/our-services/events/">- EVENTS</option>
+	<option value="http://www.careers.ox.ac.uk/our-services/springboard/">- SPRINGBOARD</option>     
+    <option value="http://www.careers.ox.ac.uk/our-services/services-for/">- SERVICES FOR...</option> 
+    <option value="http://www.careers.ox.ac.uk/our-services/resource-centre/">- RESOURCE CENTRE</option>
+	<option value="http://www.careers.ox.ac.uk/our-services/our-publications/">- OUR PUBLICATIONS</option>
+	<option value="http://www.careers.ox.ac.uk/our-services/our-podcasts/">- OUR PODCASTS</option>
+    <option value="http://www.careers.ox.ac.uk/our-services/policies/">- OUR POLICIES</option>
+    <option value="http://www.careers.ox.ac.uk/our-services/contact-us/">- CONTACT US</option>
+    
+	
+    <option value="http://www.careers.ox.ac.uk/info-for-recruiters/">INFORMATION FOR RECRUITERS</option>
+    <option value="http://www.careers.ox.ac.uk/info-for-recruiters/advertise-your-vacancies/">- ADVERTISE YOUR VACANCIES</option>
+    <option value="http://www.careers.ox.ac.uk/info-for-recruiters/join-the-recruiters-group/">- JOIN THE RECRUITERS GROUP</option>
+    <option value="http://www.careers.ox.ac.uk/info-for-recruiters/raising-your-profile/">- RAISING YOUR PROFILE</option>
+    <option value="http://www.careers.ox.ac.uk/info-for-recruiters/join-our-work-experience-schemes/">- JOIN OUR WORK EXPERIENCE SCHEMES</option>
+	<option value="http://www.careers.ox.ac.uk/info-for-recruiters/the-internship-office-information-for-recruiters/">- THE INTERNSHIP OFFICE</option>
+    <option value="http://www.careers.ox.ac.uk/info-for-recruiters/working-with-student-societies/">- WORKING WITH STUDENT SOCIETIES</option>
+	<option value="http://www.careers.ox.ac.uk/our-services/careerconnect/">- CAREERCONNECT</option>
+	<option value="http://www.careers.ox.ac.uk/info-for-recruiters/contact-us/">- CONTACT US</option>
+    
+  </select>
+</nav><!-- #access -->
+	</header>
+
+    <br class="clear" />
+	<div id="main" role="main" class="main blog">
+
+        <h1><a href="http://www.careers.ox.ac.uk/the-careers-service-blog"><img class="casinline" alt="The Careers Service Blog" src="/wp-content/themes/ocs/images/blogbanner.jpg" /></a>&nbsp;</h1>
+
+				
+        <div class="colMain">
+					
+<article id="post-21529" class="post-21529 post type-post status-publish format-standard has-post-thumbnail hentry category-uk-visa-information">
+		<h2 class="entry-title">Staying in the UK to Work &#8211; Visa Talk</h2>
+
+					<p class="entry-meta date">POSTED ON: October 29, 2014 BY Jane Chanaa</p>		
+	<div class="entry-content">
+		<p><em><a href="http://www.careers.ox.ac.uk/wp-content/uploads/2012/06/web_shutterstock_15808321.jpg"><img class="alignleft size-full wp-image-5264" src="http://www.careers.ox.ac.uk/wp-content/uploads/2012/06/web_shutterstock_15808321.jpg" alt="Passport with visas" width="580" height="385" /></a>Tuesday 4 November, 12.30-14.00, The Careers Service, (Talk delivered by the OU Student Information &amp; Advisory Service)</em></p>
+<p>If you are studying with a Tier 4 visa and are thinking about staying on in the UK to work, come to this talk to hear about the main visa options for this.</p>
+<p>We will focus on the Tier 2 system where a licensed employer can sponsor you for a graduate level job, and the special provisions for switching from Tier 4 to Tier 2. We will also look at the Doctorate Extension Scheme for DPhil students, Tier 1 Graduate Entrepreneur for those with a business idea, and Tier 5 options for those interested in work experience or an internship in the UK.</p>
+<p>Meet the University’s student Visa and Immigration Advisers who will explain the advice available from the University and stay for your individual questions after the talk. Please be on time to be sure of a place.</p>
+<p>&nbsp;</p>
+			</div><!-- .entry-content -->
+
+        <span class="cat-links">
+      <p class="entry-meta">POSTED IN: <a href="http://www.careers.ox.ac.uk/category/searching-for-work/uk-visa-information/" rel="category tag">UK Visa Information</a></p>    </span>
+    
+        
+		
+		</article><!-- #post-21529 -->
+
+					<nav id="nav-single">
+						<h2 class="assistive-text">Post navigation</h2>
+						<span class="nav-previous"><a href="http://www.careers.ox.ac.uk/international-organisations-day-8th-november-lse/" rel="prev"><span class="meta-nav">&larr;</span> Previous</a></span>
+						<span class="nav-next"><a href="http://www.careers.ox.ac.uk/springboard-is-it-for-you-2/" rel="next">Next <span class="meta-nav">&rarr;</span></a></span>
+					</nav><!-- #nav-single -->
+
+						<div id="comments">
+	
+	
+			<p class="nocomments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+        </div><!-- .colMain -->
+
+				
+
+    <div class="colSide1">
+			<aside id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href='http://www.careers.ox.ac.uk/tag/academia/' class='tag-link-27' title='28 topics' style='font-size: 15.846153846154pt;'>Academia</a>
+<a href='http://www.careers.ox.ac.uk/tag/advice/' class='tag-link-188' title='19 topics' style='font-size: 13.384615384615pt;'>advice</a>
+<a href='http://www.careers.ox.ac.uk/tag/alumni/' class='tag-link-216' title='16 topics' style='font-size: 12.307692307692pt;'>alumni</a>
+<a href='http://www.careers.ox.ac.uk/tag/arts/' class='tag-link-421' title='17 topics' style='font-size: 12.769230769231pt;'>arts</a>
+<a href='http://www.careers.ox.ac.uk/tag/business/' class='tag-link-318' title='57 topics' style='font-size: 20.461538461538pt;'>business</a>
+<a href='http://www.careers.ox.ac.uk/tag/career-planning/' class='tag-link-475' title='19 topics' style='font-size: 13.384615384615pt;'>Career Planning</a>
+<a href='http://www.careers.ox.ac.uk/tag/careers-beyond-profit/' class='tag-link-482' title='57 topics' style='font-size: 20.461538461538pt;'>careers beyond profit</a>
+<a href='http://www.careers.ox.ac.uk/tag/charities/' class='tag-link-404' title='28 topics' style='font-size: 15.846153846154pt;'>charities</a>
+<a href='http://www.careers.ox.ac.uk/tag/charity/' class='tag-link-161' title='40 topics' style='font-size: 18.153846153846pt;'>charity</a>
+<a href='http://www.careers.ox.ac.uk/tag/china/' class='tag-link-383' title='14 topics' style='font-size: 11.538461538462pt;'>China</a>
+<a href='http://www.careers.ox.ac.uk/tag/competition/' class='tag-link-168' title='35 topics' style='font-size: 17.384615384615pt;'>competition</a>
+<a href='http://www.careers.ox.ac.uk/tag/creative/' class='tag-link-366' title='20 topics' style='font-size: 13.692307692308pt;'>creative</a>
+<a href='http://www.careers.ox.ac.uk/tag/development/' class='tag-link-163' title='22 topics' style='font-size: 14.307692307692pt;'>development</a>
+<a href='http://www.careers.ox.ac.uk/tag/disability/' class='tag-link-415' title='19 topics' style='font-size: 13.384615384615pt;'>disability</a>
+<a href='http://www.careers.ox.ac.uk/tag/dphil/' class='tag-link-172' title='36 topics' style='font-size: 17.538461538462pt;'>DPhil</a>
+<a href='http://www.careers.ox.ac.uk/tag/employers/' class='tag-link-285' title='11 topics' style='font-size: 10pt;'>employers</a>
+<a href='http://www.careers.ox.ac.uk/tag/enterprise/' class='tag-link-228' title='57 topics' style='font-size: 20.461538461538pt;'>enterprise</a>
+<a href='http://www.careers.ox.ac.uk/tag/entrepreneurship/' class='tag-link-317' title='68 topics' style='font-size: 21.692307692308pt;'>entrepreneurship</a>
+<a href='http://www.careers.ox.ac.uk/tag/experience/' class='tag-link-233' title='54 topics' style='font-size: 20.153846153846pt;'>experience</a>
+<a href='http://www.careers.ox.ac.uk/tag/finance/' class='tag-link-329' title='25 topics' style='font-size: 15.076923076923pt;'>Finance</a>
+<a href='http://www.careers.ox.ac.uk/tag/funding/' class='tag-link-208' title='46 topics' style='font-size: 19.076923076923pt;'>funding</a>
+<a href='http://www.careers.ox.ac.uk/tag/further-study-2/' class='tag-link-373' title='10 topics' style='font-size: 9.3846153846154pt;'>Further study</a>
+<a href='http://www.careers.ox.ac.uk/tag/hub/' class='tag-link-408' title='8 topics' style='font-size: 8pt;'>hub</a>
+<a href='http://www.careers.ox.ac.uk/tag/international/' class='tag-link-166' title='28 topics' style='font-size: 15.846153846154pt;'>international</a>
+<a href='http://www.careers.ox.ac.uk/tag/internship/' class='tag-link-164' title='17 topics' style='font-size: 12.769230769231pt;'>internship</a>
+<a href='http://www.careers.ox.ac.uk/tag/languages/' class='tag-link-390' title='10 topics' style='font-size: 9.3846153846154pt;'>languages</a>
+<a href='http://www.careers.ox.ac.uk/tag/law/' class='tag-link-177' title='21 topics' style='font-size: 14pt;'>law</a>
+<a href='http://www.careers.ox.ac.uk/tag/masters/' class='tag-link-334' title='16 topics' style='font-size: 12.307692307692pt;'>Masters</a>
+<a href='http://www.careers.ox.ac.uk/tag/medicine/' class='tag-link-183' title='12 topics' style='font-size: 10.461538461538pt;'>medicine</a>
+<a href='http://www.careers.ox.ac.uk/tag/networking/' class='tag-link-190' title='27 topics' style='font-size: 15.692307692308pt;'>Networking</a>
+<a href='http://www.careers.ox.ac.uk/tag/oxford/' class='tag-link-342' title='10 topics' style='font-size: 9.3846153846154pt;'>oxford</a>
+<a href='http://www.careers.ox.ac.uk/tag/pgce/' class='tag-link-171' title='14 topics' style='font-size: 11.538461538462pt;'>PGCE</a>
+<a href='http://www.careers.ox.ac.uk/tag/phd/' class='tag-link-207' title='21 topics' style='font-size: 14pt;'>PhD</a>
+<a href='http://www.careers.ox.ac.uk/tag/postgraduate-study-in-the-usa/' class='tag-link-620' title='8 topics' style='font-size: 8pt;'>Postgraduate study in the USA</a>
+<a href='http://www.careers.ox.ac.uk/tag/publishing-2/' class='tag-link-550' title='13 topics' style='font-size: 11.076923076923pt;'>publishing</a>
+<a href='http://www.careers.ox.ac.uk/tag/research/' class='tag-link-187' title='33 topics' style='font-size: 16.923076923077pt;'>research</a>
+<a href='http://www.careers.ox.ac.uk/tag/school-direct/' class='tag-link-175' title='9 topics' style='font-size: 8.7692307692308pt;'>School Direct</a>
+<a href='http://www.careers.ox.ac.uk/tag/science/' class='tag-link-287' title='20 topics' style='font-size: 13.692307692308pt;'>science</a>
+<a href='http://www.careers.ox.ac.uk/tag/skills/' class='tag-link-291' title='28 topics' style='font-size: 15.846153846154pt;'>skills</a>
+<a href='http://www.careers.ox.ac.uk/tag/social-enterprise/' class='tag-link-219' title='71 topics' style='font-size: 22pt;'>social enterprise</a>
+<a href='http://www.careers.ox.ac.uk/tag/teaching/' class='tag-link-170' title='20 topics' style='font-size: 13.692307692308pt;'>Teaching</a>
+<a href='http://www.careers.ox.ac.uk/tag/translation/' class='tag-link-476' title='11 topics' style='font-size: 10pt;'>translation</a>
+<a href='http://www.careers.ox.ac.uk/tag/volunteering/' class='tag-link-162' title='14 topics' style='font-size: 11.538461538462pt;'>volunteering</a>
+<a href='http://www.careers.ox.ac.uk/tag/work-experience/' class='tag-link-181' title='61 topics' style='font-size: 20.923076923077pt;'>work experience</a>
+<a href='http://www.careers.ox.ac.uk/tag/writing/' class='tag-link-274' title='8 topics' style='font-size: 8pt;'>writing</a></div>
+</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-27"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/academia/" >Academia</a> (52)
+</li>
+	<li class="cat-item cat-item-48"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/accoutancy/" >Accountancy</a> (40)
+</li>
+	<li class="cat-item cat-item-29"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/actuarial-work/" >Actuarial Work</a> (12)
+</li>
+	<li class="cat-item cat-item-30"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/advertising/" >Advertising</a> (69)
+</li>
+	<li class="cat-item cat-item-268"><a href="http://www.careers.ox.ac.uk/category/our-services/advice-sessions-our-services/" >Advice sessions</a> (13)
+</li>
+	<li class="cat-item cat-item-49"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/animal-plant-resources/" >Animal &amp; Plant Resources</a> (3)
+</li>
+	<li class="cat-item cat-item-121"><a href="http://www.careers.ox.ac.uk/category/the-application-process/application-forms/" >Application Forms</a> (16)
+</li>
+	<li class="cat-item cat-item-50"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/armed-forces-emergency-services/" >Armed Forces &amp; Emergency Services</a> (12)
+</li>
+	<li class="cat-item cat-item-51"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/arts-administration/" >Arts Administration</a> (48)
+</li>
+	<li class="cat-item cat-item-122"><a href="http://www.careers.ox.ac.uk/category/the-application-process/assessment-centres/" >Assessment Centres</a> (20)
+</li>
+	<li class="cat-item cat-item-52"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/banking-investment/" >Banking &amp; Investment</a> (97)
+</li>
+	<li class="cat-item cat-item-137"><a href="http://www.careers.ox.ac.uk/category/our-services/careerconnect/" >CareerConnect</a> (2)
+</li>
+	<li class="cat-item cat-item-42"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/careers-beyond-profit-2/" >Careers Beyond Profit</a> (41)
+</li>
+	<li class="cat-item cat-item-141"><a href="http://www.careers.ox.ac.uk/category/our-services/events/careers-fairs/" >Careers Fairs</a> (46)
+</li>
+	<li class="cat-item cat-item-94"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/charity-sector/" >Charities</a> (68)
+</li>
+	<li class="cat-item cat-item-54"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/civil-service/" >Civil Service</a> (61)
+</li>
+	<li class="cat-item cat-item-55"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/computing-it/" >Computing &amp; IT</a> (71)
+</li>
+	<li class="cat-item cat-item-56"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/construction-civil-engineering-property/" >Construction, Civil Engineering &amp; Property</a> (7)
+</li>
+	<li class="cat-item cat-item-267"><a href="http://www.careers.ox.ac.uk/category/our-services/contact-us/" >Contact Us</a> (4)
+</li>
+	<li class="cat-item cat-item-119"><a href="http://www.careers.ox.ac.uk/category/the-application-process/cover-letters/" >Cover Letters</a> (8)
+</li>
+	<li class="cat-item cat-item-57"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/creative-arts/" >Creative Arts</a> (87)
+</li>
+	<li class="cat-item cat-item-118"><a href="http://www.careers.ox.ac.uk/category/the-application-process/cvs/" >CVs</a> (26)
+</li>
+	<li class="cat-item cat-item-47"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/deciding-whats-right-for-you/" >Deciding What&#039;s Right for You</a> (34)
+</li>
+	<li class="cat-item cat-item-97"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/deciding-whats-right-for-you/decision-making-strategies/" >Decision Making Strategies</a> (8)
+</li>
+	<li class="cat-item cat-item-111"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/diversity-job-search/" >Diversity Job Search</a> (38)
+</li>
+	<li class="cat-item cat-item-58"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/economic-consultancy/" >Economic Consultancy</a> (16)
+</li>
+	<li class="cat-item cat-item-98"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/employability-skills/" >Employability Skills</a> (56)
+</li>
+	<li class="cat-item cat-item-59"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/energy/" >Energy</a> (32)
+</li>
+	<li class="cat-item cat-item-140"><a href="http://www.careers.ox.ac.uk/category/our-services/engaging-as-alumni/" >Engaging as Alumni</a> (16)
+</li>
+	<li class="cat-item cat-item-60"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/engineering/" >Engineering</a> (33)
+</li>
+	<li class="cat-item cat-item-61"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/environmental-work/" >Environmental Work</a> (40)
+</li>
+	<li class="cat-item cat-item-139"><a href="http://www.careers.ox.ac.uk/category/our-services/events/" >Events</a> (64)
+</li>
+	<li class="cat-item cat-item-149"><a href="http://www.careers.ox.ac.uk/category/our-services/events/events-for-alumni/" >Events for Alumni</a> (26)
+</li>
+	<li class="cat-item cat-item-148"><a href="http://www.careers.ox.ac.uk/category/our-services/events/events-for-disabled-students/" >Events for Disabled Students</a> (30)
+</li>
+	<li class="cat-item cat-item-146"><a href="http://www.careers.ox.ac.uk/category/our-services/events/events-for-dphils-and-research-staff/" >Events for DPhils and Research Staff</a> (29)
+</li>
+	<li class="cat-item cat-item-150"><a href="http://www.careers.ox.ac.uk/category/our-services/events/events-for-female-students/" >Events for Female Students</a> (23)
+</li>
+	<li class="cat-item cat-item-147"><a href="http://www.careers.ox.ac.uk/category/our-services/events/events-for-international-students/" >Events for International Students</a> (23)
+</li>
+	<li class="cat-item cat-item-145"><a href="http://www.careers.ox.ac.uk/category/our-services/events/events-for-masters-students/" >Events for Masters Students</a> (20)
+</li>
+	<li class="cat-item cat-item-115"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/where-to-look-for-work/finding-academic-research-vacancies/" >Finding Academic &amp; Research Vacancies</a> (5)
+</li>
+	<li class="cat-item cat-item-114"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/where-to-look-for-work/finding-job-internship-vacancies/" >Finding Job &amp; Internship Vacancies</a> (36)
+</li>
+	<li class="cat-item cat-item-101"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/finding-work-experience/" >Finding Work Experience</a> (79)
+</li>
+	<li class="cat-item cat-item-116"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/where-to-look-for-work/finding-work-in-oxford/" >Finding Work In Oxford</a> (8)
+</li>
+	<li class="cat-item cat-item-44"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/further-study/" >Further Study</a> (55)
+</li>
+	<li class="cat-item cat-item-62"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/general-management/" >General Management</a> (18)
+</li>
+	<li class="cat-item cat-item-133"><a href="http://www.careers.ox.ac.uk/category/the-application-process/interviews/get-interview-practice/" >Get Interview Practice</a> (9)
+</li>
+	<li class="cat-item cat-item-126"><a href="http://www.careers.ox.ac.uk/category/the-application-process/handling-offers-and-rejection/" >Handling Offers and Rejection</a> (1)
+</li>
+	<li class="cat-item cat-item-128"><a href="http://www.careers.ox.ac.uk/category/the-application-process/handling-offers-and-rejection/handling-rejection/" >Handling Rejection</a> (1)
+</li>
+	<li class="cat-item cat-item-125"><a href="http://www.careers.ox.ac.uk/category/the-application-process/handling-sensitive-or-non-standard-information/" >Handling Sensitive or Non-Standard Information</a> (3)
+</li>
+	<li class="cat-item cat-item-109"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/how-to-build-networks/" >How to Build Networks</a> (22)
+</li>
+	<li class="cat-item cat-item-108"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/how-to-research-employers/" >How to Research Employers</a> (13)
+</li>
+	<li class="cat-item cat-item-63"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/human-resources/" >Human Resources</a> (19)
+</li>
+	<li class="cat-item cat-item-34"><a href="http://www.careers.ox.ac.uk/category/information-for-recruiters/" >Information for Recruiters</a> (6)
+</li>
+	<li class="cat-item cat-item-715"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/the-internship-office/the-internship-programme/information-for-successful-applicants/" >Information for successful applicants</a> (3)
+</li>
+	<li class="cat-item cat-item-105"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/our-work-experience-schemes/insight-into-teaching/" >Insight Into Teaching</a> (19)
+</li>
+	<li class="cat-item cat-item-64"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/insurance/" >Insurance</a> (6)
+</li>
+	<li class="cat-item cat-item-65"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/international-development/" >International Development</a> (64)
+</li>
+	<li class="cat-item cat-item-66"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/international-law/" >International Law</a> (72)
+</li>
+	<li class="cat-item cat-item-67"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/international-organisations/" >International Organisations</a> (48)
+</li>
+	<li class="cat-item cat-item-38"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/" >Internship Office and Work Experience</a> (168)
+</li>
+	<li class="cat-item cat-item-134"><a href="http://www.careers.ox.ac.uk/category/the-application-process/interviews/interview-feedback-database/" >Interview Feedback Database</a> (1)
+</li>
+	<li class="cat-item cat-item-124"><a href="http://www.careers.ox.ac.uk/category/the-application-process/interviews/" >Interviews</a> (21)
+</li>
+	<li class="cat-item cat-item-112"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/job-search-information-for-research-staff/" >Job Search Information for Research Staff</a> (8)
+</li>
+	<li class="cat-item cat-item-154"><a href="http://www.careers.ox.ac.uk/category/information-for-recruiters/join-our-work-experience-schemes-as-an-employer/" >Join our Work Experience Schemes as an Employer</a> (1)
+</li>
+	<li class="cat-item cat-item-68"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/journalism/" >Journalism</a> (68)
+</li>
+	<li class="cat-item cat-item-53"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/barrister/" >Law &#8211; Barrister</a> (79)
+</li>
+	<li class="cat-item cat-item-86"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/law-solicitors/" >Law &#8211; Solicitors</a> (122)
+</li>
+	<li class="cat-item cat-item-69"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/leisure-sport-tourism/" >Leisure, Sport &amp; Tourism</a> (8)
+</li>
+	<li class="cat-item cat-item-70"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/library-information-work/" >Library &amp; Information Work</a> (8)
+</li>
+	<li class="cat-item cat-item-71"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/local-government/" >Local Government</a> (14)
+</li>
+	<li class="cat-item cat-item-132"><a href="http://www.careers.ox.ac.uk/category/the-application-process/interviews/make-a-good-first-impression-at-interview/" >Make a Good First Impression at Interview</a> (5)
+</li>
+	<li class="cat-item cat-item-72"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/management-consultancy/" >Management Consultancy</a> (96)
+</li>
+	<li class="cat-item cat-item-73"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/market-research/" >Market Research</a> (47)
+</li>
+	<li class="cat-item cat-item-74"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/marketing-sales/" >Marketing &amp; Sales</a> (82)
+</li>
+	<li class="cat-item cat-item-75"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/medicine-as-a-second-degree/" >Medicine as a Second Degree</a> (19)
+</li>
+	<li class="cat-item cat-item-143"><a href="http://www.careers.ox.ac.uk/category/our-services/events/mock-interviews/" >Mock Interviews</a> (16)
+</li>
+	<li class="cat-item cat-item-76"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/museums-galleries/" >Museums &amp; Galleries</a> (32)
+</li>
+	<li class="cat-item cat-item-39"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/" >Options and Occupations</a> (35)
+</li>
+	<li class="cat-item cat-item-103"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/other-ways-to-develop-employability-skills/" >Other Ways to Develop Employability Skills</a> (74)
+</li>
+	<li class="cat-item cat-item-488"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/the-internship-office/oudips-information-for-students/" >OUDIPS</a> (1)
+</li>
+	<li class="cat-item cat-item-35"><a href="http://www.careers.ox.ac.uk/category/our-services/" >Our Services</a> (16)
+</li>
+	<li class="cat-item cat-item-102"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/our-work-experience-schemes/" >Our Work Experience Schemes</a> (35)
+</li>
+	<li class="cat-item cat-item-77"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/patents-and-related-work/" >Patents and Related Work</a> (13)
+</li>
+	<li class="cat-item cat-item-78"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/pharmaceuticals-biotechnology/" >Pharmaceuticals &amp; Biotechnology</a> (13)
+</li>
+	<li class="cat-item cat-item-41"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/post-dphil-options/" >Post DPhil Options</a> (38)
+</li>
+	<li class="cat-item cat-item-131"><a href="http://www.careers.ox.ac.uk/category/the-application-process/interviews/prepare-points-to-make-at-interview/" >Prepare Points to Make at Interview</a> (4)
+</li>
+	<li class="cat-item cat-item-79"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/psychology/" >Psychology</a> (4)
+</li>
+	<li class="cat-item cat-item-123"><a href="http://www.careers.ox.ac.uk/category/the-application-process/psychometric-tests/" >Psychometric Tests</a> (12)
+</li>
+	<li class="cat-item cat-item-639"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/public-health/" >Public Health</a> (13)
+</li>
+	<li class="cat-item cat-item-80"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/public-relations/" >Public Relations</a> (60)
+</li>
+	<li class="cat-item cat-item-81"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/publishing/" >Publishing</a> (56)
+</li>
+	<li class="cat-item cat-item-152"><a href="http://www.careers.ox.ac.uk/category/information-for-recruiters/raise-your-organisations-profile-at-oxford/" >Raise Your Organisation&#039;s Profile at Oxford</a> (1)
+</li>
+	<li class="cat-item cat-item-144"><a href="http://www.careers.ox.ac.uk/category/our-services/events/recruiter-in-residence/" >Recruiter in Residence</a> (21)
+</li>
+	<li class="cat-item cat-item-40"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/research-staff-options/" >Research Staff Options</a> (33)
+</li>
+	<li class="cat-item cat-item-136"><a href="http://www.careers.ox.ac.uk/category/our-services/resource-centre/" >Resource Centre</a> (5)
+</li>
+	<li class="cat-item cat-item-82"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/retailing/" >Retailing</a> (10)
+</li>
+	<li class="cat-item cat-item-83"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/science-alternatives/" >Science Alternatives</a> (43)
+</li>
+	<li class="cat-item cat-item-84"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/science-research-development/" >Science Research &amp; Development</a> (42)
+</li>
+	<li class="cat-item cat-item-37"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/" >Searching for Work</a> (22)
+</li>
+	<li class="cat-item cat-item-45"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/" >Sectors and Occupations</a> (18)
+</li>
+	<li class="cat-item cat-item-138"><a href="http://www.careers.ox.ac.uk/category/our-services/see-a-careers-adviser/" >See a Careers Adviser</a> (10)
+</li>
+	<li class="cat-item cat-item-117"><a href="http://www.careers.ox.ac.uk/category/the-application-process/showing-your-suitability/" >Showing Your Suitability</a> (3)
+</li>
+	<li class="cat-item cat-item-85"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/social-work/" >Social Work</a> (22)
+</li>
+	<li class="cat-item cat-item-120"><a href="http://www.careers.ox.ac.uk/category/the-application-process/speculative-applications/" >Speculative Applications</a> (7)
+</li>
+	<li class="cat-item cat-item-142"><a href="http://www.careers.ox.ac.uk/category/our-services/events/talks-and-workshops/" >Talks and Workshops</a> (29)
+</li>
+	<li class="cat-item cat-item-87"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/tax-consultancy/" >Tax Consultancy</a> (6)
+</li>
+	<li class="cat-item cat-item-88"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/teaching-in-schools/" >Teaching in Schools</a> (69)
+</li>
+	<li class="cat-item cat-item-89"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/tefl/" >TEFL</a> (24)
+</li>
+	<li class="cat-item cat-item-96"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/deciding-whats-right-for-you/testing-out-possible-options/" >Testing Out Possible Options</a> (14)
+</li>
+	<li class="cat-item cat-item-36"><a href="http://www.careers.ox.ac.uk/category/the-application-process/" >The Application Process</a> (30)
+</li>
+	<li class="cat-item cat-item-486"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/the-internship-office/" >The Internship Office</a> (122)
+</li>
+	<li class="cat-item cat-item-680"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/the-internship-office/the-internship-programme/" >The Internship Programme</a> (119)
+</li>
+	<li class="cat-item cat-item-513"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/our-work-experience-schemes/the-shed/" >The Shed</a> (76)
+</li>
+	<li class="cat-item cat-item-104"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/our-work-experience-schemes/the-student-consultancy/" >The Student Consultancy</a> (23)
+</li>
+	<li class="cat-item cat-item-737"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/our-work-experience-schemes/the-student-entrepreneur/" >The Student Entrepreneur</a> (26)
+</li>
+	<li class="cat-item cat-item-90"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/think-tanks/" >Think Tanks</a> (13)
+</li>
+	<li class="cat-item cat-item-91"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/translating-interpreting/" >Translating &amp; Interpreting</a> (21)
+</li>
+	<li class="cat-item cat-item-92"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/transport-logistics/" >Transport &amp; Logistics</a> (2)
+</li>
+	<li class="cat-item cat-item-93"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/sectors-and-occupations/tv-radio/" >TV &amp; Radio</a> (55)
+</li>
+	<li class="cat-item cat-item-130"><a href="http://www.careers.ox.ac.uk/category/the-application-process/interviews/types-of-interview-question/" >Types of Interview Question</a> (16)
+</li>
+	<li class="cat-item cat-item-110"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/uk-visa-information/" >UK Visa Information</a> (15)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.careers.ox.ac.uk/category/uncategorized/" >Uncategorized</a> (166)
+</li>
+	<li class="cat-item cat-item-46"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/what-alumni-have-done/" >What Alumni Have Done</a> (10)
+</li>
+	<li class="cat-item cat-item-99"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/what-is-work-experience/" >What is Work Experience?</a> (28)
+</li>
+	<li class="cat-item cat-item-107"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/where-to-look-for-work/" >Where to Look for Work</a> (8)
+</li>
+	<li class="cat-item cat-item-100"><a href="http://www.careers.ox.ac.uk/category/internship-office-and-work-experience/why-do-work-experience/" >Why Do Work Experience?</a> (28)
+</li>
+	<li class="cat-item cat-item-43"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/work-for-yourself/" >Work for Yourself</a> (77)
+</li>
+	<li class="cat-item cat-item-160"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/work-outside-the-uk/work-in-africa/" >Work in Africa</a> (8)
+</li>
+	<li class="cat-item cat-item-156"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/work-outside-the-uk/work-in-asia/" >Work in Asia</a> (48)
+</li>
+	<li class="cat-item cat-item-157"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/work-outside-the-uk/work-in-australasia/" >Work in Australasia</a> (5)
+</li>
+	<li class="cat-item cat-item-159"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/work-outside-the-uk/work-in-europe/" >Work in Europe</a> (19)
+</li>
+	<li class="cat-item cat-item-158"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/work-outside-the-uk/work-in-the-americas/" >Work in the Americas</a> (9)
+</li>
+	<li class="cat-item cat-item-113"><a href="http://www.careers.ox.ac.uk/category/searching-for-work/work-outside-the-uk/" >Work Outside The UK</a> (37)
+</li>
+	<li class="cat-item cat-item-95"><a href="http://www.careers.ox.ac.uk/category/options-and-occupations/deciding-whats-right-for-you/your-motivations-interests-abilities/" >Your Motivations, Interests &amp; Abilities</a> (15)
+</li>
+		</ul>
+</aside>		</div><!-- .colSide1 -->
+
+
+
+    <br class="clear" />
+
+	</div><!-- #main -->
+
+
+
+	<footer id="colophon" role="contentinfo">
+
+    <div class="content">
+
+    	<div class="options">
+
+        <a class="career rounded" href="/our-services/careerconnect/">CAREERCONNECT</a>
+
+<form action="/" method="get">
+        <div><input type="text" class="search" name="s" value="SEARCH SITE" onfocus="if(this.value=='SEARCH SITE') this.value='';" onblur="if(this.value=='') this.value='SEARCH SITE';" /></div>
+          <div><input type="image" class="searchSubmit" src="/wp-content/themes/ocs/images/search.png" alt="search" /></div>
+        </form>
+
+<ul>
+
+          <li>Follow us:</li>
+
+          <li><a title="Twitter" href="http://twitter.com/OxfordCareers"><img src="/wp-content/themes/ocs/images/twitter.png" alt="TWITTER" width="32" height="32" /></a>
+
+          <a title="Linked In" href="http://linkd.in/OxfordCareers"><img src="/wp-content/themes/ocs/images/linkedin.png" alt="LINKED IN" width="32" height="32" /></a>
+
+          <a title="Facebook" href="http://www.facebook.com/oxfordcareers"><img src="/wp-content/themes/ocs/images/facebook.png" alt="FACEBOOK" width="32" height="32" /></a>
+
+          <a title="Youtube" href="http://www.youtube.com/user/OxfordCareersService"><img src="/wp-content/themes/ocs/images/youtube.png" alt="YOUTUBE" width="32" height="32" /></a></li>
+
+        </ul> 
+
+      </div>
+
+      <nav class="footerLists">
+
+        <ul>
+
+          <li><a href="http://goo.gl/maps/gnRj3" target="_blank">The Careers Service,</a></li> 
+
+          <li><a href="http://goo.gl/maps/gnRj3" target="_blank">56 Banbury Road,</a></li>
+
+          <li><a href="http://goo.gl/maps/gnRj3" target="_blank">Oxford, OX2 6PA</a></li>
+
+        </ul>
+
+<ul>
+
+          <li><a href="/our-services/contact-us">Opening Hours</a></li> 
+
+          <li>Mon-Wed, Friday 09:00-17:00</li>
+
+          <li>Thursday 10:00-19:00</li>
+
+        </ul>	
+
+<ul>
+
+          <li>GENERAL ENQUIRIES:</li> 
+
+          <li>+44 (0)1865 274 646</li>          
+
+         <li><img class="alignleft" src="/wp-content/themes/ocs/images/recepemail.jpg" alt="reception@careers.ox.ac.uk" /></li>       
+
+</ul>
+
+<ul>
+
+          <li>EMPLOYER ENQUIRIES:</li> 
+
+          <li>+44 (0)1865 274 663</li> 
+
+          <li><img class="alignleft" src="/wp-content/themes/ocs/images/recremail.jpg" alt="recruiters@careers.ox.ac.uk" /></li>
+
+          </ul>
+
+         <br class="clear" />
+
+
+
+<ul>
+
+          <li><a href="/legal-information">Legal Information</a></li>
+
+          <li><a href="/feedback-form">Feedback</a></li>
+
+          <li><a href="/help">Help</a></li>
+
+        </ul>
+
+        <ul>
+
+          <li><a href="/press-information">Press Information</a></li>
+
+          <li><a href="/information-for-university-staff">Information for University Staff</a></li>
+          <li><a href="/sitemap">Sitemap</a></li>
+
+        </ul>
+
+      </nav>
+
+    </div>
+
+    <br class="clear" />
+
+  </footer>
+
+  <script type="text/javascript">jQuery.ajax({url: "http://www.careers.ox.ac.uk/index.php", data: {wherego_id: 21529, wherego_sitevar: document.referrer, wherego_rnd: (new Date()).getTime() + "-" + Math.floor(Math.random()*100000)}});</script><div id="un-thankyou" style="display: none;">
+	<h2>Thank you</h2>
+	<p>
+		Your feedback has been received.	</p>
+	<a href="#" id="un-feedback-close"><img src="http://www.careers.ox.ac.uk/wp-content/plugins/usernoise/images/ok.png" id="thankyou-image" alt="Close" width="32" height="32"/></a>
+</div>
+<script type='text/javascript' src='http://www.careers.ox.ac.uk/wp-includes/js/comment-reply.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://www.careers.ox.ac.uk/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.careers.ox.ac.uk\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.careers.ox.ac.uk/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2'></script>
+<script type='text/javascript' src='http://www.careers.ox.ac.uk/wp-content/plugins/wp-gallery-custom-links/wp-gallery-custom-links.js?ver=1.1'></script>
+<div id="catapult-cookie-bar">We use cookies to help improve and maintain our site. By continuing to browse the site you are agreeing to our use of cookies.<button id="catapultCookie" onclick="catapultAcceptCookies()">No problem</button><a href="http://www.careers.ox.ac.uk/privacy-policy/">More information</a></div>
+</body>
+
+</html>

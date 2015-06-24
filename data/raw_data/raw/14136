@@ -1,0 +1,1410 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" >
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Taylor Institution Library | A Bodleian Libraries weblog</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://blogs.bodleian.ox.ac.uk/taylorian/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://blogs.bodleian.ox.ac.uk/taylorian/wp-content/themes/twentytwelve/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Taylor Institution Library &raquo; Feed" href="http://blogs.bodleian.ox.ac.uk/taylorian/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Taylor Institution Library &raquo; Comments Feed" href="http://blogs.bodleian.ox.ac.uk/taylorian/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blogs.bodleian.ox.ac.uk\/taylorian\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='output-css'  href='http://blogs.bodleian.ox.ac.uk/taylorian/wp-content/plugins/addthis/css/output.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwelve-style-css'  href='http://blogs.bodleian.ox.ac.uk/taylorian/wp-content/themes/twentytwelve-child-bodleian/style.css?ver=4.2.2' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://blogs.bodleian.ox.ac.uk/taylorian/wp-content/themes/twentytwelve/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.bodleian.ox.ac.uk/taylorian/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.bodleian.ox.ac.uk/taylorian/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #c1d6ba; }
+</style>
+</head>
+
+<body class="home blog custom-background custom-font-enabled">
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner">
+		<hgroup>
+			<h1 class="site-title"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/" title="Taylor Institution Library" rel="home">Taylor Institution Library</a></h1>
+			<h2 class="site-description">A Bodleian Libraries weblog</h2>
+		</hgroup>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<h3 class="menu-toggle">Menu</h3>
+			<a class="assistive-text" href="#content" title="Skip to content">Skip to content</a>
+			<div class="nav-menu"><ul><li class="current_page_item"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/">Home</a></li><li class="page_item page-item-2"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/about/">About</a></li></ul></div>
+		</nav><!-- #site-navigation -->
+
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/"><img src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/staircase-picture-cropped-bw.jpg" class="header-image" width="951" height="250" alt="" /></a>
+			</header><!-- #masthead -->
+
+	<div id="main" class="wrapper">
+	<div id="primary" class="site-content">
+		<div id="content" role="main">
+		
+										
+	<article id="post-404" class="post-404 post type-post status-publish format-standard hentry category-special-collections tag-enid-starkie tag-jean-cocteau tag-jean-seznec">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/06/16/jean-cocteau-in-oxford/" rel="bookmark">Jean Cocteau in Oxford</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div style="width: 260px" class="wp-caption alignleft"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/IMG_1356-CocteauResized.jpg"><img class="wp-image-407" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/IMG_1356-CocteauResized.jpg" alt="" width="250" height="331" /></a><p class="wp-caption-text">Jean Cocteau, by Juliet Pannett (Photo credit: James Legg)</p></div>
+<p>On Tuesday, 12 June 1956, Jean Cocteau wrote in his diary: ‘Je rentre de la cérémonie – très émouvante.’ The occasion was the conferment on the multi-faceted poet (‘omnis Minervae poeta’) of an honorary doctorate by the University of Oxford. As the Public Orator had proclaimed, ‘praesento vobis Parisiacae urbanitatis specimen, Ioannem Cocteau, poetam Francogallorum Academiae adscriptum paremque dignitatem apud Belgas adeptum, ut admittatur honoris causa ad gradum Doctoris in Litteris.’ Cocteau was proud of his membership of the French and Belgian Academies and of his honorary degrees, and he was particularly attached to what he habitually referred to as his ‘honoris causa’ from Oxford.</p>
+<p>In 2014 the Library acquired a volume of Cocteau’s verse, a copy of his <em>Poésie 1916-1923.</em></p>
+
+		<style type='text/css'>
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-1' class='gallery galleryid-404 gallery-columns-2 gallery-size-medium'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=431'><img width="166" height="300" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9416-Resized.jpg" class="attachment-medium" alt="IMG_9416-Resized" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=423'><img width="300" height="216" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9412.jpg" class="attachment-medium" alt="Jean Cocteau Poésie 1916-1923 (Paris: Gallimard, 1947): Cover and title page (Photo credit: James Legg)" aria-describedby="gallery-1-423" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-1-423'>
+				Jean Cocteau Poésie 1916-1923 (Paris: Gallimard, 1947): Cover and title page (Photo credit: James Legg)
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">Unremarkable in itself, it is simply a late printing (1947) of a work first published in 1925. What distinguishes it, however, is the fact that on the half-title Cocteau has written a dedication, ‘à Jean Seznec / amicalement / Jean Cocteau / 1956’. And he has pencilled underneath one of his typical drawings of a poet’s head crowned with a wreath of laurel leaves.</p>
+<div id="attachment_422" style="width: 266px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9410.jpg"><img class="wp-image-422" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9410.jpg" alt="IMG_9410" width="256" height="340" /></a><p class="wp-caption-text">Jean Cocteau Poésie 1916-1923 (Paris: Gallimard, 1947): Half title page, with Cocteau&#8217;s sketch and dedication to Jean Seznec (Photo credit: James Legg)</p></div>
+<div id="attachment_425" style="width: 488px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9415.jpg"><img class="wp-image-425" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9415.jpg" alt="IMG_9415" width="478" height="702" /></a><p class="wp-caption-text">Cocteau&#8217;s letter to Seznec (Photo credit: James Legg)</p></div>
+<div id="attachment_424" style="width: 260px" class="wp-caption alignright"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9414.jpg"><img class="wp-image-424" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9414.jpg" alt="Envelope adddressed to Seznec in Cocteau's hand (Photo credit: James Legg)" width="250" height="188" /></a><p class="wp-caption-text">Cocteau&#8217;s letter (and envelope) to Seznec (Photo credit: James Legg)</p></div>
+<p>&nbsp;</p>
+<p style="text-align: justify">Loosely inserted in the volume is an autograph letter, in its original envelope addressed to Professor Seznec, who was Marshal Foch Professor of French Literature at Oxford from 1950 to 1972. The letter adds to the rich documentation surrounding Cocteau’s honorary degree.</p>
+<p>The story begins at the end of December 1955 when an Oxford University student, Michael Smithies, called on Cocteau at his house in Milly-la-Forêt. ‘Il m’a semblé,’ Cocteau wrote in his diary, ‘que Smithies venait tâter le terrain pour un voyage à Oxford où je serais nommé docteur <em>honoris causa</em>.’ The following March, Cocteau received a letter from Dr Enid Starkie, the indefatigable and irrepressible Reader in French at Somerville, inviting him to give a lecture at Oxford and suggesting that she might be able to persuade the University to confer on him an honorary degree.</p>
+<div id="attachment_408" style="width: 260px" class="wp-caption alignright"><img class="wp-image-408" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/EnidStarkie-YourPtgs-BBC.jpg" alt="Enid Starkie, by Patrick George (Oil on canvas, 66 x 54 cm) Collection: Somerville College, Oxford (Image: Public Catalogue Foundation/BBC Your Paintings)" width="250" height="317" /><p class="wp-caption-text">Enid Starkie, by Patrick George (Oil on canvas, 66 x 54 cm) Collection: Somerville College, Oxford (Image: Public Catalogue Foundation/BBC Your Paintings)</p></div>
+<p style="text-align: justify">Cocteau was enthusiastic. Enid had promised nothing but Cocteau’s eyes were firmly fixed on the ‘honoris causa’ and he began to suggest that without the doctorate there could be no lecture. Enid duly set to work and handbagged her way through any resistance that might have been shown by the university authorities. ‘I won, in the end,’ she said later to Cocteau’s biographer, Francis Steegmuller, ‘but don’t ask too closely how it was done … I could only use my influence and my prestige to get him the doctorate. That is what got it for him.’ Cocteau was delighted. ‘J’aimerais faire à Oxford quelque chose d’exceptionnel,’ he wrote in an undated letter in the Taylorian’s collection of manuscripts, but he added, somewhat surprisingly, ‘ce petit voyage d’Oxford m’effraye’. His lecture, on ‘La Poésie ou l’invisibilité’, began to take shape (it would be published later in the year as <em>Le Discours d’Oxford</em>) and on 23 May he sent Enid a sketch of himself in cap and gown, with measurements. The following day he wrote to Professor Seznec the Library’s newly acquired letter, giving details of his arrival in Oxford with ‘l’amie et le fils adoptif’, that is, his patron, Madame Alec (Francine) Weisweiller, and Edouard Dermit, who were to accompany him. Cocteau hopes to meet Seznec that first evening to discuss the programme of his stay in Oxford and the letter concludes: ‘Il est inutile de vous dire avec quelle joie j’accepte votre invitation.’</p>
+<p style="text-align: justify">A colourful report in the issue of <em>Picture Post</em> for 30 June 1956 describes Cocteau fizzling through the foyer of the Randolph Hotel ‘like an elderly Puck, wrapped around in a leaf-green cloak’ and being met ‘in a cloudburst of French by a brilliant little lady wearing scarlet slacks, beret and duffle coat’. Enid had a hard day on that Monday, 11 June. A Board meeting in the afternoon was followed by W. H. Auden’s inaugural lecture as Professor of Poetry, a post she had with characteristic energy fought for him to get, then a party for Auden in New College, and, finally, a party for Cocteau given in her ground-floor flat at 41 St Giles’. Cocteau recorded the latter event as: ‘Visite chez Enid Starkie, en kimono et saoule’!</p>
+<p style="text-align: justify">The special meeting of Convocation (the other honorand that day was the geographer Jules Blache, Rector of the University of Aix-en-Provence) took place on Tuesday, 12 June. Enid met Cocteau that morning dressed in her beloved approximation of a French sailor’s outfit, much to Cocteau’s amusement, if not consternation: ‘Enid est charmante, éprise de la France et du français qu’elle enseigne. Mais elle boit … Quelle n’était pas notre stupeur, le matin de mon discours, de la voir arriver en matelot français, avec le béret à pompom, la vareuse, le pantalon à pont et le barda sur l’épaule.’ Lunch was held in New College and, after the ceremony, there was a garden party at the Maison Française. Other lunches and dinners were to follow, with Maurice Bowra, Isaiah Berlin and others, and a visit paid to the Ashmolean.</p>
+
+		<style type='text/css'>
+			#gallery-2 {
+				margin: auto;
+			}
+			#gallery-2 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-2 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-2 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-2' class='gallery galleryid-404 gallery-columns-2 gallery-size-full'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=420'><img width="657" height="447" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9404-cropped.jpg" class="attachment-full" alt="IMG_9404-cropped" /></a>
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=421'><img width="3985" height="2667" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9406.jpg" class="attachment-full" alt="IMG_9406" /></a>
+			</dt></dl><br style="clear: both" />
+		</div>
+
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9407-Resized.jpg"><img class="alignleft size-full wp-image-427" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/IMG_9407-Resized.jpg" alt="IMG_9407-Resized" width="428" height="285" /></a>Cocteau delivered his lecture in the Taylorian on Thursday, 14 June at 5 p.m. He was introduced by Professor Seznec, and Enid, Cocteau noted with obvious relief, was now ‘en robe et toque de docteur’! The lecture was received with what Cocteau describes as ‘un tonnerre d’applaudissements’, an expression of affection, warmth and enthusiasm, which, Maurice Bowra assured him, had not been the case with either Gide or Mauriac. Cocteau’s one complaint was that students appeared to have been deliberately kept at arm’s length. ‘De ce voyage,’ he says. ‘me reste une amertume, celle d’avoir été séparé des élèves par les maîtres’, but what could he do, when he was pushed around like a pawn on a chess board? Enid, he thinks, must have kept them at bay on the pretext that they would tire him. In any case, exhausted, he retired to London to the relative calm of Claridge&#8217;s Hotel.</p>
+<p style="text-align: justify">Mixed emotions, then, but, in spite of being made fun of when back in Paris (‘On ne songe qu’à me ridiculiser, à plaisanter mon costume’), he retained an affection for Oxford and for his honorary doctorate.</p>
+<div id="attachment_442" style="width: 410px" class="wp-caption alignright"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/2015-Cocteau-mssF129-RIMG0066.jpg"><img class="wp-image-442" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/06/2015-Cocteau-mssF129-RIMG0066.jpg" alt="MS.8o.F.129" width="400" height="300" /></a><p class="wp-caption-text">Jean Cocteau on Oxford: MS.8o.F.129 (Photo credit: David Thomas)</p></div>
+<p style="text-align: justify">In a scribbled note added to the manuscript of an address he gave to a student audience, a few years later, which the Taylorian also has in its collection, he wrote, in answer to a questioner in the audience who had asked if he was proud of any of the honours which had been bestowed on him in his life: ‘Oui, un seul – c’est d’être docteur <u>Honoris Causa</u> à l’université d’Oxford’.</p>
+<p>David Thomas<br />
+Former French and Italian Literature and Language Librarian, Taylor Institution Library (1971-2004)</p>
+<p><em>Further reading<br />
+</em>Jean Cocteau <em>Le discours d’Oxford</em> (Paris: Gallimard, 1956) <em>Shelfmark: L/N.3028.A.1<br />
+</em>Jean Cocteau <em>Le passé défini: journal </em>8 vols. (Paris: Gallimard, 1983-2013) <em>Shelfmark: L/N.3432.A.1 &#8211; L/N.3432.A.8</em>. Vol 5 covers the years 1956-1957 <em>Shelfmark: L/N.3432.A.5<br />
+</em>Jean Cocteau <em>Poésie 1916-1923</em> (Paris: Gallimard, 1947) <em>Shelfmark: Arch.8o.F.1947(3)<br />
+</em>Joanna Richardson <em>Enid Starkie</em> (London: John Murray, 1973) <em>Shelfmark: </em><em>TAY.2.D.STA</em><em><br />
+</em>Francis Steegmuller <em>Jean Cocteau</em> (London: Macmillan, 1970) <em>Shelfmark: L/N.3720.A.2</em></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/special-collections/" rel="category tag">Special Collections</a> and tagged <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/enid-starkie/" rel="tag">Enid Starkie</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/jean-cocteau/" rel="tag">Jean Cocteau</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/jean-seznec/" rel="tag">Jean Seznec</a> on <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/06/16/jean-cocteau-in-oxford/" title="11:23 am" rel="bookmark"><time class="entry-date" datetime="2015-06-16T11:23:23+00:00">16 June 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/taylorian/author/hillsnovac/" title="View all posts by hillsnovac" rel="author">hillsnovac</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-385" class="post-385 post type-post status-publish format-standard hentry category-special-collections tag-magna-carta">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/06/01/a-manuscript-of-magna-carta-at-the-taylor-institution-library/" rel="bookmark">A Manuscript of Magna Carta at the Taylor Institution Library</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>In this year of Magna Carta, in which new discoveries are being announced with some regularity (such as the discovery of an early copy at <a href="http://www.bbc.co.uk/news/uk-england-31242433"><span style="color: #0066cc">Kent County Council Archives</span></a>, and Winston Churchill&#8217;s plan to give away a copy held at <a href="http://www.bbc.co.uk/news/entertainment-arts-31822545" target="_blank"><span style="color: #0066cc">Lincoln Cathedral</span></a>), we are pleased to announce that the Taylor Institution Library also has a copy of Magna Carta!</p>
+<dl id="attachment_387" class="wp-caption alignleft">
+<dt class="wp-caption-dt">
+<div id="attachment_387" style="width: 310px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/1.jpg"><img class="wp-image-387" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/1.jpg" alt="" width="300" height="537" /></a><p class="wp-caption-text">Image 1: Magna Charta (Oxford, Taylor Institution Library, MS. 8° E 1) Late 17th-century binding, Oxford, 8.6 x 6.5 cm. (Photo credit: Sjoerd Levelt)</p></div>
+</dt>
+</dl>
+<p style="text-align: justify">Its existence was first noted, shortly after acquisition, in a letter in <a href="http://nq.oxfordjournals.org/cgi/content/long/s5-X/250/287-e" target="_blank"><em><span style="color: #0066cc">Notes and Queries</span></em></a> of October 1878, written by <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2014/11/13/history-of-the-taylor-institution-library-and-its-collections/" target="_blank"><span style="color: #0066cc">Dr Heinrich Krebs</span></a>, Librarian of the Taylor Institution Library. In his letter, Krebs posed a question regarding a recently acquired manuscript which, judging from his wording, was an unusual addition to the collection:</p>
+<p style="text-align: justify">‘Can any of your readers aid me in ascertaining the genuine character and probable date of a very curious and ancient Latin manuscript on vellum concerning the “Magna Charta,” which has been recently acquired for the Taylorian Library at Oxford? It is of the smallest size (only 3 inches by 2 ½), and contains 214 leaves, three empty ones not included. … Owing to its many abbreviations and minute characters this manuscript is by no means easy to read, and it would require collation with a printed text, if such could be found, to become fully intelligible.’</p>
+<p style="text-align: justify">Krebs seems to have been more comfortable with printed books than manuscripts, and the manuscript quite evidently fell outside his expertise. Help was forthcoming, however, in a somewhat dismissive <a href="http://nq.oxfordjournals.org/cgi/content/long/s5-X/256/414-c" target="_blank">reply</a>, published one month later, by a regular contributor to <em>Notes and Queries</em>:</p>
+<p style="text-align: justify;padding-left: 60px">‘The collection of law tracts beginning with Magna Charta, such as that described by your correspondent, is not of uncommon occurrence either in manuscript or print. It has been often printed from Pynson’s time downwards. Good perfect copies, as is the case with most of the old law books, may often be had for a small price.’</p>
+<p style="text-align: justify"><a href="https://twitter.com/FionaEWhelan">Dr Fiona Whelan</a> helped me identify the author, who signed with the initials J. C. J., as Rev. John Cohen Jackson (<em>c.</em> 1827-95), schoolmaster, editor of the <em>Astronomical Register</em>, and avid book collector (who regularly offered his manuscripts for sale, too). Richard Pynson, to whom Jackson referred, was one of the earliest printers of English books and known particularly as a printer of legal statutes; the reference, then, was meant to say that there was really nothing special about the Taylorian&#8217;s manuscript, that the text had been around in print for as long as English laws had been printed, and good copies were so common in manuscript form that it really was not worth much. The tiny fourteenth-century manuscript was not going to add anything to our knowledge of thirteenth-century English law.</p>
+<div id="attachment_388" style="width: 510px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/2.jpg"><img class="wp-image-388" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/2.jpg" alt=" MS. 8° E 1 (Oxford, Taylor Institution Library), fol. 14r. " width="500" height="321" /></a><p class="wp-caption-text">MS. 8° E 1 (Oxford, Taylor Institution Library), fol. 14r.</p></div>
+<p style="text-align: justify">Not entirely surprisingly, the Taylor Institution Library Magna Carta led a mostly dormant existence. There are, however, some reasons that make this little book worth a re-examination. These reasons are, as Jackson suggested, not to be found in the medieval Latin text, which is an unremarkable collection of English laws, including an abbreviated version of Magna Carta as confirmed by King Edward I, but in what happened with the manuscript in the late seventeenth century, around the same time that it received its current binding. On the final leaves, which had remained empty up to this point, a reader made some notes about the contents of the book. Interestingly, the notes focus exclusively on two of its texts: the Magna Carta, and its companion document, the Charter of the Forest. The author of the notes clearly had an interest in legal matters, as well as probably some training; the notes constitute a brief discussion of the version of Magna Carta contained in the manuscript, copied directly from Sir Edward Coke’s <em>Institutes</em>, the principal seventeenth-century commentary on English common law. (‘This statute of Magna Carta is but a confirmation or restitution of the Common Law as in the statute called <em>Confirmatio Chartarum</em> anno 25 E.1. … [It] has been confirmed above thirty times and commanded to be put in execution’.)</p>
+<div id="attachment_389" style="width: 460px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/3.jpg"><img class="wp-image-389" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/3.jpg" alt="3" width="450" height="294" /></a><p class="wp-caption-text">MS. 8° E 1 (Oxford, Taylor Institution Library), fols. 213r-214v, added notes</p></div>
+<p style="text-align: justify">According to a note on a front flyleaf in the current binding, in 1705 the manuscript was owned by James Mickleton. James Mickleton the Younger (1688-1719) was a member of a family of lawyers, and he inherited the collection of manuscripts first established by his grandfather, <a href="http://reed.dur.ac.uk/xtf/view?docId=ead/ant/mickspea.xml">Christopher Mickleton</a> (1612-1669). James would go on to greatly expand the collection, but he died under suspicious circumstances, in 1619, drowned in the Thames, leaving behind significant debts. His books were sold off and eventually came into the hands of Col. William Wasey (d.1817). His son, George Wasey, advised by Sir Henry Ellis of the British Museum, presented the entire collection to the Bishop of Durham, Shute Barrington, who subsequently divided the collection between Bishop Cosin&#8217;s Library in Durham and the Inner Temple Library in London. It appears, however, that George Wasey did not part, at this point, with the Magna Carta manuscript; instead, he wrote his name below James Mickleton’s, and kept it for himself.</p>
+<div id="attachment_390" style="width: 460px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/4.jpg"><img class="wp-image-390" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/4.jpg" alt="MS. 8° E 1 (Oxford, Taylor Institution Library), front board and flyleaf, ownership marks" width="450" height="278" /></a><p class="wp-caption-text">MS. 8° E 1 (Oxford, Taylor Institution Library), front board and flyleaf, ownership marks</p></div>
+<p style="text-align: justify">This little book, then, and the collection from which it stems, are witnesses to an interest in historical manuscripts by seventeenth- and early eighteenth-century lawyers (an interest also exemplified by Sir John Selden, whose bequest was the largest single gift to the Bodleian Library in the seventeenth century); and an interest in Magna Carta among a more general readership in the nineteenth century. Entirely ignoring all the other contents of the manuscript (such as the Statute of Winchester, the Statute of the Exchequer, and the Statute of Wards and Reliefs), these readers were interested in only one text – and it’s the same text that keeps us all busy in this year of celebration.</p>
+<div id="attachment_391" style="width: 460px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/5.jpg"><img class="wp-image-391" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/5.jpg" alt="MS. 8° E 1Oxford (Taylor Institution Library), fol. 175r, Charter of Wards and Relief" width="450" height="294" /></a><p class="wp-caption-text">MS. 8° E 1Oxford (Taylor Institution Library), fol. 175r, Charter of Wards and Relief</p></div>
+<p>Sjoerd Levelt, former Library Assistant, Taylor Institution Library (2014-2015)</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/special-collections/" rel="category tag">Special Collections</a> and tagged <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/magna-carta/" rel="tag">Magna Carta</a> on <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/06/01/a-manuscript-of-magna-carta-at-the-taylor-institution-library/" title="12:39 pm" rel="bookmark"><time class="entry-date" datetime="2015-06-01T12:39:59+00:00">1 June 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/taylorian/author/hillsnovac/" title="View all posts by hillsnovac" rel="author">hillsnovac</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-318" class="post-318 post type-post status-publish format-standard hentry category-special-collections tag-fascism tag-futurism tag-michael-subialka tag-world-war-i">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/" rel="bookmark">Futurism, Fascism, and the Art of War</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: center"><strong>Futurism, Fascism, and the Art of War<br />
+</strong><em>An Avant-Garde Book Display and Lecture at the Taylor Institution Library, 29 April 2015<br />
+</em>Sponsored by the Somerville College History Society, the Jesus College J.R. Green Society, and the Taylor Institution Library<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_edn1" name="_ednref1">[i]</a></p>
+<div id="attachment_319" style="width: 511px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/2015-03-PinterestTweetOfTAYbooks.jpg"><img class=" wp-image-319" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/2015-03-PinterestTweetOfTAYbooks.jpg" alt="1 Futurist Books in the Taylor Institution Library (Photo Credit: Oliver Johnston-Watt)" width="501" height="501" /></a><p class="wp-caption-text">1 Futurist Books in the Taylor Institution Library (Photo Credit: Oliver Johnston-Watt)</p></div>
+<p style="text-align: justify">Just over a hundred years ago (26 April 1915), Italy signed a secret treaty, the <em>Patto di Londra </em>(the London Pact, also called the Treaty of London). This backroom deal committed the young Italian nation to switch alliances and declare war on its former ‘friends’, the Austro-Hungarian Empire and Germany – a major shift since Italy had been allied with these central powers since 1882. The result was that, more than half a year after the Great War began and following months of high-stakes diplomatic bargaining, Italy entered the fray alongside a group of new allies from the Triple Entente, including Britain, France, and Russia. This about-face in foreign policy might seem surprising, but it was rooted in longstanding Italian nationalist sentiments brought to a boiling point by a deliberate campaign of popular cultural provocation. While many contributed to this campaign, none did so in a more brazen and non-traditional way than the Italian Futurists.</p>
+<p style="text-align: justify">In a book display and lecture held on 29 April 2015 at the Taylor Institution, we had a chance to unearth the library’s collection of rare, original Futurist materials. These works of innovative written and visual form offer an unusual insight into the cultural politics of an avant-garde artistic movement dedicated to fostering renewal but also violence, struggle, and war.</p>
+<p style="text-align: justify">‘There is no longer any beauty except the struggle. Any work of art that lacks a sense of aggression can never be a masterpiece. […]/ We wish to glorify war— the sole cleanser of the world […].’<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_edn2" name="_ednref2">[ii]</a></p>
+
+		<style type='text/css'>
+			#gallery-3 {
+				margin: auto;
+			}
+			#gallery-3 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-3 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-3 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-3' class='gallery galleryid-318 gallery-columns-3 gallery-size-medium'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/image2/'><img width="300" height="225" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image2.jpg" class="attachment-medium" alt="2.1 Display of Futurist books (Photo Credit: Oliver Johnston-Watt)" aria-describedby="gallery-3-329" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-3-329'>
+				2.1 Display of Futurist books (Photo Credit: Oliver Johnston-Watt)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/img_2719/'><img width="300" height="225" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/IMG_2719.jpg" class="attachment-medium" alt="2.2 Display of Futurist books (Photo Credit: Lydia Pryce-Jones)" aria-describedby="gallery-3-363" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-3-363'>
+				2.2 Display of Futurist books (Photo Credit: Lydia Pryce-Jones)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/image3/'><img width="300" height="225" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image3.jpg" class="attachment-medium" alt="3 Display of Futurist manifestos, books and other sources on the Futurist movement (Photo Credit: Oliver Johnston-Watt)" aria-describedby="gallery-3-330" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-3-330'>
+				3 Display of Futurist manifestos, books and other sources on the Futurist movement (Photo Credit: Oliver Johnston-Watt)
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">Understanding the Futurists use of art to pursue their political activism requires thinking more about the movement itself. The Futurists were a group of radical innovators in multiple artistic media, but they all shared an association with one key figure, the poet Filippo Tommaso Marinetti (1876-1944). He was a French-trained former Symbolist who, in 1909, determined to launch art in a new direction. ‘With this aim in mind,’ he wrote in one manifesto (the preferred genre of the movement), ‘we have taken upon ourselves the propaganda of courage against cowardice of epidemic proportions, the creation of an artificial optimism against a chronic pessimism.’<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_edn3" name="_ednref3">[iii]</a> His idea was to transform Italian society – its culture, its politics, and its national character – renewing it for the modern world. He and his Futurist collaborators envisioned a new Italy that would be industrialized, technologically-enhanced, and internationally aggressive.</p>
+<p style="text-align: justify">These aims make it clear that the Futurists fit squarely in the category that one prominent historian, Emilio Gentile, has dubbed ‘modernist nationalism.’<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_edn4" name="_ednref4">[iv]</a> The Futurists sought to unify a love of modern technology (automobiles, airplanes, electric power plants, bombs…) with a project of national spiritual revival. The result was an aesthetic of energy, dynamism, movement, multiplicity, and an obsession with war. This project was realised not just in writing but across media, from the theatre, visual arts, and film to unexpected areas like fashion design.</p>
+
+		<style type='text/css'>
+			#gallery-4 {
+				margin: auto;
+			}
+			#gallery-4 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 25%;
+			}
+			#gallery-4 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-4 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-4' class='gallery galleryid-318 gallery-columns-4 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/img_1/'><img width="107" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/IMG_1.jpg" class="attachment-thumbnail" alt="4.1 FT Marinetti and Giacomo Balla, The Anti-Neutral Suit, 1914 (facsimile)" aria-describedby="gallery-4-321" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-4-321'>
+				4.1 FT Marinetti and Giacomo Balla, The Anti-Neutral Suit, 1914 (facsimile) 
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/img_2/'><img width="106" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/IMG_2.jpg" class="attachment-thumbnail" alt="4.2 FT Marinetti and Giacomo Balla, The Anti-Neutral Suit, 1914 (facsimile)" aria-describedby="gallery-4-322" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-4-322'>
+				4.2 FT Marinetti and Giacomo Balla, The Anti-Neutral Suit, 1914 (facsimile) 
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/img_3/'><img width="106" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/IMG_3.jpg" class="attachment-thumbnail" alt="4.3 FT Marinetti and Giacomo Balla, The Anti-Neutral Suit, 1914 (facsimile)" aria-describedby="gallery-4-324" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-4-324'>
+				4.3 FT Marinetti and Giacomo Balla, The Anti-Neutral Suit, 1914 (facsimile) 
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/img_4/'><img width="108" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/IMG_4.jpg" class="attachment-thumbnail" alt="4.4 FT Marinetti and Giacomo Balla, The Anti-Neutral Suit, 1914 (facsimile)" aria-describedby="gallery-4-325" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-4-325'>
+				4.4 FT Marinetti and Giacomo Balla, The Anti-Neutral Suit, 1914 (facsimile) 
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">The Futurists’ nationalism encompassed two main military projects: war against Austria-Hungary and colonial expansion in Africa. The former was a project shared widely by a group called the Irredentists. Italian <em>irredentismo </em>was the belief, prominent from the time of the unification movement (the <em>Risorgimento </em>of the 1850s and 60s), that certain lands were truly ‘Italian’ (ethnically, linguistically, culturally) but had never been integrated into the nation. Reclaiming these territories required launching a war against the Austro-Hungarian Empire: ‘And even when classical irredentism seemed exhausted and dormant among the Italian people, we Futurists took steps to stimulate and reinforce that national sentiment, supported by those <em>just aspirations </em>that are generally recognized today.’<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_edn5" name="_ednref5">[v]</a></p>
+<div id="attachment_339" style="width: 410px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image5-NG-Resized.jpg"><img class=" wp-image-339" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image5-NG-Resized.jpg" alt="5 Display of Futurist original editions, including Marinetti’s Distruzione, 1911 (Photo Credit: Nicola Gardini)" width="400" height="300" /></a><p class="wp-caption-text">5 Display of Futurist original editions, including Marinetti’s Distruzione, 1911 (Photo Credit: Nicola Gardini)</p></div>
+<p style="text-align: justify">The second project, African colonialism, was likewise rooted in late 19<sup>th </sup>century aspirations. Under the government of Francesco Crispi, Italy had established a colonial presence in East Africa (Eritrea) and fought a (failed) war to conquer Ethiopia. In the early 20<sup>th</sup> century, the Futurists were obsessed with the continuation of these projects. As early as 1909, Marinetti wrote, in French, a shocking novel set in an exoticised, Oriental Africa, <em>Mafarka le futuriste </em>(<em>Mafarka the Futurist</em>). In it, he imagines an Arab warlord who subdues four armies of black Africans, becoming ‘master of Africa’. The book’s overt racial stereotyping is shocking now, but what was shocking to its contemporary French audience were the prolonged, explicit depictions of violent rage (think Homer) together with pornographic descriptions of nude bodies, sex, and rape (think De Sade).</p>
+
+		<style type='text/css'>
+			#gallery-5 {
+				margin: auto;
+			}
+			#gallery-5 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-5 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-5 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-5' class='gallery galleryid-318 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/image6/'><img width="112" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image6.jpg" class="attachment-thumbnail" alt="6 The Taylor Institution’s original edition of Mafarka le Futuriste, 1910 (Photo Credit: Oliver Johnston-Watt)" aria-describedby="gallery-5-345" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-5-345'>
+				6 The Taylor Institution’s original edition of Mafarka le Futuriste, 1910 (Photo Credit: Oliver Johnston-Watt)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/image7/'><img width="112" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image7.jpg" class="attachment-thumbnail" alt="7 Title page of the 1910 Italian translation (Photo Credit: Oliver Johnston-Watt)" aria-describedby="gallery-5-346" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-5-346'>
+				7 Title page of the 1910 Italian translation (Photo Credit: Oliver Johnston-Watt)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/image8a/'><img width="106" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image8a.jpg" class="attachment-thumbnail" alt="8 The Taylor Institution’s original edition of Bruno Corra&#039;s I matrimoni gialli (Yellow Marriages), 1928 (Photo Credit: Oliver Johnston-Watt)" aria-describedby="gallery-5-352" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-5-352'>
+				8 The Taylor Institution’s original edition of Bruno Corra&#8217;s I matrimoni gialli (Yellow Marriages), 1928 (Photo Credit: Oliver Johnston-Watt)
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">The book was banned in France, but the Futurists’ fantasy of African conquest (and their exoticised racial stereotyping) remained a consistent element of the movement.</p>
+<p style="text-align: justify">This fantasy took on renewed life in their support of the effort to oust the Ottoman Empire from Libya. In 1911 and 1912, Italy fought and won a colonial war with this aim, and the Futurists were actively involved. Marinetti was a correspondent from the front lines, and his new style of poetry, the <em>parole in libertà </em>(free-word poems), was well-suited to the fervid recreations of Italian bellicosity that enchanted him from this colonial campaign.</p>
+
+		<style type='text/css'>
+			#gallery-6 {
+				margin: auto;
+			}
+			#gallery-6 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-6 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-6 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-6' class='gallery galleryid-318 gallery-columns-2 gallery-size-medium'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/image10/'><img width="66" height="300" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image10.jpg" class="attachment-medium" alt="10 A free-word poem, Bombardment d’Andrinople, 1913-14 (Photo Credit: UCLA, Charles E. Young Research Library)" aria-describedby="gallery-6-355" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-6-355'>
+				10 A free-word poem, Bombardment d’Andrinople, 1913-14 (Photo Credit: UCLA, Charles E. Young Research Library)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/image9a/'><img width="216" height="300" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image9a.jpg" class="attachment-medium" alt="9 The Taylor Institution’s original edition of Marinetti&#039;s La bataille de Tripoli (The Battle of Tripoli), 1912 (Photo Credit: Oliver Johnston-Watt)" aria-describedby="gallery-6-354" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-6-354'>
+				9 The Taylor Institution’s original edition of Marinetti&#8217;s La bataille de Tripoli (The Battle of Tripoli), 1912 (Photo Credit: Oliver Johnston-Watt)
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">It is thus not as surprising as it might at first seem that the Futurists ultimately aligned themselves with Mussolini and the Fascist movement in the period following World War I. In 1919, Marinetti spoke alongside Mussolini at a gathering in Milan that marked the foundation of the <em>Fasci di Combattimento</em>. In 1929, he became a member of the newly-founded Accademia d’Italia – a complete about-face for the former radical who had espoused a hatred of professors and the ‘mummified’ past. This alignment with Fascism was well-suited to the political programme of the Futurist movement – its colonial, nationalist/patriotic, and interventionist tendencies.</p>
+<div id="attachment_356" style="width: 315px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image11a.jpg"><img class="wp-image-356" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image11a.jpg" alt="11 The Taylor Institution's original edition of L'Italia fascista in cammino, 1932 (Photo Credit: Michael Subialka)" width="305" height="427" /></a><p class="wp-caption-text">11 The Taylor Institution&#8217;s original edition of L&#8217;Italia fascista in cammino, 1932 (Photo Credit: Michael Subialka)</p></div>
+<p style="text-align: justify">Both a radical avant-garde movement transforming art and an unsettling mix of proto-Fascist and Fascist nationalist ideologies, the Futurists may intrigue us precisely because of the problematic way that they move between artistic innovation and political extremism. It is this mix of forces that Walter Benjamin has famously analysed as typical of both the Futurists and fascism more broadly, their ‘aestheticization of politics.’<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_edn6" name="_ednref6">[vi]</a></p>
+<p><em>Michael Subialka, 10 May 2015 (St Hugh’s College, Oxford)</em></p>
+<p><a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_ednref1" name="_edn1">[i]</a> The book display was curated by Oliver Johnston-Watt (Somerville College) and Joel Nelson (Jesus College) and coordinated by Clare Hills-Nova (Italian Literature and Language Librarian, Taylor Institution, Bodleian Libraries). Dr Oren Margolis (Somerville College) provided logistical support and the idea for the event. Dr Michael Subialka lectured on ‘Futurism, Fascism, and the Art of War’.<br />
+<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_ednref2" name="_edn2">[ii]</a> FT Marinetti, “The Foundation and Manifesto of Futurism,” in <em>Critical Writings</em>, ed. and trans. Günter Berghaus (New York: Farrar, Straus, and Giroux, 2006), 14.<br />
+<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_ednref3" name="_edn3">[iii]</a> FT Marinetti, “Electric War: A Futurist-Visionary Hypothesis,” in <em>Critical Writings</em>, 225.<br />
+<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_ednref4" name="_edn4">[iv]</a> Emilio Gentile, “The Conquest of Modernity: From Modernist Nationalism to Fascism,” trans. Lawrence Rainey, <em>Modernism/Modernity</em> 1.3 (1994): 55-87; 60.<br />
+<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_ednref5" name="_edn5">[v]</a> FT Marinetti, “The Meaning of War for Futurism,” in <em>Critical Writings</em>, 240.<br />
+<a href="https://blogs.bodleian.ox.ac.uk/taylorian/wp-admin/post-new.php#_ednref6" name="_edn6">[vi]</a> Walter Benjamin, “The Work of Art in the Age of its Technological Reproducibility. Second Version,” in <em>Selected Writings </em><em>III, 1935-1938</em>, ed. Howard Eiland and Michael W. Jennings (Cambridge, MA: Belknap Press, 2002): 101-33; 122.</p>
+<div id="attachment_358" style="width: 310px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image-Poster-Cropped.png"><img class="wp-image-358" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/05/Image-Poster-Cropped.png" alt="" width="300" height="421" /></a><p class="wp-caption-text">(Poster design: Lydia Pryce-Jones)</p></div>
+<p>&nbsp;</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/special-collections/" rel="category tag">Special Collections</a> and tagged <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/fascism/" rel="tag">Fascism</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/futurism/" rel="tag">Futurism</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/michael-subialka/" rel="tag">Michael Subialka</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/world-war-i/" rel="tag">World War I</a> on <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/" title="4:25 pm" rel="bookmark"><time class="entry-date" datetime="2015-05-15T16:25:20+00:00">15 May 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/taylorian/author/hillsnovac/" title="View all posts by hillsnovac" rel="author">hillsnovac</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-292" class="post-292 post type-post status-publish format-standard hentry category-archives tag-school-days tag-soviet-russia tag-ussr">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/04/20/soviet-realia-a-window-on-to-the-ussr/" rel="bookmark">Soviet realia: a window on to the USSR</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: justify">It is good to de-clutter your flat or house, but my mother who is 86 and has been living in St. Petersburg, Russia for most of her life, never considered the possibility. The result is that after years of collecting she has something of a museum in her flat. But it is not the antique shop you may be thinking of. People who returned to St Petersburg (then Leningrad) after the Second World War didn’t have many possessions and this is why they were reluctant to part with the things they acquired later.</p>
+<p style="text-align: justify">During my visits to see my mother I feel like I’m using a time machine to go back to Soviet Russia, or the USSR – a country which doesn’t exist anymore.  Looking through old photos, documents, clothes and other items I tried to look at them as an artist and archivist: How can I interpret these simple but valuable objects to tell a story?</p>
+<p style="text-align: justify">Readers at the Taylor Bodleian Slavonic &amp; Modern Greek Library (TABS) have shown considerable interest in the reality of Soviet life during the past several years and this gave me the idea of creating an exhibition-installation of artefacts from that period. The topic for the first exhibition is “Soviet School” or “Soviet childhood”.</p>
+<p style="text-align: justify">In this display you can find my original notebooks, cards, photos, pictures and a few toys from the late 1960s and 1970s. My mum kept them all!</p>
+<p style="text-align: justify">In the 1<sup>st</sup> form group photo the girls are wearing dark dresses and white aprons, some with white ribbons, while the boys are dressed in dark suits. We all look serious because smiling wasn’t the done thing in school photos at that time.</p>
+<p style="text-align: justify"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/school-group-photo-11.jpg"><img class="aligncenter size-full wp-image-305" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/school-group-photo-11.jpg" alt="school group photo 1" width="2338" height="1656" /></a>It was a strict system, learning how to write. All children had to go through hours and hours of practising their hooks, lines and loops. This is why some Russians have very similar handwriting.</p>
+
+		<style type='text/css'>
+			#gallery-7 {
+				margin: auto;
+			}
+			#gallery-7 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-7 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-7 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-7' class='gallery galleryid-292 gallery-columns-2 gallery-size-medium'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/04/20/soviet-realia-a-window-on-to-the-ussr/handwriting-2-2/'><img width="300" height="212" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/handwriting-21.jpg" class="attachment-medium" alt="Handwriting practice" aria-describedby="gallery-7-303" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-7-303'>
+				Handwriting practice
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=294'><img width="212" height="300" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/3.jpg" class="attachment-medium" alt="3" /></a>
+			</dt></dl><br style="clear: both" />
+		</div>
+
+<p>In the left-hand cabinet (shown below) is my oath before joining the Pioneer League, decorated with a portrait of Lenin; and a photo of the cruiser Aurora, whose signal started the October Revolution. During our first years at school we were called <em>Octiabriata</em> (the suffix “ata” means “little” like in <em>kotiata</em> – kittens). So we were little followers of the October Revolution and we called Lenin our grandfather.</p>
+<p style="text-align: justify"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/exhib-case-4.jpg"><img class="aligncenter size-full wp-image-298" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/exhib-case-4.jpg" alt="exhib case 4" width="1350" height="1012" /></a>The next step was the Pioneer League, a more serious organisation. Pioneer meant “The First” so we had to show an example of good study and behaviour to all other children. Before joining we had to write, learn and say by heart the oath to ardently love our country, to live, learn and fight, as set out by Lenin and as taught by the Communist Party.</p>
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/5.jpg"><img class="aligncenter wp-image-295 " src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/5.jpg" alt="5" width="427" height="603" /></a>We had Pioneer rules as well. Here are just a few of them:</p>
+<ul>
+<li>A Pioneer is devoted to the motherland, party, communism.</li>
+<li>A Pioneer is the best in his/her studies, work and sport.</li>
+<li>A Pioneer is an honest and faithful friend, always boldly standing for the truth.</li>
+</ul>
+<p>The idea for this youth organization was taken from the Scout movement, with the addition of communist principles.</p>
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/6.jpg"><img class="aligncenter  wp-image-296" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/6.jpg" alt="6" width="529" height="397" /></a>All Pioneers had to wear red ties and badges. On ordinary days girls were in black aprons and, for special occasions, white ones, as in our school photo. We stayed at the same school for 10 years, starting at seven years old and finishing at seventeen. Or uniform remained the same throughout.</p>
+<p style="text-align: justify">During the last year I became a little bit rebellious so I stopped wearing an apron, as did some of my friends. In the photo below, am in the bottom row, far right. No smiles again!</p>
+<p style="text-align: justify"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/older-group-photo-71.jpg"><img class="aligncenter size-full wp-image-304" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/older-group-photo-71.jpg" alt="older group photo 7" width="2338" height="1656" /></a>Next came the Komsomol League, joining which came very close to becoming a proper Communist Party member. A few boys in the above photograph are wearing a Komsomol member badge on their jackets. By this time we understood that it was only propaganda, nobody took it seriously, and we knew that we needed to be members of Komsomol to go to University. If you were not you could have problems with admissions.</p>
+<p style="text-align: justify">As in all schools we had to study as well, which was a little bit of a chore. No computers, calculators or mobile phones at that time; just pens, paper, books, blackboard and an abacus.</p>
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/school-work-8.jpg"><img class="aligncenter  wp-image-302" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/school-work-8.jpg" alt="school work 8" width="506" height="380" /></a>English was my favourite subject. Here (below) is my essay on “London”, a topic we had to write and learn about in 5<sup>th</sup> form (11-12 years old). Who knew that I would be living in London some time later, before moving to Oxford!</p>
+<p style="text-align: justify"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/9.jpg"><img class="aligncenter  wp-image-297" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/9.jpg" alt="9" width="539" height="381" /></a>The curriculum was very intense and even Saturday was a day for studying. Recently, I had a nightmare that I was back in school and would not have my full weekends any more.</p>
+<p style="text-align: justify">However, it wasn’t all hard work. We had some fun as well, and the best time was the summer holidays! Three months of freedom – from 31 May to 31 August. Children went to Pioneer camps or to their grandparents&#8217; dachas or villages, so parents had some rest as well.  I&#8217;m still in touch with many of my classmates. Some of us are spread around the world now but we have Skype and e-mails so we stay connected.</p>
+<p style="text-align: justify">Please  come and take a look at the Exhibition, and I will tell you more stories and anecdotes from the planet USSR.</p>
+<p><em>Elena Vassilieva, Reader Services Supervisor, Taylor Bodleian Slavonic and Modern Greek Library</em></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/archives/" rel="category tag">Archives</a> and tagged <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/school-days/" rel="tag">School days</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/soviet-russia/" rel="tag">Soviet Russia</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/ussr/" rel="tag">USSR</a> on <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/04/20/soviet-realia-a-window-on-to-the-ussr/" title="9:00 am" rel="bookmark"><time class="entry-date" datetime="2015-04-20T09:00:22+00:00">20 April 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/taylorian/author/edwardsj/" title="View all posts by edwardsj" rel="author">edwardsj</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-279" class="post-279 post type-post status-publish format-standard hentry category-special-collections tag-lucas-cranach tag-martin-luther tag-protestant-reformation">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/30/martin-luther-at-the-taylor-institution-library/" rel="bookmark">Martin Luther at the Taylor Institution Library</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_280" style="width: 260px" class="wp-caption alignleft"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0033.jpg"><img class="wp-image-280" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0033.jpg" alt="Ornate title page of a Luther Sermon" width="250" height="333" /></a><p class="wp-caption-text">Ornate title page of a Luther Sermon</p></div>
+<p style="text-align: justify">Martin Luther was one of the most important figures in the Protestant Reformation of the 16<sup>th</sup> century. His famous <em>95 theses</em>, (possibly) posted on the gates of All Saints’ Church in Wittenberg almost 500 years ago, were  “trending” all over Europe within a few weeks of their original publication. In fact, he was a master of the communications technology of his day, quite possibly inventing the pamphlet as a means of communicating beyond scholarly circles, and using his prolific writing and the public support it generated to enormous effect. Small wonder then, that undergraduates studying his work today value the opportunity to see and touch the printed material that fuelled the Reformation.</p>
+<p style="text-align: justify">The Taylor Institution Library is fortunate to have a large collection of Luther pamphlets and other publications. These were acquired in the 1870s on the recommendation of Friedrich Max Müller, the second Professor of Modern Languages at Oxford. Many of them came from Heidelberg University, which at the time was disposing of duplicates. Because of this history, we are able to offer them as teaching copies, and, with supervision, undergraduates are allowed to turn the pages, feel the paper, and as a result, gain a sense of how contemporary audiences encountered Luther’s writings.</p>
+<p style="text-align: justify">Two groups of undergraduates recently had this experience at the Taylorian, guided by their academic supervisors, who have kindly allowed me to use my notes as the basis of this blog. The first group, from the History Faculty, had already studied the texts on display in translation. They noted the differences in the quality of the paper and print between volumes, the elaborateness of some title pages compared with the sparseness of others.</p>
+<div id="attachment_281" style="width: 310px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0038.jpg"><img class="wp-image-281" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0038.jpg" alt="Plain title page of a Luther Sermon" width="300" height="400" /></a><p class="wp-caption-text">Plain title page of a Luther Sermon</p></div>
+<p style="text-align: justify">Unbound short pamphlets were not widespread until Luther made the form his own. Printers flocked to Wittenberg, which soon became a centre of printing, in large part due to the flow of content from Luther. Some specialised in printing his hymns, others in Bibles, while still others printed his pamphlets.</p>
+<p style="text-align: justify">Another area of interest for this group was the network of buyers, sellers and producers of pirated copies which meant that Luther’s ideas spread so quickly across Europe. The average number of copies of a pamphlet printed at that time was about 1000. An initial print run of one of Luther’s pamphlets would be about 4000, and would be sold out in days. This was a money spinner to rival that of the printing of indulgences, which had been a steady income until Luther challenged the practice. However, as the selling of the pamphlets was illegal, it was often printers’ wives who were the undercover sales people.</p>
+<p style="text-align: justify">The second group, students of German from the Modern Languages Faculty, looked at the same texts, but with a different focus. First of all they studied the title pages. Some of them were fairly plain, but others had allegorical meaning relating to the text inside, and their meaning would have been “read” by contemporaries along with the text.</p>
+<div id="attachment_282" style="width: 410px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0042.jpg"><img class="wp-image-282" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0042.jpg" alt="IMG_0042" width="400" height="533" /></a><p class="wp-caption-text">Allegorical title page showing the vine (Christ) providing a protective shelter over the idyllic society beneath, where lions and bears are living alongside rabbits, deer and lambs. Luther’s text calls on Christian nobility to take responsibility for building a Christian society.</p></div>
+<p style="text-align: justify">One of the texts, <em>Widder die hymelischen propheten: von den Bildern vnd Sacrament [1525]</em> was written by Luther in response to the destruction of images in churches, which had been orchestrated by a former follower, Karlstadt. In it, Luther highlights the importance of images as an educational tool for those who are unable to read, and also points at the illustrations in his own publications, which were used by those bent on destroying images. Luther considered that hypocrisy. Luther himself valued images greatly, and used them in many publications. He was close friends with Cranach, a court artist, and this association with secular authority gave the publications prestige.</p>
+<div id="attachment_283" style="width: 510px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0049.jpg"><img class="wp-image-283" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0049.jpg" alt="Images in Luther's Passion of Christ, which were designed in Lucas Cranach’s workshop. Cranach was the leading artist of the Reformation" width="500" height="375" /></a><p class="wp-caption-text">Images in Luther&#8217;s Passion of Christ, which were designed in Lucas Cranach’s workshop. Cranach was the leading artist of the Reformation</p></div>
+<p style="text-align: justify">The group also considered the sheer quantity of Protestant writings. Luther wrote by far the most of all the reformers, but he was not alone in writing, and Catholics who resisted the reformation were unable to compete. They were partly hampered by writing in Latin, which was not accessible to such a wide audience. There was also a danger that in responding to a particular challenge from the reformers, they would have to give at least an outline of the reformers’ ideas, which could give them further publicity.</p>
+<p style="text-align: justify">Finally, the undergraduates looked at a Luther Bible. They studied the title page, to see whether it gave any clues as to the nature of the Bible. They noted the handwriting on the facing page, which gives a list of births, showing that the Bible was being used as a family bible in the 17<sup>th</sup> Century. They noted that the book was printed in Lübeck.</p>
+<div id="attachment_284" style="width: 466px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0065.jpg"><img class="wp-image-284" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0065.jpg" alt="Title page of 1533 Luther Bible 1" width="456" height="608" /></a><p class="wp-caption-text">Title page of 1533 Luther Bible 1</p></div>
+<p style="text-align: justify">This is in fact Luther’s Bible printed in Low German, and it predates Luther’s Saxon German Bible by a few months. It was prepared by Bugenhagen, sometimes called the second apostle of the North, who helped Luther with the translations for the Saxon German version, and then translated the whole thing to Low German, beating Luther to publication by a couple of months. This Bible is particularly important because its place of publication is a Hansa town, with all the trading and travel links that implies. This Bible travelled around the Baltic, and was influential in many translations into neighbouring languages.</p>
+<p style="text-align: justify">All the undergraduates were extremely enthusiastic about this opportunity to encounter the texts as they would have been seen by contemporary audiences, and felt it had added a new dimension to their studies.</p>
+<p style="text-align: justify"><em>Getting to interact with archival material is, in my opinion, essential to any form of study to do with the sixteenth century, however cursory or superficial, and I felt that our visit at the Taylorian was a turning point in my Special Subject this term. Whilst online resources are invaluable for studying Lutheran texts, much is lost in online scans, and I feel that it&#8217;s a real privilege to have access to original texts, something which really makes it worthwhile to study somewhere like Oxford. (</em>Max Long, undergraduate student.)</p>
+<p style="text-align: justify">Several students discovered new things about the library – they were unaware that we had rare books, or that it was possible for undergraduates to request to see them. The seminar leaders were enthusiastic about being able to use the library’s collections to engage their students, and are actively looking for other opportunities to run similar sessions in the future.</p>
+<p style="text-align: justify">As a librarian, I was delighted to see such enjoyment and enthusiasm being generated by our collections. It is a privilege to be able to offer that experience, and a reminder that we are far more than a museum of treasures. It was also a privilege to be able to be present at these seminars, and I would like to thank Dr Madeleine Brook of the Modern Languages Faculty, and DPhil Candidate Edmund Wareham of the History Faculty for making them possible, and for allowing them to become the subject of this blog.</p>
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0077-Cut.jpg"><img class="aligncenter size-full wp-image-285" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/IMG_0077-Cut.jpg" alt="IMG_0077-Cut" width="1380" height="287" /></a>Emma Huber, Subject Consultant for German, Taylor Institution Library</p>
+<h2>Further Reading</h2>
+<p>Chrisman, Miriam Usher. <em>Lay culture, learned culture : books and social change in Strasbourg, 1480-1599</em>. New Haven : Yale University Press, c1982.</p>
+<p>McKim, Donald K., ed. <em>The Cambridge companion to Martin Luther</em> . Cambridge: Cambridge University Press, 2003.</p>
+<p>Pettegree, Andrew. <em>Reformation and the culture of persuasion</em> . Cambridge: Cambridge University Press, 2005.</p>
+<p>Pettegree, Andrew. <em>The book in the Renaissance</em> . New Haven, Conn. ; London : Yale University Press, c2010.</p>
+<p>Scribner, Robert W. <em>For the sake of simple folk : popular propaganda for the German Reformation.</em> Oxford: Clarendon Press ; New York : Oxford University Press, 1994.</p>
+<h2>Texts viewed by the undergraduates:</h2>
+<p>Martin Luther, <em>Ain Sermon geprediget zu Leiptzigk auff dem schloss am tag Petri vnnd Pauli im xix. Jar</em> (Augsburg, 1519)</p>
+<p>Martin Luther, <em>Ein Sermon von dem elichen Stand vorendert vñ corrigiret </em>(Strasbourg, 1519)</p>
+<p>Martin Luther, <em>An den Cristlichen Adel deütscher Nation: von des Christlichen standes besseru[n]g</em>  (Augsburg, 1520)</p>
+<p>Martin Luther, <em>De captivitate babylonica ecclesiae </em>(Wittenberg, 1520)</p>
+<p>Martin Luther, <em>Von der Freyheyt eynisz Christen Menschen </em>(Wittenberg, 1520)</p>
+<p>Lucas Cranach, Martin Luther, Philip Melanchthon, <em>Passional Christi vnnd Antichristi</em> (Erfurt, 1521)</p>
+<p>Martin Luther, <em>Widder die hymelischen propheten : von den Bildern vnd Sacrament [etc.] </em>(Wittenberg, 1525)</p>
+<p>Martin Luther, <em>Wider die hymelischen propheten von den Bildern vnd Sacrament </em>(Nuremberg, 1525)</p>
+<p>Martin Luther, <em>Wider die mordischen vnd reubischen Rotten der Pawren </em>(Nuremberg, 1525)</p>
+<p><em>De Biblie: vth der vthleggine Doctoris Martini Luthers yn dyth düdesche vlitich vthgesettet, mit sundergen vnderrichtingen, als men seen mach </em>(Lübeck, 1533-4)</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/special-collections/" rel="category tag">Special Collections</a> and tagged <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/lucas-cranach/" rel="tag">Lucas Cranach</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/martin-luther/" rel="tag">Martin Luther</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/protestant-reformation/" rel="tag">Protestant Reformation</a> on <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/30/martin-luther-at-the-taylor-institution-library/" title="4:02 pm" rel="bookmark"><time class="entry-date" datetime="2015-03-30T16:02:49+00:00">30 March 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/taylorian/author/hillsnovac/" title="View all posts by hillsnovac" rel="author">hillsnovac</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-262" class="post-262 post type-post status-publish format-standard hentry category-film-studies tag-baftas-2015 tag-oscars-2015 tag-pawel-pawlikowski tag-polish-cinema tag-polish-film">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/16/polish-cinema-at-the-taylor-institution-library/" rel="bookmark">Polish Cinema at the Taylor Institution Library</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: justify">The Polish film <em>Ida</em>, directed by Pawel Pawlikowski, was the winner of the Best Foreign Language Film Oscar at the 87th Academy Awards last month. Originally released in Poland in the latter part of 2013, the Academy Award was the latest instance of widespread recognition for the film at award ceremonies and film festivals during the previous year, including Best Film at both the Polish Film Awards and the European Film Awards, as well as Best Film Not in the English Language at the BAFTAs in early February. Described by one critic as ‘a spare, haunting piece of minimalism’,<a href="#_edn1" name="_ednref1">[i]</a> this strikingly shot black and white film follows the story of a young novice nun in 1960s Poland who is sent to explore her family’s past before taking her vows.</p>
+<p style="text-align: justify">When it was issued on DVD in late 2014, the Taylor Institution Library acquired the film for its collection of European and world cinema, and <em>Ida</em> became one of the most recent additions to the Library’s holdings in Polish film. The Taylor’s collection of Polish cinema comprises nearly 150 feature films, plus several collections of shorts, with films ranging in date from the early 1930s – by such filmmakers as Juliusz Gardan, Józef Lejtes, and Henryk Szaro – up to the present, with works from the 2000s, including, for example, films from the ongoing careers of the directors Jerzy Skolimowski, Jerzy Hoffman, and Agnieszka Holland. With multiple works by approximately fifty Polish directors included in the Taylor Library, the collection provides a thorough introduction to the country’s national cinema.</p>
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/polish-films-1.jpg"><img class="alignleft size-full wp-image-265" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/polish-films-1.jpg" alt="polish films 1" width="1031" height="773" /></a></p>
+<p style="text-align: justify">In an interview for <em>Cineaste</em> given while promoting <em>Ida</em>, when asked about which Polish film directors have influenced his work, Pawlikowski remarked that he ‘loved the late Fifties Polish films by Munk and Wajda like <em>Eroica</em> and <em>Ashes and Diamonds</em>’.<a href="#_edn2" name="_ednref2">[ii]</a>  These two films, both released in 1958, are key works from an exciting period of filmmaking known as the Polish School. This productive period of Polish cinema is generally regarded as beginning in 1956, when the political changes after the Polish October created a climate for new forms of creative expression, allowing a move away from the socialist realist cinema which had previously dominated the country’s filmmaking.<a href="#_edn3" name="_ednref3">[iii]</a> A younger generation of filmmakers emerged, many of whom trained at the recently-founded Łódź Film School, often (although not exclusively) exploring in their work issues and themes raised by recent Polish history, in particular World War II and the occupation of Poland, and often influenced by Italian neorealism and favouring ‘a personal, auteurist approach’.<a href="#_edn4" name="_ednref4">[iv]</a></p>
+<p style="text-align: justify">Andrzej Munk’s <em>Heroism</em> / <em>Eroica</em> – described as ‘a bitter satire on Polish heroism’<a href="#_edn5" name="_ednref5">[v]</a> – is a two-part film, the first part about a soldier in the Home Army during the Warsaw Uprising, and the second set in a prisoner-of-war camp; while <em>Ashes and Diamonds</em> / <em>Popiół i diament</em> – the final work in Andrzej Wajda’s war trilogy (following on from <em>A Generation</em> / <em>Pokolenie</em> (1955) &amp; <em>Canal</em> / <em>Kanał</em> (1957)) – is based on Jerzy Andrzejewski’s 1948 novel, and explores the conflict between Home Army and communist factions in a small Polish town as the war ends. As well as including these two milestone films, the Taylor Library’s film collection covers the breadth of the careers of these two important directors. Wajda’s work is represented through the 1970s and 1980s right up to his most recent film, <em>Walesa. Man of Hope</em> / <em>Wałęsa. Człowiek z nadziei</em>, a bio-pic of the former Polish president, released in 2013, while holdings of Munk’s work are near-comprehensive, from documentary shorts of the early 1950s up to his final film <em>Passenger</em> / <em>Pasazerka</em> (1963).</p>
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/polish-films-2.jpg"><img class="alignleft size-full wp-image-266" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/polish-films-2.jpg" alt="polish films 2" width="1031" height="773" /></a></p>
+<p>&nbsp;</p>
+<p style="text-align: justify"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/polish-films-3.jpg"><img class="alignleft size-full wp-image-267" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/polish-films-3.jpg" alt="polish films 3" width="1009" height="676" /></a></p>
+<p style="text-align: justify">As well as Wajda and Munk, the works of other key directors from the Polish School period – such as Wojciech J. Has, Jerzy Kawalerowicz, Kazimierz Kutz, and Stanisław Lenartowicz – are included in the Taylor’s film collection. From Munk’s <em>Man on the Track </em>/ <em>Człowiek na torze</em> (1957), with its various differing viewpoints on the death of a railway worker on the track, to Kutz’s <em>Cross of Valour</em> / <em>Kryź Walecznych</em> (1959), based on three novellas by the Polish writer Józef Hen; from Kawalerowicz’s internationally-recognised <em>Mother Joan of the Angels</em> / <em>Matka Joanna od Aniołów</em> (1961), a film about demonic possession in an eighteenth-century convent, which won the Special Jury Prize at Cannes, to Roman Polanski’s <em>The Knife in the Water</em> / <em>Nóz w wodzie </em>(1962) – Polanski’s only feature film made in Poland, before he moved to France, and the first Polish film to be nominated for an Academy Award – the Taylor Library film collection provides a rich opportunity to explore what Pawlikowski referred to as the ‘tradition of original cinema’ in Poland during the late 1950s and 1960s.<a href="#_edn6" name="_ednref6">[vi]</a></p>
+<p style="text-align: justify">But the Taylor Library collection also moves well beyond this period to encompass Polish cinema up to the present day. The ‘Third Polish Cinema’ period of the later 1960s is represented in the collection by films such Krysztof Zanussi’s first full-length feature <em>The Structure of Crystal</em> / <em>Struktura kyyształu </em>(1969), an ‘almost philosophical story’<a href="#_edn7" name="_ednref7">[vii]</a> which explores the contrasting approaches to life of two physicists, one actively ambitious and the other content with a more low-key but peaceful lifestyle, and Skolimowski’s <em>Hands Up</em> / <em>Reçe do Góry</em> (1967, 1985), banned until the 1980s because of its depiction of Stalinism (prompting Skolimowski to leave the country); while the Library’s examples from the late 1970s and early 1980s – the period of Poland’s ‘Cinema of Moral Concern’, also described as the ‘Cinema of Distrust’<a href="#_edn8" name="_ednref8">[viii]</a> – include Agnieszka Holland’s early films, such as <em>Provincial Actors</em> / <em>Aktorzy prowincjonalni</em> (1979), and <em>A Woman Alone</em> / <em>Kobieta samotna</em> (1988), about the fate of a single mother living in difficult circumstances, and described as ‘one of the darkest and most brutally honest films ever made’.<a href="#_edn9" name="_ednref9">[ix]</a> Library holdings naturally also include the much-acclaimed and influential works of Krzysztof Kieślowski – there are examples in the collection of his early works such as <em>The Scar</em> / <em>Blizna</em> (1976) and <em>Camera Buff</em> / <em>Amator</em> (1979), about a man who becomes increasingly immersed in making films, with significant consequences – as well as his major works of the late 1980s and 1990s (<em>Dekalog</em> (1989-1990), the <em>Trois Coleurs</em> trilogy (1993-1994)). The Taylor collection is then brought up to contemporary times with recent releases by both well-established directors and those who have emerged since 2000, such as Andrzej Jakimowski and Małgorzata Szumowska (who recently won the Silver Bear for Best Director at the 2015 Berlin Film Festival).</p>
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/polish-films-4.jpg"><img class="alignleft size-full wp-image-269" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/03/polish-films-4.jpg" alt="polish films 4" width="1031" height="773" /></a></p>
+<p style="text-align: justify">Pawlikowski does not make direct comparisons between <em>Ida</em> and previous Polish filmmaking, but he has described the film as having ‘the confidence Polish cinema once had to go its own way’;<a href="#_edn10" name="_ednref10">[x]</a> the various ways taken by generations of Polish filmmakers may be explored via the Taylor’s film collection.</p>
+<p style="text-align: justify"><strong>Helen Scott, Film Studies Librarian</strong></p>
+<p><em>The Taylor Institution Library film collection can be used by members of the university; films may be used for the purposes of teaching, study and research only.</em></p>
+<p><em>All of the Library’s films are catalogued on SOLO; to browse Polish films, search in SOLO for PN.P7*, limiting your search to ‘in the shelfmark’.</em></p>
+<p><a href="#_ednref1" name="_edn1">[i]</a> Catherine Wheatley, review in <em>Sight &amp; Sound</em>, vol. 4 issue 10, October 2014, p. 72.</p>
+<p><a href="#_ednref2" name="_edn2">[ii]</a> Interview in <em>Cineaste</em> XXXIX:3 (Summer 2014), pp. 40-44.</p>
+<p><a href="#_ednref3" name="_edn3">[iii]</a> Marek Haltof, <em>Historical Dictionary of Polish Cinema </em>(Lanham, Maryland: Scarecrow Press, 2007), p. 148.</p>
+<p><a href="#_ednref4" name="_edn4">[iv]</a> Marek Haltof, <em>Polish National Cinema</em> (Oxford : Berghahn Books, 2002), p. 80.</p>
+<p><a href="#_ednref5" name="_edn5">[v]</a> Haltof, <em>Historical Dictionary</em>, p. 48.</p>
+<p><a href="#_ednref6" name="_edn6">[vi]</a> Violet Lucca, ‘Interview: Pavel Pawlikowski’, <em>Film Comment</em>, 29 April 2014 http:filmcomment.com/entry/interview-pawel-pawlikowski.</p>
+<p><a href="#_ednref7" name="_edn7">[vii]</a> Charles Ford and Robert Hammond, <em>Polish Film: a twentieth century history</em> (Jefferson, NC: MacFarland, 2005), p. 154.</p>
+<p><a href="#_ednref8" name="_edn8">[viii]</a> Haltof, <em>Historical Dictionary</em>, p. 29.</p>
+<p><a href="#_ednref9" name="_edn9">[ix]</a> Haltof, <em>Polish National Cinema</em>, p. 158.</p>
+<p><a href="#_ednref10" name="_edn10">[x]</a> Violet Lucca, ‘Interview: Pavel Pawlikowski’.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/film-studies/" rel="category tag">Film Studies</a> and tagged <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/baftas-2015/" rel="tag">BAFTAs 2015</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/oscars-2015/" rel="tag">Oscars 2015</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/pawel-pawlikowski/" rel="tag">Pawel Pawlikowski</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/polish-cinema/" rel="tag">polish cinema</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/polish-film/" rel="tag">polish film</a> on <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/16/polish-cinema-at-the-taylor-institution-library/" title="9:00 am" rel="bookmark"><time class="entry-date" datetime="2015-03-16T09:00:17+00:00">16 March 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/taylorian/author/edwardsj/" title="View all posts by edwardsj" rel="author">edwardsj</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-212" class="post-212 post type-post status-publish format-standard hentry category-special-collections tag-michel-de-montaigne tag-olive-sayce tag-richard-sayce">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/" rel="bookmark">The Sayce Bequest: Michel de Montaigne</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			
+		<style type='text/css'>
+			#gallery-8 {
+				margin: auto;
+			}
+			#gallery-8 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-8 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-8 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-8' class='gallery galleryid-212 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/2015-03-montaigneportraitonlibrarything/'><img width="116" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/2015-03-MontaignePortraitOnLibraryThing.jpg" class="attachment-thumbnail" alt="Michel de Montaigne (Presumed portrait by an anonymous 16th/17thC artist) (Chantilly, Musée Condé, inv. PE 253. Image source: LibraryThing)" aria-describedby="gallery-8-237" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-8-237'>
+				Michel de Montaigne (Presumed portrait by an anonymous 16th/17thC artist) (Chantilly, Musée Condé, inv. PE 253. Image source: LibraryThing)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-93_a/'><img width="150" height="127" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.93_a.jpg" class="attachment-thumbnail" alt="Decorated end-paper. Montaigne, Michel de. Les essais de Michel Seigneur de montaigne (1619. SAYCE 93)" aria-describedby="gallery-8-238" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-8-238'>
+				Decorated end-paper. Montaigne, Michel de. Les essais de Michel Seigneur de montaigne (1619. SAYCE 93)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-93_b/'><img width="125" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.93_b.jpg" class="attachment-thumbnail" alt="Gilded edges.  Montaigne, Michel de. Les essais de Michel Seigneur de montaigne (1619. SAYCE 93)" aria-describedby="gallery-8-221" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-8-221'>
+				Gilded edges.  Montaigne, Michel de. Les essais de Michel Seigneur de montaigne (1619. SAYCE 93)
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">February 28<sup>th</sup> was the the birthday of the French writer Michel de Montaigne (1533-1592) and so now is a good time to consider a collection of books which The Taylor Institution Library received not so long ago – the Sayce bequest. Back in the summer of 2013 the Taylor Institution Library received a collection of 285 rare books (mainly French but some in other languages) from the personal collection of the scholar and Oxford don, Dr Richard Sayce, after the death of his wife, Olive Sayce, in March 2013.</p>
+<p style="text-align: justify">Richard Sayce (1917-1977) taught at Oxford since 1947. He became a Fellow of Worcester College in 1950 and Fellow Librarian of Worcester College in 1958. He would hold these posts right up to his death at the relatively young age of 60.  He is mostly remembered as a Montaigne scholar and this academic focus is reflected in this collection of books. He compiled a comprehensive bibliography of early editions of Montaigne, completed after his death by David Maskell: <em>A descriptive bibliography of Montaigne’s Essais, 1580-1700</em> (Oxford, 1983).</p>
+<p style="text-align: justify"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/2015-03-OliveSayce-SomervilleImage.jpg"><img class="alignleft wp-image-239 size-full" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/2015-03-OliveSayce-SomervilleImage.jpg" alt="Olive Sayce" width="206" height="159" /></a>His wife, Olive Sayce, another Oxford scholar but who specialised in German medieval poetry, wrote a touching memorial of her husband&#8217;s life. <em>R.A. Sayce, 1917-1977: a memoir</em> (Oxford, 1983) recounts his early life on the Welsh Borders (the name Sayce derives from &#8216;Sassanach&#8217;), his travels during the Second World War (in the course of which he found India &#8216;too hot&#8217; but found Persia more congenial even to the extent of learning Persian), how they met – in the Senior Staff Room of the Taylor Institution (‘not one of the most romantic places!’).</p>
+<p style="text-align: justify">There are about 285 books in Richard Sayce&#8217;s antiquarian collection. Fourteen of them were published in the 16th century, 128 in the 17th century, 123 in the 18th century and the rest in the 19th and 20th centuries. Like many of the scholars&#8217; collections which have come to the Taylor Institution Library it is very much an intentional collection. Each book purchase was a deliberate act and the collection as a whole not only reflects the personality and interests of the man who collected it but also the man at the centre of the collection – Michel de Montaigne.<br />
+Richard Sayce was a man who loved and valued books. Olive Sayce records that he made one of his last book purchases shortly before his death. At the centre of the collection are works by and relating to Montaigne. There is an early edition of Montaigne’s <em>Essais</em> published in Lyons in 1593 (SAYCE.8).</p>
+
+		<style type='text/css'>
+			#gallery-9 {
+				margin: auto;
+			}
+			#gallery-9 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-9 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-9 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-9' class='gallery galleryid-212 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce_spines/'><img width="150" height="117" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE_spines.jpg" class="attachment-thumbnail" alt="Selection of early editions of Montaigne&#039;s Essais" aria-describedby="gallery-9-230" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-9-230'>
+				Selection of early editions of Montaigne&#8217;s Essais
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-8/'><img width="150" height="121" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.8.jpg" class="attachment-thumbnail" alt="Montaigne, Michele de. Livre des essais de Michel seigneur de Montaigne (1593. SAYCE.8)" aria-describedby="gallery-9-214" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-9-214'>
+				Montaigne, Michele de. Livre des essais de Michel seigneur de Montaigne (1593. SAYCE.8)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-8_a/'><img width="150" height="121" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.8_a.jpg" class="attachment-thumbnail" alt="Bookplate. Montaigne, Michele de. Livre des essais de Michel seigneur de Montaigne (1593. SAYCE.8)" aria-describedby="gallery-9-215" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-9-215'>
+				Bookplate. Montaigne, Michele de. Livre des essais de Michel seigneur de Montaigne (1593. SAYCE.8)
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">This was the next edition to be published after the edition of 1588 – one of the copies of which was personally annotated by Montaigne himself and is known as the ‘Bordeaux edition’. The Taylorian already had the second volume of this 1593 edition in our Special Collections (containing Book III of the <em>Essais</em>) so it is good that we now have a complete set.</p>
+<p style="text-align: justify">After that edition the Sayce Collection contains editions published in 1600, 1602, 1604, 1608, 1617, 1619, 1640, 1649, 1652, 1669, 1677, 1695, 1724, 1725, 1754 and 1776 – many of them recorded among other editions in <em>A descriptive bibliography of Montaigne’s Essais, 1580-1700.</em></p>
+
+		<style type='text/css'>
+			#gallery-10 {
+				margin: auto;
+			}
+			#gallery-10 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-10 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-10 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-10' class='gallery galleryid-212 gallery-columns-2 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-92/'><img width="150" height="126" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.92.jpg" class="attachment-thumbnail" alt="Montaigne, Michel de. Les Essais de Michel Seigneur de Montaigne (1617. SAYCE.92)" aria-describedby="gallery-10-219" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-10-219'>
+				Montaigne, Michel de. Les Essais de Michel Seigneur de Montaigne (1617. SAYCE.92)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-12/'><img width="139" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.12.jpg" class="attachment-thumbnail" alt="Montaigne, Michel de. L&#039;esprit des Essais de Michel, Seigneur de Montaigne (1677. SAYCE.105)" aria-describedby="gallery-10-216" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-10-216'>
+				Montaigne, Michel de. L&#8217;esprit des Essais de Michel, Seigneur de Montaigne (1677. SAYCE.105)
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">Richard Sayce’s own copies are recorded in the card-indexes in the archive in Worcester College with his initials RAS. It is interesting that the 1695 edition of the <em>Essais </em>in the Sayce collection does not appear to be recorded in the bibliography. It is also perhaps unfortunate that the bibliography ends with the year 1700 as there are a number of 18<sup>th</sup> century editions of Montaigne that also deserve to be recorded in a bibliography. Scope for a sequel, perhaps?</p>
+<p style="text-align: justify">Montaigne&#8217;s <em>Essais</em> are his personal reflections on different aspects of human life. They are based on his own experience and thinking. They are down-to-earth and full of common-sense, making use of many quotations and a vigorous and vivid style. Whatever the subject they always come back to one man&#8217;s personal experience – that of Montaigne himself. Montaigne discusses himself with an objectivity and honesty which is surprising and revealing and also the very method of the <em>Essais</em>. The <em>Essais</em> contain many allusions and quotations from the classics, some of them from books contained in the Sayce collection such as Plutarch, Seneca, Cicero, Tacitus etc. Latin authors are quoted in the original Latin. Some of these works are to be found in the Sayce Collection in early editions. The ideas contained within the quotations are then refracted through Montaigne&#8217;s own mind and experience to reveal much that is new and original. As we read the <em>Essais</em> we have a remarkable sense of getting to know Montaigne as a person – as a wise friend.</p>
+<div id="attachment_222" style="width: 310px" class="wp-caption alignleft"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.106.jpg"><img class="wp-image-222" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.106.jpg" alt="&quot;De l'Institution des Enfants&quot; in Les Essais de Michel Seigneur de Montaigne (1695. SAYCE.106)" width="300" height="216" /></a><p class="wp-caption-text">&#8220;De l&#8217;Institution des Enfants&#8221; in Les Essais de Michel Seigneur de Montaigne (1695. SAYCE.106)</p></div>
+<p style="text-align: justify">Montaigne himself had a library of some 1000 books and this would have been considered a large collection at the time. Only about 101 books survive. Pierre Villey, in his <em>Les sources et l’évolution des essais de Montaigne,</em> listed 271 books which are known to have belonged to Montaigne. How many of those 271 books are represented in the Sayce Collection? Certain of the major works are there (although not the actual copies and probably not the actual editions which Montaigne owned). The Sayce collection boasts early editions of Plutarch’s <em>Vie des hommes illustres</em> t.1-2 (1565) (SAYCE.9-10) and <em>Les morales de Plutarque </em>(1575 and 1594) (SAYCE 11-12) both of which were in Montaigne’s library, according to Villey. Montaigne mentions having Plutarch in the French in one of his essays and this would have been the Amyot translation which we also have in the Sayce Collection. Some of these could have been the actual editions which Montaigne owned but we do not know this. Montaigne owned a copy of Gellis’s <em>Circe</em> and an early edition of this can be found in the Sayce Collection (1600) (SAYCE.61). <em>Les diverses leçons de Pierre Mexia,</em> owned by Montaigne, is also present in the Sayce Collection (1616) (SAYCE.87).</p>
+
+		<style type='text/css'>
+			#gallery-11 {
+				margin: auto;
+			}
+			#gallery-11 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-11 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-11 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-11' class='gallery galleryid-212 gallery-columns-2 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-133/'><img width="150" height="116" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.133.jpg" class="attachment-thumbnail" alt="Mexia, Pedro. Les diverses leçons de Pierre Messie Gentil-homme de Sevile: Mise de castillian en françois, par Cl. Gruget parisien (1616. SAYCE.87)" aria-describedby="gallery-11-225" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-11-225'>
+				Mexia, Pedro. Les diverses leçons de Pierre Messie Gentil-homme de Sevile: Mise de castillian en françois, par Cl. Gruget parisien (1616. SAYCE.87)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-133_a/'><img width="150" height="117" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.133_a.jpg" class="attachment-thumbnail" alt="Mexia, Pedro. Les diverses leçons de Pierre Messie Gentil-homme de Sevile: Mise de castillian en françois, par Cl. Gruget parisien (1616. SAYCE.87)" aria-describedby="gallery-11-226" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-11-226'>
+				Mexia, Pedro. Les diverses leçons de Pierre Messie Gentil-homme de Sevile: Mise de castillian en françois, par Cl. Gruget parisien (1616. SAYCE.87)
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<dl id="attachment_213" class="wp-caption alignleft" style="width: 210px">
+<dt class="wp-caption-dt"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.3.jpg"><img class="wp-image-213" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.3.jpg" alt="Bodin, Jean. Les six livres de la république de I. Bodin Angevin (3rd ed., 1578. SAYCE.3(OS))" width="200" height="256" /></a></dt>
+<dd class="wp-caption-dd">Bodin, Jean. Les six livres de la république de I. Bodin Angevin (3rd ed., 1578. SAYCE.3(OS))</dd>
+</dl>
+<p style="text-align: justify">Editions of Caro’s <em>De le lettere familiari del Commendatore Annibal Caro </em>(SAYCE.4) (1591) are in both collections.</p>
+<p style="text-align: justify">The historian Jean Bodin is represented in Montaigne’s library by J. <em>Bodini methodus ad facilem historiarum cognitionem </em>while in Sayce’s collection there is a translation <em>Les livres de la république de I. Bodin</em>  (1578 (3<sup>rd</sup> ed.) (SAYCE.3(OS)).</p>
+<p style="text-align: justify"><em>The</em> <em>History of the Jews</em> by Josephus Flaviuswas present in Montaigne’s library and a later edition (1676) is in the Sayce Collection (SAYCE.64-69b) .</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+		<style type='text/css'>
+			#gallery-12 {
+				margin: auto;
+			}
+			#gallery-12 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-12 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-12 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-12' class='gallery galleryid-212 gallery-columns-2 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-66-2/'><img width="122" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.661.jpg" class="attachment-thumbnail" alt="Josephus, Flavius. Historie des Juifs, v. 1 (1676. SAYCE.66)" aria-describedby="gallery-12-244" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-12-244'>
+				Josephus, Flavius. Historie des Juifs, v. 1 (1676. SAYCE.66)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-66_a/'><img width="150" height="133" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.66_a.jpg" class="attachment-thumbnail" alt="Josephus, Flavius. Historie des Juifs, v. 1 (1676. SAYCE.66)" aria-describedby="gallery-12-245" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-12-245'>
+				Josephus, Flavius. Historie des Juifs, v. 1 (1676. SAYCE.66)
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">However, to see a library which actually contains 10 volumes from Montaigne’s original personal library and many more books which would have been likely to have been in his library you will need to go to Cambridge to the Montaigne Library assembled by the scholar and financier Gilbert de Botton. Recreating Montaigne’s library was not the main aim of the Sayce collection which aims above all at placing Montaigne in context as well as following up Sayce’s own interests.</p>
+<p style="text-align: justify"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.240.jpg"><img class="alignleft wp-image-229" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.240.jpg" alt="SAYCE.240" width="400" height="297" /></a>One of the travel books in the collection (and travel books are a feature of the Sayce collection) is the one describing a journey which Montaigne undertook to Italy: <em>Journal du voyage de Michel de Montaigne en Italie : par la Suisse &amp; l&#8217;Allemagne en 1580 &amp; 1581</em>. The manuscript of this travel journal was only discovered in 1770 in the Château de Montaigne 178 years after his death. The main purpose of the journey was for Montaigne to cure the pain of his kidney stone at thermal resorts. One of Richard Sayce’s final projects had been to undertake Montaigne’s journey afresh (in a car rather than a carriage), visiting all the places which Montaigne had visited. The photographs that he took of this recreated journey are in the Worcester College archive. Sayce&#8217;s  two 1774 editions of this work in the collection must be among the earliest editions of the jorunal.</p>
+<p style="text-align: justify">The items in the collection closely related to Montaigne include his translation of <em>Theologia Naturalis</em> by Raymond of Sabunde (1385-1436). We have two editions of Montaigne’s translation: (1611) (SAYCE.120) and (1640) (SAYCE.121). Montaigne’s father asked Montaigne to translate this work and the first edition of the translation was published in 1568, one year after his father’s death. One of Montaigne’s essays is entitled ‘Apologie de Raymond Sebond’. The work argues for the possibility of the revelation of divine truth through nature as well as the Bible. It is above all the natural and the spontaneous which come through in the <em>Essais</em> with their characteristic digressions.</p>
+
+		<style type='text/css'>
+			#gallery-13 {
+				margin: auto;
+			}
+			#gallery-13 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-13 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-13 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-13' class='gallery galleryid-212 gallery-columns-2 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-121/'><img width="150" height="122" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.121.jpg" class="attachment-thumbnail" alt="Raymond, Sabunde. La théologie naturelle de Raymond Sebon (1611. SAYCE.120)" aria-describedby="gallery-13-224" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-13-224'>
+				Raymond, Sabunde. La théologie naturelle de Raymond Sebon (1611. SAYCE.120)
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/sayce-120/'><img width="150" height="125" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/SAYCE.120.jpg" class="attachment-thumbnail" alt="Raymond, Sabunde. La théologie naturelle de Raymond Sebon (1640. SAYCE.121)" aria-describedby="gallery-13-223" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-13-223'>
+				Raymond, Sabunde. La théologie naturelle de Raymond Sebon (1640. SAYCE.121)
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">There is a wealth of other books in the Sayce collection – many of them related in one way or another to Montaigne and his times and others of them reflecting Sayce’s own interests but we will leave discussion of them to a later blog. If you feel like commemorating Montaigne’s birthday by reading something by or about Montaigne and/or Richard Sayce, here is a short list to enable you to do so.</p>
+<p style="text-align: justify">Nicholas Hearn, Subject Consultant for French Literature and Language</p>
+<p style="text-align: justify"><strong class="wp-image-237">SELECT BIBLIOGRAPHY:<br />
+</strong>Bakewell, Sarah <em>How to live,or, A life of Montaigne in one question and twenty attempts at an answer </em>(London, 2011)<br />
+Bodin, Jean <em>Les six livres de la république</em> (1578) (SAYCE.3(OS))<br />
+Caro, Annibal <em>De le lettere familiari del Commendatore Annibal Caro </em>(SAYCE.4)<br />
+Ford, Philip <em>The Montaigne library of Gilbert de Botton at Cambridge University Library</em> (Cambridge, 2008)<br />
+Gelli, Giovanni <em>La Circe</em> (1600) (SAYCE.61)<br />
+Maskell, David <em>A descriptive bibliography of Montaigne’s Essais, 1580-1700</em> (Oxford, 1983)<br />
+Mexia, Pedro <em>Les diverses leçons</em> (1616) (SAYCE.87)<br />
+Montaigne, Michel <em>Essais</em> (Lyons, 1593) (SAYCE.8)<br />
+Montaigne, Michel <em>Journal du voyage en Italie</em> (1774) (SAYCE.237-239)<br />
+Montaigne, Michel <em>Journal du voyage en Italie</em> (1774) (SAYCE.240-242)<br />
+Plutarch <em>Vie des hommes illustres</em> t.1-2 (1565) (SAYCE.9(OS))<br />
+Plutarch <em>Les morales</em> (1575) (SAYCE.11) (OS)<br />
+Plutarch <em>Les morales</em> (1594) (SAYCE.12)<br />
+Raymond of Sabund <em>Theologia Naturalis (</em>1611) (SAYCE.120)<br />
+Raymond of Sabund <em>Theologia Naturalis (</em>1640) (SAYCE.121)<br />
+Richard Sayce Archive (Worcester College)<br />
+Sayce, Olive <em>R.A. Sayce, 1917-1977: a memoir</em> (Oxford, 1983)<br />
+Villey, Pierre <em>Les sources et l’évolution des essais de Montaigne </em>(Paris, 1908)</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/special-collections/" rel="category tag">Special Collections</a> and tagged <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/michel-de-montaigne/" rel="tag">Michel de Montaigne</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/olive-sayce/" rel="tag">Olive Sayce</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/richard-sayce/" rel="tag">Richard Sayce</a> on <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/03/the-sayce-bequest-michiel-de-montaigne/" title="4:56 pm" rel="bookmark"><time class="entry-date" datetime="2015-03-03T16:56:24+00:00">3 March 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/taylorian/author/hillsnovac/" title="View all posts by hillsnovac" rel="author">hillsnovac</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-173" class="post-173 post type-post status-publish format-standard hentry category-special-collections tag-celtic tag-cornish tag-irish tag-james-naughton tag-jesus-college tag-robert-leith-thomson tag-scottish-gaelic tag-welsh">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/02/13/celtic-connections/" rel="bookmark">Celtic connections</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: justify">In April 2014 I was approached by Shu-Ching Naughton, the widow of Dr James (&#8216;Jim&#8217;) Naughton and offered his private library of Gaelic books for the Taylor and Jesus College collections. I remember Jim Naughton from the 1980s when he would sometimes attend the Oxford Celtic Seminar at Jesus. A lovely man who had a keen interest in Scottish Gaelic (and many other things of course!). He was the University Lecturer in Czech and Slovak and Fellow of St Edmund Hall, Oxford. Dr Naughton wrote grammars of the Czech and Slovak languages, and earned a fine reputation for his translations, for example the short stories of Bohumil Hrabal. He was also a good friend to libraries. It is a privilege to be able to house those books which we didn&#8217;t have and to pass on any duplicates to Jesus College and scholars and students (at Shu-Ching&#8217;s request). &#8221;It is what Jim would have wanted&#8221;, she said, a characteristically generous gesture.</p>
+
+		<style type='text/css'>
+			#gallery-14 {
+				margin: auto;
+			}
+			#gallery-14 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-14 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-14 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-14' class='gallery galleryid-173 gallery-columns-2 gallery-size-medium'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/02/13/celtic-connections/img_0151_edited/'><img width="300" height="206" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0151_edited.jpg" class="attachment-medium" alt="A selection of Scottish Gaelic books from Jim Naughton&#039;s collection." aria-describedby="gallery-14-177" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-14-177'>
+				A selection of Scottish Gaelic books from Jim Naughton&#8217;s collection.
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/02/13/celtic-connections/img_0154_edited/'><img width="300" height="211" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0154_edited.jpg" class="attachment-medium" alt="A selection of Scottish Gaelic books from Jim Naughton&#039;s collection." aria-describedby="gallery-14-178" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-14-178'>
+				A selection of Scottish Gaelic books from Jim Naughton&#8217;s collection.
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">The books we received range in subject matter from Scottish Gaelic poetry and songs to grammars and various periodicals and so have enriched the Taylor&#8217;s already strong holdings in Scottish Gaelic, filling in gaps and replacing missing items. It is thrilling that not only has the collection been enriched by the subject matter but that part of the character of the donor is also present. Notes scribbled in the margins of the text, memos, and notes to self all bear witness to the scholar&#8217;s fascination with the language and appreciation of the poetry.</p>
+<p style="text-align: justify">Another substantial donation has come to Oxford in the shape of the personal library of <a href="http://www.leeds.ac.uk/secretariat/obituaries/2006/obituary4204.html" target="_blank">Robert Leith Thomson 1924-2006</a>, former reader in Celtic at the University of Leeds. This collection ranges across Welsh, Cornish, Irish and Scottish Gaelic and will add a rich seam of material to the library&#8217;s holdings. Books which the Taylor already holds have found a home in the excellent <a href="http://libguides.bodleian.ox.ac.uk/content.php?pid=144651&amp;sid=1230385" target="_blank">Celtic library at  Jesus College</a>.</p>
+
+		<style type='text/css'>
+			#gallery-15 {
+				margin: auto;
+			}
+			#gallery-15 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-15 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-15 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-15' class='gallery galleryid-173 gallery-columns-3 gallery-size-medium'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=182'><img width="221" height="300" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0132_edited.jpg" class="attachment-medium" alt="Cover of  J. Rhys, Celtic Britain (London : SPCK, 1908)." aria-describedby="gallery-15-182" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-15-182'>
+				Cover of  J. Rhys, Celtic Britain (London : SPCK, 1908).
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=190'><img width="300" height="191" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0147_edited.jpg" class="attachment-medium" alt="A selection of grammar books in Welsh, Scottish Gaelic and Irish." aria-describedby="gallery-15-190" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-15-190'>
+				A selection of grammar books in Welsh, Scottish Gaelic and Irish.
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=181'><img width="216" height="300" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0130_edited.jpg" class="attachment-medium" alt="Front matter in J. Rhys, Celtic Britain (London : SPCK, 1908),
+showing a map of Britain at the time of the Roman occupation." aria-describedby="gallery-15-181" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-15-181'>
+				Front matter in J. Rhys, Celtic Britain (London : SPCK, 1908),
+showing a map of Britain at the time of the Roman occupation.
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">It is a great privilege to look at a personal library and be able to select from it material which one&#8217;s own institution does not have. The breadth and knowledge of the scholar struck me &#8211; from Cornish biblical plays to Scottish Gaelic writing for children &#8211; and also the value he clearly attached to his books.</p>
+
+		<style type='text/css'>
+			#gallery-16 {
+				margin: auto;
+			}
+			#gallery-16 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-16 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-16 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-16' class='gallery galleryid-173 gallery-columns-2 gallery-size-medium'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=183'><img width="300" height="242" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0135_edited.jpg" class="attachment-medium" alt="Illustration from Iain am measgnan reultan, a fantasy story in Scottish Gaelic for children by Iaín Mac a&#039;Ghobhainn/Iain Crichton Smith." aria-describedby="gallery-16-183" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-16-183'>
+				Illustration from Iain am measgnan reultan, a fantasy story in Scottish Gaelic for children by Iaín Mac a&#8217;Ghobhainn/Iain Crichton Smith.
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=191'><img width="300" height="188" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0149_edited.jpg" class="attachment-medium" alt="Parallel text in Cornish and English from Gwryans an bys, the Creation of the world, a Cornish biblical play." aria-describedby="gallery-16-191" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-16-191'>
+				Parallel text in Cornish and English from Gwryans an bys, the Creation of the world, a Cornish biblical play.
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">All were in good condition, well cared for, with his name in meticulous handwriting neatly inscribed on  the front page along with date of purchase.</p>
+<div id="attachment_185" style="width: 326px" class="wp-caption alignleft"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0140_edited.jpg"><img class=" wp-image-185" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0140_edited.jpg" alt="R.L. Thomson's signature as inscribed in one of his books and the date of purchase. Note the charming use of the Welsh 'Cyntefin', meaning the beginning of summer." width="316" height="156" /></a><p class="wp-caption-text">R.L. Thomson&#8217;s signature as inscribed in one of his books and the date of purchase. Note the charming use of the Welsh &#8216;Cyntefin&#8217;, meaning the beginning of summer.</p></div>
+<p style="text-align: justify">A large number were purchased in the 1950s, 1960s and 1970s and it is interesting to track the development of the scholar&#8217;s interests and to see what helped shape and form his own output. It was great fun to see workings in his own hand in marginal notes, testimony to the fact that this was very much a working library.</p>
+<div id="attachment_187" style="width: 620px" class="wp-caption aligncenter"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0143_edited.jpg"><img class=" wp-image-187" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0143_edited.jpg" alt="Scholarly notes and marginalia on a  fifteenth-century Welsh poem by Guto'r Glyn from D.J. Bowen (gol.), Barddoniaeth yr uchelwyr : detholiad (Caerdydd : Gwasg Prifysgol Cymru, 1957)." width="610" height="557" /></a><p class="wp-caption-text">Scholarly notes and marginalia on a fifteenth-century Welsh poem by Guto&#8217;r Glyn from D.J. Bowen (gol.), Barddoniaeth yr uchelwyr : detholiad (Caerdydd : Gwasg Prifysgol Cymru, 1957).</p></div>
+<p style="text-align: justify">Inserted into some books were newspaper reviews and other cuttings, obituaries of other Celtic scholars thus adding a human dimension to the collection and emphasizing his interest in the community to which he belonged.</p>
+
+		<style type='text/css'>
+			#gallery-17 {
+				margin: auto;
+			}
+			#gallery-17 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-17 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-17 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-17' class='gallery galleryid-173 gallery-columns-2 gallery-size-medium'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=184'><img width="217" height="300" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0138_edited.jpg" class="attachment-medium" alt="Scholarly correspondence and a thank-you gift in the form of General Robertson&#039;s Gaelic Manuscript, from the author Colm Ó Baoill." aria-describedby="gallery-17-184" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-17-184'>
+				Scholarly correspondence and a thank-you gift in the form of General Robertson&#8217;s Gaelic Manuscript, from the author Colm Ó Baoill.
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=186'><img width="216" height="300" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0141_lightedit.jpg" class="attachment-medium" alt="Derick S. Thomson&#039;s &#039;The new verse in Scottish Gaelic : a structural analysis (University College, Dublin, 1974), gifted to R.L. Thomson by the author." aria-describedby="gallery-17-186" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-17-186'>
+				Derick S. Thomson&#8217;s &#8216;The new verse in Scottish Gaelic : a structural analysis (University College, Dublin, 1974), gifted to R.L. Thomson by the author.
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">There was even a postcard from the dry-cleaners (dated 1966) informing him his coat was ready for collection! So this was very much a living, breathing collection which nurtured the interests of the owner and gives a snapshot of Celtic scholarship at a particular time. It is especially fitting that some of these books should have their final resting place in Oxford libraries, as it was his time spent  as a young scholar at The Queen&#8217;s College, Oxford, reading for the Diploma in Comparative Philology and Germanic languages, which confirmed his &#8216;calling&#8217; to Celtic.</p>
+
+		<style type='text/css'>
+			#gallery-18 {
+				margin: auto;
+			}
+			#gallery-18 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-18 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-18 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-18' class='gallery galleryid-173 gallery-columns-2 gallery-size-medium'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/?attachment_id=189'><img width="198" height="300" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0145_edited.jpg" class="attachment-medium" alt="R.L. Thomson&#039;s copy of Elements of the comparative grammar of the Indo-Germanic languages which he used whilst a student at the Queen&#039;s College, Oxford." aria-describedby="gallery-18-189" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-18-189'>
+				R.L. Thomson&#8217;s copy of Elements of the comparative grammar of the Indo-Germanic languages which he used whilst a student at the Queen&#8217;s College, Oxford.
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/02/13/celtic-connections/img_0144_edited/'><img width="225" height="300" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2015/02/IMG_0144_edited.jpg" class="attachment-medium" alt="A more mundane aspect of life - a message from the dry-cleaners!" aria-describedby="gallery-18-188" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-18-188'>
+				A more mundane aspect of life &#8211; a message from the dry-cleaners!
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p>Both collections are significant and will add texture to the rich weave of the Taylor&#8217;s holdings.</p>
+<p><em>Janet Foot, Celtic Librarian, Taylor Institution Library</em></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/special-collections/" rel="category tag">Special Collections</a> and tagged <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/celtic/" rel="tag">Celtic</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/cornish/" rel="tag">Cornish</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/irish/" rel="tag">Irish</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/james-naughton/" rel="tag">James Naughton</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/jesus-college/" rel="tag">Jesus College</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/robert-leith-thomson/" rel="tag">Robert Leith Thomson</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/scottish-gaelic/" rel="tag">Scottish Gaelic</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/welsh/" rel="tag">Welsh</a> on <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/02/13/celtic-connections/" title="2:07 pm" rel="bookmark"><time class="entry-date" datetime="2015-02-13T14:07:36+00:00">13 February 2015</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/taylorian/author/edwardsj/" title="View all posts by edwardsj" rel="author">edwardsj</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-51" class="post-51 post type-post status-publish format-standard hentry category-history-of-the-library category-special-collections tag-architects-drawings tag-architects-libraries tag-architecture tag-sir-robert-taylor">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2014/12/19/unpacking-sir-robert-taylors-library/" rel="bookmark">Unpacking Sir Robert Taylor’s Library</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: justify"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-RobertTaylor-TayBookplate.jpg"><img class="alignleft wp-image-68" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-RobertTaylor-TayBookplate.jpg" alt="2014-09-RobertTaylor-TayBookplate" width="275" height="368" /></a><br />
+Most readers at the Taylor Institution Library, where the study of Modern European Literatures and Languages began in Oxford, are unaware that they owe the founding of their discipline at the University, as well as that discipline’s Library and the beginnings of its extensive research resources, to a prominent 18<sup><span style="font-size: small">th</span></sup> century architect. Still less do they realise that this architect’s own library has survived, and that it is housed in the very building that bears his name: Sir Robert Taylor (1714-1788).</p>
+<p style="text-align: justify"><em>Left: Taylor Institution Library, Bookplate, Sir Robert Taylor’s Library Collection (after 1849)</em></p>
+<p style="text-align: justify">Similarly, many an architectural historian – with the notable exception of Sir Howard Colvin (1919-2007), in <em>A biographical dictionary of British architects, 1600-1840</em> – has been unaware of the survival of Sir Robert’s library in Oxford. Indeed, one recent viewer of the collection surmised that the collection’s generally good state of preservation might have been due to its negligible exposure. It seems likely that, up to 2014, the 300<sup><span style="font-size: small">th</span></sup> anniversary of Taylor’s birth, his books had seldom been consulted since (and possibly before) their presumed arrival at the newly built Taylorian in the mid-19<sup><span style="font-size: small">th</span></sup> century. Walter Benjamin described unpacking his books after two years of darkness; the darkness that befell Sir Robert Taylor’s books lasted around two centuries. Clearly, in 2014 it was time for the collection to receive greater attention. In Sir Robert&#8217;s anniversary year, therefore, a selection of works from his collection was shown in a temporary exhibition organised and discussed by architectural historian Dr. Matthew Walker. (For podcast, <a href="http://podcasts.ox.ac.uk/special-lecture-art-architects-books-and-buildings-sir-robert-taylor-his-collection-taylor" target="_blank"><span style="color: #0066cc">click here</span></a> [takes several seconds to load].)</p>
+<p style="text-align: justify">S<img class="alignright wp-image-94" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-10-Sir-Robert-Taylor-portrait-BBC.jpg" alt="(c) Taylor Institution; Supplied by The Public Catalogue Foundation" width="250" height="314" />ir Robert Taylor (1714-1788), architect of the Bank of England as well as designer of many fine town and country houses, died a very rich man, leaving some £180,000 of which £65,000 was ultimately allocated to the University of Oxford “for erecting a proper Edifice … for establishing a Foundation for the teaching &amp; improving the European Languages”.</p>
+<p style="text-align: justify"><em>Right: William Miller(?), Sir Robert Taylor (ca. 1782/1783) (Taylor Institution]</em></p>
+<p style="text-align: justify">A legal dispute regarding this bequest delayed the foundation of the Taylor Institution and ensured that its building was completed, by C.R. Cockerell (born the year of Taylor’s death &#8212; 1788-1863), only in 1844. The Library opened early in 1849.</p>
+<p style="text-align: center"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-TayBldg-C19thImate.jpg"><img class="aligncenter wp-image-53 size-full" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-TayBldg-C19thImate.jpg" alt="2014-09-TayBldg-C19thImate" width="464" height="298" /></a><em>Above: The Taylor Institution, University of Oxford (Architect C.R. Cockerell, 1841-45)</em></p>
+<p style="text-align: justify">Sir Robert’s decision to bequeath such a large sum to establish a centre for the study and teaching of European languages has never been satisfactorily explained but it seems likely that he was influenced by his journey to Rome in 1742. There, and en route to that city, he would have needed to negotiate the various languages spoken and read by the many artists, architects, patrons and others he encountered. Certainly, the books Taylor owned were not just in English.</p>
+<p style="text-align: justify">It is not known whether Taylor acquired his foreign language books (mostly in French or Italian, with a few in German or Latin) while travelling or, rather, acquired them after he had established his architectural practice in London. With some notable exceptions, his library (comprising some 70 volumes) is a typical example of a mid-18<sup><span style="font-size: small">th</span></sup> century English architect’s library representing, like its owner, the transition from Palladianism to Neo-Classicism. The earliest work in the collection is an Italian Renaissance architectural treatise (Scamozzi 1615 [see image below]) by the architect who completed a number of Andrea Palladio&#8217;s unfinished projects.</p>
+
+		<style type='text/css'>
+			#gallery-19 {
+				margin: auto;
+			}
+			#gallery-19 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-19 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-19 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-19' class='gallery galleryid-51 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2014/12/19/unpacking-sir-robert-taylors-library/2014-09-scamozzi/'><img width="98" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-Scamozzi.jpg" class="attachment-thumbnail" alt="Vincenzo Scamozzi, L’idea della architettura universale (Venice, 1615) [Shelfmark ARCH.TAY.66]" aria-describedby="gallery-19-60" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-19-60'>
+				Vincenzo Scamozzi, L’idea della architettura universale (Venice, 1615) [Shelfmark ARCH.TAY.66]
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2014/12/19/unpacking-sir-robert-taylors-library/2014-09-vitruvius/'><img width="113" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-Vitruvius.jpg" class="attachment-thumbnail" alt="Vitruvius, Les dix livres d&#039;architecture, trans. Claude Perrault (Paris, 1673) [Shelfmark ARCH.TAY. 69]" aria-describedby="gallery-19-66" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-19-66'>
+				Vitruvius, Les dix livres d&#8217;architecture, trans. Claude Perrault (Paris, 1673) [Shelfmark ARCH.TAY. 69]
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2014/12/19/unpacking-sir-robert-taylors-library/2014-09-stuartrevett/'><img width="95" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-StuartRevett.jpg" class="attachment-thumbnail" alt="James Stuart and Nicholas Revett, The Antiquities of Athens, Measured and Delineated, Vol. 1 (London, 1762) [Shelfmark ARCH.TAY.68]" aria-describedby="gallery-19-65" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-19-65'>
+				James Stuart and Nicholas Revett, The Antiquities of Athens, Measured and Delineated, Vol. 1 (London, 1762) [Shelfmark ARCH.TAY.68]
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p style="text-align: justify">Fairly standard works in Taylor&#8217;s collection include those on Classical architecture (Vitruvius, trans. Perrault 1673 [see image above]; Stuart &amp; Revett 1762 [see images above and below); on Italian Renaissance architecture (e.g. Palladio, translated by Isaac Ware 1738 [not illustrated: Shelfmark ARCH.TAY.35]); and on 17<sup><span style="font-size: small">th</span></sup> and 18<sup><span style="font-size: small">th</span></sup> century English architecture (e.g. Isaac Ware, <em>The Designs of Inigo Jones and Others</em> (London, 1735) [not illustrated: Shelfmark ARCH.TAY.70]), including the only text to include a design of Taylor&#8217;s (Campbell 1715-1725 [see image below]).</p>
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-StuartRevett-FoldOut.jpg"><img class="aligncenter wp-image-64 " src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-StuartRevett-FoldOut.jpg" alt="2014-09-StuartRevett-FoldOut" width="598" height="341" /></a></p>
+<p style="text-align: center"><em>Above: James Stuart and Nicholas Revett, The Antiquities of Athens, Measured and Delineated, Vol. 1 (London, 1762) [Shelfmark ARCH.TAY.68] (One of the large format, fold-out pages)</em></p>
+<p style="text-align: justify">Yet the collection also contains some publications that would have been slightly less representative of the typical 18<sup>th</sup> century architect’s library. Most notable is the magnificent, large format 17 volume set, in remarkably good condition, of works by the Italian architect and printmaker, Giovanni Battista Piranesi (1720-1778). The set includes his <em>Le Antichità Romane</em> (1756 [see image below]) as well as the compelling <em>Carceri d’invenzione</em> (begun 1745, first published 1750 [see image below]).</p>
+<p style="text-align: justify"><strong><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/12/2014-12-Piranesi-AntichitaRomane.jpg"><img class="wp-image-122 aligncenter" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/12/2014-12-Piranesi-AntichitaRomane.jpg" alt="2014-12-Piranesi-AntichitaRomane" width="500" height="331" /></a></strong></p>
+<p style="text-align: center"><em>Above: G.B. Piranesi, Le antichità romane (Rome, 1756) [Shelfmark ARCH.TAY.44-47]</em></p>
+<p style="text-align: justify">Ostensibly antiquarian explorations of Rome’s classical remains, Piranesi’s images are not based on the faithful observation and precise measurements found in other such studies (e.g. Desgodetz 1682 [see image below]).<br />
+<a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-Desgodetz.jpg"><img class="alignleft wp-image-54" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-Desgodetz.jpg" alt="2014-09-Desgodetz" width="205" height="298" /></a><br />
+<em> Left: Antoine Desgodets, Les edifices antiques de Rome (Paris, 1682) [Shelfmark ARCH.TAY.24]</em></p>
+<p style="text-align: justify">Rather, they are almost an anticipation of the Romantic, Gothic or even Post-Modern imagination, showing dramatic, sometimes disturbing scenes comprising heavily overgrown ruins; or gigantic subterranean vaults dominating tiny human figures, with terrifying machines and staircases leading nowhere. While Piranesi was extensively collected by the English, including architects, Taylor’s library shows his predilection for this artist-architect.</p>
+<p style="text-align: justify">The history of the collection between Sir Robert’s death and the opening of the Taylor Institution Library 61 years later remains unclear. One book in the collection – the 3<sup>rd </sup>edition of William Chambers’ <em>A treatise on the decorative part of civil architecture</em> (London, 1791 [not illustated: Shelfmark ARCH.TAY.14]) – was published three years after he died and it’s possible that his son, Michael Angelo (1757-1834), acquired it; certainly, its presence indicates that some attention continued to be paid to the collection. Sir Robert seems not to have had his own bookplate and the only evidence of the collection’s origin is an early Taylor Institution Library bookplate, “Ex legato Roberti Taylor, Militis, Fundatoris”, added to each volume.</p>
+<p style="text-align: justify">It’s also clear that the architect’s entire collection did not survive 100% intact. In terms of his book collection, the library of his near contemporary, the architect Sir William Chambers (1723-1796), comprised 140 items, twice the size of Sir Robert’s collection as it arrived at the Taylorian. More indicative of the collections&#8217; limited survival is the fact that very few of Taylor’s own designs survived, and none of the three volumes now at the Taylorian that do contain designs includes architectural plans or elevations in his hand.</p>
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-RobertTaylor-Chimneypiece.jpg"><img class="alignleft wp-image-69" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-RobertTaylor-Chimneypiece.jpg" alt="2014-09-RobertTaylor-Chimneypiece" width="100" height="184" /></a>The Taylorian possesses one small volume comprising decorative designs, some hand coloured, of rococo chimney pieces (in rather poor condition); one very large volume of mounted drawings, most of them for funerary monuments and not necessarily in Taylor’s hand or of works by him; and one manuscript “textbook” on geometry, “mensuration” and perspective.</p>
+<p><em>Left: Robert Taylor Chimneypiece n. 8, Sir R. Taylor’s Designs (bound ms., 1750s?) [Shelfmark ARCH.TAY.2]</em></p>
+<p>&nbsp;</p>
+
+		<style type='text/css'>
+			#gallery-20 {
+				margin: auto;
+			}
+			#gallery-20 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;
+			}
+			#gallery-20 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-20 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
+		</style>
+		<div id='gallery-20' class='gallery galleryid-51 gallery-columns-3 gallery-size-thumbnail'><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2014/12/19/unpacking-sir-robert-taylors-library/2014-09-piranesi-carceri-cropped/'><img width="124" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/12/2014-09-Piranesi-Carceri-Cropped.jpg" class="attachment-thumbnail" alt="G.B. Piranesi Carceri d’invenzione (Rome, 1761) [Shelfmark ARCH.TAY.59]" aria-describedby="gallery-20-151" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-20-151'>
+				G.B. Piranesi Carceri d’invenzione (Rome, 1761) [Shelfmark ARCH.TAY.59]
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2014/12/19/unpacking-sir-robert-taylors-library/2014-09-roberttaylor-geometrymeasuration/'><img width="112" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-RobertTaylor-GeometryMeasuration.jpg" class="attachment-thumbnail" alt="Sir Robert Taylor(?), Problems in Geometry and Mensuration (bound ms., n.d.) [Shelfmark ARCH.TAY.3]" aria-describedby="gallery-20-70" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-20-70'>
+				Sir Robert Taylor(?), Problems in Geometry and Mensuration (bound ms., n.d.) [Shelfmark ARCH.TAY.3]
+				</dd></dl><dl class='gallery-item'>
+			<dt class='gallery-icon portrait'>
+				<a href='http://blogs.bodleian.ox.ac.uk/taylorian/2014/12/19/unpacking-sir-robert-taylors-library/2014-12-roberttaylor-asgill/'><img width="100" height="150" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/12/2014-12-RobertTaylor-Asgill.jpg" class="attachment-thumbnail" alt="Sir Robert Taylor&#039;s Design for Asgill House, Surrey IN: Colin Campbell Vitruvius Britannicus, or The British architect, (London, 1767-1771) [vol. 4] [Shelfmark ARCH.TAY.11]" aria-describedby="gallery-20-121" /></a>
+			</dt>
+				<dd class='wp-caption-text gallery-caption' id='gallery-20-121'>
+				Sir Robert Taylor&#8217;s Design for Asgill House, Surrey IN: Colin Campbell Vitruvius Britannicus, or The British architect, (London, 1767-1771) [vol. 4] [Shelfmark ARCH.TAY.11]
+				</dd></dl><br style="clear: both" />
+		</div>
+
+<p><em>Clare Hills-Nova, Italian Literature and Language Librarian, Taylor Institution Library, Bodleian Libraries</em></p>
+<p><strong>Further reading</strong></p>
+<p>Daniel M. Abramson, <em>Building the Bank of England: money, architecture, society, 1694-1942</em> (London, 2005) [Sackler: Shelfmark NA6245.G72 L633 ABR 2005]</p>
+<p>Walter Benjamin, “Unpacking my library” (first published in <em>Die literarische Welt</em>,1931) <em>Illuminations</em>, ed. Hannah Arendt (New York, 1969) [Sackler: Shelfmark PN75.B25 BEN 1992]</p>
+<p>Marcus Binney, <em>Sir Robert Taylor: from rococo to neoclassicism</em> (London, 1984) [Taylorian: Shelfmark TAY.2.A.1]</p>
+<p><em>&#8220;The European languages&#8221;: a selection of books from the Taylor Institution in commemoration of the death of Sir Robert Taylor, 27 September 1788</em> (Oxford, 1988) [Taylorian: Shelfmark TAY.3.D]</p>
+<p>Howard Colvin, <em>A biographical dictionary of British architects, 1600-1840</em> (London, 1978); 4th ed. (New Haven &amp; London, 2008) [Sackler: Shelfmark NA996.C6 COL 2008]</p>
+<p>J. Gilson, <em>Books from the Library of Sir Robert Taylor in the Library of the Taylor Institution, Oxford: a checklist</em> (Oxford, 1973) [Taylorian: Shelfmark TAY.3.C]</p>
+<p>John Harris &amp; Malcolm Baker, “Taylor, Sir Robert (1714–1788)” <em>Oxford Dictionary of National Biography</em> (Oxford, 2004) [Bodleian: Shelfmarks B3.101 (LRR) and S.DNB (U. Cam.) Online ed., Jan 2013 [http://www.oxforddnb.com/view/article/27077; Sir Robert Taylor (1714–1788): doi:10.1093/ref:odnb/27077]</p>
+<p>Jill Hughes, “Taylor Institution Library” <em>Handbuch der historischen Buchbestände in Deutschland, Österreich und Europa.</em> Ed. by B. Fabian (Hildesheim, 2003) [Online ed., http://www.b2i.de/fabian?Taylor_Institution_Library]</p>
+<p>J. Watkin, ed., <em>Sale catalogues of libraries of eminent persons</em>, v. 4: <em>Architects</em> (London, 1972) [Sackler: Shelfmark Z988 SAL 1971]</p>
+<p><strong>Photography</strong></p>
+<p>BBC-Your Paintings (Public Catalogue Foundation)<br />
+Vicky Brown, Visual Resources Curator, History of Art Department, University of Oxford<br />
+Nick Hearn, French &amp; Russian Subject Consultant, Taylor Institution Library<br />
+James Legg, Taylor Librarian, Taylor Institution Library<br />
+Other Taylor Institution Library staff members</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/history-of-the-library/" rel="category tag">History of the Library</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/special-collections/" rel="category tag">Special Collections</a> and tagged <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/architects-drawings/" rel="tag">Architects' drawings</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/architects-libraries/" rel="tag">Architects' libraries</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/architecture/" rel="tag">Architecture</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/sir-robert-taylor/" rel="tag">Sir Robert Taylor</a> on <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2014/12/19/unpacking-sir-robert-taylors-library/" title="6:10 pm" rel="bookmark"><time class="entry-date" datetime="2014-12-19T18:10:25+00:00">19 December 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/taylorian/author/hillsnovac/" title="View all posts by hillsnovac" rel="author">hillsnovac</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+							
+	<article id="post-29" class="post-29 post type-post status-publish format-standard hentry category-history-of-the-library category-special-collections tag-c-r-cockerell tag-friedrich-max-muller tag-hermann-georg-fiedler tag-sir-robert-taylor">
+				<header class="entry-header">
+									<h1 class="entry-title">
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2014/11/13/history-of-the-taylor-institution-library-and-its-collections/" rel="bookmark">History of the Taylor Institution Library and its Collections</a>
+			</h1>
+								</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p style="text-align: justify">The Taylor Institution is the centre for the study of medieval and modern European languages, except English, and was Oxford&#8217;s first specialist centre to combine library, teaching and administration in one building.</p>
+<p style="text-align: center"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-TayBldgForBlog-Jill.jpg"><img class="aligncenter wp-image-37" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-TayBldgForBlog-Jill.jpg" alt="2014-09-TayBldgForBlog-Jill" width="431" height="323" /></a>Above: <em>The Taylor Institution, University of Oxford</em> (Architect C.R. Cockerell, 1841-45)</p>
+<p style="text-align: left">It owes its name and its existence to the highly successful London architect Sir Robert Taylor (1714-1788), sometime Surveyor to the Bank of England, Architect of the King&#8217;s Works and Sheriff of London.</p>
+<p style="text-align: justify"><img class="alignleft wp-image-38" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-SirRobertTaylor.jpg" alt="(c) Taylor Institution; Supplied by The Public Catalogue Foundation" width="400" height="503" /></p>
+<p style="text-align: justify">Left: William Miller(?) <em>Sir Robert Taylor</em> (ca. 1782/1783)</p>
+<p style="text-align: justify">In a codicil to his will Sir Robert left the residue of his large fortune (£180,000), in the first instance to his son and, in the event of his dying without issue, to the Chancellor and Scholars of the University of Oxford for buying freehold land and ‘erecting a proper edifice thereon, and for establishing a foundation for the teaching and improving the European languages’. After various legal complications and the death of Sir Robert&#8217;s son, Michael Angelo, in 1834, the University inherited the sum of £65,000. It was then decided to combine this project with the plan to build a University art gallery, now the Ashmolean Museum. An architectural competition to design two buildings entirely distinct in their internal arrangements but to form ‘parts of an architectural design which is required to be of a Grecian character’ was announced in 1839. The winning design by C. R. Cockerell resulted in a handsome neoclassical building, completed in 1844.</p>
+<p style="text-align: justify">The nature and constitution of the Taylorian were not decided without some controversy. The dominance of classical studies and the influence of High Church religion resulted in an environment hostile to the introduction of this new area of teaching. Regulations for the Institution were approved in part in April 1845, a board of nine curators from within the senior ranks of the University being then appointed. It was a further two years before full agreement was reached and the Taylorian statute finally passed on 4 March 1847. The aim was to teach those languages ‘essential to Diplomatic or commercial pursuits’ and possessing a ‘sufficient’ literature. French and German were first priority, followed later by Italian, Spanish, Slavonic languages, Byzantine and modern Greek and Portuguese and, briefly in the late 19th century, Scandinavian languages. In the first decades teaching was at an elementary level and it was not until 1903 that an Honour School of Modern Languages was at last established.</p>
+<p style="text-align: justify">The purpose of the library has always been to provide a working collection to support the study of European languages rather than to be a rare books collection, although inevitably early publications were acquired by the library, often as gifts.</p>
+<p style="text-align: center"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-TayRareBooks.jpg"><img class="aligncenter wp-image-45" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-TayRareBooks.jpg" alt="2014-09-TayRareBooks" width="400" height="244" /></a>Above: <em>Taylor Institution Library: Rare Book Room volumes</em></p>
+<p style="text-align: justify">In the 19th century the collecting policy was eclectic. Although philology and European belles-lettres were the main areas covered, other subjects such as history, theology and even jurisprudence are indicated in the locator lists. The focus of collecting in the 20th and 21<sup>st</sup> centuries has been increasingly restricted to the core subject matter, i.e. all the languages and literatures of continental Europe (plus the Celtic languages), especially those studied at Oxford.</p>
+<p style="text-align: justify">During the early period of the library&#8217;s existence books for purchase were suggested by the teachers and decided on by the Library Committee of the Curators at their weekly meetings. The first librarian, John Macray (1796-1878), was appointed on 23 March 1847, the first books bought in May 1848, but from the Curators&#8217; minutes it seems that the library did not open until early in 1849. Books were not on open shelves except to senior members of the University, and until 1856 no borrowing was allowed. The early years saw only a slow growth of the book stock since the Institution&#8217;s income was largely taken up with repayments of the building costs.</p>
+<p style="text-align: justify"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-JamesNorthcote-RobertPooleFinch-1791.jpg"><img class="alignleft wp-image-41 size-full" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-JamesNorthcote-RobertPooleFinch-1791.jpg" alt="2014-09-JamesNorthcote-RobertPooleFinch-1791" width="252" height="394" /></a></p>
+<p style="text-align: justify">Two collections antedated the library and were moved there in the first year, namely the architectural books of the founder and the large collection of books and works of art bequeathed to the University by Robert Finch.</p>
+<p style="text-align: justify">Left: James Northcote, <em>Robert Poole Finch</em> (1791)</p>
+<p>The library also provided a temporary home for two other unrelated collections (the Hope Entomological from 1849 and the Strickland Ornithological from 1854) until they were moved to the newly built University Museum in 1860.</p>
+<p style="text-align: justify">The library&#8217;s first published catalogue, in 1861, listed some 6,000 book titles, two thirds of which represented works in the Finch collection. From 1858 to the end of the 19th century about £250 per annum was spent on acquisitions with a further £80-£100 for bindings. From time to time special supplementary grants would be made.</p>
+<p style="text-align: left"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/10/2014-10-Friedrich-Max-MullerBy-GeorgeSauter.jpg"><img class="wp-image-104 alignleft" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/10/2014-10-Friedrich-Max-MullerBy-GeorgeSauter.jpg" alt="(c) Taylor Institution; Supplied by The Public Catalogue Foundation" width="300" height="362" /></a><br />
+In 1874, at the suggestion of Friedrich Max Müller (1823-1900), the Taylorian&#8217;s second Professor of Modern European Languages and for many years a most active Curator and supporter of the library, the sum of £500 was provided for filling gaps in the collection particularly in the early period of literature. Consequently most of the library&#8217;s incunables and Reformation pamphlets were acquired in the 1870s and 1880s.</p>
+<p style="text-align: left">Left: George Sauter, <em>Friedrich Max Müller</em> (date unknown)</p>
+<p style="text-align: justify">The last quarter of the 19th century was a period of particular activity and growth. On the retirement of the first Librarian in 1871 the Curators resolved to elect ‘a competent Librarian and not simply a Library Clerk’. Accordingly, Dr Heinrich Krebs (1844-1921), was appointed on 12 May 1871 and was to remain in post for the next 50 years. In the early 1870s the collections, then numbering c. 13,000 items, were entirely reorganised and recatalogued by an assistant librarian from the Bodleian Library, George Parker. In 1895 the library was augmented by more than 1,000 vols mainly of early Spanish and Portuguese works bequeathed by Miss Williamina Mary Martin (1819-1895). By the end of the century some 350 titles were being acquired annually and the library subscribed to 114 periodicals and newspapers. The collection was said to number 40,000 vols in 1900.</p>
+<p style="text-align: justify"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-10-FiedlerBust-PhotoJamesLegg.jpg"><img class="alignleft wp-image-89" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-10-FiedlerBust-PhotoJamesLegg.jpg" alt="2014-10-FiedlerBust-PhotoJamesLegg" width="350" height="261" /></a><br />
+In the 20th century the library was greatly enhanced by bequests from teaching staff associated with the Institution such as Professor Hermann Georg Fiedler, (1862-1945) and by Oxford colleges depositing specialist collections, Oriel College being the first to do so in 1921.</p>
+<p style="text-align: justify">Left: <em>Hermann Georg Fiedler</em></p>
+<p style="text-align: justify">Major events in the library&#8217;s history must include the opening of a substantial extension to the building in 1932, which facilitated wholesale reclassification of the modern stock in the 1960s and 1970s and provision of open shelf access for graduates.</p>
+<p style="text-align: center"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-TayExtension.jpg"><img class="wp-image-42" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-TayExtension.jpg" alt="2014-09-TayExtension" width="400" height="300" /></a><br />
+Above: <em>Taylor Institution: 1930s extension</em></p>
+<p style="text-align: justify">From 1964, following the Parry report on Latin American studies, the library began to build up substantial Latin American collections.</p>
+<p style="text-align: justify">In 1968, because of pressure on space, the Slavonic and Modern Greek collections were removed from the main building, and separately housed and organised at 67 St Giles&#8217;. In the late 1970s, these collections transferred to new quarters, at 41-47 Wellington Square, as did the Institution’s administrative and academic staff.</p>
+<p style="text-align: center"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-TABS.jpg"><img class="wp-image-43 aligncenter" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-TABS.jpg" alt="2014-09-TABS" width="400" height="300" /></a>Above: <em>Taylor Institution Library, Wellington Square, housing Slavonic and Modern Greek collections</em></p>
+<p><a href="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-VoltaireRm.jpg"><img class="alignleft wp-image-44" src="http://blogs.bodleian.ox.ac.uk/taylorian/files/2014/09/2014-09-VoltaireRm.jpg" alt="2014-09-VoltaireRm" width="300" height="225" /></a><br />
+Left: <em>Taylor Institution Library, Voltaire Room</em></p>
+<p style="text-align: justify">1975 saw two far-reaching changes in the library, namely the opening of the Voltaire Room, established to promote study on the Enlightenment, and the creation of the University&#8217;s first out-of-town book repository in Nuneham Courtenay (now superseded by the Book Storage Facility (BSF) in Swindon, which opened in October 2010 and is capable of holding 8.4 million volumes on 153 miles of shelving).</p>
+<p style="text-align: justify">In 1985 the library&#8217;s Germanic holdings took a new direction when the nearly 3,000 vols of Whitechapel Public Library&#8217;s Yiddish collection, containing many uncommon books from the first half of the 20th century, were acquired. In the present day the Taylorian continues to benefit from bequests such as the recent donation from the estate of distinguished medieval scholar Dr Olive Sayce, which contains rare books from the 16<sup>th</sup> to 19<sup>th</sup> centuries.</p>
+<p><em>Jill Hughes, former German Subject Librarian and Librarian-in-Charge, Taylor Institution Library</em></p>
+<p><em>Further reading</em><br />
+The above text has been adapted from a detailed description of the Library&#8217;s history and historic collections, published by Jill Hughes in the <a href="http://fabian.sub.uni-goettingen.de/cgi-bin/wiki.pl/wiki.pl?Taylor_Institution_Library" target="_blank">Handbuch der historischen Buchbestände in Deutschland. Hrsg. von Bernhard Fabian. Hildesheim: Olms Neue Medien, 2003.</a></p>
+<p><em>Photo credits</em><br />
+BBC-Your Paintings (Public Catalogue Foundation)<br />
+James Legg, Taylor Librarian, and others, Taylor Institution Library</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+			This entry was posted in <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/history-of-the-library/" rel="category tag">History of the Library</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/special-collections/" rel="category tag">Special Collections</a> and tagged <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/c-r-cockerell/" rel="tag">C.R. Cockerell</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/friedrich-max-muller/" rel="tag">Friedrich Max Müller</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/hermann-georg-fiedler/" rel="tag">Hermann Georg Fiedler</a>, <a href="http://blogs.bodleian.ox.ac.uk/taylorian/tag/sir-robert-taylor/" rel="tag">Sir Robert Taylor</a> on <a href="http://blogs.bodleian.ox.ac.uk/taylorian/2014/11/13/history-of-the-taylor-institution-library-and-its-collections/" title="2:34 pm" rel="bookmark"><time class="entry-date" datetime="2014-11-13T14:34:20+00:00">13 November 2014</time></a><span class="by-author"> by <span class="author vcard"><a class="url fn n" href="http://blogs.bodleian.ox.ac.uk/taylorian/author/edwardsj/" title="View all posts by edwardsj" rel="author">edwardsj</a></span></span>.								</footer><!-- .entry-meta -->
+	</article><!-- #post -->
+			
+			
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+			<div id="secondary" class="widget-area" role="complementary">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" class="searchform" action="http://blogs.bodleian.ox.ac.uk/taylorian/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/06/16/jean-cocteau-in-oxford/">Jean Cocteau in Oxford</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/06/01/a-manuscript-of-magna-carta-at-the-taylor-institution-library/">A Manuscript of Magna Carta at the Taylor Institution Library</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/15/futurism-fascism-and-the-art-of-war/">Futurism, Fascism, and the Art of War</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/04/20/soviet-realia-a-window-on-to-the-ussr/">Soviet realia: a window on to the USSR</a>
+						</li>
+					<li>
+				<a href="http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/30/martin-luther-at-the-taylor-institution-library/">Martin Luther at the Taylor Institution Library</a>
+						</li>
+				</ul>
+		</aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/06/'>June 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/05/'>May 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/04/'>April 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/03/'>March 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/taylorian/2015/02/'>February 2015</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/taylorian/2014/12/'>December 2014</a></li>
+	<li><a href='http://blogs.bodleian.ox.ac.uk/taylorian/2014/11/'>November 2014</a></li>
+		</ul>
+</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+	<li class="cat-item cat-item-31"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/archives/" >Archives</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/film-studies/" >Film Studies</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/history-of-the-library/" >History of the Library</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://blogs.bodleian.ox.ac.uk/taylorian/category/special-collections/" >Special Collections</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+			<li><a href="http://blogs.bodleian.ox.ac.uk/taylorian/wp-login.php?action=register">Register</a></li>			<li><a href="http://blogs.bodleian.ox.ac.uk/taylorian/wp-login.php">Log in</a></li>
+			<li><a href="http://blogs.bodleian.ox.ac.uk/taylorian/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogs.bodleian.ox.ac.uk/taylorian/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary -->
+	  </div><!-- #main .wrapper -->
+    <footer id="colophon" role="contentinfo">
+      <div class="site-info">
+        <a href="http://www.bodleian.ox.ac.uk/"><img src="/wp-content/themes/twentytwelve-child-bodleian/images/bodleian.png" alt="Bodleian Libraries"></a>
+        <p>
+          &copy; 2015 <a href="http://www.bodleian.ox.ac.uk/">Bodleian Libraries</a>
+          |
+          <a href="http://blogs.bodleian.ox.ac.uk/taylorian/accessibility">Accessibility</a>
+          |
+          <a href="http://blogs.bodleian.ox.ac.uk/taylorian/terms-of-use">Terms of Use</a>
+          |
+          <a href="http://blogs.bodleian.ox.ac.uk/taylorian/cookies">Cookies</a>
+        </p>
+      </div><!-- .site-info -->
+    </footer><!-- #colophon -->
+
+  <style type="text/css">/* <![CDATA[ */
+.cookie-policy, .cookie-policy .grid {
+  background: url('http://www.bodleian.ox.ac.uk/__data/assets/image/0018/116505/footer-pattern.png') repeat-x 0 -3px black;
+}
+.cookie-policy {
+  color: white;
+  font-size: 0.857em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.cookie-policy .grid {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1008px;
+}
+.cookie-policy .grid .twelve {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-left: 15px;
+  margin-right: 15px;
+  width: 978px;
+}
+.cookie-policy a.close {
+  background: url('http://www.bodleian.ox.ac.uk/__data/assets/image/0010/116497/close-cookie-policy-box.jpg') scroll no-repeat center center transparent;
+  display: block;
+  float: right;
+  margin: 3px 0 0 20px;
+  height: 18px;
+  width: 18px;
+}
+.cookie-policy .detail.for-desktop {
+  display: block;
+}
+.cookie-policy .detail.for-mobile {
+  display: none;
+}
+.cookie-policy .detail {
+  color: #bebebe;
+  padding: 3px 0;
+}
+.cookie-policy .detail a {
+  color: #ffffff;
+}
+.cookie-policy p {
+  margin: 2px 0;
+  font: 12px 'Arial', sans-serif;
+}
+/* ]]> */</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="application/javascript">
+/* Close cookie policy notice */
+function createCookie(name, value, days) {
+  if (days) {
+    var date = new Date();
+    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+    var expires = "; expires=" + date.toGMTString();
+  } else var expires = "";
+  document.cookie = name + "=" + value + expires + "; path=/";
+}
+
+function readCookie(name) {
+  var nameEQ = name + "=";
+  var ca = document.cookie.split(';');
+  for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+  }
+  return null;
+}
+
+function eraseCookie(name) {
+  createCookie(name, "", -1);
+}
+jQuery(function(){
+  jQuery('.cookie-policy a.close').click(function (e) {
+    e.preventDefault();
+    jQuery('.cookie-policy').hide();
+    createCookie('groupCookiePolicyClosed', 1, 30);
+  });
+  if (readCookie('groupCookiePolicyClosed')) {
+    jQuery('.cookie-policy a.close').parent().hide();
+  }
+});
+/* Close cookie policy - end*/
+</script>
+<div class="cookie-policy">
+  <div class="grid">
+    <div class="twelve">
+      <a href="#" title="Accept and close" class="close"></a>
+      <p class="detail for-desktop">This site uses cookies to support some content and functions, and also Google Analytics. By using this site you agree to their use. <a href="http://blogs.bodleian.ox.ac.uk/cookies">Find out more and opt out &raquo;</a></p>
+      <p class="detail for-mobile"><a href="http://blogs.bodleian.ox.ac.uk/cookies">This site uses cookies to support some content and functions, and also Google Analytics &raquo;/a></p>
+    </div>
+  </div>
+</div>
+  </div><!-- #page -->
+<script type="text/javascript">
+
+var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-4.0.7';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=a8fb056a2290deafe19ad5eef7d7ffa3"></script><script type='text/javascript' src='http://blogs.bodleian.ox.ac.uk/taylorian/wp-content/themes/twentytwelve/js/navigation.js?ver=1.0'></script>
+<!--wp_footer--></body>
+</html>

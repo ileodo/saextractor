@@ -1,0 +1,634 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<!--THIS FILE IS GENERATED FROM AN XML MASTER. DO NOT EDIT (4)-->
+<head>
+<title> High Performance Computing - inspiring bigger questions       </title>
+<link href="/favicon.ico" rel="icon" type="image/x-icon">
+<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="apple-touch-icon" href="/images/oucs-iphone-icon.png">
+<meta content="51.759480,-1.260209" name="ICBM">
+<meta content="GB-OXF" name="geo.region">
+<meta content="Oxford" name="geo.placename">
+<meta content="51.759480;-1.260209" name="geo.position">
+<meta content="en" name="DC.Language" scheme="ISO639-1">
+<meta content="IT Services, 13 Banbury Road, Oxford OX2 6NN, United Kingdom" name="DC.Creator">
+<meta content="webmaster@oucs.ox.ac.uk" name="DC.Creator.Address">
+<meta name="author" content="Sebastian Rahtz">
+<meta name="generator" content="Text Encoding Initiative Consortium XSLT stylesheets">
+<meta name="DC.Title" content="High Performance Computing - inspiring bigger questions       ">
+<meta name="DC.Type" content="Text">
+<meta name="DC.Format" content="text/html">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="/stylesheets/css/oucs.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/css/courses.css" media="screen" rel="stylesheet" type="text/css">
+    <!--[if IE]><link href="/stylesheets/css/ie_inner.css" rel="stylesheet" type="text/css"><![endif]-->
+    <!--[if lte IE 7]><link href="/stylesheets/css/ie7.css" rel="stylesheet" type="text/css"><![endif]-->   
+    <link href="/stylesheets/css/oucs_print.css" media="print" rel="stylesheet" type="text/css">
+<script type="text/javascript"><!--
+	    function startUp() {
+	  } 
+
+	--></script><script src="/stylesheets/js/jquery-1.10.1.js" type="text/javascript"><!--sillybug--></script>
+<script src="/stylesheets/js/jq-showhide.js" type="text/javascript"><!--sillybug--></script>
+<script src="/stylesheets/js/jquery-ui-1.10.3/ui/minified/jquery-ui.min.js" type="text/javascript"><!--sillybug--></script>
+<script src="/stylesheets/js/jquery.metadata.js" type="text/javascript"><!--sillybug--></script>
+<script src="/stylesheets/js/jquery.tablesorter.js" type="text/javascript"><!--sillybug--></script>
+<script src="/stylesheets/js/jquery.validate.js" type="text/javascript"><!--sillybug--></script>
+<script src="/stylesheets/js/courses.js" type="text/javascript"><!--sillybug--></script>
+<script src="/stylesheets/js/combobox.js" type="text/javascript"><!--sillybug--></script>
+<script src="/stylesheets/js/autosuggest.js" type="text/javascript"><!--sillybug--></script>
+<link href="/stylesheets/js/jquery-ui-1.10.3/themes/base/minified/jquery-ui.min.css" media="screen" rel="stylesheet" type="text/css">
+<meta name="term" content="Trinity">
+<meta name="os" content="">
+<meta name="status" content="places available">
+<style type="text/css" id="jsremovethis">
+		     .bookedmsg { display: none } 
+    </style>
+<script type="text/javascript"> //
+var nocart = 0;
+function doJS()
+{
+
+// this works for firefox...
+    var stylehack = document.getElementById('jsremovethis');
+    var stylePar = stylehack.parentNode;
+    stylePar.removeChild(stylehack);
+
+    if (document.getElementById('sortablenote'))
+    {
+	document.getElementById('sortablenote').innerHTML = "You can click on any column title to re-sort the list.";
+    }
+
+    // test for document.cookie bug in Safari 3 
+
+    var testcookie = testDocumentCookie();
+    if (!testcookie)
+    {
+        if (document.getElementById('cookiewarning'))
+        {
+              var cw = document.getElementById('cookiewarning');
+              cw.innerHTML = "Warning: your browser is not handling cookies correctly in Javascript. You can still book online, but without the full 'shopping cart' functionality. This is a known issue with Safari 3 on Mac OS 10.4 (Tiger): for more information, please see <a href=\"http://www.oucs.ox.ac.uk/itlp/courses/safari.xml\">advice for Safari users<\/a>";
+              cw.style.border = "2px solid red";
+              cw.style.padding = "5px";
+
+        }
+        nocart = 1;
+        return;
+    }
+
+    var alinks = new Array;
+    buttonSpans = document.getElementsByTagName("span");
+
+    for ( var i=0; i < buttonSpans.length; i++ )
+    {
+
+	var span = buttonSpans[i];
+        var spanClass = span.className; // getAttribute doesn't work with class in IE7
+	
+	if (spanClass == "cartbutton")
+	{
+
+	    var idattr = span.getAttribute('id');
+
+	    if ( idattr.substr( 0, 11 ) == "cartbutton_" )
+	    {
+		var ahrefs = span.getElementsByTagName('a');
+	    
+		for ( var j=0; j < ahrefs.length; j++ )
+		{
+		    var alink = ahrefs[j];
+		    alink.getAttribute('href');
+		    alink.setAttribute('href',"javascript:void(0)");
+		}
+	    }
+	}
+
+        // hack for IE because removing the style from the head
+        // doesn't work...
+
+        if (spanClass == "bookedmsg")
+        {
+            span.style.display = "inline";
+        }
+
+    }
+}
+
+function testDocumentCookie() {
+
+     document.cookie = "test_document_cookie=test_value;path=/;";
+     var tc = getCookieValue("test_document_cookie");
+     if (!tc) 
+     { 
+        return false;
+     }
+
+     return true;
+
+}
+
+function getElementsByClass(classname, node) {
+
+    if(!node) node = document.getElementsByTagName("body")[0];
+    var arr = [];
+    var reg = new RegExp('\b' + classname + '\b');
+    var els = node.getElementsByTagName("*");
+    for(var i=0,j=els.length; i<j; i++)
+    {
+	if(reg.test(els[i].className))arr.push(els[i]);
+	return arr;
+    }
+}
+
+function numberCookie(cookieValue) 
+{
+     if (cookieValue)
+     {
+	 var myCookieString = cookieValue;
+	 var splitRegExp = "|";
+	 var myCookieArray = myCookieString.split(splitRegExp);
+	 var myCookieLength = myCookieArray.length - 1; // because there is always a null element at the beginning...
+     }
+     else
+     {
+	 var myCookieLength = 0;
+     }
+
+     return myCookieLength;
+ 
+}
+
+function getCookieValue(cookieName) 
+{
+	var cookieValue = document.cookie;
+
+        var cookieStartsAt = cookieValue.indexOf(" " + cookieName + "=");
+	if (cookieStartsAt == -1)
+	{
+		cookieStartsAt = cookieValue.indexOf(cookieName + "=");
+	}
+
+	if (cookieStartsAt == -1)
+	{
+		cookieValue = null;
+	}
+	else
+	{
+		cookieStartsAt = cookieValue.indexOf("=", cookieStartsAt) + 1;
+	
+		var cookieEndsAt = cookieValue.indexOf(";", cookieStartsAt);
+	
+		if (cookieEndsAt == -1)
+		{
+		    cookieEndsAt = cookieValue.length;
+		}
+		cookieValue = unescape(cookieValue.substring(cookieStartsAt,cookieEndsAt));
+	}
+
+	return cookieValue;
+}
+	 
+function setCookie(cookieName, cookieValue, cookiePath, cookieExpires) 
+{
+	cookieValue = escape(cookieValue);
+	  
+	if (cookieExpires == "")
+	{
+		var expireTime = new Date();
+		expireTime.setUTCMinutes(expireTime.getUTCMinutes() + 2880); // 1 day
+		cookieExpires = expireTime;
+	}
+
+	if (cookiePath != "")
+	{
+		cookiePath = ";Path=" + cookiePath + ";Domain=it.ox.ac.uk";
+	}
+	  
+	document.cookie = cookieName + "=" + cookieValue + ";expires=" + cookieExpires + cookiePath;
+
+}
+
+function add_to_cart(code,pid,title,day,status,cost,sessions,location_name,location_addr,location_oxp_id) 
+{
+        title = encodeURIComponent(title); // urlencode title in case of special characters
+
+	var codeMatch = "|" + pid + "~";
+	var courseRegExp = new RegExp(codeMatch);
+
+	// get cookie contents
+
+	var cookieValues = getCookieValue("oucs-courses");
+
+	// check whether the new course to be added is already there 
+
+	if (courseRegExp.test(cookieValues))
+	{
+	    cookieValues = cookieValues + "|" + code + "~" + pid + "~" + title + "~" + day + "~" + status + "~" + cost + "~" + sessions + "~" + location_name + "~" + location_addr + "~" + location_oxp_id;
+	    // alert("new cookie values = " + cookieValues);
+	    
+	    // set cookie with new contents & write to cart
+	    // format is |code~pid~title~date~status~cost~sessions~location_name~location_addr~location_oxp_id
+
+	    setCookie("oucs-courses",cookieValues,"/","");
+	    updateCart();
+	}
+	else
+	{
+	    // test only: should never see this!
+	    alert("Already booked!");
+	}
+}
+
+function updateCart() 
+{
+    var cookieValues = getCookieValue("oucs-courses");
+    var total = numberCookie(cookieValues);
+    var myCartContents = document.getElementById("cartcontents");
+    if (total == 0)
+    {
+	myCartContents.innerHTML = "You have not yet booked any courses.";
+    }
+    else
+    {
+	if (total == 1)
+	{
+	    myCartContents.innerHTML = " You have <strong>1<\/strong> course in your basket.";
+	} 
+	else
+	{
+	    myCartContents.innerHTML =  "You have <strong>" + total + "<\/strong> courses in your basket.";
+	}
+    }
+//    var el =  document.getElementById("jsWarning");
+//    el.style.display="none";
+    if (nocart == 0)
+    {
+       el  =  document.getElementById("cart");
+       el.style.display="block";
+    }
+}
+
+
+function removeButton(pid) 
+{
+    var cartButtonAttr = "cartbutton_" + pid;
+    var elementButton = document.getElementById(cartButtonAttr);
+    var newHTML = "<span class='bookedmsg'>In your basket<\/span>";
+    elementButton.innerHTML = newHTML;
+}
+
+function showCookie(cookieName) 
+{
+    var myCookie = getCookieValue(cookieName);
+    alert("cookie value = " + getCookieValue(cookieName));
+}
+    //
+    </script><script type="text/javascript">
+//
+states=new Array()
+function hideallExcept(elm) {
+ for (var i = 0; i < states.length; i++) {
+ var layer;
+ if (layer = document.getElementById(states[i])) {
+    if (elm!= states[i]) {
+      layer.style.display = "none";
+     }
+    else {
+    layer.style.display = "block";
+     }
+   }
+  }
+}
+function showall() {
+
+for (var i = 0; i < states.length; i++) {
+ var layer;
+  if (layer = document.getElementById(states[i]) ) {;
+       layer.style.display = "block";
+     }
+  }  
+}
+//
+</script><script type="text/javascript"> //
+
+$(document).ready(function(){
+
+
+// If there are no courses in next thirty days, default to showing all future
+
+      if (!$('tr').hasClass('thirtydays'))
+      {
+          $('#courses_summary').append('<p id="noCourses">There are no courses in the next 30 days.</p>');
+          showAll();
+      }
+      else 
+      {
+          showThirty();
+      }
+
+      $('#showHide30').click(toggleThirtyDays); 
+
+      addAZList();
+
+      $('#atozlist li').click(azShowHide);
+
+   });
+
+function showThirty() {
+
+      $('tr.future').hide();
+      if (!$('tr').hasClass('thirtydays'))
+      {
+         $('#noCourses').show();
+      } 
+      $('#showHide30').text("Show all future courses");
+      $('#showHide30Title').text("Next 30 days' courses");
+      $('#showHide30').removeClass("all");
+      $('#showHide30').addClass("thirty");
+}
+
+function showAll() {
+
+      $('#noCourses').hide();
+      $('#showHide30').text("Show next 30 days only");
+      $('#showHide30Title').text("All future courses"); 
+      $('#showHide30').removeClass("thirty");
+      $('#showHide30').addClass("all");
+      $('tr.future').show();
+}
+
+function toggleThirtyDays() {
+   
+  if ($('#showHide30').hasClass("thirty")) { showAll(); }
+  else if ($('#showHide30').hasClass("all")) { showThirty(); }
+
+}
+
+function addAZList() {
+
+      var chars = new Array;
+      var count = 0;
+
+ //     <div id="catIndex"></div>
+
+//     <div id="atozCat">
+
+      $('#atozCat').before('<div id="catIndex"></div>');
+
+      var list = document.createElement("ul");
+      list.setAttribute("id","atozlist");
+      list.setAttribute("class","azindex");
+
+      var divs = $('div .atozdiv');
+
+      for (var d = 0; d < divs.length; d++)
+      {
+           var char = divs[d].getAttribute("id");
+           char = char.replace(/^cat_([A-Z])/, "$1");
+           var li = document.createElement("li");
+           li.setAttribute("n",char);
+           li.setAttribute("title","Click to limit to courses beginning with " + char);
+           li.innerHTML = char;
+           list.appendChild(li);
+      }
+
+      var showAll = document.createElement("li");
+      showAll.setAttribute("n","all");
+      showAll.setAttribute("title","Click to show all courses");
+      showAll.innerHTML = "Show&nbsp;all";
+      list.appendChild(showAll);
+
+      $('#catIndex').append(list);
+
+}
+
+function azShowHide() {
+
+  var char = $(this).attr("n");
+  if (char == "all")
+  {
+     $("div.atozdiv").show();
+  }
+  else 
+  {
+     var divId = char.replace(/^([A-Z])$/, "cat_$1");
+     $("div.atozdiv").hide();
+     $("div.atozdiv[id $= " + char + "]").show();
+
+     // we're looking for this:
+     // <div class="atozdiv" id="cat_A">
+  }
+}
+
+
+//
+</script><!--topics tags--><meta name="topic" content="What is high performance computing (HPC)">
+<meta name="topic" content="Who uses HPC and why">
+<meta name="topic" content="The skills you'll need to get started">
+<meta name="topic" content="Next steps for researchers at Oxford">
+</head>
+<body onload="doJS(); updateCart();"><div class="show-all" id="main">
+<div id="hdr">
+<ul id="sitelinks">
+<li><a href="http://www.it.ox.ac.uk/">Central IT Services Site</a></li>
+<li><a href="http://help.it.ox.ac.uk/">IT Services Help Site</a></li>
+<li><a href="http://www.it.ox.ac.uk/status">Service Status</a></li>
+<li><a href="http://www.it.ox.ac.uk/rules">IT Rules</a></li>
+<li><a href="https://register.it.ox.ac.uk/self/index/">Manage Accounts</a></li>
+<li><a href="http://blogs.it.ox.ac.uk/">IT Services Blogs</a></li>
+</ul>
+<div id="logos">
+<a href="http://www.it.ox.ac.uk/" title="Go to this site's home page"><img src="/images/it-services-logo.png" alt="IT Services logo" height="119" width="135"></a><span class="white">|</span><a href="http://www.ox.ac.uk/" title="Go to University home page"><img src="/images/unibrandmark.png" alt="University of Oxford brandmark" height="115" width="115"></a>
+</div>
+<div class="searchbox">
+<a name="search"></a><form action="http://googlesearch.oucs.ox.ac.uk/search" id="searchform" method="get"><fieldset>
+<legend> Search </legend>
+<input name="Unit" value="OUCS" type="hidden"><input name="UnitPicture" value="http://www.oucs.ox.ac.uk/googlesearch/radcliffe.jpg" type="hidden"><input name="client" value="oucs" type="hidden"><input name="proxystylesheet" value="oucs" type="hidden"><input name="output" value="xml_no_dtd" type="hidden"><input name="filter" value="1" type="hidden"><span class="input"><input class="cleardefault" id="input-search" maxlength="2048" name="q" size="15" title="search box" placeholder="Search" type="text">
+           
+          <input class="gobutton" name="Go" value="Go!" type="submit"><br></span><input id="oucs" name="site" value="oucs" type="hidden">
+</fieldset></form>
+</div>
+<div class="page_header"><h1>High Performance Computing - inspiring bigger questions       </h1></div>
+</div>
+<div id="breadcrumb"><div class="breadcrumb"></div></div>
+<div id="mainMenu"></div>
+<div id="columns"><div class="cols-wrapper">
+<div class="float-wrapper">
+<div id="col-a"><div class="main-content"><div class="page_body">
+
+  
+    <p id="cookiewarning"><a name="cookiewarning"><!--anchor--></a> </p> 
+    <noscript>
+      <p class="jswarning">To make full use of the 'shopping basket' functionality,
+ please enable Javascript in your browser. Without Javascript, you
+ will only be able to book one course at a time.</p>
+    </noscript>
+
+  <p class="alpha"><a name="idm157408"><!--anchor--></a>Course Details and Schedule </p>
+<p class="summary"><a name="idm156816"><!--anchor--></a>This session will introduce you to 'super' or high performance computing. We'll cut through the jargon to help you see if your research might benefit from more 'compute'. You'll find out what is available to use here at Oxford i.e. the Advanced Research Computing (ARC) service, teaching and technical support. If you are a reseacher with a large amount of data to process come along and find out more!  </p>	<p class="below"><a name="idm155648"><!--anchor--></a>See below for course schedule</p>	<div class="p topics">
+<a name="idm143936"><!--anchor--></a><strong>Key topics</strong> <ul>
+<li class="item">
+<a name="idm142832"><!--anchor--></a>What is high performance computing (HPC)</li>
+<li class="item">
+<a name="idm142480"><!--anchor--></a>Who uses HPC and why</li>
+<li class="item">
+<a name="idm142160"><!--anchor--></a>The skills you'll need to get started</li>
+<li class="item">
+<a name="idm130832"><!--anchor--></a>Next steps for researchers at Oxford</li>
+</ul>
+</div>      	<div class="p description">
+<a name="idm130336"><!--anchor--></a><strong>Course information</strong> <table class="coursedesc">
+<tr>
+<td class="coursedesc type-Intended_audience"><span class="coursedesc-label">Intended audience</span></td>
+<td><span class="coursedesc-desc">Any University member who wants to take their computational research to the next level and do more than they can do on their desktop. </span></td>
+</tr>
+<tr>
+<td class="coursedesc type-Prior_knowledge"><span class="coursedesc-label">Prior knowledge</span></td>
+<td><span class="coursedesc-desc">No prerequisite skills or experience</span></td>
+</tr>
+<tr>
+<td class="coursedesc type-Format"><span class="coursedesc-label">Format</span></td>
+<td><span class="coursedesc-desc">Presentation only</span></td>
+</tr>
+<tr>
+<td class="coursedesc type-Where_next?"><span class="coursedesc-label">Where next?</span></td>
+<td><span class="coursedesc-desc">R and MatLab courses, and some <a class="coursedesc" href="http://www.arc.ox.ac.uk/content/training#courses" target="_top" title="HPC training courses"> HPC training courses</a> </span></td>
+</tr>
+</table>
+</div>   	    <p class="provider"><a name="idm85840"><!--anchor--></a><strong>Course provider:</strong> IT Learning Programme</p> 	
+      <div class="schedulediv">
+        <div class="p alpha">
+<a name="idm84112"><!--anchor--></a><div class="icon"><img src="/images/icon_clockdate_oxblue_small.gif" alt="" class="figure icon"></div>
+<strong>Schedule</strong>
+</div>
+
+	
+				  </div> 	<p class="frequency"><a name="idm67632"><!--anchor--></a><strong>Frequency:</strong> 	      This course runs subject to demand.  <a class="link_xref" href="/cgi-bin/oxford/interest.pl?course=TEFKL" target="_top" title="Express an interest in future dates for this course.">Express an interest in future dates for this course.</a> 	  </p>  </div></div></div>
+<div class="sidecol" id="col-b"><div class="box" id="boxborder">
+<p>     </p>
+<ul class="coursesbox navbar">
+<li class="item listheading">
+<a name="idp1008"><!--anchor--></a>What's On</li>
+<li class="item">
+<a name="idp1632"><!--anchor--></a>
+   Upcoming:
+  <ul>
+<li class="item">
+<a name="idp2144"><!--anchor--></a>
+    <a class="toclist" href="/summary" target="_top" title="Details by date">Details by date</a>
+   </li>
+<li class="item">
+<a name="idp3392"><!--anchor--></a>
+    <a class="toclist" href="/atoz" target="_top" title="A-Z of titles">A-Z of titles</a>
+   </li>
+</ul>
+ </li>
+<li class="item">
+<a name="idp4896"><!--anchor--></a>
+  <a class="toclist" href="/catalogue" target="_top" title="Course catalogue">Course catalogue</a>
+ </li>
+</ul>
+<div class="searchbox">
+<a name="search"></a><form action="http://googlesearch.oucs.ox.ac.uk/search" id="searchform2" method="get"><fieldset>
+<legend>search Courses</legend>
+<input name="Unit" type="hidden" value="OUCS"><input name="client" type="hidden" value="oucs_courses"><input name="proxystylesheet" type="hidden" value="oucs_courses"><input name="output" type="hidden" value="xml_no_dtd"><input name="filter" type="hidden" value="p"><input class="cleardefault" id="inputsearch" maxlength="2048" name="q" size="15" title="search  box" type="text" value="Search">  <input class="gobutton" name="Go" type="submit" value="Go!"><input id="it-services" name="site" type="hidden" value="oucs-courses">
+</fieldset></form>
+</div>
+<ul class="coursesbox navbar">
+<li class="item listheading">
+<a name="idp72144"><!--anchor--></a>I want to...</li>
+<li class="item">
+<a name="idp72768"><!--anchor--></a>
+     <a class="toclist" href="http://www.it.ox.ac.uk/itlp-mailing-list" target="_top" title="Join the ITLP mailing list">Join the ITLP mailing list</a>
+   </li>
+<li class="item">
+<a name="idp74016"><!--anchor--></a>
+   <a class="toclist" href="/itlp/howtocancel.xml" target="_top" title="Cancel a course booking you have made">Cancel a course booking</a>
+  </li>
+<li class="item">
+<a name="idp75504"><!--anchor--></a>
+  <a class="toclist" href="/myaccount" target="_top" title="Access details of your ITLP courses account">Go to My Account</a>
+</li>
+<li class="item">
+<a name="idp76992"><!--anchor--></a><a class="toclist" href="/itlp/howtobook.xml" target="_top" title="Make a booking">Make a booking</a>
+</li>
+<li class="item">
+<a name="idp77984"><!--anchor--></a>
+   <a class="toclist" href="/itlp/payment.xml" target="_top" title="See how you can pay for your course">Pay for my course</a>
+  </li>
+<li class="item">
+<a name="idp79472"><!--anchor--></a>
+   <a class="toclist" href="/itlp/notifyme.xml" target="_top" title="Express an interest">Express an interest</a>
+  </li>
+<li class="item">
+<a name="idp81024"><!--anchor--></a>
+    <a class="toclist" href="/itlp/terms.xml" target="_top" title="Read Terms &amp; Conditions">Read Terms &amp; Conditions</a>
+  </li>
+<li class="item">
+<a name="idp82416"><!--anchor--></a>
+    <a class="toclist" href="/itlp/sms.xml" target="_top" title="Sign up for SMS text reminders for your booked courses">Sign up for SMS reminders</a>
+  </li>
+<li class="item">
+<a name="idp84112"><!--anchor--></a>
+    <a class="toclist" href="http://www.it.ox.ac.uk/itlp-courses-contactfeedback-form" target="_top" title="Contact Us">Contact Us</a>
+  </li>
+</ul>
+</div></div>
+</div>
+<div class="sidecol" id="col-c">
+  <div style="display:none;" id="cart">
+    <div id="cartdiv">
+<p class="cartheading">Courses basket</p>
+    <p id="cartcontents">You have not yet booked any courses.</p>
+</div>
+    <div id="checkout">
+      <form method="GET" action="/showcart">
+	<input type="submit" value="Go to basket">
+      </form>
+    </div>
+  </div>
+<ul class="coursesbox navbar">
+<li class="item listheading">
+<a name="idp1136"><!--anchor--></a>Training Quick links</li>
+<li class="item">
+<a name="idp1856"><!--anchor--></a><a class="toclist" href="http://www.bodleian.ox.ac.uk/services/training" target="_top" title="Bodleian Libraries">Bodleian
+Libraries</a>
+</li>
+<li class="item">
+<a name="idp2864"><!--anchor--></a><a class="toclist" href="http://www.it.ox.ac.uk/do/training-and-facilities/itlp-courses" target="_top" title="ITLP">ITLP</a>
+</li>
+<li class="item">
+<a name="idp35984"><!--anchor--></a>
+   <a class="toclist" href="http://portfolio.it.ox.ac.uk/" target="_top" title="Access to our taught course resources through WebLearn">ITLP Portfolio</a>
+ </li>
+<li class="item">
+<a name="idp37472"><!--anchor--></a><a class="toclist" href="http://www.it.ox.ac.uk/its3/training" target="_top" title="ITSS">ITSS</a>
+</li>
+<li class="item">
+<a name="idp38464"><!--anchor--></a><a class="toclist" href="http://www.it.ox.ac.uk/do/training-and-facilities/contact#businesscourses" target="_top" title="University Systems">University Systems</a>
+</li>
+<li class="item">
+<a name="idp39456"><!--anchor--></a><a class="toclist" href="https://weblearn.ox.ac.uk/portal/site/info/weblearn_c" target="_top" title="WebLearn">WebLearn</a>
+</li>
+<li class="item">
+<a name="idp40448"><!--anchor--></a><a class="toclist" href="http://www.ox.ac.uk/staff/working_at_oxford/training_development/index.html" target="_top" title="Other Training Providers">Other Training Providers</a>
+</li>
+<li class="item">
+<a name="idp41440"><!--anchor--></a><a class="toclist" href="http://www.conted.ox.ac.uk/" target="_top" title="Continuing Education">Continuing  Education</a>
+</li>
+</ul>
+</div>
+<div class="clear" id="em"></div>
+</div></div>
+<div class="clear" id="footer">
+<p><a href="http://www.it.ox.ac.uk/itlp-courses-contactfeedback-form">Contact ITLP</a> | <a href="http://www.admin.ox.ac.uk/councilsec/compliance/dataprotection/privacypolicy/">Privacy</a> | <a href="http://www.oucs.ox.ac.uk/cookies.xml">Cookies</a>
+        | <a href="http://help.it.ox.ac.uk/feedback/feedback">Feedback</a> | <a href="http://help.it.ox.ac.uk/enable/acstatement">Accessibility</a> |
+	<a href="http://www.ox.ac.uk/copyright/">©</a> University
+	of Oxford. <br> IT Services documents are
+        available in alternative formats through advance request from the Help
+        Centre. 
+      </p>
+<p> Written by Sebastian Rahtz, June 2015. </p>
+</div>
+</div></body>
+</html>

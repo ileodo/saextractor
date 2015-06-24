@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) & !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Cristobal Cobo | Cristobal Cobo</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://blogs.oii.ox.ac.uk/cobo/wp-content/themes/twentyeleven/style.css" />
+<link rel="pingback" href="" />
+<!--[if lt IE 9]>
+<script src="http://blogs.oii.ox.ac.uk/cobo/wp-content/themes/twentyeleven/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Cristobal Cobo &raquo; Feed" href="http://blogs.oii.ox.ac.uk/cobo/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Cristobal Cobo &raquo; Comments Feed" href="http://blogs.oii.ox.ac.uk/cobo/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Cristobal Cobo &raquo; Posts by Cristobal Cobo Feed" href="http://blogs.oii.ox.ac.uk/cobo/?feed=rss2&#038;author=2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/blogs.oii.ox.ac.uk\/cobo\/wp-includes\/js\/wp-emoji.js","twemoji":"http:\/\/blogs.oii.ox.ac.uk\/cobo\/wp-includes\/js\/twemoji.js"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+</head>
+
+<body class="archive author author-cristobal-cobo author-2 custom-background two-column right-sidebar">
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://blogs.oii.ox.ac.uk/cobo/" rel="home">Cristobal Cobo</a></span></h1>
+				<h2 id="site-description">Cristobal Cobo&#039;s Blog</h2>
+			</hgroup>
+
+						<a href="http://blogs.oii.ox.ac.uk/cobo/">
+									<img src="http://blogs.oii.ox.ac.uk/cobo/wp-content/themes/twentyeleven/images/headers/trolley.jpg" width="1000" height="288" alt="Cristobal Cobo" />
+							</a>
+			
+								<form method="get" id="searchform" action="http://blogs.oii.ox.ac.uk/cobo/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search" />
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+	</form>
+			
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content">Skip to primary content</a></div>
+									<div class="skip-link"><a class="assistive-text" href="#secondary">Skip to secondary content</a></div>
+												<div class="menu"><ul><li ><a href="http://blogs.oii.ox.ac.uk/cobo/">Home</a></li><li class="page_item page-item-2"><a href="http://blogs.oii.ox.ac.uk/cobo/?page_id=2">About</a></li></ul></div>
+			</nav><!-- #access -->
+	</header><!-- #branding -->
+
+
+	<div id="main">
+
+		<section id="primary">
+			<div id="content" role="main">
+
+			
+				
+				<header class="page-header">
+					<h1 class="page-title author">Author Archives: <span class="vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="Cristobal Cobo" rel="me">Cristobal Cobo</a></span></h1>
+				</header>
+
+				
+						<nav id="nav-above">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="http://blogs.oii.ox.ac.uk/cobo/?author=2&#038;paged=2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-above -->
+	
+				
+								
+					
+	<article id="post-996" class="post-996 post type-post status-publish format-standard hentry category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=996" rel="bookmark">Disrupting the learning landscape</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=996" title="7:58 pm" rel="bookmark"><time class="entry-date" datetime="2015-03-20T19:58:20+00:00">20/03/2015</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=996#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><iframe src="https://prezi.com/embed/lgr1nkzp7gqj/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0#" width="550" height="400" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br />
+<span lang="EN-US">I had the privilege to join the official </span><span lang="EN-US">opening of the <span lang="EN-US">Coventry University’s Disruptive Media Learning Lab (</span><span lang="EN-US"><a href="http://disruptivemedia.org.uk/">DMLL</a></span><span lang="EN-US">) </span><span lang="EN-US">which coincided with </span><span lang="EN-US"><a href="http://www.openeducationweek.org/">Open Education Week 2015</a></span><span lang="EN-US">, a five-day initiative to promote the global open education movement which, in its turn, promotes the free and open sharing of learning resources. We were joined over the two days by educators, technologists and creatives to share ideas about the future of learning. Exhibitions of current DMLL projects and demonstrations of new and emerging educational resources and technologies also formed part of the opening. </span></span>The new learning lab derives its name from the business concept of ‘disruptive technologies’, technologies which gave new and emerging companies the opportunity to disrupt established markets by creating new versions of the products offered by large corporations which, they felt, no longer responded to shifting consumer demand (<a href="http://universitybusiness.co.uk/Article/disrupting-the-learning-landscape" target="_blank">cross posting</a>).</p>
+<p>Many thanks to Dr. Shaun Hides, Jonathan Shaw and Dr. Daniel Villar-Onrubia for their hospitality.</p>
+<p>Recommended reading:<br />
+<a href="https://curve.coventry.ac.uk/open/file/c04530ce-d16a-46ca-b359-a905195a76cb/1/Open%20education.pdf" target="_blank">Open education: A study in disruption</a> van Mourik Broekman, P. , Hall, G. , Byfield, T. Hides, S. and Worthington, S.</p>
+<p>&nbsp;</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=996#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-996 -->
+
+				
+					
+	<article id="post-991" class="post-991 post type-post status-publish format-standard hentry category-digital-humanities category-internet-science category-knetwork category-learning-2 category-networks-of-the-future category-open-access category-open-educational-practices category-oxford-internet-institute category-research">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=991" rel="bookmark">Redefining Knowledge in the Digital Age: Interview</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=991" title="10:31 am" rel="bookmark"><time class="entry-date" datetime="2015-01-23T10:31:57+00:00">23/01/2015</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=991#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://blog.scholasticahq.com/post/108837538413/redefining-knowledge-in-the-digital-age-interview#.VMIjCUeUeSp"><img class="alignleft size-large wp-image-992" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2015/01/a-1024x672.jpg" alt="a" width="584" height="383" /></a></p>
+<p>&nbsp;</p>
+<p><em>Cristóbal Cobo works with a trans-disciplinary group of PhDs specializing in areas of knowledge generation and transfer, digital skills, future of learning, creativity, innovation and digital culture. He has collaborated on these topics with researchers from more than 25 countries. He is also the director of the Study Center &#8211; Ceibal Foundation in Uruguay, which studies the impact of digital technology on education. For more information on his work visit his <a title="Oxford" href="http://www.oii.ox.ac.uk/people/?id=189">Oxford Internet Institute profile</a> or <a title="Wikipedia" href="http://en.wikipedia.org/wiki/Crist%C3%B3bal_Cobo">Wikipedia page</a>. [This is a <a href="http://blog.scholasticahq.com/post/108837538413/redefining-knowledge-in-the-digital-age-interview#.VMIhQEeUeSp" target="_blank">cross pos</a>t from blog Scholasticahq (Interview conducted by Danielle Padula)]</em></p>
+<p>We have entered an age of information overload. For academic researchers now is a marvelous time to find and share new scholarship, but also a complicated one. Technology is increasing the amount of publications and publication formats on the web, with the mounting open access movement promising that there will be an even denser mass of information to be attained in the future than ever before. How has and how will this overload of digital information impact the way that scholars look to absorb, disseminate, and assess new knowledge in journals and beyond?</p>
+<p>One researcher who is examining the effects of technology on learning, innovation, and collaboration is Cristóbal Cobo of the Oxford Internet Institute. Cobo is working on various projects concerned with learning in the digital age, including a study with a team of colleagues at the University of Oxford on how students and instructors in higher education are using Facebook in the classroom and as a back channel to their lessons. Cobo took the time to speak with us about his views on how technology is shaping the research and publishing process for the modern scholar. Check out the full interview below!</p>
+<h2>Interview with Cristóbal Cobo</h2>
+<h3>How do you think the internet is changing the way we approach and experience learning?</h3>
+<p>Since the late ’90s there were a lot of promises that the internet was going to make people learn faster, better, and in a more opportune way. But what we saw in the last few years is that while the evolution of the internet and the impact of it has been incredibly significant, it is not in the way many were expecting. E-learning ended up being not incredibly interesting. But, what is interesting is how people learn in informal environments. Technologies are a multi-contextual way of learning which are much more invisible, less intuitive, difficult to measure, difficult to qualify but are happening 24 hours every day.</p>
+<h3>From the researchers perspective, how do you think the process of learning and researching has changed with technology in terms of how scholars find, compile, and explain information?</h3>
+<p>There are a number of ways to answer that. The first one is that at least the younger researchers don’t go to the library anymore. For a lot of them, if it is not online it doesn’t exist, which is good and bad. You have access to many more things, but at the same time what is printed and not digital might be invisible or somewhat less attractive to students. And in that line, because we have this incredible amount of information there are scarcities of time and attention, therefore we are all of the time overwhelmed with the amount of things that we would like to read but we don’t have time for. But that in a way is good because we are much more aware of how limited our knowledge is when we have a much more boundless amount not limited by any one country’s perspective. On top of that I would say one of the fascinating things that is happening on the internet is the boundaries of disciplines are much less relevant. We have to rewire the connections between disciplines and between different kinds of expertise that in the past were really just aggregated in different compartments and now are incredibly intertwined.</p>
+<h3>Do you think in the age of the internet cross-disciplinary work is going to become a norm, or do you think disciplines are going to just have to re-examine and re-frame how they think about themselves?</h3>
+<p>I don’t think it’s the future. The digital humanities, as one example, is something that is happening today. But definitely, for instance, we see big data analysis. For the last 60 years more and more people are writing collaborative papers and many of the papers are with people coming from different backgrounds. I don’t think the single disciplines will disappear, but we will have to develop as academic researchers and educators in general a whole new set of skills to translate our knowledge and our expertise into other jargons and other perspectives.</p>
+<h3>Do you think the way information is assessed will have to change to help researchers and publications differentiate the quality of their content verses content from other sources?</h3>
+<p>Yes. I think a lot of academics are doing open access and there are more and more policies that push in that direction. There’s one heated side effect of open access, which is not bad or good, but it’s a fact. We will be dealing with a larger amount of information. That’s good because you will have more low hanging fruits to pick from, but at the same time you will get lost more.</p>
+<p>So, what does it mean? One of the things it will mean I guess is search engines and online journals, whether open access or not, they will have a much more relevant role. They will really become, and are already, the holders to having access to high quality science. So the algorithm is now really becoming the gate keeper for producing what we know about science, which is changing the way that authors write papers because you want them to be highly searchable and visible.</p>
+<p>At the same time, and this is something that is quickly changing, today we see new currencies of knowledge. What do I mean by that? A large number of institutions argue that the h-index has been incredibly useful for measuring the impact of science for the last decade or so. But now the h-index seems to not be enough to illustrate all the other academic discussions which are incredibly relevant and which are taking place on the internet beyond the journals for instance. And that has to do with altmetrics and a whole new family of instruments and indicators that we like to call new knowledge currencies that in a way illustrate how knowledge is migrating to other environments.</p>
+<h3>Do you think that altmertrics will become a more important form of knowledge currency for authors and journals as time goes on?</h3>
+<p>Yes, the answer is definitely yes. I think it’s already here. It is the same thing that was taking place a couple of years ago with journals and open access, and now the majority of the commercial journals are jumping into the jargon of open access because they understand there is an opportunity there. The publisher Nature already integrated altmetric into their visibility, so that is already here. The question is “who is going to throw the first stone.” Because the national systems are afraid of moving and changing into these new currencies because they want to be compared with the other national systems and the same thing with the journals. If those new knowledge currencies aren’t adopted that affects the universities and that affects the academics. So who is going to take the very first step to say you know what, as important as a journal that has been peer reviewed could be a TED Talk or a presentation or a podcast that you post somewhere that can get an incredible number of viewers and feedback. So, I think it’s a transition.</p>
+<p>Let me give you an example. I have a number of colleagues who worked for one year at least to publish a paper in a highly recognized journal and then after the acceptance of that they were incredibly disappointed that those papers were never read or quoted or anything. And then when they put a draft of that paper in an open repository they saw the level of visibility that it generates is incredible. So there is a tension here and for people sometimes of course you can go for the h-index and that’s absolutely fine, and other people want to be sure that their work is visible and used by other people and so there people are kind of combining assessments. I would say that we are half way through in the transition and some people will be more into that than others.</p>
+<h3>How do you think this shift towards open access is affecting the post doc in terms of getting a tenure track position?</h3>
+<p>I would love to have the answer. The thing is some of these changes will take forever to implement. Some universities are clearly change-resistant. Chesbrough said, “The shift in knowledge landscape is disturbing to people familiar with the earlier paradigm.” At the same time, some universities will be much more keen to explore the new knowledge currencies. Some entities go for the top down innovation and force every academic to have a blog. Other ones facilitate it and provide support. I would say that I cannot foresee how it is going to be a scenario of the current post docs. But I do believe that this discussion needs to be pushed by many fronts in order to say, you know, what we need to diversify the challenge of recognizing the production of science.</p>
+<p>I attended a discussion in Oxford co-organized with the London School of Economics talking about the importance of blogging in science. I enjoyed it a lot, but this is a discussion that should have been going on 10 years ago, not now. So, I think the time of the digital culture and the digital revolution is not entirely aligned with the times of higher education.</p>
+<h3>Now that work is moving from print publications to online, are you seeing that scholars outside of the US and UK are getting more access to research opportunities?</h3>
+<p>So there are a number of issues here. Science as an education in general has been incredibly shaped by the importance of publication in highly ranked journals that provide you the h-index and so on. That is a discussion that is being produced and pushed mainly by highly educated communities and mainly by English speaking communities. So therefore we exclude a lot of communities, which might be equally interested in producing science or consuming science, but they may not have the English or the access to journals data bases to do those things. So we have here this kind of tradeoff between this approach of we need to publish open access for everybody but we have this restriction where if people don’t have the English or the access they cannot be a part of this game. So I think we are still in a really early stage in order to think that science can be more inclusive for a true global community.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=34" rel="category">digital humanities</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=33" rel="category">Internet Science</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=6" rel="category">KNetwork</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=29" rel="category">Learning</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=5" rel="category">Networks of the Future</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=32" rel="category">open access</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=35" rel="category">open educational practices</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=7" rel="category">Oxford Internet Institute</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=20" rel="category">Research</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=991#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-991 -->
+
+				
+					
+	<article id="post-985" class="post-985 post type-post status-publish format-standard hentry category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=985" rel="bookmark">Will open access become the default alternative?</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=985" title="2:20 pm" rel="bookmark"><time class="entry-date" datetime="2014-11-20T14:20:37+00:00">20/11/2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=985#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<blockquote class="twitter-tweet" lang="en"><p>My slides for today&#39;s lecture: &quot;Rethinking <a href="https://twitter.com/hashtag/OpenAccess?src=hash">#OpenAccess</a>: alternative forms of sustainability &amp; social impact metrics&quot; <a href="http://t.co/2JfWxLKSoC">http://t.co/2JfWxLKSoC</a></p>
+<p>&mdash; Cristobal Cobo (@cristobalcobo) <a href="https://twitter.com/cristobalcobo/status/535436029642424320">November 20, 2014</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=985#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-985 -->
+
+				
+					
+	<article id="post-967" class="post-967 post type-post status-publish format-standard hentry category-digital-humanities category-internet-science category-open-access category-research category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=967" rel="bookmark">(Gold) Open Access: the two sides of the coin</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=967" title="12:56 pm" rel="bookmark"><time class="entry-date" datetime="2014-11-17T12:56:42+00:00">17/11/2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=967#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><a href="http://blog.scholasticahq.com/post/100004713143/a-pay-it-forward-approach-to-open-access-publishing#.VGnKKFfF8n8" target="_blank"><img class="aligncenter wp-image-968" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/11/neil-hero.jpg" alt="Image taken from: http://blog.scholasticahq.com/post/100004713143/a-pay-it-forward-approach-to-open-access-publishing" width="500" height="500" /></a></p>
+<p>This is the last one of a series of post published, during the last two months, as part of my Open Access visiting scholarship. This visiting at the <a href="http://www.culturalstudies.be" target="_blank">Institute for Cultural Studies</a> will conclude with an open presentation in a few days at the Faculty of Arts at KU Leuven, entitled: <a href=" http://www.kuleuven.be/kuleuven/kalender/2014/rethinking_open_access" target="_blank">Rethinking open access: alternative forms of sustainability and social impact metrics</a>.</p>
+<p>In this post we present some of the <strong>virtues and misfortunes of Gold OA</strong>. This is a summary of two extremely interesting interviews, which show the two sides of the spectrum. The first one made to Jeffrey Beall who explains how &#8220;predatory publishers&#8221; are &#8220;poisoning&#8221; Gold OA. At the other side of the coin, Neil Christensen purposes a new redistributive article processing charges [APC&#8217;s] which includes micro-payments for editors and reviewers.</p>
+<p><a href="http://en.wikipedia.org/wiki/Jeffrey_Beall" target="_blank">Jeffrey Beall</a> (who created an incredible and scary list of &#8216;<a href="http://scholarlyoa.com/2014/01/02/list-of-predatory-publishers-2014/" target="_blank"><strong>questionable, scholarly open-access publishers</strong></a>&#8216;) explains that <strong>p</strong><b>redatory publishers</b> <b>are those who exploit the <a href="https://www.youtube.com/watch?v=o0Aj2Q0QyRc" target="_blank">gold open access model</a> </b><b>simply to make a profit. </b>Adding,<b> </b>journals operate as vanity presses, offering to publish nearly any article as long as the author can pay the fee. They&#8217;re very clever, he argued, their<b> job is to get the author fees. So the authors are the customers, and they don&#8217;t care so much about the people who read the contents.</b> Their job is to get the money from the authors, so they do everything they can to make themselves look legitimate. Here some excerpts from the interview:</p>
+<ul>
+<li>One trademark behavior is the use of mass e-mails to solicit manuscripts, editorships, or peer reviewers where <b>unscrupulous entrepreneurs might use the gold open access model to make money from unsuspecting researchers hit the mainstream academic press. It&#8217;s a significant problem for the gold open access model itself, which I think is being poisoned by predatory publishers.</b></li>
+</ul>
+<p><span style="text-decoration: underline;">A call for higher transparency, accountability and a crowdsource publishing ethic:</span></p>
+<ul>
+<li><b>There&#8217;s no objective way to measure new open access journals, especially when the publishers lack transparency and hide their operations.</b> We can&#8217;t measure how well they&#8217;re doing their peer review or if they&#8217;re doing it at all. So the only way to judge them is by gathering all the information you can from their Web sites, from talking to them, from reading e-mails from people who have worked with them or submitted articles to them and combine all of that information and complete the analysis.</li>
+<li><b>It&#8217;s going to be tough for libraries to filter </b>those out because so many libraries do batch loading now. <b>Academic librarians need to remove metadata for predatory publishers and predatory journals from their online catalogs</b> and all of their discovery systems and library Web sites. By including predatory publishers in library systems, they&#8217;re giving these journals a tacit seal of approval from the library.</li>
+<li>I wish there were a way to<b> crowdsource publishing ethics</b>. I wish there was a way that <b>people could report instances of author misconduct</b>. I think that would help science a lot.</li>
+<li>What I really like is what I call <b>platinum open access</b>, which is the <em>same</em> as gold open access, except there&#8217;s no author fee. That takes away the conflict of interest for the publishers because they don&#8217;t make more money the more articles they accept.</li>
+</ul>
+<p><img class="size-full wp-image-971 aligncenter" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/11/safe_image.png" alt="safe_image" width="484" height="253" /></p>
+<p>&nbsp;</p>
+<p>On the other side of the spectrum, Neil Christensen from the <a href="http://www.ucpress.edu/" target="_blank">University of California Press (UCP)</a> explained <strong>a work-in-progress new kind of OA journal model</strong> (to be launched in 2015), based on article processing charges (APCs) but aiming to give editors and reviewers the opportunity to put their earnings towards their supporting institution’s OA initiatives [read <a href="http://blog.scholasticahq.com/post/100004713143/a-pay-it-forward-approach-to-open-access-publishing#.VG38j1fF8n9" target="_blank">full interview</a>]. Here some excerpts:</p>
+<p><span style="text-decoration: underline;">The framework</span>:</p>
+<ul>
+<li>You have all of this research that’s being generated by researchers that publishers are receiving for free, and then to review it you recruit a lot of researchers to do a lot of additional work for free, and then <strong>once you’ve received all of this free stuff you sell it back at a premium to the same researchers and their libraries. And that fee just seems to go up year and year and year</strong>, prices on journals are continuing to increase and the ability of the academic community to pay those fees is stagnating.</li>
+<li>Traditionally there has been <strong>this notion that the world as we know it would end tomorrow if big publishers had to pay for the services that they’re receiving for free from the academy,</strong> and that’s not the case. What’s really unsustainable is the notion that the academic process can uphold the big profit margins that commercial publishing houses are showing—that’s unsustainable.</li>
+</ul>
+<p><span style="text-decoration: underline;">The vision</span>:</p>
+<ul>
+<li>There is a systematic issue there with the academy of researchers not being fully recognized for the value they were contributing.</li>
+<li>The model is grounded on <b>the idea of redistribution</b> where we take a portion of the APC out and put it in a pool of money: We’re saying, “let’s try and do what’s already being done in terms of <b>APCs only do it at a lower price and recognize that the academy has a role there in generating value</b>.”</li>
+<li>One element is that <b>we want an APC that is as low as possible:</b> we want to be non-profit and help facilitate profit for the academy. The other element is the value: <b>a portion of the APC is going to be paid to editors and reviewers</b>, and editors and reviewers will have the choice of what they want to do with that value.</li>
+<li>When you look at the<b> open access APCs that commercial publishers offer, they charge three, four, and five thousand dollars to publish. That’s a lot of money, and out of that money not a single cent goes back to the reviewers.</b> Of course the editors of those journals get paid for their work. But the reviewers, none of them see that money, and their hosting institutions who provide the offices and the computers, they don’t see any of that money.</li>
+</ul>
+<p><span style="text-decoration: underline;">The model</span>:</p>
+<ul>
+<li>The aim is to create an<b> OA mega-journal (multiple journals with a <b>APCs model</b>) including three sort of wide divisions: the first one is life sciences and biomedical sciences, the second is ecology and environmental sciences, and the third one is social and behavioral sciences.</b> We had people who asked for payments discipline-specific, but we’re not trying to launch something like that. We want something wide, where you pay it forward to the general pool and that will benefit anyone.</li>
+<li> <strong>I</strong><b>f we established an APC of $875, and out of that $875 we are going to pay $250 (</b>micro-payments<b>) to the reviewers and editors, that leaves us with $625 of revenue we need on the publication side to pay the platform partners and transaction partners. </b></li>
+<li>For each peer-review there is a point value. <b>It’s a very simple logic: give people points for activities, look at total sum of revenue, and allocate that sum of revenue according to the points that people have generated. </b>You take the total sum of the money in the pool and then divide it by the total sum of the peer-reviews that have been generated for that period, and then allocate the money based on how many points or value each individual has contributed, but it doesn’t matter whether or not you’ve accepted or rejected a manuscript.</li>
+</ul>
+<p><span style="text-decoration: underline;">My comment</span>: Evidently Gold OA can be used for a variety of purposes. While it is a great opportunity to enable access to a larger audience, at the same time it diversifies the possibilities to offer <a href="http://scholarlyoa.com/2014/11/04/google-scholar-is-filled-with-junk-science/" target="_blank">dubious dissemination platforms</a>. Probably, <strong>the way to go is to increase the awareness, generate community building, enable channels of discussion to explain and crowdsource the opportunities as well as the ethic behind open publishing.</strong></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><iframe src="//player.vimeo.com/video/108790101" width="500" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><em>Gold OA is not the only way of making science available,<br />
+<a href="https://www.openaire.eu" target="_blank">OpenAIRE&#8217;s</a> offers a public repository worth it to explore.</em></p>
+<p><span style="text-decoration: underline;">References</span>:</p>
+<p>Wilson, Kristen. &#8220;<a href="http://www.sciencedirect.com/science/journal/00987913/39/2" target="_blank">Librarian vs.(open access) predator: An interview with Jeffrey Beall.</a>&#8221; <i>Serials Review</i> 39.2 (2013): 125-128.</p>
+<p>Padula, D. (2014). <a href="http://blog.scholasticahq.com/post/100004713143/a-pay-it-forward-approach-to-open-access-publishing" target="_blank">A Pay-it-Forward Approach to Open Access Publishing: Interview with Neil Christensen of UC Press</a>. Retrieved November 17, 2014.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=34" rel="category">digital humanities</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=33" rel="category">Internet Science</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=32" rel="category">open access</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=20" rel="category">Research</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=967#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-967 -->
+
+				
+					
+	<article id="post-945" class="post-945 post type-post status-publish format-standard hentry category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=945" rel="bookmark">5 questions to explore the rhetoric about #OpenAccess</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=945" title="7:36 am" rel="bookmark"><time class="entry-date" datetime="2014-11-11T07:36:44+00:00">11/11/2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=945#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p>Gold OA</p>
+<blockquote><p><em class="diigoHighlight id_6985c5b7bec36b6f15d95218eb6e409f type_0 yellow">&#8220;operate under <strong>a reversed business model</strong> to the traditional subscription-based publishing model. Instead of charging users a fee to read the content, they charge an open access fee at the beginning of the publication process and this enables all the content to be made freely available&#8221; [if the author can afford it]. Source: <a href="http://www.springeropen.com/openaccess" target="_blank">Springer Open</a>.</em></p></blockquote>
+<p>If you have the chance to explore some of the major journal publishers, you will notice that most of them (if not all) have adopted the jargon of open science, using words like <em>universal openness</em>, <em>sharing</em>, <em>open licences</em>, etc. Here a few illustrative samples followed for some concerns:</p>
+<p><span style="text-decoration: underline; color: #333399;"><strong><a style="color: #333399; text-decoration: underline;" href="http://www.tandfonline.com/page/openaccess" target="_blank">Taylor &amp; Taylor &amp; Francis Open and Routledge Open</a></strong></span>:</p>
+<p><iframe src="//player.vimeo.com/video/88758076" width="560" height="281" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>They claim &#8220;Our standard article processing charges (APCs) for our subscription-based Open Select titles is £1,788 / €2,150 / $2,950, though this does vary&#8221;, with embargos that fluctuate between 12 and 18 months (<a href="http://journalauthors.tandf.co.uk/copyright/Green-OA-AAM-embargo-periods.pdf" target="_blank">pdf</a>). The <a href="http://journalauthors.tandf.co.uk/preparation/OpenAccess.asp" target="_blank">gold AO</a> (<a href="http://journalauthors.tandf.co.uk/preparation/OpenAccess.asp#link3" target="_blank">APC</a>) can be partially waived if the author belong to one of the low-income (<a href="www.research4life.org/eligibility" target="_blank">Group A and Group B</a>) territories.</p>
+<p><span style="text-decoration: underline;"><span style="color: #333399;"><strong><a style="color: #333399; text-decoration: underline;" href="http://www.elsevier.com/about/open-access/open-access-options" target="_blank">Publishing Open Access with Elsevier</a></strong></span></span> (<a href="http://www.elsevier.com/__data/assets/pdf_file/0004/207832/openaccessbooklet.pdf" target="_blank">Guide</a>)</p>
+<p><iframe src="//www.youtube.com/embed/8m8-QYrcewU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>The embargo period is journal-specific and ranges from 12- 24 months, the <a href="http://www.elsevier.com/about/open-access/open-access-options#sthash.vHRNuvbs.dpuf" target="_blank">APC fees</a> vary between $500 and $5,000 US depending on the journal. Here a <a href="www.elsevier.com/about/open-access/open-access-journals" target="_blank">list of their open access journals</a> (also reference to the <a href="http://www.elsevier.com/about/open-access/green-open-access" target="_blank">green OA</a> are provided) as well as their <a href="http://www.elsevier.com/about/open-access/open-access-journals?a=120946" target="_blank">distinct types of licenses</a>.</p>
+<p><span style="color: #000080;"><a style="color: #000080;" href="http://www.springer.com/open+access?SGWID=0-169302-0-0-0" target="_blank"><strong><span style="text-decoration: underline;">Publish open access with Springer</span></strong></a>:</span></p>
+<p><iframe src="//www.youtube.com/embed/lUQ097FCiyE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="www.springer.com/gp/open-access" target="_blank">Publish open access with Springer</a> involves an <a href="http://www.springer.com/gp/open-access/springer-open-choice" target="_blank">open access publication fee of US$ 3000/EUR 2200</a> (excl. VAT). This model is applicable also for <a href="http://www.springeropen.com/books" target="_blank">STM&#8217;s books</a>. Here some of the alternatives they suggest: <em>Open Choice program</em> (allows authors to publish open access in the majority of their subscription-based journals); <em>SpringerOpen</em> (open access journal portfolio and to publish open access books); <em>Open Access Membership Program</em> (worldwide support open access by covering some or all of the publication costs for their individual researchers).</p>
+<p>In addition, the Thomson Reuters, for instance, provides the <a href="www.science.thomsonreuters.com/cgi-bin/linksj/opensearch.cgi" target="_blank">Open Access Journal Title List</a> including free journal contents available from the Web of Science.</p>
+<p><span style="text-decoration: underline;">My comments and questions:</span></p>
+<p>There&#8217;s no doubt that the future will be more open. Although the devil is in the details (the websites description still look somewhat wordy). Here a few questions that came after this exploration:</p>
+<p>1. <span style="color: #333399;">Why the <strong>APC fees</strong> described above can be up to 10x higher than the <a href="http://blogs.oii.ox.ac.uk/cobo/?p=933" target="_blank">cases previously presented</a></span> (<a href="http://www.slideshare.net/cristobalcobo/flexible-subsidiaries-models-for-funding-open-access-journal-publishing-sheet1-2" target="_blank">see samples</a>: PLoS ONE, PeerJ, Co-Action Publishing or F1000Research)?</p>
+<p>2. As suggested by Suber (<a href="http://blogs.oii.ox.ac.uk/cobo/?p=922" target="_blank">see note</a>), humanities journals are more expensive than STM (the earliest have a higher rejection rate) and their embargos are longer. <span style="color: #333399;">How to move toward an OA model that address that STEM <span style="text-decoration: underline;">and</span> art and humanities, acknowledging that they have very <a href="http://blogs.oii.ox.ac.uk/cobo/?p=912" target="_blank"><strong>different funding realities</strong></a>?</span></p>
+<p>3. <span style="color: #333399;">Shouldn&#8217;t exist major flexibility also in the definition of the <strong><a style="color: #333399;" href="http://en.wikipedia.org/wiki/Delayed_open_access_journal" target="_blank">embargo</a></strong> period?</span></p>
+<p>4. <span style="color: #333399;">What about allowing the authors to go for more flexible licences such as <strong><a style="color: #333399;" href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0</a></strong>?</span></p>
+<p>5. If the gold OA is increasingly acknowledge as a sustainable way to promote openness, <span style="color: #333399;">Shouldn</span>&#8216;t <span style="color: #333399;">public entities claim for a more transparent accountability of publisher incomes to avoid <strong style="color: #333399;"><a style="color: #333399;" href="http://aoasg.org.au/addressing-the-double-dipping-charge/" target="_blank">double dip</a> and <a href="http://blogs.oii.ox.ac.uk/cobo/?p=967" target="_blank">faked peer review</a></strong>?</span> (see: <a href="http://scholarlykitchen.sspnet.org/2014/02/06/the-uk-government-looks-to-double-dip-to-pay-for-its-open-access-policy/" target="_blank">The UK Government Looks to Double Dip to Pay For its Open Access Policy</a>).</p>
+<p>On his book &#8216;<a href="http://www.amazon.com/Save-Everything-Click-Here-Technological/dp/1610393708" target="_blank">To Save Everything, Click Here</a>&#8216; Evgeny Morozov wrote that<strong><b> there is not much agreement about the value of openness </b></strong>it is never quite clear whether being open is a mean or an end. For instance, he adds, <b>Google represents nothing less than the “utopia of openness&#8221;. </b>It is “the greatest corporate champion of openness,” the leader of the “openness movement,” and “the incarnation of the Internet gospel of openness.”. However, the Belarusian claims<b> </b>[&#8230;] &#8220;<strong>instead of celebrating what Google does for openness, it’s important to investigate what openness does for Google</strong>&#8220;.</p>
+<p>I think in the case of Open Access for these publishers the same premise is perfectly applicable, explore moré in the <a href="http://thecostofknowledge.com/" target="_blank">The Cost of Knowledge</a>.</p>
+<p>Recommended reading: &#8220;<a href="http://scholarlyoa.com/2014/01/02/list-of-predatory-publishers-2014/" target="_blank">List of Predatory Publishers 2014</a>&#8220;</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=945#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-945 -->
+
+				
+					
+	<article id="post-933" class="post-933 post type-post status-publish format-standard hentry category-digital-humanities category-internet-science category-open-access category-oxford-internet-institute category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=933" rel="bookmark">Flexible models for funding open access in journal publishing</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=933" title="9:24 am" rel="bookmark"><time class="entry-date" datetime="2014-11-06T09:24:25+00:00">06/11/2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=933#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_937" style="width: 594px" class="wp-caption alignleft"><a href="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/11/Notebook-5.jpg" target="_blank"><img class="wp-image-937 size-large" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/11/Notebook-5-1024x728.jpg" alt="Open Access Benchmark" width="584" height="415" /></a><p class="wp-caption-text">Benchmark comparing 9 different funding models promoting Open Access publishing</p></div>
+<p>One of the main challenges that the Open Access movement faces is to explore (more) economically sustainable models to embrace and support an inclusive openness (not only for a <a href="http://blogs.oii.ox.ac.uk/cobo/?p=912" target="_blank">few</a>). In this post we present a work-in-progress including nine remarkable cases that pursue OA and flexible funding models.</p>
+<p>An overview of this benchmark comparing these nine different funding models adopted to promote Open Access shows that although most of them are significantly subsidised is interesting to see how their approaches are complementary and not mutually exclusive. Common patterns are also: low fees, reduced fees for low-income countries, adoption of Creative Commons licences, as well as flexibility.</p>
+<p>This benchmark includes the following cases: Public Library of Science (PLoS ONE), Ubiquity Press, PeerJ, Open Library of Humanities, Co-Action Publishing, African Journals OnLine (AJOL), SCOAP3 consortium, eLife and F1000Research. [details provided in <a href="http://www.slideshare.net/cristobalcobo/flexible-subsidiaries-models-for-funding-open-access-journal-publishing-sheet1-2" target="_blank">SlideShare</a> or <a href="https://docs.google.com/spreadsheets/d/1zgTFg799dwmxbBd3AMpYrbQrsVA2NrLvmHtxtHJHUKA/edit?usp=sharing" target="_blank">GoogleDrive</a>].</p>
+<p>Here a summary of this revision:</p>
+<ul>
+<li><a href="http://www.plosone.org/" target="_blank"><strong>Public Library of Science (PLoS ONE)</strong></a>: Charging a publication fee to the authors, institutions or funders for each article published (aka, article-processing charges <span style="color: #800080;"><strong>APC</strong></span>). It includes a Low- and Middle-Income Country Assistance.</li>
+<li><strong><a href="http://www.ubiquitypress.com/" target="_blank">Ubiquity Press</a>:</strong> Also based on an article processing charges (<strong><span style="color: #800080;">APCs</span></strong>) covered by an author’s institution or sponsor, but where appropriate they waive or reduce APCs to ensure cost is not a barrier to publication.</li>
+<li><strong><a href="https://peerj.com/" target="_blank">PeerJ</a>: </strong>Authors who choose to pay for a <span style="color: #800080;"><strong>publishing plan</strong></span> at submission get the cheapest rates ($99), authors can choose to submit for &#8216;free&#8217; and pay only once accepted &#8211; in that instance their publication rates are slightly higher. Also includes a fee waiver, on request, to anyone from countries classified as Low-income economies.</li>
+<li><strong><a href="https://www.openlibhums.org/" target="_blank">Open Library of Humanities</a>:</strong> Open in both monetary and permission terms. It propose an economies of scale model of <span style="color: #800080;"><strong>Library Partnership Subsidies</strong></span> to collectively fund the venue and its array of overlay journals [starting in 2015]. To fund an operation publishing 250 articles and 12 books in partnership are need a banded average of just $700 from 500 libraries. They also waive or reduce APCs to ensure cost is not a barrier to publication.</li>
+<li><a href="http://www.co-action.net/" target="_blank"><strong>Co-Action Publishing</strong></a>: Author&#8217;s publications are freely published in an OA online edition.A printed edition of the <span style="color: #800080;"><strong>publication can also be produced at a low price</strong></span>. The project is funded by the Swedish Royal Library and include other <span style="color: #800080;"><strong>sponsors</strong></span> (advertising revenue).</li>
+<li><strong><a href="http://www.ajol.info/" target="_blank">African Journals OnLine (AJOL)</a></strong>:<strong> </strong>Allows free access to thousands of article abstracts, and <span style="color: #800080;"><strong>offers a progressively charged article download service</strong></span> for researchers and librarians to access full text of individual articles. Fees are defined according to the income of the user&#8217;s country (It includes a Low-Income Country Assistance.). AJOL hosts over 400 peer-reviewed journals from 30 African countries</li>
+<li><a href="http://scoap3.org/" target="_blank"><strong>SCOAP3 consortium</strong>: </a>They adopt a large-scale innovative economic model based on an <span style="color: #800080;"><strong>international consortium of libraries and funding agencies</strong> </span>which collaborate to cover the costs of publishers and <span style="color: #800080;"><strong>convert key journals</strong></span> in the field of High-Energy Physics to Open Access at no cost for authors.</li>
+<li><strong><a href="http://elifesciences.org/" target="_blank">eLife</a></strong>: It is a peer-reviewed open access scientific journal for the biomedical and life sciences. It is sponsored by <strong><span style="color: #800080;">several founders agencies</span></strong> and donors.</li>
+<li><strong><a href="http://f1000research.com/" target="_blank">F1000Research</a></strong>: It offers rapid open access publication, where articles are published first and peer reviewed after publication by invited referees. Research requires submitters to pay an <span style="color: #800080;"><strong>APC</strong></span> for publication, but for those who are members of F1000 or are <span style="color: #800080;"><strong>participating peer referees, a heavily discounted</strong></span>.</li>
+</ul>
+<p><iframe src="//www.slideshare.net/slideshow/embed_code/41166148" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+<div><strong> <a title="Flexible (subsidiaries) models for funding open access in journal publishing" href="//www.slideshare.net/cristobalcobo/flexible-subsidiaries-models-for-funding-open-access-journal-publishing-sheet1-2" target="_blank">Flexible (subsidiaries) models for funding open access in journal publishing</a> </strong> from <strong><a href="//www.slideshare.net/cristobalcobo" target="_blank">Cristobal Cobo Romaní</a></strong></div>
+<p>(access the <a href="https://docs.google.com/spreadsheets/d/1zgTFg799dwmxbBd3AMpYrbQrsVA2NrLvmHtxtHJHUKA/edit?usp=sharing" target="_blank">file in Google Drive</a>)</p>
+<p>&nbsp;</p>
+<p>Reference:</p>
+<div class="csl-bib-body">
+<div class="csl-entry">Fruin, C., &amp; Rascoe, F. (2014). Funding open access journal publishing Article processing charges. <i>College &amp; Research Libraries News</i>, <i>75</i>(5), 240–243. http://crln.acrl.org/content/75/5/240</div>
+</div>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=34" rel="category">digital humanities</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=33" rel="category">Internet Science</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=32" rel="category">open access</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=7" rel="category">Oxford Internet Institute</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=933#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-933 -->
+
+				
+					
+	<article id="post-922" class="post-922 post type-post status-publish format-standard hentry category-internet-science category-networks-of-the-future category-open-access category-oxford-internet-institute category-research category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=922" rel="bookmark">The opposite of open isn&#8217;t closed but broken</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=922" title="2:09 pm" rel="bookmark"><time class="entry-date" datetime="2014-11-04T14:09:02+00:00">04/11/2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=922#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_924" style="width: 594px" class="wp-caption alignleft"><a href="http://exchanges.wiley.com/blog/wp-content/uploads/2014/11/Researcher-Data-Insights-Infographic-FINAL.jpg" target="_blank"><img class="wp-image-924 size-large" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/11/Screen-shot-2014-11-04-at-14.41.38-1024x270.png" alt="Original source: http://exchanges.wiley.com/blog/2014/11/03/how-and-why-researchers-share-data-and-why-they-dont" width="584" height="153" /></a><p class="wp-caption-text">Wiley (publishing) conducted a survey on &#8216;sharing data&#8217; inviting 90,000 researchers across a wide array of disciplines. They received more than 2,250 responses from individuals engaged in active research programs. Here an excerpt of the results recently published. <a href="http://exchanges.wiley.com/blog/2014/11/03/how-and-why-researchers-share-data-and-why-they-dont/" target="_blank">Source</a>.</p></div>
+<p>Although the advocates of Creative Commons seems to be more than those who challenge this licenses, there are always voices who enrich the discussion, here a comment about CC from the world of photography [read more in <a href="http://blogs.oii.ox.ac.uk/cobo/?p=850" target="_blank">Joost Smiers</a>, <a href="http://www.cccb.org/en/video-now_2007_a_world_without_copyright_joost_smiers_ov_en-44721" target="_blank">video</a>]:</p>
+<blockquote><p>&#8220;many people see the CC licences as an alternative to copyright, but in fact they are not, but are simply licences for the use of work that do not actually affect your copyright&#8221; [<a href="http://re-photo.co.uk/?p=175" target="_blank">+</a>]</p></blockquote>
+<p>On the other side of the spectrum, one scholar who is a strong promoter of CC is Peter Suber. Here my <a href="http://en.wikipedia.org/wiki/Open_notebook_science" target="_blank"><em>open notebook</em></a> of his &#8216;<a href="http://cyber.law.harvard.edu/hoap/Open_Access_(the_book)" target="_blank">Open Access</a>&#8216; (<a href="http://mitpress.mit.edu/sites/default/files/titles/content/9780262517638_Open_Access_PDF_Version.pdf" target="_blank">download</a>)</p>
+<p><span style="text-decoration: underline;">Why OA?</span></p>
+<p>OA add value in two ways: &#8220;by <b>making it available</b> to more people who can put it to use, and by <b>freeing those people to use and reuse it&#8221;. The later means not only</b> its &#8220;free availability on the public internet, but also permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles, crawl them for indexing, pass them as data to software, or use them for any other lawful purpose, without financial, legal, or technical barriers other than those inseparable from gaining access to the internet itself&#8221;.</p>
+<p><span style="text-decoration: underline;">A post &#8216;H index&#8217; world:</span></p>
+<p>&#8220;OA <strong>benefits authors as well as readers</strong>. Authors want <strong>access</strong> to readers at least as much as readers want access to authors. All authors want to cultivate a larger audience and <strong>greater impact</strong>&#8220;.</p>
+<p>&#8216;There&#8217;s growing evidence that <strong>OA articles are downloaded more often</strong> as well, and that journals converting to OA see a rise in their submissions and citation impact&#8217;. Therefore &#8216;<strong>OA is not a sacrifice for authors who write for impact rather than money</strong>. It increases a work&#8217;s visibility, retrievability, audience, usage, and citations, which all convert to career building&#8217;</p>
+<p>&#8220;The academic custom to write research articles for impact rather than money may be a lucky accident that could  have been otherwise&#8221;. Nowaday, the understanding of impact has also changed. <strong>We (would like to) live in a post &#8216;H index&#8217; world, not because there is something intrinsically mean with it, but in the Internet there&#8217;s much more things to consider than only the ranking of journals and the number of citations</strong> [see &#8216;<a href="http://blogs.oii.ox.ac.uk/cobo/?p=810" target="_blank">social impact metrics</a>&#8216;]</p>
+<p><span style="text-decoration: underline;">&#8216;If it is not open it&#8217;s broken':</span></p>
+<ul>
+<li>For four decades, <strong>subscription prices have risen significantly faster than inflation</strong> and significantly faster than library budgets.</li>
+<li>When libraries pay for <strong>subscriptions</strong> to digital journals, they <strong>don&#8217;t buy</strong> or own their own <strong>digital copies but merely rent or license them for a period of time</strong>. If they cancel a subscription, they could lose access to past issues.</li>
+<li>The deeper problem is that <strong>we donate time, labor, and public money</strong> to create new knowledge and then hand control over the results to businesses that believe, correctly or incorrectly, that <strong>their revenue and survival depend on limiting access to that knowledge.</strong></li>
+<li>Models that work well in some fields and nations may not work as well in others. No one claims that one size fits all. <strong>There&#8217;s still room for creativity in finding ways to pay the costs of a peer-reviewed OA journal</strong>, and many smart and motivated people are exploring different possibilities [see <a href="http://blogs.oii.ox.ac.uk/cobo/?p=828" target="_blank">flexible models for sustainability</a>]</li>
+<li><strong>About one-quarter of all peer-reviewed journals today are OA.</strong> A growing number of for-profit OA publishers are making profits, and a growing number of nonprofit OA publishers are breaking even or making surpluses. <strong>Two different business models drive these sustainable publishing programs:</strong> <em>BioMed Central</em> makes <strong>profits</strong> and the <em>Public Library of Science</em> makes <strong>surpluses</strong> by charging publication fees. Fee-based OA journals tend to work best in fields where most research is funded, and no-fee journals tend to work best in fields and countries where comparatively little research is funded.</li>
+</ul>
+<p><span style="text-decoration: underline;">Taking the red or the blue pill:</span></p>
+<ul>
+<li>Librarians traditionally distinguish four functions performed by scholarly journals: <strong>Registration</strong> (time stamp), <strong>certification</strong> (peer review), <strong>awareness</strong> (distribution), and <strong>archiving</strong> (preservation). We know that green and <strong>gold OA</strong> are complementary as soon as we recognize that green is better than gold for <em>registration</em> (its time stamps are faster) and preservation, and that gold OA is better than green OA for <em>certification</em> (peer review). Neither green nor gold OA will suffice, long-term or short-term. That&#8217;s a reason to pursue both.</li>
+<li><strong>Gratis OA removes price barriers</strong> but not permission barriers. <strong>Libre OA is free of charge and also free of some copy-right and licensing restrictions</strong>.The gratis/libre dis-tinction is about user rights or freedoms, while the green/ gold distinction is about venues or vehicles. Gratis/libre answers the question, how open is it? Green/gold answers the question, how is it delivered?</li>
+<li>OA does not require waiving all rights or waiving copyright altogether. On the contrary, <strong>open licenses presuppose copyright, since they express permissions from the copyright holder</strong>. Moreover, the rights not waived are fully enforceable. In the clear and sensible language of Creative Commons, open licenses create “some-rights-reserved” copyrights rather than “all-rights-reserved” copyrights. Creative Commons offers CC0 (CC-Zero) for copyright holders who want to assign their work to the public domain.</li>
+</ul>
+<p>And to conclude, &#8216;<em>Even if we acknowledge the need for cultural change in the transition to OA—far more critical than technological change—<strong>it&#8217;s easy to underestimate the cultural barriers and the time required to work through them</strong></em>&#8216;.</p>
+<p>Some relevant examples of Green OA (research and or data repositories): <a href="https://www.openaire.eu" target="_blank">OpenAire.eu</a>; <a href="http://zenodo.org/" target="_blank">Zenodo.org</a>; <a href="http://services.okfn.org/" target="_blank">OpenKnowledge Service</a>.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=33" rel="category">Internet Science</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=5" rel="category">Networks of the Future</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=32" rel="category">open access</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=7" rel="category">Oxford Internet Institute</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=20" rel="category">Research</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=922#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-922 -->
+
+				
+					
+	<article id="post-912" class="post-912 post type-post status-publish format-standard hentry category-digital-humanities category-education-and-ict category-open-access">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=912" rel="bookmark">The Open-Access Movement is Not Really about Open Access*</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=912" title="2:14 pm" rel="bookmark"><time class="entry-date" datetime="2014-11-03T14:14:24+00:00">03/11/2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=912#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_920" style="width: 594px" class="wp-caption alignleft"><a href="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/11/22.jpg"><img class="size-large wp-image-920" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/11/22-1024x576.jpg" alt="The diagram illustrates how uneven could be the adoption of gold OA within the academic sector. Significant differences between distinct disciplines as well as a different approaches when wealthier and less (or non) wealthier higher education institutions are compared. How to overcome these disparities?" width="584" height="328" /></a><p class="wp-caption-text">The diagram illustrates how uneven could be the adoption of gold OA within the academic sector. Significant differences between distinct disciplines as well as a different approaches when wealthier and less (or non) wealthier higher education institutions are compared. How to overcome these disparities?</p></div>
+<p>&nbsp;</p>
+<p>I just read (and enjoyed) the chapter &#8216;<em>The Humanities &amp; Open Access Publishing: A New Paradigm of Value?</em>&#8216; by Eleonora Belfiore, (which interestingly is not open access) edited in a compilation made by the same author and Anna Upchurch [<a href="http://www2.warwick.ac.uk/fac/arts/theatre_s/cp/research/researchthemes/humanities/" target="_blank">Humanities in the Twenty-first century: Beyond utility and markets</a> **]. Here some excerpts which discuss the puzzling paradoxes behind the<a href="http://blogs.oii.ox.ac.uk/cobo/?p=776" target="_blank"> gold OA.</a></p>
+<p>A report into the future of humanities academic journal publishing, prepared in 2009 by <a href="http://www.nhalliance.org/bm~doc/hssreport.pdf" target="_blank">Mary Waltham for the Modern Languages Association</a>, concluded that:</p>
+<p style="padding-left: 30px;">&#8220;A shift to an entirely new funding model in the pure form of Open Access (author/producer pays) in which<strong> the cost of publishing research articles in journal are paid for by author or funding agency</strong>, and readers have access free online, <strong>is not currently a sustainable option</strong> costs provided. The sources of external funding required for such a model are also not clear and may not be available even as broadly as in STM [scientific, technical &amp; medical] disciplines&#8221; (2009:2).</p>
+<p><span style="text-decoration: underline;">Arts and Humanities behind the gold OA: </span></p>
+<p>&#8220;&#8230;The question of <strong>financial sustainability of arts and humanities journals</strong> in a scenario in which gold OA publication becomes a requisite for research funding <strong>can be hardly dismissed as facetious</strong>, especially when it is coupled with the acknowledgement the even those funding bodies who will now be expecting the outputs of the work they fund to be OA <strong>will not be able to cover fully the additional costs that are associated with gold OA</strong>. The fact that the cost of providing gold OA will not be entirely met by research funders, and will therefore <strong>have to be passed onto research</strong> themselves or their institutions, <strong>poses some serious cause for concern&#8221;</strong>. (p.205)</p>
+<p>&#8220;&#8230;There are other <strong>reasons why OA has been spreading much more slowly in the arts and humanities than STEM</strong> subjects, and these have to do with the peculiar characteristics of journal publishing in the humanities. As Suber (2005) explains, the fact that <strong>article rejection rates are much higher in humanities journals make peer review more expensive for them</strong>; this, coupled, with the observation that <strong>demand for journal articles in the humanities declines more slowly after publication than in the science, means that embargos need to be much longer than in STEM subject journals for them to protect the economic interest of the journals</strong>, at the expense of the timely free access. Furthermore, as arts and humanities scholar are more likely than other research to want to reprint images, poems, and work of art in their article, they are more likely to have a <strong>hard time getting permission for the use of such material in open-access articles</strong> than in traditional ones in toll-access publication&#8221;. [p.207]</p>
+<p><span style="text-decoration: underline;">A first and second class OA?:</span></p>
+<p>&#8220;[….] It is feared that <strong>a gold mandate is very likely to result in a deeper disparity between the wealthier higher education institutions</strong>, who might  find it easier to divert resources to meet the cost of publishing articles in gold open-access from in toll-access scholarly publications, and the <strong>less wealthy institutions, which would struggle, and might therefore be unable to support, or only selectively support, their staff’s publishing ambitions&#8221;. </strong>(p.205)</p>
+<p>&#8220;[….] However, one might legitimately suggest that <strong>the issue of the medium- to long-term sustainability of commercial academic publishing is one that has more to do with long-standing structural problems with the industry,</strong> so that an outright rejection of a shift to gold OA , and a return to the <em>status quo, </em>would not in fact solve any of the current problems nor reduce the cost faced by university libraries&#8221; [p.207].</p>
+<p>Previous post on related topics: <a href="http://blogs.oii.ox.ac.uk/cobo/?p=902" target="_blank">OA in humanities</a> &#8211; <a href="http://blogs.oii.ox.ac.uk/cobo/?p=828" target="_blank">Sustainable business models on OA</a>.</p>
+<p><iframe src="//www.youtube.com/embed/3nWuF7ZVG0w" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe> Peter Suber, presenting his book: &#8216;<a href="http://cyber.law.harvard.edu/events/2012/09/openaccess" target="_blank">Open Access</a>&#8216;</p>
+<p>* Title borrowed from <a href="http://triplec.at/index.php/tripleC/article/view/525/514" target="_blank">Jeffrey Beall&#8217;s paper</a>.</p>
+<p><span style="text-decoration: underline;">Reference:</span></p>
+<p>[**] Belfiore, Eleonora, and Anna Upchurch, eds. <i>Humanities in the twenty-first century: beyond utility and markets</i>. Palgrave macmillan, 2013.</p>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=34" rel="category">digital humanities</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=24" rel="category">Education and ICT</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=32" rel="category">open access</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=912#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-912 -->
+
+				
+					
+	<article id="post-902" class="post-902 post type-post status-publish format-standard hentry category-digital-humanities category-education-and-ict category-learning-2 category-open-access category-research category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=902" rel="bookmark">Hacking Open Access: Sustainable publication for Humanities</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=902" title="11:45 am" rel="bookmark"><time class="entry-date" datetime="2014-10-30T11:45:37+00:00">30/10/2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=902#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<p><iframe src="//www.slideshare.net/slideshow/embed_code/28662235" width="560" height="420" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+<div><strong> <a title="Open Access in Humanities and Social Sciences, Munin conference, nov 2013" href="//www.slideshare.net/EelcoFerwerda/open-access-in-humanities-and-social-sciencesoa-in-hss-munin-conference-nov-2013/5" target="_blank">Open Access in Humanities and Social Sciences, </a></strong>from <strong><a href="//www.slideshare.net/EelcoFerwerda" target="_blank">Eelco Ferwerda</a> </strong>provides a remarkable compilation of this discussion.</div>
+<p>&nbsp;</p>
+<p>Although the open access movement has been going strong for over 10 years in the areas of natural sciences and medical sciences, the humanities and social sciences have lagged behind. However, OA is not only an exclusive <a href="http://en.wikipedia.org/wiki/STEM_fields" target="_blank">STEM</a> approach anymore, the humanities are also considering how they can transition in this direction.</p>
+<p><b>How to move toward sustainability?</b></p>
+<p>The current system is not sustainable. Even the <a href="http://www.jisc.ac.uk/whatwedo/topics/opentechnologies/openaccess/green-gold.aspx">gold OA</a> shouldn&#8217;t be considered as the unique or best solution, which is not entirely suitable for humanities and social sciences as well as for those who conduct self-founded research. So, the key question is: <em>How to implement, on a large scale, a model that does not rest upon direct, author-facing payments, but instead, supports the publishing infrastructure through collective efforts?</em></p>
+<p>As presented <a href="http://blogs.oii.ox.ac.uk/cobo/?p=828" target="_blank">previously</a> in the (<a href="http://www.slideshare.net/cristobalcobo/exploring-business-models-for-open-access">30 exploratory models for OA sustainability</a>) there are hybrid modes: <a href="http://www.ubiquitypress.com/">Ubiquity Press</a>, <a href="http://www.co-action.net/">Co-Action Publishing</a>, <a href="http://www.openedition.org/">Open Editions</a>, and the new project <a href="https://www.openlibhums.org/">Open Library of Humanities</a>, are some examples of Open Access publishing developed by scholars from those communities. Work by <a href="http://www.scielo.org/php/index.php?lang=es">SCIELO</a>, <a href="http://www.ajol.info/">AJOL</a>, <a href="http://www.alluvium-journal.org/">Alluvium</a>, <a href="http://elifesciences.org/about">eLife</a> among others are also noteworthy.</p>
+<p><b>What makes the Open Library of Humanities a truly exciting experiment?</b></p>
+<p>The publishing models to be adopted and implemented once the fund-raising phase is complete, are fully driven (and thus vetted and legitimated) by the academic community itself. OLH aims to develop a nonprofit, low-cost, peer-reviewed, ethically-driven, sustainable, and inclusive scholarly publishing venture. The goal is to be non-profit, but sustainable.</p>
+<p>Here key ideas about OLH:</p>
+<ul>
+<li>It is based on a <strong>subsidy model</strong> that is piloting costings, labour needs, infrastructure requirements and potential revenue streams.</li>
+<li>It is <strong>not owned by a publisher</strong>; it’s run by scholars (and recruits &#8220;big names&#8221; on to its editorial board).</li>
+<li>It provides a <strong>huge online repository of peer-reviewed articles</strong> that shows off the best in research from around the world in a way that’s fully and publicly accessible.</li>
+<li>It <strong>offers article-level metrics</strong> to track each work’s impact in the scholarly field.</li>
+<li>It is <strong>non-profit and open in both monetary and permission terms</strong>. It gives free access under a creative commons licence and sets out to provide a resource for scholars and librarians to digitally preserve and archive work permanently and for everyone.</li>
+<li>It launched a campaign asking scholars to Pledge to Publish a paper with OLH within its first year. Scholars who so pledge and <strong>don’t have institutional support will have any fees, yet to be determined, waived.</strong></li>
+</ul>
+<p><em>postscript</em>: If Humanities and Social Science journals insist on lengthy embargos they will lose the support of many in the academic community.</p>
+<div style="margin-bottom: 5px;"><iframe src="//www.youtube.com/embed/-9UCVOvKNfs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Refereces:<br />
+Media Coverage | Open Library of Humanities. (n.d.). Retrieved from https://www.openlibhums.org/media/media-coverage/</p>
+<div class="csl-bib-body">
+<div class="csl-entry">Press Release | Open Library of Humanities. (n.d.). Retrieved from https://www.openlibhums.org/media/press-release/</div>
+</div>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=34" rel="category">digital humanities</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=24" rel="category">Education and ICT</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=29" rel="category">Learning</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=32" rel="category">open access</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=20" rel="category">Research</a>, <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=902#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-902 -->
+
+				
+					
+	<article id="post-869" class="post-869 post type-post status-publish format-standard hentry category-uncategorized">
+		<header class="entry-header">
+						<h1 class="entry-title"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=869" rel="bookmark">Collaborative Commons: Why cheap e-books won&#8217;t beat copyleft publications</a></h1>
+			
+						<div class="entry-meta">
+				<span class="sep">Posted on </span><a href="http://blogs.oii.ox.ac.uk/cobo/?p=869" title="12:54 pm" rel="bookmark"><time class="entry-date" datetime="2014-10-20T12:54:18+00:00">20/10/2014</time></a><span class="by-author"> <span class="sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.oii.ox.ac.uk/cobo/?author=2" title="View all posts by Cristobal Cobo" rel="author">Cristobal Cobo</a></span></span>			</div><!-- .entry-meta -->
+			
+						<div class="comments-link">
+				<a href="http://blogs.oii.ox.ac.uk/cobo/?p=869#respond"><span class="leave-reply">Reply</span></a>			</div>
+					</header><!-- .entry-header -->
+
+				<div class="entry-content">
+			<div id="attachment_878" style="width: 310px" class="wp-caption alignleft"><a href="http://www.bestthinking.com/articles/society_and_humanities/philosophy/theory_of_randomness/to-what-extent-does-randomness-exist-" target="_blank"><img class="wp-image-878 size-medium" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/10/99a90c24-6113-4750-9e29-a167c2849251_972-300x300.jpeg" alt="Image licensed as Public Domain: Public Domain Information in the public domain is free for anyone to use, in any way they see fit. This includes exhibition, distribution and making derivative works." width="300" height="300" /></a><p class="wp-caption-text">Image licensed as Public Domain: Public Domain Information in the public domain is free for anyone to use, in any way they see fit. This includes exhibition, distribution and making derivative works.</p></div>
+<p>In this series of post we have explored to what extent can we <strong>rethink the licensing instruments</strong> (perhaps beyond Creative Commons); <strong>alternative forms of economic sustainability</strong> (<em>freemium</em>); as well as <strong>new incentives mechanisms</strong> (non-traditional knowledge currencies) into the Open Access movement. Here we will add some arguments to the two first aspects.</p>
+<p><span style="text-decoration: underline; color: #800080;">Alternative forms of economic sustainability:</span></p>
+<p>On its recently published book, Rifkin (2014) <a href="www.thezeromarginalcostsociety.com" target="_blank">The Zero Marginal Cost Society</a>, argues that <strong>the meteoric rise of a global Collaborative Commons might eclipse of capitalism</strong>. He presents some interesting arguments to better understand how and why the world of online Open Access might have a promising future, but before we need to clarify what &#8216;marginal cost&#8217; means:</p>
+<ul>
+<li><strong>Marginal cost</strong> denotes the <strong>extra or additional cost of producing 1 extra unit of output</strong> (Samuelson, 2010)</li>
+<li>The <strong>amount at any given volume of output by which aggregate costs are changed if the volume of output is increased or decreased by one unit</strong> (Thakur, S. G., Ajay Sharma, Vikram).</li>
+<li>The total cost of a production run for making one additional unit of an item.<strong style="color: #000000;"> The fixed costs have already been absorbed by the already produced items and only the direct (variable) costs have to be accounted for.</strong> Marginal costs are variable costs consisting of labor and material costs, plus an estimated portion of fixed costs (such as administration overheads and selling expenses). (WebFinance, 2014).</li>
+</ul>
+<p>Based on this principle, Rifkin explains that &#8220;<strong>the cost of actually producing each additional unit</strong>—if fixed costs are not counted—<strong>becomes essentially zero</strong>, <strong>making the product nearly free</strong>&#8220;.</p>
+<blockquote><p>&#8220;But what if the marginal cost of producing and distributing a book plummeted to near zero? In fact, it’s already happening. A growing number of <strong>authors are writing books and making them available at a very small price, or even for free,</strong> on the Internet—bypassing publishers, editors, printers, wholesalers, distributors, and retailers. The cost of marketing and distributing each copy is nearly free. The only cost is the amount of time consumed by creating the product and the cost of computing and connecting online. An e-book can be produced and distributed at near zero marginal cost&#8221;.</p></blockquote>
+<p><iframe src="//www.youtube.com/embed/3xOK2aJ-0Js" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>The near zero marginal cost phenomenon has already <strong>wreaked havoc on the publishing and communications industries</strong> as more and more information is being made available nearly free to billions of people.</p>
+<p>Here a slight rephrasing in brackets &#8220;[&#8230;]&#8221; of Rifkin&#8217;s argument from the Open Access perspective:</p>
+<p><em>&#8230;the near zero marginal cost revolution argue that while nearly free goods and services</em> [i.e. repositories and full open access journals, <a href="http://doaj.org/" target="_blank">DOAJ</a>] <em>will become far more prevalent, they will also open up new possibilities for<strong> creating other goods and services at sufficient profit margins to maintain growth</strong> and even allow the capitalistic system to flourish</em> [apart from the classic examples of hybrid models such as Public Library of Science (<a href="http://www.plos.org/" target="_blank">PLoS</a>) or BioMed Central (<a href="http://www.biomedcentral.com/" target="_blank">BMC</a>) see <a href="http://blogs.oii.ox.ac.uk/cobo/?p=828" target="_blank"><strong>30 hybrid freemium models</strong></a>].</p>
+<p>&#8220;The diminishing <strong>marginal cost of producing and delivering e-books has reduced retail prices significantly</strong> and forced smaller publishers and many retail book sellers out of business. Even the <strong>cheaper e-books are facing ever stiffer competition from copyleft publications that are distributed for free or nearly free</strong>&#8220;. (p.203)</p>
+<p>Talking about the marginal cost of producing and distributing information at a nearly zero cost, Rifkin mentions the case of online education, MOOCs in particular:</p>
+<p>&#8230;They [Moocs providers] have yet to fully realize the fact that <strong>the near zero marginal cost of education in a global virtual Commons</strong> they themselves are creating will increasingly become the new teaching paradigm for higher education, while brick-and-mortar learning eventually will play an ever more circumscribed and narrow supplementary role.</p>
+<p>At least in information rich environments t<span style="color: #545454;">he </span><span style="font-weight: bold; color: #545454;">transition from scarcity to abundance has been speeding up — not slowing down. It is still to be seen if smaller and smaller </span>marginal costs liberate goods and services from market pricing (free). In the meantime, it will be interesting to see if in this changing scenario [of open, closed and hybrid models] is there going to be any kind of &#8216;<a href="http://en.wikipedia.org/wiki/Natural_selection" target="_blank">natural selection</a>&#8216; phenomena or David will be (finally) able to defeat Goliath.</p>
+<p><span style="text-decoration: underline; color: #800080;"> Rethinking the licensing instruments:</span></p>
+<p>Here some ideas to challenge Copy Right but also Creative Commons. Boyle (2009) argued that &#8216;[people have]<b> the </b><strong>idealized vision of intellectual property</strong><b>. It is not merely supposed to </b><strong>produce incentives for innovation</strong><b> by rewarding creators, though that is vital&#8230; </b><b>Copyright, intended to be the servant of </b><strong>creativity</strong><b>, a means of </b><strong>promoting access</strong><b> to information, is becoming an obstacle to both. [However] the </b><strong>current intellectual property policy is overwhelmingly and tragically bad</strong> in ways that everyone, and not just lawyers or economists, should care about&#8221;.</p>
+<p>The author claims for the importance of thinking in the<strong> “opposite of property”</strong> as a concept that is much more important when we come to the world of ideas, information, expression, and invention: <strong>&#8220;public domain&#8221;, which is free of property rights and the user could do with it (content, art or creation) whatever is wanted</strong>.</p>
+<p>Interestingly, he adds, <strong>commons can be restrictive</strong>. The term<b> “commons”</b> is generally used to <strong>denote a resource over which some group has access and use rights—albeit perhaps under certain conditions</strong>. (Creative) Commons is actually based on Copyright and removing the embedded conditions it would open a completely new open perspective.</p>
+<p><a href="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/10/The-Public-Domain-Grunge-White-Stamp-final.jpg" target="_blank"><img class="alignleft size-medium wp-image-886" src="http://blogs.oii.ox.ac.uk/cobo/wp-content/uploads/2014/10/The-Public-Domain-Grunge-White-Stamp-final-300x194.jpg" alt="The-Public-Domain-Grunge-White-Stamp-final" width="300" height="194" /></a><b>Boyle claims that t</b>he <strong>public domain has a vital and tragically neglected role to play</strong> in innovation and culture: <em><b>Public domain has been a grand experiment, </b>one that should not be allowed to die. The ability to draw freely on the entire creative output of humanity is one of the reasons we live in a time of such fruitful creative ferment.</em></p>
+<p><span style="text-decoration: underline;">References</span>:</p>
+<ul>
+<li>Samuelson, P. A. (2010). Economics. Tata McGraw-Hill Education.</li>
+<li>Thakur, S. G., Ajay Sharma, Vikram. (n.d.). Cost Accounting. FK Publications.</li>
+<li>WebFinance. (2014). What is marginal cost? definition and meaning. Retrieved October 20, 2014, from http://www.businessdictionary.com/definition/marginal-cost.html</li>
+<li>Rifkin, Jeremy. The Zero Marginal Cost Society: The Internet of Things, the Collaborative Commons, and the Eclipse of Capitalism. Macmillan, 2014.</li>
+<li>Boyle, James. The public domain: Enclosing the commons of the mind. Yale University Press, 2009.</li>
+</ul>
+					</div><!-- .entry-content -->
+		
+		<footer class="entry-meta">
+												<span class="cat-links">
+				<span class="entry-utility-prep entry-utility-prep-cat-links">Posted in</span> <a href="http://blogs.oii.ox.ac.uk/cobo/?cat=1" rel="category">Uncategorized</a>			</span>
+															
+									<span class="sep"> | </span>
+						<span class="comments-link"><a href="http://blogs.oii.ox.ac.uk/cobo/?p=869#respond"><span class="leave-reply">Leave a reply</span></a></span>
+			
+					</footer><!-- .entry-meta -->
+	</article><!-- #post-869 -->
+
+				
+						<nav id="nav-below">
+			<h3 class="assistive-text">Post navigation</h3>
+			<div class="nav-previous"><a href="http://blogs.oii.ox.ac.uk/cobo/?author=2&#038;paged=2" ><span class="meta-nav">&larr;</span> Older posts</a></div>
+			<div class="nav-next"></div>
+		</nav><!-- #nav-above -->
+	
+			
+			</div><!-- #content -->
+		</section><!-- #primary -->
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<aside id="text-5" class="widget widget_text">			<div class="textwidget"><a href="http://scholar.google.com/citations?sortby=pubdate&amp;hl=en&amp;user=Roc8DUYAAAAJ&amp;pagesize=100&amp;view_op=list_works" target="_blank"><img src="https://sites.google.com/site/einseu/home/logo-googlescholar.jpeg" alt="Google Scholar Citations" width="200" /></a>
+<a href="http://stallman.org/facebook.html" target="_blank"><img src="http://stallman.org/no-facebook-200x64.png" alt="Not f'd. You won't find us on Facebook" width="200" /></a>
+
+
+<a href="http://www.oii.ox.ac.uk/people/?id=189#tab_webcasts" target="_blank"><img src="https://sites.google.com/site/cristobalcobo/home/tv2.gif" alt="Webcast" width="200" /></a>
+Lecture Webcasts</div>
+		</aside><aside id="text-4" class="widget widget_text">			<div class="textwidget"><!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=6195468; 
+var sc_invisible=1; 
+var sc_security="7d1666d3"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="wordpress counter"
+href="http://www.statcounter.com/wordpress.org/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/6195468/0/7d1666d3/1/"
+alt="wordpress counter" ></a></div></noscript>
+<!-- End of StatCounter Code --></div>
+		</aside><aside id="linkcat-2" class="widget widget_links"><h3 class="widget-title">Blogroll</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://ergonomic.wordpress.com/" title="Personal blog 2005-2010" target="_blank">Blog (spanish)</a></li>
+<li><a href="http://scholar.google.com/citations?sortby=pubdate&#038;hl=en&#038;user=Roc8DUYAAAAJ&#038;pagesize=100&#038;view_op=list_works" title="Citations in Google Scholar" target="_blank">Citations in Google Scholar</a></li>
+<li><a href="http://www.invisiblelearning.com" title="Invisible Learning is collaborative book (in English and Spanish) and an online repository of bold ideas for designing cultures of sustainable innovation." target="_blank">Invisible Learning</a></li>
+<li><a href="http://www.youtube.com/watch?v=9E_BH00dkJk" title="Invisible Learning (TEDxLaguna)" target="_blank">My TED Talk</a></li>
+<li><a href="http://mediaresearchhub.ssrc.org/cristobal-cobo-romani/person_view" title="The Media Research Hub is a resource for researchers, advocates, and practitioners working for a more democratic and participatory public spher" target="_blank">SSRC Research Hub</a></li>
+<li><a href="http://www.cristobalcobo.net/" title="Cristobal Cobo " target="_blank">The Web of Cristobal Cobo</a></li>
+
+	</ul>
+</aside>
+<aside id="meta-3" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="http://blogs.oii.ox.ac.uk/cobo/wp-login.php">Log in</a></li>
+			<li><a href="http://blogs.oii.ox.ac.uk/cobo/?feed=rss2">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogs.oii.ox.ac.uk/cobo/?feed=comments-rss2">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">Proudly powered by WordPress</a>
+			</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+</body>
+</html>

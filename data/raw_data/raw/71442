@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+    <!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<title>Biggin Research Group</title>
+	<meta name="description" content="Free Html5 Templates and Free Responsive Themes Designed by Kimmy | zerotheme.com and content by the Biggin Group">
+	<meta name="author" content="Dr PC Biggin and www.zerotheme.com">
+
+
+<meta name="KEYWORDS" content="studentships, ion channels, phd,  oxford, phd, dphil, post-doc, postdoc, structural, bioinformatics, computational, biochemistry, structural bioinformatics, computational biochemistry, Oxford, University, Philip Biggin, Biggin, periplasmic binding protein, Sansom, Mark Sansom, e-science, receptors, channels, transporters, course, Oxford, University, biosciences, biology, science, training, bioinformatics, database, PDB, CATH, SCOP, FSSP, HOMSTRAD, structural genomics, CASP, CAFASP, structure, validation, analysis, comparison, alignment, protein, interaction">
+
+<meta name="DESCRIPTION" content="Structural Bioinformatics and Computational Biochemistry at the University of Oxford">
+
+	
+    <!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <!-- CSS
+  ================================================== -->
+         <LINK REL="SHORTCUT ICON" HREF="./images/pac16_tr.png" type="image/png">
+	<link rel="stylesheet" href="css/zerogrid.css">
+	<link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+	<link rel="stylesheet" href="css/responsiveslides.css" />
+	
+	<!--[if lt IE 8]>
+       <div style=' clear: both; text-align:center; position: relative;'>
+         <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
+           <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
+        </a>
+      </div>
+    <![endif]-->
+    <!--[if lt IE 9]>
+		<script src="js/html5.js"></script>
+		<script src="js/css3-mediaqueries.js"></script>
+	<![endif]-->
+	
+	<link href='./images/favicon.ico' rel='icon' type='image/x-icon'/>
+	
+	<script src="js/jquery.min.js"></script>
+	<script src="js/responsiveslides.js"></script>
+	<script>
+    $(function () {
+      $("#slider").responsiveSlides({
+        auto: true,
+        pager: false,
+        nav: true,
+        speed: 500,
+        maxwidth: 962,
+        namespace: "centered-btns"
+      });
+    });
+  </script>
+    
+</head>
+<body>
+<!--------------Header--------------->
+<header> 
+
+<div class="headline">&nbsp Biggin Group - Computational Biochemistry</div>
+
+<div id="logo"><a href="./index.php"><img src="images/glutamate-trans.png" Width="100px" height="80px"/></a></div>
+	<nav>
+		<ul>
+			<li><a href="index.php">Home</a></li>
+			<li><a href="research.php">Research</a></li>
+			<li><a href="people.php">People</a></li>
+			<li><a href="thelab.php">The Lab</a></li>
+			<li><a href="seminars.php">Seminars</a></li>
+			<li><a href="software.php">Software</a></li>
+			<li><a href="publications.php">Publications</a></li>
+			<li><a href="joinus.php">Join Us!</a></li>
+			<li><a href="contact.php">Contact</a></li>
+		</ul>
+	</nav>
+
+</header>
+
+
+<!--<div class="social">
+		<div class="self">
+			
+		</div>
+		
+		<div id="search">
+			<div class="button-search"></div>
+			<input type="text" value="Search..." onfocus="if (this.value == &#39;Search...&#39;) {this.value = &#39;&#39;;}" onblur="if (this.value == &#39;&#39;) {this.value = &#39;Search...&#39;;}">
+		</div>
+
+</div>-->
+
+<script type="text/javascript" src="http://rss.oucs.ox.ac.uk/oxitems/output_newsfeed.js" language="JavaScript">
+</script>
+
+
+<!--------------Content--------------->
+<section id="content">
+	<div class="zerogrid block">	
+	
+	<div class="row block04">
+	   <div class="col1">
+	     <section>
+	    Upcoming seminars of interest...
+	    </section>
+	</div>
+	</div>
+	
+<div class="block07">			
+<section>			
+<!--<script type="text/javascript"> 
+   output_newsfeed("sbcb@bioch/seminars", "all", "", "", "", "Astartdate", "", "http://www.bioch.ox.ac.uk/aspsite/services/itsupport/events/events-detail.tpl", "future-events"); 
+</script>-->
+<script language="javascript" type="text/javascript" src="http://talks.ox.ac.uk/show/detailed/14359?layout=embedcss"></script> 				
+
+
+					
+</section>				
+</div>			
+</div>
+</section>
+
+
+<!--------------Footer--------------->
+<footer>
+	<div class="wrapfooter">
+	<p align="right"><a href="https://sbcb.bioch.ox.ac.uk/wiki/index.php/Main_Page">INTRANET</a></p>
+	<p align="right">Copyright © 2013 - Dr PC Biggin and <a href="http://www.zerotheme.com" target="_blank">Free Responsive Html5 Templates</a> by Zerotheme.com  Header
+	image made with <a href="http://qutemol.sourceforge.net">Qutemol</a></p>
+	</div>
+</footer>
+
+</body></html>

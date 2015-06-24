@@ -1,0 +1,428 @@
+ 
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="description" content="
+	Feedback received by Academics	" />
+	<title>
+	Feedback received by Academics | Listening for Impact	</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://blogs.it.ox.ac.uk/listeningforimpact/wp-content/themes/oucs-proj-notitle/style.css" />
+		<link rel="pingback" href="http://blogs.it.ox.ac.uk/listeningforimpact/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Listening for Impact &raquo; Feed" href="http://blogs.it.ox.ac.uk/listeningforimpact/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Listening for Impact &raquo; Comments Feed" href="http://blogs.it.ox.ac.uk/listeningforimpact/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Listening for Impact &raquo; Feedback received by Academics Comments Feed" href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/08/feedback-received-by-academics/feed/" />
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/listeningforimpact/wp-includes/js/jquery/jquery.js?ver=1.10.2'></script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/listeningforimpact/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blogs.it.ox.ac.uk/listeningforimpact/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogs.it.ox.ac.uk/listeningforimpact/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Basic Log File Analysis With Analog' href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/08/basic-log-file-analysis-with-analog/' />
+<link rel='next' title='Feedback from Oxford Students (Part 2)' href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/08/feedback-from-oxford-students-part-2-2/' />
+<meta name="generator" content="WordPress 3.6.1" />
+<link rel='canonical' href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/08/feedback-received-by-academics/' />
+<link rel='shortlink' href='http://wp.me/p-1n' />
+
+		<style type="text/css" media="screen">
+			#catapult-cookie-bar {
+				display: none;
+				direction: ltr;
+				color: #ddd;
+				min-height: 30px;
+				position: fixed;
+				left: 0;
+				top: 0;
+				width: 100%;
+				z-index: 99999;
+				padding:6px 20px 4px;
+				background-color: #464646;
+				text-align:left;
+			}
+			#catapult-cookie-bar a {
+				color: #fff;;
+			}
+			button#catapultCookie {
+				margin:0 20px;
+				line-height:20px;
+				background:#45AE52;
+				border:none;
+				color: #fff;;
+				padding:4px 12px;
+				border-radius: 3px;
+				cursor: pointer;
+				font-size: 13px;
+				font-weight: bold;
+			}
+		</style><meta id="syntaxhighlighteranchor" name="syntaxhighlighter-version" content="3.1.3" />
+
+<style>
+#branding
+{
+background: #002147  url("http://blogs.it.ox.ac.uk/listeningforimpact/files/2010/11/project-header.png") no-repeat 0px 0px;
+}
+
+</style>
+
+</head>
+
+<body class="single single-post postid-85 single-format-standard">
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+			<div id="branding" role="banner">
+								<div id="site-title">
+					<span>
+						<a href="http://blogs.it.ox.ac.uk/listeningforimpact/" title="Listening for Impact" rel="home">Listening for Impact</a>
+					</span>
+				</div>				
+				<div id="site-description">A JISC funded study on the impact of podcasting from Oxford</div>
+
+										
+								</div><!-- #branding -->
+
+			<div id="access" role="navigation">
+				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+								<div class="menu"><ul><li ><a href="http://blogs.it.ox.ac.uk/listeningforimpact/" title="Home">Home</a></li><li class="page_item page-item-312"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/publications/">Publications</a></li><li class="page_item page-item-6"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/the-project/">The Project</a></li></ul></div>
+			</div><!-- #access -->
+		</div><!-- #masthead -->
+	</div><!-- #header -->
+
+	<div id="main">
+
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+
+
+			<div id="post-85" class="post-85 post type-post status-publish format-standard hentry category-qualitative category-tech-lite category-wp2-initial-rapid-analysis">
+			<h2 class="entry-title"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/08/feedback-received-by-academics/" title="Permalink to Feedback received by Academics" rel="bookmark">Feedback received by Academics</a></h2>
+
+			<div class="entry-meta">
+				<span class="meta-prep meta-prep-author">Posted on</span> <a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/08/feedback-received-by-academics/" title="2:55 pm" rel="bookmark"><span class="entry-date">December 8, 2010</span></a> <span class="meta-sep"> by </span> <span class="author vcard"><a class="url fn n" href="http://blogs.it.ox.ac.uk/listeningforimpact/author/oucs0048/" title="View all posts by Fawei Geng">Fawei Geng</a></span>			</div><!-- .entry-meta -->
+
+				<div class="entry-content">
+				<p>In the last two years, a number of items produced by Oxford academics have featured in the Top 10 iTunes U download chart.  For example, a podcast series made by Marianne Talbot, ‘A Romp through the history of Philosophy’ has repeatedly reached number one in the iTunes U chart.</p>
+<div id="attachment_166" class="wp-caption aligncenter" style="width: 650px"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/files/2010/11/Screen-shot-2010-11-26-at-18.18.26.png"><img class="size-large wp-image-166" src="http://blogs.it.ox.ac.uk/listeningforimpact/files/2010/11/Screen-shot-2010-11-26-at-18.18.26-1024x626.png" alt="Weekly downloads via iTunes U - Log Scale" width="640" height="391" /></a><p class="wp-caption-text">Figure 3: A sample week of downloads from iTunes U plotted against a logarithmic scale</p></div>
+<p>Figure 3: A sample week of downloads from iTunes U plotted against a logarithmic scale</p>
+<p>Figure 3 illustrates the downloads via iTunes U for one week. Two points can be drawn from the diagram: a small number of items were extremely popular – more than 5000 download per week; whereas around 50 percent of the items were downloaded less than 10 times per week. To identify the factors which make podcast popular the project team asked academic colleagues to share feedback that they had received from their listeners. So far 67 emails have been forwarded to the project team.<span id="more-85"></span></p>
+<p>To analyse the email feedback, all messages were carefully read to extract information based on the following topics, which are related to the research questions of the project:</p>
+<ul>
+<li><strong>Audience:</strong> who is listening to these popular podcasts</li>
+<li><strong>General:</strong> comments or viewpoints on podcasting in general</li>
+<li><strong>Impact:</strong> what effects the podcasts had on the individual</li>
+<li><strong>Factors which may affect the impact of these podcasts:</strong> elements that attracted the listeners and suggestions made by the listeners</li>
+</ul>
+<p>Although most of the people who sent feedback did not identify where they were from, a number of messages did include some geographical information, which indicated that Oxford’s podcasts on iTunes U were listened or viewed by people from all over the world including Sweden, Norway, Brazil, USA, Canada, China, Korea, and New Zealand. (For further analysis of audience by geographic location and domain please see the ‘Analysis of requesting domains’ section below).</p>
+<h3>Audience</h3>
+<p>The email feedback received by academics also revealed the occupation of some listeners:</p>
+<ul>
+<li>Professionals (writer, lawyer, an orthopaedic surgeon)
+<ul>
+<li>“I have always liked philosophy (being a lawyer I actually need it), but I must say your [podcast] brought me back the will to study it more carefully.”</li>
+<li>“It was both stimulating and thought provoking, particularly as I am trying to write a book [on the subject]”</li>
+<li>Students (prospective Oxford student, graduate students and high school students);
+<ul>
+<li>“I&#8217;m not joking but this has become my favourite site in ten seconds flat &#8211; can&#8217;t stop downloading! Where has this been all my life?????? This is ridiculous!”</li>
+<li>“Because of your lecture, I&#8217;m getting better and better knowing quantum mechanics (Absolutely, it is so hard and difficult to understand all contents of quantum mechanics),.. I really really thank you for providing me with a good opportunity to learn quantum mechanics from you.”</li>
+<li>Others who are interested in the subject e.g. retired professionals and teachers.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>For example, after listening to a philosophy podcast, a high school teacher said in an email that philosophy could benefit both teaching and learning in their secondary school. They sought advice from the podcast producer on how philosophy could be introduced into their teaching. Although the messages received were from a number of countries around the world, it did not appear that any were from the current Oxford students. We suspect this may be because those Oxford students have the opportunity to discuss issues face to face with their tutors. Later in this report we will present a survey that was designed to analyse the impact of podcasts on the current Oxford students.</p>
+<h3>General</h3>
+<p>Most of the feedback sent by the listeners expressed their enjoyment and gratitude to the people who produced the podcasts.  They declared the internet a fantastic tool for spreading knowledge. People also felt privileged that they could gain access to online materials offered by the University of Oxford ‘for free’. Most of the feedback also indicated that further free podcasts would be greatly appreciated.</p>
+<p>“You ask if there is a demand outside Oxford for podcasts of your early modern lectures. Yes, big demand I would think. ……&#8221;</p>
+<h3>Impact</h3>
+<p>By going through all the available feedback, it seems that the impact can be summarised by the following aspects:</p>
+<p>a)       Engagement and interaction with the podcasting topic for private study</p>
+<p>b)       The podcasts influenced the listeners to explore the podcasts in other Oxford subjects</p>
+<p>c)       Re-use in teaching situations</p>
+<p>The details of each point above is explained below:</p>
+<h4>Engagement, motivation and interaction with the podcasting topic for private study</h4>
+<ul>
+<li>Listeners were engaged by the podcasts and interacted with the podcast creator by asking questions and confirming their understanding of the topics.</li>
+<li>Some listeners attempted to demonstrate their understanding by providing their own examples which illustrated a concept discussed in the podcast</li>
+<li>Listeners sought to advance their knowledge of the topics in the podcasts by asking for reading lists, lecture notes, and recommended textbooks.</li>
+<li>A listener was motivated to carry on studying the subject after listening to the podcast:<br />
+“I have recently enrolled in an Open Universities in Australia with the plan to complete a BA in Philosophy,  but the first unit I have had to complete is a Study Skills unit which has been so boring and mundane I have been questioning whether to continue or not. Your enthusiasm for philosophy is infectious and put me back on course to continue my studies. Thanks again.”</li>
+</ul>
+<h4>Podcasts influencing listeners to explore further</h4>
+<ul>
+<li>Feedback indicated that the most popular podcasts had not only attracted people to the particular subject, but also encouraged the listeners to explore podcasts in other subjects offered by Oxford.</li>
+<li>While some listeners listened to the podcasts for leisure, a number of students said that the podcasts they listened to helped them to learn more deeply and to prepare for exams such as GMAT, GRE:<br />
+“listening to the Shakespeare’s play sheds much light upon a number of issues in Japanese play”</li>
+</ul>
+<h4>Re-use in teaching situations</h4>
+<ul>
+<li>A secondary school teacher wanted to reuse the ideas implemented in the podcast in their own teaching.</li>
+<li>Another teacher was impressed by “the excitement and clarity” of how the podcast was delivered. They said that they would try to deliver their lecture in this way in their class.</li>
+<li>A listener said that one of the advantages of learning through podcasts was the capability to learn at their own pace:<br />
+“I have quite a bit of work to do to understand some of the trickier derivations – fortunately, I have a ‘pause’ button and much more time than your students do”</li>
+</ul>
+<h3>Factors which may improve the impact</h3>
+<p>Here we examine the features which attracted listeners/viewers, and the suggestions made by them.</p>
+<ul>
+<li>The podcasts used great examples which made the complex concepts clearer and easier to understand</li>
+<li>The podcasts were interesting, engaging, engrossing and stimulating – “The exemplary and passionate delivery affects learning outcomes”</li>
+<li>The podcasts were presented in a relatively unadorned form &#8211; “The podcasts are recorded raw, not dressed up as some have with distracting background music”</li>
+</ul>
+<p>The following is a wish list compiled from the feedback:</p>
+<ul>
+<li>Podcasts in more subjects</li>
+<li>Reading list and handouts</li>
+<li>A pdf copy of the text (transcription)</li>
+<li>Lecture notes in pdf format</li>
+<li>A copy of the solution to the questions discussed in the certain podcasts</li>
+</ul>
+<h3>Reflection</h3>
+<p>Although listeners cannot interact with the lecturer during the course of the lecture, it seems clear that being able to pause when listening helps listeners review the material follow up with queries by email later.</p>
+<p>Although learning through podcasting can be passive, the feedback indicated that it was still possible to enable interaction and engagement between the listeners, the podcasting topics and the person who delivered the podcast through back-channels such as email.</p>
+							</div><!-- .entry-content -->
+	
+			<div class="entry-utility">
+				<span class="cat-links">
+					<span class="entry-utility-prep entry-utility-prep-cat-links">
+					Posted in </span> <a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/qualitative/" title="View all posts in Qualitative" rel="category tag">Qualitative</a>, <a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-lite/" title="View all posts in Tech-Lite" rel="category tag">Tech-Lite</a>, <a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp2-initial-rapid-analysis/" title="View all posts in WP2: Initial Rapid Analysis" rel="category tag">WP2: Initial Rapid Analysis</a>					
+				</span>
+				<span class="meta-sep">|</span>
+								<span class="comments-link"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/08/feedback-received-by-academics/#comments" title="Comment on Feedback received by Academics">1 Comment</a></span>
+							</div><!-- #entry-utility -->
+		</div><!-- #post-85 -->
+
+		
+<!-- You can start editing here. -->
+
+	<h3 id="comments">One Response to &#8220;Feedback received by Academics&#8221;</h3>
+
+	<div class="navigation">
+		<div class="alignleft"></div>
+		<div class="alignright"></div>
+	</div>
+
+	<ol class="commentlist">
+			<li class="pingback even thread-even depth-1" id="comment-135">
+				<div id="div-comment-135" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn"><a href='http://blogs.it.ox.ac.uk/openspires/2011/03/04/appreciative-feedback-from-users-of-the-openspires-oer-material/' rel='external nofollow' class='url'>Appreciative feedback from users of the OpenSpires OER material | OpenSpires</a></cite> <span class="says">says:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/08/feedback-received-by-academics/comment-page-1/#comment-135">
+			March 9, 2011 at 2:19 pm</a>		</div>
+
+		<p>[...] of an afternoon.”  Much more general analysis of feedback from learners is available on the Listening for Impact project blog.      Posted in  Content, Listening, Oxford, Ripple, Triton, dissemination, iTunes U, [...]</p>
+
+		<div class="reply">
+					</div>
+				</div>
+		</li><!-- #comment-## -->
+	</ol>
+
+	<div class="navigation">
+		<div class="alignleft"></div>
+		<div class="alignright"></div>
+	</div>
+ 
+
+
+	
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+		<li id="recent-posts-4" class="widget-container widget_recent_entries">		<h3 class="widget-title">Latest Updates</h3>		<ul>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/2013/04/11/368/" title="Archived">Archived</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/2011/07/07/the-joy-of-stats/" title="The joy of stats">The joy of stats</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/2011/05/24/the-impact-of-cookie-law/" title="The impact of Cookie law">The impact of Cookie law</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/2011/05/23/impact-and-embedding-of-digitised-resources/" title="Impact and Embedding of Digitised Resources">Impact and Embedding of Digitised Resources</a>
+						</li>
+					<li>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/2011/04/12/what-staff-think-of-oxford%e2%80%99s-podcasting-activities/" title="What Staff think of Oxford’s Podcasting Activities">What Staff think of Oxford’s Podcasting Activities</a>
+						</li>
+				</ul>
+		</li><li id="categories-4" class="widget-container widget_categories"><h3 class="widget-title">Navigate by Category</h3>		<ul>
+	<li class="cat-item cat-item-199"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/jisc/" title="View all posts filed under JISC">JISC</a> (1)
+</li>
+	<li class="cat-item cat-item-299"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/" title="View all posts filed under Project">Project</a> (20)
+<ul class='children'>
+	<li class="cat-item cat-item-581"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp1-project-team/" title="View all posts filed under WP1: Project Team">WP1: Project Team</a> (3)
+</li>
+	<li class="cat-item cat-item-582"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp2-initial-rapid-analysis/" title="View all posts filed under WP2: Initial Rapid Analysis">WP2: Initial Rapid Analysis</a> (12)
+</li>
+	<li class="cat-item cat-item-583"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp3-website-enhancement/" title="View all posts filed under WP3: Website Enhancement">WP3: Website Enhancement</a> (3)
+</li>
+	<li class="cat-item cat-item-586"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp6-publishing-to-more-channels/" title="View all posts filed under WP6: Publishing to more channels">WP6: Publishing to more channels</a> (2)
+</li>
+	<li class="cat-item cat-item-587"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp7-embedding-toolkit/" title="View all posts filed under WP7: Embedding Toolkit">WP7: Embedding Toolkit</a> (2)
+</li>
+	<li class="cat-item cat-item-588"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp8-project-evaluation/" title="View all posts filed under WP8: Project Evaluation">WP8: Project Evaluation</a> (1)
+</li>
+	<li class="cat-item cat-item-589"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp9-final-report/" title="View all posts filed under WP9: Final Report">WP9: Final Report</a> (1)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-537"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/qualitative/" title="View all posts filed under Qualitative">Qualitative</a> (6)
+</li>
+	<li class="cat-item cat-item-538"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/quantative/" title="View all posts filed under Quantitative">Quantitative</a> (12)
+<ul class='children'>
+	<li class="cat-item cat-item-542"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/quantative/statistics/" title="View all posts filed under Statistics">Statistics</a> (6)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-541"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-heavy/" title="View all posts filed under Tech-Heavy">Tech-Heavy</a> (6)
+</li>
+	<li class="cat-item cat-item-539"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-lite/" title="View all posts filed under Tech-Lite">Tech-Lite</a> (10)
+</li>
+	<li class="cat-item cat-item-540"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-moderate/" title="View all posts filed under Tech-Moderate">Tech-Moderate</a> (7)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (3)
+</li>
+		</ul>
+</li><li id="search-4" class="widget-container widget_search"><h3 class="widget-title">Search the site</h3><form role="search" method="get" id="searchform" action="http://blogs.it.ox.ac.uk/listeningforimpact">
+    <div><label class="screen-reader-text" for="s">Search for:</label>
+        <input type="text" value="" name="s" id="s" />
+        <input type="submit" id="searchsubmit" value="Search" />
+    </div>
+</form></li><li id="tag_cloud-4" class="widget-container widget_tag_cloud"><h3 class="widget-title">Category Cloud</h3><div class="tagcloud"><a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/jisc/' class='tag-link-199' title='1 topic' style='font-size: 8pt;'>JISC</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/' class='tag-link-299' title='3 topics' style='font-size: 13.185185185185pt;'>Project</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/qualitative/' class='tag-link-537' title='6 topics' style='font-size: 17.506172839506pt;'>Qualitative</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/quantative/' class='tag-link-538' title='12 topics' style='font-size: 22pt;'>Quantitative</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/quantative/statistics/' class='tag-link-542' title='6 topics' style='font-size: 17.506172839506pt;'>Statistics</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-heavy/' class='tag-link-541' title='6 topics' style='font-size: 17.506172839506pt;'>Tech-Heavy</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-lite/' class='tag-link-539' title='10 topics' style='font-size: 20.79012345679pt;'>Tech-Lite</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/tech-moderate/' class='tag-link-540' title='7 topics' style='font-size: 18.37037037037pt;'>Tech-Moderate</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/uncategorized/' class='tag-link-1' title='3 topics' style='font-size: 13.185185185185pt;'>Uncategorized</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp1-project-team/' class='tag-link-581' title='3 topics' style='font-size: 13.185185185185pt;'>WP1: Project Team</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp2-initial-rapid-analysis/' class='tag-link-582' title='12 topics' style='font-size: 22pt;'>WP2: Initial Rapid Analysis</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp3-website-enhancement/' class='tag-link-583' title='3 topics' style='font-size: 13.185185185185pt;'>WP3: Website Enhancement</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp6-publishing-to-more-channels/' class='tag-link-586' title='2 topics' style='font-size: 11.111111111111pt;'>WP6: Publishing to more channels</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp7-embedding-toolkit/' class='tag-link-587' title='2 topics' style='font-size: 11.111111111111pt;'>WP7: Embedding Toolkit</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp8-project-evaluation/' class='tag-link-588' title='1 topic' style='font-size: 8pt;'>WP8: Project Evaluation</a>
+<a href='http://blogs.it.ox.ac.uk/listeningforimpact/category/project/wp9-final-report/' class='tag-link-589' title='1 topic' style='font-size: 8pt;'>WP9: Final Report</a></div>
+</li><li id="meta-4" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a href="https://blogs.it.ox.ac.uk/listeningforimpact/wp-login.php?action=shibboleth">Log in</a></li>
+			<li><a href="http://blogs.it.ox.ac.uk/listeningforimpact/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blogs.it.ox.ac.uk/listeningforimpact/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>						</ul>
+</li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+			<div id="footer-widget-area" role="complementary">
+					<div id="first" class="widget-area">
+						<ul class="xoxo">
+							<li id="archives-4" class="widget-container widget_archive"><h3 class="widget-title">In the past</h3>		<ul>
+			<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2013/04/' title='April 2013'>April 2013</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2011/07/' title='July 2011'>July 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2011/05/' title='May 2011'>May 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2011/04/' title='April 2011'>April 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2011/03/' title='March 2011'>March 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2011/02/' title='February 2011'>February 2011</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/' title='December 2010'>December 2010</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/' title='November 2010'>November 2010</a></li>
+	<li><a href='http://blogs.it.ox.ac.uk/listeningforimpact/2010/10/' title='October 2010'>October 2010</a></li>
+		</ul>
+</li>						</ul>
+					</div><!-- #first .widget-area -->
+
+				<div id="second" class="widget-area">
+					<ul class="xoxo">
+						<li id="pages-3" class="widget-container widget_pages"><h3 class="widget-title">Site Pages</h3>		<ul>
+			<li class="page_item page-item-312"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/publications/">Publications</a></li>
+<li class="page_item page-item-6"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/the-project/">The Project</a></li>
+		</ul>
+		</li>					</ul>
+				</div><!-- #second .widget-area -->
+
+				<div id="third" class="widget-area">
+					<ul class="xoxo">
+						<li id="calendar-4" class="widget-container widget_calendar"><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>December 2010</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/11/" title="View posts for November 2010">&laquo; Nov</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next"><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2011/02/" title="View posts for February 2011">Feb &raquo;</a></td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="2" class="pad">&nbsp;</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td>
+	</tr>
+	<tr>
+		<td>6</td><td>7</td><td><a href="http://blogs.it.ox.ac.uk/listeningforimpact/2010/12/08/" title="Basic Log File Analysis With Analog, Feedback received by Academics, Feedback from Oxford Students (Part 2)">8</a></td><td>9</td><td>10</td><td>11</td><td>12</td>
+	</tr>
+	<tr>
+		<td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+	</tr>
+	<tr>
+		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
+	</tr>
+	<tr>
+		<td>27</td><td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="2">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li>					</ul>
+				</div><!-- #third .widget-area -->
+
+
+			</div><!-- #footer-widget-area -->
+
+			<div id="site-info">
+				<p>
+				<a href="http://blogs.it.ox.ac.uk/listeningforimpact/" title="Listening for Impact" rel="home">
+					Listening for Impact				</a> </p>
+				<p class="disclaimer" >The views expressed on this blog are those of the project team and not necessarily those of the University of Oxford IT Services.</p>
+			</div>
+
+			<div id="site-generator">powered by <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">WordPress</a><br/>
+      <a href="http://blogs.oucs.ox.ac.uk/">IT Services Blogs</a> hosted by <a href="http://www.it.ox.ac.uk/" title="University of Oxford IT Services">University of Oxford IT Services</a>
+			</div>
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			if(!catapultReadCookie("catAccCookies")){//If the cookie has not been set
+				jQuery("#catapult-cookie-bar").show();
+							}
+		});
+	</script>
+<script type='text/javascript' src='http://blogs.it.ox.ac.uk/listeningforimpact/wp-content/plugins/uk-cookie-consent/js/uk-cookie-consent-js.js?ver=1.8'></script>
+<!--stats_footer_test--><div id="catapult-cookie-bar">This site uses cookies<button id="catapultCookie" tabindex=1 onclick="catapultAcceptCookies();">Okay, thanks</button><a tabindex=1 href="http://blogs.it.ox.ac.uk/listeningforimpact/cookie-policy">Find out more</a></div>
+</body>
+</html>

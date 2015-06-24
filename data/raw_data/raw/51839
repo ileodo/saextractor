@@ -1,0 +1,2831 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- dynamic_layout.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- begin resolveLocale.jsp -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- locale=en_US -->
+
+<!-- end resolveLocale.jsp -->
+<html xmlns="http://www.w3.org/1999/xhtml" 
+	  xmlns:fb="http://www.facebook.com/2008/fbml" 
+	  xmlns:og="http://opengraphprotocol.org/schema/" 
+	  xml:lang="en-US" lang="en-US">
+	  
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+
+	<!-- Facebook tags -->
+	<meta property="og:url"   content='http://solo.bodleian.ox.ac.uk/primo_library/libweb/action/dlDisplay.do?vid=OXVU1&amp;afterPDS=true&amp;docId=' /> 
+	<meta property="og:title" content='' />
+	<meta property="og:image" content='http://solo.bodleian.ox.ac.uk:80/primo_library/libweb/images/primo_logo.png' />
+	<!-- End of Facebook tags -->
+	
+	<link rel="canonical" href="http://solo.bodleian.ox.ac.uk/primo_library/libweb/action/dlDisplay.do?vid=OXVU1&amp;docId=&amp;fromSitemap=1&amp;afterPDS=true"/>
+
+	<!-- custom_brief_results_header_info.jsp begin -->
+
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- custom_tile_variables.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- custom_tile_variables.jsp end -->
+<!-- advancedCssAdder.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- cssAdder.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- This is just for dev mode - it preserves old css behaviour to allow the customers to understand the css hierarchy  -->
+<link rel="stylesheet" type="text/css" href="../wro/primo_library_css.css?"/>
+<script type="text/javascript" src="../wro/primo_library_css.js"></script>
+<link rel="apple-touch-icon" href="../images/favicon.png" />
+
+
+<!-- cssAdder.jsp end -->
+<!-- advancedCssAdder.jsp end --><script type="text/javascript" src="../wro/primo_library_web.js"></script>
+<script type="text/javascript" src="../javascript/EXLTabAPI.03a.js"></script>
+<script type="text/javascript" src="../javascript/jCookie.js"></script>
+<script type="text/javascript" src="../javascript/weblearn.js"></script>
+<script type="text/javascript" src="../javascript/pagination.js"></script>
+<script type="text/javascript" src="../javascript/jquery.base64.js"></script>
+<script type="text/javascript" src="../javascript/oxford.js"></script>
+<script type="text/javascript">
+	Date.format = 'dd/mm/yy';
+	Date.monthNames = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August','September', 'October', 'November', 'December'];
+
+	$.dpText = {
+		TEXT_PREV_YEAR		:	'Previous year',
+		TEXT_PREV_MONTH		:	'Previous month',
+		TEXT_NEXT_YEAR		:	'Next year',
+		TEXT_NEXT_MONTH		:	'Next month',
+		TEXT_CLOSE			:	'Close calendar',
+		TEXT_CHOOSE_DATE	:	'Choose date',
+		TEXT_NEXT			:	'Next',
+		TEXT_PREV			:	'Prev',
+		HEADER_FORMAT		:	'mmmm yyyy'
+	};
+</script>
+<!--[if IE]><script type="text/javascript" src="../javascript/jquery.bgiframe.js"></script><![endif]-->
+
+<title>
+	SOLO: Search Oxford Libraries Online - Comparative literature</title>
+
+<script type="text/javascript">
+var needUpdateRTA=false;
+
+	needUpdateRTA=true;
+	//addLoadEvent(function(){updateRTA();});
+</script>
+
+<!-- custom_brief_results_header_info.jsp end -->
+<!-- begin javascriptTextIncludes.jsp -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><script type="text/javascript">
+
+var exlTabReloadMessage = 'Your content seems to be taking a long time to load. If you would like to try reloading it,';
+
+
+var exlTabReloadLinkText = 'click here';
+
+
+var exlTabLoadErrorMessage = 'There was an error loading the tab.';
+
+
+var exlDelayTabProcessingYourRequest = 'Processing your request...'; //Processing your request...
+
+
+var exlFdbReloadMessage = 'Your content seems like it is taking a long time to load. To return to the previous page,';
+
+
+var exlFdbReloadLinkText = 'click here';
+
+
+var exlFdbNoInfoMessage = 'No Available Information';
+
+
+var exlFdbSubCategoryLabel = 'Sub-category';
+
+
+var exlTabSignInMessage = 'Sign in to Post Your Review';
+
+
+var facetsTitleLabel = 'Refine your results';
+
+
+var updatingMessage = 'updating...';
+
+</script>
+<!-- end javascriptTextIncludes.jsp -->
+</head>
+<body class=" EXLCurrentLang_en_US">
+
+	<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="contentEXL" class="EXLCustomLayoutContainer EXLContent EXLBriefDisplay">
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidSkipToContent" class="EXLCustomLayoutTile EXLSkipToContent">
+<!-- begin ../tiles/skipToContentTile.jsp -->
+			<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><a id="exliidSkipToMainContent" href="#exlidResultsContainer">skip to main content</a><!-- end ../tiles/skipToContentTile.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidHeaderContainer" class="EXLCustomLayoutContainer EXLHeader">
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidHeaderTile" class="EXLCustomLayoutTile EXLLogo">
+<!-- begin ../tiles/headerTile.jsp -->
+			<script src="../javascript/retrofacets.js" type="text/javascript"></script>
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- includeStaticHTML.jspf begin (/static_htmls/header-oxford.html) -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!--[if gte IE 8]>
+<style>
+#exlidHeaderSearchLimits span.EXLHeaderSearchLimitsFields { width:auto;  position: relative; top:1px; left:12px;}
+</style>
+<![endif]-->
+<script type='text/javascript'src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<!--NB: When translating a static html page that includes images, the link of the image must be replaced as follows:
+The existing link: "../images/imageName.gif" must be changed into: "../locale/specifcLocaleCode/images/imageName.gif" where "specifcLocaleCode" 
+represents the relevant locale of the language (e.g en_US for English USA, zh_CH for Chinese).
+-->
+<a href="search.do?vid=OXVU1" title="SOLO Home Page. Search box will be cleared for a new search."><img src="../images/soloprdlogo.png" title="SOLO Home 
+Page. Search box will be cleared for a new search."/></a>
+
+<div id="oxfmobhome"><a href="search.do?vid=OXVU1"><div id="mobylogo"><img src="../images/favicon.ico"/>&nbsp;SOLO Mobile</div></a></div>
+<!-- includeStaticHTML.jspf end (/static_htmls/header-oxford.html) --><!-- end ../tiles/headerTile.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidUserAreaTile" class="EXLCustomLayoutTile EXLUserMenu">
+<!-- begin ../tiles/userAreaTile.jsp -->
+			<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- setSearchForm.jspf begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- setSearchForm.jspf end --><!-- this feedback unnecesary
+
+-->
+
+<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="SignInStatUserArea" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=sign-in&amp;OP=click&amp;TYP=Page_View_4.1.1.131211&amp;O=%26%26%26%26OX%26University of Oxford%26%26&amp;O1=&amp;O2=oxfaleph&amp;O3=&amp;O4=&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;" />
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="SignOutStat" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=sign-out&amp;OP=click&amp;TYP=Page_View_4.1.1.131211&amp;O=%26%26%26%26OX%26University of Oxford%26%26&amp;O1=&amp;O2=oxfaleph&amp;O3=&amp;O4=&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;" />
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<iframe id="exlIdssoLogin" src="" height="0px" width="0px"></iframe>
+	<ul id="exlidUserAreaRibbon" class="EXLEShelfTileGuest">
+  <li id="exlidUserName" class="EXLUserName">
+  	<span class="EXLUserAreaStart"></span>
+  	<span class="EXLUserNameDisplay">
+  		Hi Guest</span>
+  	<span class="EXLUserAreaStartRtl"></span>
+  </li>
+  <li id="exlidMyShelf" class="EXLMyShelf"><a href="basket.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fn=display&amp;fromUserArea=true&amp;vid=OXVU1&amp;fromPreferences=false"><span class="EXLMyShelfStarSelected"></span>e-Shelf</a></li>
+  <li id="exlidMyAccount" class="EXLMyAccount"><a href="myAccountMenu.do;jsessionid=2A1C426713F1C4F67447032723C9E874?vid=OXVU1">My Account</a></li>
+  
+<input type="hidden" value="https://solo-prd.bodleian.ox.ac.uk:443/pds?func=sso&institute=OX&calling_system=primo&url=http://solo.bodleian.ox.ac.uk:80/primo_library/libweb/action/login.do?afterPDS=true&vid=OXVU1&dscnt=0&isIframeSSO=true" id="exlIdssologinRequest"/>		
+	<li id="exlidSignOut" class="EXLSignOut EXLLastItem EXLHidden"><a href="" onclick="boomCallToRum('SignOutStat',false);">Sign out</a></li>
+	<li id="exlidSignIn" class="EXLSignOut EXLLastItem ">
+	  			<a href="https://solo-prd.bodleian.ox.ac.uk/cgi-bin/login.cgi?calling_system=primo&amp;url=http%3a%2f%2fsolo.bodleian.ox.ac.uk%3a80%2fprimo_library%2flibweb%2faction%2flogin.do%253ftargetURL%253dhttp%3a%2f%2fsolo.bodleian.ox.ac.uk%2fprimo_library%2flibweb%2faction%2fsearch.do%3ffctN%3dfacet_topic%26amp%3bfctN%3dfacet_topic%26amp%3bdscnt%3d0%26amp%3brfnGrp%3d1%26amp%3brfnGrp%3d2%26amp%3bscp.scps%3dscope%253A%2528OX%2529%26amp%3bfctV%3dArthurian%2bromances%26amp%3bfctV%3dPersian%2bliterature%26amp%3btab%3dlocal%26amp%3bdstmp%3d1434638527949%26amp%3bct%3dfacet%26amp%3bmode%3dBasic%26amp%3bvl(304942529UI1)%3dall_items%26amp%3bindx%3d1%26amp%3bvl(1UIStartWith0)%3dexact%26amp%3bvl(353692469UI0)%3dsub%26amp%3brfnGrpCounter%3d1%26amp%3bvl(freeText0)%3dComparative%2520literature%26amp%3bfn%3dsearch%26amp%3bvid%3dOXVU1%26initializeIndex%3dtrue" onclick="boomCallToRum('SignInStatUserArea',false);addResolutionParam(this);">Sign In</a>
+  				&nbsp; </li>	  			  		
+
+</ul>
+
+<!-- end ../tiles/userAreaTile.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidMainMenuTile" class="EXLCustomLayoutTile EXLMainMenu">
+<!-- begin ../tiles/mainMenuTile.jsp -->
+			<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><script type="text/javascript">
+//<![CDATA[
+function loadSearchDbPage(){
+	var fn;
+	addLightBoxDivs();
+	fn='loadSearchDbPage';
+	var timestamp = new Date().getTime();
+	var url = "searchDB.do"+"?fn="+fn+"&ts="+timestamp;
+	var data;
+	$.ajax({
+	    url:url,
+		data:data,
+		global:false,
+		beforeSend: function(request){
+			setAjaxRequestHeader(request);
+		},
+		error: function(request,errorType,exceptionOcurred){
+			if (errorType=='timeout'){
+				notifyAjaxTimeout();
+			}else{
+				generalAjaxError();
+			}
+			document.getElementById('exliLoadingFdb').style.display='none';
+			document.getElementById('exliGreyOverlay').style.display='none';
+			document.getElementById('exliWhiteContent').style.display='none';
+			return false;
+		},
+		success: function(data){
+			if (isAjaxXmlRedirect(data)){
+				handleAjaxXmlRedirect(data);
+			}
+			var elm = $(data).find('searchDbXml');
+			var cdata = $(elm).text();
+			$('span[id=exliLoadingFdbSpan]').remove();
+			var n;
+			n = document.getElementById("exliWhiteContent");
+			var xmlText = cdata.replace(/\n\n/g, "\n").replace(/&lt;/g,"<").replace(/&gt;/g,">");
+			var newdiv = document.createElement("div");
+			newdiv.innerHTML = xmlText;
+			n.innerHTML='';
+			$(n).append(newdiv);
+		}
+	});
+}
+
+
+
+
+
+
+// ]]>
+</script>
+<noscript>This feature requires javascript</noscript><!--  include setSearchForm.jspf before -->
+<!-- setSearchForm.jspf begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- setSearchForm.jspf end --><!--  include setSearchForm.jspf after   -->
+
+<div id="exlidMainMenuContainer" class="EXLMainMenuContainer EXLFirstItem">
+  <ul id="exlidMainMenuRibbon">
+<li id="exlidMainMenuItem1" class="EXLMainMenuItem">
+			<span><a title="OxLIP+ The primary interface for Oxford's collection of bibliographic and reference databases. (N.B. Records for all these databases are also included in SOLO.)"
+				   href="http://oxford1-direct.hosted.exlibrisgroup.com/V/"
+				   class="selected EXLMainMenuSelected EXLMainMenuITEMoxlip+"
+				   target="_blank">
+				   OxLIP+</a></span>
+			</li>
+		<li id="exlidMainMenuItem2" class="EXLMainMenuItem">
+			<span><a title="Oxford's e-journals listed by title. (N.B. Records for all e-journals are also included in SOLO.)"
+				   href="http://oxford1-direct.hosted.exlibrisgroup.com/V?func=find-ej-1"
+				   class="EXLMainMenuITEMou_e-journals"
+				   target="_blank">
+				   OU e-Journals</a></span>
+			</li>
+		<li id="exlidMainMenuItem3" class="EXLMainMenuItem">
+			<span><a title="Bodleian Libraries Home Page"
+				   href="http://www.bodleian.ox.ac.uk/"
+				   class="EXLMainMenuITEMbodleian_libraries"
+				   target="_blank">
+				   Bodleian Libraries</a></span>
+			</li>
+		<li id="exlidMainMenuItem4" class="EXLMainMenuItem">
+			<span><a title="Information to help you identify librarians and library resources for your studies"
+				   href="http://www.bodleian.ox.ac.uk/subjects-and-libraries"
+				   class="EXLMainMenuITEMsubjects_&_libraries"
+				   target="_blank">
+				   Subjects & Libraries</a></span>
+			</li>
+		<li id="exlidMainMenuItem5" class="EXLMainMenuItem">
+			<span><a title="Community-based tagging provides added access to our collections."
+			   		href="/primo_library/libweb/action/tagsAction.do;jsessionid=2A1C426713F1C4F67447032723C9E874?menuitem=4&amp;fn=showTagsPage&amp;fromTop=true&amp;fromPreferences=false&amp;fromEshelf=false&amp;vid=OXVU1"
+			   		class="EXLMainMenuITEMtags"
+			   		target="_self">
+			 		  Tags</a></span>
+			</li>
+		<li id="exlidMainMenuItem6" class="EXLMainMenuItem">
+			<span><a title="Feedback: tell us what you think of SOLO and report problems."
+				   href="http://www.bodleian.ox.ac.uk/bdlss/solo/solo-help"
+				   class="EXLMainMenuITEMfeedback"
+				   target="_blank">
+				   Feedback</a></span>
+			</li>
+		<li id="exlidMainMenuItem7" class="EXLMainMenuItem">
+			<span><a title="The SOLO Guide (including online tutorials)"
+				   href="http://ox.libguides.com/solo"
+				   class="EXLMainMenuITEMhelp"
+				   target="_blank">
+				   Help</a></span>
+			</li>
+		<li id="exlidMainMenuItem8" class="EXLMainMenuItem EXLLastItem">
+		<span><a title="The SOLO Guide (including online tutorials)"
+		   href="helpHandler.do;jsessionid=2A1C426713F1C4F67447032723C9E874?helpId=search"
+		   class="EXLMainMenuITEMHelp"
+		   target="popup"
+		   onclick="openWindow(this.href, this.target, 'top=100,left=50,width=600,height=500,resizable=1,scrollbars=1'); return false;">
+		   Help</a></span>
+	</li>
+  </ul>
+</div>
+<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="FindDbStat" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=find-database&amp;OP=databaseClick&amp;TYP=Page_View_4.1.1.131211&amp;O=%26%26%26%26OX%26University of Oxford%26%26&amp;O1=&amp;O2=oxfaleph&amp;O3=&amp;O4=&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;" />
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="CitationLinkerStat" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=citation-linker&amp;OP=citationLinkerClick&amp;TYP=Page_View_4.1.1.131211&amp;O=%26%26%26%26OX%26University of Oxford%26%26&amp;O1=&amp;O2=oxfaleph&amp;O3=&amp;O4=&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;" />
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<div id="flagForFindDbDeepLink" title="NotADeepLink"></div>
+<div id="savedSelectedMyAccountTab"></div>
+<div id="exlidLightbox">
+<script type="text/javascript">
+var str = window.location.href;
+var n = str.match(/openFdb=true/g);
+if (n != null){
+boomCallToRum('FindDbStat',false);
+var openMyDatabases = str.match(/openMyDatabases=true/g);
+ if(openMyDatabases != null){
+   openPrimoLightBox('searchDB','loadSearchDbPage','searchDbXml','IamDeepLinkToMyDatabases'); 
+ }else{
+   openPrimoLightBox('searchDB','loadSearchDbPage','searchDbXml','IamDeepLink');
+ }
+}
+</script>
+<noscript>This feature required javascript</noscript>
+</div>
+<!-- end ../tiles/mainMenuTile.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidSearchTileWrapper" class="EXLCustomLayoutTile EXLSearchWrapper">
+<!-- begin ../views/search/l_search_input.jsp -->
+			<!-- l_search_input.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- jsp_mapping_retriever.jsp begin -->
+<!-- jsp_mapping_retriever.jsp end -->
+<!-- resolved jsp page for search tile: ../../tiles/searchTile.jsp -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><script type="text/javascript">
+//<![CDATA[
+function loadSearchDbPage(){
+	var fn;
+	addLightBoxDivs();
+	fn='loadSearchDbPage';
+	var timestamp = new Date().getTime();
+	var url = "searchDB.do"+"?fn="+fn+"&ts="+timestamp;
+	var data;
+	$.ajax({
+	    url:url,
+		data:data,
+		global:false,
+		beforeSend: function(request){
+			setAjaxRequestHeader(request);
+		},
+		error: function(request,errorType,exceptionOcurred){
+			if (errorType=='timeout'){
+				notifyAjaxTimeout();
+			}else{
+				generalAjaxError();
+			}
+			document.getElementById('exliLoadingFdb').style.display='none';
+			document.getElementById('exliGreyOverlay').style.display='none';
+			document.getElementById('exliWhiteContent').style.display='none';
+			return false;
+		},
+		success: function(data){
+			if (isAjaxXmlRedirect(data)){
+				handleAjaxXmlRedirect(data);
+			}
+			var elm = $(data).find('searchDbXml');
+			var cdata = $(elm).text();
+			$('span[id=exliLoadingFdbSpan]').remove();
+			var n;
+			n = document.getElementById("exliWhiteContent");
+			var xmlText = cdata.replace(/\n\n/g, "\n").replace(/&lt;/g,"<").replace(/&gt;/g,">");
+			var newdiv = document.createElement("div");
+			newdiv.innerHTML = xmlText;
+			n.innerHTML='';
+			$(n).append(newdiv);
+		}
+	});
+}
+
+
+
+
+
+
+// ]]>
+</script>
+<noscript>This feature requires javascript</noscript><!-- searchTile.jsp begin -->
+<form name="searchForm" method="get" action="/primo_library/libweb/action/search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fn=search&amp;ct=search" class="EXLSearchForm" enctype="application/x-www-form-urlencoded; charset=utf-8" onsubmit="if(isRemoteSearch()){doPleaseWait();};if(window.manualFormSubmit){manualFormSubmit(this.id);return false;}" id="searchForm" target="_self"><input id="fn" type="hidden" value="search" name="fn" />
+<input id="ct" type="hidden" value="search" name="ct" />
+<input id="initialSearch" type="hidden" value="true" name="initialSearch" />
+
+<input id="autoCompleteEnabled"   type="hidden" value='false' />
+<input id="autoCompleteUrl"       type="hidden" value='null/solr/ac' />
+<input id="autoCompleteScope"     type="hidden" value='' />
+<input id="autoCompleteScopesMap" type="hidden" value='{"LSCOP_ZOO":"L","LSCOP_HER":"L","primo_central_eld":"B","LSCOP_GRF":"L","LSCOP_LCR":"L","LSCOP_PTFBL":"L","LSCOP_HEB":"L","LSCOP_ALL":"B","LSCOP_DOM":"L","LSCOP_REG":"L","LSCOP_GTC":"L","LSCOP_STX":"L","LSCOP_ORL":"L","LSCOP_ASH":"L","LSCOP_CAM":"L","LSCOP_EAR":"L","LSCOP_CCLCSL":"L","LSCOP_CAT":"L","LSCOP_SCA":"L","LSCOP_ASC":"L","LSCOP_STJ":"L","LSCOP_LAW":"L","LSCOP_CAR":"L","LSCOP_BOD":"L","LSCOP_STF":"L","LSCOP_HMC":"L","LSCOP_RHO":"L","LSCOP_SBS":"L","LSCOP_EFL":"L","LSCOP_LAN":"L","LSCOP_KEL":"L","LSCOP_MER":"L","LSCOP_OUM":"L","LSCOP_HUG":"L","LSCOP_OUS":"L","LSCOP_STB":"L","LSCOP_STA":"L","LSCOP_LIN":"L","LSCOP_QUE":"L","LSCOP_OULS":"L","LSCOP_BNC":"L","LSCOP_KEB":"L","LSCOP_WEL":"L","LSCOP_MEC":"L","LSCOP_CMS":"L","LSCOP_RSL":"L","LSCOP_ANN":"L","LSCOP_SSL":"L","LSCOP_OLI":"L","LSCOP_LAC":"L","LSCOP_BLL":"L","LSCOP_BHFL":"L","LSCOP_CHC":"L","LSCOP_SEH":"L","LSCOP_MUS":"L","LSCOP_DUN":"L","LSCOP_HFL":"L","LSCOP_TRI":"L","LSCOP_TAY":"L","LSCOP_EDU":"L","LSCOP_WOL":"L","LSCOP_MNS":"L","LSCOP_IND":"L","LSCOP_WOR":"L","LSCOP_TAS":"L","LSCOP_BLF":"L","LSCOP_HIN":"L","LSCOP_COS":"L","LSCOP_RUS":"L","LSCOP_COM":"L","LSCOP_RSLOPEN":"L","LSCOP_EXE":"L","LSCOP_MATMTH":"L","LSCOP_BJL":"L","LSCOP_SPC":"L","LSCOP_BODOPENWES":"L","LSCOP_CEU":"L","LSCOP_ANT":"L","LSCOP_IES":"L","LSCOP_MFO":"L","LSCOP_BAL":"L","LSCOP_ENG":"L","LSCOP_ONLINEDIG":"L","LSCOP_CED":"L","LSCOP_ISL":"L","LSCOP_RSCCARD":"L","LSCOP_MAG":"L","LSCOP_JES":"L","LSCOP_SOM":"L","LSCOP_OX":"L","LSCOP_OPT":"L","LSCOP_VHL":"L","LSCOP_PLS":"L","LSCOP_OII":"L","LSCOP_HCL":"L","LSCOP_UNV":"L","LSCOP_PHYS":"L","LSCOP_PEM":"L","LSCOP_WAD":"L","LSCOP_MHS":"L","LSCOP_SAC":"L","LSCOP_MAGCH":"L","LSCOP_ICL":"L","LSCOP_NUF":"L","LSCOP_LMH":"L","LSCOP_CCC":"L","LSCOP_HSC":"L","LSCOP_NEW":"L","LSCOP_OIL":"L"}' />
+<input id="autoCompleteEnabledMap" type="hidden" value='{"LSCOP_ZOO":false,"LSCOP_HER":false,"primo_central_eld":false,"LSCOP_GRF":false,"LSCOP_LCR":false,"LSCOP_PTFBL":false,"LSCOP_HEB":false,"LSCOP_ALL":false,"LSCOP_DOM":false,"primo_central":false,"LSCOP_REG":false,"LSCOP_STX":false,"LSCOP_GTC":false,"LSCOP_ORL":false,"LSCOP_CAM":false,"LSCOP_ASH":false,"LSCOP_EAR":false,"LSCOP_CCLCSL":false,"LSCOP_CAT":false,"LSCOP_SCA":false,"LSCOP_PSY":false,"LSCOP_ASC":false,"LSCOP_STJ":false,"LSCOP_LAW":false,"LSCOP_CAR":false,"LSCOP_STF":false,"LSCOP_BOD":false,"LSCOP_HMC":false,"LSCOP_RHO":false,"LSCOP_SBS":false,"LSCOP_CSL":false,"LSCOP_EFL":false,"LSCOP_KEL":false,"LSCOP_LAN":false,"LSCOP_OUM":false,"LSCOP_HUG":false,"LSCOP_MER":false,"LSCOP_OUS":false,"LSCOP_STB":false,"LSCOP_STA":false,"LSCOP_LIN":false,"LSCOP_QUE":false,"LSCOP_OULS":false,"LSCOP_BNC":false,"LSCOP_KEB":false,"LSCOP_WEL":false,"LSCOP_MEC":false,"LSCOP_CMS":false,"LSCOP_RSL":false,"LSCOP_ANN":false,"LSCOP_SSL":false,"LSCOP_OLI":false,"LSCOP_PHI":false,"LSCOP_LAC":false,"LSCOP_BLL":false,"LSCOP_BHFL":false,"LSCOP_CHC":false,"LSCOP_SEH":false,"LSCOP_MASUD":false,"LSCOP_MUS":false,"LSCOP_DUN":false,"LSCOP_HFL":false,"LSCOP_TRI":false,"LSCOP_TAY":false,"LSCOP_EDU":false,"LSCOP_MNS":false,"LSCOP_WOL":false,"LSCOP_IND":false,"LSCOP_WOR":false,"LSCOP_TAS":false,"LSCOP_ONLINE":false,"LSCOP_BLF":false,"LSCOP_HIN":false,"LSCOP_COS":false,"LSCOP_EDM":false,"LSCOP_RUS":false,"LSCOP_COM":false,"LSCOP_RSLOPEN":false,"LSCOP_EXE":false,"LSCOP_MATMTH":false,"LSCOP_BJL":false,"LSCOP_BODOPEN":false,"LSCOP_SPC":false,"LSCOP_DIG":false,"LSCOP_BODOPENWES":false,"LSCOP_CEU":false,"LSCOP_ANT":false,"LSCOP_BLANK":false,"LSCOP_IES":false,"LSCOP_MFO":false,"LSCOP_BAL":false,"LSCOP_ENG":false,"LSCOP_ONLINEDIG":false,"LSCOP_CED":false,"LSCOP_ISL":false,"LSCOP_RSCCARD":false,"LSCOP_SOM":false,"LSCOP_MAG":false,"LSCOP_JES":false,"LSCOP_MAT":false,"LSCOP_PCH":false,"LSCOP_OX":false,"LSCOP_OPT":false,"LSCOP_THE":false,"RSCOP_STA":false,"LSCOP_HKE":false,"LSCOP_VHL":false,"LSCOP_PLS":false,"default_scope":false,"LSCOP_NULL":false,"LSCOP_OII":false,"LSCOP_HCL":false,"LSCOP_UNV":false,"LSCOP_PHYS":false,"LSCOP_PEM":false,"LSCOP_WAD":false,"LSCOP_MHS":false,"LSCOP_SAC":false,"LSCOP_MAGCH":false,"LSCOP_ICL":false,"LSCOP_DYS":false,"LSCOP_NUF":false,"LSCOP_ELD":false,"LSCOP_HSC":false,"LSCOP_LMH":false,"LSCOP_CCC":false,"LSCOP_UNI":false,"LSCOP_PTF":false,"LSCOP_NEW":false,"LSCOP_OIL":false}' />
+<input id="instCode" type="hidden" value='OX' />
+<input id="pcToken" type="hidden" value='0' />
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- searchTileBasic.jsp begin -->
+<div id="exlidSearchTile" class="EXLSearch">
+<div id="exlidSearchRibbon">
+<!-- search_hidden.jspf begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!--
+		institution = University of Oxford
+		institution code = OX
+	 -->
+	<input type="hidden" id="mode" name="mode" value="Basic"/>
+	<input type="hidden" id="tab" name="tab" value="local"/>
+	<input type="hidden" id="indx" name="indx" value="1"/>
+	<input type="hidden" id="dum" name="dum" value="true"/>
+	<input type="hidden" name="srt" value="rank" id="str"/>
+
+	<input type="hidden" id="vid" name="vid" value="OXVU1"/>
+	<input type="hidden" id="frbg" name="frbg" value=""/>
+	<input type="hidden" id="fctN" name="fctN" value="facet_topic"/>
+	<input type="hidden" id="fctN" name="fctN" value="facet_topic"/>
+	<input type="hidden" id="fctV" name="fctV" value="Arthurian romances"/>
+	<input type="hidden" id="fctV" name="fctV" value="Persian literature"/>
+	<!-- search_hidden.jspf end --><fieldset>
+    <legend class="EXLHiddenCue">Primo Search</legend>
+
+<div class="EXLSearchTabsContainer">
+
+
+<input type="hidden" name="tb" value="t" id="tb" /><ul id="exlidSearchTabs" class="EXLTabs">
+		<li id="exlidTab0" class="EXLSearchTab EXLSearchTabSelected">
+				<span id="defaultScopelocal" style='display:none'>All libraries/collections</span> <a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?mode=Basic&amp;vid=OXVU1&amp;vl(freeText0)=Comparative+literature&amp;fn=search&amp;tab=local&amp;" class="EXLSearchTabTitle EXLSearchTabLABELOxford Collections" target="_self" onclick="getSearchField(this,'Basic'); delay4Remote('local','true ','local')"
+				   title="Search Oxford collections included in SOLO.  For further information please see the 'What am I searching?' link.">
+					<span>Oxford Collections</span>
+				</a>
+			</li>
+		<li id="exlidTab1" class="EXLSearchTab ">
+				<span id="defaultScoperemote" style='display:none'>Articles & More</span> <a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?mode=Basic&amp;vid=OXVU1&amp;vl(freeText0)=Comparative+literature&amp;fn=search&amp;tab=remote&amp;" class="EXLSearchTabTitle EXLSearchTabLABELArticles & More" target="_self" onclick="getSearchField(this,'Basic'); delay4Remote('local','true ','remote')"
+				   title="Search selected journal articles. For more information on what this search covers, see the ‘What am I searching?’ link.">
+					<span>Articles & More</span>
+				</a>
+			</li>
+		<li id="exlidTab2" class="EXLSearchTab ">
+				<span id="defaultScopeall" style='display:none'>Search Everything</span> <a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?mode=Basic&amp;vid=OXVU1&amp;vl(freeText0)=Comparative+literature&amp;fn=search&amp;tab=all&amp;" class="EXLSearchTabTitle EXLSearchTabLABELSearch Everything" target="_self" onclick="getSearchField(this,'Basic'); delay4Remote('local','true ','all')"
+				   title="Search content from the Oxford Collections and Articles & More collections under a single tab.">
+					<span>Search Everything</span>
+				</a>
+			</li>
+		</ul>
+
+</div>
+<div class="EXLSearchFieldRibbon ">
+      <div class="EXLSearchFieldRibbonFormFields">
+        <div class="EXLSearchFieldRibbonFormSearchFor">
+          <label for="search_field" class="EXLHide">Search For:</label>
+          <input name="vl(freeText0)" class=""
+			value='Comparative literature' id="search_field" type="text" accesskey="s" />
+										
+        </div>
+        <div class="EXLSearchFieldRibbonFormSearchClear">
+        	<a class="EXLClearSearchBoxButton EXLClearSimpleSearchBoxButton" id="exlidClearSearchBox" title="Clear Search Term" href="#">
+				<span class="EXLHiddenCue">Clear Search Box</span><span class="EXLClearSimpleSearchBoxButtonClose">
+				</span>
+			</a>	
+        </div>
+
+
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="scopesList">
+<div class="EXLSearchFieldRibbonFormSelectedCollection ">
+	 <span class="EXLSearchFieldRibbonFormSelectedCollectionLabel">
+			<a id="showMoreOptions" href="#" title="Selected search target">
+			<input class="EXLSelectedScopeId" type="hidden" value="LSCOP_OX" />
+			<span class="EXLHiddenCue">Search in:</span>
+			<span class="EXLSearchFieldStrippedText">
+	             All libraries/collections</span>
+			  <span class="EXLHiddenCue">Or hit Enter to replace search target</span>
+			</a>
+		</span>
+		</div>
+
+<div class="EXLSearchFieldRibbonFormCollectionsList" style="display:none" ><span class="EXLHiddenCue">Or select another collection:</span>
+     <div id="scopesListContainer" class="EXLDynamicSelectBodyRadio">
+     <div class="EXLDynamicSelectBodyRadioFirst"   id="LSCOP_OX-Div" >
+			<a href="#" class="EXLDynamicSelectBodyRadioFirst">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio" checked="checked"  id="exlidDynamicSelectBodyRadio0" value="scope:(OX)"/>
+	              <label for="exlidDynamicSelectBodyRadio0">
+	                   All libraries/collections</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_ONLINEDIG-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio1" value="scope:(NET),scope:(DIGBOOK)"/>
+	              <label for="exlidDynamicSelectBodyRadio1">
+	                   Online Resources</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_PHYS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio2" value="scope:(PHYS)"/>
+	              <label for="exlidDynamicSelectBodyRadio2">
+	                   Physical Resources (not Online)</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_OULS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio3" value="scope:(OULS),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio3">
+	                   All Bodleian Libraries</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_ZOO-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio4" value="scope:(ZOO),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio4">
+	                   Alexander Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_ASC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio5" value="scope:(ASC),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio5">
+	                   All Souls College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_ASH-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio6" value="scope:(ASH),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio6">
+	                   Ashmolean Museum Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_BAL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio7" value="scope:(BAL),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio7">
+	                   Balfour Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_BLL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio8" value="scope:(BLL),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio8">
+	                   Balliol College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_BLF-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio9" value="scope:(NET),scope:(BLF)"/>
+	              <label for="exlidDynamicSelectBodyRadio9">
+	                   Blackfriars Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_BHFL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio10" value="scope:(HFL),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio10">
+	                   Bodleian History Faculty Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_BJL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio11" value="scope:(BJL),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio11">
+	                   Bodleian Japanese Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_BOD-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio12" value="scope:(BOD),scope:(NET),scope:(BOL)"/>
+	              <label for="exlidDynamicSelectBodyRadio12">
+	                   Bodleian Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_LAW-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio13" value="scope:(LAW),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio13">
+	                   Bodleian Law Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_BODOPENWES-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio14" value="scope:(WESO1),scope:(WESO2),scope:(BODGL),scope:(BODGU),scope:(BODO8),scope:(BODO9),scope:(BODO3),scope:(BODO1),scope:(BODO2),scope:(BODO4),scope:(BODO5),scope:(BODO6),scope:(BODO7),scope:(WESO3),scope:(WESO4),scope:(WESO5),scope:(WESO6)"/>
+	              <label for="exlidDynamicSelectBodyRadio14">
+	                   Bodleian Library Open Shelf Collections</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_STF-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio15" value="scope:(NET),scope:(STF)"/>
+	              <label for="exlidDynamicSelectBodyRadio15">
+	                   Bodleian Staff Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_BNC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio16" value="scope:(NET),scope:(BNC)"/>
+	              <label for="exlidDynamicSelectBodyRadio16">
+	                   Brasenose College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_CAM-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio17" value="scope:(NET),scope:(CAM)"/>
+	              <label for="exlidDynamicSelectBodyRadio17">
+	                   Campion Hall Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_CEU-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio18" value="scope:(NET),scope:(CEU)"/>
+	              <label for="exlidDynamicSelectBodyRadio18">
+	                   Cancer Epidemiology Unit Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_CAR-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio19" value="scope:(NET),scope:(CAR)"/>
+	              <label for="exlidDynamicSelectBodyRadio19">
+	                   Careers Service Resource Centre</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_MAGCH-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio20" value="scope:(NET),scope:(MAGCH)"/>
+	              <label for="exlidDynamicSelectBodyRadio20">
+	                   Chantry Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_CCLCSL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio21" value="scope:(CCL),scope:(CSL),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio21">
+	                   China Centre: KB Chen Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_CHC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio22" value="scope:(NET),scope:(CHC)"/>
+	              <label for="exlidDynamicSelectBodyRadio22">
+	                   Christ Church Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_COM-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio23" value="scope:(NET),scope:(COM)"/>
+	              <label for="exlidDynamicSelectBodyRadio23">
+	                   Computer Science Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_CED-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio24" value="scope:(NET),scope:(CED)"/>
+	              <label for="exlidDynamicSelectBodyRadio24">
+	                   Continuing Education Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_CCC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio25" value="scope:(NET),scope:(CCC)"/>
+	              <label for="exlidDynamicSelectBodyRadio25">
+	                   Corpus Christi College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_EAR-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio26" value="scope:(EAR),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio26">
+	                   Earth Sciences Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_EDU-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio27" value="scope:(EDU),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio27">
+	                   Education Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_ENG-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio28" value="scope:(ENG),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio28">
+	                   Engineering Science Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_EFL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio29" value="scope:(EFL),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio29">
+	                   English Faculty Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_EXE-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio30" value="scope:(EXE),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio30">
+	                   Exeter College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_GTC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio31" value="scope:(NET),scope:(GTC)"/>
+	              <label for="exlidDynamicSelectBodyRadio31">
+	                   Green Templeton College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_GRF-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio32" value="scope:(GRF),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio32">
+	                   Greyfriars Hall Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_HMC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio33" value="scope:(NET),scope:(HMC)"/>
+	              <label for="exlidDynamicSelectBodyRadio33">
+	                   Harris Manchester College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_HCL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio34" value="scope:(HCL),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio34">
+	                   Health Care Libraries</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_HER-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio35" value="scope:(HER),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio35">
+	                   Hertford College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_HFL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio36" value="scope:(HFL),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio36">
+	                   Bodleian History Faculty Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_IND-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio37" value="scope:(NET),scope:(IND)"/>
+	              <label for="exlidDynamicSelectBodyRadio37">
+	                   Indian Institute Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_ICL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio38" value="scope:(NET),scope:(ICL)"/>
+	              <label for="exlidDynamicSelectBodyRadio38">
+	                   Instituto Camoes Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_JES-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio39" value="scope:(NET),scope:(JES)"/>
+	              <label for="exlidDynamicSelectBodyRadio39">
+	                   Jesus College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_KEB-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio40" value="scope:(NET),scope:(KEB)"/>
+	              <label for="exlidDynamicSelectBodyRadio40">
+	                   Keble College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_KEL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio41" value="scope:(NET),scope:(KEL)"/>
+	              <label for="exlidDynamicSelectBodyRadio41">
+	                   Kellogg College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_LMH-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio42" value="scope:(LMH),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio42">
+	                   Lady Margaret Hall Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_LAN-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio43" value="scope:(LAN),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio43">
+	                   Language Centre Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_LAC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio44" value="scope:(LAC),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio44">
+	                   Latin American Centre Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_LCR-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio45" value="scope:(LCR),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio45">
+	                   Linacre College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_LIN-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio46" value="scope:(LIN),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio46">
+	                   Lincoln College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_MAG-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio47" value="scope:(MAG),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio47">
+	                   Magdalen College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_MFO-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio48" value="scope:(MFO),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio48">
+	                   Maison Française Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_MNS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio49" value="scope:(NET),scope:(MNS)"/>
+	              <label for="exlidDynamicSelectBodyRadio49">
+	                   Mansfield College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_DOM-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio50" value="scope:(DOM),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio50">
+	                   Materials Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_MATMTH-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio51" value="scope:(MAT),scope:(NET),scope:(MTH)"/>
+	              <label for="exlidDynamicSelectBodyRadio51">
+	                   Mathematical Institute Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_MER-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio52" value="scope:(MER),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio52">
+	                   Merton College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_MEC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio53" value="scope:(NET),scope:(MEC)"/>
+	              <label for="exlidDynamicSelectBodyRadio53">
+	                   Middle East Centre Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_MHS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio54" value="scope:(MHS),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio54">
+	                   Museum of the History of Science Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_MUS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio55" value="scope:(MUS),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio55">
+	                   Music Faculty Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_NEW-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio56" value="scope:(NET),scope:(NEW)"/>
+	              <label for="exlidDynamicSelectBodyRadio56">
+	                   New College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_NUF-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio57" value="scope:(NET),scope:(NUF)"/>
+	              <label for="exlidDynamicSelectBodyRadio57">
+	                   Nuffield College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_OPT-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio58" value="scope:(OPT),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio58">
+	                   Nuffield Laboratory of Ophthalmology Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_ORL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio59" value="scope:(ORL)"/>
+	              <label for="exlidDynamicSelectBodyRadio59">
+	                   Oriel College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_OIL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio60" value="scope:(NET),scope:(OIL)"/>
+	              <label for="exlidDynamicSelectBodyRadio60">
+	                   Oriental Institute Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_HEB-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio61" value="scope:(HEB),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio61">
+	                   Oxford Centre for Hebrew and Jewish Studies Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_ISL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio62" value="scope:(NET),scope:(ISL)"/>
+	              <label for="exlidDynamicSelectBodyRadio62">
+	                   Oxford Centre for Islamic Studies Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_CMS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio63" value="scope:(NET),scope:(CMS)"/>
+	              <label for="exlidDynamicSelectBodyRadio63">
+	                   Oxford Centre for Mission Studies</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_HIN-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio64" value="scope:(HIN),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio64">
+	                   Oxford Centre for Vaishnava and Hindu Studies Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_IES-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio65" value="scope:(NET),scope:(IES)"/>
+	              <label for="exlidDynamicSelectBodyRadio65">
+	                   Oxford Institute for Energy Studies</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_OII-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio66" value="scope:(NET),scope:(OII)"/>
+	              <label for="exlidDynamicSelectBodyRadio66">
+	                   Oxford Internet Institute Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_OLI-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio67" value="scope:(NET),scope:(OLI)"/>
+	              <label for="exlidDynamicSelectBodyRadio67">
+	                   Oxford Learning Institute</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_OUM-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio68" value="scope:(OUM),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio68">
+	                   Oxford University Museum of Natural History Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_OUS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio69" value="scope:(OUS),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio69">
+	                   Oxford Union Society Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_COS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio70" value="scope:(COS),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio70">
+	                   Oxfordshire History Centre</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_HSC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio71" value="scope:(NET),scope:(HSC)"/>
+	              <label for="exlidDynamicSelectBodyRadio71">
+	                   Pauling Centre for Human Sciences Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_PEM-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio72" value="scope:(PEM),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio72">
+	                   Pembroke College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_PTFBL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio73" value="scope:(NET),scope:(PTF)"/>
+	              <label for="exlidDynamicSelectBodyRadio73">
+	                   Philosophy & Theology Faculties Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_QUE-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio74" value="scope:(QUE),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio74">
+	                   Queen's College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_RSL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio75" value="scope:(NET),scope:(RSL)"/>
+	              <label for="exlidDynamicSelectBodyRadio75">
+	                   Radcliffe Science Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_RSLOPEN-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio76" value="scope:(RSLL2),scope:(RSLL3),scope:(RSLL4),scope:(RSLL5),scope:(RSLL6),scope:(RSLL7),scope:(RSLL8)"/>
+	              <label for="exlidDynamicSelectBodyRadio76">
+	                   Radcliffe Science Library Open Shelf Collections</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_REG-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio77" value="scope:(REG),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio77">
+	                   Regent's Park College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_RHO-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio78" value="scope:(NET),scope:(RHO)"/>
+	              <label for="exlidDynamicSelectBodyRadio78">
+	                   Rhodes House Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_RUS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio79" value="scope:(RUS),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio79">
+	                   Ruskin School of Art Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_SAC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio80" value="scope:(SAC),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio80">
+	                   Sackler Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_SBS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio81" value="scope:(SBS),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio81">
+	                   Saïd Business School Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_PLS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio82" value="scope:(PLS),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio82">
+	                   Sherardian Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_DUN-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio83" value="scope:(DUN),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio83">
+	                   Sir William Dunn School of Pathology Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_SCA-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio84" value="scope:(SCA),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio84">
+	                   Social and Cultural Anthropology Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_SSL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio85" value="scope:(SSL),scope:(NET),scope:(RSCCARD)"/>
+	              <label for="exlidDynamicSelectBodyRadio85">
+	                   Social Science Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_SOM-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio86" value="scope:(SOM),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio86">
+	                   Somerville College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_ANN-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio87" value="scope:(NET),scope:(ANN)"/>
+	              <label for="exlidDynamicSelectBodyRadio87">
+	                   St Anne's College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_ANT-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio88" value="scope:(ANT),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio88">
+	                   St Antony's College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_STB-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio89" value="scope:(NET),scope:(STB)"/>
+	              <label for="exlidDynamicSelectBodyRadio89">
+	                   St Benet's Hall Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_CAT-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio90" value="scope:(NET),scope:(CAT)"/>
+	              <label for="exlidDynamicSelectBodyRadio90">
+	                   St Catherine's College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_STX-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio91" value="scope:(NET),scope:(STX)"/>
+	              <label for="exlidDynamicSelectBodyRadio91">
+	                   St Cross College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_SEH-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio92" value="scope:(SEH),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio92">
+	                   St Edmund Hall Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_HUG-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio93" value="scope:(NET),scope:(HUG)"/>
+	              <label for="exlidDynamicSelectBodyRadio93">
+	                   St Hugh's College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_STJ-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio94" value="scope:(NET),scope:(STJ)"/>
+	              <label for="exlidDynamicSelectBodyRadio94">
+	                   St John's College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_SPC-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio95" value="scope:(SPC),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio95">
+	                   St Peter's College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_STA-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio96" value="scope:(STA),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio96">
+	                   Statistics Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_TAY-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio97" value="scope:(NET),scope:(TAY)"/>
+	              <label for="exlidDynamicSelectBodyRadio97">
+	                   Taylor Institution Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_TAS-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio98" value="scope:(NET),scope:(TAS)"/>
+	              <label for="exlidDynamicSelectBodyRadio98">
+	                   Taylor Institution Slavonic and Modern Greek Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_TRI-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio99" value="scope:(NET),scope:(TRI)"/>
+	              <label for="exlidDynamicSelectBodyRadio99">
+	                   Trinity College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_UNV-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio100" value="scope:(NET),scope:(UNV)"/>
+	              <label for="exlidDynamicSelectBodyRadio100">
+	                   University College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_VHL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio101" value="scope:(NET),scope:(VHL)"/>
+	              <label for="exlidDynamicSelectBodyRadio101">
+	                   Vere Harmsworth Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_WAD-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio102" value="scope:(NET),scope:(WAD)"/>
+	              <label for="exlidDynamicSelectBodyRadio102">
+	                   Wadham College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_WEL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio103" value="scope:(WEL),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio103">
+	                   Wellcome Unit for the History of Medicine Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_WOL-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio104" value="scope:(WOL),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio104">
+	                   Wolfson College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_WOR-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio105" value="scope:(WOR),scope:(NET)"/>
+	              <label for="exlidDynamicSelectBodyRadio105">
+	                   Worcester College Library</label>
+			</span>
+			  </a>
+            </div>
+		<div class=""   id="LSCOP_RSCCARD-Div" >
+			<a href="#" class="">
+			  <span class="EXLHiddenCue">Search in:</span>
+			  <span class="EXLSearchFieldStrippedText">
+	              <input name="scp.scps" type="radio"   id="exlidDynamicSelectBodyRadio106" value="scope:(RSCCARD)"/>
+	              <label for="exlidDynamicSelectBodyRadio106">
+	                   RSC Cardbox Catalogue</label>
+			</span>
+			  </a>
+            </div>
+		</div>
+
+</div>
+  </div>
+  </div>
+<!-- end  search field ribbon -->
+      <div class="EXLSearchFieldRibbonFormSubmitSearch">
+		<input id="goButton" type="submit" value="Search" class="submit" accesskey="g"/>
+      </div>
+
+    </div>
+    </fieldset>
+<div class="EXLSearchFieldRibbonAdvancedSearchLink">
+	<a class="EXLSearchFieldRibbonAdvancedTwoLinks" title="Switch to Advanced Search" href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?mode=Advanced&amp;ct=AdvancedSearch&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527969&amp;ct=facet&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" id="advancedSearchBtn">Advanced Search</a>
+</div>
+
+<div class="EXLSearchFieldRibbonBrowseSearchLink">
+	<a class="EXLSearchFieldRibbonAdvancedTwoLinks" title="Browse Search" href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fn=BrowseRedirect&amp;searchField=author&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527969&amp;ct=facet&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1">Browse Search</a>
+</div>
+</div>
+<div id="exlidSearchBanner">
+<a
+	           href="http://www.ox.ac.uk"
+	           target="_popup">
+	          <img src="../images/ox_logo_new.gif" alt="University of Oxford Logo" />
+	        </a>
+</div>
+<!--end exlidSearchBanner-->
+</div>
+<!-- searchTileBasic.jsp end -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><script type="text/javascript"> // <![CDATA[
+
+function removeChildren(elm){
+	if ( elm.hasChildNodes() )
+	{
+    		while ( elm.childNodes.length >= 1 )
+    		{
+        			elm.removeChild( elm.firstChild );
+    		}
+	}
+}
+
+
+function loopSelected(selObj, newObj, selectedElm)
+{
+
+	for (i=0; i<selObj.options.length; i++) {
+		var op = document.createElement('option');
+		op.text = selObj.options[i].text;
+		op.value = selObj.options[i].value;
+		op.id = selObj.options[i].id;
+		if (selectedElm == selObj.options[i].value ){
+			op.selected = 'selected';
+		}
+		try {
+  			newObj.add(op, newObj.options[i]); // firefox
+		} catch (ex) {
+  			newObj.add(op, i); // ie
+		}
+	}
+}
+
+
+function showSelected(selectedOption, id  ) {
+
+		var selOperatorObj = document.getElementById('exlidInput_precisionOperator_' +id);
+		var selOperatorIndex = selOperatorObj.selectedIndex;
+		var titleObj=document.getElementById('exlidInput_scope_title' +id);
+
+		var allObj =document.getElementById('exlidInput_scope_all' +id);
+		var orgObj = document.getElementById('exlidInput_scope_' +id);
+		var selectedElm =orgObj.options[orgObj.selectedIndex];
+
+		if ( selOperatorObj.options[selOperatorIndex].value =='begins_with'){
+			if (titleObj == null || titleObj == undefined ){
+				selectedOption.options[0].selected = 'selected';
+				alert('Starts_with can only be selected for use with title');
+				return false;
+			}
+			removeChildren(orgObj);
+			loopSelected(titleObj, orgObj, selectedElm.value);
+			var searchForm = document.getElementsByName('searchForm')[0];
+			var hiddenSrt = document.getElementById("str");
+			hiddenSrt.value = 'title';
+		} else{
+			removeChildren(orgObj);
+			loopSelected(allObj, orgObj, selectedElm.value);
+			var searchForm = document.getElementsByName('searchForm')[0];
+			var hiddenSrt = document.getElementById("str");
+			hiddenSrt.value = 'rank';
+		}
+
+}
+
+function unselect(id  ) {
+
+	 	 if (document.getElementById('begins_with'+id)) {
+			var orgObj = document.getElementById('exlidInput_scope_' +id);
+			removeChildren(orgObj);
+			var op = document.createElement('option');
+			op.text = 'in the title';
+			op.value = 'title';
+			op.id = 'scope_titleOnly'+id;
+			op.selected = 'selected';
+			try {
+  				orgObj.add(op, orgObj.options[0]); // firefox
+			} catch (ex) {
+  				orgObj.add(op, 0); // ie
+			}
+			var searchForm = document.getElementsByName('searchForm')[0];
+			var hiddenSrt = document.getElementById("str");
+			hiddenSrt.value = 'title';
+		}
+}
+
+function unselectAdvanceTitle(id){
+
+	if (document.getElementById('title'+id)) {
+		var orgObj = document.getElementById('exlidInput_scope_' +id);
+		removeChildren(orgObj);
+		var op = document.createElement('option');
+		op.text = 'Title';
+		op.value = 'title';
+		op.id = 'scope_titleOnly'+id;
+		op.selected = 'selected';
+		try {
+			orgObj.add(op, orgObj.options[0]); // firefox
+		} catch (ex) {
+			orgObj.add(op, 0); // ie
+		}
+		var searchForm = document.getElementsByName('searchForm')[0];
+		var hiddenSrt = document.getElementById("str");
+		hiddenSrt.value = 'title';
+	}
+}
+
+
+//]]>
+</script>
+<noscript>This feature requires javascript</noscript><!-- searchLimitsTile.jsp begin -->
+<div id="exlidHeaderSearchLimits">
+      <fieldset>
+      <legend class="EXLHiddenCue"><!-- userText.tag begin -->
+Limit your search:<!-- userText.tag end --></legend>      
+      <span class="EXLHeaderSearchLimitsFields">
+		<span class="EXLHeaderSearchLimitsFieldsTitle">
+		<!-- userText.tag begin -->
+Limit your search:<!-- userText.tag end --></span>
+
+		<span class="EXLHiddenCue"><!-- userText.tag begin -->
+Resource type<!-- userText.tag end --></span>
+				<!-- select.tag begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><label class="EXLHide" for="exlidInput_mediaType_1">criteria input</label>
+		 <select class="EXLSelectTag blue EXLSimpleSearchSelect" id="exlidInput_mediaType_1" 
+		  name="vl(304942529UI1)" >
+
+
+			<option  style="display:block"  value="all_items"  id="mediaType_all_items1"
+						selected="selected"class="EXLSelectedOption">
+							All items</option>
+				<option  style="display:block"  value="thesis"  id="mediaType_thesis1"
+						class="EXLSelectOption">
+							Theses</option>
+				<option  style="display:block"  value="books"  id="mediaType_books1"
+						class="EXLSelectOption">
+							Books</option>
+				<option  style="display:block"  value="journals"  id="mediaType_journals1"
+						class="EXLSelectOption">
+							Journals</option>
+				<option  style="display:block"  value="images"  id="mediaType_images1"
+						class="EXLSelectOption">
+							Images</option>
+				<option  style="display:block"  value="audio_video"  id="mediaType_audio_video1"
+						class="EXLSelectOption">
+							Audio Visual</option>
+				<option  style="display:block"  value="databases"  id="mediaType_databases1"
+						class="EXLSelectOption">
+							Databases</option>
+				<option  style="display:block"  value="scores"  id="mediaType_scores1"
+						class="EXLSelectOption">
+							Scores</option>
+				<option  style="display:block"  value="maps"  id="mediaType_maps1"
+						class="EXLSelectOption">
+							Maps</option>
+				</select>
+		 <!-- select.tag end --><span class="EXLHide">
+				<span class="EXLHide">Show Results with:</span>
+				</span>
+				<!-- select.tag begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><label class="EXLHide" for="exlidInput_precisionOperator_1">criteria input</label>
+		 <select class="EXLSelectTag blue EXLSimpleSearchSelect" id="exlidInput_precisionOperator_1" 
+				onchange="showSelected(this, '1' ); return false;"
+			
+		  name="vl(1UIStartWith0)" >
+
+
+			<option value="contains"
+					class="EXLSelectedOption">
+						that contain my query words</option>
+				<option value="exact"
+					selected="selected"class="EXLSelectOption">
+						with my exact phrase</option>
+				<option value="begins_with"
+					class="EXLSelectOption">
+						starts with</option>
+				</select>
+		 <!-- select.tag end --><span class="EXLHide">
+				<span class="EXLHide">Show Results with:</span>
+				<!-- userText.tag begin -->
+Index<!-- userText.tag end --></span>
+				<!-- select.tag begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><label class="EXLHide" for="exlidInput_scope_1">criteria input</label>
+		<select class="EXLSelectTag blue EXLSimpleSearchSelect" id="exlidInput_scope_1" name="vl(353692469UI0)"   >
+			<option value="any"  id="scope_any1"
+						class="EXLSelectedOption">
+							anywhere in the record</option>
+				<option value="title"  id="scope_title1"
+						class="EXLSelectOption">
+							in the title</option>
+				<option value="creator"  id="scope_creator1"
+						class="EXLSelectOption">
+							as author/creator</option>
+				<option value="sub"  id="scope_sub1"
+						selected="selected"class="EXLSelectOption">
+							in subject</option>
+				<option value="isbn"  id="scope_isbn1"
+						class="EXLSelectOption">
+							ISBN</option>
+				<option value="issn"  id="scope_issn1"
+						class="EXLSelectOption">
+							ISSN</option>
+				<option value="lsr12"  id="scope_lsr121"
+						class="EXLSelectOption">
+							ISMN</option>
+				<option value="lsr01"  id="scope_lsr011"
+						class="EXLSelectOption">
+							in the shelfmark</option>
+				<option value="lsr04"  id="scope_lsr041"
+						class="EXLSelectOption">
+							in the shelfmark (Chinese records)</option>
+				<option value="usertag"  id="scope_usertag1"
+						class="EXLSelectOption">
+							in user tags</option>
+				<option value="lsr10"  id="scope_lsr101"
+						class="EXLSelectOption">
+							in copy-specific notes</option>
+				</select>
+
+
+			<label class="EXLHide" for="exlidInput_scope_title1">Show Results with:</label>
+				  	<select class="EXLSelectTag blue EXLSimpleSearchSelect" id="exlidInput_scope_title1" name="vl(353692469UI0)"  style="display:none" >
+					<option  value="title"  id="scope_titleOnly1" selected="selected"
+
+						class="EXLSelectOption">
+						in the title</option>
+					</select>
+				<label class="EXLHide" for="exlidInput_scope_all1">Show Results with:</label>
+		<select class="EXLSelectTag blue EXLSimpleSearchSelect" id="exlidInput_scope_all1" name="vl(353692469UI0)" style="display:none">
+			<option  style="display:block"  value="any"  id="scope_anyall1"
+						class="EXLSelectedOption">
+							anywhere in the record</option>
+				<option  style="display:block"  value="title"  id="scope_titleall1"
+						class="EXLSelectOption">
+							in the title</option>
+				<option  style="display:block"  value="creator"  id="scope_creatorall1"
+						class="EXLSelectOption">
+							as author/creator</option>
+				<option  style="display:block"  value="sub"  id="scope_suball1"
+						selected="selected"class="EXLSelectOption">
+							in subject</option>
+				<option  style="display:block"  value="isbn"  id="scope_isbnall1"
+						class="EXLSelectOption">
+							ISBN</option>
+				<option  style="display:block"  value="issn"  id="scope_issnall1"
+						class="EXLSelectOption">
+							ISSN</option>
+				<option  style="display:block"  value="lsr12"  id="scope_lsr12all1"
+						class="EXLSelectOption">
+							ISMN</option>
+				<option  style="display:block"  value="lsr01"  id="scope_lsr01all1"
+						class="EXLSelectOption">
+							in the shelfmark</option>
+				<option  style="display:block"  value="lsr04"  id="scope_lsr04all1"
+						class="EXLSelectOption">
+							in the shelfmark (Chinese records)</option>
+				<option  style="display:block"  value="usertag"  id="scope_usertagall1"
+						class="EXLSelectOption">
+							in user tags</option>
+				<option  style="display:block"  value="lsr10"  id="scope_lsr10all1"
+						class="EXLSelectOption">
+							in copy-specific notes</option>
+				</select>
+		<!-- select.tag end --><!-- userText.tag begin -->
+<!-- userText.tag end --><input name="Submit" type="submit" value="Apply Search Limits"/>
+
+      <input name="Reset" type="reset" value="Clear Limits"/>
+      </span>
+      </fieldset>
+</div>
+<!-- searchLimitsTile.jsp end -->
+</form><!-- searchTile.jsp end -->
+<!-- l_search_input.jsp end --><!-- end ../views/search/l_search_input.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidHeaderSystemFeedback" class="EXLCustomLayoutTile EXLSystemFeedback">
+<!-- begin ../tiles/systemFeedbackTile.jsp -->
+			<!-- systemFeedbackTile.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidHeaderSystemFeedbackContent" class="EXLSystemFeedback">
+		<strong> Did you mean:&nbsp;<a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?ct=didym&amp;fn=search&amp;tab=local&amp;mode=Basic&amp;scp.scps=scope%3a(OX)&amp;vl(freeText0)=comparative++literature+&amp;vl(freeText0)=comparative++literature&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;vl(304942529UI1)=all_items" onclick="if(isRemoteSearch()){suggestedPleaseWait('comparative  literature');}">comparative  literature</a>?</strong>
+	</div>
+<!-- systemFeedbackTile.jsp end --><!-- end ../tiles/systemFeedbackTile.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidResultsContainer" class="EXLCustomLayoutContainer EXLResultsContainer">
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="resultsTileNoId" class="EXLCustomLayoutContainer EXLResultsTile">
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="resultsHeaderNoId" class="EXLCustomLayoutContainer EXLResultsHeader">
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="resultsNumbersTile" class="EXLCustomLayoutTile EXLResultsNumbers">
+<!-- begin ../tiles/resultsHeaderNumbers.jsp -->
+			<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><h1>
+			<em>
+					  		1</em>
+			  			Results
+				&nbsp;for<em>
+				All libraries/collections</em>
+			</h1>
+	<div class="EXLResultsSortBy">
+		<span class="EXLResultsSortByLabel"><b>Sorted by:</b></span>
+		<span class="EXLResultsSortBySelected">
+			<a href="#" title="Sort">
+				<span class="EXLHiddenCue"><b>Sorted by:</b></span>
+				Relevance<span class="EXLHiddenCue">Or hit Enter to replace sort method</span>
+			</a>
+		</span>
+		<input type="hidden" name="searchForm.frbrSrt" value=""/>
+		<div class="EXLResultsSortByMenu">
+	        <ul class="EXLResultsSortByMenuShow EXLResultsSortByMenuHide"><!--remove EXLResultsSortByMenuHide to show menu items-->
+				<li class="EXLSortByLink EXLSortByLinkSelected">
+								Relevance</li>
+						<li class="EXLSortByLink ">
+								<a href="search.do?srt=date&amp;srtChange=true&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="">
+							  				Date-newest</a>
+						  			</li>
+						<li class="EXLSortByLink ">
+								<a href="search.do?srt=lso01&amp;srtChange=true&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="">
+							  				Date-oldest</a>
+						  			</li>
+						<li class="EXLSortByLink ">
+								<a href="search.do?srt=author&amp;srtChange=true&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="">
+							  				Author</a>
+						  			</li>
+						<li class="EXLSortByLink ">
+								<a href="search.do?srt=title&amp;srtChange=true&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="">
+							  				Title</a>
+						  			</li>
+						<li class="EXLSortByLink ">
+								<a href="search.do?srt=popularity&amp;srtChange=true&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="">
+							  				Popularity</a>
+						  			</li>
+						</ul>
+		</div>
+	</div>
+<!-- end ../tiles/resultsHeaderNumbers.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="resultsNavNoId" class="EXLCustomLayoutTile EXLResultsNavigation">
+<!-- begin ../tiles/resultsHeaderNavigation.jsp -->
+			<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- end ../tiles/resultsHeaderNavigation.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="refinementsNoId" class="EXLCustomLayoutTile ">
+<!-- begin ../tiles/resultsHeaderRefinements.jsp -->
+			<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><script type="text/javascript">
+// <![CDATA[
+		var imgLoadState = []; //for storing state of each row of results.
+		function thumbnailPop(row,img){
+			if (imgLoadState[row]!=1){ //if no image successfully loaded yet _in this row_, pop the image to the top.
+				imgLoadState[row] = 1;
+				var p = img.parentNode;
+				p.className = "popThumbnailToTop "+p.className;
+			}
+
+		}
+		function thumbnailHide(img){
+			var p = img.parentNode;
+			p.style.display = 'none';
+		}
+
+		var thumbnailQueries = [];
+		function addThumbnailQueryUrl(url){
+			thumbnailQueries[thumbnailQueries.length] = url;
+		}
+
+		function runThumbnailQueries(){
+			for (i = 0; i<thumbnailQueries.length;i++){
+			    var scriptElement = document.createElement("script");
+			    var url = thumbnailQueries[i];
+				//l('thumbnail query: '+url);
+   				scriptElement.setAttribute("src",url);
+			    scriptElement.setAttribute("type", "text/javascript");
+   				// make the request to Google Book Search
+			    document.documentElement.firstChild.appendChild(scriptElement);
+			}
+		}
+
+		function getGBSCover(covers){
+			for (i in covers) {
+				var cover = covers[i];
+				if (cover){
+					return cover.thumbnail_url;
+				}
+			}
+			return undefined;
+		}
+
+		function displayDiv(divName){
+			elem = document.getElementById(divName);
+			if (elem.style.display=="block"){
+				elem.style.display="none"
+			}else{
+				elem.style.display="block"
+			}
+			return false;
+		}
+// ]]>
+</script>
+<noscript>This feature requires javascript</noscript><div class="EXLRefinementRibbonWithExclude">
+		<div class="EXLRefinementsList">
+			<span class="EXLRefinementsListTitle">Refined by:</span>
+
+			<!-- c:set var="displayValue" value='Arthurian romances' / -->
+				<span id="exlidRefinement0" class="EXLRemoveRefinement">
+						topic:
+							<a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?rfnId=rfin1&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="remove" class=" EXLFirstRefinementElement">
+							<strong class="EXLSearchRefinementfacet_topic">
+								  Arthurian romances</strong>
+							<img id="removeFacet" src="../images/icon_remove.png" alt="remove" />
+						</a>
+				<!-- c:set var="displayValue" value='Persian literature' / -->
+				</span> <span id="exlidRefinement1" class="EXLRemoveRefinement">
+						topic:
+							<a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?rfnId=rfin0&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="remove" class=" EXLFirstRefinementElement">
+							<strong class="EXLSearchRefinementfacet_topic">
+								  Persian literature</strong>
+							<img id="removeFacet" src="../images/icon_remove.png" alt="remove" />
+						</a>
+				</span>
+				</div>
+	</div>
+<script type="text/javascript">
+	addLoadEvent(runThumbnailQueries);
+</script>
+<noscript>This feature requires javascript</noscript>
+<!-- end ../tiles/resultsHeaderRefinements.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="resultsListNoId" class="EXLCustomLayoutTile EXLResultsList">
+<!-- begin ../tiles/resultsTile.jsp -->
+			<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><script type="text/javascript" src="../javascript/primo_boomerang.js"></script>
+<noscript>This feature requires javascript</noscript>
+<table cellspacing="0" class="EXLResultsTable" id="exlidResultsTable" summary="description place holder">
+        <!--hidden table headers-->
+        <thead>
+        <tr class="EXLHiddenCue">
+          <th class="EXLResultNumber">Result Number</th>
+          <th class="EXLThumbnail">Material Type</th>
+          <th class="EXLMyShelfStar">Add to My Shelf Action</th>
+          <th class="EXLSummary">Record Details and Options</th>
+        </tr>
+        </thead>
+<tbody>
+<!-- titleLink.jspf begin -->
+
+<!-- defect 7768 -->
+	<!-- titleLink.jspf end --><tr id="exlidResult0" class="EXLResult EXLResultMediaTYPEbook">
+  <td class="EXLResultNumber">
+  	1<!-- boomerang -->
+ <input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="icon_0" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=brief&amp;OP=icon&amp;TYP=Page_View_4.1.1.131211&amp;O=%261%26%26book%26OX%26University of Oxford%26http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng%26&amp;O1=Primo Local&amp;O2=oxfaleph&amp;O3=oxfaleph019906821&amp;O4=title,&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;"/>
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="title_0" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=brief&amp;OP=title&amp;TYP=Page_View_4.1.1.131211&amp;O=%261%26%26book%26OX%26University of Oxford%26http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng%26&amp;O1=Primo Local&amp;O2=oxfaleph&amp;O3=oxfaleph019906821&amp;O4=title,&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;"/>
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<!-- boomerang -->	
+  </td>
+
+	<!-- c:set var="baseFrbrUrl" value="http://solo.bodleian.ox.ac.uk/primo_library/libweb/action/search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fctN=facet_topic&fctN=facet_topic&dscnt=0&rfnGrp=1&rfnGrp=2&scp.scps=scope%3A(OX)&fctV=Arthurian romances&fctV=Persian literature&tab=local&dstmp=1434638527949&ct=facet&mode=Basic&vl(304942529UI1)=all_items&indx=1&vl(1UIStartWith0)=exact&vl(353692469UI0)=sub&rfnGrpCounter=1&vl(freeText0)=Comparative%20literature&fn=search&vid=OXVU1"/ -->
+		<!-- Use new display of frbr (generic record) -->
+  	<!-- Use old display of frbr (preferred record) -->
+  <td class="EXLThumbnail"><a name="oxfaleph019906821" id="oxfaleph019906821" class="EXLResultRecordId"></a>
+	  	<!--begin thumbnails-->
+				<div class="bg_fix multipleCoverImageContainer EXLBriefResultsDisplayCoverImages ">
+	<input type="hidden" class="qtipTitle" value=""/>
+	<input type="hidden" class="qtipDescription" value=""/>
+	<div class="coverImageDiv EXLBriefResultsDisplayCoverImage EXLBriefResultsDisplayCoverImageNUM0 EXLBriefResultsThumbnailTypeMedia" style="z-index:1;">
+
+		<!-- if not on line (meaning link refers to full view) or online but the title is not linkable (which means the thumbnail refers to full view) then add param -->
+		<a class="EXLThumbnailLinkMarker" href="display.do;jsessionid=2A1C426713F1C4F67447032723C9E874?tabs=detailsTab&amp;ct=display&amp;fn=search&amp;doc=oxfaleph019906821&amp;indx=1&amp;recIds=oxfaleph019906821&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A%28OX%29&amp;fctV=Arthurian+romances&amp;fctV=Persian+literature&amp;tab=local&amp;dstmp=1434638527962&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;vid=OXVU1&amp;gathStatIcon=true" target="_parent"   onclick="">
+							<img src="http://images.amazon.com/images/P/2343038805.01._SSTHUM_.jpg" alt="cover" class="EXLBriefResultsCover"  />
+						</a>
+					</div>
+	<div class="coverImageDiv EXLBriefResultsDisplayCoverImage EXLBriefResultsDisplayCoverImageNUM1 EXLBriefResultsThumbnailTypeMedia" style="z-index:101;">
+
+		<!-- if not on line (meaning link refers to full view) or online but the title is not linkable (which means the thumbnail refers to full view) then add param -->
+		<script type="text/javascript">// <![CDATA[
+						function updateGBSCover0 (covers){
+							var thumbUrl = getGBSCover(covers);
+							var thumbImg = $('#googleThumb0');
+							if (thumbImg && thumbUrl){
+								$(thumbImg).attr('src',thumbUrl);
+								$(thumbImg).parent().css('display','inline');
+							}
+						}
+						addThumbnailQueryUrl('http://books.google.com/books?bibkeys=ISBN:2343038805,OCLC:,LCCN:&jscmd=viewapi&callback=updateGBSCover0'); //add url to list of urls to be loaded with the page's onload event.
+					// ]]>
+					</script>
+					<noscript>This feature requires javascript</noscript>
+					<a class="EXLThumbnailLinkMarker" href="display.do;jsessionid=2A1C426713F1C4F67447032723C9E874?tabs=detailsTab&amp;ct=display&amp;fn=search&amp;doc=oxfaleph019906821&amp;indx=1&amp;recIds=oxfaleph019906821&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A%28OX%29&amp;fctV=Arthurian+romances&amp;fctV=Persian+literature&amp;tab=local&amp;dstmp=1434638527962&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;vid=OXVU1&amp;gathStatIcon=true" target="_parent" style="display:none;" onclick="">
+							<img src="../images/pixel.png" alt="cover" class="EXLBriefResultsCover"id="googleThumb0" />
+						</a>
+					</div>
+	<div class="coverImageDiv EXLBriefResultsDisplayCoverImage EXLBriefResultsDisplayCoverImageBackup EXLBriefResultsThumbnailTypeMedia" style="z-index:1;" >
+				<a class="EXLThumbnailLinkMarker" href="display.do;jsessionid=2A1C426713F1C4F67447032723C9E874?tabs=detailsTab&amp;ct=display&amp;fn=search&amp;doc=oxfaleph019906821&amp;indx=1&amp;recIds=oxfaleph019906821&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A%28OX%29&amp;fctV=Arthurian+romances&amp;fctV=Persian+literature&amp;tab=local&amp;dstmp=1434638527962&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;vid=OXVU1&amp;gathStatIcon=true" onclick="reportClick();" target="_parent">
+							<img alt="cover" src="../images/pixel.png" />
+						</a>
+					</div>	
+</div>
+	
+<!--end thumbnails-->
+		 	<div class="EXLHiddenCue">Material Type: </div><span class="EXLThumbnailCaption" id="mediaTypeCaption-1">Book</span>
+	  	</td>
+	  <td class="EXLMyShelfStar">
+	 	<!-- miniAddToEshelf.tag begin -->
+<a href="basket.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fn=create&amp;docs=oxfaleph019906821&amp;remote=false&amp;scopes=&amp;index=1" onclick="boomCallToRum('eShelf_0',false);" title="Add to e-Shelf"><img src="../images/icon_star_off_oxf.png" alt="Add to e-Shelf"/></a>
+
+<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="eShelf_0" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=brief&amp;OP=eShelfSave&amp;TYP=Page_View_4.1.1.131211&amp;O=%261%26%26book%26OX%26University of Oxford%26http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng%26&amp;O1=Primo Local&amp;O2=oxfaleph&amp;O3=oxfaleph019906821&amp;O4=save_to_eshelf&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;"/>
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<!-- miniAddToEshelf.tag end --></td>
+	  <td class="EXLSummary">
+		  <div class="EXLSummaryContainer">
+			<div class="EXLSummaryFields">
+				<h2 class="EXLResultTitle">
+				<!-- strippedTitle=Tristan et Iseut et W&#238;s et R&#226;m&#238;n : origines indo-europ&#233;ennes de deux romans m&#233;di&#233;vaux -->
+				<a href="display.do;jsessionid=2A1C426713F1C4F67447032723C9E874?tabs=detailsTab&amp;ct=display&amp;fn=search&amp;doc=oxfaleph019906821&amp;indx=1&amp;recIds=oxfaleph019906821&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A%28OX%29&amp;fctV=Arthurian+romances&amp;fctV=Persian+literature&amp;tab=local&amp;dstmp=1434638527962&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;vid=OXVU1" onclick="reportClick();reportBibTip('oxfaleph019906821');">Tristan et Iseut et W&#238;s et R&#226;m&#238;n : origines indo-europ&#233;ennes de deux romans m&#233;di&#233;vaux</a>
+					</h2>
+				<h3 class="EXLResultAuthor">Nosrat, Shahla</h3>
+				<span class="EXLResultDetails"></span>
+				<h3 class="EXLResultFourthLine">2014 | Paris : Harmattan | 412 pages : illustrations ; 24 cm | ISBN: 9782343038803 ;ISBN: 2343038805</h3>
+				<p id="snippet_oxfaleph019906821" style="" class="EXLResultSnippet"></p><!-- available.tag begin -->
+<input type="hidden" id="rtaElapseTime_0" />
+
+<script type="text/javascript">
+  document.getElementById("rtaElapseTime_0").value = 'XXX' + new Date().getTime();
+</script>
+ 
+<p class="EXLResultAvailability">
+<em class="EXLResultStatusMaybeAvailable" id="RTADivTitle_0">
+Check holdings at <span class="EXLAvailabilityLibraryName">Taylor Institution Library</span>&nbsp;<span class="EXLAvailabilityCollectionName">Main Stack LC Classification</span>&nbsp;<span class="EXLAvailabilityCallNumber">PN686.T7 NOS 2014</span>&nbsp;and other locations<span id="RTASpan_0">(GetIt)</span>
+					</em>
+</p>
+
+
+<script type="text/javascript">
+		document.getElementById('RTASpan_0').innerHTML = '<span class="EXLAvailabilityRTAupdating">(updating...)<\/span>';
+</script>
+<noscript>This feature requires javascript</noscript>
+<!-- available.tag end --></div>
+
+			<!-- Facebook Like Button -->
+			<!-- End of Facebook Like Button -->
+		</div>
+		<div class="EXLTabsRibbon EXLTabsRibbonClosed">
+	      <div>
+	        <ul id="exlidResult0-TabsList" class="EXLResultTabs">
+
+			<!-- index: 0 length: 10 -->
+			  <!-- index: 1 length: 10 -->
+			  <li id="exlidResult0-LocationsTab" class="EXLLocationsTab EXLResultTab EXLResultFirstTab ">
+		         	<a href="display.do;jsessionid=2A1C426713F1C4F67447032723C9E874?tabs=locationsTab&amp;gathStatTab=true&amp;ct=display&amp;fn=search&amp;doc=oxfaleph019906821&amp;indx=1&amp;recIds=oxfaleph019906821&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A%28OX%29&amp;fctV=Arthurian+romances&amp;fctV=Persian+literature&amp;tab=local&amp;dstmp=1434638527962&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;vid=OXVU1" title="Locate this item on the shelf or place a hold request&nbsp;-&nbsp;0">Find & Request</a>
+
+					 <!-- rum statistics -->
+					<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="locations_0" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=brief&amp;OP=locationTab&amp;TYP=Page_View_4.1.1.131211&amp;O=%261%26%26book%26OX%26University of Oxford%26http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng%26&amp;O1=Primo Local&amp;O2=oxfaleph&amp;O3=oxfaleph019906821&amp;O4=locations&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;"/>
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<!-- end rum statistics -->
+				 </li>
+				 <!-- index: 2 length: 10 -->
+			  <li id="exlidResult0-RequestTab" class="EXLRequestTab EXLResultTab ">
+					<!-- rum statistics -->
+					<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="getit1request_0" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=brief&amp;OP=getit1&amp;TYP=Page_View_4.1.1.131211&amp;O=%261%26%26book%26OX%26University of Oxford%26http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng%26&amp;O1=Primo Local&amp;O2=oxfaleph&amp;O3=oxfaleph019906821&amp;O4=delivery,tab1_check,http://ovp-prd.ils:8991/F?func=item-global&amp;doc_library=BIB01&amp;local_base=BIB01&amp;doc_number=019906821&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;"/>
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<!-- end rum statistics -->
+					<a href="display.do;jsessionid=2A1C426713F1C4F67447032723C9E874?tabs=requestTab&amp;gathStatTab=true&amp;ct=display&amp;fn=search&amp;doc=oxfaleph019906821&amp;indx=1&amp;recIds=oxfaleph019906821&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A%28OX%29&amp;fctV=Arthurian+romances&amp;fctV=Persian+literature&amp;tab=local&amp;dstmp=1434638527962&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;vid=OXVU1"  title="Locate this item on the shelf or place a hold request&nbsp;-&nbsp;0" >
+					Request</a>
+				  </li>
+	  			  <!-- index: 3 length: 10 -->
+			  <li id="exlidResult0-DetailsTab" class="EXLDetailsTab EXLResultTab "><a href="display.do;jsessionid=2A1C426713F1C4F67447032723C9E874?tabs=detailsTab&amp;gathStatTab=true&amp;ct=display&amp;fn=search&amp;doc=oxfaleph019906821&amp;indx=1&amp;recIds=oxfaleph019906821&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A%28OX%29&amp;fctV=Arthurian+romances&amp;fctV=Persian+literature&amp;tab=local&amp;dstmp=1434638527962&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;vid=OXVU1"  title="View bibliographic information, subject headings, and links to external databases&nbsp;-&nbsp;0">Details</a>
+					<!-- rum statistics -->
+				 	<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="details_0" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=brief&amp;OP=detailsTab&amp;TYP=Page_View_4.1.1.131211&amp;O=%261%26%26book%26OX%26University of Oxford%26http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng%26&amp;O1=Primo Local&amp;O2=oxfaleph&amp;O3=oxfaleph019906821&amp;O4=details&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;"/>
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<!-- end rum statistics -->
+				  </li>
+				  <!-- index: 4 length: 10 -->
+			  <li id="exlidResult0-ReviewsTab" class="EXLReviewsTab EXLResultTab "><a href="display.do;jsessionid=2A1C426713F1C4F67447032723C9E874?tabs=tagreviewsTab&amp;gathStatTab=true&amp;ct=display&amp;fn=search&amp;doc=oxfaleph019906821&amp;indx=1&amp;recIds=oxfaleph019906821&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A%28OX%29&amp;fctV=Arthurian+romances&amp;fctV=Persian+literature&amp;tab=local&amp;dstmp=1434638527962&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;vid=OXVU1"  title="See how other users have tagged this item&nbsp;-&nbsp;0">Reviews &amp; Tags</a>
+				 	 <!-- rum statistics -->
+					 <input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="tagsreview_0" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=brief&amp;OP=tagReviewTab&amp;TYP=Page_View_4.1.1.131211&amp;O=%261%26%26book%26OX%26University of Oxford%26http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng%26&amp;O1=Primo Local&amp;O2=oxfaleph&amp;O3=oxfaleph019906821&amp;O4=tagsreview&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;"/>
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<!-- end rum statistics -->
+				 </li>
+				  <!-- index: 5 length: 10 -->
+			  <li id="exlidResult0-RecommendTab" class="EXLRecommendTab EXLResultTab "><a href="display.do;jsessionid=2A1C426713F1C4F67447032723C9E874?tabs=recommendTab&amp;gathStatTab=true&amp;ct=display&amp;fn=search&amp;doc=oxfaleph019906821&amp;indx=1&amp;recIds=oxfaleph019906821&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A%28OX%29&amp;fctV=Arthurian+romances&amp;fctV=Persian+literature&amp;tab=local&amp;dstmp=1434638527962&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;vid=OXVU1"  title="Loading recommendations list, please wait&nbsp;-&nbsp;0">Recommendations</a>
+					<!-- rum statistics -->
+					<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="recommendation_0" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=brief&amp;OP=recommendationTab&amp;TYP=Page_View_4.1.1.131211&amp;O=%261%26%26book%26OX%26University of Oxford%26http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng%26&amp;O1=Primo Local&amp;O2=oxfaleph&amp;O3=oxfaleph019906821&amp;O4=recommendation&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;"/>
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<!-- end rum statistics -->
+				  </li>
+				  <!-- index: 6 length: 10 -->
+			  <li id="exlidResult0-MoreTab" class="EXLMoreTab WLTab EXLResultTab EXLResultTabIconPopout">
+					<!-- rum statistics -->
+				 	<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="getit2_0" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=brief&amp;OP=getit2&amp;TYP=Page_View_4.1.1.131211&amp;O=%261%26%26book%26OX%26University of Oxford%26http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng%26&amp;O1=Primo Local&amp;O2=oxfaleph&amp;O3=oxfaleph019906821&amp;O4=getit2,tab2_check,http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;"/>
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<!-- end rum statistics -->
+					<a href="http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng"  title="Look for more information&nbsp;-&nbsp;0" target='_blank'>
+						More</a>
+				  </li>
+				  <!-- index: 7 length: 10 -->
+			  <!-- index: 8 length: 10 -->
+			  <!-- index: 9 length: 10 -->
+			  <li id="exlidResult0-BrowseshelfTab" class="EXLBrowseshelfTab EXLResultTab EXLResultLastTab ">
+	 	          <a href="display.do;jsessionid=2A1C426713F1C4F67447032723C9E874?tabs=browseshelfTab&amp;gathStatTab=true&amp;tabRealType=browseshelf&amp;callNumber=0pn&amp;callNumberBrowseField=browse_callnumber.0&amp;ct=display&amp;fn=search&amp;doc=oxfaleph019906821&amp;indx=1&amp;recIds=oxfaleph019906821&amp;recIdxs=0&amp;elementId=0&amp;renderMode=poppedOut&amp;displayMode=full&amp;frbrVersion=&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A%28OX%29&amp;fctV=Arthurian+romances&amp;fctV=Persian+literature&amp;tab=local&amp;dstmp=1434638527962&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;vid=OXVU1"  title="browseshelfTab&nbsp;-&nbsp;0">Virtual Browse</a> 				
+				 	 <!-- rum statistics -->
+					<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="browseshelf_0" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=brief&amp;OP=browseshelfTab&amp;TYP=Page_View_4.1.1.131211&amp;O=%261%26%26book%26OX%26University of Oxford%26http://oxfordsfx-direct.hosted.exlibrisgroup.com/oxford?ctx_ver=Z39.88-2004&amp;ctx_enc=info:ofi/enc:UTF-8&amp;ctx_tim=2015-06-18T15%3A42%3A07IST&amp;url_ver=Z39.88-2004&amp;url_ctx_fmt=infofi/fmt:kev:mtx:ctx&amp;rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Journal-oxfaleph&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:book&amp;rft.genre=&amp;rft.atitle=&amp;rft.jtitle=&amp;rft.btitle=Tristan%20et%20Iseut%20et%20Wîs%20et%20Râmîn%20:%20origines%20indo-européennes%20de%20deux%20romans%20médiévaux&amp;rft.aulast=Nosrat&amp;rft.auinit=&amp;rft.auinit1=&amp;rft.auinitm=&amp;rft.ausuffix=&amp;rft.au=Nosrat%2C%20Shahla&amp;rft.aucorp=&amp;rft.volume=&amp;rft.issue=&amp;rft.part=&amp;rft.quarter=&amp;rft.ssn=&amp;rft.spage=&amp;rft.epage=&amp;rft.pages=&amp;rft.artnum=&amp;rft.issn=&amp;rft.eissn=&amp;rft.isbn=9782343038803&amp;rft.sici=&amp;rft.coden=&amp;rft_id=info:doi/&amp;rft.object_id=&amp;rft_bat=&lt;oxfaleph&gt;019906821&lt;/oxfaleph&gt;&amp;rft.eisbn=&amp;rft_id=info:oai/&amp;rft_id=http%3A%2F%2Fsolo.bodleian.ox.ac.uk%2Fprimo_library%2Flibweb%2Faction%2Fdisplay.do%3Fdoc%3Doxfaleph019906821%26vid%3DOXVU1%26fn%3Ddisplay%26displayMode%3Dfull&amp;req.language=eng%26&amp;O1=Primo Local&amp;O2=oxfaleph&amp;O3=oxfaleph019906821&amp;O4=browseshelf&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;"/>
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<!-- end rum statistics -->
+				 </li>
+				 </ul>
+	      </div>
+	    </div>
+
+			<div id="exlidResult0-TabContainer-viewOnlineTab" class="EXLResultTabContainer EXLContainer-viewOnlineTab EXLResultTabContainerClosed">
+		    </div>
+		    <div id="exlidResult0-TabContainer-requestTab" class="EXLResultTabContainer EXLContainer-requestTab EXLResultTabContainerClosed">
+		    </div>
+		    <div id="exlidResult0-TabContainer-locationsTab" class="EXLResultTabContainer EXLContainer-locationsTab EXLResultTabContainerClosed">
+		    </div>
+		    <div id="exlidResult0-TabContainer-detailsTab" class="EXLResultTabContainer EXLContainer-detailsTab EXLResultTabContainerClosed">
+		    </div>
+		    <div id="exlidResult0-TabContainer-tagreviewsTab" class="EXLResultTabContainer EXLContainer-tagreviewsTab EXLResultTabContainerClosed">
+		    </div>
+		    <div id="exlidResult0-TabContainer-recommendTab" class="EXLResultTabContainer EXLContainer-recommendTab EXLResultTabContainerClosed">
+		    </div>
+		    <div id="exlidResult0-TabContainer-moreTab" class="EXLResultTabContainer EXLContainer-moreTab EXLResultTabContainerClosed">
+		    </div>
+		    <div id="exlidResult0-TabContainer-citationsTab" class="EXLResultTabContainer EXLContainer-citationsTab EXLResultTabContainerClosed">
+		    </div>
+		    <div id="exlidResult0-TabContainer-browseshelfTab" class="EXLResultTabContainer EXLContainer-browseshelfTab EXLResultTabContainerClosed">
+		    </div>
+		    <div id="exlidResult0-TabContainer-onlinereviewsTab" class="EXLResultTabContainer EXLContainer-onlinereviewsTab EXLResultTabContainerClosed">
+		    </div>		    
+
+		</td>
+	<!-- End of true condition -->
+
+   </tr>
+
+			<!-- Begin:  Additional Bars Results -->
+			<!-- End:  Additional Bars Results -->
+
+		</tbody>
+</table>
+
+
+<input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="searchStat" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=refine&amp;OP=facet_topic&amp;TYP=Page_View_4.1.1.131211&amp;O=%26%26%26%26OX%26University of Oxford%26%26&amp;O1=&amp;O2=oxfaleph&amp;O3=&amp;O4=&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;" />
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<script type="text/javascript">
+//<![CDATA[
+var exlPrefetchConfiguration = {
+	enabled : 'false',
+	bulkSize :'2',
+	repeat : 'true',
+	current : 0,
+	timeout: '60'
+}
+
+$('.EXLBriefResultsDisplayCoverImage img').error(function(){
+	thumbnailHide(this);
+}).load(function(){
+	var resultNumber = $(this).parents('.EXLResult').children('.EXLResultNumber');
+	thumbnailPop(resultNumber.text(),this);
+});
+
+
+	addLoadEvent(checkRecommendations);
+<!-- PRM-17057 Call to PC and get data for the conditional tab  -->
+addLoadEvent(checkConditional);
+
+
+// ]]>
+</script>
+<noscript>This feature requires javascript</noscript>
+
+<script type="text/javascript">
+		boomCallToRum('searchStat',true);
+	</script>
+	<noscript>This feature requires javascript</noscript>
+<script  type="text/javascript">
+var populateValues = function populateValues(data, textStatus) {
+ for (var i = 0; i < data.length; i++ ) {
+            var elemId = data[i].id;
+            var escId = elemId.replace(/\//g,'\\/').replace(/\(/g, '\\(').replace(/\)/g, '\\)').replace(/\./g,'\\.');
+         var element = $('#' + escId);
+        if(!element.attr('id')) {return;}
+        element.html(data[i].response);
+ }
+}
+
+$.ajax({
+  type: 'POST',
+  url: '/primo_library/libweb/ajaxFetchServlet',
+  data: '<?xml version="1.0" encoding="UTF-8" standalone="yes"?><ajaxRequests><request><id>snippet_oxfaleph019906821</id><message>snippet_oxfaleph019906821</message><taskName>snippet</taskName></request></ajaxRequests>',
+  success: populateValues, 
+  dataType: 'json',
+  contentType: 'text/xml',
+  processData: false
+});
+
+</script><!-- userText.tag begin -->
+<!-- userText.tag end --><input type="hidden" class="gatherpagestat" value="true" />
+
+<!-- For Alma Services Page -->
+<input type="hidden" class="EXLTabBoomId" id="browseResultStat" 
+		value="A=Primo_Local&amp;I=OX&amp;S=2A1C426713F1C4F67447032723C9E874&amp;IP=192.168.65.47&amp;SRVR=primo-prd-fe2.bodleian.ox.ac.uk&amp;P=search&amp;OP=browseRelated&amp;TYP=Page_View_4.1.1.131211&amp;O=%26%26%26%26OX%26University of Oxford%26%26&amp;O1=&amp;O2=oxfaleph&amp;O3=&amp;O4=&amp;O5=PRD.44OXF.OX&amp;O6=&amp;O7=0&amp;O8=Comparative literature&amp;O9=&amp;" />
+<input type="hidden" class="boombaseurl" value="http://beacon01.alma.exlibrisgroup.com/boom/apache_pb.gif" />
+
+<!-- end ../tiles/resultsTile.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="resultsFooterNoId" class="EXLCustomLayoutContainer EXLResultsHeader EXLResultsFooter">
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="resultsNumbersTileBottom" class="EXLCustomLayoutTile EXLResultsNumbers">
+<!-- begin ../tiles/resultsFooterNumbers.jsp -->
+			<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><h1>
+			<em>
+					  		1</em>
+			  			Results
+				&nbsp;for<em>
+				All libraries/collections</em>
+			</h1>
+	<div class="EXLResultsSortBy">
+		<span class="EXLResultsSortByLabel"><b>Sorted by:</b></span>
+		<span class="EXLResultsSortBySelected">
+			<a href="#" title="Sort">
+				<span class="EXLHiddenCue"><b>Sorted by:</b></span>
+				Relevance<span class="EXLHiddenCue">Or hit Enter to replace sort method</span>
+			</a>
+		</span>
+		<input type="hidden" name="searchForm.frbrSrt" value=""/>
+		<div class="EXLResultsSortByMenu">
+	        <ul class="EXLResultsSortByMenuShow EXLResultsSortByMenuHide"><!--remove EXLResultsSortByMenuHide to show menu items-->
+				<li class="EXLSortByLink EXLSortByLinkSelected">
+								Relevance</li>
+						<li class="EXLSortByLink ">
+								<a href="search.do?srt=date&amp;srtChange=true&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="">
+							  				Date-newest</a>
+						  			</li>
+						<li class="EXLSortByLink ">
+								<a href="search.do?srt=lso01&amp;srtChange=true&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="">
+							  				Date-oldest</a>
+						  			</li>
+						<li class="EXLSortByLink ">
+								<a href="search.do?srt=author&amp;srtChange=true&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="">
+							  				Author</a>
+						  			</li>
+						<li class="EXLSortByLink ">
+								<a href="search.do?srt=title&amp;srtChange=true&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="">
+							  				Title</a>
+						  			</li>
+						<li class="EXLSortByLink ">
+								<a href="search.do?srt=popularity&amp;srtChange=true&amp;fctN=facet_topic&amp;fctN=facet_topic&amp;dscnt=0&amp;rfnGrp=1&amp;rfnGrp=2&amp;scp.scps=scope%3A(OX)&amp;fctV=Arthurian romances&amp;fctV=Persian literature&amp;tab=local&amp;dstmp=1434638527949&amp;ct=facet&amp;mode=Basic&amp;vl(304942529UI1)=all_items&amp;indx=1&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub&amp;rfnGrpCounter=1&amp;vl(freeText0)=Comparative%20literature&amp;fn=search&amp;vid=OXVU1" title="">
+							  				Popularity</a>
+						  			</li>
+						</ul>
+		</div>
+	</div>
+<!-- end ../tiles/resultsFooterNumbers.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="resultsNavNoIdBottom" class="EXLCustomLayoutTile EXLResultsNavigation">
+<!-- begin ../tiles/resultsHeaderNavigation.jsp -->
+			<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- end ../tiles/resultsHeaderNavigation.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+</div>
+<!-- dynamic_recursion.jsp end -->
+</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidFacetTile" class="EXLCustomLayoutTile EXLFacetTile">
+<!-- begin ../tiles/facetsTile.jsp -->
+			<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><h2 class="EXLFacetsTitle">Refine Search Results</h2>
+<a id="refine" name="refine"></a>
+<!-- suggestedSearchTile.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidSuggestedList" class="EXLFacetList">
+	<a name="suggested"></a>
+
+	<div class="EXLFacetContainer EXLRelatedSearchTopic EXLRelatedSearchTopicFIELDfacet_topic">
+<h4>on this <strong>subject</strong>:</h4>
+					<ol class="EXLFacetsList EXLFacetsListPreview"><!-- id="first_facet_topic" -->
+						<li class="EXLRelatedSearch EXLRelatedSearchKEYPersian literature">
+								<a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fn=search&amp;vl(freeText0)=Persian+literature&amp;tab=local&amp;mode=Basic&amp;scp.scps=scope%3a(OX)&amp;vid=OXVU1&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub" onclick="if(isRemoteSearch()){suggestedPleaseWait('Persian literature');}">Persian literature</a>
+							</li>
+						<li class="EXLRelatedSearch EXLRelatedSearchKEYArthurian romances–History and criticism">
+								<a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fn=search&amp;vl(freeText0)=Arthurian+romances%e2%80%93History+and+criticism&amp;tab=local&amp;mode=Basic&amp;scp.scps=scope%3a(OX)&amp;vid=OXVU1&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub" onclick="if(isRemoteSearch()){suggestedPleaseWait('Arthurian romances–History and criticism');}">Arthurian romances–History and criticism</a>
+							</li>
+						<li class="EXLRelatedSearch EXLRelatedSearchKEYComparative literature">
+								<a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fn=search&amp;vl(freeText0)=Comparative+literature&amp;tab=local&amp;mode=Basic&amp;scp.scps=scope%3a(OX)&amp;vid=OXVU1&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub" onclick="if(isRemoteSearch()){suggestedPleaseWait('Comparative literature');}">Comparative literature</a>
+							</li>
+						<li class="EXLRelatedSearch EXLRelatedSearchKEYArthurian romances">
+								<a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fn=search&amp;vl(freeText0)=Arthurian+romances&amp;tab=local&amp;mode=Basic&amp;scp.scps=scope%3a(OX)&amp;vid=OXVU1&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub" onclick="if(isRemoteSearch()){suggestedPleaseWait('Arthurian romances');}">Arthurian romances</a>
+							</li>
+						<li class="EXLRelatedSearch EXLRelatedSearchKEYTristan (Legendary character)">
+								<a href="search.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fn=search&amp;vl(freeText0)=Tristan+(Legendary+character)&amp;tab=local&amp;mode=Basic&amp;scp.scps=scope%3a(OX)&amp;vid=OXVU1&amp;vl(304942529UI1)=all_items&amp;vl(1UIStartWith0)=exact&amp;vl(353692469UI0)=sub" onclick="if(isRemoteSearch()){suggestedPleaseWait('Tristan (Legendary character)');}">Tristan (Legendary character)</a>
+							</li>
+						</ol>
+				</div>
+			</div>
+<!-- suggestedSearchTile.jsp end --><!--RSS, Save Search and Add page to e-Shelf Links-->
+	<!--RSS, Save Search and Add page to e-Shelf Links-->
+
+<!--RSS, Save Search, Save to eShelf Links-->
+<div class="EXLFacetList">
+	<div class="EXLFacetContainer">
+		<div class="EXLFacetActionsV2">
+			<ul>
+				<li class="EXLFacetRSSAction">
+				<form method="post" name="rssForm" action="http://solo.bodleian.ox.ac.uk/primo_library/libweb/action/../rss" >
+               				 <input type="hidden" name="sr" value="ר9 ר575d01ר63&#034;ר1&#034;&gt;ר24ר18ANDר16ר45ר26subר21ר8exactר7ר54Comparative literatureר51ר18ANDר16ר28ר45ר26facet_topicר21ר8exactר7ר54Persian literatureר51ר28ר45ר26facet_topicר21ר8exactר7ר54Arthurian romancesר51ר28ר17ר341ר22ר4910ר36ר14trueר13ר65falseר66ר46ר47engר44ר31ר39ר35tlevelר20ר35topicר20ר35libraryר20ר35langר20ר35creationdateר20ר35creatorר20ר35rtypeר20ר35domainר20ר35fmtר20ר35local18ר20ר35facet_tlevelר20ר29ר67vertitleר68ר67titleר68ר67creatorר68ר67contributorר68ר67creationdateר68ר67citationר68ר67editionר68ר67publisherר68ר67formatר68ר67lds30ר68ר67identifierר68ר40ר50 typeר63&#034;local&#034; valueר63&#034;scope:(OX)&#034; ר575d00ר63&#034;ר0&#034;/&gt;ר30&lt;req:InstBoost&gt;false&lt;/req:InstBoost&gt;ר4" />
+            				   <input type="hidden" name="encCtxt" value="hTD6tBEa43LIKwEhjAnlAc59j0fNrqxoVLG6d6388Ng4+WmVjMId2Mlc75SDivg/cJ3brdoHqR65yDte3YstCtbePOT6FbfgQVSI/vmL072ncmYYzhPRK/xHAjD8lSuGJd403e5yycUmqUdzC6GkcGzubp5n3kO3Y6JAJjpuF07zJ3DXtqk52Gkn5Dbku/9y457bLqOFLmXMOcXwXG/YllrnKzmrIGhfS/J1YhLiT8+65xLEMQmXCkHDLh7wxRguupfub24fnvmdfgtdjKGytQ==" />
+           					   <input type="hidden" name="ver" value="2_1_4" />
+         					   <a href="#" onclick="document.rssForm.submit();">rss </a>      
+         					   <noscript>
+									<input type="submit" value="Save"/>
+								</noscript>  
+         				</form>
+				</li>
+				<li class="EXLFacetSaveToEShelfAction EXLFacetSaveToEShelfActionOff">
+					<a onclick="reportAddPageToEshelfClick();" href="basket.do;jsessionid=2A1C426713F1C4F67447032723C9E874?fn=addPage" title="Add to e-Shelf">
+						Add page to e-Shelf</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!--end EXLFacetList-->
+<!-- end ../tiles/facetsTile.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidIdeasBrief" class="EXLCustomLayoutTile EXLStaticHtmlIdeas">
+<!-- begin ../views/include/l_ideasbrief.jsp -->
+			<!-- l_ideasbrief.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- jsp_mapping_retriever.jsp begin -->
+<!-- jsp_mapping_retriever.jsp end -->
+<!-- ideasbrief_tile.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div>
+	<!-- includeStaticHTML.jspf begin (/static_htmls/ideasbrief.jsp) -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- (1)[Comparative literature] --> 
+<!-- includeStaticHTML.jspf end (/static_htmls/ideasbrief.jsp) --></div>
+<!-- ideasbrief_tile.jsp end --><!-- l_ideasbrief.jsp end --><!-- end ../views/include/l_ideasbrief.jsp -->
+		</div>
+<!-- dynamic_recursion.jsp end -->
+</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- dynamic_recursion.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="footerEXL" class="EXLCustomLayoutTile EXLFooter EXLClearBoth EXLFooterTile">
+<!-- begin ../headings/footers/l_footer.jsp -->
+		<!-- l_footer.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- jsp_mapping_retriever.jsp begin -->
+<!-- jsp_mapping_retriever.jsp end -->
+<!-- footer.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!-- includeStaticHTML.jspf begin (/static_htmls/footer-oxford.html) -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><!--begin footer-->
+<div class="EXLFooterLinksContainer">
+    <ul class="EXLFooterLinksList2">
+        <li class="EXLFooterFirstLink"><a href="http://www.bodleian.ox.ac.uk" target="_blank">&copy; Bodleian Libraries 2015</a></li>
+        <li><a href="http://www.ox.ac.uk/accessibility" target="_blank">Accessibility Statement</a></li>
+	<li><a href="#" id="sizeLarge">Change Font Size to: Large</a></li>
+	<li><a href="#" id="sizeNormal">Change Font Size to: Normal</a></li>
+        <li><a href="../static_htmls/cookies.html">Cookies</a></li>
+        <li><a href="#" class="removehl">Disable Highlighting of Search Terms</a></li> 
+    </ul>
+  </div>
+
+       <script type="text/javascript">
+         (function() {
+           var x = document.createElement("script"); x.type = "text/javascript"; x.async = true;
+           x.src = (document.location.protocol === "https:" ? "https://" : "http://") + "eu.libraryh3lp.com/js/libraryh3lp.js?84"
+           var y = document.getElementsByTagName("script")[0]; y.parentNode.insertBefore(x, y);
+         })();
+       </script>
+
+<!--add what am i searching link-->
+<script type="text/javascript">
+$('#exlidSearchTabs').append("<div class='whatamisearching' style='margin-left: 5em;'><a href='http://ox.libguides.com/content.php?pid=228044&sid=2357096' title='Further information on the items indexed by SOLO' style='color:white; font-weight:bold;' target='_blank'>What am I searching?</a></div>");
+</script>
+
+<!-- new search link for front page-->
+<script type="text/javascript">
+$('#exlidSearchRibbon').append("<div class='oxlinks' style='display:block; clear:right;'><div class='EXLSearchFieldRibbonBrowseSearchLink' style='color:white;'><a href='search.do?' title='New Search' style='color:white;'>New Search</a></div>");
+</script>
+
+<!--additional search links for advanced search tile-->
+<script type="text/javascript">
+$('#exlidAdvancedSearchRibbon div.EXLSearchFieldRibbonFormLinks').append("<div class='EXLSearchFieldRibbonFormLink'><a href='search.do?mode=Advanced' title='Advanced Search' style='color:white;'>Advanced Search</a></div><div class='EXLSearchFieldRibbonFormLink'><a href='search.do?fn=BrowseRedirect&amp;searchField=author&amp;' title='Browse Search' style='color:white;'>Browse Search</a></div>");
+</script>
+
+<!--additional search links for browse tile
+<script type="text/javascript">
+$('#exlidAdvancedSearchRibbon.EXLAdvancedBrowseRibbon div.EXLSearchFieldRibbonFormLinks').append("<div class='EXLSearchFieldRibbonFormLink'><a href='search.do?mode=Advanced' title='Advanced Search' style='color:white;'>Advanced Search</a></div><div class='EXLSearchFieldRibbonFormLink'><a href='search.do?' title='New Search' style='color:white;'>New Search</a></div>");
+</script>-->
+
+<!--Update viewport metatag to allow mobile devices to scale website-->
+<script type="text/javascript">
+$('head').append('<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=1">');
+</script>
+
+
+<!--Altmetric.com integration with DOI v1.2-->
+
+<script type="text/javascript">
+$("h3.EXLResultFourthLine").each(function(){
+        // Find any valid DOI style number in the forth line and then store as DOI and use for Almetric badge
+        if($(this).text().match(/\b(10[.][0-9]{4,}(?:[.][0-9]+)*(?:(?!["&\'<>])\S)+)\b/g)){
+                        var DOI=$(this).text().match(/\b(10[.][0-9]{4,}(?:[.][0-9]+)*(?:(?!["&\'<>])\S)+)\b/g);
+                        // Additional check for reading restrictions
+                        if($(this).text().match(/\*\*\*/g)){
+                    $(this).html('<b>*** This copy is available via Bodleian Libraries reading room PCs only; <a href="http://ox.libguides.com/content.php?pid=228044&amp;sid=3652852#13124553" target="_blank">restrictions apply</a> ***</b><br><br><div data-badge-popover="right" data-badge-type="2" data-hide-no-mentions="true" data-link-target="_blank" class="altmetric-embed" data-doi="'+DOI[0]+'"></div>');
+                        } else {
+                            $(this).html('<br><div data-badge-popover="right" data-badge-type="2" data-hide-no-mentions="true" data-link-target="_blank" class="altmetric-embed" data-doi="'+DOI[0]+'"></div>');
+                        }
+        // Find reference for PMID and then pull 8 digit number
+        } else if ($(this).html().match(/pmid/i)&&$(this).html().match(/\d{8}/)){
+                        var PMID=$(this).html().match(/\d{8}/);
+                        $(this).html('<br><div data-badge-popover="right" data-badge-type="2" data-hide-no-mentions="true" data-link-target="_blank" class="altmetric-embed" data-pmid="'+PMID[0]+'"></div>');
+        } else {
+                //Check for ISBN,ISSN,UUID,URN then just return everything before and finished with html h3 tag.
+                if($(this).html().match(/(.*?)(?=(\| )?(<b>)?isbn:|(\| )?(<b>)?isbn13:|(\| )?(<b>)?issn:|(\| )?(<b>)?e-issn:|(\| )?(<b>)?uuid:|(\| )?(<b>)?urn:|(\| )?(<b>)?(<span class="searchword">)?lsidy)/i)){
+                        var new_forth_line=$(this).html().match(/(.*?)(?=(\| )?(<b>)?isbn:|(\| )?(<b>)?isbn13:|(\| )?(<b>)?issn:|(\| )?(<b>)?e-issn:|(\| )?(<b>)?uuid:|(\| )?(<b>)?urn:|(\| )?(<b>)?(<span class="searchword">)?lsidy)/i);
+                        //Additional statement added to remove extra delimiter | character for electronic resources
+                        new_forth_line[0]=new_forth_line[0].replace(/\| <br><b>\*\*\*/g,"<br><b>***");
+                        $(this).html(new_forth_line[0]+"</h3>");
+                };
+                //Another exception for digitized copy
+                var new_forth_line=$(this).html().replace(/\| <br><b>\*\*\*/g,"<br><b>***");
+                $(this).html(new_forth_line);
+        };
+});
+</script>
+
+<script type="text/javascript">
+// CUSTOMIZATION: Changes the value of the TITLE tag to better identify the pages for Google Analytics statistics
+// CHANGE TITLE BASED ON EXISTANCE OF GIVEN STRING(S) IN THE WINDOW URL
+
+var url = window.location.href;
+if ( (url.indexOf("search.do") > -1) && (url.indexOf("dscnt=1") > -1) )
+{ document.title = 'SOLO - Search Oxford Libraries Online - Homepage'; }
+if (url.indexOf("search.do?vid=OXVU1") > -1)
+{ document.title = 'SOLO - Search Oxford Libraries Online - Homepage'; }
+if (url.indexOf("search.do?mode=Basic&vid=OXVU1") > -1)
+{ document.title = 'SOLO - Search Oxford Libraries Online - Homepage'; }
+if (url.indexOf("mode=Advanced") > -1)
+{ document.title = 'SOLO - Advanced Search'; }
+if (url.indexOf("fn=BrowseRedirect") > -1)
+{ document.title = 'SOLO - Browse Search'; }
+if ( (url.indexOf("mode=Basic") > -1) && (url.indexOf("tab=remote") > -1) )
+{ document.title = 'SOLO - Articles and More - Basic Search'; }
+if ( (url.indexOf("mode=Advanced") > -1) && (url.indexOf("tab=remote") > -1) )
+{ document.title = 'SOLO - Articles and More  - Advanced Search'; }
+if ( (url.indexOf("tab=eld") > -1) && (url.indexOf("mode=Basic") > -1) )
+{ document.title = 'SOLO - Electronic Legal Deposit - Basic Search'; }
+if ( (url.indexOf("tab=eld") > -1) && (url.indexOf("mode=Advanced") > -1) )
+{ document.title = 'SOLO - Electronic Legal Deposit - Advanced Search'; }
+if ( (url.indexOf("mode=Basic") > -1) && (url.indexOf("tab=all") > -1) )
+{ document.title = 'SOLO - Search Everything - Basic Search'; }
+if ( (url.indexOf("mode=Advanced") > -1) && (url.indexOf("tab=all") > -1) )
+{ document.title = 'SOLO - Search Everything - Advanced Search'; }
+if ( (url.indexOf("mode=Basic") > -1) && (url.indexOf("fn=search") > -1) && (url.indexOf("tab=local") > -1))
+{ document.title = 'SOLO - Oxford Collections - Basic Search Results'; }
+if ( (url.indexOf("mode=Advanced") > -1) && (url.indexOf("fn=search") > -1) && (url.indexOf("tab=local") > -1) )
+{ document.title = 'SOLO - Oxford Collections - Advanced Search Results'; }
+if ( (url.indexOf("mode=Basic") > -1) && (url.indexOf("fn=search") > -1) && (url.indexOf("tab=remote") > -1))
+{ document.title = 'SOLO - Articles and More - Basic Search Results'; }
+if ( (url.indexOf("mode=Advanced") > -1) && (url.indexOf("fn=search") > -1) && (url.indexOf("tab=remote") > -1) )
+{ document.title = 'SOLO - Articles and More - Advanced Search Results'; }
+if ( (url.indexOf("mode=Basic") > -1) && (url.indexOf("fn=search") > -1) && (url.indexOf("tab=eld") > -1))
+{ document.title = 'SOLO - Electronic Legal Deposit - Basic Search Results'; }
+if ( (url.indexOf("mode=Advanced") > -1) && (url.indexOf("fn=search") > -1) && (url.indexOf("tab=eld") > -1) )
+{ document.title = 'SOLO - Electronic Legal Deposit - Advanced Search Results'; }
+if ( (url.indexOf("mode=Basic") > -1) && (url.indexOf("fn=search") > -1) && (url.indexOf("tab=all") > -1))
+{ document.title = 'SOLO - Search Everything - Basic Search Results'; }
+if ( (url.indexOf("mode=Advanced") > -1) && (url.indexOf("fn=search") > -1) && (url.indexOf("tab=all") > -1) )
+{ document.title = 'SOLO - Search Everything - Advanced Search Results'; }
+if ( (url.indexOf("fn=BrowseRedirect") > -1) && (url.indexOf("searchField=author") > -1) && (url.indexOf("searchTxt") > -1) )
+{ document.title = 'SOLO - Author Browse Results'; }
+if ( (url.indexOf("fn=BrowseRedirect") > -1) && (url.indexOf("searchField=title") > -1) )
+{ document.title = 'SOLO - Title Browse Results'; }
+if ( (url.indexOf("fn=BrowseRedirect") > -1) && (url.indexOf("searchField=subject") > -1) )
+{ document.title = 'SOLO - Subject Browse Results'; }
+if (url.indexOf("query=browse") > -1)
+{ document.title = 'SOLO - Browse Heading Results'; }
+if (url.indexOf("display.do?tabs=detailsTab") > -1)
+{ document.title = 'SOLO - Full Record Display'; }
+if (url.indexOf("myAccountMenu.do") > -1)
+{ document.title = 'SOLO - My Account'; }
+if (url.indexOf("basket.do") > -1)
+{ document.title = 'SOLO - e-Shelf'; }
+if (url.indexOf("sessionQuery.do") > -1)
+{ document.title = 'SOLO - My Account - Session queries'; }
+if (url.indexOf("query.do") > -1)
+{ document.title = 'SOLO - My Account - Saved queries'; }
+if (url.indexOf("tagsAction.do") > -1)
+{ document.title = 'SOLO - Tag Search'; }
+if (url.indexOf("&pcAvailabiltyMode=true") > -1)
+{ document.title = 'SOLO - Expand My Results'; }
+if (url.indexOf("fctV=") > -1)
+{ document.title = 'SOLO - Facet(s) selected'; }
+if (url.indexOf("facet_frbrgroupid") > -1)
+{ document.title = 'SOLO - List of Versions'; }
+if (url.indexOf("myAccountMenu.do?vid=OXVU1") > -1)
+{ document.title = 'SOLO - My Account - Loans'; }
+if (url.indexOf("activity=loans") > -1)
+{ document.title = 'SOLO - My Account - Loans'; }
+if (url.indexOf("activity=requests") > -1)
+{ document.title = 'SOLO - My Account - Requests'; }
+if (url.indexOf("activity=fees") > -1)
+{ document.title = 'SOLO - My Account - Fines and Fees'; }
+if (url.indexOf("activity=messages") > -1)
+{ document.title = 'SOLO - My Account - Blocks and Messages'; }
+if (url.indexOf("activity=personalSettings") > -1)
+{ document.title = 'SOLO - My Account - Personal Settings'; }
+</script>
+
+<script type="text/javascript">
+// THIS CODE MUST BE THE LAST IN THE footer.html PAGE!
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-44070883-2']);
+    _gaq.push(['_trackPageview']);
+     _gaq.push(['_setDomainName', 'none']);
+     _gaq.push(['_setAllowLinker', true]);
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript';
+    ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+<!--end footer-->
+
+<!-- includeStaticHTML.jspf end (/static_htmls/footer-oxford.html) --><!-- autoRefresh.jspf begin -->
+<!-- deferScript.tag begin -->
+<!-- deferScript.tag end --><div class="EXLFooterUpdateContainer">
+    <div class="EXLFooterAutoUpdate">
+      <form action="" method="post" name="update" id="update">
+		<input type="checkbox" id="allowRefresh_chkbx" checked="checked" onclick="updateAutoRefresh(this);"/>
+		<label for="allowRefresh_chkbx">Update my screen automatically<!-- Update my screen automatically --></label>
+
+		<input class="EXLHide" type="submit"/>
+      </form>
+    </div>
+  </div>
+
+<!-- autoRefresh.jspf end --><!-- footer.jsp end -->
+
+
+
+
+<!-- l_footer.jsp end -->
+<!-- end ../headings/footers/l_footer.jsp -->
+	</div>
+<!-- dynamic_recursion.jsp end -->
+</div>
+<!-- dynamic_recursion.jsp end -->
+<!-- pleaseWait.jsp begin -->
+<!-- taglibsIncludeAll.jspf begin -->
+<!-- taglibsIncludeAll.jspf end --><div id="exlidPleaseWaitContainer">
+  <div id="exlidPleaseWaitTile" class="EXLPleaseWait">
+    <div class="EXLPleaseWaitHeader">
+      <h1>Searching Remote Databases, Please Wait</h1>
+
+    </div>
+    <!--end EXLPleaseWaitHeader-->
+    <div class="EXLPleaseWaitList">
+      <ul>
+        <li class="EXLPleaseWaitListFirstItem"><span>Searching for</span><strong id="exlidPleaseWaitSearchTerms"></strong></li>
+        <li><span>in</span><strong id="exlidPleaseWaitSearchScope">scope:(OX)</strong></li>
+        <li class="EXLPleaseWaitListLastItem"><span><a href="#" id="exlidPleaseWaitStopSearch" title="stop search and show me the result list">Show me what you have so far</a></span></li>
+      </ul>
+    </div>
+    <!--end EXLPleaseWaitList-->
+    <div class="EXLPleaseWaitProgressBar">
+      <div class="EXLPleaseWaitProgressBarContainer">
+        <div id="exlidProgressBar" class="EXLPleaseWaitProgressBarFiller"></div>
+      </div>
+    </div>
+  </div>
+
+  <!--end exlidPleaseWaitTile-->
+</div>
+<!-- pleaseWait.jsp end --><script type="text/javascript" src="../javascript/pleaseWait.js"></script>
+			<noscript>This feature requires javascript</noscript>
+		<!-- deferredScripts.tag begin -->
+<!-- deferred comment:  -->
+				<script type="text/javascript">
+					
+//<![CDATA[
+function handleAutoRefreshResponse(){
+	if(checkReadyState(request)) //check to see if we have data.
+	{
+		//we don't really care about the response. it's fire and forget.
+	}else{
+	}
+}
+
+function updateAutoRefresh(checkbox){
+	var autoRefreshUrl = 'preferences.do?fn=allowRefresh&url=../static_htmls/blank.html&allowRefresh=';
+	if (checkbox.checked){
+		ajaxGet(autoRefreshUrl+'on',handleAutoRefreshResponse);
+	}else{
+		ajaxGet(autoRefreshUrl+'off',handleAutoRefreshResponse);
+	}
+}
+// ]]>
+</script><!-- deferredScripts.tag end -->
+<noscript>This feature requires javascript</noscript>
+
+
+</body>
+</html>
+<!-- dynamic_layout.jsp end -->

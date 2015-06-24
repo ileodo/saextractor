@@ -1,0 +1,373 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+ <!-- force compatibility mode (quirks mode) off in IE  to avoid IE8/9/10/11 rendering as IE7 -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.it.ox.ac.uk/sites/dandy/themes/dandy/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=yes" />
+<link rel="shortlink" href="http://www.it.ox.ac.uk/node/277" />
+<link rel="canonical" href="http://www.it.ox.ac.uk/want/get-started/rules" />
+<meta name="description" content="Computer usage rules for staff and students at Oxford University." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Computer usage rules and etiquette | IT Services</title>  
+  <link type="text/css" rel="stylesheet" href="http://www.it.ox.ac.uk/sites/dandy/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.it.ox.ac.uk/sites/dandy/files/css/css_M1OfPabwSR63Cshpbwrek3p5hZS4HMl0c08f77eSE-s.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.it.ox.ac.uk/sites/dandy/files/css/css_Kq3g5giu8I_4Ea8foFnXcCQYgYNxi_MH3Qev0xFh8YE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.it.ox.ac.uk/sites/dandy/files/css/css_KJUQaF1cLfsi3VYS4atrA-L5ujxWbIK_EtPUlJHvSwA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.it.ox.ac.uk/sites/dandy/files/css/css_CNxK9WC1FDjrRVxzBuvcLlLDHEsTHVV8cRXuaTkhwUI.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://www.it.ox.ac.uk/sites/dandy/files/css/css_7Zm-__T-_BMsdxTKMPHiKgvZwzhQ7yb09IElsrSWiG0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Serif:700,700italic,italic,regular|Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic,italic,regular&amp;subset=latin" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.it.ox.ac.uk/sites/dandy/files/css/css_shBDFjSv9ues1NH_Q9mF2aI1s-x7s03LXowlHOziu44.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://www.it.ox.ac.uk/sites/dandy/files/css/css_-UuvCScxKC1ypAdS7PwoveTzkcUUFvXqUxRO0X5X1Dk.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="http://www.it.ox.ac.uk/sites/dandy/files/css/css_olcuuqSdk2wXexxTK8UTS0QWNKVe-lZ8lz_HidSmlr8.css" media="all" />
+<!--<![endif]-->
+  <script type="text/javascript" src="http://www.it.ox.ac.uk/sites/dandy/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/dandy/files/js/js_BNiRnytJHmBpzXXas2WUhU1xnq2axFFNlEHSnVuZeJg.js"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/all/modules/lightbox2/js/lightbox.js?1434638316"></script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/dandy/files/js/js_Ij71S4uKXvt6WQIIitFnK1aVw8MdijbJ4XCcKM5mytY.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-33775187-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.it.ox.ac.uk/sites/dandy/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dandy","theme_token":"or3tjLxUcDBiTXZEnN8EUb35VTy3xVk2a8JW3fdxy-Q","js":{"0":1,"1":1,"2":1,"3":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/cookiecontrol\/js\/cookieControl-5.1.min.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"4":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/www.it.ox.ac.uk\/modules\/custom\/google_appliance\/theme\/google_appliance.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/oembed\/oembed.base.css":1,"sites\/all\/modules\/oembed\/oembed.theme.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/font-awesome\/css\/font-awesome.min.css":1,"sites\/www.it.ox.ac.uk\/themes\/dandy\/css\/print.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"http:\/\/fonts.googleapis.com\/css?family=Droid+Serif:700,700italic,italic,regular|Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic,italic,regular\u0026subset=latin":1,"sites\/dandy\/themes\/dandy\/css\/ckeditor-styles.css":1,"sites\/dandy\/themes\/dandy\/css\/global.css":1,"ie::normal::sites\/dandy\/themes\/dandy\/css\/dandy-alpha-default.css":1,"ie::normal::sites\/dandy\/themes\/dandy\/css\/dandy-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/dandy\/themes\/dandy\/css\/dandy-alpha-default.css":1,"narrow::sites\/dandy\/themes\/dandy\/css\/dandy-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/dandy\/themes\/dandy\/css\/dandy-alpha-default.css":1,"normal::sites\/dandy\/themes\/dandy\/css\/dandy-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/dandy\/themes\/dandy\/css\/dandy-alpha-default.css":1,"wide::sites\/dandy\/themes\/dandy\/css\/dandy-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1}},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"custom_search":{"form_target":"_self","solr":0},"responsive_menus":[{"toggler_text":"\u2630 ","selectors":["#block-menu-menu-top-nav-menu","#block-menu-block-4","#block-menu-menu-get-it-help"],"media_size":"740","absolute":true,"remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackCrossDomains":"www.it.ox.ac.uk"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1200px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-277 node-type-page context-want">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <section class="block block-menu block-menu-header-shortcuts block-menu-menu-header-shortcuts odd" id="block-menu-menu-header-shortcuts">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Header shortcuts</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="leaf"><a href="/want/get-started" title="Getting started" class=""><i class="fa fa-2x fa-hand-o-right "> </i><span>Getting started</span></a></li><li class="leaf"><a href="https://register.it.ox.ac.uk/self/index/" title="Manage accounts" class=""><i class="fa fa-2x fa-dashboard "> </i><span>Manage accounts</span></a></li><li class="leaf"><a href="http://owa.nexus.ox.ac.uk" title="Nexus email" class=""><i class="fa fa-2x fa-envelope-o "> </i><span>Nexus email</span></a></li><li class="leaf"><a href="/status" title="Service status" class=""><i class="fa fa-2x fa-check "> </i><span>Service status</span></a></li><li class="leaf"><a href="/rules" title="IT rules" class=""><i class="fa fa-2x fa-book "> </i><span>IT rules</span></a></li><li class="leaf"><a href="http://blogs.it.ox.ac.uk/" title="Read our blogs" class=""><i class="fa fa-2x fa-comment-o "> </i><span>Blogs</span></a></li></ul>    </div>
+  </div>
+</section><section class="block block-menu block-menu-social-networking-links block-menu-menu-social-networking-links even" id="block-menu-menu-social-networking-links">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Social networking links</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/news/rss.xml" title="Subscribe to our RSS feed" class="fa fa-2x fa-rss">Subscribe to our RSS feed</a></li>
+<li class="leaf"><a href="http://twitter.com/Ox_IT" title="Go to IT Services Twitter page" id="socialnetwork-twitter" class="fa fa-2x fa-twitter">Follow us on Twitter</a></li>
+<li class="leaf"><a href="https://www.facebook.com/Ox.Uni.IT.Services" title="Go to IT Services Facebook page" id="socialnetwork-facebook" class="fa fa-2x fa-facebook">Find us on Facebook</a></li>
+<li class="last leaf"><a href="https://github.com/ox-it" title="Find us on GitHub" id="socialnetwork-github" class="fa fa-2x fa-github">Find us on GitHub</a></li>
+</ul>    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+          </div>
+</div>
+  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-12 region region-header-first" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-menu block-menu-header-logos block-menu-menu-header-logos odd block-without-title" id="block-menu-menu-header-logos">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="http://www.ox.ac.uk/" id="oxCrest">University of Oxford</a></li>
+<li class="last leaf"><a href="/" id="itServices">IT Services</a></li>
+</ul>    </div>
+  </div>
+</div><div class="block block-block block-3 block-block-3 even block-without-title" id="block-block-3">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p>delivering responsive, innovative IT at the University of Oxford</p>
+    </div>
+  </div>
+</div><div class="block block-google-appliance block-ga-block-search-form block-google-appliance-ga-block-search-form odd block-without-title" id="block-google-appliance-ga-block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form class="search-form search-google-appliance-search-form" action="/want/get-started/rules" method="post" id="google-appliance-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search Google Appliance</h2>
+    <div class="form-item form-type-textfield form-item-search-keys">
+  <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+ <input placeholder="Search" type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-radios form-item-collection">
+  <label for="edit-collection">Search within: </label>
+ <div id="edit-collection" class="form-radios"><div class="form-item form-type-radio form-item-collection">
+ <input type="radio" id="edit-collection-itservices" name="collection" value="itservices" checked="checked" class="form-radio" />  <label class="option" for="edit-collection-itservices">all </label>
+
+</div>
+<div class="form-item form-type-radio form-item-collection">
+ <input type="radio" id="edit-collection-itservices-help" name="collection" value="itservices-help" class="form-radio" />  <label class="option" for="edit-collection-itservices-help">help </label>
+
+</div>
+</div>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-gkNlMaaWi-eTJRYnlVHjR5VPHElVynW1morQPJQGI9Q" />
+<input type="hidden" name="form_id" value="google_appliance_block_form" />
+  
+</div>
+</div></form>    </div>
+  </div>
+</div><div class="block block-menu block-menu-get-it-help block-menu-menu-get-it-help even block-without-title" id="block-menu-menu-get-it-help">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="leaf"><a href="http://help.it.ox.ac.uk/help/request" class=""><i class="fa fa-desktop "> </i><span>Contact the help desk</span></a></li><li class="leaf"><a href="https://oxford.saasiteu.com" class=""><i class="fa fa-list "> </i><span>View requests</span></a></li><li class="leaf"><a href="http://help.it.ox.ac.uk" title="Visit the IT Help site" class=""><i class="fa fa-wrench "> </i><span>Visit the IT Help site</span></a></li></ul>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-12 region region-header-second" id="region-header-second">
+  <div class="region-inner region-header-second-inner">
+    <section class="block block-menu block-menu-top-nav-menu block-menu-menu-top-nav-menu odd" id="block-menu-menu-top-nav-menu">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Top Nav</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf"><a href="/do">What we do</a></li>
+<li class="leaf"><a href="/want">I want to...</a></li>
+<li class="leaf"><a href="/services">Services</a></li>
+<li class="leaf"><a href="/about">About</a></li>
+<li class="last leaf"><a href="/news-events">News &amp; events</a></li>
+</ul>    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-12 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <h1 class="title" id="page-title">Computer usage rules and etiquette</h1>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="panel-display omega-grid omega-12-twocol-9-3" >
+  <div class="panel-panel grid-9">
+    <div class="inside"><div class="panel-pane pane-node-content" >
+  
+      
+  
+  <div class="pane-content">
+    <article about="/want/get-started/rules" typeof="foaf:Document" class="node node-page node-published node-not-promoted node-not-sticky author-penny-dakinkiley odd clearfix" id="node-page-277">
+        <span property="dc:title" content="" class="rdf-meta element-hidden"></span>    
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>The University has various rules and conditions that apply to your usage of the local IT facilities. You are strongly advised to read about the local rules so that you know what is allowed and what's not. For instance, many peer-to-peer applications are banned on the network.</p>
+<p><a href="/rules" title="Regulations and policies applying to all users of University ICT facilities">Regulations and policies applying to use of University ICT facilities</a> – the definitive list.</p>
+</div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+
+  
+  </div>
+</div>
+  </div>
+  <div class="panel-panel grid-3">
+    <div class="inside"><div class="panel-pane pane-block pane-menu-block-2" >
+  
+        <h2 class="pane-title"><a href="/want" class="active-trail">I want to...</a></h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-1074"><a href="/status">I want to... check a service status</a></li>
+<li class="leaf menu-mlid-873"><a href="/want/help">I want to... get help and support</a></li>
+<li class="expanded active-trail menu-mlid-1026"><a href="/want/get-started" class="active-trail">I want to... get started</a><ul class="menu"><li class="first leaf menu-mlid-1048"><a href="/want/get-started/bring">What to bring</a></li>
+<li class="leaf menu-mlid-1046"><a href="/want/get-started/account">Your Oxford SSO account</a></li>
+<li class="leaf menu-mlid-1031"><a href="/want/get-started/internet">Connecting to the internet</a></li>
+<li class="leaf menu-mlid-1047"><a href="/want/get-started/registration">Student registration</a></li>
+<li class="collapsed menu-mlid-1038"><a href="/want/get-started/security">Security</a></li>
+<li class="leaf menu-mlid-1035"><a href="/want/get-started/hardware">Solving hardware problems</a></li>
+<li class="leaf menu-mlid-1045"><a href="/want/get-started/software">Getting free and low cost software</a></li>
+<li class="leaf menu-mlid-1034"><a href="/want/get-started/email">Nexus email</a></li>
+<li class="leaf menu-mlid-1043"><a href="/want/get-started/sharing">Sharing files and personal web spaces</a></li>
+<li class="leaf menu-mlid-1036"><a href="/want/get-started/resources">University IT resources and services</a></li>
+<li class="leaf menu-mlid-1028"><a href="/want/get-started/help">Getting help</a></li>
+<li class="leaf menu-mlid-1029"><a href="/want/get-started/colleges">College IT information</a></li>
+<li class="leaf menu-mlid-1032"><a href="/want/get-started/departments">Department IT information</a></li>
+<li class="last leaf active-trail active menu-mlid-1030"><a href="/want/get-started/rules" class="active-trail active">Computer usage rules and etiquette</a></li>
+</ul></li>
+<li class="leaf menu-mlid-955"><a href="/want/login">I want to... log in</a></li>
+<li class="leaf menu-mlid-849"><a href="/want/shop" title="I want to... use the online shop">I want to... use the online shop</a></li>
+<li class="last leaf menu-mlid-871"><a href="/want/course" title="I want to… book a training course">I want to… find a training course</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>      </div>
+</div>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <footer class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="footer-column footer-column-1">
+    <div class="footer-help-desk">
+      <h2>
+	Help desk</h2>
+<p>13 Banbury Road, Oxford, OX2 6NN</p>
+<p><strong>tel:</strong> (+44) 1865 273200</p>
+    </div>
+    <div class="footer-admin-address">
+      <h2>
+	Administrative address</h2>
+<p>Dartington House, University Offices, Wellington Square, Oxford OX1 2JD</p>
+    </div>
+  </div>
+  <div class="footer-column footer-column-2">
+    <div class="footer-our-offices">
+      <h2>
+	Our offices</h2>
+<p>13 Banbury Road, Oxford OX2 6NN</p>
+<p><strong>tel:</strong> (+44) 1865 273200</p>
+<p>&nbsp;</p>
+<p>Dartington House, University Offices, Wellington Square, Oxford OX1 2JD</p>
+<p><strong>tel:</strong>&nbsp;(+44) 1865 270202</p>
+<p>&nbsp;</p>
+<p>23-38 Hythe Bridge Street, Oxford OX1 2EP</p>
+<p><strong>tel:</strong> (+44) 1865 270000</p>
+<p>&nbsp;</p>
+<p>Gibson Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford OX2 6GG</p>
+<p><strong>tel: </strong>(+44) 1865 270199</p>
+    </div>
+  </div>
+  <div class="footer-column footer-column-3">
+    <section class="block block-menu block-menu-footer-links block-menu-menu-footer-links odd" id="block-menu-menu-footer-links">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">footer links</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/accessibility">Accessibility</a></li>
+<li class="leaf"><a href="/about/jobs">Jobs</a></li>
+<li class="leaf"><a href="http://www.admin.ox.ac.uk/councilsec/compliance/dataprotection/privacypolicy/">Privacy</a></li>
+<li class="leaf"><a href="/cookies">Cookies</a></li>
+<li class="leaf"><a href="http://www.ox.ac.uk/legal">Legal</a></li>
+<li class="leaf"><a href="/credits">Picture credits</a></li>
+<li class="last leaf"><a href="mailto:webmaster@it.ox.ac.uk">Contact webmaster</a></li>
+</ul>    </div>
+  </div>
+</section><section class="block block-menu block-menu-footer-related-sites block-menu-menu-footer-related-sites even" id="block-menu-menu-footer-related-sites">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Related sites</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="https://sharepoint.nexus.ox.ac.uk/sites/itservices/staff/SitePages/start.aspx">Staff Intranet</a></li>
+<li class="leaf"><a href="http://courses.it.ox.ac.uk">IT Learning Programme courses catalogue</a></li>
+<li class="leaf"><a href="https://www.oxforduniversitystores.co.uk/browse/department.asp?compid=2&amp;modid=1&amp;deptid=85">IT Services online shop</a></li>
+<li class="leaf"><a href="https://sharepoint.nexus.ox.ac.uk">Sharepoint</a></li>
+<li class="last leaf"><a href="http://weblearn.ox.ac.uk/">WebLearn</a></li>
+</ul>    </div>
+  </div>
+</section>  </div>
+</footer><div class="grid-12 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <section class="block block-block block-1 block-block-1 odd" id="block-block-1">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Footer text</h2>
+            
+    <div class="content clearfix">
+      <p><a class="ucisa logo" href="http://www.ucisa.ac.uk/">Ucisa member</a></p>
+    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+      </div>
+</div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    jQuery(document).ready(function($) {
+    cookieControl({
+        introText: '<p>This site uses cookies to store information on your computer.</p>',
+        fullText: '<p>Some cookies on this site are essential, and the site won\'t work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.</p><p>We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you\'re not happy with this, we won\'t set these cookies but some nice features of the site may be unavailable.</p><p>By using our site you accept the terms of our <a href="/cookies">Privacy Policy</a>.',
+        theme: 'dark',
+        html: '<div id="cccwr"><div id="ccc-state" class="ccc-pause"><div id="ccc-icon"><button><span>Cookie Control</span></button></div><div class="ccc-widget"><div class="ccc-outer"><div class="ccc-inner"><h2>Cookie Control</h2><div class="ccc-content"><p class="ccc-intro"></p><div class="ccc-expanded"></div><div id="ccc-cookies-switch" style="background-position-x: 0;"><a id="cctoggle" href="#" style="background-position-x: 0;" name="cctoggle"><span id="cctoggle-text">Cookies test</span></a></div><div id="ccc-implicit-warning">(One cookie will be set to store your preference)</div><div id="ccc-explicit-checkbox"><label><input id="cchide-popup" type="checkbox" name="ccc-hide-popup" value="Y" /> Do not ask me again<br /></label> (Ticking this sets a cookie to hide this popup if you then hit close. This will not store any personal information)</div><p class="ccc-about"><small><a href="http://www.civicuk.com/cookie-law" target="_blank">About this tool</a></small></p><a class="ccc-icon" href="http://www.civicuk.com/cookie-law" target="_blank"title="About Cookie Control">About Cookie Control</a><button class="ccc-close">Close</button></div></div></div><button class="ccc-expand">read more</button></div></div></div>',
+        position: 'left',
+        shape: 'triangle',
+        startOpen: true,
+        autoHide: 60000,
+        onAccept: function(cc){cookiecontrol_accepted(cc)},
+        onReady: function(){},
+        onCookiesAllowed: function(cc){cookiecontrol_cookiesallowed(cc)},
+        onCookiesNotAllowed: function(cc){cookiecontrol_cookiesnotallowed(cc)},
+        countries: '',
+        subdomains: true,
+        cookieName: 'it-services_cookiecontrol',
+        iconStatusCookieName: 'ccShowCookieIcon',
+        consentModel: 'information_only'
+        });
+      });
+    
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function cookiecontrol_accepted(cc) {
+cc.setCookie('ccShowCookieIcon', 'no');jQuery('#ccc-icon').hide();
+}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function cookiecontrol_cookiesallowed(cc) {
+
+}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function cookiecontrol_cookiesnotallowed(cc) {
+
+}
+//--><!]]>
+</script>
+</body>
+</html>

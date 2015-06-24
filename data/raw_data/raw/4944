@@ -1,0 +1,389 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <title>Facilities Management, Estates Services</title>
+<!-- three column -->
+
+    <link rel="icon" type="image/gif" href="/media/global/wwwadminoxacuk/styleassets/images/favicon.gif" />
+    <link rel="shortcut icon" type="image/gif" href="/media/global/wwwadminoxacuk/styleassets/images/favicon.gif" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Cache-Control" content="max-age=10800" />
+    <meta name="description" content="Facilities Management, Estates Services" />
+    <meta name="keywords" content="estates, estates services, facilities, repairs, capital projects, buildings, travel, fm online, conservation, estates strategy, space asset management, sustainability, maintenance, building fabric, building services,, " />
+    <meta http-equiv="imagetoolbar" content="No" />
+    <meta name="DC.Author" content="Estates Services" />
+    <meta name="DC.Coverage" content="unlimited" />
+    <meta name="DC.Creator" content="University of Oxford" />
+    <meta name="DC.Date.modified" content="10 Oct 14" />
+    <meta name="DC.Description" content="Facilities Management, Estates Services" />
+    <meta name="DC.Format" content="application/xhtml" />
+    <meta name="DC.Language" content="en" />
+    <meta name="DC.Publisher" content="University of Oxford" />
+    <meta name="DC.Rights" content="Copyright University of Oxford" />
+    <meta name="DC.subject" content="Facilities Management, estates, estates services, facilities, repairs, capital projects, buildings, travel, fm online, conservation, estates strategy, space asset management, sustainability, maintenance, building fabric, building services,, " />
+    <meta name="DC.title" content="Facilities Management, Estates Services" />
+    
+    <!-- Add NO ARCHIVE meta tag if required -->
+    
+    <script type="text/javascript">
+var ga_array = [];
+if (typeof [['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']] != "undefined")
+{
+	ga_array = [['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']];
+}
+else
+{
+	ga_array = [['_setAccount', "[['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']]"]];
+}
+</script>
+    <!-- javascript file includes -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/jquery.js">
+</script><!-- jquery -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/jquery.clickOrEnter.js">
+</script><!-- jquery.clickOrEnter.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/all.js">
+</script><!-- all.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/page_setup.js">
+</script><!-- page_setup.js -->
+
+    <!-- Related Content Advanced -->
+    <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+  var siteManagerCycle2Custom = siteManagerCycle2Custom || {};
+  siteManagerCycle2Custom.instances = siteManagerCycle2Custom.instances || [];
+  siteManagerCycle2Custom.cycle2 = siteManagerCycle2Custom.cycle2 || $('head').append(String.fromCharCode(60)+'script type="text/javascript" src="'+'/media/global/wwwadminoxacuk/styleassets/js/jquery.cycle2.min.js'+'"'+'>'+String.fromCharCode(60)+'/'+'script'+'>');
+  siteManagerCycle2Custom.custom = siteManagerCycle2Custom.custom || $('head').append(String.fromCharCode(60)+'script type="text/javascript" src="'+'/media/global/wwwadminoxacuk/styleassets/js/jquery.cycle2.custom.js'+'"'+'>'+String.fromCharCode(60)+'/'+'script'+'>');
+  siteManagerCycle2Custom.styles = siteManagerCycle2Custom.styles || $('head').append(String.fromCharCode(60)+'link rel="stylesheet" type="text/css" media="all" href="'+'/media/global/wwwadminoxacuk/styleassets/css/jquery.cycle2.custom.css'+'" />');
+  // Add this instance
+  var instance = {'id':'162076'};
+  instance.options = {};
+  instance.options.timeout = 3500;
+  instance.options.fx = 'fade';
+ 
+  instance.options.usePrevNext = true;
+
+  siteManagerCycle2Custom.instances.push(instance);
+//--><!]]>
+</script>
+<style media="all" type="text/css">
+.cycle-slideshow ul{list-style:none !important;list-style-image:none !important;margin:0 !important;padding: 0 !important;overflow: hidden;}
+.cycle-slideshow li{ margin:0 !important;padding: 0 !important;display:none;}
+.cycle-slideshow li:first-child{display:block;}
+</style>
+<!--[if lte IE 6]><style media="all" type="text/css">.cycle-slideshow .prev-next {top:15%;} .cycle-slideshow .cycle-pager {bottom:auto;top:5px;}</style><![endif]-->
+<!--[if lte IE 8]><style media="all" type="text/css">.cycle-slideshow .prev-next {background: #111;}</style><![endif]-->
+
+
+
+    <!-- CSS file combined from subversion-->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/all-t4-production.css" />
+    <!-- CSS file for FAQ-->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/FAQ-new.css" />
+    <!-- CSS for Gl More/Less -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/togglePanel.css" />
+    <!-- CSS for general bugFixing -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/generalBugFix.css" />
+    <!-- CSS for A to Z -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/AtoZ.css" />
+
+
+    <!-- navigation object : Gl CSS Selector -->
+ <!-- navigation object : Gl CSS Selector -->
+    
+    <!-- note: the 'stripy' IE bug seems to have been caused by something in alumni/nav_primary.css,
+    not a change to the main nav_primary. The difference is that before the width was defined on
+    #primary-nav ul  (defined differently for the different images that go into it) but now is
+    not. With width on #primary-nav ul this goes away -->
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/prinav.css" />
+
+    <!--[if IE 6]><script src="/media/global/wwwadminoxacuk/styleassets/js/ie6.js" type="text/javascript"></script><script type="text/javascript" src="/media/global/wwwoxacuk/styleassets/js/pngfix.jquery.js">
+</script><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/ie6.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/togglePanel-IE6.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/AtoZ-IE6_from_production.css" /><![endif]-->
+    
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/handheld.css" media="handheld" />
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/print.css" media="print" />
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/oxonly_fix_padlocks.css" media="all" />
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/ie7.css" /><![endif]-->  
+</head>
+
+  <body>
+ 
+        <!-- header content on page -->
+    <div id="header-wrapper">
+      <div id="header">
+
+        <ul id="access-links">
+          <li><a id="skipnav" href="#primary-content" accesskey="s">Start of main content</a></li>
+        </ul>
+
+        <div id="logos">
+          <span class="screenonly">
+            <a id="logo" href="/estates/">
+              <img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/banners/estates_services_header.gif" alt="" height="66" width="312" class="floated"  />
+            </a>
+          </span>
+          <span class="printonly">
+            <img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/banners/estates_services_header_print.gif" alt="" height="66" width="312" class="floated"  />
+          </span>
+        </div>
+
+        <div class="find-it">
+          <!-- text/html formatter for GL Search Box -->
+
+<form id="searchform" action="http://www2.admin.ox.ac.uk/search_multiplex/multiplex.php" method="get">
+ <div>
+  <label for="searchinput">Search</label>
+  <input type="text" name="q" id="searchinput" value="Enter search term" />
+  <input type="image" name="submit" alt="Search" src="/media/global/wwwadminoxacuk/styleassets/images/button_search.gif" class="searchbutton" />
+  <input type="hidden" name="access" value="p" />
+  <input type="hidden" name="output" value="xml_no_dtd" />
+  <input type="hidden" name="ie" value="UTF-8" />
+  <input type="hidden" name="client" value="admin" />
+  <input type="hidden" name="proxystylesheet" value="admin" />
+  <input type="hidden" name="subsite" value="estates" />
+  <input type="hidden" name="subsitename" value="University Administration and Services" />
+  <fieldset>
+    <label for="search-type" class="radio">
+      <input id="search-type" class="radio radio-first" type="radio" 
+             name="search-type" value="subsite" 
+             checked="checked" 
+      />This site</label>
+    <label for="search-type2" class="radio">
+      <input id="search-type2" class="radio" type="radio" 
+             name="search-type" value="pages"  
+      />University of Oxford</label>
+    <label for="search-type3" class="radio">
+      <input id="search-type3" class="radio" type="radio" 
+             name="search-type" value="people" 
+      />People</label>
+  </fieldset>
+ </div>
+</form>
+        </div>
+        
+        <!-- Add header_logo_right -->
+        <div class="university-logo">
+          <a href="http://www.ox.ac.uk/">
+           
+          <img src="/media/global/wwwadminoxacuk/styleassets/images/header_logo.gif" alt="University of Oxford" height="115" width="115" class="floated"  />
+
+          </a>
+        </div>
+        
+        <!-- Primary Nav -->
+        
+
+      </div>
+    </div>      
+    <div id="wrapper">
+      <div id="content">         
+          <a href="/estates/" id="departmental-logo"></a>
+          
+          <div id="breadcrumb">
+            <ol><!-- navigation object : Gl Pre Breadcrumb Locator --><!-- navigation object : Gl Pre Breadcrumb Home Link --><li><a href="/">UAS Home</a></li><!-- navigation object : Gl Breadcrumbs --><li><a href="/estates/">Estates Services</a></li><li><a href="/estates/ourservices/">Our services</a></li><li><a href="/estates/ourservices/fm/">Facilities Management</a></li></ol>
+          </div><div class="clear"></div>
+         
+	  <div id="uas-wrapper">
+            <div id="secondary-content">
+              <!-- Main Left Nav -->
+              <ul id="secondary-nav"><li><a href="/estates/aboutus/">About us</a></li><li><a href="/estates/ourservices/">Our services</a>
+<ul class="multilevel-linkul-0" title="">
+<li><a href="/estates/ourservices/a-zservices/">A-Z Services</a></li>
+<li><a href="/estates/ourservices/capitalprojectmanagement/">Capital Project Management</a></li>
+<li><a href="/estates/ourservices/environment/">Environmental Sustainability</a></li>
+<li><span class="currentsection">Facilities Management</span>
+<ul class="multilevel-linkul-1" title="">
+<li><a href="/estates/ourservices/fm/fmonline/">FM Online</a></li>
+<li><a href="/estates/ourservices/fm/a-z_of_services/">A-Z of FM services </a></li>
+<li><a href="/estates/ourservices/fm/tools_and_guides/">Tools and Guides </a></li>
+<li><a href="/estates/ourservices/fm/buildings_we_manage/">Buildings we manage</a></li>
+<li><a href="/estates/ourservices/fm/our_team/">Our team </a></li>
+<li><a href="/estates/ourservices/fm/fm_forum/">FM forum</a></li>
+<li><a href="/estates/ourservices/fm/your_feed_back/">Your feed-back</a></li>
+
+</ul>
+</li>
+<li><a href="/estates/ourservices/fnetstart/">FacilityNet</a></li>
+<li><a href="/estates/ourservices/horticultureandlandscaping/">Horticulture and Landscaping</a></li>
+<li><a href="/estates/ourservices/repairsandmaintenance/">Repairs and Maintenance</a></li>
+<li><a href="/estates/ourservices/spacemanagementandinformationmanagement/">Space Management and Information Management</a></li>
+<li><a href="/estates/ourservices/travel/">Travel</a></li>
+
+</ul>
+</li><li><a href="/estates/staffintranet/">Staff Intranet</a></li><li><a href="/estates/map/">Searchable map</a></li></ul>
+
+              <!-- Under Left Nav -->
+	      <div  class="image-caption">
+
+
+<a href="/estates/ourservices/estatesserviceshelpdesk/"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/buttons/Helpdesk.gif" alt="" height="50" width="195" class="floated"  /></a>
+</div><div  class="image-caption">
+
+
+<img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/buttons/Emergency-button.gif" alt="" height="200" width="197" class="floated"  />
+</div>
+            </div>
+              
+            <div id="primary-content">
+              <a name="160266"></a><h1>Facilities Management</h1>
+
+
+
+
+
+
+
+<div class="cycle-slideshow" id="cycle-slideshow-162076">
+<div class="cycle-prev prev-next"></div><div class="cycle-next prev-next"></div><div class="cycle-pager"></div>
+<ul>
+<li><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/slideshows/estates-1.gif" alt="" height="260" width="463" class="floated"  /></li>
+<li><span class="mceNonEditable"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/slideshows/estates-1t.gif" alt="" height="260" width="463" class="floated"  /></span></li>
+<li><span class="mceNonEditable"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/slideshows/estates-2.gif" alt="" height="260" width="463" class="floated"  /></span></li>
+<li><span class="mceNonEditable"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/slideshows/estates-2t.gif" alt="" height="260" width="463" class="floated"  /></span></li>
+<li><span class="mceNonEditable"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/slideshows/estates-3.gif" alt="" height="260" width="463" class="floated"  /></span></li>
+<li><span class="mceNonEditable"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/slideshows/estates-3t.gif" alt="" height="260" width="463" class="floated"  /></span></li>
+<li><span class="mceNonEditable"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/slideshows/estates-4.gif" alt="" height="260" width="463" class="floated"  /></span></li>
+<li><span class="mceNonEditable"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/slideshows/estates-4t.gif" alt="" height="260" width="463" class="floated"  /></span></li>
+<li><span class="mceNonEditable"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/slideshows/estates-5.gif" alt="" height="260" width="463" class="floated"  /></span></li>
+<li><span class="mceNonEditable"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/slideshows/estates-5t.gif" alt="" height="260" width="463" class="floated"  /> <br /></span></li>
+</ul>
+</div><!--start Further Content-->
+<a name="d.en.160268"></a>
+<h2>What is Facilities Management (FM)?</h2>
+<div  class="teaser"></div>
+<p>Facilities Management provides services that enable the day to day running of buildings covering a diverse range of services all designed to deliver a safe, compliant, clean and efficient working environment with services that are flexible and adaptable to change.</p>
+<p>The Estates Services FM team offers advice and guidance to departments and has direct responsibility for the management of facilities in a number of <a href="/estates/ourservices/fm/buildings_we_manage/">University buildings</a>.</p>
+<!-- navigation object : Gl Back to Top -->
+<!--end Further Content-->
+<div class="indexBox_half">
+<h2><a href="/estates/ourservices/fm/fm_services/">FM Services</a></h2>
+<div class="summary"><p>offering advice, support and services to Departments regarding day to day building management
+</p></div>
+<a href="/estates/ourservices/fm/fm_services/"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/mainsectionimages/FM_services.jpg" alt="FM services " height="62" width="215" class="floated"  /></a>
+</div><div class="indexBox_half">
+<h2><a href="/estates/ourservices/fm/estates_fm_new/">New to FM responsibility?</a></h2>
+<div class="summary"><p>useful information and advice for anyone new to FM </p></div>
+<img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/mainsectionimages/New_to_FM_responsibility_2.jpg" alt="New to FM responsibility " height="62" width="215" class="floated"  />
+</div><div class="indexBox_half">
+<h2><a href="/estates/ourservices/fm/benefits_of_managed_fm/">Benefits of managed FM</a></h2>
+<div class="summary"><p>find out more about how our services could help you</p></div>
+<a href="/estates/ourservices/fm/benefits_of_managed_fm/"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/mainsectionimages/Benefits_of_a_managed_FM_service.jpg" alt="Benefits of a managed FM service " height="62" width="215" class="floated"  /></a>
+</div><div class="indexBox_half">
+<h2><a href="/estates/ourservices/fm/university_wide_services/mail_room_services/">Mail room service</a></h2>
+<div class="summary"><p>provides full mail room facilities to all UAS departments, managed buildings and a number of other departments. </p></div>
+<img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/mainsectionimages/facilitiesmanagement/Mail_room_button.gif" alt="" height="62" width="215" class="floated"  />
+</div><div class="indexBox_half">
+<h2><a href="/estates/ourservices/fm/university_wide_services/messenger_service/">Messenger service</a></h2>
+<div class="summary"><p>a University wide service which circulates small items of internal mail.</p></div>
+<img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/mainsectionimages/facilitiesmanagement/Messenger-services-button.gif" alt="" height="62" width="215" class="floated"  />
+</div><div class="indexBox_half">
+<h2><a href="/estates/ourservices/fm/university_wide_services/reprographics/">Reprographics</a></h2>
+<div class="summary"><p>a University wide service that undertakes a wide range of print, design and binding services.</p></div>
+<img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/mainsectionimages/facilitiesmanagement/Reprographics_button.gif" alt="" height="62" width="215" class="floated"  />
+</div><!-- navigation object : Gl Footer Link -->
+                <ul id="content-extras">
+  <li class="back-to-top"><a href="#wrapper"><span>Back to top</span></a></li>
+ <!-- <li class="send">
+		<script type="text/javascript">
+			$(document).ready(function(){    
+			var jQryDoc= document.URL;
+			var jQryText = "" + jQryDoc +"";
+			$("div.recommendpage").html("<a href=\"mailto:?subject=Recommended: Available Templates&body="+jQryText+"\"><span>Recommend this page<\/span><\/a>");
+			});
+		</script>
+		
+		<div class="recommendpage"></div>
+		<noscript><a href="mailto:?subject=Recommended: Available Templates"><span>Recommend this page</span></a></noscript>
+</li>-->
+</ul>
+
+            </div>
+ 
+            <!-- Tertiary Content -->
+            <div id="tertiary-content">  
+              <!-- navigation object : GL RHS --><!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>FM Online</h2>
+
+ <a title="Root%20%BB%20UAS%20Home%20%BB%20Estates%20Services%20New%20%BB%20Our%20services%20%BB%20Facilities%20Management%20%BB%20FM%20Online" href="/estates/ourservices/fm/fmonline/"><img src="/media/global/wwwadminoxacuk/localsites/estatesservices/images/mainsectionimages/facilitiesmanagement/fm_online_40.jpg" alt="" height="120" width="160" class="floated"  /></a>
+</div>
+<!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>Contact us </h2>
+
+ <p>Can't find what you are looking for or need advice?<br />&nbsp;</p>
+<p><strong>FM HELPDESK<br /></strong>Tel: 01865 270087<br /><a href="mailto:facilities@admin.ox.ac.uk">facilities@admin.ox.ac.uk</a></p>
+</div>
+<!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>Next FM Managers forum</h2>
+
+ <p><strong>Date: </strong>29 October<br /><strong>Time:</strong> Midday<br /><strong>Location:&nbsp;</strong>Venue to be confirmed</p>
+</div>
+<!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>News about FM</h2>
+
+ <p><a href="/estates/aboutus/news/managedbuildings/">Click here for the latest FM news&nbsp;stories</a></p>
+<p><a href="http://www.admin.ox.ac.uk/estates/aboutus/news/rss/"><img src="/media/global/wwwadminoxacuk/styleassets/images/rss-text.gif" alt="" height="16" width="50" class="floated"  /></a></p>
+</div>
+<!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>Quick links</h2>
+
+ <ul>
+<li>
+<h4><span style="text-decoration: underline;"><a href="/estates/aboutus/">About us</a></span></h4>
+</li>
+<li>
+<h4><span style="text-decoration: underline;"><a href="/estates/aboutus/spotlight/awards/">Awards</a></span></h4>
+</li>
+<li>
+<h4><span style="text-decoration: underline;"><a href="/estates/ourservices/a-zservices/">A-Z Services</a></span></h4>
+</li>
+<li>
+<h4><span style="text-decoration: underline;"><a href="/estates/aboutus/spotlight/casestudies/">Case studies</a></span></h4>
+</li>
+<li>
+<h4><span style="text-decoration: underline;"><a href="/estates/aboutus/contactus/">Contact us</a></span></h4>
+</li>
+<li>
+<h4><a title="Root &amp;raquo; UAS Home &amp;raquo; Estates Services &amp;raquo; About us &amp;raquo; News &amp;raquo; Managed Buildings : FM Forum 30 October 2014" style="font-size: 1em;" href="/estates/aboutus/news/managedbuildings/heading_176863_en.html">FM Forum News</a></h4>
+</li>
+<li>
+<h4><span style="text-decoration: underline;"><a href="/estates/aboutus/news/">News</a></span></h4>
+</li>
+<li>
+<h4><a class="protected-link" href="/estates/aboutus/strategiesandpolicies/standingorders/">Standing Orders</a></h4>
+</li>
+<li>
+<h4><span style="text-decoration: underline;"><a href="/estates/aboutus/strategiesandpolicies/">Strategies and Policies</a></span></h4>
+</li>
+</ul>
+</div>
+
+            </div>
+          </div>
+
+          <!--[if IE 6]><div class="clear"></div><![endif]-->
+        </div>
+
+        <div id="footer">
+          <dl id="footer-updated"><dt>Last updated</dt> <dd>10 Oct 14</dd></dl>
+          <ul class="extras">
+            <!-- navigation object : Ad Tools -->            <li class="first"><!-- navigation object : Estates Directorate's site map link --><a href="/estates/sitemap/">Site Map</a></li>
+            <li><a href="mailto:surveyweb@admin.ox.ac.uk">Contact this site's webmaster</a></li>
+            <li><a href="http://www.ox.ac.uk/copyright.html">Legal notice</a></li>
+            <li><a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/">Privacy Policy</a></li>
+          </ul>
+        <div class="clear"></div>
+      </div>
+    </div>
+
+  </body>
+</html>

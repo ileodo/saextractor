@@ -1,0 +1,291 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	SGD Group - Publications
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=styleshout-techmania&amp;s=31&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Steve Davies Group Site Search" href="http://davies.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	
+<link rel='shortcut icon' href='/Data/Sites/31/skins/styleshout-techmania/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://davies.chem.ox.ac.uk/2005-2009.aspx' /></head>
+<body id="ctl00_Body" class="pagebody">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="5" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIDD2QWAgIDD2QWDAIXDw8WAh4HVmlzaWJsZWhkZAIjDw8WAh8AaGRkAicPDxYEHghDc3NDbGFzcwU5YXJ0LWxheW91dC1jZWxsIGFydC1zaWRlYmFyMSBsZWZ0c2lkZSBsZWZ0MmNvbHVtbiBjbXN6b25lHgRfIVNCAgJkFgICAQ9kFgICAg9kFgJmEDwrAAkCAA8WCB4LXyFEYXRhQm91bmRnHgxEYXRhU291cmNlSUQFEVBhZ2VNYXBEYXRhU291cmNlHg1QYXRoU2VwYXJhdG9yBHweDU5ldmVyRXhwYW5kZWRkZAgUKwAJBR8wOjAsMDoxLDA6MiwwOjMsMDo0LDA6NSwwOjYsMDo3FCsAAhYMHgRUZXh0BQ4yMDEwIC0gY3VycmVudB4FVmFsdWUFJGMxZTQ1NThjLWY5OTAtNDA3NS04NTdlLWRjODZhZGE3OWYyMB4LTmF2aWdh" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="dGVVcmwFE34vMjAxMC1jdXJyZW50LmFzcHgeCERhdGFQYXRoBQQxMTc0HglEYXRhQm91bmRnHhBQb3B1bGF0ZU9uRGVtYW5kaGQUKwACFhAfBwULMjAwNSAtIDIwMDkfCAUkZGFlYTZiNGUtODJkMi00NTlmLTliMGEtZTU4NzBkOTYwZTdmHwkFEH4vMjAwNS0yMDA5LmFzcHgfCgUEMTE3Mx8LZx4IU2VsZWN0ZWRnHwxoHghFeHBhbmRlZGdkFCsAAhYMHwcFCzIwMDAgLSAyMDA0HwgFJDhiOTY1ODdhLWUwMWItNDYxYy1iMGUwLWZlODExM2FkZTA1YR8JBRB+LzIwMDAtMjAwNC5hc3B4HwoFBDExNzIfC2cfDGhkFCsAAhYMHwcFCzE5OTUgLSAxOTk5HwgFJDNmMjU3YjZjLTEzNGItNDY5NC1iNTVhLTdjODBiZDQ4ODYyMB8JBRB+LzE5OTUtMTk5OS5hc3B4HwoFBDEx" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="NzEfC2cfDGhkFCsAAhYMHwcFCzE5OTAgLSAxOTk0HwgFJDI5Y2Y5MTRmLTBlYTktNDZlNi05MzQ3LWJjM2Q4MzZiODQwOB8JBRB+LzE5OTAtMTk5NC5hc3B4HwoFBDExNzAfC2cfDGhkFCsAAhYMHwcFCzE5ODUgLSAxOTg5HwgFJDUzYjc4NDA1LTVlMGItNDczZS04OTJlLWVjYTA4MTk2MzIzOR8JBRB+LzE5ODUtMTk4OS5hc3B4HwoFBDExNjkfC2cfDGhkFCsAAhYMHwcFCzE5ODAgLSAxOTg0HwgFJDBiMGIyYzJlLTI1YzgtNGFhZC04NWJkLTM4NjE5OGEyZWU4OR8JBRB+LzE5ODAtMTk4NC5hc3B4HwoFBDExNzUfC2cfDGhkFCsAAhYMHwcFCzE5NzQgLSAxOTc5HwgFJDViYjAzZTVkLWEwNGEtNGExMy1iYTI4LTVlNGU4NGQ3MzJjZB8JBRB+LzE5NzQtMTk3OS5h" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="c3B4HwoFBDExNzYfC2cfDGhkBQxjdGwwMCRjdGwwNHxkAikPDxYEHwEFNWFydC1sYXlvdXQtY2VsbCBhcnQtY29udGVudCBjZW50ZXItbGVmdG1hcmdpbiBjbXN6b25lHwICAmQWAgIFD2QWAmYPZBYCAgIPZBYCAgMPZBYCAgMPZBYCAgEPZBYEAgEPDxYCHwBoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHgpDYWxsYmFja0lEBSljdGwwMCRtYWluQ29udGVudCRjdGwwMCRSYXRpbmckVXNlclJhdGluZ2QCDQ8PFgIfAGhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIfDwUvY3RsMDAkbWFpbkNvbnRlbnQkY3RsMDAkUmF0aW5nQm90dG9tJFVzZXJSYXRpbmdkAisPDxYGHwEFEXJpZ2h0c2lkZSBjbXN6b25lHwICAh8AaGRkAjkPDxYCHwBoZGQYAgUeX19Db250cm9sc1Jl" />
+<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="cXVpcmVQb3N0QmFja0tleV9fFgEFFWN0bDAwJFBhZ2VNZW51MSRjdGwwMAUVY3RsMDAkU2l0ZU1lbnUxJGN0bDAwDw9kBSRlYzViNDgyNi05MDg1LTRkNmYtOGFmMi1kYzZmYTYzZjVhM2NknZW8E+rkoATT1fsTol92u5qC+Pc=" />
+
+
+<script src="/ScriptResource.axd?d=EHWBFVSWDap_XQ_f-DdPnRIFtYlp7qloWf8E-c_pw9lbfIlFYZX-NWF4yFrDSwYWajicVe30fw0G13MBrguNr_81NuPq592ItKI_frsocFrUdcnz3xNwz2ozYPuzUBOsC1s5izc_J8Q03gn262AmXueXPgNtWKgrQkhA_5AGLCbFhnFzZLVM__0n24ZbSzxOp0n0wj8B_bG9hxoW4_qNR7FiJoXy4oUtoBiGrcXfL_WwpeE7kGOaoU2NYxyteRKrUQr7tbLf0DtSgZMo8rlPxtvLuznmM_AJMv1y3FTeWOg8-5JuhxdGCHj4y_sfQFsStPAEMOhz1CmYE58WimRbYCeUEY5oDgJV928fb645ygaQNwCwg6u0ruY0ll_5ezFnxPH2Ag2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAMpW2ZAqgMltPr5skcd8oQ7luqpT+SRPGaj6Cukd6ylp37SvcSw6rXyqq+WqxWXas99Uc9RKnSQYNPq5L2tvkHEnYGrTg==" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://davies.chem.ox.ac.uk/Default.aspx'>Steve Davies Group</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+	    
+
+<div class="AspNet-Menu-Horizontal" id="ctl00_SiteMenu1_ctl00">
+		<ul class="AspNet-Menu">
+			<li class="AspNet-Menu-Leaf">
+				<a href="/home.aspx" class="AspNet-Menu">
+					<span>Home</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/research.aspx" class="AspNet-Menu">
+					<span>Research</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf AspNet-Menu-SelectedLeaf">
+				<a href="/publications.aspx" class="AspNet-Menu AspNet-Menu-SelectedLeaf">
+					<span>Publications</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/people.aspx" class="AspNet-Menu">
+					<span>People</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/contact.aspx" class="AspNet-Menu">
+					<span>Contact</span></a>
+			</li>
+		</ul>
+
+</div>
+
+
+	    <div class="topnav">
+            <ul>
+            
+            <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+            <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+            
+            
+            
+            
+            
+            <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+            <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2f2005-2009.aspx">Sign In</a></li>
+            
+            </ul>  
+        </div>    
+        <div id="ctl00_InsecurePanel1" class="addthisbutton">
+	
+		      
+        
+</div>
+    </div>
+    <div id="wrapcenter">
+	    <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+	
+		    
+
+	<div class="AspNet-TreeView" id="ctl00_PageMenu1_ctl00">
+			<ul id="ctl00_PageMenu1_ctl00_UL">
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/2010-current.aspx">
+						2010 - current</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf AspNet-TreeView-Selected">
+					<a href="/2005-2009.aspx">
+						2005 - 2009</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/2000-2004.aspx">
+						2000 - 2004</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/1995-1999.aspx">
+						1995 - 1999</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/1990-1994.aspx">
+						1990 - 1994</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/1985-1989.aspx">
+						1985 - 1989</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/1980-1984.aspx">
+						1980 - 1984</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/1974-1979.aspx">
+						1974 - 1979</a>
+				</li>
+			</ul>
+
+	</div>
+
+
+		    <a id="startcontent"></a>
+		    
+	    
+</div>
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+            
+	        
+	        
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module2066" class=" moduletitle">SGD Publications 2005 -2009</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<p><span style="color: #000000;">(458).  Asymmetric synthesis of <em>Sedum</em> alkaloids <em>via</em> lithium amideconjugate addition<br /></span><span style="color: #000000;">Davies, S. G.; Fletcher, A. M.; Roberts, P. M.; Smith, A. D. <em>Tetrahedron</em> <strong>2009</strong>, <em>65</em>, 10192</span><span style="color: #000000;"> [<a href="http://www.sciencedirect.com/science/article/pii/S0040402009014756" target="_blank">View Journal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>457).  Ammonium-directed oxidation of cyclic allylic and homoallylic amines<br /></span><span style="color: #000000;">Bond, C. W.; Cresswell, A. J.; Davies, S. G.; Kurosawa, W.; Lee, J. A.; Fletcher, A. M.; Roberts, P. M.; Russell, A. J.; Smith, A. D.; Thomson, J. E. <em>J. Org. Chem.</em> <strong>2009</strong>, <em>74</em>, 6735</span><span style="color: #000000;"> [<a href="http://pubs.acs.org/doi/abs/10.1021/jo9012783?journalCode=joceah&amp;quickLinkVolume=74&amp;quickLinkPage=6735&amp;selectedTab=citation&amp;volume=74" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>456).  A practical and scaleable total synthesis of the jaborandi alkaloid (+)-pilocarpine<br /></span><span style="color: #000000;">Davies, S. G.; Roberts, P. M.; Stephenson, P. T.; Storr, H. R.; Thomson, J. E. <em>Tetrahedron.</em> <strong>2009</strong>, <em>65</em>, 8283 [<a href="http://www.sciencedirect.com/science/article/pii/S004040200901028X" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>455).  The dienolate aldol reaction of (<em>E</em>)-<em>N</em>-crotonoyl C(4)-isopropyl SuperQuat: asymmetric synthesis of α-vinyl-β-hydroxycarboxylic acid derivatives and conversion to α-ethylidene-β-hydroxyesters (β-substituted Baylis-Hillman products)<br /></span><span style="color: #000000;">Davies, S. G.; Elend, D. L.; Roberts, P. M.; Savory, E. D.; Smith, A. D.; Thomson, J. E. <em>Tetrahedron</em> <strong>2009</strong>, <em>65</em>, 7837 [<a href="http://www.sciencedirect.com/science/article/pii/S0040402009010242" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>454).  The chiral auxiliary <em>N</em>-1-(1'-naphthyl)ethyl-<em>O</em>-<em>tert</em>-butylhydroxylamine: a chiral Weinreb amide equivalent<br /></span><span style="color: #000000;">Chernega, A. N.; Davies, S. G.; Goodwin, C. J.; Hepworth, D.; Kurosawa, W.; Roberts, P. M.; Thomson, J. E. <em>Org. Lett. </em><strong>2009</strong>, <em>11</em>, 3254 [<a href="http://pubs.acs.org/doi/abs/10.1021/ol901174t?journalCode=orlef7&amp;quickLinkVolume=11&amp;quickLinkPage=3254&amp;selectedTab=citation&amp;volume=11" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>453).  A tandem conjugate addition/cyclisation protocol for the asymmetric synthesis of 2-aryl-4-aminotetrahydroquinoline-3-carboxylic acid derivatives<br /></span><span style="color: #000000;">Davies, S. G.; Mujtaba, N.; Roberts, P. M.; Smith, A. D.; Thomson, J. E. <em>Org. Lett.</em> <strong>2009</strong>, <em>11</em>, 1959 [<a href="http://pubs.acs.org/doi/abs/10.1021/ol9004118?journalCode=orlef7&amp;quickLinkVolume=11&amp;quickLinkPage=1959&amp;selectedTab=citation&amp;volume=11" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>452).  Hedgehog and Bmp Polarize Hematopoietic Stem Cell Emergence in the Zebrafish Dorsal Aorta<br /></span><span style="color: #000000;">Wilkinson, R. N.; Pouget, C.; Gering, M.; Russell, A. J.; Davies, S. G.; Kimelman, D.; Patient, R. <em>Developmental Cell</em> <strong>2009</strong>, <em>16</em>, 909 [<a href="http://ac.els-cdn.com/S1534580709001762/1-s2.0-S1534580709001762-main.pdf?_tid=d7a87fc0-49b2-11e2-ac16-00000aab0f01&amp;acdnat=1355904504_6d219f25268e976eaa9dac645bc3c6ed" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>451).  Carbon nanotube-ionic liquid composite sensors and biosensors<br /></span><span style="color: #000000;">Kachoosangi, R. T.; Musameh, M. M.; Abu-Yousef, I.; Kanan, S. M.; Xiao, L.; Davies, S. G.; Russell, A. J.; Compton, R. G. <em>Anal. Chem.</em> <strong>2009</strong>, <em>81</em>, 435 [<a href="http://pubs.acs.org/doi/abs/10.1021/ac801853r?journalCode=ancham&amp;quickLinkVolume=81&amp;quickLinkPage=435&amp;selectedTab=citation&amp;volume=81" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>450).  A structural study of the interaction between the Dr haemagglutinin DraE and derivatives of chloramphenicol<br /></span><span style="color: #000000;">Pettigrew, D. M.; Roversi, P.; Davies, S. G.; Russell, A. J.; Lea, S. M. <em>Acta Crystallographica D</em> <strong>2009</strong>, <em>65</em>, 513 [<a href="http://onlinelibrary.wiley.com/doi/10.1107/S0907444909005113/abstract" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>449).  Doubly diastereoselective [3,3]-sigmatropic aza-Claisen rearrangements<br /></span><span style="color: #000000;">Davies, S. G.; Garner, A. C.; Nicholson, R. L.; Osborne, J.; Roberts, P. M.; Savory, E. D.; Smith, A. D.;Thomson, J. E. <em>Org. Biomol. Chem. </em><strong>2009</strong>, <em>7</em>, 2604 [<a href="http://pubs.rsc.org/en/content/articlelanding/2009/ob/b902753j" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>448).  Iodine-mediated ring closing iodoamination with concomitant N-debenzylation for the asymmetric synthesis of polyhydroxylated pyrrolidines<br /></span><span style="color: #000000;">Davies, S. G.; Nicholson, R. L.; Price, P. D.; Roberts, P. M.; Russell, A. J.; Savory, E. D.; Smith, A. D.; Thomson, J. E. <em>Tetrahedron: Asymmetry</em> <strong>2009</strong>, <em>20</em>, 758 [<a href="http://www.sciencedirect.com/science/article/pii/S0957416609001062" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>447).  Syntheses of the racemic jaborandi alkaloids pilocarpine, isopilocarpine and pilosinine<br /></span><span style="color: #000000;">Davies, S. G.; Roberts, P. M.; Stephenson, P. T.; Thomson, J. E. <em>Tetrahedron Lett. </em><strong>2009</strong>, <em>50</em>, 3509 [<a href="http://www.sciencedirect.com/science/article/pii/S0040403909005504" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>446).  Abrogation of E-cadherin Mediated Cell-cell Contact in Mouse Embryonic Stem Cells Results in Reversible LIF-independent Self Renewal Soncin F.; Mohamet L.; Eckardt D.; Ritson S.; Eastham A. M.; Bobola N.; Russell A. J. Davies S. G.; Kelmer R.; Marry C. L.; Ward C. M. Stem Cells, <strong>2009</strong>, <em>27</em>, 2069 [<a href="http://onlinelibrary.wiley.com/doi/10.1002/stem.134/abstract" target="_blank">View Journal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>445).  Highly diastereoselective <em>anti</em>-dihydroxylation of 3-<em>N,N</em>-dibenzylamino-cyclohex-1-ene <em>N</em>-oxide<br /></span><span style="color: #000000;">Aciro, C.; Davies, S. G.; Kurosawa, W.; Roberts, P. M.; Russell, A. J.; Thomson, J. E. <em>Org. Lett. </em><strong>2009</strong>, <em>11</em>, 1333 [<a href="http://pubs.acs.org/doi/abs/10.1021/ol900114b?journalCode=orlef7&amp;quickLinkVolume=11&amp;quickLinkPage=1333&amp;selectedTab=citation&amp;volume=11" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>444).  Selective small molecule inhibitors of the potential breast cancer marker, human arylamine <em>N</em>-acetyltransferase 1, and its murine homologue, mouse arylamine <em>N</em>-acetyltransferase 2<br /></span><span style="color: #000000;">Russell, A. J.; Westwood, I. M.; Crawford, M. H. J.; Robinson, J.; Kawamura, A.; Redfield, C.; Laurieri, N.; Lowe, E. D.; Davies, S. G.; Sim, E. <em>Bioorg. Med. Chem. </em><strong>2009</strong>, <em>17</em>, 905 [<a href="http://www.sciencedirect.com/science/article/pii/S0968089608011176" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>443).  Doubly diastereoselective conjugate addition of homochiral lithium amides to homochiral α,β-unsaturated esters containing <em>cis</em>- and <em>trans</em>-dioxolane units<br /></span><span style="color: #000000;">Davies, S. G.; Durbin, M. J.; Goddard, E. C.; Kelly, P. M.; Kurosawa, W.; Lee, J. A.; Nicholson, R. L.; Price, P. D.; Roberts, P. M.; Russell, A. J.; Scott, P. M.; Smith, A. D. <em>Org. Biomol. Chem. </em><strong>2009</strong>, <em>7</em>, 761 [<a href="http://pubs.rsc.org/en/content/articlelanding/2009/ob/b818298a" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>442).  Stereoselective functionalisation of <em>cis</em>- and <em>trans</em>-2-ferrocenyl-3-pivaloyl-1,3-oxazolidin-5-ones: asymmetric synthesis of (<em>R</em>)- and (<em>S</em>)-2-alkyl-2-aminopent-4-enoic acids and (<em>2R,3S</em>)-2-amino-2-methyl-3-hydroxy-3-phenylpropanoic acid<br /></span><span style="color: #000000;">Alonso, F.; Davies, S. G.; Elend, A. S.; Leech, M. A.; Roberts, P. M.; Smith, A. D.; Thomson, J. E. <em>Org. Biomol. Chem. </em><strong>2009</strong>, <em>7</em>, 527 [<a href="http://pubs.rsc.org/en/content/articlelanding/2009/ob/b814453b" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>441).  Kinetic and thermodynamic control in the stereoselective formation of <em>trans</em>- and <em>cis</em>-2-ferrocenyl-3-pivaloyl-4-alkyl-1,3-oxazolidin-5-ones<br /></span><span style="color: #000000;">Alonso, F.; Davies, S. G.; Elend, A. S.; Smith, A. D. <em>Org. Biomol. Chem. </em><strong>2009</strong>, <em>7</em>, 518 [<a href="http://pubs.rsc.org/en/content/articlelanding/2009/ob/b814450h" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>440).  Parallel kinetic resolution of <em>tert</em>-butyl (<em>RS</em>)-6-alkyl-cyclohex-1-ene-carboxylates for the asymmetric synthesis of 6-alkyl-substituted cishexacin and transhexacin derivatives<br /></span><span style="color: #000000;">Davies, S. G.; Durbin, M. J.; Hartman, S. J. S.; Matsuno, A.; Roberts, P. M.; Russell, A. J.; Smith, A. D.; Thomson, J. E.; Toms, S. M. <em>Tetrahedron: Asymmetry</em> <strong>2008</strong>, <em>19</em>, 2870 [<a href="http://www.sciencedirect.com/science/article/pii/S0957416608007660" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>439).  Asymmetric synthesis of tetrahydrolipstatin and valilactone<br /></span><span style="color: #000000;">Case-Green, S. C.; Davies, S. G.;Roberts, P. M.; Russell, A. J.; Thomson, J. E. <em>Tetrahedron: Asymmetry</em> <strong>2008</strong>, <em>19</em>, 2620 [<a href="http://www.sciencedirect.com/science/article/pii/S0957416608007593" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>438).  Highly (<em>E</em>)-selective Wadsworth-Emmons reactions promoted by methylmagnesium bromide<br /></span><span style="color: #000000;">Claridge, T. D. W.; Davies, S. G.; Lee, J. A.; Nicholson, R. L.; Roberts, P. M.; Russell, A. J.; Smith, A. D.; Toms, S. M. <em>Org. Lett. </em><strong>2008</strong>, <em>10</em>, 5437 [<a href="http://pubs.acs.org/doi/abs/10.1021/ol802212e?journalCode=orlef7&amp;quickLinkVolume=10&amp;quickLinkPage=5437&amp;selectedTab=citation&amp;volume=10" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>437).  “Pure by NMR”?<br /></span><span style="color: #000000;">Claridge, T. D. W.; Davies, S. G.; Polywka, M. E. C.; Roberts, P. M.; Russell, A. J.; Savory, E. D.; Smith, A. D. <em>Org. Lett. </em><strong>2008</strong>, <em>10</em>, 5433 [<a href="http://pubs.acs.org/doi/abs/10.1021/ol802211p?journalCode=orlef7&amp;quickLinkVolume=10&amp;quickLinkPage=5433&amp;selectedTab=citation&amp;volume=10" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>436).  Ammonium directed dihydroxylation: metal-free synthesis of the diastereoisomers of 3-amino-cyclohexane-1,2-diol<br /></span><span style="color: #000000;">Aciro, C.; Davies, S. G.; Roberts, P. M.; Russell, A. J.; Smith, A. D.; Thomson, J. E. <em>Org. Biomol. Chem. </em><strong>2008</strong>, <em>6</em>, 3762 [<a href="http://pubs.rsc.org/en/content/articlelanding/2008/ob/b808812h" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>435).  Ammonium directed dihydroxylation of 3-amino-cyclohex-1-enes: development of a metal-free dihydroxylation protocol<br /></span><span style="color: #000000;">Aciro, C.; Claridge, T. D. W.; Davies, S. G.; Roberts, P. M.; Russell, A. J.; Thomson, J. E. <em>Org. Biomol. Chem.</em> <strong>2008</strong>, <em>6</em>, 3751 [<a href="http://pubs.rsc.org/en/content/articlelanding/2008/ob/b808811j" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>434).  Stereoselective functionalisation of SuperQuat enamides: asymmetric synthesis of homochiral 1,2-diols and α-benzyloxy carbonyl compounds<br /></span><span style="color: #000000;">Aciro, C.; Davies, S. G.; Garner, A. C.; Ishii, Y.; Key, M.-S.; Ling, K. B.; Prasad, R. S.; Roberts, P. M.; Rodriguez-Solla, H.; O’Leary-Steele, C.; Russell, A. J.; Sanganee, H. J.; Savory, E. D.; Smith, A. D.; Thomson, J. E. <em>Tetrahedron</em> <strong>2008</strong>, <em>64</em>, 9320 [<a href="http://www.sciencedirect.com/science/article/pii/S0040402008012647" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>433).  Parallel kinetic resolution of methyl (<em>RS</em>)-5-tris(phenylthio)methyl-cyclopent-1-ene-carboxylate for the asymmetric synthesis of (1<em>R</em>,2<em>S</em>,5<em>S</em>)- and (1<em>S</em>,2<em>R</em>,5<em>R</em>)-5-methyl-cispentacin<br /></span><span style="color: #000000;">Abraham, E.; Davies, S. G.; Docherty, A. J.; Ling, K. B.; Roberts, P. M.; Russell, A. J.; Thomson, J. E.; Toms, S. M. </span><span style="color: #000000;"><em>Tetrahedron: Asymmetry</em> <strong>2008</strong>, <em>19</em>, 1356 [<a href="http://www.sciencedirect.com/science/article/pii/S0957416608003522" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>432).  Jaspine B (pachastrissamine) and 2-<em>epi</em>-jaspine B: synthesis and structural assignment<br /></span><span style="color: #000000;">Abraham, E.; Davies, S. G.; Roberts, P. M.;Russell, A. J.; Thomson, J. E. <em>Tetrahedron: Asymmetry</em> <strong>2008</strong>, <em>19</em>, 1027</span><span style="color: #000000;"> [<a href="http://www.sciencedirect.com/science/article/pii/S0957416608002735" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>431).  Parallel kinetic resolution of <em>tert</em>-butyl (<em>RS</em>)-3-oxy-substituted cyclopent-1-ene-carboxylates for the asymmetric synthesis of 3-oxy-substituted cispentacin and transpentacin derivatives<br /></span><span style="color: #000000;">Aye, Y.; Davies, S. G.; Garner, A. C.; Roberts, P. M.; Smith, A. D.; Thomson, J. E. <em>Org. Biomol. Chem. </em><strong>2008</strong>, <em>6</em>, 2195 [<a href="http://pubs.rsc.org/en/content/articlelanding/2008/ob/b802428f" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>430).  Asymmetric synthesis of <em>N,O,O,O</em>-tetra-acetyl D-<em>lyxo</em>-phytosphingosine, jaspine B (pachastrissamine), C(2)-<em>epi</em>-jaspine B, and deoxoprosophylline <em>via</em> lithium amide conjugate addition<br /></span><span style="color: #000000;">Abraham, E.; Brock, E. A.; Candela-Lena, J. I.; Davies, S. G.; Georgiou, M.; Nicholson, R. L.; Perkins, J. H.; Roberts, P. M.; Russell, A. J.; Sánchez-Fernández, E. M.; Scott, P. M.; Smith, A. D.; Thomson, J. E. <em>Org. Biomol. Chem.</em> <strong>2008</strong>, <em>6</em>, 1665 [<a href="http://pubs.rsc.org/en/content/articlelanding/2008/ob/b801671b" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>429).  Asymmetric synthesis of vicinal amino alcohols: xestoaminol C, sphinganine and sphingosine<br /></span><span style="color: #000000;">Abraham, E.; Davies, S. G.; Millican, N. L.; Nicholson, R. L.; Roberts, P. M.; Smith, A. D. <em>Org. Biomol. Chem.</em><strong> 2008</strong>, <em>6</em>, 1655 [<a href="http://pubs.rsc.org/en/content/articlelanding/2008/ob/b801357h">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>428).  An oxidatively-activated safety catch linker for solid phase synthesis<br /></span><span style="color: #000000;">Davies, S. G.; Mortimer, D. A. B.; Mulvaney, A. W.; Russell, A. J.; Skarphedinsson, H.; Smith, A. D.; Vickers, R. J. </span><span style="color: #000000;"><em>Org. Biomol. Chem.</em> <strong>2008</strong>, <em>6</em>, 1625 [<a href="http://pubs.rsc.org/en/content/articlelanding/2008/ob/b802204f" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>427).  Asymmetric synthesis of <em>N,O,O,O</em>-tetra-acetyl D-<em>lyxo</em>-phytosphingosine, jaspine B (pachastrissamine) and its C(2)-epimer<br /></span><span style="color: #000000;">Abraham, E.; Candela-Lena, J. I.; Davies, S. G.; Georgiou, M.; Nicholson, R. L.; Roberts, P. M.; Russell, A. J.; Sánchez-Fernández, E. M.; Smith, A. D.; Thomson, J. E. <em>Tetrahedron: Asymmetry </em><strong>2007</strong>, <em>18</em>, 2510 [<a href="http://www.sciencedirect.com/science/article/pii/S0957416607007835" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>426).  Asymmetric synthesis of β-amino-γ-substituted-γ-butyrolactones: double diastereoselective conjugate addition of homochiral lithium amides to homochiral α,β-unsaturated esters<br /></span><span style="color: #000000;">Cailleau, T.; Cooke, J. W. B.; Davies, S. G.; Ling, K. B.; Naylor, A.; Nicholson, R. L.; Price, P. D.; Roberts, P. M.; Russell, A. J.; Smith, A. D.; Thomson, J. E. <em>Org. Biomol. Chem.</em> <strong>2007</strong>, <em>5</em>, 3922 [<a href="http://pubs.rsc.org/en/content/articlelanding/2007/ob/b712937h" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>425).  Diastereoselective Simmons-Smith cyclopropanations of allylic amines and carbamates<br /></span><span style="color: #000000;">Davies, S. G.; Ling, K. B.; Roberts, P. M.; Russell, A. J.; Thomson, J. E. <em>Chem. Commun. </em><strong>2007</strong>, 4029 [<a href="http://pubs.rsc.org/en/content/articlelanding/2007/cc/b711358g" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>424).  Electrochemical Kinetics of Ag|Ag<sup>+</sup> and TMPD|TMPD<sup>+</sup>·in the Room-Temperature Ionic Liquid [C4mpyrr][NTf2]; toward Optimizing Reference Electrodes for Voltammetry in RTILs<br /></span><span style="color: #000000;">Rogers, E. I.; Silvester, D. S.; Ward Jones, S. E.; Aldous, L.; Hardacre, C.; Russell, A. J.; Davies, S. G.; Compton, R. G. <em>J. Phys. Chem. C</em> <strong>2007</strong>, <em>111</em>, 13957 [<a href="http://pubs.acs.org/doi/abs/10.1021/jp0737754?journalCode=jpccck&amp;quickLinkVolume=111&amp;quickLinkPage=13957&amp;selectedTab=citation&amp;volume=111" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>423).  Evaluating β-amino acids as enantioselective organocatalysts of the Hajos-Parrish-Eder-Sauer-Wiechert reaction<br /></span><span style="color: #000000;">Davies, S. G.; Russell, A. J.; Sheppard, R. L.; Smith, A. D.; Thomson, J. E. <em>Org. Biomol. Chem. </em><strong>2007</strong>, <em>5</em>, 3190 [<a href="http://pubs.rsc.org/en/content/articlelanding/2007/ob/b711171a" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>422).  Parallel synthesis of β-amino acids<br /></span><span style="color: #000000;">Davies, S. G.; Mulvaney, A. W.; Russell, A. J.; Smith, A. D. <em>Tetrahedron: Asymmetry</em> <strong>2007</strong>, <em>18</em>, 1554 [<a href="http://www.sciencedirect.com/science/article/pii/S0957416607004302" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>421).  Asymmetric synthesis of β<sup>2</sup>-amino acids: 2-substituted-3-aminopropanoic acids from <em>N</em>-acryloyl SuperQuat derivatives<br /></span><span style="color: #000000;">Beddow, J. E.; Davies, S. G.; Ling, K. B.; Roberts, P. M.; Russell, A. J.; Smith, A. D.; Thomson, J. E. <em>Org. Biomol. Chem. </em><strong>2007</strong>, <em>5</em>, 2812 [<a href="http://pubs.rsc.org/en/content/articlelanding/2007/ob/b707689d" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>420).  Inhibition of mycobacterial arylamine N-acetyltransferase contributes to anti-mycobacterial activity of Warburgia salutaris<br /></span><span style="color: #000000;">Madikane, V. E.; Bhakta, S.; Russell, A. J.; Campbell, W. E.; Claridge, T. D. W.; Elisha, B. G.; Davies, S. G.; Smith, P.; Sim, E. <em>Bioorg. Med. Chem. </em><strong>2007</strong>, <em>15</em>, 3579 [<a href="http://www.sciencedirect.com/science/article/pii/S0968089607001095" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>419).  Diastereoselective synthesis of quaternary α-amino acids from diketopiperazine templates<br /></span><span style="color: #000000;">Davies, S. G.; Garner, A. C.; Ouzman, J. V. A.; Roberts, P. M.; Smith, A. D.; Snow, E. J.; Thomson, J. E.; Tamayo, J. A.; Vickers, R. J. <em>Org. Biomol. Chem. </em><strong>2007</strong>, <em>5</em>, 2138 [<a href="http://pubs.rsc.org/en/content/articlelanding/2007/ob/b704475e" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>418).  Asymmetric synthesis of 3,4-<em>anti</em>- and 3,4-<em>syn</em>-substituted aminopyrrolidines via lithium amide conjugate addition<br /></span><span style="color: #000000;">Davies, S. G.; Garner, A. C.; Goddard, E. C.; Kruchinin, D.; Roberts, P. M.; Smith, A. D.; Rodriguez-Solla, H.; Thomson, J. E.; Toms, S. M. <em>Org. Biomol. Chem. </em><strong>2007</strong>, <em>5</em>, 1961 [<a href="http://pubs.rsc.org/en/content/articlelanding/2007/ob/b704932c" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>417).  Asymmetric synthesis of β-substituted Baylis-Hillman products via lithium amide conjugate addition<br /></span><span style="color: #000000;">Chernega, A. Davies, S. G.; Elend, D. L.; Smethurst, C. A. P.; Roberts, P. M.; Smith, A. D.; Smyth, G. D. <em>Tetrahedron</em> <strong>2007</strong>, <em>63</em>, 7036 [<a href="http://www.sciencedirect.com/science/article/pii/S0040402007008459" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>416).  On the origins of diastereoselectivity in the alkylation of diketopiperazine enolates<br /></span><span style="color: #000000;">Bull, S. D.; Davies, S. G.; Garner, A. C.; Parkes, A. L.; Roberts, P. M.; Sellers, T. G. R.; Smith, A. D.; Tamayo, J. A.; Thomson, J. E.; Vickers, R. J. <em>New J. Chem. </em><strong>2007</strong>, <em>31</em>, 486 [<a href="http://pubs.rsc.org/en/content/articlelanding/2007/nj/b701628j" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>415).  Asymmetric three- and [2+1]-component conjugate addition reactions for the stereoselective synthesis of polysubstituted piperidinones<br /></span><span style="color: #000000;">Davies, S. G.; Roberts, P. M.; Smith, A. D. <em>Org. Biomol. Chem. </em><strong>2007</strong>, <em>5</em>, 1405 [<a href="http://pubs.rsc.org/en/content/articlelanding/2007/ob/b701226h" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>414).  Asymmetric synthesis of 4-amino-γ-butyrolactones via lithium amide conjugate addition<br /></span><span style="color: #000000;">Abraham, E.; Cooke, J. W. B.; Davies, S. G.; Naylor, A.; Nicholson, R. L.; Price, P. D.; Smith, A. D. <em>Tetrahedron </em><strong>2007</strong>, <em>63</em>, 5855 [<a href="http://www.sciencedirect.com/science/article/pii/S0040402007004012" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>413).  Homochiral lithium amides for the asymmetric synthesis of β-amino acids<br /></span><span style="color: #000000;">Davies, S. G.; Garrido, N. M.; Kruchinin, D.; Ichihara, O.; Kotchie, L. J.; Price, P. D.; Price Mortimer, A. J.; Russell, A. J.; Smith, A. D. <em>Tetrahedron: Asymmetry </em><strong>2006</strong>, <em>17</em>, 1793 [<a href="http://www.sciencedirect.com/science/article/pii/S0957416606003284" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>412).  SuperQuat 5,5-dimethyl-4-<em>iso</em>-propyl-oxazolidin-2-one as a mimic of Evans 4-<em>tert</em>-butyl-oxazolidin-2-one<br /></span><span style="color: #000000;">Bull, S. D.; Davies, S. G.; Garner, A. C.; Kruchinin, D.; Key, M.-S.; Roberts, P. M.; Savory, E. D.; Smith, A. D.; Thomson, J. E. <em>Org. Biomol. Chem. </em><strong>2006</strong>, <em>4</em>, 2945 [<a href="http://pubs.rsc.org/en/content/articlelanding/2006/ob/b605244d" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>411).  Enantiodiscrimination of racemic electrophiles by diketopiperazine enolates: asymmetric synthesis of methyl 2-amino-3-aryl-butanoates and 3-methyl-aspartates<br /></span><span style="color: #000000;">Bull, S. D.; Davies, S. G.; Epstein, S. W.; Garner, A. C.; Mujtaba, N.; Roberts, P. M.; Savory, E. D.; Smith, A. D.; Tamayo, J. A.; Watkin, D. J. <em>Tetrahedron </em><strong>2006</strong>, <em>62</em>, 7911 [<a href="http://www.sciencedirect.com/science/article/pii/S0040402006007988" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>410).  Oxazinanones as chiral auxiliaries: synthesis and evaluation in enolate alkylations and aldol reactions<br /></span><span style="color: #000000;">Davies, S. G.;Garner, A. C.; Roberts, P. M.; Smith, A. D.; Sweet, M. J.; Thomson, J. E. <em>Org. Biomol. Chem. </em><strong>2006</strong>, <em>4</em>, 2753 [<a href="http://pubs.rsc.org/en/content/articlelanding/2006/ob/b604073j" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>409).  Lithium amide conjugate addition for the asymmetric synthesis of 3-aminopyrrolidines<br /></span><span style="color: #000000;">Davies, S. G.; Garner, A. C.; Goddard, E. C.; Kruchinin, D.; Roberts, P. M.; Rodriguez-Solla, H; Smith, A. D. <em>Chem. Commun. </em><strong>2006</strong>, 2664 [<a href="http://pubs.rsc.org/en/content/articlelanding/2006/cc/b604835h" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>408).  Asymmetric synthesis of α-mercapto-β-amino acid derivatives: application to the synthesis of polysubstituted thiomorpholines<br /></span><span style="color: #000000;">Candela-Lena, J. I.; Davies, S. G.; Roberts, P. M.; Roux, B.; Russell, A. J.; Sanchez-Fernandez, E. M.; Smith, A. D. <em>Tetrahedron: Asymmetry </em><strong>2006</strong>, <em>17</em>, 1135 [<a href="http://www.sciencedirect.com/science/article/pii/S0957416606002412" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>407).  Asymmetric synthesis of pent-3-yl (<em>R</em>)-6-methyl-cyclohex-1-ene carboxylate<br /></span><span style="color: #000000;">Garrido, N. M.; Diez, D.; Dominguez, S. H.; Garcia, M.; Sanchez, M. R.; Davies S. G. <em>Tetrahedron: Asymmetry </em><strong>2006</strong>, <em>17</em>, 2183 [<a href="http://www.sciencedirect.com/science/article/pii/S0957416606005908" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>406).  Structure and Mechanism of Arylamine <em>N</em>-Acetyltransferases<br /></span><span style="color: #000000;">Westwood, I. M.; Kawamura, A.; Fullam, E.; Russell, A. J.; Davies, S. G.; Sim E. <em>Curr. Top. Med. Chem. </em><strong>2006</strong>, <em>6</em>, 1641 [<a href="http://www.benthamdirect.org/pages/article/1/3130050/structure-and-mechanism-of-arylamine-n-acetyltransferases.html" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>405).  Insights into the role of the liquid-liquid interface in biphasic reactions: the reaction of vitamin B<sub>12</sub>s(aq) with vicinal dibromides(oil)<br /></span><span style="color: #000000;">Davies, T. J.; Garner, A. C.; Davies, S. G.; Compton, R. G. <em>ChemPhysChem </em><strong>2005</strong>, <em>6</em>, 2633 [<a href="http://onlinelibrary.wiley.com/doi/10.1002/cphc.200500372/abstract" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>404).  Ammonium directed dihydroxylation of <em>N,N</em>-dibenzylaminocyclohex-2-ene: metal free syntheses of the diastereoisomers of 3-benzylamino-1,2-dihydroxycyclohexane<br /></span><span style="color: #000000;">Davies, S. G.; Long, M. J. C.; Smith, A. D. <em>Chem. Commun. </em><strong>2005</strong>, 4536 [<a href="http://pubs.rsc.org/en/content/articlelanding/2005/cc/b509088a" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>403).  The conjugate addition of enantiomerically pure lithium amides as homochiral ammonia equivalents: scope, limitations and synthetic applications<br /></span><span style="color: #000000;">Davies, S. G.; Price, P. D.; Smith, A. D. <em>Tetrahedron: Asymmetry </em><strong>2005</strong>, <em>16</em>, 2833 [<a href="http://www.sciencedirect.com/science/article/pii/S0957416605005926" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>402).  Kinetic Resolution and Parallel Kinetic Resolution of methyl (<em>RS</em>)-5-alkyl-cyclopentene-1-carboxylates for the asymmetric synthesis of 5-alkyl-cispentacin derivatives<br /></span><span style="color: #000000;">Davies, S. G.;Garner, A. C.; Long, M. J. C.; Morrison, R. M.; Roberts, P. M.; Savory, E. D.; Smith, A. D.; Sweet, M. J.; Withey, J. M. <em>Org. Biomol. Chem. </em><strong>2005</strong>, <em>3</em>, 2762 [<a href="http://pubs.rsc.org/en/content/articlelanding/2005/ob/b506339f" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>401).  Highly enantioselective organocatalysis of the Hajos-Parrish-Eder-Sauer-Wiechert Reaction by the β-amino acid <em>cis</em>pentacin<br /></span><span style="color: #000000;">Davies, S. G.; R. L. Sheppard, Smith, A. D.; Thomson, J. E. <em>Chem. Commun. </em><strong>2005</strong>, 3802 [<a href="http://pubs.rsc.org/en/content/articlelanding/2005/cc/b506780b" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>400).  Asymmetric conjugate reductions with samarium diiodide: asymmetric synthesis of (2<em>S</em>,3<em>R</em>)- and (2<em>S</em>,3<em>S</em>)-[2-<sup>2</sup>H,3-<sup>2</sup>H]-leucine-(<em>S</em>)-phenylalanine dipeptides and (2<em>S</em>,3<em>R</em>)-[2-<sup>2</sup>H,3-<sup>2</sup>H]-phenylalanine methyl ester<br /></span><span style="color: #000000;">Davies, S. G.; Rodriguez-Solla, H.; Tamayo, J. A.; Cowley, A. R.; Concellon, C.; Garner, A. C.; Parkes, A. L.; Smith, A. D. <em>Org. Biomol. Chem. </em><strong>2005</strong>, <em>3</em>, 1435 [<a href="http://pubs.rsc.org/en/content/articlelanding/2005/cc/b506780b" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>399).  Tandem asymmetric conjugate addition cyclisation reactions initiated by a homochiral lithium amide<br /></span><span style="color: #000000;">Davies, S. G.; Díez, D.; Dominguez, S. H.; Garrido, N. M.; Kruchinin, D.; Price, P. D.; Smith, A. D. <em>Org. Biomol. Chem. </em><strong>2005</strong>, <em>3</em>, 1284 [<a href="http://pubs.rsc.org/en/content/articlelanding/2005/ob/b500223k" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>398).  A SuperQuat glycolate aldol approach to the asymmetric synthesis of hexose monosaccharides<br /></span><span style="color: #000000;">Davies, S. G.; Nicholson, R. L.; Smith, A. D. <em>Org. Biomol. Chem. </em><strong>2005</strong>, <em>3</em>, 348 [<a href="http://pubs.rsc.org/en/content/articlelanding/2005/ob/b415943h" target="_blank">View Jounal Page</a>]</span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">(</span>397).  A Comparative Electrochemical Study of Diffusion in Room Temperature Ionic Liquid Solvents versus Acetonitrile<br /></span><span style="color: #000000;">Evans, R. G.; Klymenko, O. V.; Price, P. D.; Davies, S. G.; Hardacre, C.; Compton R. G. <em>ChemPhysChem </em><strong>2005</strong>, <em>6</em>, 526 [<a href="http://onlinelibrary.wiley.com/doi/10.1002/cphc.200400549/abstract" target="_blank">View Jounal Page</a>]</span></p>
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+
+
+</div>
+
+	    
+</div>
+	    		
+	</div>
+	<div id="wrapfooter">
+	    <br class="clear" />
+	    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+	    <a href='/2005-2009.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> | 
+	    &copy; 2008 - 2015 Department of Chemistry - University of Oxford
+	    <br /><br />
+		<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+		<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+		<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://davies.chem.ox.ac.uk/csshandler.ashx?skin=styleshout-techmania'  title='Valid CSS'>CSS</a> |
+        <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+	</div>
+</div>
+<script type="text/javascript">
+function HideMenuToolbar(){ $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow");}
+function ShowMenuToolbar(){ $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow");}
+$(document).ready(function(){ 
+  $("span.downarr a").click(function() {HideMenuToolbar(); Set_Cookie('openstate', 'closed')});
+  $("span.showbar a").click(function() {ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+  $("span.downarr a, span.showbar a").click(function() { return false; });	
+	var openState = Get_Cookie('openstate');
+	if(openState != null){ if(openState == 'closed'){HideMenuToolbar();} if(openState == 'open'){ShowMenuToolbar();}}
+});	
+</script>
+
+
+<div>
+	<input type="hidden" name="ctl00$ctl04" id="ctl00_ctl04" />
+</div>
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

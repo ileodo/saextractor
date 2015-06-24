@@ -1,0 +1,453 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://gmpg.org/xfn/11">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+<title>  New issue of Policy and Internet (2,3) | The Policy and Internet Blog</title>
+
+	<link rel="stylesheet" type="text/css" media="all" href="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/style.css" />
+	
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://blogs.oii.ox.ac.uk/policy/feed/" />	
+	<link rel="pingback" href="http://blogs.oii.ox.ac.uk/policy/xmlrpc.php" />
+
+	<link rel="alternate" type="application/rss+xml" title="The Policy and Internet Blog &raquo; Feed" href="http://blogs.oii.ox.ac.uk/policy/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Policy and Internet Blog &raquo; Comments Feed" href="http://blogs.oii.ox.ac.uk/policy/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/blogs.oii.ox.ac.uk\/policy\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sociablecss-css'  href='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/css/sociable.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-623501-12']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/js/sociable.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/js/vuible.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/js/addtofavorites.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/jetpack/modules/related-posts/related-posts.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/contentslider.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/slides.min.jquery.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/jCarouselLite.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/jquery.tools.min.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/flowplayer/flowplayer-3.2.6.min.js'></script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/inc/js/superfish-1.4.8.js'></script>
+<link rel='prev' title='Internet, Politics, Policy 2010: Wrap-Up' href='http://blogs.oii.ox.ac.uk/policy/internet-politics-policy-2010-wrap-up/' />
+<link rel='next' title='Last 2010 issue of Policy and Internet just published (2,4)' href='http://blogs.oii.ox.ac.uk/policy/new-issue-of-policy-and-internet/' />
+<link rel='canonical' href='http://blogs.oii.ox.ac.uk/policy/new-issue-of-policy-and-internet-23/' />
+<link rel='shortlink' href='http://blogs.oii.ox.ac.uk/policy/?p=121' />
+<!-- Graceful Pull-Quotes plugin v2.6.1 -->
+	<link rel="stylesheet" href="http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/graceful-pull-quotes/resources/jspullquotes-core.css" type="text/css" />
+	<link rel="stylesheet" href="http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/graceful-pull-quotes/styles/Default.css" type="text/css" />
+	<script type="text/javascript">
+		var jspq_options = new Array("1", "1", "right", "1", "1", "aside", "pullquote", "pullquote pqRight");
+	</script>
+	<script type="text/javascript" src="http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/graceful-pull-quotes/resources/jspullquotes.js"></script>
+<!-- end pull-quote additions -->
+<link type="text/css" rel="stylesheet" href="http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/simple-pull-quote/css/simple-pull-quote.css" />
+<script type='text/javascript'>var base_url_sociable = 'http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/'</script><script type='text/javascript' src='http://apis.google.com/js/plusone.js'></script><style type='text/css'>img#wpstats{display:none}</style><link href="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/styles/default.css" rel="stylesheet" type="text/css" />
+
+	<script type='text/javascript'>
+	(function($) {
+		$(document).ready(function() { 
+			
+			$('a[href=#top]').click(function(){	$('html, body').animate({scrollTop:0}, 'slow');	return false; });		
+			
+							$("#mediabar .container").jCarouselLite({
+											auto:5000,
+										scroll: 2,
+					speed: 1000,	
+					visible: 4,
+					start: 0,
+					circular: false,
+					btnPrev: "#previous_button",
+					btnNext: "#next_button"
+				});
+						
+			$('#slides').slides({
+								preload: true,
+				autoHeight: true
+			});			
+			
+			$("ul.tabs").tabs("div.panes > div");
+			$("ul.sc_tabs").tabs("div.sc_tabs-content > div");
+		});
+	})(jQuery);
+	</script>
+<link rel="shortcut icon" href="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/framework/admin//images/favicon.ico" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	
+	
+			<link rel="stylesheet" type="text/css" media="all" href="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/custom.css" />
+		
+
+	<!--[if lte IE 8]>
+		<style type="text/css" media="screen">
+			.like {display:none}
+		</style>
+	<![endif]-->
+
+
+</head>
+
+<body class="single single-post postid-121 single-format-standard custom-background">
+
+<div id="wrapper">
+
+	<div id="header">	
+		<div id="masthead">
+			<ul id="menu-masthead" class="mastheadnav dropdown"><li id="menu-item-2510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2510"><a href="http://blogs.oii.ox.ac.uk/policy/authors/">Authors</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2519"><a href="http://blogs.oii.ox.ac.uk/policy/all-posts/">All posts</a></li>
+</ul>	
+			 
+			<div id="search">
+				<form id="searchform" action="http://blogs.oii.ox.ac.uk/policy/">
+	<fieldset>
+		<input type="text" id="s" name="s" value="Search in site..." onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;"/>
+		<input type="image" id="searchsubmit" src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/images/button_go.gif" alt="Search in site..." /> 
+	</fieldset>
+</form>
+			</div><!-- /search -->
+			<div class="clear"></div>
+		</div>
+		
+				<div id="logo-wrapper">
+		
+		
+		<div id="logo" style="padding:15px 0 10px 0px;">
+		
+							<h1>
+					<a href="http://blogs.oii.ox.ac.uk/policy" title="The Policy and Internet Blog">
+						The Policy and Internet Blog						<span>Understanding public policy online</span>
+					</a>
+				</h1>
+					</div><!-- /logo -->
+		
+		<div id="sub-logos">
+		<!-- OII / OU -->
+		<div id="oxford">
+		<a href="http://www.ox.ac.uk"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/images/oxford_pos.png"  width="90" height="90" alt="Oxford University"  /></a>
+		</div>
+		<div id="oii">
+		<a href="http://www.oii.ox.ac.uk"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/themes/_linepress/images/oii_pos.png"  alt="Oxford Internet Institute" /></a>
+		</div>
+		</div>
+		
+		</div>
+		
+		<!-- div id="banner">
+					</div -->
+			
+					<div class="clear"></div>		
+		
+		<div id="mainmenu">
+			<ul class="mainnav dropdown">
+				<li ><a href="http://blogs.oii.ox.ac.uk/policy/" title="Understanding public policy online">Home</a></li>
+				<li id="menu-item-917" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-917"><a href="http://blogs.oii.ox.ac.uk/policy/category/politics-government/">Politics &#038; Government</a></li>
+<li id="menu-item-1121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1121"><a href="http://blogs.oii.ox.ac.uk/policy/category/law-regulation/">Law &#038; Regulation</a></li>
+<li id="menu-item-3199" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3199"><a href="http://blogs.oii.ox.ac.uk/policy/category/ethics/">Ethics</a></li>
+<li id="menu-item-920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-920"><a href="http://blogs.oii.ox.ac.uk/policy/category/health/">Health</a></li>
+<li id="menu-item-978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-978"><a href="http://blogs.oii.ox.ac.uk/policy/category/education/">Education</a></li>
+<li id="menu-item-1120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1120"><a href="http://blogs.oii.ox.ac.uk/policy/category/development/">Development</a></li>
+			</ul>
+		</div>
+		
+		<div id="submenu">
+			<ul class="subnav dropdown">
+									<li><a target="_blank" class="gab_rss" href="http://blogs.oii.ox.ac.uk/policy/feed/" rel="nofollow" title="Subscribe to latest posts in RSS">RSS for Entries</a></li>
+					
+										
+											<li><a target="_blank" class="gab_twitter" href="https://twitter.com/policyinternet" rel="nofollow" title="follow on twitter">Follow on Twitter</a></li>
+										
+											<li><a target="_blank" class="gab_facebook" href="https://www.facebook.com/oiioxford" rel="nofollow" title="Connect on facebook">Connect on Facebook</a></li>
+										
+					<li class="date">
+						<script type="text/javascript">
+							var mydate=new Date()
+							var year=mydate.getYear()
+							if (year < 1000)
+							year+=1900
+							var day=mydate.getDay()
+							var month=mydate.getMonth()
+							var daym=mydate.getDate()
+							if (daym<10)
+							daym="0"+daym
+							var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+							var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+							document.write(""+dayarray[day]+", "+montharray[month]+" "+daym+", "+year+"")
+						</script>
+					</li>
+							</ul>		
+		
+		</div>
+		<div class="clear"></div>
+	</div><!-- /header -->	<div id="container">
+				<div id="post-121" class="entry post-121 post type-post status-publish format-standard hentry category-uncategorized tag-broadband tag-campaigning tag-digital-divides tag-digital-goods tag-e-government tag-governance tag-regulation">
+			
+			<div class="singleEntryDate">
+			4 November 2010			</div>
+			<h1 class="entry_title">New issue of Policy and Internet (2,3)</h1>
+
+			<div class="metasingle"> 
+				<span class="postCategory">Filed under: <a href="http://blogs.oii.ox.ac.uk/policy/category/uncategorized/" rel="category tag">Uncategorized</a></span>
+				 
+			</div><!-- /metas -->
+			
+			
+			
+			<div class="author" style="padding-bottom: 0.3em;">
+				<div style="float:left; padding-right:0.3em;">By </div>
+				<a href="http://blogs.oii.ox.ac.uk/policy/author/david/" title="Posts by David Sutcliffe" class="url fn" rel="author">David Sutcliffe</a>			</div>
+			
+			<div class="customSummary clearfix"></div><div class="clear"></div><p>Welcome to the third issue of Policy &amp; Internet for 2010. We are pleased to present five articles focusing on substantive public policy issues arising from widespread use of the Internet: regulation of trade in virtual goods; development of electronic government in Korea; online policy discourse in UK elections; regulatory models for broadband technologies in the US; and alternative governance frameworks for open ICT standards.</p>
+<p>Three of the articles are the first to be published from the highly successful conference &#8216;<a href="http://microsites.oii.ox.ac.uk/ipp2010/">Internet, Politics and Policy</a>&#8216; held by the journal in Oxford, 16th-17th September 2010. You may access any of the articles below at no charge.</p>
+<p>Helen Margetts: <a href="http://www.psocommons.org/policyandinternet/vol2/iss3/art1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.psocommons.org/policyandinternet/vol2/iss3/art1', 'Editorial']);" title="Editorial">Editorial</a></p>
+<p>Vili Lehdonvirta and Perttu Virtanen: <a href="http://www.psocommons.org/policyandinternet/vol2/iss3/art2" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.psocommons.org/policyandinternet/vol2/iss3/art2', 'A New Frontier in Digital Content Policy: Case Studies in the Regulation of Virtual Goods and Artificial Scarcity']);" title="A New Frontier in Digital Content Policy: Case Studies in the Regulation of Virtual Goods and Artificial Scarcity">A New Frontier in Digital Content Policy: Case Studies in the Regulation of Virtual Goods and Artificial Scarcity</a></p>
+<p>Joon Hyoung Lim: <a href="http://www.psocommons.org/policyandinternet/vol2/iss3/art3" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.psocommons.org/policyandinternet/vol2/iss3/art3', 'Digital Divides in Urban E-Government in South Korea: Exploring Differences in Municipalities’ Use of the Internet for Environmental Governance']);" title="Digital Divides in Urban E-Government in South Korea: Exploring Differences in Municipalities’ Use of the Internet for Environmental Governance">Digital Divides in Urban E-Government in South Korea: Exploring Differences in Municipalities’ Use of the Internet for Environmental Governance</a></p>
+<p>Darren G. Lilleker and Nigel A. Jackson: <a href="http://www.psocommons.org/policyandinternet/vol2/iss3/art4" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.psocommons.org/policyandinternet/vol2/iss3/art4', 'Towards a More Participatory Style of Election Campaigning: The Impact of Web 2.0 on the UK 2010 General Election']);" title="Towards a More Participatory Style of Election Campaigning: The Impact of Web 2.0 on the UK 2010 General Election">Towards a More Participatory Style of Election Campaigning: The Impact of Web 2.0 on the UK 2010 General Election</a></p>
+<p>Michael J. Santorelli: <a href="http://www.psocommons.org/policyandinternet/vol2/iss3/art5" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.psocommons.org/policyandinternet/vol2/iss3/art5', 'Regulatory Federalism in the Age of Broadband: A U.S. Perspective']);" title="Regulatory Federalism in the Age of Broadband: A U.S. Perspective">Regulatory Federalism in the Age of Broadband: A U.S. Perspective</a></p>
+<p>Laura DeNardis: <a href="http://www.psocommons.org/policyandinternet/vol2/iss3/art6" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.psocommons.org/policyandinternet/vol2/iss3/art6', 'E-Governance Policies for Interoperability and Open Standards']);" title="E-Governance Policies for Interoperability and Open Standards">E-Governance Policies for Interoperability and Open Standards</a></p>
+<!-- Start Sociable --><div class="sociable"><div class="sociable_tagline">Share this article</div><ul class='clearfix'><li><a href="http://twitter.com/intent/tweet?text=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29%20-%20http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F%20  " onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://twitter.com/intent/tweet?text=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29%20-%20http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F%20  ', '']);" title="Twitter" class="option1_32" style="background-position:-288px -32px" rel="nofollow" target="_blank"></a></li><li><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;t=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.facebook.com/share.php?u=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;t=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29', '']);" title="Facebook" class="option1_32" style="background-position:-96px 0px" rel="nofollow" target="_blank"></a></li><li><a href="https://mail.google.com/mail/?view=cm&fs=1&to&su=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&body=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&ui=2&tf=1&shva=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to&amp;su=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;body=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;ui=2&amp;tf=1&amp;shva=1', '']);" title="email" class="option1_32" style="background-position:-160px 0px" rel="nofollow" target="_blank"></a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;source=The+Policy+and+Internet+Blog+Understanding+public+policy+online&amp;summary=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;source=The+Policy+and+Internet+Blog+Understanding+public+policy+online&amp;summary=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect', '']);" title="LinkedIn" class="option1_32" style="background-position:-288px 0px" rel="nofollow" target="_blank"></a></li></ul><div onMouseout="fixOnMouseOut(this,event,'post-121')" id="sociable-post-121" style="display:none;">   
+
+    <div style="top: auto; left: auto; display: block;" id="sociable">
+
+
+
+		<div class="popup">
+
+			<div class="content">
+
+				<ul><li style="heigth:32px;width:32px"><a href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;t=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;t=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29', '']);" title="Myspace" class="option1_32" style="background-position:0px -32px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://delicious.com/post?url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;notes=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://delicious.com/post?url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;notes=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect', '']);" title="Delicious" class="option1_32" style="background-position:-32px 0px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;bodytext=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;bodytext=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect', '']);" title="Digg" class="option1_32" style="background-position:-64px 0px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://reddit.com/submit?url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://reddit.com/submit?url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29', '']);" title="Reddit" class="option1_32" style="background-position:-128px -32px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.stumbleupon.com/submit?url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29', '']);" title="StumbleUpon" class="option1_32" style="background-position:-224px -32px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a onClick="javascript:var%20ipinsite='Good%20Vibes.%20Vuible.com',ipinsiteurl='http://vuible.com/';(function(){if(window.ipinit!==undefined){ipinit();}else{document.body.appendChild(document.createElement('script')).src='http://vuible.com/wp-content/themes/ipinpro/js/ipinit.js';}})();" style="cursor:pointer" rel="nofollow" title="Vuible.com | Share positive messages (images and videos only)"><a  title='Vuible.com | Share positive messages (images and videos only)'> <img style='' src='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/images/option1/32/vuible.png'></a></a></li><li style="heigth:32px;width:32px"><a href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;annotation=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;annotation=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect', '']);" title="Google Bookmarks" class="option1_32" style="background-position:-192px 0px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;t=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;t=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29', '']);" title="HackerNews" class="option1_32" style="background-position:-256px 0px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://reporter.es.msn.com/?fn=contribute&amp;Title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;URL=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;cat_id=6&amp;tag_id=31&amp;Remark=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://reporter.es.msn.com/?fn=contribute&amp;Title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;URL=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;cat_id=6&amp;tag_id=31&amp;Remark=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect', '']);" title="MSNReporter" class="option1_32" style="background-position:-352px 0px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;Title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;Title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29', '']);" title="BlinkList" class="option1_32" style="background-position:0px 0px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://sphinn.com/index.php?c=post&amp;m=submit&amp;link=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://sphinn.com/index.php?c=post&amp;m=submit&amp;link=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F', '']);" title="Sphinn" class="option1_32" style="background-position:-192px -32px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://posterous.com/share?linkto=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;selection=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://posterous.com/share?linkto=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;selection=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect', '']);" title="Posterous" class="option1_32" style="background-position:-64px -32px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;t=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;s=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;t=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;s=Welcome%20to%20the%20third%20issue%20of%20Policy%20%26amp%3B%20Internet%20for%202010.%20We%20are%20pleased%20to%20present%20five%20articles%20focusing%20on%20substantive%20public%20policy%20issues%20arising%20from%20widespread%20use%20of%20the%20Internet%3A%20regulation%20of%20trade%20in%20virtual%20goods%3B%20development%20of%20elect', '']);" title="Tumblr" class="option1_32" style="background-position:-256px -32px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a href="http://www.google.com/reader/link?url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;srcURL=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;srcTitle=The+Policy+and+Internet+Blog+Understanding+public+policy+online" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.google.com/reader/link?url=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;title=New%20issue%20of%20Policy%20and%20Internet%20%282%2C3%29&amp;srcURL=http%3A%2F%2Fblogs.oii.ox.ac.uk%2Fpolicy%2Fnew-issue-of-policy-and-internet-23%2F&amp;srcTitle=The+Policy+and+Internet+Blog+Understanding+public+policy+online', '']);" title="Google Reader" class="option1_32" style="background-position:-224px 0px" rel="nofollow" target="_blank"></a></li><li style="heigth:32px;width:32px"><a class="option1_32" style="cursor:pointer;background-position:-128px 0px" rel="nofollow" title="Add to favorites - doesn't work in Chrome"  onClick="javascript:AddToFavorites();"></a></li><li style="heigth:32px;width:32px"><a style="cursor:poainter" rel="nofollow"   onMouseOver="more(this,'post-121')"><img  src="http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/images/option1/32/more.png" title="LinkedIn" alt="LinkedIn" /></a></li></ul>			
+
+			</div>        
+
+		  <a style="cursor:pointer" onclick="hide_sociable('post-121',true)" class="close">
+
+		  <img onclick="hide_sociable('post-121',true)" title="close" src="http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/sociable/images/closelabel.png">
+
+		  </a>
+
+		</div>
+
+	</div> 
+
+  </div></div><div class='sociable' style='float:none'><ul class='clearfix'><li id="Google_p"><g:plusone annotation="bubble" href="http://blogs.oii.ox.ac.uk/policy/new-issue-of-policy-and-internet-23/" size="medium"></g:plusone></li></ul></div><!-- End Sociable --><div>
+					<br />
+					<p><em>Note: This article gives the views of the authors, and not the position of the Policy and Internet Blog, nor of the Oxford Internet Institute.</em></p>
+				</div><div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related posts</em></h3>
+</div>	
+			<div class="clear"></div>		
+			
+					
+		</div><!-- /post -->
+
+
+
+				
+		
+		
+<div id="comments">
+	
+	
+	
+	
+	
+	
+</div><!-- #comments -->	</div><!-- /container -->
+	
+
+	<div id="sidebar">
+		<div id="text-11" class="widget widget_text"><div class="widgetinner"><h3 class="widgettitle">ABOUT THIS BLOG</h3>
+			<div class="textwidget"><p>This blog investigates the relationship between the Internet and public policy. It covers work by the <a href="http://www.oii.ox.ac.uk/">Oxford Internet Institute</a>, and work published in its journal Policy &amp; Internet (Wiley-Blackwell).</p>
+<p><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/uploads/2013/04/cover.gif" class="alignleft" alt="Policy and Internet journal" /><a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1944-2866/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1944-2866/', 'Policy &amp; Internet']);" >Policy &amp; Internet</a> calls for papers that present genuinely new approaches to policy questions or problems relating to the Internet and related ICTs. Ed-in-Chief: Helen Margetts. <a href="http://mc.manuscriptcentral.com/POI" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://mc.manuscriptcentral.com/POI', 'Submit your paper']);" >Submit your paper</a>.<br />
+<a href="http://mc.manuscriptcentral.com/POI" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://mc.manuscriptcentral.com/POI', '']);" title="Submit your paper to Policy and Internet"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/uploads/2013/10/Submit-paper.png" style="clear:both"  /></a></p>
+<hr />
+</div>
+		</div></div>
+		<div id="recent-posts-4" class="widget widget_recent_entries"><div class="widgetinner">		<h3 class="widgettitle">Latest posts</h3>
+		<ul>
+					<li>
+				<a href="http://blogs.oii.ox.ac.uk/policy/digital-disconnect-parties-pollsters-and-political-analysis-in-ge2015/">Digital Disconnect: Parties, Pollsters and Political Analysis in #GE2015</a>
+						</li>
+					<li>
+				<a href="http://blogs.oii.ox.ac.uk/policy/political-polarization-on-social-media-do-birds-of-a-feather-flock-together-on-twitter/">Political polarization on social media: do birds of a feather flock together on Twitter?</a>
+						</li>
+					<li>
+				<a href="http://blogs.oii.ox.ac.uk/policy/tracing-our-every-move-big-data-and-multi-method-research/">Tracing our every move: Big data and multi-method research</a>
+						</li>
+					<li>
+				<a href="http://blogs.oii.ox.ac.uk/policy/after-dinner-the-best-time-to-create-1-5-million-dollars-of-ground-breaking-science/">After dinner: the best time to create 1.5 million dollars of ground-breaking science</a>
+						</li>
+					<li>
+				<a href="http://blogs.oii.ox.ac.uk/policy/how-can-big-data-be-used-to-advance-dementia-research/">How can big data be used to advance dementia research?</a>
+						</li>
+				</ul>
+		</div></div>
+<div id="text-28" class="widget widget_text"><div class="widgetinner">			<div class="textwidget"><a href="http://blogs.oii.ox.ac.uk/policy/all-posts/">View all posts</a></div>
+		</div></div>
+<div class="widget"></div><div id="text-6" class="widget widget_text"><div class="widgetinner"><h3 class="widgettitle">Elections and the Internet</h3>
+			<div class="textwidget"><a href="http://elections.oii.ox.ac.uk/" title="Elections and the Internet"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/uploads/2015/04/0252w-1.jpg" width="298" /></a>Visit the OII's <a href="http://elections.oii.ox.ac.uk/" title="Elections and the Internet">Elections and the Internet</a> website: exploring the extent to which data from the social web can be used to predict interesting social and political phenomena, especially elections.</div>
+		</div></div>
+<div id="text-26" class="widget widget_text"><div class="widgetinner"><h3 class="widgettitle">Special series: big data for policy</h3>
+			<div class="textwidget"><a href="http://blogs.oii.ox.ac.uk/policy/tag/big-data/"><img src="http://blogs.oii.ox.ac.uk/policy/wp-content/uploads/2013/11/big-data.jpg"></a></div>
+		</div></div>
+<div class="widget"></div> 
+	</div><!-- End of sidebar -->
+
+	<div class="clear"></div>
+
+</div><!-- end of wrapper -->
+
+
+<div id="footer">
+	<div id="footerinner">
+	
+		<div id="foo_widget1">
+			<div id="rss-2" class="widget widget_rss"><div class="widgetinner"><h3 class="widgettitle"><a class='rsswidget' href='http://feeds.feedburner.com/oiinews?format=xml'><img style='border:0' width='14' height='14' src='http://blogs.oii.ox.ac.uk/policy/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.oii.ox.ac.uk/news/feed/'>Latest OII News</a></h3>
+<ul><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/LY1gBq0UeS4/'>Call for Abstracts: CSS&#039;15</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/1POiBaWHfLY/'>Career Achievement Award for the OII&#039;s Grant Blank</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/XDoP6nLy3QI/'>Social Experiments</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/IJa1Gpclnts/'>Read the Latest OII News</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/gnm65Zsodkg/Tangible_Outcomes_of_Internet_Use.pdf'>New Report: Measuring Outcomes of Internet Use</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiinews/~3/VXwT65qVifs/'>CfP: Responsibilities of Online Service Providers</a></li></ul></div></div>
+		</div>
+
+		<div id="foo_widget2">
+			<div id="rss-3" class="widget widget_rss"><div class="widgetinner"><h3 class="widgettitle"><a class='rsswidget' href='http://feeds.feedburner.com/oiievents?format=xml'><img style='border:0' width='14' height='14' src='http://blogs.oii.ox.ac.uk/policy/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.oii.ox.ac.uk/events/feed/'>Forthcoming OII Events</a></h3>
+<ul><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiievents/~3/VXwT65qVifs/'>Workshop &quot;Understanding the Responsibilities of Online Service Providers in Information Societies&quot;</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiievents/~3/LY1gBq0UeS4/'>CCS&#039;15 Satellite Workshop on Computational Social Science</a></li><li><a class='rsswidget' href='http://feedproxy.google.com/~r/oiievents/~3/iBpVxw-Ykr8/'>#FAIL!  Things that didn&#039;t work out in social media research –  and what we can learn from them</a></li></ul></div></div>
+			<div class="clear"></div>
+		</div>
+		
+		<div id="foo_widget3">	
+			<div id="tag_cloud-3" class="widget widget_tag_cloud"><div class="widgetinner"><h3 class="widgettitle">Blog Tags</h3>
+<div class="tagcloud"><a href='http://blogs.oii.ox.ac.uk/policy/tag/activism/' class='tag-link-15' title='10 topics' style='font-size: 15.604938271605pt;'>activism</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/agenda-setting/' class='tag-link-16' title='10 topics' style='font-size: 15.604938271605pt;'>agenda-setting</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/arab-spring/' class='tag-link-18' title='3 topics' style='font-size: 8pt;'>Arab Spring</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/big-data/' class='tag-link-107' title='21 topics' style='font-size: 20.79012345679pt;'>big data</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/broadband/' class='tag-link-20' title='8 topics' style='font-size: 14.049382716049pt;'>broadband</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/campaigning/' class='tag-link-22' title='9 topics' style='font-size: 14.913580246914pt;'>campaigning</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/censorship/' class='tag-link-23' title='6 topics' style='font-size: 12.320987654321pt;'>censorship</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/child-protection/' class='tag-link-24' title='7 topics' style='font-size: 13.185185185185pt;'>child protection</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/china/' class='tag-link-108' title='8 topics' style='font-size: 14.049382716049pt;'>China</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/collective-action/' class='tag-link-26' title='18 topics' style='font-size: 19.753086419753pt;'>collective action</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/crisis/' class='tag-link-28' title='3 topics' style='font-size: 8pt;'>crisis</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/crowd-sourcing/' class='tag-link-30' title='20 topics' style='font-size: 20.444444444444pt;'>crowd sourcing</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/cybersecurity/' class='tag-link-32' title='3 topics' style='font-size: 8pt;'>cybersecurity</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/data-sharing/' class='tag-link-34' title='6 topics' style='font-size: 12.320987654321pt;'>data-sharing</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/data-protection/' class='tag-link-33' title='13 topics' style='font-size: 17.506172839506pt;'>data protection</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/data-science/' class='tag-link-178' title='25 topics' style='font-size: 22pt;'>data science</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/democracy/' class='tag-link-35' title='6 topics' style='font-size: 12.320987654321pt;'>democracy</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/development-2/' class='tag-link-141' title='4 topics' style='font-size: 9.7283950617284pt;'>development</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/digital-divides/' class='tag-link-39' title='7 topics' style='font-size: 13.185185185185pt;'>digital divides</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/digital-goods/' class='tag-link-41' title='7 topics' style='font-size: 13.185185185185pt;'>digital goods</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/economics-2/' class='tag-link-123' title='12 topics' style='font-size: 16.814814814815pt;'>economics</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/elections/' class='tag-link-121' title='6 topics' style='font-size: 12.320987654321pt;'>elections</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/governance/' class='tag-link-51' title='13 topics' style='font-size: 17.506172839506pt;'>governance</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/government/' class='tag-link-135' title='9 topics' style='font-size: 14.913580246914pt;'>government</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/ict4d/' class='tag-link-126' title='4 topics' style='font-size: 9.7283950617284pt;'>ICT4D</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/ipp2010/' class='tag-link-151' title='7 topics' style='font-size: 13.185185185185pt;'>ipp2010</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/ipp2012/' class='tag-link-152' title='4 topics' style='font-size: 9.7283950617284pt;'>ipp2012</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/media/' class='tag-link-58' title='4 topics' style='font-size: 9.7283950617284pt;'>media</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/mena/' class='tag-link-157' title='8 topics' style='font-size: 14.049382716049pt;'>MENA</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/mena-wikipedia/' class='tag-link-168' title='5 topics' style='font-size: 11.111111111111pt;'>MENA-Wikipedia</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/mobilisation/' class='tag-link-59' title='4 topics' style='font-size: 9.7283950617284pt;'>mobilisation</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/networks/' class='tag-link-61' title='7 topics' style='font-size: 13.185185185185pt;'>networks</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/news-media/' class='tag-link-139' title='4 topics' style='font-size: 9.7283950617284pt;'>news media</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/open-data/' class='tag-link-64' title='4 topics' style='font-size: 9.7283950617284pt;'>open data</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/participation/' class='tag-link-65' title='8 topics' style='font-size: 14.049382716049pt;'>participation</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/personal-data/' class='tag-link-66' title='13 topics' style='font-size: 17.506172839506pt;'>personal data</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/politics/' class='tag-link-132' title='5 topics' style='font-size: 11.111111111111pt;'>politics</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/privacy/' class='tag-link-69' title='12 topics' style='font-size: 16.814814814815pt;'>privacy</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/regulation/' class='tag-link-71' title='12 topics' style='font-size: 16.814814814815pt;'>regulation</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/representation/' class='tag-link-72' title='7 topics' style='font-size: 13.185185185185pt;'>representation</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/social-media/' class='tag-link-77' title='18 topics' style='font-size: 19.753086419753pt;'>social media</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/trust/' class='tag-link-82' title='4 topics' style='font-size: 9.7283950617284pt;'>trust</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/twitter/' class='tag-link-83' title='8 topics' style='font-size: 14.049382716049pt;'>Twitter</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/voting/' class='tag-link-88' title='4 topics' style='font-size: 9.7283950617284pt;'>voting</a>
+<a href='http://blogs.oii.ox.ac.uk/policy/tag/wikipedia/' class='tag-link-143' title='6 topics' style='font-size: 12.320987654321pt;'>Wikipedia</a></div>
+</div></div>
+		</div>
+		
+		<div class="clear"></div>
+		
+	</div><!-- /footerinner -->
+</div><!-- /footer -->
+
+<div id="footer_data">
+	<div id="footer-left-side">
+		Contact the editors: <a href="mailto:policyandinternet@oii.ox.ac.uk">policyandinternet@oii.ox.ac.uk</a>	</div><!-- #site-info -->
+			
+	<div id="footer-right-side">
+		<a href="http://blogs.oii.ox.ac.uk/policy/wp-login.php">Log in</a> - 			
+				 
+			<div style="display:none">
+	</div>
+
+	<div id="fb-root"></div>
+	<script type='text/javascript'>
+	<!--
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	// -->
+	</script><script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blogs.oii.ox.ac.uk/policy/wp-content/plugins/jetpack/modules/wpgroho.js'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201525.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'89499687',post:'121',tz:'0',srv:'blogs.oii.ox.ac.uk'} ]);
+	_stq.push([ 'clickTrackerInit', '89499687', '121' ]);
+</script>
+	</div> <!-- #footer-right-side -->
+	<div class="clear"></div>
+</div><!-- /footer_data -->
+
+
+
+
+
+
+
+
+</body>
+</html>

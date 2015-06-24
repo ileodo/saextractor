@@ -1,0 +1,294 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <title>Flexible working, Personnel Services site</title>
+<!-- three column -->
+
+    <link rel="icon" type="image/gif" href="/media/global/wwwadminoxacuk/styleassets/images/favicon.gif" />
+    <link rel="shortcut icon" type="image/gif" href="/media/global/wwwadminoxacuk/styleassets/images/favicon.gif" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="Cache-Control" content="max-age=10800" />
+    <meta name="description" content="Flexible working, Personnel Services site" />
+    <meta name="keywords" content="Human resources, HR, Personnel, staff, employees, staff and employees, employment, " />
+    <meta http-equiv="imagetoolbar" content="No" />
+    <meta name="DC.Author" content="Personnel Services" />
+    <meta name="DC.Coverage" content="unlimited" />
+    <meta name="DC.Creator" content="University of Oxford" />
+    <meta name="DC.Date.modified" content="20 May 15" />
+    <meta name="DC.Description" content="Flexible working, Personnel Services site" />
+    <meta name="DC.Format" content="application/xhtml" />
+    <meta name="DC.Language" content="en" />
+    <meta name="DC.Publisher" content="University of Oxford" />
+    <meta name="DC.Rights" content="Copyright University of Oxford" />
+    <meta name="DC.subject" content="Flexible working, Human resources, HR, Personnel, staff, employees, staff and employees, employment, " />
+    <meta name="DC.title" content="Flexible working, Personnel Services site" />
+    
+    <!-- Add NO ARCHIVE meta tag if required -->
+    
+    <script type="text/javascript">
+var ga_array = [];
+if (typeof [['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']] != "undefined")
+{
+	ga_array = [['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']];
+}
+else
+{
+	ga_array = [['_setAccount', "[['_setAccount', 'UA-7776382-1'],['_setDomainName', 'admin.ox.ac.uk']]"]];
+}
+</script>
+    <!-- javascript file includes -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/jquery.js">
+</script><!-- jquery -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/jquery.clickOrEnter.js">
+</script><!-- jquery.clickOrEnter.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/all.js">
+</script><!-- all.js -->
+    <script type="text/javascript" src="/media/global/wwwadminoxacuk/styleassets/js/page_setup.js">
+</script><!-- page_setup.js -->
+
+    <!-- Related Content Advanced -->
+    
+
+
+    <!-- CSS file combined from subversion-->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/all-t4-production.css" />
+    <!-- CSS file for FAQ-->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/FAQ-new.css" />
+    <!-- CSS for Gl More/Less -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/togglePanel.css" />
+    <!-- CSS for general bugFixing -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/generalBugFix.css" />
+    <!-- CSS for A to Z -->
+    <link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/AtoZ.css" />
+
+
+    <!-- navigation object : Gl CSS Selector -->
+ <!-- navigation object : Gl CSS Selector -->
+    
+    <!-- note: the 'stripy' IE bug seems to have been caused by something in alumni/nav_primary.css,
+    not a change to the main nav_primary. The difference is that before the width was defined on
+    #primary-nav ul  (defined differently for the different images that go into it) but now is
+    not. With width on #primary-nav ul this goes away -->
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/prinav.css" />
+
+    <!--[if IE 6]><script src="/media/global/wwwadminoxacuk/styleassets/js/ie6.js" type="text/javascript"></script><script type="text/javascript" src="/media/global/wwwoxacuk/styleassets/js/pngfix.jquery.js">
+</script><![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/ie6.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/togglePanel-IE6.css" /><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/AtoZ-IE6_from_production.css" /><![endif]-->
+    
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/handheld.css" media="handheld" />
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/print.css" media="print" />
+    <link rel="stylesheet" type="text/css" href="/media/global/wwwadminoxacuk/styleassets/css/oxonly_fix_padlocks.css" media="all" />
+<!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="/media/global/wwwadminoxacuk/styleassets/css/ie7.css" /><![endif]-->  
+</head>
+
+  <body>
+ 
+        <!-- header content on page -->
+    <div id="header-wrapper">
+      <div id="header">
+
+        <ul id="access-links">
+          <li><a id="skipnav" href="#primary-content" accesskey="s">Start of main content</a></li>
+        </ul>
+
+        <div id="logos">
+          <span class="screenonly">
+            <a id="logo" href="/personnel/">
+              <img src="/media/global/wwwadminoxacuk/localsites/personnel/styleassets/images/personnel_header.gif" alt="Personnel Services, UAS" height="66" width="312" class="floated"  />
+            </a>
+          </span>
+          <span class="printonly">
+            <img src="/media/global/wwwadminoxacuk/localsites/personnel/styleassets/images/personnel_header_print.gif" alt="Personnel, UAS" height="66" width="312" class="floated"  />
+          </span>
+        </div>
+
+        <div class="find-it">
+          <!-- text/html formatter for GL Search Box - Oxsearch -->
+
+<form id="searchform" action="http://search.ox.ac.uk/s/search.html" method="get">
+ <div>
+  <label for="searchinput">Search</label>
+  <input type="text" name="q" id="searchinput" value="Enter search term" autocomplete="off" />
+  <input type="image" name="submit" alt="Search" src="/media/global/wwwadminoxacuk/styleassets/images/button_search.gif" class="searchbutton" />
+  <input type="hidden" name="collection" value="oxford-meta" />
+   
+  <fieldset>
+    <label for="profile" class="radio">
+      <input id="profile" class="radio radio-first" type="radio" 
+             name="profile" value="personnel" 
+             checked="checked" 
+      />This site</label>
+    <label for="profile2" class="radio">
+      <input id="profile2" class="radio" type="radio" 
+             name="profile" value="default-minus"  
+      />University of Oxford</label>
+  </fieldset>
+ </div>
+</form>
+        </div>
+        
+        <!-- Add header_logo_right -->
+        <div class="university-logo">
+          <a href="http://www.ox.ac.uk/">
+           
+          <img src="/media/global/wwwadminoxacuk/styleassets/images/header_logo.gif" alt="University of Oxford" height="115" width="115" class="floated"  />
+
+          </a>
+        </div>
+        
+        <!-- Primary Nav -->
+        
+
+      </div>
+    </div>      
+    <div id="wrapper">
+      <div id="content">         
+          <a href="/personnel/" id="departmental-logo"></a>
+          
+          <div id="breadcrumb">
+            <ol><!-- navigation object : Gl Pre Breadcrumb Locator --><!-- navigation object : Gl Pre Breadcrumb Home Link --><li><a href="/">UAS Home</a></li><!-- navigation object : Gl Breadcrumbs --><li><a href="/personnel/">Personnel Services</a></li><li><a href="/personnel/during/">During employment</a></li><li><a href="/personnel/during/flexible/">Flexible working</a></li></ol>
+          </div><div class="clear"></div>
+         
+	  <div id="uas-wrapper">
+            <div id="secondary-content">
+              <!-- Main Left Nav -->
+              <ul id="secondary-nav"><li><a href="/personnel/news/">Latest news</a></li><li><a href="/personnel/a-z/">A-Z</a></li><li><a href="/personnel/recruit/">Recruiting staff</a></li><li><a href="/personnel/during/">During employment</a>
+<ul class="multilevel-linkul-0" title="">
+<li><a href="/personnel/during/hours/">Hours of work</a></li>
+<li><a href="/personnel/during/leave/">Leave</a></li>
+<li><span class="currentsection">Flexible working</span>
+<ul class="multilevel-linkul-1" title="">
+<li><a href="/personnel/during/flexible/summary/">Summary</a></li>
+<li><a href="/personnel/during/flexible/step/">Step-by-step procedure</a></li>
+<li><a href="/personnel/during/flexible/staff/">Guidance for employees</a></li>
+<li><a href="/personnel/during/flexible/homeworking/">Working from home </a></li>
+
+</ul>
+</li>
+<li><a href="/personnel/during/family/">Family leave</a></li>
+<li><a href="/personnel/during/stress/">Work-related stress</a></li>
+<li><a href="/personnel/during/grievance/">Grievance procedures</a></li>
+<li><a href="/personnel/during/disciplinary/">Disciplinary procedures</a></li>
+<li><a href="/personnel/during/trainingandpdr/">Training and PDR</a></li>
+<li><a href="/personnel/during/reorganisation/">Management of a reorganisation</a></li>
+<li><a href="/personnel/during/sickmanage/">Sickness Absence Management</a></li>
+<li><a href="/personnel/during/socialmedia/">Social Media Guidelines</a></li>
+<li><a href="/personnel/during/relationship/">Staff-student relationships</a></li>
+
+</ul>
+</li><li><a href="/personnel/end/">Ending employment</a></li><li><a href="/personnel/reward/">Reward</a></li><li><a href="/personnel/templates/">Templates and forms</a></li><li><a href="/personnel/permits/">Staff Immigration Team</a></li><li><a href="/personnel/hrinfoteam/">HR Information Team</a></li><li><a href="/personnel/usinghris/">Using HRIS</a></li><li><a href="/personnel/daproject/">Departmental Administrators Project</a></li><li><a href="/personnel/about/">About us</a></li><li><a href="/personnel/contacts/">Contact details</a></li><li><a href="/personnel/staffinfo/">Information for staff</a></li></ul>
+
+              <!-- Under Left Nav -->
+	      
+            </div>
+              
+            <div id="primary-content">
+              <a name="48612"></a><h1>Flexible working</h1>
+
+
+
+
+
+
+<!--start Further Content-->
+<a name="d.en.48619"></a>
+<h2>Guidance for departmental administrators </h2>
+<div  class="teaser"></div>
+<p>Flexible working can include a wide variety of working practices. A flexible working arrangement can be any working pattern other than the normal working pattern in your department. Examples could include:</p>
+<ul>
+<li><a href="/personnel/during/hours/ptw_regs/">part-time working</a>;</li>
+<li>compressed hours (for example, working full weekly hours over four rather than five days);</li>
+<li>job-sharing;</li>
+<li>staggered hours;</li>
+<li>term-time only working, or</li>
+<li><a href="http://www.admin.ox.ac.uk/personnel/during/flexible/homeworking/">working from home</a> ("teleworking")</li>
+</ul>
+<p>There is also provision for <a href="/personnel/end/retirement/flexretire/">flexible retirement</a>.&nbsp; A scheme allowing, with University approval, a mixture of retirement and continuity at work.</p>
+<!-- navigation object : Gl Back to Top -->
+<!--end Further Content-->
+<!--start Further Content-->
+<a name="d.en.48670"></a>
+
+<div  class="teaser"></div>
+<strong>Academic staff should contact:</strong>
+<!-- navigation object : Gl Back to Top -->
+<!--end Further Content-->
+<!--start Further Content-->
+<a name="d.en.42420"></a>
+
+<div  class="teaser"></div>
+<ul>
+<li><strong>Humanities Division:<br /></strong> Ms Parsons, Radcliffe Humanities, Radcliffe Observatory Quarter, Woodstock Road (Tel. 2-70559, email: <span><a href="mailto:muriel.parsons@humanities.ox.ac.uk">muriel.parsons@humanities.ox.ac.uk</a>)</span></li>
+<li><strong>Social Sciences Division:</strong> <br /> Ms Phillips, Hayes House, 75 George Street (Tel. 6-14857, email: <span><a href="mailto:heather.phillips@socsci.ox.ac.uk">heather.phillips@socsci.ox.ac.uk</a>)</span></li>
+<li><strong>Mathematical, Physical and Life Sciences Division:</strong> <br />Ms Bunce, 9 Parks Road, (Tel. 2-82588, email: <span><a href="mailto:polly.bunce@mpls.ox.ac.uk">polly.bunce@mpls.ox.ac.uk</a>)</span></li>
+<li><strong>Medical Sciences Division:</strong> <br />Mrs Sundaram, Medical Sciences Divisional Office, The John Radcliffe (Tel. 553-21945, email: <span><a href="mailto:swetha.sundaram@medsci.ox.ac.uk">swetha.sundaram@medsci.ox.ac.uk</a></span>)<br /> Ms Haugen,&nbsp;Medical Sciences Divisional Office, The John Radcliffe (Tel. 553-21620, email: <a href="mailto:ingunn.haugen@medsci.ox.ac.uk">ingunn.haugen@medsci.ox.ac.uk</a>)</li>
+<li><strong>Continuing Education:<br /></strong> Mrs Nickless, Rewley House, 1 Wellington Square (Tel. 2-70310, email: <span><a href="mailto:jo.nickless@conted.ox.ac.uk">jo.nickless@conted.ox.ac.uk</a>)</span></li>
+</ul>
+<!-- navigation object : Gl Back to Top -->
+<!--end Further Content-->
+<!-- navigation object : Gl Footer Link -->
+                <ul id="content-extras">
+  <li class="back-to-top"><a href="#wrapper"><span>Back to top</span></a></li>
+ <!-- <li class="send">
+		<script type="text/javascript">
+			$(document).ready(function(){    
+			var jQryDoc= document.URL;
+			var jQryText = "" + jQryDoc +"";
+			$("div.recommendpage").html("<a href=\"mailto:?subject=Recommended: Available Templates&body="+jQryText+"\"><span>Recommend this page<\/span><\/a>");
+			});
+		</script>
+		
+		<div class="recommendpage"></div>
+		<noscript><a href="mailto:?subject=Recommended: Available Templates"><span>Recommend this page</span></a></noscript>
+</li>-->
+</ul>
+
+            </div>
+ 
+            <!-- Tertiary Content -->
+            <div id="tertiary-content">  
+              <!-- navigation object : GL RHS --><!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>Guidance</h2>
+
+ <ul>
+<li><a  href="/media/global/wwwadminoxacuk/localsites/personnel/documents/duringemployment/flexible/flowchart.pdf" title="Managing flexible working &ndash; diagrammatic summary">Managing flexible working – diagrammatic summary</a> <img class="fileIcon" height="15" width="15" src="/media/global/fileicons/pdf.gif" alt="" /> (3kb) </li>
+</ul>
+</div>
+<!-- text/tertiary - copied from text/related -->
+
+<div class="related related-articles">
+<h2>Forms</h2>
+
+ <ul>
+<li><a  href="/media/global/wwwadminoxacuk/localsites/personnel/documents/duringemployment/flexible/Flexible_working_application_form_-_revised_June_2014.doc" title="Flexible working application ">Flexible working application </a> <img class="fileIcon" height="15" width="15" src="/media/global/fileicons/doc.gif" alt="" /> (43kb) </li>
+<li><a  href="/media/global/wwwadminoxacuk/localsites/personnel/documents/duringemployment/flexible/Application_acceptance_form_-_revised_June_2014.doc" title="Application acceptance form">Application acceptance form</a> <img class="fileIcon" height="15" width="15" src="/media/global/fileicons/doc.gif" alt="" /> (40kb)&nbsp;</li>
+<li><a  href="/media/global/wwwadminoxacuk/localsites/personnel/documents/duringemployment/flexible/Application_rejection_form_-_revised_June_2014.doc" title="Application rejection form">Application rejection form</a> <img class="fileIcon" height="15" width="15" src="/media/global/fileicons/doc.gif" alt="" /> (39kb)&nbsp;</li>
+<li><a  href="/media/global/wwwadminoxacuk/localsites/personnel/documents/duringemployment/flexible/Appeal_form_-_revised_June_2014.doc" title="Appeal form">Appeal form</a> <img class="fileIcon" height="15" width="15" src="/media/global/fileicons/doc.gif" alt="" /> (38kb)&nbsp;</li>
+<li><a  href="/media/global/wwwadminoxacuk/localsites/personnel/documents/duringemployment/flexible/Appeal_reply_-revised_June_2014.doc" title="Appeal reply ">Appeal reply </a> <img class="fileIcon" height="15" width="15" src="/media/global/fileicons/doc.gif" alt="" /> (39kb)&nbsp;</li>
+<li><a  href="/media/global/wwwadminoxacuk/localsites/personnel/documents/duringemployment/flexible/Extension_of_time_-_revised_June_2014.doc" title="Extension of time limit ">Extension of time limit </a> <img class="fileIcon" height="15" width="15" src="/media/global/fileicons/doc.gif" alt="" /> (39kb)&nbsp;</li>
+<li><a  href="/media/global/wwwadminoxacuk/localsites/personnel/documents/duringemployment/flexible/withdrawal_form_-_flexible_working_revised_June_2014.doc" title="Notice of withdrawal (flexible working)">Notice of withdrawal (flexible working)</a> <img class="fileIcon" height="15" width="15" src="/media/global/fileicons/doc.gif" alt="" /> (37kb)&nbsp;</li>
+</ul>
+</div>
+
+            </div>
+          </div>
+
+          <!--[if IE 6]><div class="clear"></div><![endif]-->
+        </div>
+
+        <div id="footer">
+          <dl id="footer-updated"><dt>Last updated</dt> <dd>20 May 15</dd></dl>
+          <ul class="extras">
+            <!-- navigation object : Ad Tools -->            <li class="first"><!-- navigation object : Personnel Services Link Site Map --><a href="/personnel/sitemap/">Site Map</a></li>
+            <li><a href="mailto:personnel.services@admin.ox.ac.uk">Contact this site's webmaster</a></li>
+            <li><a href="http://www.ox.ac.uk/copyright.html">Legal notice</a></li>
+            <li><a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/">Privacy Policy</a></li>
+          </ul>
+        <div class="clear"></div>
+      </div>
+    </div>
+
+  </body>
+</html>

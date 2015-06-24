@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<!-- Sorry no IE7 support! -->
+<!-- @see http://foundation.zurb.com/docs/index.html#basicHTMLMarkup -->
+
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, maximum-scale = 1.0" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta name="format-detection" content="telephone=no" />
+<link rel="shortcut icon" href="http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/spc/favicon.ico" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/study-here/visiting-students/course-options/english-literature" />
+<link rel="shortlink" href="/node/997" />
+<link href="http://fonts.googleapis.com/css?family=Merriweather+Sans:400,300,700" rel="stylesheet" />
+  <title>Visiting Students - English Literature | www.spc.ox.ac.uk</title>
+  <style>
+@import url("http://www.spc.ox.ac.uk/modules/system/system.base.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/modules/system/system.messages.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/modules/system/system.theme.css?nq3gxa");
+</style>
+<style>
+@import url("http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?nq3gxa");
+</style>
+<style>
+@import url("http://www.spc.ox.ac.uk/sites/all/modules/date/date_api/date.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/modules/field/theme/field.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/modules/node/node.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/modules/search/search.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/modules/user/user.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/sites/all/modules/views/css/views.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/sites/all/modules/ckeditor/css/ckeditor.css?nq3gxa");
+</style>
+<style>
+@import url("http://www.spc.ox.ac.uk/sites/all/modules/ctools/css/ctools.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/sites/all/modules/panels/css/panels.css?nq3gxa");
+</style>
+
+<!--[if IE]>
+<link rel="stylesheet" href="http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/spc/css/ie.css?nq3gxa" />
+<![endif]-->
+<style>
+@import url("http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/zurb-foundation/css/foundation.min.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/spc/css/custom.css?nq3gxa");
+@import url("http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/spc/css/slick.css?nq3gxa");
+</style>
+  <script src="http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.1"></script>
+<script src="http://www.spc.ox.ac.uk/misc/jquery.once.js?v=1.2"></script>
+<script src="http://www.spc.ox.ac.uk/misc/drupal.js?nq3gxa"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js?v=1.10.2"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.10.2"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.10.2"></script>
+<script src="http://www.spc.ox.ac.uk/misc/ajax.js?v=7.37"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/linkit/js/linkit.js?v=7.3"></script>
+<script src="http://www.spc.ox.ac.uk/misc/progress.js?v=7.37"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/linkit/editors/ckeditor/linkitDialog.js?v=7.3"></script>
+<script src="http://www.spc.ox.ac.uk/sites/all/modules/google_analytics/googleanalytics.js?nq3gxa"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-31719771-2", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, { "pathToTheme": "sites/www.spc.ox.ac.uk/themes/spc" });</script>
+<script src="http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/spc/js/vendor/custom.modernizr.js?nq3gxa"></script>
+<script src="http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/spc/js/foundation.min.js?nq3gxa"></script>
+<script src="http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/spc/js/vendor/slick.min.js?nq3gxa"></script>
+<script src="http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/spc/js/vendor/slick-lightbox.js?nq3gxa"></script>
+<script src="http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/spc/js/vendor/jquery.matchHeight.min.js?nq3gxa"></script>
+<script src="http://www.spc.ox.ac.uk/sites/www.spc.ox.ac.uk/themes/spc/js/scripts.js?nq3gxa"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"spc","theme_token":"iO5VfppOYHJ5y2ENMpfLXdsrArq5i_0gQCzuw3KHTfM","jquery_version":"1.7","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/linkit\/js\/linkit.js":1,"misc\/progress.js":1,"sites\/all\/modules\/linkit\/editors\/ckeditor\/linkitDialog.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"1":1,"sites\/www.spc.ox.ac.uk\/themes\/spc\/js\/vendor\/custom.modernizr.js":1,"sites\/www.spc.ox.ac.uk\/themes\/spc\/js\/foundation.min.js":1,"sites\/www.spc.ox.ac.uk\/themes\/spc\/js\/vendor\/slick.min.js":1,"sites\/www.spc.ox.ac.uk\/themes\/spc\/js\/vendor\/slick-lightbox.js":1,"sites\/www.spc.ox.ac.uk\/themes\/spc\/js\/vendor\/jquery.matchHeight.min.js":1,"sites\/www.spc.ox.ac.uk\/themes\/spc\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/www.spc.ox.ac.uk\/themes\/spc\/css\/ie.css":1,"sites\/www.spc.ox.ac.uk\/themes\/zurb-foundation\/css\/normalize.css":1,"sites\/www.spc.ox.ac.uk\/themes\/zurb-foundation\/css\/foundation.min.css":1,"sites\/www.spc.ox.ac.uk\/themes\/spc\/css\/custom.css":1,"sites\/www.spc.ox.ac.uk\/themes\/spc\/css\/slick.css":1}},"linkit":{"autocompletePath":"http:\/\/www.spc.ox.ac.uk\/linkit\/autocomplete\/___profile___?s=","dashboardPath":"\/linkit\/dashboard\/","currentInstance":{}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});</script>
+  <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-997 node-type-page default section-study-here" >
+  <div class="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!-- .off-canvas-wrap -->
+<div class="off-canvas-wrap">
+  <div class="inner-wrap">
+    <nav class="row top-header collapse">
+      <section class="logo-column columns large-6 medium-6 small-14">
+        <a href="/">.</a>
+      </section>
+      <section class="top-header-column columns large-10 medium-10">
+        <div class="right-small">
+          <a href="#" class="mobile-menu-toggle menu-icon"><p></p></a>
+        </div>
+        	  <div class="top-header">
+                <section class="block block-panels-mini block-panels-mini-header-mini-panel">
+
+      
+      <div id="mini-panel-header_mini_panel">  <div class="row collapse">
+    <div class="large-8 medium-8 small-16 columns collapse">
+      <div class="panel-pane pane-menu-tree pane-menu-secondary-menu large-16 medium-16"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-menu-secondary-menu-1 menu-name-menu-secondary-menu parent-mlid-menu-secondary-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-924"><a href="/study-here/undergraduate-study" title="">Undergraduate Study</a></li>
+<li class="leaf menu-mlid-1162"><a href="/study-here/postgraduate-study" title="">Postgraduate Study</a></li>
+<li class="leaf menu-mlid-1164"><a href="/Node/9" title="">Choir</a></li>
+<li class="leaf has-children menu-mlid-917"><a href="/alumni-friends/events" title="">News and Events</a></li>
+<li class="leaf has-children menu-mlid-1079"><a href="/blogs" title="">Blogs</a></li>
+<li class="last leaf menu-mlid-1440"><a href="/about/vacancies" title="">Vacancies</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1 donationlinkbox"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="/content/give-st-peters">Give to St Peters</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-8 medium-8 small-16 columns collapse">
+      <div class="panel-pane pane-custom pane-2 login-box"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="/user">LOGIN</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-3 contact-box"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="/node/775">CONTACT</a> <span>T +44 (0)1865 278900</span></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-block pane-search-form"  >
+  
+      
+  
+  <div class="pane-content">
+    <form action="/study-here/visiting-students/course-options/english-literature" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline row collapse">
+  <div class="small-13 large-13 medium-13 columns"><div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." class="small-8 columns form-text" placeholder="SEARCH" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+</div>
+  <div class="small-3 large-3 medium-3 columns"><button class="postfix small-4 columns form-submit" id="edit-submit" name="op" value="GO!" type="submit">GO!</button>
+</div>
+
+  <input type="hidden" name="form_build_id" value="form-9IL3gJ_YtwisjIyPfZGXyEASmnpoGBEVvy7ritiEYkU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+
+ 
+</div></form>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div>  
+</section>            
+          </div>
+              </section>			
+    </nav>
+    <div class="mobile-header">
+      	  <div class="mobile-header-content">
+                <section class="block block-panels-mini block-panels-mini-mobile-header-mini-panel">
+
+      
+      <div class="row collapse" id="mini-panel-mobile_header_mini_panel">
+  <div class="large-16 columns">
+    <div class="panel-pane pane-mobilemenu"  >
+  
+      
+  
+  <div class="pane-content">
+    <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here" class="mobile-menu-link">Study Here</a><a href="/#acp-940" class="plus-minus">+</a><div id="acp-940" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here/undergraduate-study" class="mobile-menu-link">Undergraduate Study</a><a href="/#acp-1021" class="plus-minus">+</a><div id="acp-1021" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here/undergraduate-study/prospectus" class="mobile-menu-link">Prospectus</a></dd><dd class="accordion-navigation"><a href="/study-here/undergraduate-study/faqs" class="mobile-menu-link">FAQs</a></dd><dd class="accordion-navigation"><a href="/study-here/undergraduate-study/how-apply" class="mobile-menu-link">How to Apply</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/study-here/postgraduate-study" class="mobile-menu-link">Postgraduate Study</a><a href="/#acp-1082" class="plus-minus">+</a><div id="acp-1082" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here/postgraduate-study/how-apply" class="mobile-menu-link">How to Apply</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/study-here/visiting-students" class="mobile-menu-link">Visiting Students</a><a href="/#acp-1023" class="plus-minus">+</a><div id="acp-1023" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here/visiting-students/applications" class="mobile-menu-link">Applications</a></dd><dd class="accordion-navigation"><a href="/study-here/visiting-students/course-options" class="mobile-menu-link">Course Options</a><a href="/#acp-1443" class="plus-minus">+</a><div id="acp-1443" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here/visiting-students/course-options/archaeology-and-anthropology" class="mobile-menu-link">Archaeology and Anthropology</a></dd><dd class="accordion-navigation"><a href="/study-here/visiting-students/course-options/biological-sciences" class="mobile-menu-link">Biological Sciences</a></dd><dd class="accordion-navigation"><a href="/study-here/visiting-students/course-options/english-literature" class="mobile-menu-link active">English Literature</a></dd><dd class="accordion-navigation"><a href="/study-here/visiting-students/course-options/maths" class="mobile-menu-link">Maths</a></dd><dd class="accordion-navigation"><a href="/study-here/visiting-students/course-options/modern-languages" class="mobile-menu-link">Modern Languages</a><a href="/#acp-1448" class="plus-minus">+</a><div id="acp-1448" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here/visiting-students/course-options/modern-languages/french" class="mobile-menu-link">French</a></dd><dd class="accordion-navigation"><a href="/study-here/visiting-students/course-options/modern-languages/german" class="mobile-menu-link">German</a></dd><dd class="accordion-navigation"><a href="/study-here/visiting-students/course-options/modern-languages/portuguese" class="mobile-menu-link">Portuguese</a></dd></dl> </div></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/study-here/visiting-students/fees" class="mobile-menu-link">Fees</a></dd><dd class="accordion-navigation"><a href="/study-here/visiting-students/greeting-tutor-visiting-students" class="mobile-menu-link">Greeting from the Tutor for Visiting Students</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/study-here/information-new-students" class="mobile-menu-link">Information for New Students</a><a href="/#acp-1243" class="plus-minus">+</a><div id="acp-1243" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here/information-new-students/undergraduate-freshers" class="mobile-menu-link">Undergraduate Freshers</a></dd><dd class="accordion-navigation"><a href="/study-here/information-new-students/undergraduate-reading-lists" class="mobile-menu-link">Undergraduate Reading Lists</a></dd><dd class="accordion-navigation"><a href="/study-here/information-new-students/graduate-freshers" class="mobile-menu-link">Graduate Freshers</a></dd><dd class="accordion-navigation"><a href="/study-here/information-new-students/visiting-student-freshers" class="mobile-menu-link">Visiting Student Freshers</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/study-here/subjects" class="mobile-menu-link">Subjects</a><a href="/#acp-1019" class="plus-minus">+</a><div id="acp-1019" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here/subjects/archaeology-and-anthropology" class="mobile-menu-link">Archaeology and Anthropology</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/biochemistry" class="mobile-menu-link">Biochemistry</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/biological-sciences" class="mobile-menu-link">Biological Sciences</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/chemistry" class="mobile-menu-link">Chemistry</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/earth-sciences-geology" class="mobile-menu-link">Earth Sciences (Geology)</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/economics" class="mobile-menu-link">Economics</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/engineering-science" class="mobile-menu-link">Engineering Science</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/english" class="mobile-menu-link">English</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/english-and-modern-languages" class="mobile-menu-link">English and Modern Languages</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/geography" class="mobile-menu-link">Geography</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/history" class="mobile-menu-link">History</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/history-and-economics" class="mobile-menu-link">History and Economics</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/history-and-modern-languages" class="mobile-menu-link">History and Modern Languages</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/history-art" class="mobile-menu-link">History of Art</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/law" class="mobile-menu-link">Law</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/management" class="mobile-menu-link">Management</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/mathematics" class="mobile-menu-link">Mathematics</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/mathematics-and-philosophy" class="mobile-menu-link">Mathematics and Philosophy</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/mathematics-and-statistics" class="mobile-menu-link">Mathematics and Statistics</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/medicine" class="mobile-menu-link">Medicine</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/modern-languages" class="mobile-menu-link">Modern Languages</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/music" class="mobile-menu-link">Music</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/philosophy" class="mobile-menu-link">Philosophy</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/philosophy-politics-economics-ppe" class="mobile-menu-link">Philosophy Politics &amp; Economics (PPE)</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/philosophy-and-modern-languages" class="mobile-menu-link">Philosophy and Modern Languages</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/philosophy-and-theology" class="mobile-menu-link">Philosophy and Theology</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/physics" class="mobile-menu-link">Physics</a><a href="/#acp-1223" class="plus-minus">+</a><div id="acp-1223" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here/subjects/physics/st-peters-physicists" class="mobile-menu-link">St Peter&#039;s Physicists</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/study-here/subjects/physics-and-philosophy" class="mobile-menu-link">Physics and Philosophy</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/politics" class="mobile-menu-link">Politics</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/theology" class="mobile-menu-link">Theology</a></dd><dd class="accordion-navigation"><a href="/study-here/subjects/theology-and-oriental-studies" class="mobile-menu-link">Theology and Oriental Studies</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/study-here/course-list" class="mobile-menu-link">Course List</a></dd><dd class="accordion-navigation"><a href="/study-here/open-days" class="mobile-menu-link">Open Days</a></dd><dd class="accordion-navigation"><a href="/study-here/schools-liaison" class="mobile-menu-link">Schools Liaison</a><a href="/#acp-1020" class="plus-minus">+</a><div id="acp-1020" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/study-here/schools-liaison/essay-prize-year-12lower-6th" class="mobile-menu-link">Essay Prize for Year 12/Lower 6th</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/study-here/financial-support" class="mobile-menu-link">Financial Support</a></dd><dd class="accordion-navigation"><a href="/study-here/term-dates" class="mobile-menu-link">Term Dates</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/college-life" class="mobile-menu-link">College Life</a><a href="/#acp-922" class="plus-minus">+</a><div id="acp-922" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/college-life/accommodation" class="mobile-menu-link">Accommodation</a></dd><dd class="accordion-navigation"><a href="/college-life/arts" class="mobile-menu-link">Arts</a></dd><dd class="accordion-navigation"><a href="/college-life/careers-society" class="mobile-menu-link">Careers Society</a><a href="/#acp-1400" class="plus-minus">+</a><div id="acp-1400" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/college-life/careers-society/meet-team" class="mobile-menu-link">Meet the Team</a></dd><dd class="accordion-navigation"><a href="/college-life/careers-society/our-events" class="mobile-menu-link">Our Events</a></dd><dd class="accordion-navigation"><a href="/college-life/careers-society/our-sponsors" class="mobile-menu-link">Our Sponsors</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/college-life/chapel" class="mobile-menu-link">Chapel</a><a href="/#acp-1015" class="plus-minus">+</a><div id="acp-1015" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/college-life/chapel/people" class="mobile-menu-link">People</a></dd><dd class="accordion-navigation"><a href="/college-life/chapel/chapel-term-card" class="mobile-menu-link">Chapel Term Card</a></dd><dd class="accordion-navigation"><a href="/college-life/chapel/history-chapel" class="mobile-menu-link">History of the Chapel</a></dd><dd class="accordion-navigation"><a href="/college-life/chapel/stained-glass" class="mobile-menu-link">The Stained Glass</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/organ" class="mobile-menu-link">The Organ</a></dd><dd class="accordion-navigation"><a href="/college-life/chapel/chapel-faq" class="mobile-menu-link">Chapel FAQ</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/terms-music" class="mobile-menu-link">This Term&#039;s Music</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/college-life/degree-days" class="mobile-menu-link">Degree Days</a><a href="/#acp-1018" class="plus-minus">+</a><div id="acp-1018" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/college-life/degree-days/degree-dates-and-charges" class="mobile-menu-link">Degree Dates and Charges</a></dd><dd class="accordion-navigation"><a href="/college-life/degree-days/dress-graduands" class="mobile-menu-link">Dress for Graduands</a></dd><dd class="accordion-navigation"><a href="/college-life/degree-days/guests-ceremony" class="mobile-menu-link">Guests at the Ceremony</a></dd><dd class="accordion-navigation"><a href="/college-life/degree-days/application-form" class="mobile-menu-link">Application Form</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/college-life/eating-and-drinking" class="mobile-menu-link">Eating and Drinking</a></dd><dd class="accordion-navigation"><a href="/college-life/junior-common-room" class="mobile-menu-link">Junior Common Room</a></dd><dd class="accordion-navigation"><a href="/college-life/library" class="mobile-menu-link">Library</a><a href="/#acp-1017" class="plus-minus">+</a><div id="acp-1017" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/college-life/library/using-library" class="mobile-menu-link">Using the Library</a></dd><dd class="accordion-navigation"><a href="/college-life/library/remote-access-electronic-resources" class="mobile-menu-link">Remote Access to Electronic Resources</a></dd><dd class="accordion-navigation"><a href="/college-life/library/library-regulations" class="mobile-menu-link">Library Regulations</a></dd><dd class="accordion-navigation"><a href="/college-life/library/suggesting-new-book" class="mobile-menu-link">Suggesting a New Book</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/college-life/middle-common-room" class="mobile-menu-link">Middle Common Room</a></dd><dd class="accordion-navigation"><a href="/college-life/sports" class="mobile-menu-link">Sports</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir" class="mobile-menu-link">St Peter&#039;s Choir</a><a href="/#acp-1016" class="plus-minus">+</a><div id="acp-1016" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/join-choir" class="mobile-menu-link">Join the Choir</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/organ-and-choral-scholarships" class="mobile-menu-link">Organ and Choral Scholarships</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/choir-and-college-life" class="mobile-menu-link">The Choir and College Life</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/people" class="mobile-menu-link">People</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/liverpool" class="mobile-menu-link">Liverpool</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/organ" class="mobile-menu-link">Organ</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/organ-specification" class="mobile-menu-link">Organ Specification</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/recordings" class="mobile-menu-link">Recordings</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/tours" class="mobile-menu-link">Tours</a></dd><dd class="accordion-navigation"><a href="/college-life/st-peters-choir/terms-music" class="mobile-menu-link">This Term&#039;s Music</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/college-life/welfare" class="mobile-menu-link">Welfare</a><a href="/#acp-1010" class="plus-minus">+</a><div id="acp-1010" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/college-life/welfare/medical-and-emergency-contact-details" class="mobile-menu-link">Medical and Emergency Contact Details</a></dd><dd class="accordion-navigation"><a href="/college-life/welfare/general-contact-details" class="mobile-menu-link">General Contact Details</a></dd><dd class="accordion-navigation"><a href="/college-life/welfare/jcr-peer-supporters" class="mobile-menu-link">JCR Peer Supporters</a></dd><dd class="accordion-navigation"><a href="/college-life/welfare/student-finance-information" class="mobile-menu-link">Student Finance Information</a></dd><dd class="accordion-navigation"><a href="/college-life/welfare/accomodation-support-and-information" class="mobile-menu-link">Accomodation Support and Information</a></dd></dl> </div></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/whos-here" class="mobile-menu-link">Who&#039;s here</a><a href="/#acp-919" class="plus-minus">+</a><div id="acp-919" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/whos-here" class="mobile-menu-link">Academics (alphabetical)</a></dd><dd class="accordion-navigation"><a href="/whos-here/academics-subject" class="mobile-menu-link">Academics (by subject)</a></dd><dd class="accordion-navigation"><a href="/whos-here/administration" class="mobile-menu-link">Administration</a></dd><dd class="accordion-navigation"><a href="/whos-here/college-officers" class="mobile-menu-link">College Officers</a></dd><dd class="accordion-navigation"><a href="/whos-here/emeritus-fellows" class="mobile-menu-link">Emeritus Fellows</a></dd><dd class="accordion-navigation"><a href="/whos-here/governing-body" class="mobile-menu-link">Governing Body</a></dd><dd class="accordion-navigation"><a href="/whos-here/honorary-fellows" class="mobile-menu-link">Honorary Fellows</a></dd><dd class="accordion-navigation"><a href="/whos-here/junior-common-room" class="mobile-menu-link">Junior Common Room</a></dd><dd class="accordion-navigation"><a href="/whos-here/middle-common-room" class="mobile-menu-link">Middle Common Room</a></dd><dd class="accordion-navigation"><a href="/whos-here/trustees" class="mobile-menu-link">Trustees</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/about" class="mobile-menu-link">About</a><a href="/#acp-895" class="plus-minus">+</a><div id="acp-895" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/about/about-st-peters" class="mobile-menu-link">About St Peter&#039;s</a></dd><dd class="accordion-navigation"><a href="/about/official-information" class="mobile-menu-link">Official Information</a></dd><dd class="accordion-navigation"><a href="/about/it" class="mobile-menu-link">IT</a></dd><dd class="accordion-navigation"><a href="/about/college-history" class="mobile-menu-link">College History</a><a href="/#acp-944" class="plus-minus">+</a><div id="acp-944" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/about/college-history/chavasse-family-papers" class="mobile-menu-link">Chavasse Family Papers</a></dd><dd class="accordion-navigation"><a href="/about/college-history/francis-chavasse-christopher-chavasse-1904-1919" class="mobile-menu-link">Francis Chavasse to Christopher Chavasse 1904-1919</a></dd><dd class="accordion-navigation"><a href="/about/college-history/francis-chavasse-1916-27" class="mobile-menu-link">Francis Chavasse 1916-27</a></dd><dd class="accordion-navigation"><a href="/about/college-history/christopher-chavasse-1904-13" class="mobile-menu-link">Christopher Chavasse 1904-13</a></dd><dd class="accordion-navigation"><a href="/about/college-history/christopher-chavasse-1914-18" class="mobile-menu-link">Christopher Chavasse 1914-18</a></dd><dd class="accordion-navigation"><a href="/about/college-history/christopher-chavasse-1917" class="mobile-menu-link">Christopher Chavasse 1917</a></dd><dd class="accordion-navigation"><a href="/about/college-history/aidan-chavasse-1914-20" class="mobile-menu-link">Aidan Chavasse 1914-20</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/about/getting-st-peters" class="mobile-menu-link">Getting to St. Peter&#039;s</a><a href="/#acp-945" class="plus-minus">+</a><div id="acp-945" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/about/getting-st-peters/driving-and-parking" class="mobile-menu-link">Driving and Parking</a></dd><dd class="accordion-navigation"><a href="/about/getting-st-peters/maps" class="mobile-menu-link">Maps</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/about/archives" class="mobile-menu-link">Archives</a></dd><dd class="accordion-navigation"><a href="/about/perrodo-project" class="mobile-menu-link">Perrodo Project</a></dd><dd class="accordion-navigation"><a href="/about/transcripts-and-letters" class="mobile-menu-link">Transcripts and Letters</a></dd><dd class="accordion-navigation"><a href="/about/contact-us" class="mobile-menu-link">Contact Us</a></dd><dd class="accordion-navigation"><a href="/about/vacancies" class="mobile-menu-link">Vacancies</a></dd><dd class="accordion-navigation"><a href="/about/videos" class="mobile-menu-link">Videos</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends" class="mobile-menu-link">Alumni &amp; Friends</a><a href="/#acp-915" class="plus-minus">+</a><div id="acp-915" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits" class="mobile-menu-link">St Peter’s Alumni Benefits</a><a href="/#acp-1167" class="plus-minus">+</a><div id="acp-1167" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/alumni-networks" class="mobile-menu-link">Alumni Networks</a><a href="/#acp-1174" class="plus-minus">+</a><div id="acp-1174" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/alumni-networks/music-and-choir" class="mobile-menu-link">Music and Choir</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/alumni-networks/regional-networks" class="mobile-menu-link">Regional Networks</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/alumni-networks/sports" class="mobile-menu-link">Sports</a><a href="/#acp-1200" class="plus-minus">+</a><div id="acp-1200" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/alumni-networks/sports/boat-club" class="mobile-menu-link">Boat Club</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/alumni-networks/sports/cricket" class="mobile-menu-link">Cricket</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/alumni-networks/sports/golf" class="mobile-menu-link">Golf</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/alumni-networks/sports/rugby" class="mobile-menu-link">Rugby</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/alumni-networks/young-alumni" class="mobile-menu-link">Young Alumni</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/dine-college" class="mobile-menu-link">Dine in College</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/reunions" class="mobile-menu-link">Reunions</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/stay-college" class="mobile-menu-link">Stay in College</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/st-peter%E2%80%99s-alumni-benefits/weddings-and-celebrations" class="mobile-menu-link">Weddings and Celebrations</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters" class="mobile-menu-link">Give to St Peter&#039;s</a><a href="/#acp-1168" class="plus-minus">+</a><div id="acp-1168" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations" class="mobile-menu-link">Donations</a><a href="/#acp-1179" class="plus-minus">+</a><div id="acp-1179" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/annual-fund" class="mobile-menu-link">Annual Fund</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/donate-today" class="mobile-menu-link">Donate Today</a><a href="/#acp-1234" class="plus-minus">+</a><div id="acp-1234" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/donate-today/donate-online" class="mobile-menu-link">Donate Online</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/student-support" class="mobile-menu-link">Student Support</a><a href="/#acp-1202" class="plus-minus">+</a><div id="acp-1202" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/student-support/bursaries-and-scholarships" class="mobile-menu-link">Bursaries and Scholarships</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/student-support/donate-student-support" class="mobile-menu-link">Donate to Student Support</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/student-support/prizes-and-awards" class="mobile-menu-link">Prizes and Awards</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/student-support/student-experience" class="mobile-menu-link">Student Experience</a><a href="/#acp-1203" class="plus-minus">+</a><div id="acp-1203" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/student-support/student-experience/jcr-and-mcr" class="mobile-menu-link">JCR and MCR</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/student-support/student-experience/music-art-and-sport" class="mobile-menu-link">Music, Art and Sport</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/student-support/student-experience/pastoral-care" class="mobile-menu-link">Pastoral Care</a></dd></dl> </div></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/tax-efficiency" class="mobile-menu-link">Tax Efficiency</a><a href="/#acp-1189" class="plus-minus">+</a><div id="acp-1189" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/tax-efficiency/corporate-matching-gifts" class="mobile-menu-link">Corporate Matching Gifts</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/tax-efficiency/gift-aid" class="mobile-menu-link">Gift Aid</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/tax-efficiency/gift-shares" class="mobile-menu-link">Gift of Shares</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/tax-efficiency/give-you-earn" class="mobile-menu-link">Give as you Earn</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/tax-efficiency/list-matching-gifts-companies" class="mobile-menu-link">List of Matching Gifts Companies</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/donations/tax-efficiency/tax-efficient-giving-outside-uk" class="mobile-menu-link">Tax Efficient Giving Outside the UK</a></dd></dl> </div></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/leaving-legacy" class="mobile-menu-link">Leaving a Legacy</a><a href="/#acp-1267" class="plus-minus">+</a><div id="acp-1267" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/leaving-legacy/uk-taxpayers" class="mobile-menu-link">UK Taxpayers</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/leaving-legacy/us-taxpayers" class="mobile-menu-link">US Taxpayers</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/give-st-peters/offering-internships" class="mobile-menu-link">Offering Internships</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/update-your-details" class="mobile-menu-link">Update Your Details</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/events" class="mobile-menu-link">Events</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/cross-keys" class="mobile-menu-link">Cross Keys</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/our-supporters" class="mobile-menu-link">Our Supporters</a><a href="/#acp-1170" class="plus-minus">+</a><div id="acp-1170" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/our-supporters/201314-donors" class="mobile-menu-link">2013/14 Donors</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/our-supporters/major-benefactors" class="mobile-menu-link">Major Benefactors</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/our-supporters/howard-society" class="mobile-menu-link">The Howard Society</a><a href="/#acp-1271" class="plus-minus">+</a><div id="acp-1271" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/our-supporters/howard-society/revd-robert-wilmot-howard" class="mobile-menu-link">Revd Robert Wilmot Howard</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/our-supporters/st-peters-college-foundation" class="mobile-menu-link">The St Peter&#039;s College Foundation</a><a href="/#acp-1251" class="plus-minus">+</a><div id="acp-1251" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/our-supporters/st-peters-college-foundation/st-peters-college-foundation-trustees" class="mobile-menu-link">The St Peter&#039;s College Foundation - Trustees</a></dd></dl> </div></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/peter%E2%80%99s-people" class="mobile-menu-link">Peter’s People</a><a href="/#acp-1287" class="plus-minus">+</a><div id="acp-1287" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/alumni-friends/peter%E2%80%99s-people/notable-alumni" class="mobile-menu-link">Notable Alumni</a></dd><dd class="accordion-navigation"><a href="/alumni-friends/peter%E2%80%99s-people/births-marriages-and-deaths" class="mobile-menu-link">Births, Marriages and Deaths</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/alumni-friends/contact-us" class="mobile-menu-link">Contact Us</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/conferences" class="mobile-menu-link">Conferences</a><a href="/#acp-916" class="plus-minus">+</a><div id="acp-916" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/conferences/enquiries-and-booking" class="mobile-menu-link">Enquiries and Booking</a></dd><dd class="accordion-navigation"><a href="/conferences/meeting-and-conference-rooms" class="mobile-menu-link">Meeting and Conference Rooms</a><a href="/#acp-1068" class="plus-minus">+</a><div id="acp-1068" class="content"> <dl class="accordion" data-accordion ><dd class="accordion-navigation"><a href="/conferences/meeting-and-conference-rooms/dorfman-centre" class="mobile-menu-link">The Dorfman Centre</a></dd><dd class="accordion-navigation"><a href="/conferences/meeting-and-conference-rooms/theberge-room" class="mobile-menu-link">The Theberge Room</a></dd><dd class="accordion-navigation"><a href="/conferences/meeting-and-conference-rooms/miles-room" class="mobile-menu-link">The Miles Room</a></dd><dd class="accordion-navigation"><a href="/conferences/meeting-and-conference-rooms/davis-room" class="mobile-menu-link">The Davis Room</a></dd></dl> </div></dd><dd class="accordion-navigation"><a href="/conferences/accommodationbb" class="mobile-menu-link">Accommodation/B&amp;B</a></dd><dd class="accordion-navigation"><a href="/conferences/dining-hall" class="mobile-menu-link">The Dining Hall</a></dd></dl> </div></dd></dl>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  
+</section>            
+          </div>
+            </div>
+    <aside class="right-off-canvas-menu">
+      <div class="trigger-exit-off-canvas">
+        <i class="fi-x"></i>
+      </div>
+            </aside>
+  <!--.page -->
+    <div role="document" class="page">
+    <!--.l-header region -->
+    <header role="banner" class="l-header">
+    <!-- Title, slogan and menu -->
+          <!-- End title, slogan and menu -->
+          <!--.l-header-region -->
+				<section class="l-header-region collapse row">
+					<div class="large-16 columns">
+              <section class="block block-panels-mini block-panels-mini-second-header-mini-panel header">
+
+      
+      <div id="mini-panel-second_header_mini_panel">  <div class="row collapse">
+    <div class="large-12 medium-11 small-16 columns collapse">
+      <div class="panel-pane pane-menu-tree pane-main-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-2 menu-name-main-menu parent-mlid-main-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children active-trail menu-mlid-940"><a href="/study-here" class="active-trail">Study Here</a></li>
+<li class="leaf has-children menu-mlid-922"><a href="/college-life">College Life</a></li>
+<li class="leaf has-children menu-mlid-919"><a href="/whos-here">Who&#039;s here</a></li>
+<li class="leaf has-children menu-mlid-895"><a href="/about">About</a></li>
+<li class="leaf has-children menu-mlid-915"><a href="/alumni-friends">Alumni &amp; Friends</a></li>
+<li class="last leaf has-children menu-mlid-916"><a href="/conferences">Conferences</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-4 medium-5 small-16 columns collapse">
+      <div class="panel-pane pane-custom pane-4 social-pane"  >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu social-menu"><li class="last"><a class="flickr-icon social-icon" href="https://www.flickr.com/photos/stpeterscollege/sets/" target="_blank">FlickR</a></li>
+<li><a class="social-icon linkedin-icon" href="http://www.linkedin.com/groups/St-Peters-College-University-Oxford-1656667?trk=groups_guest_most_popular-h-dsc&amp;goback=.gmp_1656667" target="_blank">Linkedin</a></li>
+<li><a class="social-icon youtube-icon" href=" http://www.youtube.com/spcoxford" target="_blank">Youtube</a></li>
+<li><a class="twitter-icon social-icon" data-options="is_hover:true; hover_timeout:5000" data-dropdown="drop5" href="#" target="_blank">Twitter</a><br /><ul class="menu f-dropdown" data-dropdown-content="" id="drop5"><li><a href="https://twitter.com/SPC_Oxford " target="_blank">College Twitter</a></li>
+<li><a href="https://twitter.com/SPC_Alumni " target="_blank">Alumni Twitter</a></li>
+<li><a href="https://twitter.com/SPCJCR" target="_blank">JCR Twitter</a></li>
+<li><a href="https://twitter.com/SPCOutreach" target="_blank">Outreach Twitter</a></li>
+<li><a href="https://twitter.com/spcboatclub" target="_blank">Boat Club Twitter</a></li>
+<li><a href="https://twitter.com/SPC_Choir" target="_blank">Choir Twitter</a></li>
+<li><a href="https://twitter.com/markdamazer" target="_blank">Master's Twitter</a></li>
+</ul></li>
+<li><a class="facebook-icon social-icon" data-options="is_hover:true; hover_timeout:5000" data-dropdown="drop6" href="#" target="_blank">Facebook</a><br /><ul class="menu f-dropdown" data-dropdown-content="" id="drop6"><li class="first">Choose one of our channels</li>
+<li><a href="https://www.facebook.com/StPetersCollegeOxford" target="_blank">College Facebook</a></li>
+<li><a href="https://www.facebook.com/pages/St-Peters-College-Alumni/41323457298" target="_blank">Alumni Facebook</a></li>
+<li><a href=" https://www.facebook.com/spcadmissions" target="_blank">Admissions Facebook</a></li>
+<li><a href="https://www.facebook.com/spcchoir" target="_blank">Choir Facebook</a></li>
+<li><a href="https://www.facebook.com/StPetersCollegeBoatClub" target="_blank">Boat Club Facebook</a></li>
+<li><a href="https://www.facebook.com/MarkDamazer" target="_blank">Master's Facebook</a></li>
+</ul></li>
+</ul>  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div>  
+</section>        </div>
+				</section>
+				<!--/.l-header-region -->
+    
+  </header>
+			<!--/.l-header -->
+
+  
+  
+  
+  <main role="main" class="row collapse l-main">
+			<div class="large-16 main columns">
+      
+      <a id="main-content"></a>
+
+      
+                      <h1 id="page-title" class="title">Visiting Students - English Literature</h1>
+              
+                            
+      
+        
+      
+      <div class="row collapse row-top row-first">
+  <div class="large-16 columns">
+      </div>
+</div>
+<div class="row collapse row-middle middle-first">
+  <div class="large-4 medium-6 small-16 columns left-column">
+    <div class="column-content">
+      <div class="panel-pane pane-menu-tree pane-main-menu"  >
+  
+        <h2 class="pane-title">
+      Course Options    </h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-1 menu-name-main-menu parent-mlid-main-menu:0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-1446"><a href="/study-here/visiting-students/course-options/archaeology-and-anthropology">Archaeology and Anthropology</a></li>
+<li class="leaf menu-mlid-1445"><a href="/study-here/visiting-students/course-options/biological-sciences">Biological Sciences</a></li>
+<li class="leaf active-trail active menu-mlid-1444"><a href="/study-here/visiting-students/course-options/english-literature" class="active-trail active">English Literature</a></li>
+<li class="leaf menu-mlid-1447"><a href="/study-here/visiting-students/course-options/maths">Maths</a></li>
+<li class="last leaf has-children menu-mlid-1448"><a href="/study-here/visiting-students/course-options/modern-languages">Modern Languages</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+    </div>
+  </div>
+  <div class="large-12 medium-10 small-16 columns right-column">
+    <div class="column-content">
+      <div class="panel-pane pane-page-breadcrumb"  >
+  
+      
+  
+  <div class="pane-content">
+    <h2 class="element-invisible">You are here</h2><ul class="breadcrumbs"><li><a href="/">Home</a></li><li><a href="/study-here">Study Here</a></li><li><a href="/study-here/visiting-students">Visiting Students</a></li><li><a href="/study-here/visiting-students/course-options">Course Options</a></li><li class="current"><a href="#">Visiting Students - English Literature</a></li></ul>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-content-page-image-and-intro-tex"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="row collapse" id="mini-panel-content_page_image_and_intro_tex">
+  <div class="large-16 columns">
+    <div class="panel-pane pane-entity-field pane-node-field-introduction-paragraph"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-introduction-paragraph field-type-text-long field-label-hidden field-wrapper"><h2>English Literature</h2>
+<p>As an Oxford student, you will find that you are given a great deal of freedom to follow your own interests and work independently. Each course you take will be designed in consultation with your tutor, usually in an initial meeting at the start of term.</p>
+<p>Formal teaching consists of one or two tutorials each week; either on your own or with another student. Each tutorial lasts and hour, and will usually consist of a discussion of the written work you have produced tha tweek, and of the reading you have been advised to do. In addition to tutorials, you will have the chance to attend any lectures you choose. Oxford also has a vast number of extra seminars, talks, readings, workshops, discussion groups, theatrical events and so forth, all of which will be open to you.</p>
+<p>As a Visiting Student, you have considerably more flexibility than registered undergraduates because they study specified courses leading to final examinations. You are more likely to be taught on your own or with another Visiting Student than with the undergraduates at St Peter's. However, if you wish to be more fully integrated into the 2nd year - the year you will be associated with - you can take the same courses as students in that year. There are survey courses of particular literary periods - those primarily studied in the 2nd year are: Medieval literature, Literature in English 1550-1660, Literature in English 1660-1760 and Literature in English 1760-1830.</p>
+<p>In the course of each eight-week term, we expect you to take 12 tutorials. The normal division is to take 8 tutorials in one subject and 4 in another. Those taking a double major, or with a major or minor in English, will have a similar workload divided over the two disciplines.</p>
+<h3>List of Courses</h3>
+<p>Anglo-Saxon Literature</p>
+<p>Medieval Literature</p>
+<p>Literature in English 1550-1660</p>
+<p>Literature in English 1660-1760</p>
+<p>Literature in English 1760-1830</p>
+<p>Romantic Literature/Romantic Poetry (1780-1830)</p>
+<p>Victorian Literature</p>
+<p>Literature in English 1910 - the present</p>
+<p>Chaucer</p>
+<p>Shakespeare/Renaissance Drama</p>
+<p>Milton</p>
+<p>Wordsworth and Coleridge</p>
+<p>Tennyson and Browning</p>
+<p>Charles Dickens</p>
+<p>George Eliot</p>
+<p>The Brontës</p>
+<p>Jane Austen</p>
+<p>Twentieth-Century British and Irish Drama</p>
+<p>Irish Literature, 1900 - present day</p>
+<p>Toni Morrison/African American fiction</p>
+<p>Literature and Empire</p>
+<p>Decadence and the 1890s</p>
+<p>Virginia Woolf</p>
+<p>American Literature</p>
+<p>Critical Theory</p>
+<p>Nineteenth or Twentieth Century Children's Literature</p>
+<p>Creative Writing</p>
+</div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+    </div>
+  </div>
+</div>
+  <div class="row collapse row-bottom row-last">
+    <div class="large-16 columns">
+          </div>
+  </div>
+  
+    </div>
+			<!--/.main region -->
+
+    
+      </main>
+			<!--/.main-->
+
+  
+  
+  <!--.l-footer-->
+	<footer class="l-footer panel" role="contentinfo">
+	<div class="footer-inner">
+    	<div class="squeeze row collapse">
+                  <div class="footer large-16 medium-16 small-16 columns">
+                <section class="block block-panels-mini block-panels-mini-footer-mini-panel">
+
+      
+      <div id="mini-panel-footer_mini_panel">  <div class="large-16 collapse row">
+    <div class="large-3 medium-3 small-16 columns">
+      <div class="panel-pane pane-menu-tree pane-main-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-3 menu-name-main-menu parent-mlid-main-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children active-trail menu-mlid-940"><a href="/study-here" class="active-trail active-trail">Study Here</a></li>
+<li class="leaf has-children menu-mlid-922"><a href="/college-life">College Life</a></li>
+<li class="leaf has-children menu-mlid-919"><a href="/whos-here">Who&#039;s here</a></li>
+<li class="leaf has-children menu-mlid-895"><a href="/about">About</a></li>
+<li class="leaf has-children menu-mlid-915"><a href="/alumni-friends">Alumni &amp; Friends</a></li>
+<li class="last leaf has-children menu-mlid-916"><a href="/conferences">Conferences</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-3 medium-3 small-16 columns">
+      <div class="panel-pane pane-menu-tree pane-menu-secondary-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-menu-secondary-menu-2 menu-name-menu-secondary-menu parent-mlid-menu-secondary-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-924"><a href="/study-here/undergraduate-study" title="">Undergraduate Study</a></li>
+<li class="leaf menu-mlid-1162"><a href="/study-here/postgraduate-study" title="">Postgraduate Study</a></li>
+<li class="leaf menu-mlid-1164"><a href="/Node/9" title="">Choir</a></li>
+<li class="leaf has-children menu-mlid-917"><a href="/alumni-friends/events" title="">News and Events</a></li>
+<li class="leaf has-children menu-mlid-1079"><a href="/blogs" title="">Blogs</a></li>
+<li class="last leaf menu-mlid-1440"><a href="/about/vacancies" title="">Vacancies</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-3 medium-3 small-16 columns">
+      <div class="panel-pane pane-menu-tree pane-menu-contact-menu"  >
+  
+      
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-menu-contact-menu-1 menu-name-menu-contact-menu parent-mlid-menu-contact-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-907"><a href="/about/contact-us" title="">CONTACT</a></li>
+<li class="leaf menu-mlid-908"><a href="/about/getting-st-peters" title="">FIND US</a></li>
+<li class="last leaf menu-mlid-909"><a href="/user" title="">LOG IN</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-3 medium-3 small-16 columns">
+      <div class="panel-pane pane-custom pane-7 footer-box"  >
+  
+      
+  
+  <div class="pane-content">
+    <p>ST PETER'S COLLEGE<br />
+NEW INN HALL STREET<br />
+OXFORD<br />
+OX1 2DL<br />
+TEL: +44 (0)1865 278900</p>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-4 medium-4 small-16 columns">
+      <div class="panel-pane pane-custom pane-6 footer-logo-box"  >
+  
+      
+  
+  <div class="pane-content">
+    <p><a target="_blank" class="university-of-oxford-logo" href="http://www.ox.ac.uk">University of Oxford logo</a><a class="st-peters-footer-logo" href="/node/1">footerlogo</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+    <div class="large-16 medium-16 small-16 columns footer-bottom">
+      <div class="panel-pane pane-custom pane-5 footer-box large-12 medium-12 small-12"  >
+  
+      
+  
+  <div class="pane-content">
+    <p>© St Peter’s College 2014. Registered Charity Number no. 1143166 All Rights Reserved                         <a href="/content/credits">Credits</a></p>
+  </div>
+
+  
+  </div>
+    </div>
+  <div>
+</div>  
+</section>          </div>
+        
+                <!-- <div class="copyright large-12 columns">
+            &copy; */           </div> -->
+                </div> 
+      </div>
+	</footer>
+	<!--/.footer-->
+
+  
+  </div>
+		<!--/.page -->
+
+		<a class="exit-off-canvas"></a>
+	</div>
+</div>
+<!-- .off-canvas-list -->
+
+      <script>
+    (function ($, Drupal, window, document, undefined) {
+      $(document).foundation();
+    })(jQuery, Drupal, this, this.document);
+  </script>
+</body>
+</html>

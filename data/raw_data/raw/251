@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<!-- force compatibility mode (quirks mode) off in IE  to avoid IE8/9/10 rendering as IE7 -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=no" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="http://help.it.ox.ac.uk/sites/ithelp/themes/ithelp/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Nexus Exchange Service | IT Services Help Site</title>  
+  <link type="text/css" rel="stylesheet" href="http://help.it.ox.ac.uk/sites/ithelp/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://help.it.ox.ac.uk/sites/ithelp/files/css/css_Tjo5gyvrql_M4dpLuRHuHTbnce8kvM_c0_kN8b5v5B4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://help.it.ox.ac.uk/sites/ithelp/files/css/css_1xUMOa7ITpVgfUhq4Zlzk8YlmiCu8beZ-0UKdUXMkzQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://help.it.ox.ac.uk/sites/ithelp/files/css/css_r6Z9D6bJbahz9BHX0ApdIElj6XDA8wYPCiH-DIxcBoM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://help.it.ox.ac.uk/sites/ithelp/files/css/css_502IbVe5W3NUyba-2cPzuAqBDVbPqa4M0Xq_iYRF0i8.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://help.it.ox.ac.uk/sites/ithelp/files/css/css_7Zm-__T-_BMsdxTKMPHiKgvZwzhQ7yb09IElsrSWiG0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Serif:700,700italic,italic,regular|Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic,italic,regular|Open+Sans+Condensed:300,300italic,700&amp;subset=latin" media="all" />
+<link type="text/css" rel="stylesheet" href="http://help.it.ox.ac.uk/sites/ithelp/files/css/css_QQyplUnPtIXDtEbdeGhk3mb9sNFz6JpycIAJzef_qVg.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://help.it.ox.ac.uk/sites/ithelp/files/css/css_xONE7GA4hL6me2IJYG5n2M4raDavDMcfW-o7wLyh2W4.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="http://help.it.ox.ac.uk/sites/ithelp/files/css/css_fL9n7EgLtTUIa9b0vdRVSHaJMT6WohAcG4tMwLrvqE0.css" media="all" />
+<!--<![endif]-->
+  <script type="text/javascript" src="http://help.it.ox.ac.uk/sites/ithelp/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="http://help.it.ox.ac.uk/sites/ithelp/files/js/js_BNiRnytJHmBpzXXas2WUhU1xnq2axFFNlEHSnVuZeJg.js"></script>
+<script type="text/javascript" src="http://help.it.ox.ac.uk/sites/ithelp/files/js/js_NayFx6aLb434arrFY2Baizan8T4knVJXr1euJ3cMzPQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-55274428-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://help.it.ox.ac.uk/sites/ithelp/files/js/js_xBpUB28a82njEHp4aMbTm81udtfoVS8wfYcgxguMr8A.js"></script>
+<script type="text/javascript" src="http://help.it.ox.ac.uk/sites/ithelp/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"ithelp","theme_token":"vou3JXLjKCgkoygSyMAuYGE82Bl4gMwAYumstpkFJDs","js":{"0":1,"1":1,"2":1,"3":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/cookiecontrol\/js\/cookieControl-5.1.min.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/js\/responsive_menus_simple.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"4":1,"sites\/help.it.ox.ac.uk\/themes\/ithelp\/js\/menu.js":1,"sites\/help.it.ox.ac.uk\/themes\/ithelp\/js\/showhide_faq.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/help.it.ox.ac.uk\/modules\/custom\/google_appliance\/theme\/google_appliance.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/custom\/shib_auth\/shib_auth.css":1,"sites\/all\/modules\/responsive_menus\/styles\/responsive_menus_simple\/css\/responsive_menus_simple.css":1,"sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/font-awesome\/css\/font-awesome.min.css":1,"sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/print.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"http:\/\/fonts.googleapis.com\/css?family=Droid+Serif:700,700italic,italic,regular|Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic,italic,regular|Open+Sans+Condensed:300,300italic,700\u0026subset=latin":1,"sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/ckeditor-styles.css":1,"sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/global.css":1,"ie::normal::sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/ithelp-alpha-default.css":1,"ie::normal::sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/ithelp-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"narrow::sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/ithelp-alpha-default.css":1,"narrow::sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/ithelp-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/ithelp-alpha-default.css":1,"normal::sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/ithelp-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"wide::sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/ithelp-alpha-default.css":1,"wide::sites\/help.it.ox.ac.uk\/themes\/ithelp\/css\/ithelp-alpha-default-wide.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/wide\/alpha-default-wide-12.css":1}},"custom_search":{"form_target":"_self","solr":0},"responsive_menus":[{"toggler_text":"\u2630 ","selectors":["#block-menu-block-2","#block-menu-menu-a-to-z-navigation","#block-user-login","#block-menu-menu-get-it-help"],"media_size":"740","absolute":true,"remove_attributes":true,"responsive_menus_style":"responsive_menus_simple"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1200px)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in page-taxonomy page-taxonomy-term page-taxonomy-term- page-taxonomy-term-10 context-service">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <section class="block block-menu block-menu-social-networking-links block-menu-menu-social-networking-links odd" id="block-menu-menu-social-networking-links">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Social networking links</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="http://www.it.ox.ac.uk/news/rss.xml" title="Subscribe to our RSS Feed" class="fa fa-2x fa-rss">Subscribe to our RSS Feed</a></li>
+<li class="leaf"><a href="http://twitter.com/#!/Ox_IT" title="Go to IT Services Twitter page" id="socialnetwork-twitter" class="fa fa-2x fa-twitter">Follow us on Twitter</a></li>
+<li class="leaf"><a href="http://www.facebook.com/pages/Oxford-University-Computing-Services/8392886673" title="Go to IT Services FaceBook page" id="socialnetwork-facebook" class="fa fa-2x fa-facebook">Find us on Facebook</a></li>
+<li class="last leaf"><a href="https://github.com/ox-it" title="Find us on GitHub" id="socialnetwork-github" class="fa fa-2x fa-github">Find us on GitHub</a></li>
+</ul>    </div>
+  </div>
+</section><section class="block block-menu block-menu-header-shortcuts block-menu-menu-header-shortcuts even" id="block-menu-menu-header-shortcuts">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Header Shortcuts</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="leaf"><a href="http://www.it.ox.ac.uk/want/get-started" title="Getting started" class=""><i class="fa fa-2x fa-hand-o-right "> </i><span>Getting started</span></a></li><li class="leaf"><a href="https://register.it.ox.ac.uk/self/index/" title="Manage accounts" class=""><i class="fa fa-2x fa-dashboard "> </i><span>Manage accounts</span></a></li><li class="leaf"><a href="http://owa.nexus.ox.ac.uk" title="Nexus email" class=""><i class="fa fa-2x fa-envelope-o "> </i><span>Nexus email</span></a></li><li class="leaf"><a href="http://www.it.ox.ac.uk/status" title="Service status" class=""><i class="fa fa-2x fa-check "> </i><span>Service status</span></a></li><li class="leaf"><a href="http://www.it.ox.ac.uk/rules" class=""><i class="fa fa-2x fa-book "> </i><span>IT rules</span></a></li><li class="leaf"><a href="http://blogs.it.ox.ac.uk/" title="Read our blog" class=""><i class="fa fa-2x fa-comment-o "> </i><span>Blogs</span></a></li></ul>    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+          </div>
+</div>
+  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-12 region region-header-first" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-menu block-menu-header-logos block-menu-menu-header-logos odd block-without-title" id="block-menu-menu-header-logos">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="http://www.ox.ac.uk/" id="oxCrest">University of Oxford</a></li>
+<li class="last leaf"><a href="http://www.it.ox.ac.uk" id="itServices">IT Services</a></li>
+</ul>    </div>
+  </div>
+</div><div class="block block-menu block-menu-site-name-home-link block-menu-menu-site-name-home-link even block-without-title" id="block-menu-menu-site-name-home-link">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first last leaf"><a href="/">IT Help</a></li>
+</ul>    </div>
+  </div>
+</div><div class="block block-google-appliance block-ga-block-search-form block-google-appliance-ga-block-search-form odd block-without-title" id="block-google-appliance-ga-block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form class="search-form search-google-appliance-search-form" action="/service/nexus-exchange-service" method="post" id="google-appliance-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search Google Appliance</h2>
+    <div class="form-item form-type-textfield form-item-search-keys">
+  <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+ <input placeholder="Search" type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-item form-type-radios form-item-collection">
+  <label for="edit-collection">Search within: </label>
+ <div id="edit-collection" class="form-radios"><div class="form-item form-type-radio form-item-collection">
+ <input type="radio" id="edit-collection-itservices" name="collection" value="itservices" class="form-radio" />  <label class="option" for="edit-collection-itservices">all </label>
+
+</div>
+<div class="form-item form-type-radio form-item-collection">
+ <input type="radio" id="edit-collection-itservices-help" name="collection" value="itservices-help" checked="checked" class="form-radio" />  <label class="option" for="edit-collection-itservices-help">help </label>
+
+</div>
+</div>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-7EUABVjdtPAsUHvxs2suH-GEfdA00guROGzwZecFvu4" />
+<input type="hidden" name="form_id" value="google_appliance_block_form" />
+  
+</div>
+</div></form>    </div>
+  </div>
+</div><div class="block block-menu block-menu-get-it-help block-menu-menu-get-it-help even block-without-title" id="block-menu-menu-get-it-help">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="leaf"><a href="/help/request" class=""><i class="fa fa-desktop "> </i><span>Contact the help desk</span></a></li><li class="leaf"><a href="https://oxford.saasiteu.com" class=""><i class="fa fa-list "> </i><span>View requests</span></a></li><li class="leaf"><a href="http://www.it.ox.ac.uk" title="Visit the IT Services homepage" id="it-services-homepage" class=""><span>Visit the IT Services homepage</span></a></li></ul>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-12 region region-header-second" id="region-header-second">
+  <div class="region-inner region-header-second-inner">
+    <section class="block block-menu-block block-2 block-menu-block-2 odd" id="block-menu-block-2">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">info on...</h2>
+            
+    <div class="content clearfix">
+      <div class="menu-block-wrapper menu-block-2 menu-name-menu-manual-navigation parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2148"><a href="/">Home</a></li>
+<li class="leaf has-children menu-mlid-1877"><a href="/email/index">Email</a></li>
+<li class="leaf menu-mlid-2380"><a href="http://courses.it.ox.ac.uk/" title="IT Learning Programme (ITLP)" id="itlp">Courses</a></li>
+<li class="leaf has-children menu-mlid-1878"><a href="/hfs/index" title="Backup and Archiving" name="Backup and Archiving">HFS</a></li>
+<li class="leaf has-children menu-mlid-1882"><a href="/network/index">Network</a></li>
+<li class="leaf menu-mlid-1884"><a href="/network/security/index">Security</a></li>
+<li class="leaf has-children menu-mlid-1886"><a href="/registration/index">Registration</a></li>
+<li class="leaf menu-mlid-1889"><a href="/sls/index">Software licensing</a></li>
+<li class="leaf has-children menu-mlid-1890"><a href="/telecom/index">Telecoms</a></li>
+<li class="leaf menu-mlid-1879"><a href="/weblearn/index">WebLearn</a></li>
+<li class="leaf menu-mlid-2418"><a href="http://www.skillstoolkit.ox.ac.uk/">Research skills toolkit</a></li>
+<li class="leaf menu-mlid-2889"><a href="/iam/index">Identity &amp; access</a></li>
+<li class="last leaf menu-mlid-2894"><a href="http://help.it.ox.ac.uk/chorus/index">Chorus</a></li>
+</ul></div>
+    </div>
+  </div>
+</section>  </div>
+</div>  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <aside class="grid-3 region region-sidebar-first" id="region-sidebar-first">
+  <div class="region-inner region-sidebar-first-inner">
+    <section class="block block-menu block-menu-a-to-z-navigation block-menu-menu-a-to-z-navigation odd" id="block-menu-menu-a-to-z-navigation">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Themes</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first expanded"><a href="/service/administrative-systems" title="Administrative Systems (2)">Administrative Systems (2)</a><ul class="menu"><li class="first last leaf"><a href="/service/business-intelligence" title="Business Intelligence (2)">Business Intelligence (2)</a></li>
+</ul></li>
+<li class="expanded"><a href="/service/help-support-and-desktop" title="Help, Support and Desktop (264)">Help, Support and Desktop (264)</a><ul class="menu"><li class="first leaf"><a href="/service/help-centre" title="Service Desk (64)">Service Desk (64)</a></li>
+<li class="leaf"><a href="/service/its3" title="IT Support Staff Services (ITS3) (1)">IT Support Staff Services (ITS3) (1)</a></li>
+<li class="leaf"><a href="/service/site-licensed-software-management" title="Site-licensed software management (46)">Site-licensed software management (46)</a></li>
+<li class="leaf"><a href="/service/pc-maintenance-computer-hardware-breakdown-service" title="PC Maintenance (Computer Hardware Breakdown Service) (13)">PC Maintenance (Computer Hardware Breakdown Service) (13)</a></li>
+<li class="last leaf"><a href="/service/hfs" title="Backup and Archiving Service (131)">Backup and Archiving Service (131)</a></li>
+</ul></li>
+<li class="expanded"><a href="/service/research-support-0" title="Research support (11)">Research support (11)</a><ul class="menu"><li class="first last leaf"><a href="/service/research-support" title="Research support (11)">Research support (11)</a></li>
+</ul></li>
+<li class="expanded"><a href="/service/teaching-learning-training-and-student-systems" title="Teaching, Learning, Training and Student Systems (94)">Teaching, Learning, Training and Student Systems (94)</a><ul class="menu"><li class="first leaf"><a href="/service/filming-and-podcasts" title="Filming and Podcasting (14)">Filming and Podcasting (14)</a></li>
+<li class="leaf"><a href="/service/learning-and-teaching-support" title="Learning and Teaching support (72)">Learning and Teaching support (72)</a></li>
+<li class="last leaf"><a href="/service/weblearn" title="Weblearn (8)">Weblearn (8)</a></li>
+</ul></li>
+<li class="expanded active-trail"><a href="/service/network-email-collaboration-and-communications" title="Network, Email, Collaboration and Communications (340)" class="active-trail">Network, Email, Collaboration and Communications (340)</a><ul class="menu"><li class="first leaf"><a href="/service/chorus" title="Chorus (22)">Chorus (22)</a></li>
+<li class="expanded active-trail"><a href="/service/email" title="Email (207)" class="active-trail">Email (207)</a><ul class="menu"><li class="first last leaf active-trail"><a href="/service/nexus-exchange-service" title="Nexus Exchange Service (157)" class="active-trail active">Nexus Exchange Service (157)</a></li>
+</ul></li>
+<li class="leaf"><a href="/service/network-access" title="Network Access (54)">Network Access (54)</a></li>
+<li class="leaf"><a href="/service/network-news-news.ox.ac.uk" title="Network News (news.ox.ac.uk) (5)">Network News (news.ox.ac.uk) (5)</a></li>
+<li class="leaf"><a href="/service/sharepoint" title="SharePoint (3)">SharePoint (3)</a></li>
+<li class="last leaf"><a href="/service/telecommnications" title="Telecommunications (49)">Telecommunications (49)</a></li>
+</ul></li>
+<li class="expanded"><a href="/service/servers-and-data" title="Servers and data (16)">Servers and data (16)</a><ul class="menu"><li class="first leaf"><a href="/service/data-centres" title="Data centres (3)">Data centres (3)</a></li>
+<li class="last leaf"><a href="/service/private-cloud" title="Private cloud (13)">Private cloud (13)</a></li>
+</ul></li>
+<li class="expanded"><a href="/service/consulting" title="Consulting (2)">Consulting (2)</a><ul class="menu"><li class="first last leaf"><a href="/service/software-development" title="Software Development (2)">Software Development (2)</a></li>
+</ul></li>
+<li class="expanded"><a href="/service/web-site-services" title="Web Site Services (60)">Web Site Services (60)</a><ul class="menu"><li class="first leaf"><a href="/service/web-hosting" title="Web hosting (59)">Web hosting (59)</a></li>
+<li class="last leaf"><a href="/service/open-data-service" title="Open Data Service (1)">Open Data Service (1)</a></li>
+</ul></li>
+<li class="last expanded"><a href="/service/accounts-passwords-and-security" title="Accounts, Passwords and Security (1084)">Accounts, Passwords and Security (1084)</a><ul class="menu"><li class="first leaf"><a href="/service/registration-service-account-management" title="Registration Service: Account Management (21)">Registration Service: Account Management (21)</a></li>
+<li class="leaf"><a href="/service/information-security" title="Information security (22)">Information security (22)</a></li>
+<li class="last leaf"><a href="/service/oxcert" title="OxCERT - Network Security Team (1041)">OxCERT - Network Security Team (1041)</a></li>
+</ul></li>
+</ul>    </div>
+  </div>
+</section><div class="block block-shib-auth block-login-box block-shib-auth-login-box even block-without-title" id="block-shib-auth-login-box">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="shib_login_url">
+  <a href="https://help.it.ox.ac.uk/Shibboleth.sso/Login?target=http%3A%2F%2Fhelp.it.ox.ac.uk%2F%3Fq%3Dshib_login%2Ftaxonomy%2Fterm%2F10"><i class="fa fa-user"> </i> Login</a>
+</div>
+    </div>
+  </div>
+</div>  </div>
+</aside><div class="grid-9 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <h1 class="title" id="page-title">Nexus Exchange Service</h1>
+                        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-taxonomy-term view-id-taxonomy_term view-display-id-page view-dom-id-a4ea985ff6c70f814cb8ac0201971434">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article class="node node-help-page node-teaser node-published node-not-promoted node-not-sticky author-it-services odd clearfix" id="node-help-page-13046">
+        <header>
+    <h2 class="node-title"><a href="/nexus/outlook2011/index" title="Accessing Nexus using Outlook for Mac">Accessing Nexus using Outlook for Mac</a></h2>
+  </header>
+        
+  
+  <div class="content clearfix">
+      </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article class="node node-help-page node-teaser node-published node-not-promoted node-not-sticky author-it-services even clearfix" id="node-help-page-12962">
+        <header>
+    <h2 class="node-title"><a href="/nexus/email/pop" title="Accessing Nexus using POP">Accessing Nexus using POP</a></h2>
+  </header>
+        
+  
+  <div class="content clearfix">
+      </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <article class="node node-help-page node-teaser node-published node-not-promoted node-not-sticky author-it-services odd clearfix" id="node-help-page-12952">
+        <header>
+    <h2 class="node-title"><a href="/nexus/email/clients" title="Accessing Nexus via your email program">Accessing Nexus via your email program</a></h2>
+  </header>
+        
+  
+  <div class="content clearfix">
+      </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <article class="node node-help-page node-teaser node-published node-not-promoted node-not-sticky author-it-services even clearfix" id="node-help-page-13069">
+        <header>
+    <h2 class="node-title"><a href="/nexus/web/index" title="Accessing Oxford Nexus via the web">Accessing Oxford Nexus via the web</a></h2>
+  </header>
+        
+  
+  <div class="content clearfix">
+      </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <article class="node node-help-page node-teaser node-published node-not-promoted node-not-sticky author-it-services odd clearfix" id="node-help-page-13748">
+        <header>
+    <h2 class="node-title"><a href="/nexus/outlook2011/delegate" title="Adding a Delegate in Outlook 2011">Adding a Delegate in Outlook 2011</a></h2>
+  </header>
+        
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-teaser-text field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Using Outlook 2011 for Mac to set up permissions for others to use your mailbox on your behalf</div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <article class="node node-help-page node-teaser node-published node-not-promoted node-not-sticky author-it-services even clearfix" id="node-help-page-13806">
+        <header>
+    <h2 class="node-title"><a href="/nexus/outlook2013/delegate" title="Adding or removing delegates to your Nexus mailbox using Outlook 2013">Adding or removing delegates to your Nexus mailbox using Outlook 2013</a></h2>
+  </header>
+        
+  
+  <div class="content clearfix">
+    <div class="field field-name-field-teaser-text field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Using Outlook 2013 to share parts of your mailbox (In Box, Calendar etc.) with colleagues</div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    <article class="node node-help-page node-teaser node-published node-not-promoted node-not-sticky author-it-services odd clearfix" id="node-help-page-13049">
+        <header>
+    <h2 class="node-title"><a href="/nexus/resources/resource-mailbox" title="Administrators Guide to the Resource Mailbox">Administrators Guide to the Resource Mailbox</a></h2>
+  </header>
+        
+  
+  <div class="content clearfix">
+      </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-8 views-row-even">
+    <article class="node node-help-page node-teaser node-published node-not-promoted node-not-sticky author-it-services even clearfix" id="node-help-page-12950">
+        <header>
+    <h2 class="node-title"><a href="/nexus/email/alpine/index" title="Alpine">Alpine</a></h2>
+  </header>
+        
+  
+  <div class="content clearfix">
+      </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    <article class="node node-help-page node-teaser node-published node-not-promoted node-not-sticky author-it-services odd clearfix" id="node-help-page-13003">
+        <header>
+    <h2 class="node-title"><a href="/nexus/mobile/android" title="Android device configuration with Nexus Exchange">Android device configuration with Nexus Exchange</a></h2>
+  </header>
+        
+  
+  <div class="content clearfix">
+      </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+    <article class="node node-help-page node-teaser node-published node-not-promoted node-not-sticky author-it-services even clearfix" id="node-help-page-12957">
+        <header>
+    <h2 class="node-title"><a href="/nexus/email/macmail/index" title="Apple Mail (via IMAP)">Apple Mail (via IMAP)</a></h2>
+  </header>
+        
+  
+  <div class="content clearfix">
+      </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>  </div>
+    </div>
+  
+      <h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager clearfix"><li class="pager-current first">1</li><li class="pager-item"><a title="Go to page 2" href="/service/nexus-exchange-service?page=1">2</a></li><li class="pager-item"><a title="Go to page 3" href="/service/nexus-exchange-service?page=2">3</a></li><li class="pager-item"><a title="Go to page 4" href="/service/nexus-exchange-service?page=3">4</a></li><li class="pager-item"><a title="Go to page 5" href="/service/nexus-exchange-service?page=4">5</a></li><li class="pager-item"><a title="Go to page 6" href="/service/nexus-exchange-service?page=5">6</a></li><li class="pager-item"><a title="Go to page 7" href="/service/nexus-exchange-service?page=6">7</a></li><li class="pager-item"><a title="Go to page 8" href="/service/nexus-exchange-service?page=7">8</a></li><li class="pager-item"><a title="Go to page 9" href="/service/nexus-exchange-service?page=8">9</a></li><li class="pager-ellipsis">…</li><li class="pager-next"><a title="Go to next page" href="/service/nexus-exchange-service?page=1">next ›</a></li><li class="pager-last last"><a title="Go to last page" href="/service/nexus-exchange-service?page=15">last »</a></li></ul></div>  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>      </div>
+</div>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <footer class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="footer-column footer-column-1">
+    <div class="footer-help-desk">
+      <h2>
+	Help desk</h2>
+<p>13 Banbury Road, Oxford, OX2 6NN</p>
+<p><strong>tel:</strong> (+44) 1865 273200</p>
+    </div>
+    <div class="footer-admin-address">
+      <h2>
+	Administrative address</h2>
+<p>Dartington House, University Offices, Wellington Square, Oxford OX1 2JD</p>
+    </div>
+  </div>
+  <div class="footer-column footer-column-2">
+    <div class="footer-our-offices">
+      <h2>
+	Our offices</h2>
+<p>13 Banbury Road, Oxford OX2 6NN</p>
+<p><strong>tel:</strong> (+44) 1865 273200</p>
+<p>&nbsp;</p>
+<p>Dartington House, University Offices, Wellington Square, Oxford OX1 2JD</p>
+<p><strong>tel:</strong>&nbsp;(+44) 1865 270202</p>
+<p>&nbsp;</p>
+<p>23-38 Hythe Bridge Street, Oxford OX1 2EP</p>
+<p><strong>tel:</strong> (+44) 1865 270000</p>
+<p>&nbsp;</p>
+<p>Gibson Building, Radcliffe Observatory Quarter, Woodstock Road, Oxford OX2 6GG</p>
+    </div>
+  </div>
+  <div class="footer-column footer-column-3">
+    <div class="block block-menu block-menu-site-meta-links block-menu-menu-site-meta-links odd block-without-title" id="block-menu-menu-site-meta-links">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="/accessibility">Accessibility</a></li>
+<li class="leaf"><a href="http://www.it.ox.ac.uk/about/jobs">Jobs</a></li>
+<li class="leaf"><a href="http://www.admin.ox.ac.uk/councilsec/compliance/dataprotection/privacypolicy/">Privacy</a></li>
+<li class="leaf"><a href="/cookies">Cookies</a></li>
+<li class="leaf"><a href="http://www.ox.ac.uk/legal">Legal</a></li>
+<li class="last leaf"><a href="mailto:webmaster@it.ox.ac.uk">Contact webmaster</a></li>
+</ul>    </div>
+  </div>
+</div><section class="block block-menu block-menu-footer-related-sites block-menu-menu-footer-related-sites even" id="block-menu-menu-footer-related-sites">
+  <div class="block-inner clearfix">
+              <h2 class="block-title">Related sites</h2>
+            
+    <div class="content clearfix">
+      <ul class="menu"><li class="first leaf"><a href="https://sharepoint.nexus.ox.ac.uk/sites/itservices/staff/SitePages/start.aspx">Staff Intranet</a></li>
+<li class="leaf"><a href="http://courses.it.ox.ac.uk/">IT Learning Programme courses catalogue</a></li>
+<li class="leaf"><a href="https://www.oxforduniversitystores.co.uk/browse/department.asp?compid=2&amp;modid=1&amp;deptid=85">IT Services online shop</a></li>
+<li class="leaf"><a href="https://sharepoint.nexus.ox.ac.uk/">Sharepoint</a></li>
+<li class="last leaf"><a href="http://weblearn.ox.ac.uk/">WebLearn</a></li>
+</ul>    </div>
+  </div>
+</section>  </div>
+</footer><div class="grid-12 region region-footer-second" id="region-footer-second">
+  <div class="region-inner region-footer-second-inner">
+    <div class="block block-block block-24 block-block-24 odd block-without-title" id="block-block-24">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p><a class="ucisa logo" href="http://www.ucisa.ac.uk/">Ucisa member</a></p>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+      </div>
+</div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    jQuery(document).ready(function($) {
+    cookieControl({
+        introText: '<p>This site uses cookies to store information on your computer.</p>',
+        fullText: '<p>Some cookies on this site are essential, and the site won\'t work as expected without them. These cookies are set when you submit a form, login or interact with the site by doing something that goes beyond clicking on simple links.</p><p>We also use some non-essential cookies to anonymously track visitors or enhance your experience of the site. If you\'re not happy with this, we won\'t set these cookies but some nice features of the site may be unavailable.</p><p>By using our site you accept the terms of our <a href="/cookies">Privacy Policy</a>.',
+        theme: 'dark',
+        html: '<div id="cccwr"><div id="ccc-state" class="ccc-pause"><div id="ccc-icon"><button><span>Cookie Control</span></button></div><div class="ccc-widget"><div class="ccc-outer"><div class="ccc-inner"><h2>Cookie Control</h2><div class="ccc-content"><p class="ccc-intro"></p><div class="ccc-expanded"></div><div id="ccc-cookies-switch" style="background-position-x: 0;"><a id="cctoggle" href="#" style="background-position-x: 0;" name="cctoggle"><span id="cctoggle-text">Cookies test</span></a></div><div id="ccc-implicit-warning">(One cookie will be set to store your preference)</div><div id="ccc-explicit-checkbox"><label><input id="cchide-popup" type="checkbox" name="ccc-hide-popup" value="Y" /> Do not ask me again<br /></label> (Ticking this sets a cookie to hide this popup if you then hit close. This will not store any personal information)</div><p class="ccc-about"><small><a href="http://www.civicuk.com/cookie-law" target="_blank">About this tool</a></small></p><a class="ccc-icon" href="http://www.civicuk.com/cookie-law" target="_blank"title="About Cookie Control">About Cookie Control</a><button class="ccc-close">Close</button></div></div></div><button class="ccc-expand">read more</button></div></div></div>',
+        position: 'left',
+        shape: 'triangle',
+        startOpen: true,
+        autoHide: 60000,
+        onAccept: function(cc){cookiecontrol_accepted(cc)},
+        onReady: function(){},
+        onCookiesAllowed: function(cc){cookiecontrol_cookiesallowed(cc)},
+        onCookiesNotAllowed: function(cc){cookiecontrol_cookiesnotallowed(cc)},
+        countries: '',
+        subdomains: true,
+        cookieName: 'it-services-help-site_cookiecontrol',
+        iconStatusCookieName: 'ccShowCookieIcon',
+        consentModel: 'information_only'
+        });
+      });
+    
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function cookiecontrol_accepted(cc) {
+cc.setCookie('ccShowCookieIcon', 'no');jQuery('#ccc-icon').hide();
+}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function cookiecontrol_cookiesallowed(cc) {
+
+}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+function cookiecontrol_cookiesnotallowed(cc) {
+
+}
+//--><!]]>
+</script>
+</body>
+</html>

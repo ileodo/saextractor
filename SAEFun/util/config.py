@@ -22,7 +22,7 @@ const_IS_TARGET_NO = -1
 
 const_RULE_UNKNOW = -1
 
-const_CONFIDENCE_THRESHOLD = 75
+const_CONFIDENCE_THRESHOLD = 70
 
 # path
 path_root = os.path.split(os.path.split(os.path.split(os.path.realpath(__file__))[0])[0])[0]
@@ -32,7 +32,8 @@ path_inbox_extractor = path_working + "/inbox_extractor"
 path_onto = path_root + "/onto"
 path_featurespace = path_onto + "/featurespace.xml"
 path_judge_list = path_working + "/judge_list"
-path_dtree = path_working + "/dtree"
+path_data = path_root+"/data"
+path_dtree = path_data+"/dtree"
 
 # socket
 socket_host = "localhost"
@@ -118,3 +119,17 @@ layout_attr_remove = ["name", "content", "src", "href", "id", "type", "action", 
 layout_attr_clear = ["onclick", "onmouseover", "alt", "title", "value", "onblur", "autocomplete", "maxlength",
                      "onfocus",
                      "usemap", "media", "itemscope"]
+
+#dtree
+dtree_param = {
+    "criterion": "entropy", #"gini"
+    "splitter": "best", #"best"
+    "max_features": None, #None
+    "max_depth": None, #None
+    "min_samples_split": 20, #2
+    "min_samples_leaf": 10, #1
+    "min_weight_fraction_leaf": 0., #0.
+    "max_leaf_nodes": None, #None
+    "class_weight": None, #None
+    "random_state": None #None
+}

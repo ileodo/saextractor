@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- view.default.html -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><base href="http://www.ctsu.ox.ac.uk/about-ctsu/seminars/index_html" /><link rel="stylesheet" type="text/css" media="all" href="/++theme++ctsu.web/resources/reset.css" /><link rel="stylesheet" type="text/css" media="all" href="/++theme++ctsu.web/resources/view.default.css" /><link rel="shortcut icon" type="image/x-icon" href="/++theme++ctsu.web/resources/favicon.ico" /><title>Seminars — CTSU</title></head><body><!--
+view.common.xml
+--><!--
+view.default.xml
+--><div id="masthead-wrapper">
+    <div id="masthead">
+
+        <div id="menu">
+            <ul><li><a id="menu-home" href="/">home</a></li>
+            <li><a id="menu-map" href="/sitemap">site map</a></li>
+            <li><a id="menu-contact" href="/about-ctsu/contact-information">contact</a></li>
+            <li>
+                
+    <form name="searchform" id="nolivesearchGadget_form" action="http://www.ctsu.ox.ac.uk/search">
+
+        
+        
+
+        <input name="SearchableText" type="text" size="18" title="Search Site" accesskey="4" class="searchField inputLabel" id="nolivesearchGadget" /><input class="searchButton" type="submit" value="Search" />
+
+        
+        
+    </form>
+
+    
+
+
+            </li>
+            </ul></div>
+        <div class="visualClear"></div>
+
+        <div id="title">
+            <h1>
+                <a href="/">CTSU</a>
+            </h1>
+            <h2>
+                <a href="/">Clinical Trial Service Unit and Epidemiological Studies Unit</a>
+            </h2>
+        </div>
+        <div id="logo">
+            <ul><li>
+            </li>
+            <li>
+                <a href="http://www.ox.ac.uk" title="Link to website of Oxford University"><img alt="Logo of Oxford University" src="/++theme++ctsu.web/resources/ox-square-border.gif" /></a>
+            </li>
+            </ul></div>
+        <div class="visualClear"></div>
+
+        <div id="tabs">
+            <ul><li id="portaltab-index_html" class="plain"><a href="http://www.ctsu.ox.ac.uk" title="">Home</a></li><li id="portaltab-about-ctsu" class="selected"><a href="http://www.ctsu.ox.ac.uk/about-ctsu" title="">About CTSU</a></li><li id="portaltab-research" class="plain"><a href="http://www.ctsu.ox.ac.uk/research" title="">Research</a></li><li id="portaltab-news" class="plain"><a href="http://www.ctsu.ox.ac.uk/news" title="">News</a></li><li id="portaltab-publications" class="plain"><a href="http://www.ctsu.ox.ac.uk/publications" title="">Publications</a></li><li id="portaltab-researchers" class="plain"><a href="http://www.ctsu.ox.ac.uk/researchers" title="">Staff</a></li><li id="portaltab-vacancies" class="plain"><a href="http://www.ctsu.ox.ac.uk/vacancies" title="">Vacancies</a></li></ul></div>
+        <div class="visualClear"></div>
+
+    </div>
+    </div><div id="content-wrapper">
+        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Seminars
+                </h1>
+            
+            
+        
+                             
+                             <div id="viewlet-below-content-title">
+</div>
+
+                             
+                                 
+                                 
+            
+                
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body">
+
+</div>
+                             <div id="content-core">
+                                 
+    
+        
+        <div class="" id="parent-fieldname-text">
+            <table class="invisible"><tbody><tr><td>
+<p><img class="image-inline" src="seminars.png" /></p>
+</td>
+<td>
+<p> </p>
+<br /><ul><li><a class="external-link" href="http://www.dph.ox.ac.uk/events/dphsem"><span class="external-link"><span class="external-link">Department of Public Health Research seminars</span></span></a></li>
+<li><a class="external-link" href="http://www.herc.ox.ac.uk/seminars_and_workshops/allseminars"><span class="external-link">Health Economics Research Centre seminars</span></a></li>
+<li><a class="external-link" href="http://www.publichealth.ox.ac.uk/helex/events/view-all-events"><span class="external-link">HeLEX (Centre for Health, Law and Emerging Technologies) seminars</span></a></li>
+<li><a class="external-link" href="https://www.npeu.ox.ac.uk/seminars">NPEU (National Perinatal Epidemiology Unit) seminars</a></li>
+<li><a class="external-link" href="http://www.ceu.ox.ac.uk/seminars/"><span class="internal-link"><span class="external-link"><span class="internal-link">Richard Doll Seminars in Public Health &amp; Epidemiology </span></span></span></a></li>
+<li><span class="external-link"><a class="external-link" href="http://www.well.ox.ac.uk/seminars">Wellcome Trust Centre for Human Genetics seminars</a></span></li>
+</ul><p> </p>
+</td>
+</tr></tbody></table></div>
+    
+    
+
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+</div>
+
+                            
+                        </div>
+        <div id="footer">
+<table><tr><td>
+<img alt="Sponsors' logos" src="/++theme++ctsu.web/resources/sponsors.png" /></td>
+<td style="vertical-align: middle; ">
+                © CTSU, Richard Doll Building,
+                Old Road Campus, Roosevelt Drive, Oxford, OX3 7LF.
+                <br />
+                Telephone: +44 (0)1865 743743; Fax: +44 (0)1865 743985.
+                <br /><a href="/">Home</a>
+                |
+                <a href="/sitemap">Site Map</a>
+                |
+                <a href="/about-ctsu/contact-information">Contact</a>
+                |
+                <a href="http://www.admin.ox.ac.uk/foi/">FOI</a>
+                |
+                <a href="http://www.admin.ox.ac.uk/dataprotection/privacypolicy/">Privacy</a>
+                |
+                <a href="http://www.ox.ac.uk/copyright.html">Copyright</a>
+                |
+                <a href="http://www.ox.ac.uk/accessibility">Accessibility</a>
+</td></tr></table></div>
+    </div></body><!--
+scheme=http
+host=www.ctsu.ox.ac.uk
+path=/about-ctsu/seminars
+base=http://www.ctsu.ox.ac.uk
+--><!--
+ctsu_version=0.3
+ctsu_vdate=20120912T111747
+ctsu_subtheme=view
+ctsu_title=seminars
+ctsu_tags=debug
+ctsu_view_template=default
+ctsu_dfh=seminars
+--></html>

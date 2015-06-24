@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<head>
+
+<title>Famous Lincoln Alumni</title>
+<meta http-equiv='content-type' content='text/html; charset=utf-8' />
+<meta name='keywords' content="<br />
+<b>Warning</b>:  file_put_contents(/home/www/lincoln/public_html/admin/cache/__THE_PAGE_TREE__) [<a href=function.file-put-contents>function.file-put-contents</a>]: failed to open stream: No such file or directory in <b>/home/www/lincoln/public_html/admin/pagetree.php</b> on line <b>159</b><br />"/>
+<meta name='description' content=""/>
+<script>window.siteRoot = '';window.uploadDir = '/uploads/';window.mediaDir = window.uploadDir + 'media/';</script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><script type='text/javascript'>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36665038-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<meta name='viewport' content='width=1090, maximum-scale=1.5' />
+<link rel='shortcut icon' href='/favicon.ico' />
+
+<link rel='stylesheet' type='text/css' href='/css/normalize.css' />
+<link href='http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Cabin+Condensed:400,500,600,700' rel='stylesheet' type='text/css'>
+<link rel='stylesheet' type='text/css' href='/css/style.css' />
+<link rel='stylesheet' href='/twitter/jquery.rareform.tweet.css' />
+
+
+<link rel='stylesheet' href='/js/royalslider/royalslider.css'>
+<link rel='stylesheet' href='/js/royalslider/skins/default/rs-default.css'>
+<link rel='stylesheet' href='/js/royalslider/fullWidthNoOverflow.css'>
+<script src='/js/royalslider/jquery-1.8.3.min.js'></script>
+<script src='/js/royalslider/jquery.royalslider.min.js'></script>
+<script type='text/javascript' charset='utf-8' src='/twitter/jquery.tweet.js'></script>
+
+
+<!--[if lte IE 9]>
+	<link rel="stylesheet" type="text/css" href="css/ie9.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="css/ie8.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" href="css/ie7.css" media="screen, projection">
+<![endif]-->
+
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script>window.html5 || document.write('<script src="js/html5.js"><\/script>')</script>
+<![endif]-->
+
+</head>
+
+<body>
+
+<div id='topBar'>
+	<div class='innerDiv'>
+		<ul>
+			<li><a href='/Latest-News?tag=Event'>Events</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li><a href='/Latest-News'>News</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li><a href='/contact'>Contact</a><img src='/images/topBarSeperator.png' class='topBarSeperator' width='5' height='5' /></li>
+			<li class='navTwitter'><a href='https://twitter.com/LincolnAlumni' target='_blank'><img src='/images/twitterTopBar.png' alt='follow us on twitter' /></a></li>
+			<li class='navFacebook'><a href='https://www.facebook.com/lincolnoxalumni' target='_blank'><img src='/images/facebookTopBar.png' alt='like us on facebook' /></a></li>
+		</ul>
+	</div>
+</div>
+
+<div id='menuBlock'>
+	<div class='innerDiv'>
+		<a href='/./'>
+			<img id='logo' alt='Lincoln Arms' src='/images/logo.png' width='204' height='42' />
+		</a>
+		<div id='nav'>
+			<ul class='sm0'>
+<li><a href='/Home'><span class='sm0i'>Home</span></a></li>
+<li><a href='/Rectors-Welcome'><span class='sm0i'>About Lincoln</span></a></li>
+<li><a href='/Why-Choose-Lincoln'><span class='sm0i'>Admissions</span></a></li>
+<li><a href='/Current-Students-landing-page'><span class='sm0i'>Current Students</span></a></li>
+<li><a href='/LP-Fellows'><span class='sm0i'>Fellows &amp; Staff</span></a></li>
+<li class='menuthis'><a href='/Alumni'><span class='sm0i'>Alumni</span></a></li>
+<li><a href='/Conferencing-at-Lincoln'><span class='sm0i'>Conferences at Lincoln</span></a></li>
+</ul>		</div>
+	</div>
+</div>
+
+
+<div class='rsWrap'>
+  <div class='sliderContainer fullWidth clearfix'>
+    <div id='full-width-slider' class='royalSlider heroSlider rsMinW visibleNearby'>
+
+      <div class='rsContent'>
+        <img class='rsImg' src='/uploads/media/genericSliderPics/Lincoln Pictures 314.jpg' alt='' width='972' height='295' data-rsw='972' data-rsh='295' />
+      </div>
+
+    
+      <div class='rsContent'>
+        <img style='display:block; margin-left:auto; margin-right:auto;' class='rsImg' src='/uploads/media/genericSliderPics/lincolnBanner1.jpg' alt='Lincoln College' width='972' height='295' data-rsw='972' data-rsh='295' />
+      </div>
+      
+      <div class='rsContent'>
+        <img class='rsImg' src='/uploads/media/genericSliderPics/lincolnBanner3.jpg' alt='' width='972' height='295' data-rsw='972' data-rsh='295' />
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script id='addJS'>
+jQuery(document).ready(function($) {
+  $('#full-width-slider').royalSlider({
+    addActiveClass: true,
+    arrowsNav: true,
+    loop: false,
+    keyboardNavEnabled: true,
+    controlsInside: false,
+    imageScaleMode: 'none',
+    arrowsNavAutoHide: false,
+    autoScaleSlider: false, 
+    autoScaleSliderWidth: 972,     
+    autoScaleSliderHeight: 295,
+    slidesSpacing: 0,
+    controlNavigation: 'none',
+    thumbsFitInViewport: false,
+    navigateByClick: false,
+    startSlideId: 1,
+    autoPlay: true,
+    transitionType:'move',
+    globalCaption: false,
+    deeplinking: {
+      enabled: true,
+      change: false
+    },
+
+    /* size of all images http://help.dimsemenov.com/kb/royalslider-jquery-plugin-faq/adding-width-and-height-properties-to-images */
+    imgWidth: 972,
+    imgHeight: 295
+  }).data('royalSlider');
+});
+</script>
+
+<div class='underSlider home'></div>
+
+<div class='columnContainer'>
+  <div class='innerDiv'>
+    <div class='leftSideNav'>
+      
+          <h3 class='fellowsSideNav'>
+            Alumni
+          </h3><ul class='sm0'>
+<li class='menuthis'><a href='/Alumni'><span class='sm0i'>Alumni</span></a></li>
+<li><a href='/Living-Lincoln-Campaign'><span class='sm0i'>Supporting Lincoln</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Living-Lincoln-Campaign'><span class='sm1i'>Living Lincoln Campaign</span></a></li>
+<li><a href='https://www.linc.ox.ac.uk/Annual-Appeal'><span class='sm1i'>Lincoln College Annual Appeal</span></a></li>
+<li><a href='/telethon_annual-appeal'><span class='sm1i'>The Telethon</span></a></li>
+<li><a href='/Legacies-and-Planned-Giving'><span class='sm1i'>Legacies and Planned Giving</span></a></li>
+<li><a href='/Lincoln-for-Life'><span class='sm1i'>Lincoln for Life</span></a></li>
+<li><a href='https://www.linc.ox.ac.uk/Lincoln-for-Life-Fund'><span class='sm1i'>Lincoln For Life Fund 2015</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Making-a-Gift'><span class='sm0i'>Making a Gift</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Gift-Aid'><span class='sm1i'>Gift Aid</span></a></li>
+<li><a href='/Publications-for-Donors'><span class='sm1i'>Publications for Donors</span></a></li>
+<li><a href='/Recognition-and-Naming-Opportunities'><span class='sm1i'>Recognition and Naming Opportunities</span></a></li>
+<li><a href='/Oakeshott-Room-chair-campaign'><span class='sm1i'>Oakeshott Room chair campaign</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Coming-Back-to-Lincoln'><span class='sm0i'>Coming Back to Lincoln</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Dining-in-Hall'><span class='sm1i'>Dining in Hall</span></a></li>
+<li><a href='/Staying-in-College'><span class='sm1i'>Staying in College</span></a></li>
+<li><a href='/Using-the-Library'><span class='sm1i'>Using the Library</span></a></li>
+<li><a href='/Visiting-the-Chapel'><span class='sm1i'>Visiting the Chapel</span></a></li>
+<li><a href='/Weddings'><span class='sm1i'>Weddings in College</span></a></li>
+<li><a href='/Graduation-Ceremonies'><span class='sm1i'>Graduation Ceremonies</span></a></li>
+<li><a href='/Transcripts'><span class='sm1i'>Transcripts</span></a></li>
+<li><a href='/Taking-the-MA'><span class='sm1i'>Taking the MA</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Keeping-in-Touch'><span class='sm0i'>Keeping in Touch</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Keeping-in-Touch'><span class='sm1i'>Keeping in Touch</span></a></li>
+<li><a href='/Social-Networking'><span class='sm1i'>Social Networking</span></a></li>
+<li><a href='/Lincoln-for-Life'><span class='sm1i'>Lincoln for Life</span></a></li>
+<li><a href='/University-Alumni-Services'><span class='sm1i'>University Alumni Services</span></a></li>
+<li><a href='/Missing-Alumni'><span class='sm1i'>Missing Alumni</span></a></li>
+</ul></td></tr></table></li>
+<li class='menuthis leaf'><a href='/Famous-Lincoln-Alumni'><span class='sm0i'>Famous Lincoln Alumni</span></a></li>
+<li><a href='/Publications-home'><span class='sm0i'>Publications and news</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Publications-home'><span class='sm1i'>Publications Homepage</span></a></li>
+<li><a href='/Imprint-Archive'><span class='sm1i'>Imprint Archive</span></a></li>
+<li><a href='/Record-Archive'><span class='sm1i'>Record Archive</span></a></li>
+<li><a href='/email-news'><span class='sm1i'>Email News Archive</span></a></li>
+<li><a href='/North-American-Newsletter-archive'><span class='sm1i'>North American Newsletter Archive</span></a></li>
+<li><a href='/Asia-Pacific-Newsletter'><span class='sm1i'>Asia Pacific Newsletter</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='/Forthcoming-Events'><span class='sm0i'>Events and Activities</span></a>
+<table><tr><td><ul class='sm1'>
+<li><a href='/Forthcoming-Events'><span class='sm1i'>Forthcoming Events</span></a></li>
+<li><a href='/Murray-Society-Events'><span class='sm1i'>Murray Society Events</span></a></li>
+<li><a href='/The-Crewe-Society'><span class='sm1i'>The Crewe Society</span></a></li>
+<li><a href='/Lincoln-College-Boat-Club-Society'><span class='sm1i'>Boat Club Society</span></a></li>
+<li><a href='/The-Oxford-University-Society'><span class='sm1i'>The Oxford University Society</span></a></li>
+<li><a href='/ParentsEvents'><span class='sm1i'>Parents' and Friends' Events</span></a></li>
+<li><a href='/North-American-alumni-events'><span class='sm1i'>North American alumni events</span></a></li>
+<li><a href='/Regional-Groups-and-Leaders'><span class='sm1i'>Regional Groups and Leaders</span></a></li>
+<li><a href='https://www.lincoln.ox.ac.uk/1965-year-dinner'><span class='sm1i'>1965 year dinner online booking</span></a></li>
+<li><a href='https://www.lincoln.ox.ac.uk/1995-year-dinner'><span class='sm1i'>1995 year dinner online booking</span></a></li>
+</ul></td></tr></table></li>
+<li><a href='http://www.lincolncollege-alumni.aluminate.net/'><span class='sm0i'>Lincoln Online Alumni Directory</span></a></li>
+<li><a href='/Merchandise'><span class='sm0i'>Merchandise</span></a></li>
+<li><a href='/Parents-and-Friends'><span class='sm0i'>Parents and Friends</span></a></li>
+<li><a href='/Contact-Us---DevOff'><span class='sm0i'>Contact Us</span></a></li>
+</ul>    </div>
+    <div class='rightSideMain generic'>
+      <div class='aFellow'>
+
+
+  <h1 class='wtitle'>Famous Lincoln Alumni</h1>
+  
+  <div class='mainArticle' style='clear:none;'>
+    
+    <p>There are a number of famous names&nbsp;amongst the ranks of Lincoln&#39;s alumni. A selection of some of&nbsp;the most notable can be found below.</p>
+
+<h3 class="wtitle" style="font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em; font-family: Cabin,sans-serif; line-height: normal;"><big>John Radcliffe (1650 - 1714</big>)</h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">Dr. John Radcliffe, had a great reputation as a physician in the late Seventeenth century, and has proved to be one of Oxford University&#39;s leading benefactors. His memory is perpetuated in an observatory, two libraries, a college quadrangle, a square, a road, travelling fellowships for medical students and two hospitals. </span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniJohn-Radcliffe-1650---171">Read more</a></span></p>
+
+<h3 class="wtitle" style="font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em; font-family: Cabin,sans-serif; line-height: normal;"><big>John Wesley (1703 - 1791</big>)</h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">John Wesley,&nbsp;a Fellow of Lincoln from 1726, was the founder of&nbsp;Methodism.&nbsp;</span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniJohn-Wesley-1703---1791">Read more</a></span></p>
+
+<div class="mainArticle" style="clear: none; line-height: 15.555556297302246px; word-spacing: -0.01em; margin-bottom: 13px; font-family: Cabin, sans-serif;">
+<div class="tankarticle" id="tank_125">
+<div class="mainArticle" style="clear: none; line-height: 15.555556297302246px; word-spacing: -0.01em; margin-bottom: 13px; font-family: Cabin, sans-serif;">
+<div class="tankarticle" id="tank_127">
+<h3 class="wtitle" style="font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em; font-family: Cabin,sans-serif; line-height: normal;"><big>Nevil Vincent Sidgwick (1873 - 1952</big>)</h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">Nevil Vincent Sidgwick was Lincoln&#39;s first Chemistry Fellow. He was a theoretical chemist who made significant contributions to the theory of valency and chemical bonding.</span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniNevil-Vincent-Sidgwick-18">Read more.</a></span></p>
+
+<div class="mainArticle" style="clear: none; line-height: 15.555556297302246px; word-spacing: -0.01em; margin-bottom: 13px; font-family: Cabin, sans-serif;">
+<div class="tankarticle" id="tank_126">
+<h3 class="wtitle" style="line-height: normal; font-family: Cabin,sans-serif; word-spacing: -0.13px; font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em;"><big>Edward Thomas (1878 - 1917</big>)</h3>
+
+<p><span style="font-size: 15.555556297302246px;">Famous as a writer and poet, Edward Thomas was a history scholar from 1898 - 1900.&nbsp;</span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniEdward-Thomas-1878---1917">Read more</a></span></p>
+
+<h3 style="font-family: Cabin,sans-serif; word-spacing: -0.13px;"><big>Lord Florey (1898 - 1968</big>)</h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">Howard Walter Florey was an Australian pharmacologist and pathologist who shared the Nobel prize in 1945 for his role in the making of penicillin. Florey&#39;s contribution to Oxford was not confined to scientific breakthroughs however. It was through his leadership that Oxford University&#39;s first Middle Common Room for postgraduate students was established in the Michaelmas Term in 1958 at Lincoln.&nbsp;</span><span style="font-family: Cabin, sans-serif; line-height: 15.91200065612793px; word-spacing: -0.13600000739097595px;">&nbsp;</span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniLord-Florey-1898---1968">Read more</a></span></p>
+
+<h3 class="wtitle" style="line-height: normal; font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em; font-family: Cabin,sans-serif;"><big>Dr. Seuss (1904 - 1991</big>)</h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">Theodor Seuss Geisel was an American writer, poet, and cartoonist. He was most widely known for his children&#39;s books written and illustrated as Dr. Seuss. He began, but never completed, a DPhil in English literature at Lincoln in the 1920s.</span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniDr-Seuss-1904---1991">Read more</a></span></p>
+</div>
+</div>
+
+<h3 class="wtitle" style="line-height: normal; font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em; font-family: Cabin,sans-serif;"><big>Sir Osbert Lancaster (1908 - 1986</big>)</h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">Sir Osbert Lancaster, Cartoonist, theatre-designer, pioneer of the pocket cartoon, and undisputed master of the withering one-liner, was duly rewarded for his services to art and jovial humour with a knighthood in 1975 (indeed, he is the only cartoonist thus honoured).&nbsp;</span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-size:14px;"><span style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniSir-Osbert-Lancaster-1908"><big>Read more</big></a></span></span></p>
+
+<h3 class="wtitle" style="line-height: normal; font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em; font-family: Cabin,sans-serif;"><big>Norman Heatley (1911 - 2004</big>)</h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">An Honorary Fellow of Lincoln College and one of a dedicated team of researchers in Oxford who developed penicillin&nbsp;during the Second World War as a viable antibiotic for medical use. Norman Heatley was&nbsp;a graduate in biochemistry from the University of Cambridge, who worked at the Sir William Dunn School of Pathology.</span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniNorman-Heatley-1911---200">Read more</a></span></p>
+
+<h3 class="wtitle" style="line-height: normal; font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em; font-family: Cabin,sans-serif;"><big>Sir Edward Penley Abraham (1913 - 1999</big>)</h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">Sir Edward made significant contributions to Chemistry, Biology and most notably medicine with his work on antibiotics. He was part of a research team led by Professor H.W Florey responsible for the development of penicillin and its medical applications.&nbsp;</span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniSir-Edward-Penley-Abraham">Read more</a></span></p>
+
+<h3 class="wtitle" style="line-height: normal; font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em; font-family: Cabin,sans-serif;"><big>John le Carr&eacute; (1931 - )</big></h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">John le Carr&eacute;&nbsp;is the pen name of&nbsp;David John Moore Cornwell, an Honorary Fellow of Lincoln and famous British author of espionage novels. His third novel, <em>The Spy who Came in from the Cold&nbsp;</em>(1963), became an international best-seller and remains one of his best-known works.&nbsp;<br />
+&nbsp;</span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-size: 15.555556297302246px;"><span style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniJohn-le-Carre-_1931---_" style="font-size: 13px; word-spacing: -0.01em;">Read more</a></span></span></p>
+
+<h3 class="wtitle" style="line-height: normal; font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em; font-family: Cabin,sans-serif;"><big>Emily Mortimer (1971 - )</big></h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">Emily &nbsp;Mortimer is an English actress. She began performing on stage, and has since appeared in several film and television roles. She made her feature film debut in 1996 alongside Val Kilmer in The Ghost and the Darkness (1996). Roles in various projects have followed, including Elizabeth (1998), Love&#39;s Labour&#39;s Lost (2000), Match Point (2005), Lars and the Real Girl (2007), Shutter Island (2010) and Hugo (2011).</span></p>
+
+<h3 class="wtitle" style="line-height: normal; font-size: 14px; margin: 12px 0px 8px; letter-spacing: -0.03em; font-family: Cabin,sans-serif;"><big>Stephanie Cook (1972 - )</big></h3>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">Stephanie Cook was catapulted into the limelight at the 2000 Sydney Olympic Games when she took gold in the first Women&#39;s Olympic Modern Pentathlon. She was made an Honorary Fellow of Lincoln in 2004.</span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><span style="font-family: Cabin, sans-serif; font-size: 15.555556297302246px; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;"><a href="http://www.linc.ox.ac.uk/Famous-AlumniStephanie-Cook-1972--">Read more</a></span></p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">&nbsp;</p>
+
+<p style="font-family: Cabin, sans-serif; line-height: 15.555556297302246px; word-spacing: -0.12999999523162842px;">&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+    
+     
+  </div>
+        </div>
+    </div>
+    
+
+  </div>
+</div>
+
+<div class='footer'>
+	<div class='ifooter'>
+			</div>
+	<div class='tweetBar innerDiv'>
+		<a href='https://twitter.com/LincolnAlumni' target='_blank' /><img class='tweetIcon' src='/images/footerTweet.png' /></a>
+		<!--<p class='footerTweet'>Exciting news! New Lincoln App for iPhones and iPads <a href='https://itunes.apple.com/us/app/lincoln/id660653829?ls=1&mt=8' target='_blank'>https://itunes.apple.com/us/app/lincoln/id660653829?ls=1&mt=8</a> … and Google Play for Android … 3 days ago</p>-->
+        <div class='footerTweet'></div>
+		<div class='tweetNav'>
+			<span id='tweetPrev'><</span>
+			<span id='tweetNext'>></span>
+		</div>
+	</div>
+	<div class='bottomBar innerDiv'>
+		<p><a href='http://tankcms.com' target='_blank' />powered by tank</a> | <a href='http://rareformnewmedia.com/' target='_blank'>web design oxford by rare form</a> | Lincoln College is a Registered Charity no. 1139261</p>
+	</div>
+</div>
+
+<script>
+var numOfTweetsToShow = 20;
+jQuery(function($){
+  $(".footerTweet").tweet({
+  	modpath: '/twitter/',
+    join_text: "auto",
+    username: "LincolnAlumni",
+    count: numOfTweetsToShow,
+    loading_text: "loading tweets...",
+    template: "{text}... {time}"
+  });
+
+  // twitter navigation functionality
+  // disable right click for tweet nav
+  $('.footer .tweetBar .tweetNav').live('contextmenu', function(e){
+	return false;
+  });
+  // disable drag selection for tweetBar
+  $('.footer .tweetBar').attr('unselectable','on').css({
+	'-moz-user-select':'-moz-none',
+	'-moz-user-select':'none',
+	'-o-user-select':'none',
+	'-khtml-user-select':'none', /* you could also put this in a class */
+	'-webkit-user-select':'none',/* and add the CSS class here instead */
+	'-ms-user-select':'none',
+	'user-select':'none'
+  }).bind('selectstart', function(){
+  	return false;
+  });
+
+  var currentTweet = '0';
+  $('.tweet_list li:gt('+currentTweet+')').hide();
+
+  // disable the nav buttons if there is nothing to show
+  var tweetPrevOpacity;
+  var tweetNextOpacity;
+  function checkTweetVal(){
+  	// prev button
+	if (parseFloat(currentTweet)<=0){
+		$('#tweetPrev').css('opacity', '0.4');
+		$('#tweetPrev').css('cursor', 'context-menu');
+
+	} else {
+		$('#tweetPrev').css('opacity', '1.0');
+		$('#tweetPrev').css('cursor', 'pointer');
+	}
+	// next button
+	if (parseFloat(currentTweet)>=parseFloat(numOfTweetsToShow)-1){
+		$('#tweetNext').css('opacity', '0.4');
+		$('#tweetNext').css('cursor', 'context-menu');
+	} else {
+		$('#tweetNext').css('opacity', '1.0');
+		$('#tweetNext:hover').css('cursor', 'pointer');
+	}
+	tweetPrevOpacity = $('#tweetPrev').css('opacity');
+	tweetNextOpacity = $('#tweetNext').css('opacity');
+	//console.log('prev - '+tweetPrevOpacity+',  next - '+tweetNextOpacity);
+  }
+  checkTweetVal();
+ 
+  $('#tweetPrev').click(function(){
+  	checkTweetVal();
+  	if (tweetPrevOpacity === '1'){
+  		if (!$('.tweet_list li:animated').length>0){
+		  	var prevTweet = parseFloat(currentTweet)-1;
+		  	$('.tweet_list li:eq('+currentTweet+')').fadeOut('slow',function(){
+		  		$('.tweet_list li:eq('+prevTweet+')').fadeIn();
+	  		});
+	  		currentTweet = prevTweet;
+	  		//console.log('previous tweet.  currently showing tweet is '+currentTweet);
+	  		checkTweetVal();
+	  	}
+	} else {
+		//console.log('negative value so no going back');
+	}
+  });
+
+  $('#tweetNext').click(function(){
+  	checkTweetVal();
+  	if (tweetNextOpacity === '1'){
+  		if (!$('.tweet_list li:animated').length>0){
+		  	var nextTweet = parseFloat(currentTweet)+1;
+		  	$('.tweet_list li:eq('+currentTweet+')').fadeOut('slow',function(){
+		  		$('.tweet_list li:eq('+nextTweet+')').fadeIn();
+		  	});
+		  	currentTweet = nextTweet;
+		  	//console.log('next tweet.  currently showing tweet is '+currentTweet);
+		  	checkTweetVal();
+		}
+	} else {
+		//console.log('max tweet limit reached, disable click functionality');
+	}
+  });
+});
+
+</script>

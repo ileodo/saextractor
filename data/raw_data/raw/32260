@@ -1,0 +1,671 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en">
+<head id="ctl00_Head1"><title>
+	Simple Measurements - Surface Analysis Facility
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/pepper-grinder/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=artisteer31-globeheader&amp;s=33&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Surface Analysis Facility Site Search" href="http://saf.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+    <!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	
+	<![endif]-->
+    
+<link rel='shortcut icon' href='/Data/Sites/33/skins/artisteer31-globeheader/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://saf.chem.ox.ac.uk/simple-measurements-1.aspx' /></head>
+<body id="ctl00_Body" class="pagebody">
+    <script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-42295274-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+    <form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIDD2QWAgIDD2QWDAITDw8WBB4IQ3NzQ2xhc3MFOWFydC1sYXlvdXQtY2VsbCBhcnQtc2lkZWJhcjEgbGVmdHNpZGUgbGVmdDJjb2x1bW4gY21zem9uZR4EXyFTQgICZGQCFQ8PFgQfAAU1YXJ0LWxheW91dC1jZWxsIGFydC1jb250ZW50IGNlbnRlci1sZWZ0bWFyZ2luIGNtc3pvbmUfAQICZBYCAgUPZBYCZg9kFgICAg8PFgQfAAUQYXJ0LWJveCBhcnQtcG9zdB8BAgJkFgICAw8PFgQfAAUyYXJ0LWJveC1ib2R5IGFydC1wb3N0LWJvZHkgcGFuZWx3cmFwcGVyIGh0bWxtb2R1bGUfAQICZBYCAgMPDxYEHwAFD2FydC1wb3N0Y29udGVudB8BAgJkFgICAQ8PFgQfAAUrYXJ0LWxheW91dC1jZWxsIGxheW91dC1pdGVtLTAg" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="bW9kdWxlY29udGVudB8BAgJkFgQCAQ8PFgIeB1Zpc2libGVoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHgpDYWxsYmFja0lEBSljdGwwMCRtYWluQ29udGVudCRjdGwwMCRSYXRpbmckVXNlclJhdGluZ2QCDQ8PFgIfAmhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIfAwUvY3RsMDAkbWFpbkNvbnRlbnQkY3RsMDAkUmF0aW5nQm90dG9tJFVzZXJSYXRpbmdkAhcPDxYGHwAFLmFydC1sYXlvdXQtY2VsbCBhcnQtc2lkZWJhcjIgcmlnaHRzaWRlIGNtc3pvbmUfAQICHwJoZGQCLw8PFgIfAmhkZAI3Dw8WAh8CaGRkAjkPDxYCHwJoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFFWN0bDAwJFNpdGVNZW51MSRjdGwwMAUVY3RsMDAkUGFnZU1lbnUx" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="JGN0bDAwqEmbjabV6Wah8lJ3JgX3QmUeZ0M=" />
+
+
+<script src="/ScriptResource.axd?d=UJB5l8Ixs8Z1DrU6sZEzkwu2lr_Faxw3-U1wNq723l5RZO36-euv2ryvVT3Qxz9MfoVP6ZL6q0H84aYfxlZ3SG9t6HOKa8_BoZopIG1Pm3oQURc5V21ZW7YriyS2nFcRmI2zNHygXUyfSYlforoWCACKRITLTH0VLeXSHX1apYScFjFJvHpp2Q0QpvhazFmfCZh3cnH60DG8ytrNViWqjzyB399MVo-Rm5pycT5ZGukDtKsn9JIaUcQchQpUvvtoICZ_Id4FisKxgqNCJgNVWUJloTS3LC2zVX95sip1LV4FdShcBv1WY04wOYt2C6H81tx3FQ2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAJJN2yae1Kg7mJ931W1JeKnluqpT+SRPGaj6Cukd6ylpy3G3MxPXUdpClPFm5+ctZYqfv10" />
+    
+    
+    
+    
+    <div id="art-page-background-glare-wrapper">
+        <div id="art-page-background-glare"></div>
+    </div>
+    <div id="art-page-background-middle-texture">
+        <div id="art-main">
+            <div class="cleared reset-box"></div>
+            <div class="art-box art-sheet">
+                <div class="art-box-body art-sheet-body">
+                    <div class="art-header">
+                        <div class="art-header-position">
+                            <div class="art-header-wrapper">
+                                <div class="cleared reset-box"></div>
+                                <div class="art-header-inner">
+                                    <div class="art-headerobject"><a href="http://www.ox.ac.uk/"><img vspace="10" hspace="20" align="middle" src="/oxfordbrand.gif" alt="University of Oxford"></a></div>
+                                    <div class="art-logo">
+                                        <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://saf.chem.ox.ac.uk/Default.aspx'>Surface Analysis Facility</a></h1>
+                                        <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+                                        <div id="ctl00_InsecurePanel1" class="addthisbutton">
+	
+                                            
+                                        
+</div>
+                                        <h2 id="slogan-text" class="art-logo-text">
+                                            </h2>
+                                    </div>
+                                    <div class="art-bar art-nav">
+                                        <div class="art-nav-outer">
+                                            <div class="art-nav-wrapper">
+                                                <div class="art-nav-inner">
+                                                    <div class="art-nav-center">
+                                                        
+
+<div id="ctl00_SiteMenu1_ctl00">
+		<ul id="ctl00_SiteMenu1_ctl00_UL" class="art-hmenu">
+			<li>
+				<a href="/home.aspx">
+					Home</a>
+			</li>
+			<li>
+				<a href="/services.aspx">
+					Services</a>
+			</li>
+			<li>
+				<a href="/measurement.aspx">
+					Measurement</a>
+			</li>
+			<li class="active">
+				<a class="active" href="/instruments.aspx">
+					Instruments</a>
+				<ul>
+					<li>
+						<a href="/x-ray-photoelectron-spectroscopy.aspx">
+							X-ray Photoelectron Spectroscopy</a>
+						<ul class="AspNet-TreeView-Hide treehide">
+							<li>
+								<a href="/new-page-2.aspx">
+									Operating Principles</a>
+							</li>
+						</ul>
+					</li>
+					<li class="active">
+						<a class="active" href="/ft-ir-spectroscopy.aspx">
+							FT-IR Spectroscopy</a>
+						<ul>
+							<li>
+								<a href="/new-page.aspx">
+									Accessories</a>
+							</li>
+							<li>
+								<a href="/operating-principles.aspx">
+									Operating Principles</a>
+							</li>
+							<li class="active">
+								<a class="active" href="/simple-measurements-1.aspx">
+									Simple Measurements</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/atomic-force-microscopy.aspx">
+							Atomic Force Microscopy</a>
+						<ul class="AspNet-TreeView-Hide treehide">
+							<li>
+								<a href="/operating-principles-1.aspx">
+									Operating Principles</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/ellipsometry.aspx">
+							Ellipsometry</a>
+						<ul class="AspNet-TreeView-Hide treehide">
+							<li>
+								<a href="/new-page-1.aspx">
+									Operating Principles</a>
+							</li>
+							<li>
+								<a href="/simple-measurements.aspx">
+									Simple Measurements</a>
+							</li>
+							<li>
+								<a href="/accessories.aspx">
+									Accessories</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/x-ray-reflectometry.aspx">
+							X-ray Reflectometry</a>
+						<ul class="AspNet-TreeView-Hide treehide">
+							<li>
+								<a href="/operating-principles-2.aspx">
+									Operating Principles</a>
+							</li>
+							<li>
+								<a href="/simple-measurements-2.aspx">
+									Simple Measurements</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/surface-area-analysis.aspx">
+							Surface Area Analysis</a>
+						<ul class="AspNet-TreeView-Hide treehide">
+							<li>
+								<a href="/operating-principles-3.aspx">
+									Operating Principles</a>
+							</li>
+							<li>
+								<a href="/new-page-3.aspx">
+									Simple Measurements</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/particle-analysis.aspx">
+							Particle Analysis</a>
+					</li>
+					<li>
+						<a href="/scanning-electron-microscope.aspx">
+							Scanning Electron Microscope</a>
+					</li>
+					<li>
+						<a href="/langmuir-film-balance.aspx">
+							Langmuir Film Balance</a>
+					</li>
+					<li>
+						<a href="/dropshapecontact-angle-measurements.aspx">
+							Dropshape/Contact Angle Measurements</a>
+						<ul class="AspNet-TreeView-Hide treehide">
+							<li>
+								<a href="/operating-principles-4.aspx">
+									Operating Principles</a>
+							</li>
+							<li>
+								<a href="/simple-static-measurements.aspx">
+									Simple Static Measurements</a>
+							</li>
+							<li>
+								<a href="/simple-dynamic-measurements.aspx">
+									Simple Dynamic Measurements</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/surface-modification.aspx">
+							Surface Modification</a>
+						<ul class="AspNet-TreeView-Hide treehide">
+							<li>
+								<a href="/edwards-auto-306-cryo-evaporator.aspx">
+									Edwards Auto 306 Cryo Evaporator</a>
+								<ul class="AspNet-TreeView-Hide treehide">
+									<li>
+										<a href="/evaporator-operating-principles.aspx">
+											Evaporator Operating Principles</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="/bio-rad-pt7125-barrel-plasma-etcher.aspx">
+									Bio-Rad PT7125 Barrel Plasma Etcher</a>
+								<ul class="AspNet-TreeView-Hide treehide">
+									<li>
+										<a href="/plasma-operating-principles.aspx">
+											Plasma Operating Principles</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="/autolab-type-ii-potentiostatgalvanostat.aspx">
+									Autolab type II potentiostat/galvanostat</a>
+								<ul class="AspNet-TreeView-Hide treehide">
+									<li>
+										<a href="/autolab-operating-principles.aspx">
+											Autolab Operating Principles</a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="/tgadsc.aspx">
+							TGA/DSC</a>
+					</li>
+					<li>
+						<a href="/uv-vis-spectroscopy.aspx">
+							UV-Vis Spectroscopy</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/contacts.aspx">
+					Contacts</a>
+				<ul class="AspNet-TreeView-Hide treehide">
+					<li>
+						<a href="/dr-robert-jacobs.aspx">
+							Dr Robert Jacobs</a>
+					</li>
+				</ul>
+			</li>
+			<li>
+				<a href="/booking-oxford.aspx">
+					Booking</a>
+			</li>
+			<li>
+				<a href="/downloads.aspx">
+					Downloads</a>
+			</li>
+			<li>
+				<a href="/new-page-4.aspx">
+					Links</a>
+			</li>
+		</ul>
+
+</div>
+
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cleared reset-box"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cleared reset-box"></div>
+                    <div class="art-layout-wrapper">
+                        <div class="art-content-layout">
+                            <div class="art-content-layout-row">
+                                <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+	
+                                    
+
+	<div class="art-box art-vmenublock" id="ctl00_PageMenu1_ctl00"><div class="art-box-body art-vmenublock-body"><div class="art-box art-vmenublockcontent"><div class="art-box-body art-vmenublockcontent-body">
+			<ul id="ctl00_PageMenu1_ctl00_UL" class="art-vmenu">
+				<li>
+					<a href="/x-ray-photoelectron-spectroscopy.aspx">
+						X-ray Photoelectron Spectroscopy</a>
+					<ul>
+						<li>
+							<a href="/new-page-2.aspx">
+								Operating Principles</a>
+						</li>
+					</ul>
+				</li>
+				<li class="active">
+					<a class="active" href="/ft-ir-spectroscopy.aspx">
+						FT-IR Spectroscopy</a>
+					<ul class="active">
+						<li>
+							<a href="/new-page.aspx">
+								Accessories</a>
+						</li>
+						<li>
+							<a href="/operating-principles.aspx">
+								Operating Principles</a>
+						</li>
+						<li class="active">
+							<a class="active" href="/simple-measurements-1.aspx">
+								Simple Measurements</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="/atomic-force-microscopy.aspx">
+						Atomic Force Microscopy</a>
+					<ul>
+						<li>
+							<a href="/operating-principles-1.aspx">
+								Operating Principles</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="/ellipsometry.aspx">
+						Ellipsometry</a>
+					<ul>
+						<li>
+							<a href="/new-page-1.aspx">
+								Operating Principles</a>
+						</li>
+						<li>
+							<a href="/simple-measurements.aspx">
+								Simple Measurements</a>
+						</li>
+						<li>
+							<a href="/accessories.aspx">
+								Accessories</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="/x-ray-reflectometry.aspx">
+						X-ray Reflectometry</a>
+					<ul>
+						<li>
+							<a href="/operating-principles-2.aspx">
+								Operating Principles</a>
+						</li>
+						<li>
+							<a href="/simple-measurements-2.aspx">
+								Simple Measurements</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="/surface-area-analysis.aspx">
+						Surface Area Analysis</a>
+					<ul>
+						<li>
+							<a href="/operating-principles-3.aspx">
+								Operating Principles</a>
+						</li>
+						<li>
+							<a href="/new-page-3.aspx">
+								Simple Measurements</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="/particle-analysis.aspx">
+						Particle Analysis</a>
+				</li>
+				<li>
+					<a href="/scanning-electron-microscope.aspx">
+						Scanning Electron Microscope</a>
+				</li>
+				<li>
+					<a href="/langmuir-film-balance.aspx">
+						Langmuir Film Balance</a>
+				</li>
+				<li>
+					<a href="/dropshapecontact-angle-measurements.aspx">
+						Dropshape/Contact Angle Measurements</a>
+					<ul>
+						<li>
+							<a href="/operating-principles-4.aspx">
+								Operating Principles</a>
+						</li>
+						<li>
+							<a href="/simple-static-measurements.aspx">
+								Simple Static Measurements</a>
+						</li>
+						<li>
+							<a href="/simple-dynamic-measurements.aspx">
+								Simple Dynamic Measurements</a>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="/surface-modification.aspx">
+						Surface Modification</a>
+					<ul>
+						<li>
+							<a href="/edwards-auto-306-cryo-evaporator.aspx">
+								Edwards Auto 306 Cryo Evaporator</a>
+							<ul>
+								<li>
+									<a href="/evaporator-operating-principles.aspx">
+										Evaporator Operating Principles</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="/bio-rad-pt7125-barrel-plasma-etcher.aspx">
+								Bio-Rad PT7125 Barrel Plasma Etcher</a>
+							<ul>
+								<li>
+									<a href="/plasma-operating-principles.aspx">
+										Plasma Operating Principles</a>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="/autolab-type-ii-potentiostatgalvanostat.aspx">
+								Autolab type II potentiostat/galvanostat</a>
+							<ul>
+								<li>
+									<a href="/autolab-operating-principles.aspx">
+										Autolab Operating Principles</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<a href="/tgadsc.aspx">
+						TGA/DSC</a>
+				</li>
+				<li>
+					<a href="/uv-vis-spectroscopy.aspx">
+						UV-Vis Spectroscopy</a>
+				</li>
+			</ul>
+		</div></div></div>
+	</div>
+
+
+                                    
+                                
+</div>
+                                <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+                                    
+                                    
+                                    <a id="startcontent"></a>
+                                    
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class='art-box art-post'>
+
+
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='art-box-body art-post-body panelwrapper htmlmodule'>
+<div class='art-post-inner art-article'>
+<div class='art-postmetadataheader'><h2 id="module2223" class="art-postheader moduletitle"><span class='art-postheadericon'></span></h2></div>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class='art-postcontent'>
+<div class='art-content-layout'><div class='art-content-layout-row'>
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='art-layout-cell layout-item-0 modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<h1><b><span style="color: #000080;">Recording a Spectrum using the FTS6000</span></b></h1>
+<p><br />First open Win-IR Pro 3.0 then open a new Multi-Spectral document using the new command in the file menu, then save this into your directory using the Save As command in the file menu giving it a suitable name. To take a simple spectrum use the Rapid Scan command in the collect menu, this is used when the sample is not expected to change as its spectrum is being collected. <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSoptprin.html#rapid">Rapid scanning</a> is the normal method of collecting spectra.<br /><br />Before collecting sample data using rapid scanning:<br /><br /></p>
+<ul>
+<li>The <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#purge">Purge Shutters</a> must be opened.</li>
+<li>All scan parameters must be set on the <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#pages">Rapid Scan pages</a>.</li>
+<li>The spectrometer must be properly <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#align">aligned</a> and <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Cal">calibrated</a> (with <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Setup">Setup</a>).</li>
+<li>To obtain a ratioed spectrum (absorbance or transmission), first collect a <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#nbg">new background </a>or specify an <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#ebg">existing background</a> file to use. <br /><br /><br />The buttons at the bottom of the Rapid Scan pages are:<br /><br /></li>
+<li><a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Scan">Scan</a>: Collects spectrum using parameters defined on all Rapid-Scan pages.</li>
+<li><a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#bg">Background</a> Collects background spectrum <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Setup">Setup</a> Displays interferogram, <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#align">aligns</a> the interferometer, and <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Cal">calibrates</a> the electronics.</li>
+<li>Save Saves all parameter changes you have made and exits the scan dialog box.</li>
+<li>Reset Resets all the parameters on all pages to their default values</li>
+<li>Cancel Exits the Rapid-Scan dialog box without saving any changes.</li>
+<li>Help Displays help for the current page. <br /><a><br />Before aligning or calibrating the spectrometer, or collecting a background or data, set the scan parameters on all the Rapid-Scan pages: </a><a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#elect">Electronics</a>, <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Optics">Optics</a>, <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#adv">Advanced</a>, <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#bg">Background</a>, and <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Comp">Computations</a>. The Optical Bench Layout gives a diagram of the spectrometer and may be used to check some of the options on the optics page are correct.<br /><br /><hr />
+<h2><span style="color: #000080;"><i>Purge Shutters</i></span></h2>
+<a>The sample compartment purge shutters need to be open (knobs in the "in" position) during data collection. To maximize purge recovery, close the shutters when changing sample accessories or samples (except when changing samples on the </a><a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSattach.html#Veemax">Veemax</a> or <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSattach.html#DuraSamplIR">DuraSamplIR</a> when it is not necessary to close the shutters). <br /><br /><hr />
+<h2><span style="color: #000080;"><i>Electronics</i></span></h2>
+<a>The Electronics page displays the parameters most commonly changed when collecting new data. Experienced users may have selected different values from those given here you must check that these are set before scanning or your experiment may not succeed. <br />Use the tab key or the mouse to move between fields on the scan pages. Pressing Enter in any field is the same as pressing the Scan button, which immediately starts data collection.<br /><br /><b>Speed</b> <br />The spectrometer scanning speed. Speed specifies the scanning velocity. When UDR is changed, the sampling rate is changed but the mirror velocity remains the same. The standard settings are: 5 KHz for the PbSe and DTGS detectors (an Optical Velocity 0.32 cm/sec) and 20 KHz for the MCT detectors (an Optical Velocity 1.28 cm/sec).<br /><br /><b>Filter</b> <br />This is the electronic filter for the signal. The standard settings are: 1.2 for the PbSe and DTGS detectors 5 for the MCT detectors.<br /><br /></a><a><b>UDR</b> <br />Select the undersampling (UDR) ratio, which mathematically determines the computational range of the spectrometer. It is the number of laser signal zero crossings before collecting a data point. The standard settings are: 1 for the PbSe detector and 2 for the MCT and DTGS detectors.<br /></a><a><a><br /><b>Resolution</b> <br />The smallest frequency (or wavelength) separation for which two distinct spectral lines of equal intensity can be distinguished. Common values are 8 cm-1 or 4 cm-1 for solids and liquids, 2 cm-1 or better for gases. The resolution is determined by the distance the mirror moves and hence the higher the resolution you require the longer a scan will take, therefore you should select the lowest resolution you think is necessary.<br /><br /><b>Sensitivity</b> <br />The analog-to-digital converter (ADC) and the electronics that digitize the interferogram can process signals in the ±10 volt range. Signals outside this range can cause an ADC overflow error message. To make optimum use of the available range, Sensitivity should be set so that the centerburst maximum (negative-going) is about -8 volts; if the negative-going signal does not reach -5 volts, increase the Sensitivity value. Before the interferogram is stored, its amplitude is multiplied by the Sensitivity. The default value is 1; for routine use, leave the Sensitivity set at 1.<br />If the observed signal produces an A/D overflow error (which appears in red in the status bar and causes the system to beep), first check that the Sensitivity value is not too high. If it is already 1, the signal itself must be reduced in intensity. This can be done by using: one or more wire-mesh screens inserted in the beam path in the sample compartment, or a smaller Aperture setting to lower the intensity.<br /><br /><b>Scans to Co-Add</b> <br />The number of scans to add together to form the spectrum. Co-adding improves the signal-to-noise ratio in the spectrum. The manufacturers recommended value for routine analysis is 16. The signal-to-noise is proportional to the square root of the measurement time, if all other parameters are kept the same. For a constant scan speed, therefore, the signal-to-noise is also proportional of the square root of the number of scans. For example, increasing the number of scans by a factor of 16 (i.e., from 4 to 64) will result in an improvement of signal-to-noise by a factor of 4. Because of the square root relationship, it is rarely worth co-adding more than about 1000 scans as you are past the point of diminishing returns.<br /><br /><b>Range</b> <br />Displays frequency ranges imposed by the installed hardware. The intersection (i.e., the common region) of the ranges of all the components (except the Accessory and the ATR which are comment fields only) is displayed in the Nominal row.<br /><br /><b>Save Range</b> <br />The highest and lowest frequencies (in cm-1) to be saved in the collected spectrum.<br /><br />Nominal: the default range if you do not select Custom. Nominal is based on the logical intersection (overlap) of the nominal value of the components, as displayed in the Range chart. The nominal values will depend on the components being used.<br /><br />Custom: allows you to choose the range for your experiment. The values will depend upon the detector, beamsplitter, and accessory being used.<br /><br /></a></a><hr />
+<h2><span style="color: #000080;"><i>Optics</i></span></h2>
+<a><br />This page displays hardware options. <br /><br /><b>IR Source</b> <br />This area is to select the source. The first button is for the source installed on the left side and the second is for a second source installed on the right side (enabling you to select the source for the spectral region of interest). The Off button is used for turning off both sources.<br /><br /><b>Beam</b> <br />The path for the sample beam. Selecting Internal directs the beam through the sample compartment. All the accessories described on this site are placed in the sample compartment and hence Internal should be selected. Selecting External 1 flips the mirror and directs the beam out the port on the right side of the spectrometer and into an external accessory.<br /><br /><b>Detector</b> <br />This allows you to select the detector to use for data collection. Each button corresponds to a particular detector location. This will be either internal MCT, PbSe or DTGS for all types of measurement described here.<br /><br /><b>Hardware</b> <br />Values in these fields affect the Nominal Range values shown on the </a><a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#elect">Electronics</a> page. The options in each field are pre-defined from available Bio-Rad options. All information entered here is for record-keeping only and is used to provide you with information about the hardware used for your experiment. Entries in these Hardware fields do not control or affect any hardware.<br />Beamsplitter: select the beamsplitter being used (you manually have to change the beamsplitter if the wrong one is currently installed, once you have done this you must <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#align">align</a> the interferometer, and <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Cal">calibrate</a> the electronics before taking measurements). <br />Accessory: select the accessory being used. None indicates no accessory will be used. <br />ATR Crystal: select the Attenuated Total Reflectance crystal being used or None. <br />Optical Filter: select the optical filter being used. None indicates no optical filter will be used.<br /><br /><b>Aperture</b> <br />The aperture diameter. Changing the aperture changes the size of the IR beam at the focus in the sample compartment.<br />The spectral resolution that can be achieved is a function of optical resolution and optical retardation. The Aperture setting determines the optical resolution and the Resolution setting determines the optical retardation. Achievable resolution also varies with wavelength; spectral features are more difficult to resolve at shorter wavelengths (higher frequencies).<br />Scanning at a higher resolution than can be optically provided by the aperture setting will not produce any gain in resolution, and will produce an increase in spectral noise (reducing the S/N ratio). It will also increase the time required to run the experiment and the amount of data stored. Examples of achievable resolution for some wavenumbers and apertures are:<br /><br />
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>Wavenumber</td>
+<td>Aperture Setting</td>
+<td>Achievable Resolution</td>
+</tr>
+<tr>
+<td>4000 cm-1</td>
+<td>Open</td>
+<td>4 cm-1</td>
+</tr>
+<tr>
+<td>4000 cm-1</td>
+<td>2 cm-1</td>
+<td>2 cm-1</td>
+</tr>
+<tr>
+<td>4000 cm-1</td>
+<td>0.25 cm-1</td>
+<td>0.25 cm-1</td>
+</tr>
+<tr>
+<td>4000 cm-1</td>
+<td>0.1 cm-1</td>
+<td>0.1 cm-1</td>
+</tr>
+<tr>
+<td>8000 cm-1</td>
+<td>Open</td>
+<td>8 cm-1</td>
+</tr>
+<tr>
+<td>8000 cm-1</td>
+<td>2 cm-1</td>
+<td>4 cm-1</td>
+</tr>
+<tr>
+<td>8000 cm-1</td>
+<td>0.25 cm-1</td>
+<td>0.5 cm-1</td>
+</tr>
+<tr>
+<td>8000 cm-1</td>
+<td>0.1 cm-1</td>
+<td>0.2 cm-1</td>
+</tr>
+</tbody>
+</table>
+<br /><hr />
+<h2><span style="color: #000080;"><i>Advanced</i></span></h2>
+<a><a>This page displays advanced parameters. These are normally not changed.<br /><br /><b>Interferogram Symmetry</b> <br />Symmetric is a full double-sided interferogram data collection (with a Resolution of up to 8); Asymmetric is a single-sided data collection. For most work, asymmetrical interferograms are typical. <br /><br /><b>Delay before start</b> <br />Allows you to set a delay between when you click scan and when the experiment starts.<br /><br /><b>Enable Gain Ranging</b> <br />Select to activate amplification outside the Gain Ranging Radius. If unmarked, no amplification is done outside the Gain Ranging Radius. This is normally selected (i.e., set to Enable).<br /><br /><b>Gain Ranging Radius</b> <br />The number of data points around the centerburst on which amplification does not occur. The interferogram consists of an intense centerburst region with the remainder of the interferogram having very weak intensity signals. In order to obtain the most accurate digitization of these weaker signals, electronic amplification of the signal occurs away from the centerburst. Inside a certain distance on either side of the centerburst, amplification does not occur. This distance is the Gain Range Radius, which is normally set to 40. <br /><br /><b>Enable In-Scan Co-addition</b> <br />Enables in-scan co-addition. In rapid scanning, the ADC is sampled once in each primary sampling interval through which the mirror moves. This interval is determined by the value of UDR. The FTS 6000 has an A/D converter that allows multiple samples to be taken within each primary sampling interval. If this is enabled, the spectrometer determines the number of samples taken around each point automatically. At higher scan speeds, however, it may be possible to take only one sample per point. This is usually disabled for rapid scan data collection. (If you leave this enabled, you may see a small signal-to-noise enhancement, depending on the circumstances.) <br /><br /><b>Effective Laser Wavenumber (ELWN) </b><br />The value of the laser wavenumber used in calculations. The default value is 15800.8235. Normally, you should not change this value. <br /><br /><b>Signal</b> <br />Select the input signal to collect. This should be set to AUTO. <br /><br /><b>Subtract average interferogram value</b> <br />If checked, the DC offset is subtracted out. <br />If not checked, the DC offset is not subtracted. <br /><br /><b>Use Triggered Start?</b> <br />If checked waits for trigger input before the scan starts. This should be unchecked. <br /><br /></a></a><hr />
+<h2><span style="color: #000080;"><i>Background</i></span></h2>
+<a><b>New Background</b> <br />Sample Document: click this to save the background in the current document. The Background Name changes to “CURRENT”. This places the collected background in the same document as the sample spectra.<br />New File: click this to collect a new background or overwrite an existing background. The New Background dialog box is displayed. Use the standard Windows procedure to select the desired directory. Then specify the background filename to use. Be sure that the file has a .bsp extension and do not use square brackets, in the filename. Names of existing backgrounds are shown in gray.<br /><br />Scans to Co-Add is the number of scans to add together to form the background. The recommended value depends on the experiment; in general, the value should be the same as or more than the number for the data spectra to be collected.<br /><br /></a><a><b>Existing Background</b> <br />Select: Click to use or overwrite an existing background. The Define Background dialog box is displayed. Use the standard Windows procedure to select the desired background filename. (To attach network directories, press the Network button.) To view the selected file, select Preview.<br />Alternatively, you can copy this background spectrum into the same document as you are going to collect your sample data by using the cut and paste commands in the main Win-IR pro window.<br /><br /><b>Background File Name</b> <br />The name of the file where background data is or will be stored. The background file specified on this page is used in the Ratio operation specified on the </a><a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Comp">Computations</a> page.<br /><br /><b>Background Properties</b> <br />Displays properties of the selected background, including: Status (Needs Collection or Exists), Type (Single-beam or Not a single beam), Res, UDR, and Zero Filling Factor.<br /><br />After setting all scan parameters on all Rapid Scan pages, press the Background button at the bottom of the screen. When you collect a background the New filename is copied into the Background File Name field, so that when you collect data, your new background will be used as the ratio file.<br /><br /><hr />
+<h2><span style="color: #000080;"><i>Computations</i></span></h2>
+<a><a>The Computations page defines the method to use for this scan. A method is a set of one or more operations to perform during a scan. The operations above the Stop bar in the active method are automatically performed when you start a scan. You can view the result of each operation by using Reprocess on the Options menu.<br /><br />Post Collect Operations: lists the individual operations in the selected method. Change the number of operations done in the method by dragging the Stop bar up or down in the list. The Computations page initially lists the operations in the most recently used or defined method. After a scan, the method operations are listed in the history property of the spectrum. The history can be viewed with Property Browse Bar on the View menu.<br /><br />All steps above the Stop bar are performed when you collect data.<br /><br />If the Stop bar is above Compute only an interferogram is collected. <br /><br />The Compute operation Fourier transforms the interferogram into a single-beam spectrum. <br /><br />The Ratio operation calculates the ratio of two spectra—usually the ratio of a sample spectrum to its associated background spectrum. <br /><br />The Truncate operation reduces the range of the resulting spectrum to the specified values, which must be within the Save Range values from the Electronics page. <br /><br />The Absorbance to %Transmittance operation converts the absorbance spectra to a percent transmittance spectra. <br /><br />If you perform the first three operations (Compute, Ratio, and Truncate), a standard absorbance spectrum is produced. <br /><br />To specify parameters for the Compute, Ratio, or Truncate operation, click on the desired operation. <br /><br /><b>Method Source</b>: select the name of the desired method. The Default method includes three operations: Compute, Ratio, and Truncate. These operations are described below. Using the default method produces a standard absorbance spectrum. The Currently Defined method is the method associated with the active spectrum.<br /><br /><b>Set to Default</b>: press to move the Stop bar below the Compute, Ratio, and Truncate set of operations. <br /><br /><b>Collect Method File</b>: enter the name of the file in which to store the current collect parameters as a collect method, which you can then access from the main Win-IR Pro screen.<br /><br /><b>Set Name</b>: press to display the Save As dialog box where you specify the name to use for the Collect Method file.<br /><br /></a></a><hr />
+<h2><span style="color: #000080;"><i>Setup</i></span></h2>
+<a>In the Setup Spectrometer window, you display in real-time the interferogram to examine the signal strength. When you enter Setup, the software collects data from the optoswitch to an optical retardation of 640 microns. This data is used to locate the centerburst. A similar collection occurs when you start a rapid scan - an initialization scan is performed as the first scan to verify the centerburst location. This data is not saved as part of the collected data.<br />You can also align the interferometer and calibrate the gain ranging electronics from the Setup dialog box. You should re-align: before using the spectrometer for the first time, and after you change a source, beamsplitter, or detector. You should re-calibrate: once per day, after you change UDR, Resolution, or Speed on the Electronics page, and after you change any accessories. <br /><br /><b>Select the desired type of trace to display.</b><br /><br /><b>Interferogram:</b> displays a standard interferogram using the parameters specified in the scan pages. In this View only, the absolute value of the negative-going peak amplitude is shown in the upper left of the screen.<br /><br /><b>Single-beam:</b> displays a single beam spectrum using the parameters specified in the scan pages. <br /><br />Processed: displays a spectrum as it will appear after applying all parameters and the full method specified in the scan pages. This view can be used to preview the spectrum before you collect it. <br /><br />When setting up hardware (changing the beamsplitter, detector, or source), you should display only the Interferogram view. For this view, only a small number of points around the centerburst are collected and the system responds rapidly to changes and can recover quickly from errors.<br />Before switching to a Single-beam or Processed view, make sure that no errors, such as A/D overflow, are being reported. Both the Single-beam and Processed views are monitor modes, in which full resolution scans are performed. These scans take longer than interferogram mode scans and the system does not respond to changes or error conditions as rapidly. <br />If you are using the single beam or processed view and an A/D overflow error occurs, exit Setup and reduce the sensitivity on the Electronics page and then re-enter Setup to clear the error. (If you are viewing the interferogram, you can clear the error by reducing the sensitivity from within Setup.) <br /><br /><b>Zoom</b> <br />This magnifies a portion of the interferogram. Zoom buttons are available only if the View is Interferogram. The display can also be zoomed by using the Radar Box or the mouse directly in the trace window. <br /><br /><b>Centerburst</b> <br />This zooms the display to the centerburst portion plus approximately 20 points on each side of the interferogram. The centerburst should be stable (i.e., not moving side to side, although some slight magnitude changes are normal), and should have a magnitude of less than 10 volts zero-to-peak. If the maximum or minimum peak voltage is clipped (greater than +10 volts or less than -10 volts), you should decrease the gain by first adjusting the Sensitivity parameter. If further attenuation of the signal is needed, insert one or more wire mesh screens in the holder on the right side of the sample compartment to lower the signal to less than ±10 volts. Clipping will cause A/D overflow errors to occur. These errors are reported in the status bar. <br /><br /><b>Wings</b> <br />This zooms the display to the wings portion of the interferogram. You should see some noise (i.e., fluctuation) in the wing values making it necessary to co-add scans. If the signal is being clipped (i.e., horizontal areas instead of sharp peaks) you do not have enough signal and you should remove any filter attenuators (mesh screens) from the beam path or increase the Sensitivity. <br /><br />To return to a full interferogram display, press the Rescale X Y button or redraw the rectangle in the Radar Box.<br /><br /><b>Parameters</b> <br />The two of the more commonly adjusted parameters (Aperture and Sensitivity) can be adjusted directly in this dialog box. Other parameters can be accessed with the More Parameters button.<br /><br />The <b>aperture</b> should be matched to the resolution and wavelength region. Changing the aperture changes the size of the IR beam at the focus in the sample compartment. <br /><br />The <b>Sensitivity</b> adjusts the amplifier gain. The A/D converter and the electronics that digitize the interferogram can process signals in the ±10 volt range. Signals outside this range can cause an A/D overflow error message. To make optimum use of this, Sensitivity should be set so that the centerburst maximum (negative-going) is about -8 volts; if the negative-going signal does not reach -5 volts, increase the amplifier gain by increasing the Sensitivity value. The default value is 1; for routine use, leave the Sensitivity set at 1.<br /><br /><b>More Parameters</b> <br />Displays a subset of the Rapid Scan dialog box pages: </a><a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#elect">Electronics</a>, <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Optics">Optics</a> and <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#adv">Advanced</a> pages. On these pages, you can change any desired parameters. <br /><br /><b>Invert Peak</b> <br />Inverts the interferogram when the box is checked. To assure that Win-IR Pro calculations are performed correctly, the peak value of the interferogram must be negative-going. If the current combination of source, beamsplitter, and detector causes the peak value to be positive-going, you should click this box to invert the interferogram. The field is available only if the View is an Interferogram. <br /><br /><a><b>Align</b> <br />Starts auto alignment of the spectrometer, using the piezos on the fixed mirror. <br /><br />When you press Align, the status bar will show the message, “Performing alignment 01 of 49 done.” The counter updates as more of the alignment process is completed. When alignment is complete, an Automatic alignment completed message is displayed in the status bar. <br /><br />Alignment should be done whenever the spectrometer is turned on and whenever the beamsplitter has been changed. In general, a poorly aligned beamsplitter will result in a less intense interferogram than one that is aligned. The alignment system uses multiple reference laser beams for precise mirror tracking and accurate alignment feedback. When the alignment is complete, </a><a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSoptprin.html#Dynamic">Dynamic Alignment</a> is activated so that the servos continuously monitor and adjust the alignment. This results in reproducible scanning during extended signal averaging, effectively increasing measurement sensitivity. Instrument drift is also reduced, providing short and long term stability. <br /><br /><a><a><b>Calibrate</b> <br />Starts calibration of the gain ranging electronics. The “Performing calibration - please wait” message appears in the status bar during this process. When calibration is complete, the message, “Calibration completed” is displayed.<br /><br />Calibration should be done once a day, and whenever the Speed, Filter, or UDR parameters on the Electronics page are changed, or when changing sampling accessories. <br /><br /><b>Find Centerburst</b> This stores the relative position of the centerburst and optoswitch. This does not need to used for rapid scans.<br /><br /></a></a><hr />
+<h2><span style="color: #000080;"><i>Scan</i></span></h2>
+<a>Spectra can be stored in a new document or added to an existing document (if as suggested at the top of this page you created a new .bsp file they will be added to this). If a document is active when you press Scan and that document type is compatible with the current scan type, the new spectrum will be collected into that document. For example, if an old document is open and active, the new scan data will be added into this old document. Closing the old document and any other active documents will result in data being collected into a new document.<br /><br />If no document is active or an incompatible type of document is active, a new document with a temporary name (Spectra#) will be opened and the spectrum will be stored in it when data collection is finished (i.e., when the scan completes normally or if you press </a><a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#Stop">Stop</a> and indicate you want to save data). At that point, the document has not been saved to disk. Use File Save As to assign a more descriptive name to the document and save it in your directory.<br /><br />To start collecting a spectrum using the parameters specified on all the scan dialog box pages, press Scan. An initialization scan is performed as the first scan to verify the centerburst location. This data is not saved as part of the collected data.<br /><br />The <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#res">Resolution</a> and Zero-Filling Factor (ZFF) must be the same for the background and sample spectra. The <a href="file:///C:/DOCUME~1/ASHLEY~1.SHE/LOCALS~1/Temp/scp14923/u2/www/safweb/Instruments/FTIR/FTSsimpmease.html#UDR">UDR</a> of the background must be less than or equal to the UDR of the sample. Use the same Apodization also. If the Resolution and ZFF are not the same or if the UDR of the background is greater than that of the sample, Win-IR Pro will report a parameter mismatch after you press Scan:<br /><br />When you press Scan, the scan mode screen appears and the system begins collecting the spectrum. The status of the number of scans and number of data points collected is shown in the sidebar. Only one scan collection can be running at a time; the Scan shortcut button in the toolbar is grayed whenever a scan is occurring.<br /><br /><a><b>Stop</b> <br />Stops the data collection after the current scan. (The Stop button is grayed until the first scan is collected.) After pressing Stop, the following dialog box is displayed: <br /><br /></a><a><b>Abort</b> <br />Stops the data collection immediately and exits scan mode without saving any data.<br /><br />Scans: to change the number of scans used for this data collection, type the new number of scans and press Enter. If you type a number that is less than the number of scans already completed, the system stops scanning immediately, exits scan mode, and returns to the main window.<br /><br />When the spectrum has been collected, the system exits scan mode and displays the collected spectrum in a document in the main window. At this point, the displayed document has not been saved to disk.<br /><br />If your new spectrum is in an existing document, use Save command in the file menu to save the displayed document and overwrite the existing document on disk. If your new spectrum is in a document with a temporary name (Spectra#) or if you want to save the document to a new file, you should use Save As command in the file menu and assign a more descriptive name to the document and save it to disk in your directory.<br /></a></li>
+</ul>
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+</div></div>
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+</div><div class='cleared'></div>
+</div>
+
+
+</div>
+
+                                
+</div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cleared"></div>
+                    <div class="art-footer">
+                        <div class="art-footer-body">
+                        <div class="art-footer-center">
+                        <div class="art-footer-wrapper">
+                            <a href="#" class="art-rss-tag-icon" title="RSS"></a>
+                            <div class="art-footer-text">
+                                <p>
+                                    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a>
+                                    |
+                                    <a href='/simple-measurements-1.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a>
+                                    |
+                                    &copy; 2008 - 2015 Department of Chemistry - University of Oxford
+                                    |
+                                    <a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a>
+                                    </p>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="cleared"></div>
+                        </div>
+                    </div>
+                    <div class="cleared"></div>
+                </div>
+                <div class="cleared"></div>
+            </div>
+            <div class="cleared"></div>
+            <p class="art-page-footer">
+                <br />
+                <br />
+            </p>
+        </div>
+    </div>
+    <div class="topnavwrap">
+        <div class="topnav">
+            <ul>
+                
+                <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+                
+                <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+				<li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+                
+				
+                
+                
+                
+                <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2fsimple-measurements-1.aspx">Sign In</a></li>
+                
+            </ul>
+        </div>
+    </div>
+    <script type="text/javascript">
+        function HideMenuToolbar() { $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow"); }
+        function ShowMenuToolbar() { $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow"); }
+        $(document).ready(function () {
+            $("span.downarr a").click(function () { HideMenuToolbar(); Set_Cookie('openstate', 'closed') });
+            $("span.showbar a").click(function () { ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+            $("span.downarr a, span.showbar a").click(function () { return false; });
+            var openState = Get_Cookie('openstate');
+            if (openState != null) { if (openState == 'closed') { HideMenuToolbar(); } if (openState == 'open') { ShowMenuToolbar(); } }
+        });	
+    </script>
+    
+    <div class="cleared"></div>
+    
+    
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+    
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

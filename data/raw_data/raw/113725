@@ -1,0 +1,141 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv="Content-Language" content="en-gb">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Printing from Win 7</title>
+<!--mstheme--><link rel="stylesheet" type="text/css" href="../../_themes/ice/ice1011.css"><meta name="Microsoft Theme" content="ice 1011, default">
+<meta name="Microsoft Border" content="tlb, default">
+</head>
+
+<body><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+<p>&nbsp;</p>
+<table border="0" width="100%" id="table1">
+	<tr>
+		<td rowspan="2" width="165"><a href="http://www.stcatz.ox.ac.uk/">
+		<img border="0" src="../../_borders/full_college_trans_moto_crop_small.gif" width="120" height="150"></a></td>
+		<td valign="top"><a href="http://www.stcatz.ox.ac.uk/Default.htm">
+		<script language="JavaScript"><!--
+MSFPhover = 
+  (((navigator.appName == "Netscape") && 
+  (parseInt(navigator.appVersion) >= 3 )) || 
+  ((navigator.appName == "Microsoft Internet Explorer") && 
+  (parseInt(navigator.appVersion) >= 4 ))); 
+function MSFPpreload(img) 
+{
+  var a=new Image(); a.src=img; return a; 
+}
+// --></script><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav1n=MSFPpreload("../../_derived/ext1019_cmp_ice010_hbtn.gif"); MSFPnav1h=MSFPpreload("../../_derived/ext1019_cmp_ice010_hbtn_a.gif"); }
+// --></script><a href="http://www.stcatz.ox.ac.uk" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src"><img src="../../_derived/ext1019_cmp_ice010_hbtn.gif" width="154" height="37" border="0" alt="College Homepage" align="middle" name="MSFPnav1"></a> <script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav2n=MSFPpreload("../../Search/_derived/search_page.htm_cmp_ice010_hbtn.gif"); MSFPnav2h=MSFPpreload("../../Search/_derived/search_page.htm_cmp_ice010_hbtn_a.gif"); }
+// --></script><a href="../../Search/search_page.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2h.src" onmouseout="if(MSFPhover) document['MSFPnav2'].src=MSFPnav2n.src"><img src="../../Search/_derived/search_page.htm_cmp_ice010_hbtn.gif" width="154" height="37" border="0" alt="I.T. Search Page" align="middle" name="MSFPnav2"></a></a></td>
+	</tr>
+	<tr>
+		<td valign="bottom">
+		<font face="Century Gothic, Arial" size="30pt" style="font-size: 30pt">
+		St. Catherine's College, Oxford</font></td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+<p>
+<script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav3n=MSFPpreload("../../_derived/home_cmp_ice010_vbtn.gif"); MSFPnav3h=MSFPpreload("../../_derived/home_cmp_ice010_vbtn_a.gif"); }
+// --></script><a href="../../default.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3h.src" onmouseout="if(MSFPhover) document['MSFPnav3'].src=MSFPnav3n.src"><img src="../../_derived/home_cmp_ice010_vbtn.gif" width="154" height="37" border="0" alt="Home" name="MSFPnav3"></a><br><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav4n=MSFPpreload("../../_derived/up_cmp_ice010_vbtn.gif"); MSFPnav4h=MSFPpreload("../../_derived/up_cmp_ice010_vbtn_a.gif"); }
+// --></script><a href="Printers_IPP-based.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4h.src" onmouseout="if(MSFPhover) document['MSFPnav4'].src=MSFPnav4n.src"><img src="../../_derived/up_cmp_ice010_vbtn.gif" width="154" height="37" border="0" alt="Up" name="MSFPnav4"></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+<p><font size="5"><span style="font-variant: small-caps">Connecting To Networked 
+Printers From Microsoft Windows 7 (32-bit).</span></font></p>
+<p>&nbsp;</p>
+<p>Networked printing is accomplished using Novell's iPrint system.&nbsp; </p>
+<p>1. <a href="../../Downloads/Public/iPrint/Clients/nipp7.exe">Download the 
+	Microsoft Windows 7 (64-bit)</a> iPrint client.</p>
+<p><span style="font-family: Verdana">2. Run the iPrint 
+	installation programme downloaded in Step 1</span></p>
+<img border="0" src="Window1.jpg" width="541" height="413"><p>
+<span style="font-family: Verdana">...click 'Next' to proceed:</span></p>
+<img border="0" src="Window2.jpg" width="541" height="413"><p>
+<span style="font-family: Verdana">3...click 'Finish'.</span></p>
+<p><span style="font-family: Verdana">Open (preferably) a Firefox 
+	web browser session and go to <a href="http://penguin.stcatz.ox.ac.uk/ipp">http://penguin.stcatz.ox.ac.uk/ipp</a> and select from the leftmost column 
+	select the printer that you wish to install; the printers available to students are as 
+	follows:</span></p>
+<table border="0" width="800" id="table3">
+	<tr>
+		<td align="center">Printer description</td>
+		<td width="376" align="center">iPrint name</td>
+	</tr>
+	<tr>
+		<td>HP4250 B/W in the Staircase 18 Computer Room: </td>
+		<td width="376">ipp://129.67.51.20/ipp/HP_LJ4250 - SC18</td>
+	</tr>
+	<tr>
+		<td>HP4200 B/W in the JCR Computer Room :</td>
+		<td width="376">ipp://129.67.51.20/ipp/HP_LJ4200 </td>
+	</tr>
+	<tr>
+		<td>HP5550 colour printer in the JCR Computer Room:</td>
+		<td width="376">ipp://129.67.51.20/ipp/HP CLJ 5550 - JCR </td>
+	</tr>
+	<tr>
+		<td>HP4650 colour printer in Library North :</td>
+		<td width="376">ipp://129.67.51.20/ipp/HP_LJ4650 - Lib</td>
+	</tr>
+</table>
+<ol start="4">
+	<li>&nbsp;&nbsp; For example, to install the colour printer in Library North 
+	(the Library computer room), click on the 'HP_LJ4650 - Lib' link.</li>
+</ol>
+<p><img border="0" src="Window3.gif" width="961" height="79"></p>
+<ol start="5">
+	<li>Which will lead to the prompt:</li>
+</ol>
+<p><img border="0" src="Window4.jpg" width="448" height="224"></p>
+<ol start="6">
+	<li>Select 'yes'.</li>
+</ol>
+<p><img border="0" src="Window5.jpg" width="298" height="124"></p>
+<ol start="7">
+	<li>After some moments the printer will be installed.</li>
+</ol>
+<p><img border="0" src="Window6.jpg" width="504" height="129"></p>
+<ol start="8">
+	<li>The recently installed printer will now appear in your 'Devices and 
+	Printers' control panel.</li>
+</ol>
+<p><img border="0" src="Window7.jpg" width="109" height="141"></p>
+<ol start="9">
+	<li>Repeat steps 4 to 8 for each of the printers that you wish to install 
+	and use.</li>
+</ol>
+<p>&nbsp;</p>
+<p><font size="1">This page was last edited on
+<!--webbot bot="Timestamp" S-Type="EDITED" S-Format="%d %B %Y" startspan -->20 February 2015<!--webbot bot="Timestamp" i-checksum="41179" endspan --> by J. Keats</font></p>
+<p><br>
+&nbsp;</p>
+
+<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<p><font face="Arial, Helvetica" size="1">We 
+aim to provide accurate and current information on this website. However, we 
+accept no liability for errors or omissions, or for loss, damage or 
+inconvenience arising from using the information. We are not&nbsp; responsible 
+for the content of other websites linked to this site.</font></p>
+<table border="0" width="100%" id="table2">
+	<tr>
+		<td width="165">&nbsp;</td>
+	</tr>
+</table>
+
+</td></tr><!--msnavigation--></table></body>
+
+</html>

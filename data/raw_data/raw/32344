@@ -1,0 +1,384 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	Course - Admissions
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=chemistry-layout&amp;s=21&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Admissions Site Search" href="http://admissions.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	
+<link rel='shortcut icon' href='/Data/Sites/21/skins/chemistry-layout/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://admissions.chem.ox.ac.uk/course.aspx' /></head>
+<body id="ctl00_Body" class="pagebody">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIDD2QWAgIDD2QWDgIXDw8WAh4HVmlzaWJsZWhkZAIjDw8WAh8AaGRkAicPDxYCHghJbWFnZVVybAU1L0RhdGEvU2l0ZXMvMjEvc2tpbnMvY2hlbWlzdHJ5LWxheW91dC9oZWFkZXJwaG90by5qcGdkZAIpDw8WBh4IQ3NzQ2xhc3MFEGxlZnRzaWRlIGNtc3pvbmUeBF8hU0ICAh8AaGRkAisPDxYEHwIFOWFydC1sYXlvdXQtY2VsbCBhcnQtY29udGVudC13aWRlIGNlbnRlci1ub21hcmdpbnMgY21zem9uZR8DAgJkFgICBQ9kFgRmD2QWAgICD2QWAgIDD2QWAgIDD2QWAgIBD2QWBAIBDw8WAh8AaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh4KQ2FsbGJhY2tJRAUpY3RsMDAkbWFpbkNvbnRlbnQkY3RsMDAkUmF0aW5nJFVz" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="ZXJSYXRpbmdkAg0PDxYCHwBoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYCHwQFL2N0bDAwJG1haW5Db250ZW50JGN0bDAwJFJhdGluZ0JvdHRvbSRVc2VyUmF0aW5nZAIBD2QWAgICD2QWAgIDD2QWAgIDD2QWAgIBD2QWBAIBDw8WAh8AaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh8EBSljdGwwMCRtYWluQ29udGVudCRjdGwwMSRSYXRpbmckVXNlclJhdGluZ2QCDQ8PFgIfAGhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIfBAUvY3RsMDAkbWFpbkNvbnRlbnQkY3RsMDEkUmF0aW5nQm90dG9tJFVzZXJSYXRpbmdkAi0PDxYGHwIFEXJpZ2h0c2lkZSBjbXN6b25lHwMCAh8AaGRkAjsPDxYCHwBoZGQYAQUVY3RsMDAkU2l0ZU1lbnUxJGN0bDAwDw9kBSQ0MjA4YTIxNS0y" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="ZWJlLTQ5MTMtOTE3Yi01MzdlMDI2MGE1ZTVkQCG2tA49JE5OCTaAY1ZEn1boMMI=" />
+
+
+<script src="/ScriptResource.axd?d=GgXUWk0YGL5mkQ9-VTSrcPqQscD_-bs_hX8tBpWj_ajYK7a2jfCpfZpR7AgBGlpGqSBE2ewJEdE-P18uztHuFMmQsCACQ0siY9FQlrtAqCpem5IUheGLN7vNwM56-wglLdJL5MAs36eXoMRP03sAgE_e-pbcWLyJ5uqrq_c3zffMqSmGUscDJWjf22_5nhlMqUjPrT3LE9q6D-ibu_k7geimVGvShHGQuGv96y-nCLmwkG_S0" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAME2O0dQh/I+D/+EJDnfNKWluqpT+SRPGaj6Cukd6ylp+Yez0dntcCzzU7IqPPbjrbh5QX88tL5Og1sLExPEMCtYxMQKQ==" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://admissions.chem.ox.ac.uk/Default.aspx'>Admissions</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+	    
+
+<div class="AspNet-Menu-Horizontal" id="ctl00_SiteMenu1_ctl00">
+		<ul class="AspNet-Menu">
+			<li class="AspNet-Menu-Leaf">
+				<a href="/home.aspx" class="AspNet-Menu">
+					<span>Home</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/how-to-apply.aspx" class="AspNet-Menu">
+					<span>How to Apply</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/colleges.aspx" class="AspNet-Menu">
+					<span>Colleges</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf AspNet-Menu-SelectedLeaf">
+				<a href="/course.aspx" class="AspNet-Menu AspNet-Menu-SelectedLeaf">
+					<span>Course</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/part-ii-year.aspx" class="AspNet-Menu">
+					<span>Part II Year</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/research.aspx" class="AspNet-Menu">
+					<span>Research</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/chemistry.aspx" class="AspNet-Menu">
+					<span>Chemistry</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/oxford-.aspx" class="AspNet-Menu">
+					<span>Oxford ?</span></a>
+			</li>
+		</ul>
+
+</div>
+
+
+		
+	    <div class="topnav">
+            <ul>
+            
+            <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+            <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+            
+            
+            
+            
+            
+            <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+            <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2fcourse.aspx">Sign In</a></li>
+            
+            </ul>  
+        </div>    
+        <div id="ctl00_InsecurePanel1" class="addthisbutton">
+	
+		      
+        
+</div>
+    </div>
+    <div id="wrapcenter">
+        <img id="ctl00_imgs1" class="headerphoto" border="0" usemap="#headerMap" src="/Data/Sites/21/skins/chemistry-layout/headerphoto.jpg" alt="Department of Chemsitry" />
+<map name="headerMap" id="Map">
+  <area shape="rect" coords="6,30,504,96" href="http://www.chem.ox.ac.uk" />
+  <area shape="rect" coords="533,17,798,103" href="http://www.ox.ac.uk" />
+</map>
+	    
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content-wide center-nomargins cmszone">
+	
+            
+	        
+	        
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1410" class=" moduletitle">The Undergraduate Chemistry Course</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<script language="JavaScript" type="text/javascript">
+var randomphoto = Math.round(Math.random() * 9) + 1
+document.write ("<img alt='feedback' width='229' height='550' hspace='8' align='right' src='/Data/Sites/21/images/photobookmark"+randomphoto+".jpg' border='0'>")
+
+</script>
+<p>Oxford Chemists pursue a four-year course, with the last year taken up by a full-time research project – a long-standing and popular arrangement unique to Oxford. For the first three years, the emphasis is on mainstream Chemistry, but with a breadth that permits an appreciation of current developments over a very wide field, often crossing the boundaries with other subjects.</p>
+
+<p><b>The first year</b></p>
+
+<p>In the first year students take 4 subjects, covering the traditional areas of Inorganic, Organic and Physical chemistry together with Mathematics for Chemistry. The first three of these are very broadly based, and include topics such as Biological Chemistry and Physics, which are presented in a chemical context.</p>
+
+<p>Students must pass the Preliminary Examination in all four subjects in June of the first year. The level of the examinations is set so that with reasonable commitment the vast majority of students do pass. For the few that fail there is an opportunity to resit in September.</p>
+
+<p><b>The second year</b></p>
+
+<p>Chemistry forms the major component, although in the second year there are optional, but well supported, supplementary subjects. These naturally broaden the perspectives of students, and some are attracted to pursue their supplementary subjects further in the 4th year.</p>
+
+<p>Students take Part IA examinations at the end of the second year, comprising three 2½ hour General papers. These cover material from the first and second years and count 15% to the final overall assessment.</p>
+
+<p>Some Supplementary Subjects (optional)</p>
+
+<p style="margin-left: 40px; ">Quantum Chemistry<br />
+Aromatic and Heterocyclic Pharmaceutical Chemistry<br />
+Chemical crystallography<br />
+Modern Languages<br />
+History and Philosophy of Science<br />
+Chemical Pharmacology</p>
+
+<p>A full list of supplementary subjects available in any particular year will be communicated to undergraduates in the final term of the previous year.</p>
+
+<p><b>The third year</b></p>
+
+<p>In the third year core topics continue to be covered together with three Options selected from a very wide choice (about 15).</p>
+
+<p>Students take Part IB examinations at the end of the third year. These comprise six general papers and one option course paper. In total these examinations count 50% towards the final classification.</p>
+
+<p>Practical course</p>
+
+<p>The aim of the practical course is to ensure that students are able to perform a chemical investigation accurately, safely and efficiently, so that by the end of the course they are ready to work in a chemical research laboratory.</p>
+
+<p>Experimental Chemistry is taught in rotation at each of the three main departments. The practical course teaches the essential experimental skills, from the synthesis and characterisation of compounds to the operation of spectrometers and other instruments for physicochemical measurements. It also makes tangible much that is covered in lectures and tutorials. The practical assessments count 10% towards the final classification.</p>
+
+<p>There are also practicals concerning computer applications and chemistry software packages (such as structure drawing and molecular modelling) in the IT centre.</p>
+
+<blockquote>
+<p>"All the practical classes observed by the assessors were judged to be of excellent quality. Teaching laboratories are well equipped with routine and advanced instrumentation, and clearly benefit from the high quality research environment. .....Safety in laboratories is afforded high priority". [HEFCE]</p>
+</blockquote>
+
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+<div id='ctl00_mainContent_ctl01_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_mainContent_ctl01_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1411" class=" moduletitle">Lectures</h2>
+<div id='ctl00_mainContent_ctl01_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl01_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl01_divContent' class=''>
+<p>&#160;</p>
+<div class="floatpanel">
+<div class="floatpanel section" style="width: 31%;">
+<h4>Chemistry lectures in the first year</h4>
+<h3>&#160;</h3>
+<p><i>provide introductory coverage of the following topics:</i></p>
+<p>• quantum theory of atoms and molecules<br />
+• chemical thermodynamics&#160;<br />
+• reaction kinetics&#160;<br />
+• equilibrium electrochemistry&#160;<br />
+• states of matter&#160;<br />
+• atomic structure and the periodic table<br />
+• ionic model and solid state chemistry<br />
+• pre transition metal chemistry<br />
+• introductory transition metal chemistry&#160;<br />
+• chemical bonding and molecular orbital theory&#160;<br />
+• non-metal chemistry&#160;<br />
+• introduction to organic chemistry&#160;<br />
+• reactivity in organic chemistry&#160;<br />
+• substitution and elimination at saturated carbons<br />
+• carbonyl group chemistry<br />
+• chemistry of C-C π-bonds<br />
+• introduction to organic synthesis</p>
+<p>&#160;</p>
+</div>
+<div class="floatpanel section" style="width: 31%;">
+<h3>Second year lectures in Chemistry</h3>
+<p><i><br />
+</i></p>
+<p><i>Some of the lectures build on topics introduced in the first year. There are also many courses on new topics.</i></p>
+<p>• transition metal chemistry<br />
+• chemistry of the lanthanides and actinides<br />
+• chemical bonding in molecules<br />
+•&#160;organometallic&#160;chemistry<br />
+• non-metal chemistry<br />
+•&#160;NMR&#160;in inorganic chemistry<br />
+• diffraction methods&#160;<br />
+• solid state chemistry<br />
+• spectroscopy and structure determination<br />
+• orbitals and mechanisms&#160;<br />
+• conformational analysis and&#160;stereoelectronics<br />
+•&#160;alicyclic&#160;synthesis and carbohydrate chemistry<br />
+• rearrangements and reactive intermediates<br />
+•&#160;heteroatoms&#160;in organic synthesis<br />
+• aromatic and&#160;heterocyclic&#160;chemistry<br />
+• organic synthesis&#160;<br />
+• liquids and solutions&#160;<br />
+• statistical thermodynamics&#160;<br />
+• principles and applications of quantum theory&#160;<br />
+• molecular symmetry and chemical bonding<br />
+• valence&#160;<br />
+• molecular spectroscopy&#160;<br />
+• rate processes&#160;<br />
+• magnetic resonance&#160;<br />
+• nucleic acids&#160;<br />
+• chemistry of metabolism /&#160;bioenergy<br />
+•&#160;bioinorganic&#160;chemistry</p>
+<p>&#160;</p>
+</div>
+<div class="floatpanel section" style="width: 31%;">
+<h3>Third year Chemistry lectures<i><br />
+</i></h3>
+<p><i>Many core topics covered in the previous two years continue to receive attention:</i></p>
+<p>• inorganic reaction mechanisms&#160;<br />
+• post-transition metal chemistry<br />
+• solid state chemistry and heterogeneous catalysis<br />
+• spectroscopy and magnetism in inorganic chemistry&#160;<br />
+•&#160;organometallic&#160;chemistry&#160;<br />
+• organic spectroscopy&#160;<br />
+• synthesis and asymmetric synthesis&#160;<br />
+• catalysis&#160;<br />
+• orbitals and mechanism:&#160;pericyclic&#160;processes&#160;<br />
+• statistical mechanics&#160;<br />
+• solids, interfaces and soft matter&#160;<br />
+• magnetic resonance and coherence techniques&#160;<br />
+•&#160;photophysics&#160;and&#160;photochemistry</p>
+<p>In addition the candidate selects three option courses from a wide selection, currently</p>
+<p>•	inorganic molecular spectroscopy<br />
+• structural methods<br />
+•	organometallic&#160;chemistry and catalysis<br />
+•	solid state compounds in technology<br />
+•	supramolecular&#160;and medicinal inorganic chemistry<br />
+•	natural product chemistry<br />
+•	advanced synthesis and total synthesis<br />
+•	recent developments in organic chemistry<br />
+•	advanced chemical biology&#160;<br />
+•	supramolecular,&#160;nano&#160;and materials chemistry<br />
+•	atmospheric chemistry<br />
+•	molecular reaction dynamics<br />
+•	biophysical chemistry<br />
+•	theoretical chemistry<br />
+•	advanced structural, scattering and surface methods</p>
+<p>&#160;</p>
+</div>
+</div>
+<div class="clear section">
+<h3>&#160;</h3>
+</div>
+<p><i><br />
+</i></p>
+<p><i><br />
+</i></p>
+<p><i><br />
+</i></p>
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl01$hdnIsDirty" id="ctl00_mainContent_ctl01_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl01_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl01_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+	    
+</div>
+	    		
+	</div>
+	<div id="wrapfooter">
+	    <br class="clear" />
+	    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+	    <a href='/course.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> | 
+	    &copy; 2008 - 2015 Department of Chemistry - University of Oxford
+	    <br /><br />
+		<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+		<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+		<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://admissions.chem.ox.ac.uk/csshandler.ashx?skin=chemistry-layout'  title='Valid CSS'>CSS</a> |
+        <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+	</div>
+</div>
+<script type="text/javascript">
+function HideMenuToolbar(){ $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow");}
+function ShowMenuToolbar(){ $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow");}
+$(document).ready(function(){ 
+  $("span.downarr a").click(function() {HideMenuToolbar(); Set_Cookie('openstate', 'closed')});
+  $("span.showbar a").click(function() {ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+  $("span.downarr a, span.showbar a").click(function() { return false; });	
+	var openState = Get_Cookie('openstate');
+	if(openState != null){ if(openState == 'closed'){HideMenuToolbar();} if(openState == 'open'){ShowMenuToolbar();}}
+});	
+</script>
+
+
+
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,142 @@
+<!--array(29) {
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTP_HOST"]=>
+  string(20) "england.prm.ox.ac.uk"
+  ["HTTP_CONNECTION"]=>
+  string(10) "keep-alive"
+  ["HTTP_ACCEPT_ENCODING"]=>
+  string(13) "gzip, deflate"
+  ["HTTP_ACCEPT"]=>
+  string(3) "*/*"
+  ["HTTP_USER_AGENT"]=>
+  string(49) "python-requests/2.5.1 CPython/2.7.9 Darwin/14.3.0"
+  ["PATH"]=>
+  string(28) "/usr/local/bin:/usr/bin:/bin"
+  ["SERVER_SIGNATURE"]=>
+  string(128) "<address>Apache/2.2.3 (Debian) PHP/5.2.0-8+etch16 mod_ssl/2.2.3 OpenSSL/0.9.8c Server at england.prm.ox.ac.uk Port 80</address>
+"
+  ["SERVER_SOFTWARE"]=>
+  string(69) "Apache/2.2.3 (Debian) PHP/5.2.0-8+etch16 mod_ssl/2.2.3 OpenSSL/0.9.8c"
+  ["SERVER_NAME"]=>
+  string(20) "england.prm.ox.ac.uk"
+  ["SERVER_ADDR"]=>
+  string(11) "163.1.55.96"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(11) "163.1.134.1"
+  ["DOCUMENT_ROOT"]=>
+  string(16) "/var/www/england"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["SCRIPT_FILENAME"]=>
+  string(26) "/var/www/england/index.php"
+  ["REMOTE_PORT"]=>
+  string(5) "58801"
+  ["REDIRECT_QUERY_STRING"]=>
+  string(44) "section=englishness&id=british-cavalry-sabre"
+  ["REDIRECT_URL"]=>
+  string(39) "/englishness-british-cavalry-sabre.html"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.1"
+  ["REQUEST_METHOD"]=>
+  string(3) "GET"
+  ["QUERY_STRING"]=>
+  string(44) "section=englishness&id=british-cavalry-sabre"
+  ["REQUEST_URI"]=>
+  string(39) "/englishness-british-cavalry-sabre.html"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["REQUEST_TIME"]=>
+  int(1434625055)
+  ["argv"]=>
+  array(1) {
+    [0]=>
+    string(44) "section=englishness&id=british-cavalry-sabre"
+  }
+  ["argc"]=>
+  int(1)
+}
+--><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="Keywords" content="statistics, databases, English, Englishness, English collections, the other within, Pitt Rivers museum, museum" /><meta name="Description" content="Analysing the English collections at the Pitt Rivers Museum" /><meta name="author" content="David Harris, www.inetlab.co.uk & Daniel Burt, www.sunnymedia.co.uk" /><title>A British Cavalry Sabre</title><script type="text/javascript" src="js/mootools-1.11.js"></script><script type="text/javascript" src="js/slimbox.js"></script>	<link rel="stylesheet" href="css/reset-fonts-grids.css" type="text/css" /><link rel="stylesheet" href="css/england.prm.css" type="text/css" /></head><body><div id="doc4" class="yui-t3"><div id="hd">	<h1>ENGLAND: THE OTHER WITHIN</h1>	<h2>Analysing the English Collections at the Pitt Rivers Museum</h2>		<ul class="navbar">	 <li class="tab01"><a href="/">Home</a></li>	 <li class="tab02"><a href="englishness-analysis-overview.html">Analysis</a></li>	 <li class="tab03"><a href="englishness-english-databases.html">Databases</a></li>	 <li class="tab04"><a href="englishness-object-biographies.html">Articles</a></li>	 <li class="tabend05"><a href="map-objects.html">Map</a></li>	</ul></div> <!-- close hd--><p id="breadcrumb">You are here: <a href="">Home</a> &gt; Englishness British Cavalry Sabre </p><div id="bd"> 	<div id="yui-main"> 		<div class="yui-b">			<div class="yui-g content"> 			<!-- start article -->			<h1>A British Cavalry Sabre</h1>
+<h2 class="author">Elin Bornemann</h2>
+<p><div id="media_0" class="imageR"><a href="image-admin/d/1213-2/2007_56_1_1 and 2.jpg" title="2007.56.1 Light Cavalry sabre [.1] Wooden scabbard covered with metal" rel="lightbox[graphic]"><img src="image-admin/d/1212-2/2007_56_1_1 and 2.jpg" alt="2007.56.1 Light Cavalry sabre [.1] Wooden scabbard covered with metal" /></a><p>2007.56.1 Light Cavalry sabre [.1] Wooden scabbard covered with metal</p></div> <div id="media_1" class="imageR"><a href="image-admin/d/1217-2/2007_56_1_1 closeup.jpg" title="2007.56.1.1 closeup of light cavalry sabre" rel="lightbox[graphic]"><img src="image-admin/d/1216-2/2007_56_1_1 closeup.jpg" alt="2007.56.1.1 closeup of light cavalry sabre" /></a><p>2007.56.1.1 closeup of light cavalry sabre</p></div></p>
+<p>The sabre with the Accession Number 2007.56.1 is on display on the Upper Gallery in case 7.A together with other European swords and daggers. The museum label attached to it reads:</p>
+<blockquote>
+<p>English dress sword engraved &amp; gilt, 'GR', with scabbard. Pres. by Rev. J. Rigaud. 1888.'</p>
+</blockquote>
+<p>The sabre has a curved steel blade with a single edge. The grip is covered with black leather and bound with wire, giving it a slightly ridged appearance. The knuckleguard is a slim strip of steel, ending in a little scroll.</p>
+<p>The blade is decorated with the initials GR (standing for King George III), floral motifs, a picture of a swordsman on horseback, a crown and a coat of arms with lion and unicorn. It is also inscribed 'Dieu Et Mon Droit' and 'Warranted'. These ornamentations have been put onto the blade through the process of blueing. In blueing the iron in the surface layer is converted to magnetite, the black iron oxide, through an electrochemical process, resulting in a black-blue finish. The oxide occupies the same volume as normal iron, so blueing does not make the blade thicker. Blueing is used as a protective measure against corrosion, but here it is used for decorative purposes.</p>
+<p>The scabbard is quite plain, made of wood with an outer covering of steel. It follows the curve of the blade, has a rounded tip and two small rings attached for suspension from a belt.</p>
+<p>The museum label describes this sword as a 'dress sword'. It is basically a standard light cavalry sabre with only the decorations on the blade making it special.</p>
+<h3>The 1796 pattern light cavalry sabre</h3>
+<p>The introduction of the 1796 pattern light cavalry sabre marks an important step in the development of the British Army in the late 18th and early 19th centuries. It is part of a general trend towards consistencyand streamlining of the army's organisation. The first step was taken with the publication of the 'Principles of Military Movement Chiefly Applied to Infantry', which was adopted as the drill manual for the whole of the army. Up to then it had been left to the regimental officers to decide how they would drill their men and execute movements. It is clear, however, that performance on the battlefield will be enhanced if men from different regiments, who now stand next to each other and have to move in unison, have been drilled according to the same principles. In 1792 a companion volume to the 'Principles' for cavalry was published. In the cavalry of the time the disparity between units was even greater than between infantry regiments, for each commander also sourced their weapons independently from any central regulation. This meant not only that each regiment would come onto the battlefield with slightly different swords but also that there was no central reserve stock of weapons, and people who lost theirs could have a long wait for a replacement. This all changed in 1796, when a single design of sabre was adopted for all light cavalry regiments, and another for all heavy cavalry regiments. Thus the two types of sabre are known as the 1796 pattern cavalry sabres. The light cavalry sabre was designed by John Gaspard Le Marchand, a cavalry officer, and Henry Osborne, a Birmingham cutler, with the aim of creating an effective and practical weapon. The resulting design had a blade with a pronounced curve, broader near the tip than at the hilt and with a broad fuller. It was meant to be used in a slashing motion, by a mounted swordsman against an enemy on foot. If there was one fault in the design it was that it was not suited for thrusting motions. Le Marchant, however, considered a slashing weapon to be most useful, especially for the tasks of the light cavalry, which were chiefly reconnaissance and pursuit of broken infantry formations. If used against a fleeing enemy on foot, such a curved sabre could inflict terrible injuries. It was well capable of splitting a skull or severing an arm.</p>
+<h3>Rigaud and the Oxford University Volunteer Corps</h3>
+<p>The label attached to the sword tells us that it was given to the museum in 1888 by John Rigaud, a fellow of Magdalen College. It was however most likely owned by his father Stephen Peter Rigaud (1774-1839), an astronomer who studied at Exeter College, Oxford, became a tutor at the same college and in 1810 Savilian professor of astronomy and reader in experimental philosophy. In those capacities of course he would not have needed a sword, but an Accession Book entry for another sword he owned states that he was a member of the Oxford University Volunteer Corps from 1798 onwards. The Volunteer movement in Britain took off after a French invasion scare in 1794. The government passed a bill which allowed the formation of local volunteer cavalry and yeomanry units to repel Napoleon's forces should they try to invade again. In 1798 the University of Oxford decided to raise a force of volunteers for the defence of the town and the county. The cost of keeping such a force was thought to be &pound;350 a year, of which &pound;100 were guaranteed by the university. When the corps had been established and arming and provisioning put on a regular basis, contributions were raised from the various colleges. The enterprise was a success, and by June 1798 the corps had 500 members. They had a big parade in Christ Church Meadows, on which occasion they were presented with their colours by the Duke of Portland. In 1799 the Duke of York, who was the Commander in Chief of the Army, came to review them. If Rigaud was indeed part of such a corps, he was either issued with the cavalry sabre that is now in the museum's collections or he purchased it privately. The latter is more likely because of the decorated blade. While the sword and the scabbard do not differ in any way from the standard light cavalry sabre, the regular trooper would not have owned a sword with a decorated blade. The sabres were mass-produced in factories. These ornamentations are non-standard and it is likely that the owner commissioned them to 'personalise' his sword.</p>
+<h3>Conclusion</h3>
+<p>The sabre I have described has piqued my interest because, viewed as a representative of its type, it links to the history of the British Army during the Napoleonic period, a period of great change and transition which resulted in an improved performance by the Army, most visible in the string of victories achieved under Wellington in the Peninsular War. The 1796 sabre was one factor which contributed to that achievement. Seen as an individual object, the history it reveals it not so much army history but the history of Oxford and the university in whose museum it is now kept. Nonetheless connected to the military history of the time, it gives us a glimpse at a facet of university life that springs not immediately to mind when we think of colleges, students and fellows. Now that the sabre has lost its primary function as a weapon, it has a new function: it can be a window on history to everyone who comes to the museum and sees it on display.</p>
+<h3>Further Reading</h3>
+<p>Richard Holmes, <em>Redcoat. The British Soldier in the Age of Horse and Musket.</em> London 2001.<br /> T.H. Aston (Gen. Editor), <em>The History of the University of Oxford. </em>Oxford 1984.<br /> Brian Robson, <em>Warranted Never to Fail - The Cavalry Sword Patterns of 1796, </em>in: Guy, Alan (Hrsg.): The Road to Waterloo. The British Army and the Struggle against Revolutionary and Napoleonic France 1793-1815. London 1990.</p>
+<p><a href="http://www.regiments.org/regiments/uk/volmil-england/vinf-so/ox-Univ.htm">http://www.regiments.org/regiments/uk/volmil-england/vinf-so/ox-Univ.htm</a></p>
+<p><a href="http://www.napoleon-series.org/military/organization/c_swordpoint1.html">http://www.napoleon-series.org/military/organization/c_swordpoint1.html</a></p> 			<!-- end article -->			</div> 		</div> 	</div> 	<div class="yui-b">	<!-- YOUR NAVIGATION GOES HERE -->			<div id="object-biographies" class="widget">			<h2><span>&nbsp;Object biographies &nbsp;</span></h2>			<p>Detailed biographies for selected English objects</p>
+<ul>
+<li><a href="englishness-dandy-plate.html">Dandy-horse plate</a></li>
+<li><a href="englishness-witchs-ladder.html">Witch's ladder</a> </li>
+<li><a href="englishness-tylors-onion.html">Tylor's bewitched onion</a></li>
+
+<li><a href="englishness-divining-rods.html">Divining rods</a></li>
+<li><a href="englishness-endowing-purse.html">Endowing purse</a></li>
+<li><a href="englishness-pocket-compass-sundial.html">Pocket compass and sundial</a></li>
+<li><a href="englishness-ethiopia-in-england.html">Ethiopia in England</a></li>
+<li><a href="englishness-sailors-charm.html">Caul: A Sailor's Charm</a></li>
+<li><a href="englishness-baker-rifle.html">Baker rifle</a></li>
+<li><a href="englishness-whit-horn.html">Whit horn</a></li>
+<li><a href="englishness-slug-on-a-thorn.html">Slug on a thorn</a></li>
+<li><a href="englishness-kennedys-mandolin.html">Kennedy's mandolin</a></li>
+<li><a href="englishness-morris-dancers-costume.html">Morris dancer's costume</a></li>
+<li><a href="englishness-morris-dancers-bells.html">Morris dancers' bells</a></li>
+<li><a href="englishness-loop-of-rowan-tree.html">A Loop of Rowan Tree</a></li>
+<li><a href="englishness-british-cavalry-sabre.html">A British Cavalry Sabre</a></li>
+<li><a href="englishness-lace-makers-bobbins.html">Lace maker's bobbins</a></li>
+<li><a href="englishness-beds-maltese-and-yak-lace.html">Lace making</a></li>
+<li><a href="englishness-water-pipe.html">
+Water pipe</a></li>
+<li><a href="englishness-whittle-and-dub.html">
+Whittle and dub</a></li>
+<li><a href="englishness-watch-cocks.html">
+Watch cock</a></li>
+<li><a href="englishness-token.html">
+Token</a></li>
+<li><a href="englishness-Lucky-Newbiggin-stone.html">
+Lucky stone</a></li>
+<li><a href="englishness-Votive-rags.html">
+Votive rags</a></li>
+<li><a href="englishness-Dorset-hag-stone.html">
+Dorset hag stone</a></li>
+<li><a href="englishness-'Blackfoot'-shirt.html">
+'Blackfoot' shirt</a></li>
+<li><a href="englishness-Ceremonial-trowel.html">
+Ceremonial trowel and tankard</a></li>
+<li><a href="englishness-Aran-Island-photograph.html">
+Ettlinger photograph catalogue card</a></li>
+<li><a href="englishness-Balfour-in-the-Upper-Gallery.html">
+Balfour in the Upper Gallery</a></li>
+<li><a href="englishness-Stoolbat.html">
+Stoolbat</a></li>
+<li><a href="englishness-Smallest-doll.html">
+World's smallest doll?</a></li>
+<li><a href="englishness-Mousetrap.html">
+A triple mousetrap</a></li>
+<li><a href="englishness-Bell-mark-casts.html">
+Bell mark casts</a></li>
+<li><a href="englishness-Knuckleduster.html">
+Knuckleduster</a></li>
+<li><a href="englishness-Phleme.html">
+A blood letting instrument</a></li>
+<li><a href="englishness-Miners-lamp.html">
+Miner's lamps</a></li>
+</ul>		</div>	</div> </div> <!-- end of page <div class="spacer">&nbsp;</div>-->	<div id="ft">    <div align="right">        <script type="text/javascript">// Google Internal Site Search script- By JavaScriptKit.com (http://www.javascriptkit.com)// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/// This notice must stay intact for use//Enter domain of site to search.var domainroot="england.prm.ox.ac.uk"function Gsitesearch(curobj){curobj.q.value="site:"+domainroot+" "+curobj.qfront.value}</script><ul><li><form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">Search the Other Within website:<input name="q" type="hidden" /><input name="qfront" type="text" style="width: 120px" />&nbsp; <input type="submit" value="Search" /></form></li></ul></div>	</div> </div><!-- ENG2(163.1.55.83) --></body></html>

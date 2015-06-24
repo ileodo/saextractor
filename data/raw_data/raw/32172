@@ -1,0 +1,307 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><title>
+	July 2015 - Admissions
+</title>
+<link rel='stylesheet' type='text/css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/themes/smoothness/jquery-ui.css' />
+<link rel='stylesheet' type='text/css' href='/csshandler.ashx?skin=chemistry-layout&amp;s=21&amp;v=2.4.0.3&amp;sv=00000000-0000-0000-0000-000000000000' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml" title="Admissions Site Search" href="http://admissions.chem.ox.ac.uk/SearchEngineInfo.ashx" />
+	<!--[if IE]>
+	<meta http-equiv="Page-Enter" content="blendTrans(Duration=0)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)" />
+	<![endif]-->
+	
+<link rel='shortcut icon' href='/Data/Sites/21/skins/chemistry-layout/favicon.ico' />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript" ></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js" type="text/javascript" ></script>
+<link rel='canonical' href='http://admissions.chem.ox.ac.uk/july-2015.aspx' /></head>
+<body id="ctl00_Body" class="pagebody">
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount','UA-49363107-1']); 
+_gaq.push(['_gat._anonymizeIp']);
+_gaq.push(['_setCustomVar', 1, 'member-type', 'anonymous', 1]); _gaq.push(['_trackPageview']); 
+ _gaq.push(['_trackPageLoadTime']); 
+ </script>
+<form method="post" action="/" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="5" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTAyNzk1MQ9kFgJmD2QWAgIDD2QWAgIDD2QWDgIXDw8WAh4HVmlzaWJsZWhkZAIjDw8WAh8AaGRkAicPDxYCHghJbWFnZVVybAU1L0RhdGEvU2l0ZXMvMjEvc2tpbnMvY2hlbWlzdHJ5LWxheW91dC9oZWFkZXJwaG90by5qcGdkZAIpDw8WBB4IQ3NzQ2xhc3MFOWFydC1sYXlvdXQtY2VsbCBhcnQtc2lkZWJhcjEgbGVmdHNpZGUgbGVmdDJjb2x1bW4gY21zem9uZR4EXyFTQgICZBYEAgEPZBYCAgIPZBYCZhA8KwAJAgAPFggeC18hRGF0YUJvdW5kZx4MRGF0YVNvdXJjZUlEBRFQYWdlTWFwRGF0YVNvdXJjZR4NUGF0aFNlcGFyYXRvcgR8Hg1OZXZlckV4cGFuZGVkZGQIFCsABAULMDowLDA6MSwwOjIUKwACFgweBFRleHQFE0FkbWlzc2lvbnMgQ3Jp" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="dGVyaWEeBVZhbHVlBSQ3MzM5MzI2MS0yZWY3LTQ4ZjItOTE2ZC1mN2M3ODhlODViZjEeC05hdmlnYXRlVXJsBRp+L2FkbWlzc2lvbnMtY3JpdGVyaWEuYXNweB4IRGF0YVBhdGgFAzg0OB4JRGF0YUJvdW5kZx4QUG9wdWxhdGVPbkRlbWFuZGhkFCsAAhYMHwgFE0Z1cnRoZXIgaW5mb3JtYXRpb24fCQUkN2FkZDlmMjYtZDQ0MC00Yzc0LTgwMmQtZGJjNWZmMjRmNzI3HwoFGn4vZnVydGhlci1pbmZvcm1hdGlvbi5hc3B4HwsFAzg0OR8MZx8NaGQUKwACFg4fCAUJT3BlbiBkYXlzHwkFJDQ3MWMyODRmLTYxZWUtNDBhOC1hYWJhLWU4ZDIyOWNjNGJhMB8KBRB+L29wZW4tZGF5cy5hc3B4HwsFAzg1MB8MZx8NZx4IRXhwYW5kZWRnFCsAAwUHMDowLDA6MRQrAAIWEB8I" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="BQlKdWx5IDIwMTUfCQUkYTQxOTM5OGQtY2IyOC00NmEwLWI0YTYtMzUzMWU2ZGE4MzQyHwoFEH4vanVseS0yMDE1LmFzcHgfCwUDODUxHwxnHghTZWxlY3RlZGcfDWgfDmdkFCsAAhYMHwgFDlNlcHRlbWJlciAyMDE1HwkFJDQyYzM2ZmQyLWQyOWUtNDI0MS05ZjAwLTIzYThiODBlNDMzNx8KBRV+L3NlcHRlbWJlci0yMDE1LmFzcHgfCwUDOTk1HwxnHw1oZAUNY3RsMDAkY3RsMDR8ZWQCAw9kFgJmD2QWAgICD2QWAgIDD2QWAgIDD2QWAgIBD2QWBAIBDw8WAh8AaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh4KQ2FsbGJhY2tJRAUpY3RsMDAkbGVmdENvbnRlbnQkY3RsMDAkUmF0aW5nJFVzZXJSYXRpbmdkAg0PDxYCHwBoZBYCAgEPZBYCZg9kFgICBQ9kFgJmDxYC" />
+<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="HxAFL2N0bDAwJGxlZnRDb250ZW50JGN0bDAwJFJhdGluZ0JvdHRvbSRVc2VyUmF0aW5nZAIrDw8WBB8CBTVhcnQtbGF5b3V0LWNlbGwgYXJ0LWNvbnRlbnQgY2VudGVyLWxlZnRtYXJnaW4gY21zem9uZR8DAgJkFgICBQ9kFgJmD2QWAgICD2QWAgIDD2QWAgIDD2QWAgIBD2QWBAIBDw8WAh8AaGQWAgIBD2QWAmYPZBYCAgUPZBYCZg8WAh8QBSljdGwwMCRtYWluQ29udGVudCRjdGwwMCRSYXRpbmckVXNlclJhdGluZ2QCDQ8PFgIfAGhkFgICAQ9kFgJmD2QWAgIFD2QWAmYPFgIfEAUvY3RsMDAkbWFpbkNvbnRlbnQkY3RsMDAkUmF0aW5nQm90dG9tJFVzZXJSYXRpbmdkAi0PDxYGHwIFEXJpZ2h0c2lkZSBjbXN6b25lHwMCAh8AaGRkAjsPDxYCHwBoZGQYAgUeX19D" />
+<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="b250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFFWN0bDAwJFBhZ2VNZW51MSRjdGwwMAUVY3RsMDAkU2l0ZU1lbnUxJGN0bDAwDw9kBSQwOGJkMGVkMC01ZTQ4LTQ3MTQtYWE5OC0xZmI5NDkzMjY0YTZk/itvyHZVlzwbA5Nc087L7V5AIuY=" />
+
+
+<script src="/ScriptResource.axd?d=EHWBFVSWDap_XQ_f-DdPnRIFtYlp7qloWf8E-c_pw9lbfIlFYZX-NWF4yFrDSwYWajicVe30fw0G13MBrguNr_81NuPq592ItKI_frsocFrUdcnz3xNwz2ozYPuzUBOsC1s5izc_J8Q03gn262AmXueXPgNtWKgrQkhA_5AGLCbFhnFzZLVM__0n24ZbSzxOp0n0wj8B_bG9hxoW4_qNR7FiJoXy4oUtoBiGrcXfL_WwpeE7kGOaoU2NYxyteRKrUQr7tbLf0DtSgZMo8rlPxtvLuznmM_AJMv1y3FTeWOg8-5JuhxdGCHj4y_sfQFsStPAEMOhz1CmYE58WimRbYCeUEY5oDgJV928fb645ygaQNwCwg6u0ruY0ll_5ezFnxPH2Ag2" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAQ9cUGzvWVhp8XAkbRCD1IyMwDIgoslVfXFR9td3eAyvpbqqU/kkTxmo+grpHespad+0r3EsOq18qqvlqsVl2rPk7NbYunuY1o1bBAXg56FRYTfMP0=" />
+
+
+
+
+<div id="wrapwebsite">
+    <div id="wrapheader">
+	    <h1 class='art-Logo-name art-logo-name siteheading '><a class='siteheading' href='http://admissions.chem.ox.ac.uk/Default.aspx'>Admissions</a></h1>
+	    <a href='#startcontent' class='skiplink'>Skip over navigation</a>
+	    
+
+<div class="AspNet-Menu-Horizontal" id="ctl00_SiteMenu1_ctl00">
+		<ul class="AspNet-Menu">
+			<li class="AspNet-Menu-Leaf AspNet-Menu-SelectedLeaf">
+				<a href="/home.aspx" class="AspNet-Menu AspNet-Menu-SelectedLeaf">
+					<span>Home</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/how-to-apply.aspx" class="AspNet-Menu">
+					<span>How to Apply</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/colleges.aspx" class="AspNet-Menu">
+					<span>Colleges</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/course.aspx" class="AspNet-Menu">
+					<span>Course</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/part-ii-year.aspx" class="AspNet-Menu">
+					<span>Part II Year</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/research.aspx" class="AspNet-Menu">
+					<span>Research</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/chemistry.aspx" class="AspNet-Menu">
+					<span>Chemistry</span></a>
+			</li>
+			<li class="AspNet-Menu-Leaf">
+				<a href="/oxford-.aspx" class="AspNet-Menu">
+					<span>Oxford ?</span></a>
+			</li>
+		</ul>
+
+</div>
+
+
+		
+	    <div class="topnav">
+            <ul>
+            
+            <li class="firstnav"><a class="sitelink homelink" href="/">Home</a></li>
+            <li class="topnavitem"><a class="sitelink" href="/SiteMap.aspx">Site Map</a></li>
+            
+            
+            
+            
+            
+            <li class='topnavitem'><a href='/SearchResults.aspx' class='sitelink'>Search</a></li>
+            <li class="topnavitem"><a class="sitelink" rel="nofollow" href="/Secure/Login.aspx?returnurl=%2fjuly-2015.aspx">Sign In</a></li>
+            
+            </ul>  
+        </div>    
+        <div id="ctl00_InsecurePanel1" class="addthisbutton">
+	
+		      
+        
+</div>
+    </div>
+    <div id="wrapcenter">
+        <img id="ctl00_imgs1" class="headerphoto" border="0" usemap="#headerMap" src="/Data/Sites/21/skins/chemistry-layout/headerphoto.jpg" alt="Department of Chemsitry" />
+<map name="headerMap" id="Map">
+  <area shape="rect" coords="6,30,504,96" href="http://www.chem.ox.ac.uk" />
+  <area shape="rect" coords="533,17,798,103" href="http://www.ox.ac.uk" />
+</map>
+	    <div id="ctl00_divLeft" class="art-layout-cell art-sidebar1 leftside left2column cmszone">
+	
+		    <div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+
+	<div class="AspNet-TreeView" id="ctl00_PageMenu1_ctl00">
+			<ul id="ctl00_PageMenu1_ctl00_UL">
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/admissions-criteria.aspx">
+						Admissions Criteria</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-Leaf">
+					<a href="/further-information.aspx">
+						Further information</a>
+				</li>
+				<li class="AspNet-TreeView-Root AspNet-TreeView-ChildSelected">
+					<a class="AspNet-TreeView-Collapse" onclick="ExpandCollapse__TreeView(this);return false;" href="/open-days.aspx" title="Collapse this node.">&nbsp;</a>
+					<a href="/open-days.aspx">
+						Open days</a>
+					<ul>
+						<li class="AspNet-TreeView-Leaf AspNet-TreeView-Selected">
+							<a href="/july-2015.aspx">
+								July 2015</a>
+						</li>
+						<li class="AspNet-TreeView-Leaf">
+							<a href="/september-2015.aspx">
+								September 2015</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+
+	</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+		    <a id="startcontent"></a>
+		    
+<div id='ctl00_leftContent_ctl00_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_leftContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1757" class=" moduletitle">Useful Links</h2>
+<div id='ctl00_leftContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_leftContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_leftContent_ctl00_divContent' class=''>
+<p class="navigation">
+	<a class="navigation" href="http://www.ox.ac.uk/aboutoxford/maps/ringmap.shtml">Map of Oxford</a></p>
+<p class="navigation">
+	<a class="navigation" href="http://www.ox.ac.uk/visitors_friends/maps_and_directions/science_area.html">Map of Science Area</a></p>
+<p class="navigation">
+	<a class="navigation" href="http://www.ox.ac.uk/visitors_friends/maps_and_directions/directions.html">How to get here</a></p>
+<p class="navigation">
+	<a class="navigation" href="http://www.ox.ac.uk/colleges/">Colleges</a></p>
+<p class="navigation">
+	<a class="navigation" href="http://www.chem.ox.ac.uk/">Oxford Chemistry</a></p>
+<p class="navigation">
+	<a class="navigation" href="http://www.admissions.ox.ac.uk/">Oxford Admissions</a></p>
+
+</div>
+<input type="hidden" name="ctl00$leftContent$ctl00$hdnIsDirty" id="ctl00_leftContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_leftContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_leftContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+	    
+</div>
+	    <div id="ctl00_divCenter" class="art-layout-cell art-content center-leftmargin cmszone">
+	
+            
+	        
+	        
+<div id='ctl00_mainContent_ctl00_pnlOuterWrap' class=''>
+
+<div class='rtop'><div class='r1'></div><div class='r2'></div><div class='r3'></div><div class='r4'></div></div>
+<div id='ctl00_mainContent_ctl00_pnlInnerWrap' class='panelwrapper htmlmodule'>
+
+<h2 id="module1424" class=" moduletitle">Chemistry Open Days</h2>
+<div id='ctl00_mainContent_ctl00_pnlOuterBody' class=''>
+
+<div id='ctl00_mainContent_ctl00_pnlInnerBody' class='modulecontent'>
+
+
+<div id='ctl00_mainContent_ctl00_divContent' class=''>
+<h3>&nbsp;</h3>
+
+<h3 style="text-align: center; ">1st &amp; 2nd July 2015<br />
+10.30 a.m. to 4.00 p.m.</h3>
+
+<h3 style="text-align: center; ">Inorganic Chemistry Laboratory</h3>
+
+<p>Oxford Chemistry will host Chemistry Open Days on 1st &amp; 2nd July, from 10.30 a.m. to 4.00 p.m.</p>
+
+<p>You don't need to book to attend University Open Days, during which many departments will be open. To visit chemistry, just come to the <strong>Inorganic Chemistry Laboratory, Abbot's Kitchen</strong> on South Parks Road. You won't need to spend the whole day in the chemistry department, so you can also attend a College Open Day, and this is strongly recommended.</p>
+
+<p>At 11.00 a.m. and 2.30 p.m. each day there will be an informal talk (with the opportunity for you to ask questions), by a College Tutor, which will cover a range of topics, including course structure, practical and tutorial work, the research year, applications, interviews and choice of College. Both days will conclude with the Annual Chemistry Show, open to all; potential applicants are of course welcome, but so are parents, teachers and others who know nothing of chemistry! The show starts at 3.15 p.m., lasts about 45 minutes, and like the talk on Admissions, will be held in the Main Lecture Theatre in the Inorganic Chemistry Laboratory.</p>
+
+<p>All Oxford Colleges that offer places to chemistry undergraduates will be open on either or both of these days. If you are thinking of applying to Oxford, you will find it helpful to visit a College as well as the Chemistry Department. Most College events do not require advanced bookings but do check at College Open Days (<a href="http://www.ox.ac.uk/admissions/undergraduate/open-days-outreach/open-events-and-visiting/university-open-days">which are listed here</a>)</p>
+
+<p>NOTE: If you are travelling a considerable distance to reach Oxford, so that a return trip within a single day would be difficult, you may be offered free overnight accommodation and meals in an Oxford College so that you can attend both Chemistry Open Day and a College Open Day. Contact Admissions (see <a href="http://www.admissions.ox.ac.uk">www.admissions.ox.ac.uk</a>) to find out whether space is available.</p>
+
+<p>Students and tutors will be available to discuss the chemistry course at Oxford, and such topics as student life, choice of College, and how to handle interviews. Guided tours will be available of teaching facilities and of the Chemistry Research Laboratory, one of the largest University chemistry research laboratories in the world. If you have any queries, please contact Dr Nick Green. You can e-mail <a href="mailto:nicholas.green@chem.ox.ac.uk">nicholas.green@chem.ox.ac.uk,</a> phone Oxford (01865) 282760, send a fax to Oxford (01865) 272690, or write to: Dr Nick Green, Inorganic Chemistry Laboratory, South Parks Road, Oxford University, Oxford OX1 3QR.</p>
+
+<p>&nbsp;</p>
+
+</div>
+<input type="hidden" name="ctl00$mainContent$ctl00$hdnIsDirty" id="ctl00_mainContent_ctl00_hdnIsDirty" />
+
+
+
+
+
+
+</div>
+<div id='ctl00_mainContent_ctl00_divFooter' class='modulefooter'>
+
+</div>
+
+</div>
+<div id='ctl00_mainContent_ctl00_divCleared' class='cleared'>
+
+</div>
+
+</div>
+<div class='rbottom'><div class='r4'></div><div class='r3'></div><div class='r2'></div><div class='r1'></div></div>
+
+</div>
+
+	    
+</div>
+	    		
+	</div>
+	<div id="wrapfooter">
+	    <br class="clear" />
+	    <a class="sitemaplink" href="/SiteMap.aspx">Site Map</a> |
+	    <a href='/july-2015.aspx?skin=printerfriendly' rel='nofollow'>Printable View</a> | 
+	    &copy; 2008 - 2015 Department of Chemistry - University of Oxford
+	    <br /><br />
+		<a href='http://www.mojoportal.com?utm_source=usersite&amp;utm_medium=referral&amp;utm_campaign=poweredbymojo' >Powered by mojoPortal</a> |
+		<a rel='nofollow' href='http://validator.w3.org/check?uri=referer'  title='Valid HTML 5'>HTML 5</a> |
+		<a rel='nofollow' href='http://jigsaw.w3.org/css-validator/validator?uri=http://admissions.chem.ox.ac.uk/csshandler.ashx?skin=chemistry-layout'  title='Valid CSS'>CSS</a> |
+        <a title="Visit the web site of the designer" href="http://www.styleshout.com/">Design by styleshout</a>
+	</div>
+</div>
+<script type="text/javascript">
+function HideMenuToolbar(){ $("#toolbar").fadeOut(); $("#toolbarbut").fadeIn("slow");}
+function ShowMenuToolbar(){ $("#toolbar").fadeIn(); $("#toolbarbut").fadeOut("slow");}
+$(document).ready(function(){ 
+  $("span.downarr a").click(function() {HideMenuToolbar(); Set_Cookie('openstate', 'closed')});
+  $("span.showbar a").click(function() {ShowMenuToolbar(); Set_Cookie('openstate', 'open') });
+  $("span.downarr a, span.showbar a").click(function() { return false; });	
+	var openState = Get_Cookie('openstate');
+	if(openState != null){ if(openState == 'closed'){HideMenuToolbar();} if(openState == 'open'){ShowMenuToolbar();}}
+});	
+</script>
+
+
+<div>
+	<input type="hidden" name="ctl00$ctl04" id="ctl00_ctl04" />
+</div>
+<script type="text/javascript">Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); </script>
+<script type="text/javascript" > $('div.mojo-accordion').accordion({});$('div.mojo-accordion-nh').accordion({heightStyle:'content',animate:{opacity:'toggle',duration:'400'}}); $('div.mojo-tabs').tabs({}); $('input.jqbutton').button(); $('.jqtt').tooltip(); $('.faqs dd').hide();$('.faqs dt').hover(function(){$(this).addClass('hover')},function(){$(this).removeClass('hover')}).click(function(){ $(this).next().slideToggle('normal'); });  $("a.unclickable").click(function(){ return false; });</script></form>
+
+<script type="text/javascript"> 
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+})();
+</script>
+</body>
+</html>
