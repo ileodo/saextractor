@@ -1,4 +1,5 @@
 {% include 'partial/header.html' %}
+{% load staticfiles %}
 <div class="content-wrapper">
     <div class="row">
         <!-- Start .row -->
@@ -14,11 +15,51 @@
         <!-- Page start here ( usual with .row ) -->
         <div class="row">
 
+            <div class="panel panel-default plain">
+                <!-- Start .panel -->
+                <div class="panel-heading white-bg"></div>
+                <div class="panel-body p0">
+                    <div id="calendar">
+                    </div>
+                </div>
+            </div>
+            <!-- End .panel -->
+
+            <!-- Modal -->
+            <div class="modal fade" id="infoModal" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title att-title">Modal title</h4>
+                        </div>
+                        <div class="modal-body">
+                            <h4>Title:</h4><span class="att-title"></span>
+                            <h4>Start Time:</h4><span class="att-starttime"></span>
+                            <h4>End Time:</h4><span class="att-endtime"></span>
+                            <h4>Location:</h4><span class="att-location"></span>
+                            <h4>Speakers:</h4><span class="att-speaker"></span>
+                            <h4>Abstract:</h4>
+                            <div class="att-abstract"></div>
+                        </div>
+                        <div class="modal-footer">
+                            <p class="lead">
+                                <small><a class="att-link"></a></small>
+                            </p>
+                        </div>
+                    </div>
+                    <!-- /.modal-content -->
+                </div>
+                <!-- /.modal-dialog -->
+            </div>
+            <!-- /.modal -->
+
         </div>
         <!-- End .row -->
         <!-- Page End here -->
     </div>
     <!-- End .outlet -->
 </div>
-
+<script src="{% static 'assets/plugins/ui/calendar/fullcalendar.js' %}"></script>
+<script src="{% static 'assets/js/pages/calendar.js' %}"></script>
 {% include 'partial/footer.html' %}

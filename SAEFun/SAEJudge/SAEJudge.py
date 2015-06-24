@@ -2,17 +2,18 @@ __author__ = 'LeoDong'
 import cPickle as pickle
 import os
 import shutil
-import random
+
+from sklearn import tree
 
 from SAECrawlers.items import UrlretriverItem
 from util import tool
 from util import config
 from util.logger import log
 from FeatueExtract import FeatureExtract
-from sklearn import tree
+
 
 class SAEJudge:
-    def __init__(self,dtreefile,dtree_param):
+    def __init__(self, dtreefile, dtree_param):
         self.__judge_queue = {}
         self.__dtree_param = dtree_param
         # id : item{title, url, filename, confidence, decision }
@@ -77,7 +78,7 @@ class SAEJudge:
                         config.path_inbox_extractor + "/%s" % filename)
 
         # SIGNAL
-        data = {"id": item['id'], "filename": filename}
+        data = {"operation": config.socket_CMD_extractor_new,"id": item['id'], "filename": filename}
         data_string = pickle.dumps(data, -1)
         tool.send_message(data_string, config.socket_addr_extractor)
 
@@ -131,7 +132,7 @@ class SAEJudge:
         self.__clf.fit(self.__F, self.__L)
         del self.__judge_queue[item_id]
 
-        self.__op_refresh(data_loaded,connection)
+        self.__op_refresh(data_loaded, connection)
 
         tool.send_msg(connection, "0")
         pass

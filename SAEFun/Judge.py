@@ -16,9 +16,9 @@ log.info('start listening on %s' % str(config.socket_addr_judge))
 sock.bind(config.socket_addr_judge)
 # Listen for incoming connections
 sock.listen(10)
-queue = SAEJudge(config.path_dtree,config.dtree_param)
+judge = SAEJudge(config.path_dtree,config.dtree_param)
 
 while True:
     # Wait for a connection
     connection, client_address = sock.accept()
-    queue.process(connection, client_address)
+    judge.process(connection, client_address)

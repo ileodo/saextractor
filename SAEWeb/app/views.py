@@ -34,7 +34,18 @@ def judge(request):
 
 
 def extract(request):
-    return render(request, 'app/extract.html', {"page": {"title": "Extract"}})
+    try:
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.connect(config.socket_addr_extractor)
+    except socket_error as serr:
+        return render(request, 'app/error.html',
+                      {"page": {"title": "Error"}, "code": serr.errno, "content": str(serr.strerror)})
+
+    data_string = pickle.dumps({"operation": config.socket_CMD_extractor_list}, -1)
+    tool.send_msg(sock, data_string)
+    data_string = tool.recv_msg(sock)
+    ll = pickle.loads(data_string)
+    return render(request, 'app/extract.html', {"page": {"title": "Extract"}, 'ext_list': ll})
 
 
 def result(request):
@@ -73,6 +84,10 @@ def ajax(request):
         return HttpResponse("ILLEGAL")
 
 
-def loadfile(request, filename):
-    file = open(config.path_inbox_judge + "/" + filename)
+def loadfile(request, type, filename):
+    if type == "judge":
+        path = config.path_inbox_judge
+    elif type == "extract":
+        path = config.path_inbox_extractor
+    file = open(path + "/" + filename)
     return HttpResponse(file.read())

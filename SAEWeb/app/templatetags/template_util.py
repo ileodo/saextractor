@@ -31,3 +31,9 @@ def operation_value(str):
         "done": config.socket_CMD_judge_done,
     }
     return value_map[str]
+
+@register.filter(name='short_url')
+def short_url(str):
+    if len(str)>=100:
+        str = str[0:46] + "......" + str[-46:]
+    return str

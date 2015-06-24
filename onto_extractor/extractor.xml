@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<item name="seminar" version="1.0">
+    <attribute name="title"
+             description="title of seminar">
+        <startwith></startwith>
+        <endwith></endwith>
+        <before></before>
+        <after></after>
+        <contain></contain>
+        <wrappedin></wrappedin>
+    </attribute>
+    <attribute name="date"
+               description="the word `seminar(s)` exist in url">
+        <list sel="url" policy="sum">seminar.wd</list>
+    </attribute>
+    <attribute name="time"
+               description="">
+        <list sel="url" policy="sum">seminar.wd</list>
+    </attribute>
+    <attribute name="location"
+               description="">
+        <list sel="url" policy="sum">seminar.wd</list>
+    </attribute>
+    <attribute name="speaker"
+               description="">
+        <list sel="url" policy="sum">seminar.wd</list>
+    </attribute>
+    <attribute name="abstract"
+               description="">
+        <list sel="url" policy="sum">seminar.wd</list>
+    </attribute>
+</item>

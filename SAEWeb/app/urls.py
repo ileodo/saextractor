@@ -8,5 +8,5 @@ urlpatterns = [
     url(r'^result/$', views.result, name='result'),
     url(r'^extract/$', views.extract, name='extract'),
     url(r'^ajax/$', views.ajax, name='ajax'),
-    url(r'^(?P<filename>[0-9A-Za-z\.]+)/$', views.loadfile, name='loadfile'),
+    url(r'^file/(?P<type>[0-9A-Za-z\.]+)/(?P<filename>[0-9A-Za-z\.]+)/$', views.loadfile, name='loadfile'),
 ]

@@ -1,4 +1,5 @@
 {% include 'partial/header.html' %}
+{% load template_util %}
 <div class="content-wrapper">
     <div class="row">
         <!-- Start .row -->
@@ -38,11 +39,13 @@
                                 <td>
                                     <p>{{ item.title }}</p>
 
-                                    <p><a class="btn btn-primary btn-alt mr15 mb15 btn-url" data-toggle="modal"
+                                    <p><a class="btn btn-primary btn-alt mr15 mb15 btn-url"
+                                          data-toggle="modal"
                                           data-target="#viewModal" data-id="{{ id }}"
-                                          data-filename="{{ item.filename }}">{{ item.url }}</a></p>
+                                          data-filename="{{ item.filename }}"
+                                          data-title="{{ item.title }}"
+                                          title="{{ item.url }}">{{ item.url | short_url }}</a></p>
                                 </td>
-                                {% load template_util %}
                                 <td>
                                     <div class="progress progress-striped">
                                         <div class="progress-bar progress-bar{{ item.decision | css_type_for_decision  }} animated-bar"
@@ -145,14 +148,19 @@
                 });
     });
 
-    $(".btn-url").click(function () {
-        var url = "{% url 'loadfile' 'FILENAME' %}";
-        var filename = $(this).data("filename");
-        var id = $(this).data("id");
-        $("#showiframe").attr('src', url.replace("FILENAME", filename));
-        $("#model-btn-N").data('id', id);
-        $("#model-btn-S").data('id', id);
-        $("#model-btn-M").data('id', id);
+    $('#viewModal').on('show.bs.modal', function (event) {
+        var url = "{% url 'loadfile' 'judge' 'FILENAME' %}";
+        var button = $(event.relatedTarget);
+        var id = button.data('id');
+        var filename = button.data('filename');
+        var title = button.data('title');
+        var modal = $(this);
+        modal.find('.modal-title').text(title);
+        modal.find("#model-btn-N").data('id', id);
+        modal.find("#model-btn-S").data('id', id);
+        modal.find("#model-btn-M").data('id', id);
+        modal.find('#showiframe').attr('src', url.replace("FILENAME", filename));
     });
+
 </script>
 {% include 'partial/footer.html' %}

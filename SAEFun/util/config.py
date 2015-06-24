@@ -47,6 +47,9 @@ socket_CMD_judge_done = "1"
 socket_CMD_judge_list = "2"
 socket_CMD_judge_refresh = "3"
 
+socket_CMD_extractor_new = "0"
+socket_CMD_extractor_list = "1"
+
 socket_retry_seconds = 10
 #
 # retriever_start_urls = ["https://www.cs.ox.ac.uk/"]
