@@ -6,9 +6,26 @@ import socket
 import shutil
 import struct
 import time
+
 from scrapy import log
 
 import config
+import db
+
+
+def init_working_path():
+    log.msg("Start cleaning working path")
+    initial_folder(config.path_working)
+    initial_folder(config.path_extractor_inbox)
+    initial_folder(config.path_judge_inbox)
+    log.msg("Finish cleaning working path")
+    pass
+
+def init_database():
+    log.msg("Start cleaning DB")
+    db.reset_db()
+    log.msg("Finish cleaning DB")
+    pass
 
 
 def initial_folder(src):

@@ -1,26 +1,24 @@
 __author__ = 'LeoDong'
 
 import socket
-import cPickle as pickle
 
 import sys
 
-from util import tool
-from SAEExtractor.SAEExtractor import SAEExtractor
 from util import config
-
+from judge.SAEJudge import SAEJudge
 import logging
 from util.logger import log
 
+#TODO unique id in queue, store to file and reload.
 # Create a TCP/IP socket
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-log.info('start listening on %s' % str(config.socket_addr_extractor))
-sock.bind(config.socket_addr_extractor)
+log.info('start listening on %s' % str(config.socket_addr_judge))
+sock.bind(config.socket_addr_judge)
 # Listen for incoming connections
 sock.listen(10)
-extractor = SAEExtractor()
+judge = SAEJudge(config.path_judge_dtree,config.dtree_param)
 
 while True:
     # Wait for a connection
     connection, client_address = sock.accept()
-    extractor.process(connection,client_address)
+    judge.process(connection, client_address)

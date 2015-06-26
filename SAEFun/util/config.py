@@ -3,8 +3,6 @@ __author__ = 'LeoDong'
 import os
 import logging
 
-import db
-
 # db
 db_host = "localhost"
 db_name = "sae"
@@ -27,14 +25,20 @@ const_CONFIDENCE_THRESHOLD = 70
 # path
 path_root = os.path.split(os.path.split(os.path.split(os.path.realpath(__file__))[0])[0])[0]
 path_working = path_root + "/working"
-path_inbox_judge = path_working + "/inbox_judge"
-path_inbox_extractor = path_working + "/inbox_extractor"
-path_onto_judge = path_root + "/onto_judge"
-path_featurespace = path_onto_judge + "/featurespace.xml"
-path_onto_extract = path_root + "/onto_extract"
+path_knowledge = path_root + "/knowledge"
+
+path_fe = path_knowledge + "/fe"
+path_fe_space = path_fe + "/featurespace.xml"
+
+path_judge_inbox = path_working + "/inbox_judge"
+path_judge_dtree = path_knowledge+"/judge/dtree"
 path_judge_list = path_working + "/judge_list"
+
+path_extractor_inbox = path_working + "/inbox_extractor"
+path_extract_onto = path_knowledge + "/extract"
+
 path_data = path_root+"/data"
-path_dtree = path_data+"/dtree"
+
 
 # socket
 socket_host = "localhost"

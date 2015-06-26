@@ -6,8 +6,8 @@ from sklearn.externals.six import StringIO
 import pydot
 import requests
 
-from SAEJudge.FeatueExtract import FeatureExtract
-from SAECrawlers.items import UrlretriverItem
+from judge.FeatueExtract import FeatureExtract
+from SAECrawlers.items import UrlItem
 from util import db, config
 
 
@@ -36,7 +36,7 @@ def csv_for_db(sql, sqlparam, resultfile, datapath):
 
 
 def feature_extraction(csvfile, datapath, resultcsv):
-    fe = FeatureExtract(config.path_featurespace)
+    fe = FeatureExtract(config.path_fe_space)
     fe.print_featuremap()
 
     # feature extraction
@@ -51,7 +51,7 @@ def feature_extraction(csvfile, datapath, resultcsv):
         header = True
         for row in reader:
             if not header:
-                item = UrlretriverItem()
+                item = UrlItem()
                 ct = open(datapath + "/" + row[0], "r").read()
                 item['url'] = row[1]
                 item['raw_content'] = ct
@@ -70,7 +70,7 @@ def feature_extraction(csvfile, datapath, resultcsv):
 
 def test_data(dtreefile, testdata, outputpath):
     clf = pickle.loads(open(dtreefile).read())['tree']
-    fe = FeatureExtract(config.path_featurespace)
+    fe = FeatureExtract(config.path_fe_space)
     output = open(outputpath, "w")
     line = "%s,%s,%s,%s,%s" % ("id", "label", "judge", "prob", fe.str_featuremap_line())
     # print line

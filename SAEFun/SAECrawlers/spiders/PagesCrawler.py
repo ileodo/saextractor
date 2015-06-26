@@ -5,11 +5,11 @@ from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.contrib.linkextractors.lxmlhtml import LxmlLinkExtractor
 
 from util import tool, config
-from SAECrawlers.items import UrlretriverItem
+from SAECrawlers.items import UrlItem
 
 
 class PagesCrawler(CrawlSpider):
-    name = "pagescrawler"
+    name = "retriever"
     allowed_domains = config.retriever_allow_domains
     start_urls = config.retriever_start_urls
 
@@ -33,7 +33,7 @@ class PagesCrawler(CrawlSpider):
         # db not changed
 
         # is this url in URL_LIB
-        item = UrlretriverItem.s_load_url(response.url)
+        item = UrlItem.s_load_url(response.url)
         item['raw_content'] = response.body
         item['content'] = response.body
 

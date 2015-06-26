@@ -5,7 +5,7 @@ import shutil
 
 from sklearn import tree
 
-from SAECrawlers.items import UrlretriverItem
+from SAECrawlers.items import UrlItem
 from util import tool
 from util import config
 from util.logger import log
@@ -17,7 +17,7 @@ class SAEJudge:
         self.__judge_queue = {}
         self.__dtree_param = dtree_param
         # id : item{title, url, filename, confidence, decision }
-        self.__fe = FeatureExtract(config.path_featurespace)
+        self.__fe = FeatureExtract(config.path_fe_space)
         dtree = pickle.loads(open(dtreefile).read())
         self.__F = dtree['F']
         self.__L = dtree['L']
@@ -30,14 +30,14 @@ class SAEJudge:
             decision, confidence = self.__auto_judge(ent['feature'])
             if confidence > config.const_CONFIDENCE_THRESHOLD:
                 # pretty sure, save to db, and pass to extract
-                item = UrlretriverItem.s_load_id(key)
+                item = UrlItem.s_load_id(key)
                 item['is_target'] = decision
                 item.save()
                 delete_ids.append(key)
                 if int(item['is_target']) in [config.const_IS_TARGET_MULTIPLE, config.const_IS_TARGET_SIGNLE]:
                     self.__send_to_extractor(item, ent['filename'])
                 else:
-                    os.remove(config.path_inbox_judge + "/%s" % ent['filename'])
+                    os.remove(config.path_judge_inbox + "/%s" % ent['filename'])
             else:
                 self.__judge_queue[key]['confidence'] = confidence
                 self.__judge_queue[key]['decision'] = decision
@@ -50,7 +50,7 @@ class SAEJudge:
         queue_file.write(pickle.dumps(self.__judge_queue, -1))
         queue_file.close()
         # dtree_cs.ox.ac.uk
-        dtree_file = open(config.path_dtree, "w")
+        dtree_file = open(config.path_judge_dtree, "w")
         dtree_file.write(pickle.dumps(self.__clf, -1))
         dtree_file.close()
 
@@ -70,12 +70,12 @@ class SAEJudge:
         if filename is None:
             ext = item['content_type'].split('/')[1]
             filename = "%s.%s" % (item['id'], ext)
-            f = open(config.path_inbox_extractor + "/%s" % filename, 'w')
+            f = open(config.path_extractor_inbox + "/%s" % filename, 'w')
             f.write(str(item['content']))
             f.close()
         else:
-            shutil.move(config.path_inbox_judge + "/%s" % filename,
-                        config.path_inbox_extractor + "/%s" % filename)
+            shutil.move(config.path_judge_inbox + "/%s" % filename,
+                        config.path_extractor_inbox + "/%s" % filename)
 
         # SIGNAL
         data = {"operation": config.socket_CMD_extractor_new,"id": item['id'], "filename": filename}
@@ -102,7 +102,7 @@ class SAEJudge:
             # save file
             ext = item['content_type'].split('/')[1]
             filename = "%s.%s" % (item['id'], ext)
-            f = open(config.path_inbox_judge + "/%s" % filename, 'w')
+            f = open(config.path_judge_inbox + "/%s" % filename, 'w')
             f.write(str(item['content']))
             f.close()
 
@@ -123,7 +123,7 @@ class SAEJudge:
     def __op_done(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
         decision = int(data_loaded['decision'])
-        item = UrlretriverItem.s_load_id(item_id)
+        item = UrlItem.s_load_id(item_id)
         item['is_target'] = decision
         item.save()
         self.__F.append(FeatureExtract.vector_feature(self.__judge_queue[item_id]['feature']))

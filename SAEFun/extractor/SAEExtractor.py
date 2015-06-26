@@ -1,12 +1,8 @@
 __author__ = 'LeoDong'
 import cPickle as pickle
-import os
-import shutil
-import random
 
-from SAECrawlers.items import UrlretriverItem
-from util import tool
-from util import config
+from SAECrawlers.items import UrlItem
+from util import tool, config
 from util.logger import log
 
 class SAEExtractor:
@@ -22,22 +18,23 @@ class SAEExtractor:
     def __op_new(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
         filename = data_loaded['filename']
-        item = UrlretriverItem.s_load_id(item_id)
+        item = UrlItem.s_load_id(item_id)
+
+        # 检查是否有已经能用(且有效)的extractor,有的话:
+        rule_id = 35
+        # 否则:
+        rule_id = -1
 
         self.__ext_queue[item_id] = {
             "title": item['title'],
             "url": item['url'],
             "filename": filename,
-            "decision": item['is_target']
+            "decision": item['is_target'],
+            "rule_id": rule_id
         }
-        log.info(str({
-            "title": item['title'],
-            "url": item['url'],
-            "filename": filename,
-            "decision": item['is_target']
-        })
 
-        )
+        log.info("[%s]: # %s " % (item_id, rule_id))
+
         pass
 
     def __op_list(self, data_loaded, connection):

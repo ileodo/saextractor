@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 from util import db, config
 
 
-class UrlretriverItem(scrapy.Item):
+class UrlItem(scrapy.Item):
     # attribute in DB
     id = scrapy.Field()
     url = scrapy.Field()
@@ -31,7 +31,6 @@ class UrlretriverItem(scrapy.Item):
     raw_content = scrapy.Field()  # str
     soup = scrapy.Field()  # str
     content_type = scrapy.Field()  # str
-
 
     def save(self):
         db.general_update_url(self['id'], self['is_target'], self['content_hash'], self['layout_hash'], self['rule_id'],
@@ -55,13 +54,13 @@ class UrlretriverItem(scrapy.Item):
 
     @staticmethod
     def s_load_id(id):
-        r = UrlretriverItem()
+        r = UrlItem()
         r.load_id(id)
         return r
 
     @staticmethod
     def s_load_url(url):
-        r = UrlretriverItem()
+        r = UrlItem()
         r.load_url(url)
         return r
 

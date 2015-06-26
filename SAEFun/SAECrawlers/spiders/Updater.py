@@ -6,7 +6,7 @@ import scrapy
 from scrapy import log
 
 from util import db, tool
-from SAECrawlers.items import UrlretriverItem
+from SAECrawlers.items import UrlItem
 
 
 class Updater(scrapy.Spider):
@@ -14,7 +14,7 @@ class Updater(scrapy.Spider):
     start_urls = db.get_all_ids_istarget()
 
     def parse(self, response):
-        item = UrlretriverItem.s_load_url(response.url)
+        item = UrlItem.s_load_url(response.url)
         item['raw_content'] = response.body
         item['content_type'] = tool.get_content_type_for_response(response)
 

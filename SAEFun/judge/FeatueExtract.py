@@ -75,8 +75,8 @@ class FeatureExtract:
         if path in self.__file_map.keys():
             return self.__file_map[path]
         else:
-            if os.path.isfile(config.path_onto_judge + "/" + path):
-                file_content = open(config.path_onto_judge + "/" + path).read()
+            if os.path.isfile(config.path_fe + "/" + path):
+                file_content = open(config.path_fe + "/" + path).read()
                 self.__file_map[path] = file_content.strip().split("\n")
             else:
                 self.__file_map[path] = ""

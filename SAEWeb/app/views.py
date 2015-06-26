@@ -86,8 +86,8 @@ def ajax(request):
 
 def loadfile(request, type, filename):
     if type == "judge":
-        path = config.path_inbox_judge
+        path = config.path_judge_inbox
     elif type == "extract":
-        path = config.path_inbox_extractor
+        path = config.path_extractor_inbox
     file = open(path + "/" + filename)
     return HttpResponse(file.read())

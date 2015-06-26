@@ -6,11 +6,10 @@ from scrapy import log, signals
 from scrapy.utils.project import get_project_settings
 
 from SAECrawlers.spiders.PagesCrawler import PagesCrawler
+from util import tool
 
-from util import starter
-
-starter.init_database()
-starter.init_working_path()
+tool.init_database()
+tool.init_working_path()
 
 spider = PagesCrawler()
 settings = get_project_settings()
