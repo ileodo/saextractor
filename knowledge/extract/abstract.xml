@@ -1,0 +1,22 @@
+<attribute name="abstract">
+    <rule id="1" description="">
+        <select on="html" />
+        <extract policy="xpath">
+            \\body\div[3]
+        </extract>
+        <actions>
+
+        </actions>
+    </rule>
+
+    <rule id="2" description="">
+        <select on="text" />
+        <extract policy="string">
+            <before></before>
+            <after></after>
+        </extract>
+        <actions>
+
+        </actions>
+    </rule>
+</attribute>
