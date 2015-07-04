@@ -1,0 +1,8 @@
+<entity name="seminar">
+    <attribute id="1" name="title">title.xml</attribute>
+    <attribute id="2" name="location">location.xml</attribute>
+    <attribute id="3" name="speaker">speaker.xml</attribute>
+    <attribute id="4" name="start time">start_time.xml</attribute>
+    <attribute id="5" name="end time">end_time.xml</attribute>
+    <attribute id="6" name="abstract">abstract.xml</attribute>
+</entity>

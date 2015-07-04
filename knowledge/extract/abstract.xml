@@ -1,11 +1,11 @@
-<attribute name="abstract">
+<ruleset name="abstract">
     <rule id="1" description="">
         <select on="html" />
         <extract policy="xpath">
             \\body\div[3]
         </extract>
         <actions>
-
+            <action>removeHTML</action>
         </actions>
     </rule>
 
@@ -19,4 +19,4 @@
 
         </actions>
     </rule>
-</attribute>
+</ruleset>

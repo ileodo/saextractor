@@ -85,24 +85,273 @@
 
         <!-- Modal -->
         <div class="modal fade" id="viewModal" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-dialog modal-lg">
+            <div class="modal-dialog modal-lg model-xxl">
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                         <h4 class="modal-title" id="myLargeModalLabel">Modal title</h4>
                     </div>
                     <div class="modal-body">
-                        <iframe id="showiframe" class="col-xs-12" height="800px"></iframe>
+                        <div class="col-md-6">
+                            <iframe id="showiframe" class="col-xs-12" height="800px"></iframe>
+                        </div>
+                        <div id="control" class="col-md-6">
+
+                            <div id="select-rules">
+                                <h3>Select Rules</h3>
+                                <div id="rule-table-wrapper">
+                                    <div class="tabs">
+                                        <ul id="myTab" class="nav nav-tabs tabdrop">
+                                            <li class="active">
+                                                <a href="#ruletab-1" data-toggle="tab" aria-expanded="true">Title</a>
+                                            </li>
+                                            <li class="">
+                                                <a href="#ruletab-2" data-toggle="tab">Speaker</a>
+                                            </li>
+                                            <li class="">
+                                                <a href="#ruletab-3" data-toggle="tab">Location</a>
+                                            </li>
+                                            <li class="">
+                                                <a href="#ruletab-4" data-toggle="tab">Start Time</a>
+                                            </li>
+                                            <li class="">
+                                                <a href="#ruletab-5" data-toggle="tab">End Time</a>
+                                            </li>
+                                            <li class="">
+                                                <a href="#ruletab-6" data-toggle="tab">Abstract</a>
+                                            </li>
+                                        </ul>
+
+                                        <div id="myTabContent" class="tab-content">
+                                            <div class="tab-pane fade active in" id="ruletab-1">
+                                                <div class="panel-group accordion" id="accordion1">
+                                                    <div class="panel panel-default" id="spr_3">
+                                                        <div class="panel-heading">
+                                                            <h5 class="panel-title">
+                                                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseOne1" aria-expanded="true"><i class="en-ticket s16"></i>Select Exist Rule</a>
+                                                            </h5>
+                                                        </div>
+                                                        <div id="collapseOne1" class="panel-collapse collapse in" aria-expanded="true">
+                                                            <div class="list-group">
+                                                                <a href="#" class="list-group-item active">
+                                                                    <h4 class="list-group-item-heading">Rule #1</h4>
+                                                                    <p class="list-group-item-text">
+                                                                        Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                                    </p>
+                                                                </a>
+                                                                <a href="#" class="list-group-item">
+                                                                    <h4 class="list-group-item-heading">Rule #2</h4>
+                                                                    <p class="list-group-item-text">
+                                                                        Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                                    </p>
+                                                                </a>
+                                                                <a href="#" class="list-group-item">
+                                                                    <h4 class="list-group-item-heading">Rule #3</h4>
+                                                                    <p class="list-group-item-text">
+                                                                        Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                                    </p>
+                                                                </a>
+                                                                <a href="#" class="list-group-item active">
+                                                                    <h4 class="list-group-item-heading">Rule #1</h4>
+                                                                    <p class="list-group-item-text">
+                                                                        Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                                    </p>
+                                                                </a>
+                                                                <a href="#" class="list-group-item">
+                                                                    <h4 class="list-group-item-heading">Rule #2</h4>
+                                                                    <p class="list-group-item-text">
+                                                                        Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                                    </p>
+                                                                </a>
+                                                                <a href="#" class="list-group-item">
+                                                                    <h4 class="list-group-item-heading">Rule #3</h4>
+                                                                    <p class="list-group-item-text">
+                                                                        Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                                    </p>
+                                                                </a>
+                                                                <a href="#" class="list-group-item active">
+                                                                    <h4 class="list-group-item-heading">Rule #1</h4>
+                                                                    <p class="list-group-item-text">
+                                                                        Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                                    </p>
+                                                                </a>
+                                                                <a href="#" class="list-group-item">
+                                                                    <h4 class="list-group-item-heading">Rule #2</h4>
+                                                                    <p class="list-group-item-text">
+                                                                        Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                                    </p>
+                                                                </a>
+                                                                <a href="#" class="list-group-item">
+                                                                    <h4 class="list-group-item-heading">Rule #3</h4>
+                                                                    <p class="list-group-item-text">
+                                                                        Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                                    </p>
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="panel panel-default" id="spr_4">
+                                                        <div class="panel-heading">
+                                                            <h5 class="panel-title">
+                                                                <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion1" href="#collapseTwo1"><i class="en-plus2 s16"></i>Create New Rule</a>
+                                                            </h5>
+                                                        </div>
+                                                        <div id="collapseTwo1" class="panel-collapse collapse" aria-expanded="false" style="height: 0px;">
+                                                            <div class="panel-body">
+                                                                <div class="form">
+                                                                    <form action="" class="form-horizontal group-border">
+
+                                                                        <div class="form-group">
+                                                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Selection</label>
+                                                                            <div class="col-lg-10 col-md-10">
+                                                                                <select class="form-control select2">
+                                                                                    <option value="AK">Html</option>
+                                                                                    <option value="HI">Body</option>
+                                                                                    <option value="HI">Title</option>
+                                                                                </select>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group">
+                                                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Method</label>
+                                                                            <div class="col-lg-10 col-md-10">
+                                                                                <select class="form-control select2">
+                                                                                    <option value="AK">XPATH</option>
+                                                                                    <option value="HI">Reg</option>
+                                                                                    <option value="HI">Title</option>
+                                                                                </select>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group">
+                                                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Input1</label>
+                                                                            <div class="col-lg-10 col-md-10">
+                                                                                <input class="form-control" type="text">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group">
+                                                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Input2</label>
+                                                                            <div class="col-lg-10 col-md-10">
+                                                                                <input class="form-control"  type="text">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group">
+                                                                            <label class="col-lg-2 col-md-2 col-sm-12 control-label">Post Action</label>
+                                                                            <div class="col-lg-10 col-md-10">
+                                                                                <label class="checkbox-inline">
+                                                                                    <input type="checkbox" value="option1">unchecked
+                                                                                </label>
+                                                                                <label class="checkbox-inline">
+                                                                                    <input type="checkbox" value="option2" checked="checked">checked
+                                                                                </label>
+                                                                                <label class="checkbox-inline">
+                                                                                    <input type="checkbox" value="option1">unchecked
+                                                                                </label>
+                                                                                <label class="checkbox-inline">
+                                                                                    <input type="checkbox" value="option2" checked="checked">checked
+                                                                                </label>
+                                                                                <label class="checkbox-inline">
+                                                                                    <input type="checkbox" value="option1">unchecked
+                                                                                </label>
+                                                                                <label class="checkbox-inline">
+                                                                                    <input type="checkbox" value="option2" checked="checked">checked
+                                                                                </label>
+                                                                                <label class="checkbox-inline">
+                                                                                    <input type="checkbox" value="option1">unchecked
+                                                                                </label>
+                                                                                <label class="checkbox-inline">
+                                                                                    <input type="checkbox" value="option2" checked="checked">checked
+                                                                                </label>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group">
+                                                                            <label class="col-lg-2 col-md-2 col-sm-12 control-label">Description</label>
+                                                                            <div class="col-lg-10 col-md-10">
+                                                                                <textarea class="form-control" rows="3"></textarea>
+                                                                            </div>
+                                                                        </div>
+
+                                                                        <div class="form-group">
+                                                                            <label class="col-lg-2 col-md-2 col-sm-12 control-label"></label>
+                                                                            <div class="col-lg-10 col-md-10">
+                                                                                <span class="help-block mt10">
+                                                                                    <span id="output-message" class="badge p10 ml15">test result</span>
+                                                                                    <a href="#" id="show-password" class="btn btn-info">Test</a>
+                                                                                    <a href="#" id="generate-password" class="btn btn-success">Add</a>
+                                                                                </span>
+
+                                                                            </div>
+                                                                        </div>
+                                                                    </form>
+                                                                </div>
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div class="tab-pane fade" id="two">
+                                                <div class="list-group">
+                                                    <a href="#" class="list-group-item active">
+                                                        <h4 class="list-group-item-heading">Rule #1</h4>
+                                                        <p class="list-group-item-text">
+                                                            Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                        </p>
+                                                    </a>
+                                                    <a href="#" class="list-group-item">
+                                                        <h4 class="list-group-item-heading">Rule #2</h4>
+                                                        <p class="list-group-item-text">
+                                                            Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                        </p>
+                                                    </a>
+                                                    <a href="#" class="list-group-item">
+                                                        <h4 class="list-group-item-heading">Rule #3</h4>
+                                                        <p class="list-group-item-text">
+                                                            Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.
+                                                        </p>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="preview">
+                                <h3>Preview</h3>
+                                <dl class="dl-horizontal">
+                                    <dt>Title</dt>
+                                        <dd>A description list is perfect for defining terms.</dd>
+                                    <dt>Speaker</dt>
+                                        <dd>T Dong</dd>
+                                    <dt>Location</dt>
+                                        <dd>Etiam porta</dd>
+                                    <dt>Start Time</dt>
+                                        <dd>2015-04-03 14:30:00</dd>
+                                    <dt>End Time</dt>
+                                        <dd>2015-04-03 14:30:00</dd>
+                                    <dt>Abstract</dt>
+                                        <dd>Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit. Vestibulum id ligula porta felis euismod semper eget lacinia odio sem nec elit.</dd>
+                                </dl>
+                            </div>
+                        </div>
                     </div>
                     <div class="modal-footer">
-                        <button id="model-btn-N" data-id="" data-decision="{{ 'N' | decision_value  }}" type="button"
-                                class="btn btn-dark ajax-btn-judge">No
-                        </button>
-                        <button id="model-btn-S" data-id="" data-decision="{{ 'S' | decision_value  }}" type="button"
-                                class="btn btn-pink ajax-btn-judge">Single
-                        </button>
-                        <button id="model-btn-M" data-id="" data-decision="{{ 'M' | decision_value  }}" type="button"
-                                class="btn btn-yellow ajax-btn-judge">Multiple
+                        <div class="pull-left">
+                            <span>
+                                Re-Judge
+                            </span>
+                            <button id="model-btn-N" data-id="" data-decision="{{ 'N' | decision_value  }}" type="button"
+                                    class="btn btn-dark ajax-btn-judge">No
+                            </button>
+                            <button id="model-btn-S" data-id="" data-decision="{{ 'S' | decision_value  }}" type="button"
+                                    class="btn btn-pink ajax-btn-judge">Single
+                            </button>
+                            <button id="model-btn-M" data-id="" data-decision="{{ 'M' | decision_value  }}" type="button"
+                                    class="btn btn-yellow ajax-btn-judge">Multiple
+                            </button>
+                        </div>
+
+                        <button id="btn-extract" data-id="" data-decision="" type="button"
+                                class="btn btn-green ajax-btn-judge">Extract
                         </button>
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                     </div>
