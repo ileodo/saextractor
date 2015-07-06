@@ -2,7 +2,7 @@ __author__ = 'LeoDong'
 from scrapy import log
 from scrapy.utils.httpobj import urlparse_cached
 from scrapy.exceptions import IgnoreRequest
-
+from items import UrlItem
 from util import config, tool, db
 
 
@@ -25,7 +25,7 @@ class CustomDownloaderMiddleware(object):
                 raise IgnoreRequest
 
         # is this url in URL_LIB
-        urldb_item = db.get_url_by_url(response.url)
+        urldb_item = UrlItem.load_db_item(url=response.url)
 
         if response.status == 404:  # not found
             if urldb_item is not None:  # already in DB

@@ -31,12 +31,8 @@ class PagesCrawler(CrawlSpider):
     def parse_item(response):
         # response are all updated or new
         # db not changed
-
+        print "aBCADFSDF"
         # is this url in URL_LIB
-        item = UrlItem.s_load_url(response.url)
-        item['raw_content'] = response.body
-        item['content'] = response.body
-
-        item['content_type'] = tool.get_content_type_for_response(response)
+        item = UrlItem.load(url=response.url, response=response)
         log.msg("PC get page [%s]:- %s" % (item['id'], item['url']))
         yield item

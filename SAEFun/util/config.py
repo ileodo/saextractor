@@ -53,6 +53,9 @@ socket_CMD_judge_refresh = "3"
 
 socket_CMD_extractor_new = "0"
 socket_CMD_extractor_list = "1"
+socket_CMD_extractor_maps = "2"
+socket_CMD_extractor_preview = "3"
+socket_CMD_extractor_rejudge_done = "4"
 
 socket_retry_seconds = 10
 #

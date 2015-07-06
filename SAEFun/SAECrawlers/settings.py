@@ -31,6 +31,6 @@ ITEM_PIPELINES = {
 LOG_LEVEL = 'ERROR'
 DOWNLOAD_TIMEOUT = config.retriever_download_time_out
 DEPTH_LIMIT = config.retriever_depth_limit
-
+LOG_STDOUT = True
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'UrlRetriver (+http://www.yourdomain.com)'

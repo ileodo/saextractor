@@ -24,25 +24,6 @@ class SAEJudge:
         self.__clf = dtree['tree']
         pass
 
-    def __refresh_list(self):
-        delete_ids = []
-        for key, ent in self.__judge_queue.iteritems():
-            decision, confidence = self.__auto_judge(ent['feature'])
-            if confidence > config.const_CONFIDENCE_THRESHOLD:
-                # pretty sure, save to db, and pass to extract
-                item = UrlItem.s_load_id(key)
-                item['is_target'] = decision
-                item.save()
-                delete_ids.append(key)
-                if int(item['is_target']) in [config.const_IS_TARGET_MULTIPLE, config.const_IS_TARGET_SIGNLE]:
-                    self.__send_to_extractor(item, ent['filename'])
-                else:
-                    os.remove(config.path_judge_inbox + "/%s" % ent['filename'])
-            else:
-                self.__judge_queue[key]['confidence'] = confidence
-                self.__judge_queue[key]['decision'] = decision
-        for ent_id in delete_ids:
-            del self.__judge_queue[ent_id]
 
     def save(self):
         # queue
@@ -54,6 +35,28 @@ class SAEJudge:
         dtree_file.write(pickle.dumps(self.__clf, -1))
         dtree_file.close()
 
+    def __refresh_list(self):
+        delete_ids = []
+        for key, ent in self.__judge_queue.iteritems():
+            decision, confidence = self.__auto_judge(ent['feature'])
+            if confidence > config.const_CONFIDENCE_THRESHOLD:
+                # pretty sure, save to db, and pass to extract
+                item = UrlItem.load_db_item(id=key)
+                item['is_target'] = decision
+                item.save()
+                delete_ids.append(key)
+                if int(item['is_target']) in [config.const_IS_TARGET_MULTIPLE, config.const_IS_TARGET_SIGNLE]:
+                    self.__send_to_extractor(item)
+                else:
+                    os.remove(config.path_judge_inbox + "/%s" % ent['filename'])
+            else:
+                self.__judge_queue[key]['confidence'] = confidence
+                self.__judge_queue[key]['decision'] = decision
+        # clear delete_ids
+        for ent_id in delete_ids:
+            del self.__judge_queue[ent_id]
+
+
     def __auto_judge(self, feature):
         fv = FeatureExtract.vector_feature(feature)
         if self.__clf is not None:
@@ -64,52 +67,38 @@ class SAEJudge:
             confidence = 0
         return target, confidence
 
-    @staticmethod
-    def __send_to_extractor(item, filename=None):
-        # FILE
-        if filename is None:
-            ext = item['content_type'].split('/')[1]
-            filename = "%s.%s" % (item['id'], ext)
-            f = open(config.path_extractor_inbox + "/%s" % filename, 'w')
-            f.write(str(item['content']))
-            f.close()
-        else:
-            shutil.move(config.path_judge_inbox + "/%s" % filename,
-                        config.path_extractor_inbox + "/%s" % filename)
-
-        # SIGNAL
-        data = {"operation": config.socket_CMD_extractor_new,"id": item['id'], "filename": filename}
-        data_string = pickle.dumps(data, -1)
-        tool.send_message(data_string, config.socket_addr_extractor)
-
     def __op_new(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
-        item = data_loaded['item']
+        item = UrlItem.load(id=item_id,file_path=config.path_judge_inbox)
         feature = self.__fe.extract_item(item)
-        decision, confidence = self.__auto_judge(feature)
-        log.info("[%s]: [%s] # %s # %s%%" % (item_id, FeatureExtract.str_feature(feature), decision, confidence))
+
+        if 'decision' not in data_loaded.keys():
+            decision, confidence = self.__auto_judge(feature)
+            log.info("[%s]: [%s] # %s # %s%%" % (item_id, FeatureExtract.str_feature(feature), decision, confidence))
+        else:
+            decision, confidence = data_loaded['decision'],100
+            log.info("[%s]: back from Extractor # %s # %s%%" % (item_id, decision, confidence))
+            self.__relearn_clf(feature,decision)
+
         if confidence > config.const_CONFIDENCE_THRESHOLD:
             # pretty sure, save to db, and pass to extract
             item['is_target'] = decision
             item.save()
             if int(item['is_target']) in [config.const_IS_TARGET_MULTIPLE, config.const_IS_TARGET_SIGNLE]:
+                # item is target
                 self.__send_to_extractor(item)
+            else:
+                # item is not target
+                os.remove(config.path_judge_inbox + "/%s" % item.filename())
         else:
             # not sure, put it in queue, involving human-being
             item['is_target'] = config.const_IS_TARGET_UNKNOW
             item.save()
 
-            # save file
-            ext = item['content_type'].split('/')[1]
-            filename = "%s.%s" % (item['id'], ext)
-            f = open(config.path_judge_inbox + "/%s" % filename, 'w')
-            f.write(str(item['content']))
-            f.close()
-
             self.__judge_queue[item_id] = {
                 "title": item['title'],
                 "url": item['url'],
-                "filename": filename,
+                "filename": item.filename(),
                 "confidence": confidence,
                 "decision": decision,
                 "feature": feature
@@ -123,22 +112,33 @@ class SAEJudge:
     def __op_done(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
         decision = int(data_loaded['decision'])
-        item = UrlItem.s_load_id(item_id)
+
+        item = UrlItem.load_db_item(id=item_id)
         item['is_target'] = decision
         item.save()
-        self.__F.append(FeatureExtract.vector_feature(self.__judge_queue[item_id]['feature']))
-        self.__L.append(decision)
-        self.__clf = tree.DecisionTreeClassifier(**self.__dtree_param)
-        self.__clf.fit(self.__F, self.__L)
+
+        if int(item['is_target']) in [config.const_IS_TARGET_MULTIPLE, config.const_IS_TARGET_SIGNLE]:
+            # item is target
+            self.__send_to_extractor(item)
+        else:
+            # item is not target
+            os.remove(config.path_judge_inbox + "/%s" % item.filename())
+
+        self.__relearn_clf(self.__judge_queue[item_id]['feature'],decision)
+
         del self.__judge_queue[item_id]
-
-        self.__op_refresh(data_loaded, connection)
-
         tool.send_msg(connection, "0")
         pass
 
     def __op_refresh(self, data_loaded, connection):
         self.__refresh_list()
+
+    def __relearn_clf(self,feature,decision):
+        self.__F.append(FeatureExtract.vector_feature(feature))
+        self.__L.append(decision)
+
+        self.__clf = tree.DecisionTreeClassifier(**self.__dtree_param)
+        self.__clf.fit(self.__F, self.__L)
 
     @staticmethod
     def __operations(cmd):
@@ -149,6 +149,17 @@ class SAEJudge:
             config.socket_CMD_judge_refresh: SAEJudge.__op_refresh,
         }
         return maps[cmd]
+
+    @staticmethod
+    def __send_to_extractor(item):
+        # move file
+        shutil.move(config.path_judge_inbox + "/%s" % item.filename(),
+                    config.path_extractor_inbox + "/%s" % item.filename())
+
+        # SIGNAL
+        data = {"operation": config.socket_CMD_extractor_new,"id": item['id']}
+        data_string = pickle.dumps(data, -1)
+        tool.send_message(data_string, config.socket_addr_extractor)
 
     def process(self, connection, client_address):
         try:

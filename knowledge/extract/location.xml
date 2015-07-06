@@ -1,0 +1,21 @@
+<ruleset>
+    <rule id="1" description="location-1" on="html">
+        <extract policy="xpath">
+            \\body\div[3]
+        </extract>
+        <actions>
+            <action id="1" />
+            <action id="2" />
+        </actions>
+    </rule>
+
+    <rule id="2" description="location-2" on="text">
+        <extract policy="string">
+            <before></before>
+            <after></after>
+        </extract>
+        <actions>
+
+        </actions>
+    </rule>
+</ruleset>

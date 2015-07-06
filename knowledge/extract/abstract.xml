@@ -1,5 +1,5 @@
-<ruleset name="abstract">
-    <rule id="1" description="">
+<ruleset>
+    <rule id="1" description="abc">
         <select on="html" />
         <extract policy="xpath">
             \\body\div[3]
@@ -9,7 +9,7 @@
         </actions>
     </rule>
 
-    <rule id="2" description="">
+    <rule id="2" description="abc">
         <select on="text" />
         <extract policy="string">
             <before></before>

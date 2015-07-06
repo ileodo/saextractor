@@ -1,0 +1,8 @@
+{% load template_util %}
+<h3>Preview</h3>
+<dl class="dl-horizontal">
+    {% for id, attr in preview.iteritems %}
+    <dt id="preview-attr-{{id}}">{{attr.name}}</dt>
+        <dd>{{attr.value}}</dd>
+    {% endfor %}
+</dl>

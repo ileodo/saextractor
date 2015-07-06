@@ -12,11 +12,9 @@ class FeatureExtract:
         file = open(featurespace)
         self.__featurespace = BeautifulSoup(file.read())
         self.__file_map = {}
-        self.__part_map = {}
         pass
 
     def extract_item(self, item):
-        self.__part_map = {}
         feature_dict = dict()
         features = self.__featurespace.findAll("feature")
         for f in features:
@@ -37,7 +35,7 @@ class FeatureExtract:
             if str(r) == "\n":
                 continue
             value.append(self.__extract_rule(item, r))
-        return fid, self.__operations(policy)(value)
+        return fid, self.__map_policy(policy)(value)
 
     def __extract_rule(self, item, r):
         """
@@ -53,7 +51,7 @@ class FeatureExtract:
         if tag == "reg":
             policy = r.get('policy', "count")
             p = re.compile(r.text, re.I)
-            result = p.findall(self.__get_part_for_item(item, sel))
+            result = p.findall(item.get_part(sel))
             if policy == "count":
                 value = len(result)
             elif policy == "exist":
@@ -64,9 +62,9 @@ class FeatureExtract:
             lines = self.__load_file_lines(r.text)
             for line in lines:
                 p = re.compile(line, re.I)
-                tmp = p.findall(self.__get_part_for_item(item, sel))
+                tmp = p.findall(item.get_part(sel))
                 value_set.append(len(tmp))
-            value = self.__operations(policy)(value_set)
+            value = self.__map_policy(policy)(value_set)
         else:
             raise Exception("Un-support")
         return weight * value
@@ -81,29 +79,6 @@ class FeatureExtract:
             else:
                 self.__file_map[path] = ""
             return self.__file_map[path]
-
-    def __get_part_for_item(self, item, part):
-        if part in self.__part_map.keys():
-            return self.__part_map[part]
-        else:
-            if part == "text":
-                self.__part_map[part] = item.get_soup().get_text("\n")
-            elif part == "html":
-                self.__part_map[part] = str(item.get_soup())
-            elif part == "tag":
-                self.__part_map[part] = " ".join(re.findall("<.*?>", self.__get_part_for_item(item, "html")))
-            elif part == "title":
-                self.__part_map[part] = " ".join([x.text for x in item.get_soup().find('title')])
-            elif part == "keyword":
-                tags = item.get_soup.select('meta[name="Keywords"]') + item.get_soup.select('meta[name="keywords"]')
-                self.__part_map[part] = " ".join([x['content'] for x in tags])
-            elif part == "description":
-                tags = item.get_soup.select('meta[name="Description"]') + item.get_soup.select(
-                    'meta[name="description"]')
-                self.__part_map[part] = " ".join([x['content'] for x in tags])
-            elif part == "url":
-                self.__part_map[part] = item['url']
-            return self.__part_map[part]
 
     @staticmethod
     def __helper_avg(array):
@@ -124,7 +99,7 @@ class FeatureExtract:
         return array[0] / d
 
     @staticmethod
-    def __operations(policy):
+    def __map_policy(policy):
         map = {
             "sum": sum,
             "max": max,

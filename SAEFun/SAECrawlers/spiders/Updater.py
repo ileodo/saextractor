@@ -14,9 +14,6 @@ class Updater(scrapy.Spider):
     start_urls = db.get_all_ids_istarget()
 
     def parse(self, response):
-        item = UrlItem.s_load_url(response.url)
-        item['raw_content'] = response.body
-        item['content_type'] = tool.get_content_type_for_response(response)
-
+        item = UrlItem.load(url=response.url, response=response)
         log.msg("Updater get page [%s]:- %s" % (item['id'], item['url']))
         yield item

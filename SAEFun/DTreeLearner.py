@@ -56,8 +56,8 @@ def feature_extraction(csvfile, datapath, resultcsv):
                 item['url'] = row[1]
                 item['raw_content'] = ct
                 item['content'] = ct
-                item['title'] = item.title_of_tree()
-                item['content'] = str(item.get_soup())
+                item['title'] = item.get_short_title()
+                item['content'] = str(item.soup())
                 f = fe.extract_item(item)
                 line = "%s,%s,%s" % (row[0], row[2], FeatureExtract.str_feature(f))
                 # print line

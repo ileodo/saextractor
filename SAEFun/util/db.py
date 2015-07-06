@@ -97,22 +97,22 @@ def get_url_by_url(url):
     return res
 
 
-def general_update_url(id, is_target, content_hash, layout_hash, rule_id, title):
+def general_update_url(id, is_target, content_hash, layout_hash, rule_id, title, content_type):
     sql = """
-    UPDATE url_lib SET is_target=%s, content_hash=%s, layout_hash =%s, rule_id =%s, title=%s WHERE id=%s
+    UPDATE url_lib SET is_target=%s, content_hash=%s, layout_hash =%s, rule_id =%s, title=%s, content_type=%s WHERE id=%s
     """
     c = db_connect().cursor()
-    c.execute(sql, (is_target, content_hash, layout_hash, rule_id, title, id,))
+    c.execute(sql, (is_target, content_hash, layout_hash, rule_id, title, content_type, id,))
     c.close()
 
 
-def general_insert_url(url, is_target, content_hash, layout_hash, rule_id, title):
+def general_insert_url(url, is_target, content_hash, layout_hash, rule_id, title, content_type):
     sql = """
-    INSERT INTO url_lib (url, is_target, content_hash, layout_hash, rule_id, title)
-      VALUES (%s, %s,%s, %s, %s, %s)
+    INSERT INTO url_lib (url, is_target, content_hash, layout_hash, rule_id, title, content_type)
+      VALUES (%s, %s,%s, %s, %s, %s, %s)
     """
     c = db_connect().cursor()
-    c.execute(sql, (url, is_target, content_hash, layout_hash, rule_id, title))
+    c.execute(sql, (url, is_target, content_hash, layout_hash, rule_id, title, content_type))
     lid = c.lastrowid
     c.close()
     return lid
@@ -126,11 +126,11 @@ def new_url_insert(url):
     :param layout_hash:
     :return:
     """
-    return general_insert_url(url, config.const_IS_TARGET_UNKNOW, "", "", config.const_RULE_UNKNOW, "")
+    return general_insert_url(url, config.const_IS_TARGET_UNKNOW, "", "", config.const_RULE_UNKNOW, "","")
 
 
 
-def exist_url_content_update(id, title, content_hash, layout_hash):
+def exist_url_content_update(id, title, content_hash, layout_hash, content_type):
     """
     update an url item `title` `content_hash` `layout_hash` `last_access_ts`
     :param id:
@@ -139,9 +139,9 @@ def exist_url_content_update(id, title, content_hash, layout_hash):
     :param layout_hash:
     :return:
     """
-    sql = """UPDATE url_lib SET title=%s, content_hash=%s, layout_hash =%s WHERE id=%s """
+    sql = """UPDATE url_lib SET title=%s, content_hash=%s, layout_hash =%s, content_type=%s WHERE id=%s """
     c = db_connect().cursor()
-    c.execute(sql, (title, content_hash, layout_hash, id))
+    c.execute(sql, (title, content_hash, layout_hash,content_type, id))
     c.close()
 
 
