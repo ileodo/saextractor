@@ -2,6 +2,7 @@ import cPickle as pickle
 import socket
 from socket import error as socket_error
 import logging
+import django.utils.html as html
 
 from django.http import HttpResponse
 from django.shortcuts import render
@@ -123,14 +124,60 @@ def ajax(request):
         else:
             return '{"status": "failed"}'
 
+    def extract_rule_test(post):
+        try:
+            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            sock.connect(config.socket_addr_extractor)
+        except socket_error as serr:
+            return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
+
+
+        d=dict(
+            on=post.get('rule[on]'),
+            description=post.get('rule[description]')
+        )
+        if post.get('rule[on]')=="content":
+            d['scope']=dict(
+                sel=post.get('rule[scope[sel]]'),
+                target=post.get('rule[scope[target]]')
+            )
+        if post.get('rule[match]')!="":
+            d['match']=post.get('rule[match]')
+
+        if post.get('rule[substring[after]]') !="" and post.get('rule[substring[before]]') !="":
+            d['substring'] = dict(
+                after=post.get('rule[substring[after]]'),
+                before=post.get('rule[substring[before]]')
+            )
+
+        if post.get('rule[actions]') is None:
+            d['actions']=list()
+        else:
+            d['actions']=post.get('rule[actions]')
+
+        data_string = pickle.dumps(
+            {
+                "operation": config.socket_CMD_extractor_test_rule,
+                "id": post.get("id"),
+                "attrid":post.get("attrid"),
+                "rule": d
+            }, -1)
+        tool.send_msg(sock, data_string)
+        data_string = tool.recv_msg(sock)
+        if data_string:
+            return data_string
+        else:
+            return '#ERROR'
+
     if request.method == 'POST':
         operations_list = {
             'judge_finish': judge_finish,
             're_judge_finish': re_judge_finish,
+            'extract_rule_test': extract_rule_test,
         }
         op_type = request.POST.get('type')
         log.info(str(request.POST))
-        return HttpResponse(operations_list[op_type](request.POST), content_type="application/json")
+        return HttpResponse(operations_list[op_type](request.POST))
     else:
         return HttpResponse("ILLEGAL")
 

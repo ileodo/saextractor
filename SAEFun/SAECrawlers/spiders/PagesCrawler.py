@@ -33,6 +33,6 @@ class PagesCrawler(CrawlSpider):
         # db not changed
         print "aBCADFSDF"
         # is this url in URL_LIB
-        item = UrlItem.load(url=response.url, response=response)
+        item = UrlItem.load_with_content(url=response.url, response=response)
         log.msg("PC get page [%s]:- %s" % (item['id'], item['url']))
         yield item

@@ -21,11 +21,11 @@ class SAEExtractor:
 
     def __op_new(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
-        item = UrlItem.load(id=item_id, file_path=config.path_extractor_inbox)
+        item = UrlItem.load_with_content(id=item_id, file_path=config.path_extractor_inbox)
 
-        # 检查是否有已经能用(且有效)的extractor,有的话:
-        rule_id = 35
-        # 否则:
+        # # 检查是否有已经能用(且有效)的extractor,有的话:
+        # rule_id = 35
+        # # 否则:
         rule_id = -1
 
         self.__ext_queue[item_id] = {
@@ -65,10 +65,21 @@ class SAEExtractor:
     def __op_rejudge_done(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
         decision = int(data_loaded['decision'])
-        item = UrlItem.load_db_item(id=item_id)
+        item = UrlItem.load(id=item_id)
         del self.__ext_queue[item_id]
         self.__send_back_to_judge(item,decision)
         tool.send_msg(connection, "0")
+        pass
+
+    def __op_rule_test(self, data_loaded, connection):
+        item_id = int(data_loaded['id'])
+        rule = data_loaded['rule']
+        attrid = data_loaded['attrid']
+        item = UrlItem.load_with_content(id=item_id,file_path=config.path_extractor_inbox)
+        tool.send_msg(
+            connection,
+            self.__ie.extract_attr(item,rule_id_or_dict=rule,attr_id=attrid)
+        )
         pass
 
     @staticmethod
@@ -79,6 +90,7 @@ class SAEExtractor:
             config.socket_CMD_extractor_maps: SAEExtractor.__op_maps,
             config.socket_CMD_extractor_preview: SAEExtractor.__op_preview,
             config.socket_CMD_extractor_rejudge_done: SAEExtractor.__op_rejudge_done,
+            config.socket_CMD_extractor_test_rule: SAEExtractor.__op_rule_test,
         }
         return maps[cmd]
 

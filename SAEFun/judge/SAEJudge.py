@@ -41,7 +41,7 @@ class SAEJudge:
             decision, confidence = self.__auto_judge(ent['feature'])
             if confidence > config.const_CONFIDENCE_THRESHOLD:
                 # pretty sure, save to db, and pass to extract
-                item = UrlItem.load_db_item(id=key)
+                item = UrlItem.load(id=key)
                 item['is_target'] = decision
                 item.save()
                 delete_ids.append(key)
@@ -69,7 +69,7 @@ class SAEJudge:
 
     def __op_new(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
-        item = UrlItem.load(id=item_id,file_path=config.path_judge_inbox)
+        item = UrlItem.load_with_content(id=item_id,file_path=config.path_judge_inbox)
         feature = self.__fe.extract_item(item)
 
         if 'decision' not in data_loaded.keys():
@@ -113,7 +113,7 @@ class SAEJudge:
         item_id = int(data_loaded['id'])
         decision = int(data_loaded['decision'])
 
-        item = UrlItem.load_db_item(id=item_id)
+        item = UrlItem.load(id=item_id)
         item['is_target'] = decision
         item.save()
 

@@ -194,6 +194,7 @@
         var title = button.data('title');
         var modal = $(this);
         modal.find('.modal-title').text(title);
+        modal.data('id',id);
         modal.find("#model-btn-N").data('id', id);
         modal.find("#model-btn-S").data('id', id);
         modal.find("#model-btn-M").data('id', id);
@@ -221,5 +222,7 @@
                 });
 
     });
+
+
 </script>
 {% include 'partial/footer.html' %}

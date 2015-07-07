@@ -25,15 +25,24 @@
                             <div class="list-group">
                                 {% for rule_id, rule in attr.rules.iteritems %}
                                 <a href="#" class="list-group-item">
-                                    <h4 class="list-group-item-heading">Rule #{{rule_id}} {{rule.description}}</h4>
+                                    <h4 class="list-group-item-heading">Rule #{{rule_id}}: {{rule.description}}</h4>
                                     <p class="list-group-item-text">
-                                        {{rule.policy}} on {{rule.select}}
-                                        <br>
-                                        {% if rule.policy == "xpath" %}
-                                            {{rule.xpath}}
-                                        {% elif rule.policy == "string" %}
-                                            {{rule.after}} <b>*</b> {{rule.before}}
+                                        [{{rule.on}}]
+                                        {% if rule.on == "content" %}
+                                            {{rule.scope.sel}} => {{rule.scope.target}}
                                         {% endif %}
+                                        <br>
+                                        {% if rule.match %}
+                                            Match on {{rule.match}} |
+                                        {% endif %}
+                                        {% if rule.substring %}
+                                            {{rule.substring.after}}#TARGET#{{rule.substring.before}} |
+                                        {% endif %}
+                                        actions: [
+                                        {% for act in rule.actions %}
+                                            {{act}},
+                                        {% endfor %}
+                                        ]
                                     </p>
                                 </a>
                                 {% empty %}
@@ -51,37 +60,43 @@
                         <div id="collapse-{{id}}-new" class="panel-collapse collapse" aria-expanded="false">
                             <div class="panel-body">
                                 <div class="form">
-                                    <form action="" class="form-horizontal group-border">
-
+                                    <form id="add-form-{{id}}" action="" class="form-horizontal group-border">
                                         <div class="form-group">
-                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Selection</label>
+                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">On</label>
                                             <div class="col-lg-10 col-md-10">
-                                                <select class="form-control select2">
-                                                    <option value="AK">Html</option>
-                                                    <option value="HI">Body</option>
-                                                    <option value="HI">Title</option>
+                                                <select name="on" class="form-control select2">
+                                                    <option value="content">content</option>
+                                                    <option value="url">url</option>
+                                                    <option value="title">title</option>
                                                 </select>
                                             </div>
                                         </div>
                                         <div class="form-group">
-                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Method</label>
-                                            <div class="col-lg-10 col-md-10">
-                                                <select class="form-control select2">
-                                                    <option value="AK">XPATH</option>
-                                                    <option value="HI">Reg</option>
+                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Scope</label>
+                                            <div name="scope" class="col-lg-10 col-md-10">
+                                                <input name="scope[sel]" class="form-control" type="text" placeholder="css selector">
+                                                <select name="scope[target]" class="form-control select2">
+                                                    <option value="html">html</option>
+                                                    <option value="text">text</option>
                                                 </select>
                                             </div>
                                         </div>
                                         <div class="form-group">
-                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Input1</label>
+                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Match</label>
                                             <div class="col-lg-10 col-md-10">
-                                                <input class="form-control" type="text">
+                                                <input name="match" class="form-control" type="text" placeholder="regx">
                                             </div>
                                         </div>
                                         <div class="form-group">
-                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Input2</label>
+                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">After</label>
                                             <div class="col-lg-10 col-md-10">
-                                                <input class="form-control"  type="text">
+                                                <input name="substring[after]" class="form-control" type="text" placeholder="regx">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="" class="col-lg-2 col-md-2 col-sm-12 control-label">Before</label>
+                                            <div class="col-lg-10 col-md-10">
+                                                <input name="substring[before]" class="form-control"  type="text" placeholder="regx">
                                             </div>
                                         </div>
                                         <div class="form-group">
@@ -89,7 +104,7 @@
                                             <div class="col-lg-10 col-md-10">
                                                 {% for act_id, act in action.iteritems %}
                                                 <label class="checkbox-inline">
-                                                    <input type="checkbox" value="{{act_id}}">{{ act.name }}
+                                                    <input type="checkbox" name="actions" value="{{act_id}}">{{ act.name }}
                                                 </label>
                                                 {% endfor %}
                                             </div>
@@ -97,7 +112,7 @@
                                         <div class="form-group">
                                             <label class="col-lg-2 col-md-2 col-sm-12 control-label">Description</label>
                                             <div class="col-lg-10 col-md-10">
-                                                <textarea class="form-control" rows="3"></textarea>
+                                                <textarea name="description" class="form-control" rows="3"></textarea>
                                             </div>
                                         </div>
 
@@ -105,11 +120,16 @@
                                             <label class="col-lg-2 col-md-2 col-sm-12 control-label"></label>
                                             <div class="col-lg-10 col-md-10">
                                                 <span class="help-block mt10">
-                                                    <span id="output-message" class="badge p10 ml15">test result</span>
-                                                    <a href="#" id="show-password" class="btn btn-info">Test</a>
-                                                    <a href="#" id="generate-password" class="btn btn-success">Add</a>
+                                                    <a href="#" data-att-id="{{id}}" class="test btn btn-warning">Test</a>
+                                                    <a href="#" data-att-id="{{id}}" class="add btn btn-success">Add</a>
                                                 </span>
 
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-lg-2 col-md-2 col-sm-12 control-label">Test Result</label>
+                                            <div class="col-lg-10 col-md-10">
+                                                <textarea class="test-output form-control" rows="3"></textarea>
                                             </div>
                                         </div>
                                     </form>
@@ -126,3 +146,39 @@
     </div>
 </div>
 </div>
+<script>
+    console.log("start");
+    $(".test.btn").click(function () {
+        var attrid = $(this).data('att-id');
+        var itemid = $("#viewModal").data('id')
+        form_data = getFormJson("#add-form-"+attrid);
+        $.post("{% url 'ajax' %}",
+                {
+                    type: "extract_rule_test",
+                    id:itemid,
+                    attrid:attrid,
+                    rule: form_data,
+                    csrfmiddlewaretoken: '{{csrf_token}}'
+                },
+                function (data, status) {
+                    $("#add-form-"+attrid+" .test-output").val(data)
+                });
+        console.log(form_data);
+    });
+
+    function getFormJson(form) {
+        var o = {};
+        var a = $(form).serializeArray();
+        $.each(a, function () {
+            if (o[this.name] !== undefined) {
+                if (!o[this.name].push) {
+                    o[this.name] = [o[this.name]];
+                }
+                o[this.name].push(this.value || '');
+            } else {
+                o[this.name] = this.value || '';
+            }
+        });
+        return o;
+    }
+</script>

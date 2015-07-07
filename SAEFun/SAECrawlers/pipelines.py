@@ -20,8 +20,8 @@ class ItemPipeline(object):
 
         log.msg("ItemPipe get page [%s]:- %s" % (item['id'], item['url']), level=log.DEBUG)
 
-        item['content_hash'] = tool.hash_for_text(item.raw_content())
-        item['layout_hash'] = tool.hash_for_text(item.get_layout())
+        item['content_hash'] = tool.hash_for_text(item['content'])
+        item['layout_hash'] = tool.hash_for_text(item.get_part('layout'))
         item['title'] = item.get_short_title()
 
         item.save()
@@ -37,7 +37,7 @@ class ItemPipeline(object):
     def send_to_judge(item):
         # save raw_content to judge inbox
         f = open(config.path_judge_inbox + "/%s" % item.filename(), 'w')
-        f.write(str(item.raw_content()))
+        f.write(str(item['content']))
         f.close()
         # signal
         data = {"operation": config.socket_CMD_judge_new,

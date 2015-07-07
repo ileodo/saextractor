@@ -97,22 +97,22 @@ def get_url_by_url(url):
     return res
 
 
-def general_update_url(id, is_target, content_hash, layout_hash, rule_id, title, content_type):
+def general_update_url(id, is_target, content_hash, layout_hash, extractor_id, title, content_type):
     sql = """
-    UPDATE url_lib SET is_target=%s, content_hash=%s, layout_hash =%s, rule_id =%s, title=%s, content_type=%s WHERE id=%s
+    UPDATE url_lib SET is_target=%s, content_hash=%s, layout_hash =%s, extractor_id =%s, title=%s, content_type=%s WHERE id=%s
     """
     c = db_connect().cursor()
-    c.execute(sql, (is_target, content_hash, layout_hash, rule_id, title, content_type, id,))
+    c.execute(sql, (is_target, content_hash, layout_hash, extractor_id, title, content_type, id,))
     c.close()
 
 
-def general_insert_url(url, is_target, content_hash, layout_hash, rule_id, title, content_type):
+def general_insert_url(url, is_target, content_hash, layout_hash, extractor_id, title, content_type):
     sql = """
-    INSERT INTO url_lib (url, is_target, content_hash, layout_hash, rule_id, title, content_type)
+    INSERT INTO url_lib (url, is_target, content_hash, layout_hash, extractor_id, title, content_type)
       VALUES (%s, %s,%s, %s, %s, %s, %s)
     """
     c = db_connect().cursor()
-    c.execute(sql, (url, is_target, content_hash, layout_hash, rule_id, title, content_type))
+    c.execute(sql, (url, is_target, content_hash, layout_hash, extractor_id, title, content_type))
     lid = c.lastrowid
     c.close()
     return lid

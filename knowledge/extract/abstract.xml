@@ -1,22 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
 <ruleset>
-    <rule id="1" description="abc">
-        <select on="html" />
-        <extract policy="xpath">
-            \\body\div[3]
-        </extract>
-        <actions>
-            <action>removeHTML</action>
-        </actions>
-    </rule>
-
-    <rule id="2" description="abc">
-        <select on="text" />
-        <extract policy="string">
-            <before></before>
-            <after></after>
-        </extract>
-        <actions>
-
-        </actions>
-    </rule>
 </ruleset>

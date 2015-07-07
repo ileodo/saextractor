@@ -25,7 +25,7 @@ class CustomDownloaderMiddleware(object):
                 raise IgnoreRequest
 
         # is this url in URL_LIB
-        urldb_item = UrlItem.load_db_item(url=response.url)
+        urldb_item = UrlItem.load(url=response.url)
 
         if response.status == 404:  # not found
             if urldb_item is not None:  # already in DB

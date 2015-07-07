@@ -1,7 +1,8 @@
 __author__ = 'LeoDong'
 
 from bs4 import BeautifulSoup
-
+from SAECrawlers.items import UrlItem
+import re
 
 class InfoExtractor:
     def __init__(self, extract_space_file_path, rule_files_path):
@@ -23,15 +24,18 @@ class InfoExtractor:
 
     def __load_rule_file(self, attrid):
         rule_file = BeautifulSoup(open(
-            self.__path_rule_files + "/" + self.map(attrid)['filename']
+            self.filepath(attrid)
         ).read(), 'xml')
         self.__extractspace[attrid]['rules'] = dict()
 
         self.__map_rulesoup[attrid] = rule_file
         ruleset = rule_file.findAll('rule')
         for rule in ruleset:
-            self.__extractspace[attrid]['rules'] \
-                = dict(self.__extractspace[attrid]['rules'], **InfoExtractor.__rule_xml2dict(rule))
+            rule_id, rule_entity = InfoExtractor.__rule_xml2dict(rule)
+            self.__extractspace[attrid]['rules'][rule_id] = rule_entity
+
+    def filepath(self,attrid):
+        return self.__path_rule_files + "/" + self.map(attrid)['filename']
 
     def num_attr(self):
         return len(self.__extractspace)
@@ -40,29 +44,150 @@ class InfoExtractor:
 
     @staticmethod
     def __rule_xml2dict(soup_node):
-        d = dict()
-        rule_id = soup_node['id']
-        d[rule_id] = dict(
+        rule_id = int(soup_node['id'])
+        d = dict(
             description=soup_node['description'],
-            select=soup_node['on'],
-            policy=soup_node.find("extract")['policy'],
+            on=soup_node['on'],
         )
-        if d[rule_id]['policy'] == 'xpath':
-            d[rule_id]['xpath'] = soup_node.find("extract").string.strip()
-        if d[rule_id]['policy'] == 'string':
-            d[rule_id]['after'] = soup_node.find("after").string
-            d[rule_id]['before'] = soup_node.find("before").string
+        if d['on'] == 'content':
+            d['scope'] = dict(
+                sel=soup_node.scope['sel'],
+                target=soup_node.scope['target']
+            )
+        if soup_node.match:
+            d['match'] = soup_node.match['reg']
+        if soup_node.substring:
+            d['substring'] = dict(
+                after = soup_node.substring['after'],
+                before = soup_node.substring['before']
+            )
 
-        d[rule_id]['action'] = list()
+        d['actions'] = list()
 
-        for act in soup_node.findAll("action"):
-            d[rule_id]['action'].append(int(act['id']))
+        for act in soup_node.actions.findAll("action"):
+            d['actions'].append(int(act['id']))
 
-        return d
+        return rule_id,d
 
     @staticmethod
-    def __rule_dict2xml(d):
+    def __rule_dict2xml(d,new_id):
+        gen = BeautifulSoup()
+        rule_tag = gen.new_tag("rule",id=new_id,description=d['description'],on=d['on'])
+
+        if d['on']=='content':
+            scope_tag = gen.new_tag(
+                "scope",
+                sel=d['scope']['sel'],
+                target=d['scope']['target']
+            )
+            rule_tag.append(scope_tag)
+
+        if 'match' in d.keys():
+            match_tag = gen.new_tag("match",reg=d['match'])
+            rule_tag.append(match_tag)
+
+        if 'substring' in d.keys():
+            substring_tag = gen.new_tag(
+                "substring",
+                after=d['substring']['after'],
+                before=d['substring']['before']
+            )
+            rule_tag.append(substring_tag)
+
+        actions_tag = gen.new_tag("actions")
+        rule_tag.append(actions_tag)
+        for action_id in d['actions']:
+            actions_tag.append(gen.new_tag("action",id=action_id))
+        return rule_tag
+
+
+    def extract(self,item, extractor_id_or_list):
+        # if type(extractor_id_or_list)==int:
+        #     rule = self.map(attr_id)['rules'][rule_id_or_dict]
+        # else:
+        #     rule = rule_id_or_dict
         pass
+
+    def extract_attr(self, item, rule_id_or_dict, attr_id=None):
+        if type(rule_id_or_dict)==int:
+            rule = self.map(attr_id)['rules'][rule_id_or_dict]
+        else:
+            rule = rule_id_or_dict
+
+        ## scope
+        if rule['on']=='content':
+            target = item.get_part('soup')
+            if rule['scope']['sel']=="":
+                sel = 'html'
+            else:
+                sel = rule['scope']['sel']
+            target = target.select(sel)
+            if len(target)>0:
+                if rule['scope']['target'] =='html':
+                    target = " ".join([str(x) for x in target])
+                elif rule['scope']['target'] == 'text':
+                    target = " ".join([x.get_text() for x in target])
+            else:
+                target=""
+        else:
+            target = item.get_part(rule['on'])
+
+        ## match
+        if 'match' in rule.keys():
+            try:
+                p = re.compile(rule['match'],re.I|re.S)
+            except re.error:
+                return ""
+
+            target = " ".join(p.findall(target))
+
+        ## substring
+        if 'substring' in rule.keys():
+            if rule['substring']['after']=="":
+                after = "^"
+            else:
+                after = rule['substring']['after']
+
+            if rule['substring']['before']=="":
+                before = "$"
+            else:
+                before = rule['substring']['before']
+
+            try:
+                p = re.compile(
+                    r"%s(?P<_TARGET_>.*?)%s" % (after,before),
+                    re.S
+                )
+            except re.error:
+                return ""
+
+            match = p.search(target)
+            if match is None:
+                target=""
+            else:
+                target = match.group('_TARGET_')
+
+        ## action
+        for act in rule['actions']:
+            target = self.action(int(act))['do'](target)
+
+        if isinstance(target, unicode):
+            return target.encode('utf-8')
+        else:
+            return target
+
+    def add_rule(self, attr_id, rule_dict):
+        ## lookup max id in attr_id's rules
+        new_id = max(self.map(attr_id)['rules'].keys())+1
+        self.map(attr_id)['rules'][new_id]=rule_dict
+        rule_node = InfoExtractor.__rule_dict2xml(rule_dict,new_id)
+        self.rulefile_map(attr_id).ruleset.append(rule_node)
+
+        ## write soup_node to file
+        filepath = self.filepath(attr_id)
+        f = open(filepath, 'w')
+        f.write(self.rulefile_map(attr_id).prettify())
+        f.close()
 
     def map(self, attrid=None):
         if attrid in self.__extractspace.keys():
@@ -74,7 +199,7 @@ class InfoExtractor:
 
     @staticmethod
     def action(action_id=None):
-        action = {
+        actions = {
             1: {
                 'name': 'removeHTML',
                 'do': InfoExtractor.__act_removeHTML
@@ -84,30 +209,35 @@ class InfoExtractor:
                 'do': InfoExtractor.__act_stripe
             },
         }
-        if action_id in action.keys():
-            return action[action_id]
+        if action_id in actions.keys():
+            return actions[action_id]
         elif action_id is None:
-            return action
+            return actions
         else:
             raise Exception('none exist action')
 
     @staticmethod
-    def action_map(action_id=None):
+    def action_map():
         map = InfoExtractor.action()
         for i in map.keys():
-            map[i]['do']=None
+            map[i]['do'] = None
         return map
 
     @staticmethod
-    def __act_removeHTML():
+    def __act_removeHTML(str):
         pass
 
     @staticmethod
-    def __act_stripe():
-        pass
+    def __act_stripe(str):
+        return str.strip()
 
     def name(self):
         return self.__extractname
 
-    def rulefile_map(self):
-        return self.__map_rulesoup
+    def rulefile_map(self,attrid):
+        if attrid in self.__map_rulesoup.keys():
+            return self.__map_rulesoup[attrid]
+        elif attrid is None:
+            return self.__map_rulesoup
+        else:
+            raise Exception('none exist attribute')
