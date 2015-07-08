@@ -24,7 +24,7 @@
                         <div id="collapse-{{id}}-exist" class="panel-collapse collapse in" aria-expanded="true">
                             <div class="list-group">
                                 {% for rule_id, rule in attr.rules.iteritems %}
-                                <a href="#" class="list-group-item">
+                                <a href="#" class="list-group-item rule" data-att-id="{{id}}" data-rule-id="{{rule_id}}">
                                     <h4 class="list-group-item-heading">Rule #{{rule_id}}: {{rule.description}}</h4>
                                     <p class="list-group-item-text">
                                         [{{rule.on}}]
@@ -163,8 +163,23 @@
                 function (data, status) {
                     $("#add-form-"+attrid+" .test-output").val(data)
                 });
-        console.log(form_data);
     });
+
+    $(".add.btn").click(function () {
+        var attrid = $(this).data('att-id');
+        form_data = getFormJson("#add-form-"+attrid);
+        $.post("{% url 'ajax' %}",
+                {
+                    type: "extract_rule_add",
+                    attrid:attrid,
+                    rule: form_data,
+                    csrfmiddlewaretoken: '{{csrf_token}}'
+                },
+                function (data, status) {
+                    $("#select-rules").html(data)
+                });
+    });
+
 
     function getFormJson(form) {
         var o = {};
@@ -181,4 +196,9 @@
         });
         return o;
     }
+
+    $(".rule").click(function(){
+        $(this).parent().find(".rule").removeClass('active');
+        $(this).addClass('active');
+    })
 </script>

@@ -71,7 +71,7 @@ class SAEExtractor:
         tool.send_msg(connection, "0")
         pass
 
-    def __op_rule_test(self, data_loaded, connection):
+    def __op_test_rule(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
         rule = data_loaded['rule']
         attrid = data_loaded['attrid']
@@ -82,6 +82,37 @@ class SAEExtractor:
         )
         pass
 
+    def __op_add_rule(self, data_loaded, connection):
+        rule = data_loaded['rule']
+        attrid = data_loaded['attrid']
+        self.__ie.add_rule(attrid,rule)
+        tool.send_msg(
+            connection,
+            "0"
+        )
+        pass
+
+    def __op_test_extractor(self, data_loaded, connection):
+        item_id = int(data_loaded['id'])
+        extractor = data_loaded['extractor']
+        # attrid = data_loaded['attrid']
+        # item = UrlItem.load_with_content(id=item_id,file_path=config.path_extractor_inbox)
+        # tool.send_msg(
+        #     connection,
+        #     self.__ie.extract_attr(item,rule_id_or_dict=rule,attr_id=attrid)
+        # )
+        pass
+
+    def __op_add_extractor(self, data_loaded, connection):
+        item_id = int(data_loaded['id'])
+        extractor = data_loaded['extractor']
+        # self.__ie.add_rule(attrid,rule)
+        # tool.send_msg(
+        #     connection,
+        #     "0"
+        # )
+        pass
+
     @staticmethod
     def __operations(cmd):
         maps = {
@@ -90,7 +121,10 @@ class SAEExtractor:
             config.socket_CMD_extractor_maps: SAEExtractor.__op_maps,
             config.socket_CMD_extractor_preview: SAEExtractor.__op_preview,
             config.socket_CMD_extractor_rejudge_done: SAEExtractor.__op_rejudge_done,
-            config.socket_CMD_extractor_test_rule: SAEExtractor.__op_rule_test,
+            config.socket_CMD_extractor_test_rule: SAEExtractor.__op_test_rule,
+            config.socket_CMD_extractor_add_rule: SAEExtractor.__op_add_rule,
+            config.socket_CMD_extractor_test_extractor: SAEExtractor.__op_test_extractor,
+            config.socket_CMD_extractor_add_extract: SAEExtractor.__op_add_extractor,
         }
         return maps[cmd]
 

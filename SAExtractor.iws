@@ -2,30 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5fa91248-1bff-4314-b23c-4674ef7818ab" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/knowledge/extract/extractor.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/tester/ExtractTester.py" afterPath="$PROJECT_DIR$/SAEFun/tester/ExtractTester.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/extractor/InfoExtractor.py" afterPath="$PROJECT_DIR$/SAEFun/extractor/InfoExtractor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/SAECrawlers/spiders/PagesCrawler.py" afterPath="$PROJECT_DIR$/SAEFun/SAECrawlers/spiders/PagesCrawler.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/extractor/SAEExtractor.py" afterPath="$PROJECT_DIR$/SAEFun/extractor/SAEExtractor.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/judge/SAEJudge.py" afterPath="$PROJECT_DIR$/SAEFun/judge/SAEJudge.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAExtractor.iws" afterPath="$PROJECT_DIR$/SAExtractor.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/SAECrawlers/spiders/Updater.py" afterPath="$PROJECT_DIR$/SAEFun/SAECrawlers/spiders/Updater.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/knowledge/extract/abstract.xml" afterPath="$PROJECT_DIR$/knowledge/extract/abstract.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/util/config.py" afterPath="$PROJECT_DIR$/SAEFun/util/config.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/util/db.py" afterPath="$PROJECT_DIR$/SAEFun/util/db.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/knowledge/extract/end_time.xml" afterPath="$PROJECT_DIR$/knowledge/extract/end_time.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEWeb/app/templates/app/extract.html" afterPath="$PROJECT_DIR$/SAEWeb/app/templates/app/extract.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEWeb/app/templates/app/extract_modal_rule.html" afterPath="$PROJECT_DIR$/SAEWeb/app/templates/app/extract_modal_rule.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEWeb/app/templates/partial/footer.html" afterPath="$PROJECT_DIR$/SAEWeb/app/templates/partial/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/SAECrawlers/items.py" afterPath="$PROJECT_DIR$/SAEFun/SAECrawlers/items.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/knowledge/extract/location.xml" afterPath="$PROJECT_DIR$/knowledge/extract/location.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/SAECrawlers/middlewares.py" afterPath="$PROJECT_DIR$/SAEFun/SAECrawlers/middlewares.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEFun/SAECrawlers/pipelines.py" afterPath="$PROJECT_DIR$/SAEFun/SAECrawlers/pipelines.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/knowledge/extract/seminar.xml" afterPath="$PROJECT_DIR$/knowledge/extract/seminar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/knowledge/extract/speaker.xml" afterPath="$PROJECT_DIR$/knowledge/extract/speaker.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/knowledge/extract/start_time.xml" afterPath="$PROJECT_DIR$/knowledge/extract/start_time.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/knowledge/extract/title.xml" afterPath="$PROJECT_DIR$/knowledge/extract/title.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SAEWeb/app/views.py" afterPath="$PROJECT_DIR$/SAEWeb/app/views.py" />
     </list>
     <ignored path="SAExtractor.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,13 +22,13 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/SAExtractor$InfoExtractor.coverage" NAME="InfoExtractor Coverage Results" MODIFIED="1436140218826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAEFun/extractor" />
     <SUITE FILE_PATH="coverage/SAExtractor$Runner__1_.coverage" NAME="Runner (1) Coverage Results" MODIFIED="1432246450692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crawlers" />
-    <SUITE FILE_PATH="coverage/SAExtractor$Judge.coverage" NAME="Judge Coverage Results" MODIFIED="1436228295096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAEFun" />
+    <SUITE FILE_PATH="coverage/SAExtractor$Judge.coverage" NAME="Judge Coverage Results" MODIFIED="1436394283333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAEFun" />
     <SUITE FILE_PATH="coverage/SAExtractor$Runner.coverage" NAME="Runner Coverage Results" MODIFIED="1432237268083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UrlRetriver" />
     <SUITE FILE_PATH="coverage/SAExtractor$ExtractTester.coverage" NAME="ExtractTester Coverage Results" MODIFIED="1436212653211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAEFun/tester" />
     <SUITE FILE_PATH="coverage/SAExtractor$PagesCrawler.coverage" NAME="Retriever Coverage Results" MODIFIED="1436147426058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAEFun" />
-    <SUITE FILE_PATH="coverage/SAExtractor$Retriever.coverage" NAME="Retriever Coverage Results" MODIFIED="1436228297733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAEFun" />
+    <SUITE FILE_PATH="coverage/SAExtractor$Retriever.coverage" NAME="Retriever Coverage Results" MODIFIED="1436394337136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAEFun" />
     <SUITE FILE_PATH="coverage/SAExtractor$Tester.coverage" NAME="Tester Coverage Results" MODIFIED="1434075417227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAEFun" />
-    <SUITE FILE_PATH="coverage/SAExtractor$Extractor.coverage" NAME="Extractor Coverage Results" MODIFIED="1436228595803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAEFun" />
+    <SUITE FILE_PATH="coverage/SAExtractor$Extractor.coverage" NAME="Extractor Coverage Results" MODIFIED="1436394292137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SAEFun" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -61,7 +41,63 @@
     <favorites_list name="SAExtractor" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="FeatueExtract.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SAEFun/judge/FeatueExtract.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding>
+                <element signature="e#23#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SAEExtractor.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SAEFun/extractor/SAEExtractor.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
+              <folding>
+                <element signature="e#47#71#0" expanded="true" />
+                <marker date="1436393316000" expanded="true" signature="3260:3460" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="extract_modal_rule.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SAEWeb/app/templates/app/extract_modal_rule.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-19.419355">
+              <caret line="201" column="35" selection-start-line="201" selection-start-column="35" selection-end-line="201" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="extract.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SAEWeb/app/templates/app/extract.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6606684">
+              <caret line="209" column="18" selection-start-line="209" selection-start-column="18" selection-end-line="209" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SAEFun/util/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,15 +165,15 @@
         <option value="$PROJECT_DIR$/knowledge/extract/extractor.xml" />
         <option value="$PROJECT_DIR$/knowledge/extract/end_time.xml" />
         <option value="$PROJECT_DIR$/knowledge/extract/abstract.xml" />
-        <option value="$PROJECT_DIR$/SAEFun/util/config.py" />
         <option value="$PROJECT_DIR$/SAEWeb/app/templates/app/extract.html" />
         <option value="$PROJECT_DIR$/SAEWeb/app/templates/partial/footer.html" />
-        <option value="$PROJECT_DIR$/SAEWeb/app/templates/app/extract_modal_rule.html" />
         <option value="$PROJECT_DIR$/SAEFun/deamons/Extractor.py" />
         <option value="$PROJECT_DIR$/SAEWeb/app/views.py" />
-        <option value="$PROJECT_DIR$/SAEFun/extractor/SAEExtractor.py" />
         <option value="$PROJECT_DIR$/SAEFun/util/tool.py" />
         <option value="$PROJECT_DIR$/SAEFun/extractor/InfoExtractor.py" />
+        <option value="$PROJECT_DIR$/SAEFun/util/config.py" />
+        <option value="$PROJECT_DIR$/SAEFun/extractor/SAEExtractor.py" />
+        <option value="$PROJECT_DIR$/SAEWeb/app/templates/app/extract_modal_rule.html" />
       </list>
     </option>
   </component>
@@ -187,8 +223,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -597,6 +631,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -629,7 +665,7 @@
       <recent name="$PROJECT_DIR$/SAEWeb/app" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Extractor">
+  <component name="RunManager" selected="Python.Retriever">
     <configuration default="false" name="Judge" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1264,8 +1300,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Extractor" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Retriever" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Retriever" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Extractor" />
         <item index="2" class="java.lang.String" itemvalue="Python.Judge" />
         <item index="3" class="java.lang.String" itemvalue="Python.ExtractTester" />
         <item index="4" class="java.lang.String" itemvalue="Python.InfoExtractor" />
@@ -1297,7 +1333,8 @@
       <workItem from="1435276668666" duration="3553000" />
       <workItem from="1435929420945" duration="8985000" />
       <workItem from="1436097959979" duration="35825000" />
-      <workItem from="1436198066559" duration="21036000" />
+      <workItem from="1436198066559" duration="21068000" />
+      <workItem from="1436391452327" duration="2747000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1432246755350</created>
@@ -1341,11 +1378,17 @@
       <option name="project" value="LOCAL" />
       <updated>1435282801393</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="extract_rule">
+      <created>1436228798854</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1436228798854</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137152000" />
+    <option name="totallyTimeSpent" value="139931000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1358,7 +1401,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1381,7 +1424,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18589744" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.255093" sideWeight="0.4764957" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.255093" sideWeight="0.4764957" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1410,7 +1453,8 @@
     <MESSAGE value="decision tree" />
     <MESSAGE value="result view" />
     <MESSAGE value="re-structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="re-structure" />
+    <MESSAGE value="extract_rule" />
+    <option name="LAST_COMMIT_MESSAGE" value="extract_rule" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1492,7 +1536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1507,7 +1550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="586" column="0" selection-start-line="586" selection-start-column="0" selection-end-line="586" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1522,7 +1564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.08812261">
           <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1530,7 +1571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.76400477">
           <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1538,7 +1578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33253872">
           <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1567,7 +1606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.40179718">
           <caret line="254" column="24" selection-start-line="254" selection-start-column="24" selection-end-line="254" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1575,7 +1613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35970333">
           <caret line="1004" column="16" selection-start-line="1004" selection-start-column="16" selection-end-line="1004" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1584,7 +1621,7 @@
         <state vertical-scroll-proportion="0.33250928">
           <caret line="145" column="21" selection-start-line="145" selection-start-column="19" selection-end-line="145" selection-end-column="21" />
           <folding>
-            <element signature="e#23#47#0" expanded="true" />
+            <element signature="e#23#47#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1593,7 +1630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33250928">
           <caret line="904" column="0" selection-start-line="904" selection-start-column="0" selection-end-line="904" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1601,7 +1637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37206426">
           <caret line="59" column="43" selection-start-line="59" selection-start-column="43" selection-end-line="59" selection-end-column="43" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1613,23 +1648,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SAEFun/judge/FeatueExtract.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#23#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SAEFun/SAECrawlers/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-          <folding>
-            <element signature="e#192#216#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1669,7 +1691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1701,7 +1722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.46272492">
           <caret line="125" column="48" selection-start-line="123" selection-start-column="24" selection-end-line="125" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1709,7 +1729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="3.4264524">
           <caret line="140" column="13" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1717,7 +1736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.00618047">
           <caret line="292" column="4" selection-start-line="292" selection-start-column="4" selection-end-line="292" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1729,31 +1747,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SAEFun/util/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="30" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SAEFun/util/db.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="104" column="70" selection-start-line="104" selection-start-column="70" selection-end-line="104" selection-end-column="70" />
-          <folding>
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="SELECT url F..url_lib..." />
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="SELECT id FR..url_lib..." />
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="SELECT id FR..url_lib..." />
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..url_lib..." />
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..url_lib..." />
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="UPDATE url_l..." />
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="UPDATE url_l..." />
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="UPDATE url_l..." />
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="UPDATE url_l..." />
-            <marker date="1436213487000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1761,7 +1758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35970333">
           <caret line="339" column="12" selection-start-line="339" selection-start-column="12" selection-end-line="339" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1769,9 +1765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="e#23#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1779,7 +1772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38689741">
           <caret line="17" column="52" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1787,7 +1779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="227" column="0" selection-start-line="227" selection-start-column="0" selection-end-line="227" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1811,15 +1802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3053152">
           <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SAEWeb/app/templates/app/extract_modal_rule.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54755783">
-          <caret line="173" column="24" selection-start-line="173" selection-start-column="24" selection-end-line="173" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1827,7 +1809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4344473">
           <caret line="38" column="65" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1846,7 +1827,7 @@
         <state vertical-scroll-proportion="-0.76761436">
           <caret line="99" column="50" selection-start-line="99" selection-start-column="50" selection-end-line="99" selection-end-column="50" />
           <folding>
-            <element signature="e#152#161#0" expanded="true" />
+            <element signature="e#152#161#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1856,25 +1837,7 @@
         <state vertical-scroll-proportion="0.33247754">
           <caret line="173" column="39" selection-start-line="173" selection-start-column="39" selection-end-line="173" selection-end-column="39" />
           <folding>
-            <element signature="e#24#53#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SAEWeb/app/templates/app/extract.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32133675">
-          <caret line="183" column="21" selection-start-line="175" selection-start-column="20" selection-end-line="183" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SAEFun/extractor/SAEExtractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4351733">
-          <caret line="104" column="16" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="16" />
-          <folding>
-            <element signature="e#47#71#0" expanded="true" />
+            <element signature="e#24#53#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1883,6 +1846,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3263288">
           <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAEFun/judge/FeatueExtract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAEFun/util/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAEFun/extractor/SAEExtractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="107" column="44" selection-start-line="107" selection-start-column="44" selection-end-line="107" selection-end-column="44" />
+          <folding>
+            <element signature="e#47#71#0" expanded="true" />
+            <marker date="1436393316000" expanded="true" signature="3260:3460" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAEWeb/app/templates/app/extract_modal_rule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.419355">
+          <caret line="201" column="35" selection-start-line="201" selection-start-column="35" selection-end-line="201" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAEWeb/app/templates/app/extract.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6606684">
+          <caret line="209" column="18" selection-start-line="209" selection-start-column="18" selection-end-line="209" selection-end-column="18" />
           <folding />
         </state>
       </provider>
