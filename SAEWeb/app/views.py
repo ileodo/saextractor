@@ -2,7 +2,6 @@ import cPickle as pickle
 import socket
 from socket import error as socket_error
 import logging
-import django.utils.html as html
 
 from django.http import HttpResponse
 from django.shortcuts import render
@@ -99,10 +98,7 @@ def ajax(request):
             }, -1)
         tool.send_msg(sock, data_string)
         data_string = tool.recv_msg(sock)
-        if data_string == "0":
-            return '{"status": "success"}'
-        else:
-            return '{"status": "failed"}'
+        return data_string
 
     def re_judge_finish(post):
         try:
@@ -119,10 +115,7 @@ def ajax(request):
             }, -1)
         tool.send_msg(sock, data_string)
         data_string = tool.recv_msg(sock)
-        if data_string == "0":
-            return '{"status": "success"}'
-        else:
-            return '{"status": "failed"}'
+        return data_string
 
     def extract_rule_test(post):
         try:
@@ -131,35 +124,13 @@ def ajax(request):
         except socket_error as serr:
             return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
 
-
-        d=dict(
-            on=post.get('rule[on]'),
-            description=post.get('rule[description]')
-        )
-        if post.get('rule[on]')=="content":
-            d['scope']=dict(
-                sel=post.get('rule[scope[sel]]'),
-                target=post.get('rule[scope[target]]')
-            )
-        if post.get('rule[match]')!="":
-            d['match']=post.get('rule[match]')
-
-        if post.get('rule[substring[after]]') !="" and post.get('rule[substring[before]]') !="":
-            d['substring'] = dict(
-                after=post.get('rule[substring[after]]'),
-                before=post.get('rule[substring[before]]')
-            )
-
-        if post.get('rule[actions]') is None:
-            d['actions']=list()
-        else:
-            d['actions']=post.get('rule[actions]')
+        d = rule_post2dict(post)
 
         data_string = pickle.dumps(
             {
                 "operation": config.socket_CMD_extractor_test_rule,
                 "id": post.get("id"),
-                "attrid":post.get("attrid"),
+                "attrid": post.get("attrid"),
                 "rule": d
             }, -1)
         tool.send_msg(sock, data_string)
@@ -169,11 +140,55 @@ def ajax(request):
         else:
             return '#ERROR'
 
+    def extract_rule_add(post):
+        try:
+            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            sock.connect(config.socket_addr_extractor)
+        except socket_error as serr:
+            return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
+
+        d = rule_post2dict(post)
+        selected = post.getlist('selected[]')
+        selected = dict(zip(xrange(0,len(selected)),selected))
+        data_string = pickle.dumps(
+            {
+                "operation": config.socket_CMD_extractor_add_rule,
+                "attrid": post.get("attrid"),
+                "rule": d
+            }, -1)
+        tool.send_msg(sock, data_string)
+        data_string = tool.recv_msg(sock)
+        maps = pickle.loads(data_string)
+        return render(request, 'app/extract_modal_rule.html',
+                      {"page": {"title": "Extract"}, 'rule_maps': maps['rule'], 'action': maps['action'],'selected':selected})
+
+    def extract_preview(post):
+        try:
+            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            sock.connect(config.socket_addr_extractor)
+        except socket_error as serr:
+            return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
+
+        selected = post.getlist('selected[]')
+        selected = [int(x) for x in selected]
+        data_string = pickle.dumps(
+            {
+                "operation": config.socket_CMD_extractor_preview,
+                "id": post.get("id"),
+                "extractor": selected
+            }, -1)
+        tool.send_msg(sock, data_string)
+        data_string = tool.recv_msg(sock)
+        preview = pickle.loads(data_string)
+        return render(request, 'app/extract_modal_preview.html', {'preview': preview})
+
     if request.method == 'POST':
         operations_list = {
             'judge_finish': judge_finish,
             're_judge_finish': re_judge_finish,
             'extract_rule_test': extract_rule_test,
+            'extract_rule_add': extract_rule_add,
+            'extract_preview': extract_preview,
         }
         op_type = request.POST.get('type')
         log.info(str(request.POST))
@@ -181,6 +196,28 @@ def ajax(request):
     else:
         return HttpResponse("ILLEGAL")
 
+
+def rule_post2dict(post):
+    d = dict(
+        on=post.get('rule[on]'),
+        description=post.get('rule[description]')
+    )
+    if post.get('rule[on]') == "content":
+        d['scope'] = dict(
+            sel=post.get('rule[scope[sel]]'),
+            target=post.get('rule[scope[target]]')
+        )
+    if post.get('rule[match]') != "":
+        d['match'] = post.get('rule[match]')
+
+    if post.get('rule[substring[after]]') != "" and post.get('rule[substring[before]]') != "":
+        d['substring'] = dict(
+            after=post.get('rule[substring[after]]'),
+            before=post.get('rule[substring[before]]')
+        )
+
+    d['actions'] = post.getlist('rule[actions][]')
+    return d
 
 def loadfile(request, type, filename):
     if type == "judge":

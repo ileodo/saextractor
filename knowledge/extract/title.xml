@@ -1,18 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ruleset>
- <rule description="title-1" id="1" on="title">
-  <match reg=""/>
-  <substring after="Title:" before="before"/>
-  <actions>
-   <action id="1"/>
-  </actions>
- </rule>
- <rule description="title-2" id="2" on="content">
-  <scope target="html" sel="\\body"/>
-  <match reg=""/>
-  <substring after="Title:" before="before"/>
-  <actions>
-   <action id="2"/>
-  </actions>
- </rule>
+
 </ruleset>

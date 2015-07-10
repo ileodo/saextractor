@@ -135,7 +135,7 @@
                     csrfmiddlewaretoken: '{{csrf_token}}'
                 },
                 function (data, status) {
-                    if(data['status']=='success'){
+                    if(data=="0"){
                         //success
                         $('.item[data-id="'+id+'"]').remove()
                                 $('#viewModal').modal('hide')

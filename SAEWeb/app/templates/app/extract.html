@@ -173,7 +173,7 @@
                     csrfmiddlewaretoken: '{{csrf_token}}'
                 },
                 function (data, status) {
-                    if(data['status']=='success'){
+                    if(data=="0"){
                         //success
                         $('.item[data-id="'+id+'"]').remove()
                         $('#viewModal').modal('hide')
@@ -214,7 +214,7 @@
 
         $.post("{% url 'extract_preview' %}",
                 {
-                    //post 传入 rule id set
+                    extractor:getruleidset(),
                     csrfmiddlewaretoken: '{{csrf_token}}'
                 },
                 function (data, status) {
@@ -224,5 +224,10 @@
     });
 
 
+
+
 </script>
+
+
+
 {% include 'partial/footer.html' %}

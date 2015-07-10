@@ -10,7 +10,7 @@ from util import config
 class FeatureExtract:
     def __init__(self, featurespace):
         file = open(featurespace)
-        self.__featurespace = BeautifulSoup(file.read())
+        self.__featurespace = BeautifulSoup(file.read(),'xml')
         self.__file_map = {}
         pass
 

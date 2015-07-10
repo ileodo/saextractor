@@ -36,6 +36,7 @@ path_judge_list = path_working + "/judge_list"
 
 path_extractor_inbox = path_working + "/inbox_extractor"
 path_extract_onto = path_knowledge + "/extract"
+path_extract_list = path_working + "/extract_list"
 
 path_data = path_root+"/data"
 

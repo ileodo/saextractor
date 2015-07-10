@@ -7,24 +7,24 @@ import shutil
 import struct
 import time
 
-from scrapy import log
+from util.logger import log
 
 import config
 import db
 
 
 def init_working_path():
-    log.msg("Start cleaning working path")
+    log.info("Start cleaning working path")
     initial_folder(config.path_working)
     initial_folder(config.path_extractor_inbox)
     initial_folder(config.path_judge_inbox)
-    log.msg("Finish cleaning working path")
+    log.info("Finish cleaning working path")
     pass
 
 def init_database():
-    log.msg("Start cleaning DB")
+    log.info("Start cleaning DB")
     db.reset_db()
-    log.msg("Finish cleaning DB")
+    log.info("Finish cleaning DB")
     pass
 
 
@@ -80,13 +80,13 @@ def send_message(msg, address):
             sock.connect(address)
             break
         except socket.error:
-            log.msg("cannot establish connection to socket %s, please open the socket, this will retry in %s seconds" % (str(address), config.socket_retry_seconds), level=log.ERROR)
+            log.error("cannot establish connection to socket %s, please open the socket, this will retry in %s seconds" % (str(address), config.socket_retry_seconds))
             time.sleep(config.socket_retry_seconds)
     try:
         # Send data
         send_msg(sock, msg)
-        log.msg("send: %s" % str(msg), level=log.DEBUG)
+        log.debug("send: %s" % str(msg))
 
     finally:
         sock.close()
-        log.msg("connection closed", level=log.DEBUG)
+        log.info("connection closed")

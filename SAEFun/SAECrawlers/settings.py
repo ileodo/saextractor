@@ -15,22 +15,23 @@ SPIDER_MODULES = ['SAECrawlers.spiders']
 NEWSPIDER_MODULE = 'SAECrawlers.spiders'
 
 SPIDER_MIDDLEWARES = {
-    'scrapy.contrib.spidermiddleware.offsite.OffsiteMiddleware': 547,
-    'scrapy.contrib.spidermiddleware.depth.DepthMiddleware':300,
+    'scrapy.spidermiddlewares.offsite.OffsiteMiddleware': 547,
+    'scrapy.spidermiddlewares.depth.DepthMiddleware': 300,
 }
 
 DOWNLOADER_MIDDLEWARES = {
     'SAECrawlers.middlewares.CustomDownloaderMiddleware': 543,
-    'scrapy.contrib.downloadermiddleware.downloadtimeout.DownloadTimeoutMiddleware': 300
+    'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware': 300
 }
 
 ITEM_PIPELINES = {
-    'SAECrawlers.pipelines.ItemPipeline':300
+    'SAECrawlers.pipelines.ItemPipeline': 300
 }
 
-LOG_LEVEL = 'ERROR'
+# LOG_LEVEL = 'CRITICAL'
+LOG_ENABLED = False
 DOWNLOAD_TIMEOUT = config.retriever_download_time_out
 DEPTH_LIMIT = config.retriever_depth_limit
-LOG_STDOUT = True
+LOG_STDOUT = False
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'UrlRetriver (+http://www.yourdomain.com)'
+# USER_AGENT = 'UrlRetriver (+http://www.yourdomain.com)'

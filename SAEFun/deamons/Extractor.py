@@ -20,7 +20,11 @@ sock.bind(config.socket_addr_extractor)
 sock.listen(10)
 extractor = SAEExtractor()
 
-while True:
-    # Wait for a connection
-    connection, client_address = sock.accept()
-    extractor.process(connection,client_address)
+try:
+    while True:
+        # Wait for a connection
+        connection, client_address = sock.accept()
+        extractor.process(connection, client_address)
+finally:
+    log.info("Saving")
+    extractor.save()

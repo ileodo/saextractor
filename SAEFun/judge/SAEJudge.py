@@ -15,6 +15,9 @@ from FeatueExtract import FeatureExtract
 class SAEJudge:
     def __init__(self, dtreefile, dtree_param):
         self.__judge_queue = {}
+        if os.path.isfile(config.path_judge_list):
+            self.__judge_queue = pickle.loads(open(config.path_judge_list).read())
+
         self.__dtree_param = dtree_param
         # id : item{title, url, filename, confidence, decision }
         self.__fe = FeatureExtract(config.path_fe_space)
@@ -32,7 +35,7 @@ class SAEJudge:
         queue_file.close()
         # dtree_cs.ox.ac.uk
         dtree_file = open(config.path_judge_dtree, "w")
-        dtree_file.write(pickle.dumps(self.__clf, -1))
+        dtree_file.write(pickle.dumps({'F':self.__F,'L':self.__L,'tree':self.__clf}, -1))
         dtree_file.close()
 
     def __refresh_list(self):

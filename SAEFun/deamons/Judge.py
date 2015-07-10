@@ -17,8 +17,11 @@ sock.bind(config.socket_addr_judge)
 # Listen for incoming connections
 sock.listen(10)
 judge = SAEJudge(config.path_judge_dtree,config.dtree_param)
-
-while True:
-    # Wait for a connection
-    connection, client_address = sock.accept()
-    judge.process(connection, client_address)
+try:
+    while True:
+        # Wait for a connection
+        connection, client_address = sock.accept()
+        judge.process(connection, client_address)
+finally:
+    log.info("Saving")
+    judge.save()

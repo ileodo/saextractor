@@ -12,9 +12,19 @@ import shutil
 class SAEExtractor:
     def __init__(self):
         self.__ext_queue = {}
+        if os.path.isfile(config.path_extract_list):
+            self.__ext_queue = pickle.loads(open(config.path_extract_list).read())
+
         self.__ie = InfoExtractor(config.path_extract_onto + "/seminar.xml", config.path_extract_onto)
         # id : item{title, url, filename, decision }
         pass
+
+    def save(self):
+        # queue
+        queue_file = open(config.path_extract_list, "w")
+        queue_file.write(pickle.dumps(self.__ext_queue, -1))
+        queue_file.close()
+
 
     def __auto_extract(self, ):
         pass
@@ -49,16 +59,19 @@ class SAEExtractor:
         pass
 
     def __op_preview(self, data_loaded, connection):
-        preview = {
-            1: {
-                'name': 'title',
-                'value': '',
-            },
-            2: {
-                'name': 'location',
-                'value': '',
-            }
-        }
+        if 'extractor' not in data_loaded.keys():
+            result = {x:"" for x in xrange(1,self.__ie.num_attr()+1)}
+        else:
+            item_id = int(data_loaded['id'])
+            item = UrlItem.load_with_content(item_id,file_path=config.path_extractor_inbox)
+            extractor = data_loaded['extractor']
+            result = self.__ie.extract(item,extractor)
+            log.info(extractor)
+        log.info(result)
+        preview= list()
+        for att,str in result.iteritems():
+            preview.insert(att,dict(name=self.__ie.name(att),value=str))
+        log.info(preview)
         tool.send_msg(connection, pickle.dumps(preview, -1))
         pass
 
@@ -74,7 +87,7 @@ class SAEExtractor:
     def __op_test_rule(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
         rule = data_loaded['rule']
-        attrid = data_loaded['attrid']
+        attrid = int(data_loaded['attrid'])
         item = UrlItem.load_with_content(id=item_id,file_path=config.path_extractor_inbox)
         tool.send_msg(
             connection,
@@ -84,17 +97,19 @@ class SAEExtractor:
 
     def __op_add_rule(self, data_loaded, connection):
         rule = data_loaded['rule']
-        attrid = data_loaded['attrid']
-        self.__ie.add_rule(attrid,rule)
+        attrid = int(data_loaded['attrid'])
+        new_id = self.__ie.add_rule(attrid,rule)
         tool.send_msg(
             connection,
-            "0"
+            pickle.dumps({'rule':self.__ie.map(),'action':self.__ie.action_map()}, -1)
         )
         pass
 
     def __op_test_extractor(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
         extractor = data_loaded['extractor']
+        # for att,rule in extractor.iteritems():
+
         # attrid = data_loaded['attrid']
         # item = UrlItem.load_with_content(id=item_id,file_path=config.path_extractor_inbox)
         # tool.send_msg(

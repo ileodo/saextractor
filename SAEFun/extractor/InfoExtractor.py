@@ -1,8 +1,9 @@
 __author__ = 'LeoDong'
 
-from bs4 import BeautifulSoup
-from SAECrawlers.items import UrlItem
 import re
+
+from bs4 import BeautifulSoup
+
 
 class InfoExtractor:
     def __init__(self, extract_space_file_path, rule_files_path):
@@ -34,7 +35,7 @@ class InfoExtractor:
             rule_id, rule_entity = InfoExtractor.__rule_xml2dict(rule)
             self.__extractspace[attrid]['rules'][rule_id] = rule_entity
 
-    def filepath(self,attrid):
+    def filepath(self, attrid):
         return self.__path_rule_files + "/" + self.map(attrid)['filename']
 
     def num_attr(self):
@@ -58,8 +59,8 @@ class InfoExtractor:
             d['match'] = soup_node.match['reg']
         if soup_node.substring:
             d['substring'] = dict(
-                after = soup_node.substring['after'],
-                before = soup_node.substring['before']
+                after=soup_node.substring['after'],
+                before=soup_node.substring['before']
             )
 
         d['actions'] = list()
@@ -67,14 +68,14 @@ class InfoExtractor:
         for act in soup_node.actions.findAll("action"):
             d['actions'].append(int(act['id']))
 
-        return rule_id,d
+        return rule_id, d
 
     @staticmethod
-    def __rule_dict2xml(d,new_id):
-        gen = BeautifulSoup()
-        rule_tag = gen.new_tag("rule",id=new_id,description=d['description'],on=d['on'])
+    def __rule_dict2xml(d, new_id):
+        gen = BeautifulSoup("", "xml")
+        rule_tag = gen.new_tag("rule", id=new_id, description=d['description'], on=d['on'])
 
-        if d['on']=='content':
+        if d['on'] == 'content':
             scope_tag = gen.new_tag(
                 "scope",
                 sel=d['scope']['sel'],
@@ -83,7 +84,7 @@ class InfoExtractor:
             rule_tag.append(scope_tag)
 
         if 'match' in d.keys():
-            match_tag = gen.new_tag("match",reg=d['match'])
+            match_tag = gen.new_tag("match", reg=d['match'])
             rule_tag.append(match_tag)
 
         if 'substring' in d.keys():
@@ -97,37 +98,50 @@ class InfoExtractor:
         actions_tag = gen.new_tag("actions")
         rule_tag.append(actions_tag)
         for action_id in d['actions']:
-            actions_tag.append(gen.new_tag("action",id=action_id))
+            actions_tag.append(gen.new_tag("action", id=action_id))
         return rule_tag
 
-
-    def extract(self,item, extractor_id_or_list):
-        # if type(extractor_id_or_list)==int:
-        #     rule = self.map(attr_id)['rules'][rule_id_or_dict]
-        # else:
-        #     rule = rule_id_or_dict
-        pass
+    def extract(self, item, extractor_id_or_list):
+        if type(extractor_id_or_list) == int:
+            # rule = self.map(attr_id)['rules'][rule_id_or_dict]
+            # TODO
+            extractor = None
+        else:  # list
+            extractor = extractor_id_or_list
+        result = dict()
+        attr = 1  # counter
+        for rule in extractor:
+            if rule != 0:
+                result[attr] = self.extract_attr(item, rule, attr)
+            else:
+                result[attr] = ""
+            attr += 1
+        return result
 
     def extract_attr(self, item, rule_id_or_dict, attr_id=None):
-        if type(rule_id_or_dict)==int:
+        if type(rule_id_or_dict) == int:
             rule = self.map(attr_id)['rules'][rule_id_or_dict]
         else:
             rule = rule_id_or_dict
 
         ## scope
-        if rule['on']=='content':
+        if rule['on'] == 'content':
             target = item.get_part('soup')
-            if rule['scope']['sel']=="":
+            if rule['scope']['sel'] == "":
                 sel = 'html'
             else:
                 sel = rule['scope']['sel']
-            target = target.select(sel)
-            if len(target)>0:
-                if rule['scope']['target'] =='html':
-                    target = " ".join([str(x) for x in target])
-                elif rule['scope']['target'] == 'text':
-                    target = " ".join([x.get_text() for x in target])
-            else:
+            try:
+                target = target.select(sel)
+
+                if len(target) > 0:
+                    if rule['scope']['target'] == 'html':
+                        target = " ".join([str(x) for x in target])
+                    elif rule['scope']['target'] == 'text':
+                        target = " ".join([x.get_text() for x in target])
+                else:
+                    target = ""
+            except:
                 target=""
         else:
             target = item.get_part(rule['on'])
@@ -135,7 +149,7 @@ class InfoExtractor:
         ## match
         if 'match' in rule.keys():
             try:
-                p = re.compile(rule['match'],re.I|re.S)
+                p = re.compile(rule['match'], re.I | re.S)
             except re.error:
                 return ""
 
@@ -143,19 +157,19 @@ class InfoExtractor:
 
         ## substring
         if 'substring' in rule.keys():
-            if rule['substring']['after']=="":
+            if rule['substring']['after'] == "":
                 after = "^"
             else:
                 after = rule['substring']['after']
 
-            if rule['substring']['before']=="":
+            if rule['substring']['before'] == "":
                 before = "$"
             else:
                 before = rule['substring']['before']
 
             try:
                 p = re.compile(
-                    r"%s(?P<_TARGET_>.*?)%s" % (after,before),
+                    r"%s(?P<_TARGET_>.*?)%s" % (after, before),
                     re.S
                 )
             except re.error:
@@ -163,7 +177,7 @@ class InfoExtractor:
 
             match = p.search(target)
             if match is None:
-                target=""
+                target = ""
             else:
                 target = match.group('_TARGET_')
 
@@ -174,13 +188,19 @@ class InfoExtractor:
         if isinstance(target, unicode):
             return target.encode('utf-8')
         else:
-            return target
+            if target is None:
+                return ""
+            else:
+                return target
 
     def add_rule(self, attr_id, rule_dict):
         ## lookup max id in attr_id's rules
-        new_id = max(self.map(attr_id)['rules'].keys())+1
-        self.map(attr_id)['rules'][new_id]=rule_dict
-        rule_node = InfoExtractor.__rule_dict2xml(rule_dict,new_id)
+        if len(self.map(attr_id)['rules'].keys()) == 0:
+            new_id = 1
+        else:
+            new_id = max(self.map(attr_id)['rules'].keys()) + 1
+        self.map(attr_id)['rules'][new_id] = rule_dict
+        rule_node = InfoExtractor.__rule_dict2xml(rule_dict, new_id)
         self.rulefile_map(attr_id).ruleset.append(rule_node)
 
         ## write soup_node to file
@@ -188,6 +208,7 @@ class InfoExtractor:
         f = open(filepath, 'w')
         f.write(self.rulefile_map(attr_id).prettify())
         f.close()
+        return new_id
 
     def map(self, attrid=None):
         if attrid in self.__extractspace.keys():
@@ -225,16 +246,22 @@ class InfoExtractor:
 
     @staticmethod
     def __act_removeHTML(str):
-        pass
+        str = re.sub("<.*?>", "", str)
+        return str
 
     @staticmethod
     def __act_stripe(str):
         return str.strip()
 
-    def name(self):
-        return self.__extractname
+    def name(self, attrid=None):
+        if attrid in xrange(1,self.num_attr()+1):
+            return self.__extractspace[attrid]['name']
+        elif attrid is None:
+            return self.__extractname
+        else:
+            raise Exception('none exist attribute')
 
-    def rulefile_map(self,attrid):
+    def rulefile_map(self, attrid):
         if attrid in self.__map_rulesoup.keys():
             return self.__map_rulesoup[attrid]
         elif attrid is None:

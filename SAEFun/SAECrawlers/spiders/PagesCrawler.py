@@ -1,8 +1,8 @@
 __author__ = 'LeoDong'
 
-from scrapy import log
-from scrapy.contrib.spiders import CrawlSpider, Rule
-from scrapy.contrib.linkextractors.lxmlhtml import LxmlLinkExtractor
+import logging
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.linkextractors.lxmlhtml import LxmlLinkExtractor
 
 from util import tool, config
 from SAECrawlers.items import UrlItem
@@ -31,8 +31,7 @@ class PagesCrawler(CrawlSpider):
     def parse_item(response):
         # response are all updated or new
         # db not changed
-        print "aBCADFSDF"
         # is this url in URL_LIB
         item = UrlItem.load_with_content(url=response.url, response=response)
-        log.msg("PC get page [%s]:- %s" % (item['id'], item['url']))
+        logging.debug("PC get page [%s]:- %s" % (item['id'], item['url']))
         yield item

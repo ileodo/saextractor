@@ -8,11 +8,10 @@
 import re
 
 import scrapy
-from scrapy import log
 from bs4 import BeautifulSoup
 
 from util import db, config, tool
-
+from util.logger import log
 
 class UrlItem(scrapy.Item):
     # attribute in DB
@@ -108,7 +107,7 @@ class UrlItem(scrapy.Item):
             elif part == "url":
                 self['map_part'][part] = self['url']
             elif part == "soup":
-                self['map_part'][part] = BeautifulSoup(self['content'])
+                self['map_part'][part] = BeautifulSoup(self['content'],'lxml')
                 import urlparse
                 for k, v in config.retriever_absolute_url_replace_pattern.iteritems():
                     tags = self.get_part('soup').findAll(k, {v: True})
@@ -116,7 +115,7 @@ class UrlItem(scrapy.Item):
                         tag[v] = urlparse.urljoin(self['url'], tag[v])
             elif part == "layout":
                 # copy soup
-                soup = BeautifulSoup(str(self.get_part('soup')))
+                soup = BeautifulSoup(str(self.get_part('soup')),'lxml')
                 # remove tags
                 for tag in config.layout_tag_remove:
                     for t in soup.select(tag):
@@ -144,8 +143,8 @@ class UrlItem(scrapy.Item):
                 r = re.compile(r, re.S)
                 result = r.sub("", result)
 
-                soup = BeautifulSoup(result)
-                log.msg(str(soup), level=log.DEBUG)
+                soup = BeautifulSoup(result,'lxml')
+                log.debug(str(soup))
                 self['map_part'][part] = str(soup)
                 
             return self['map_part'][part]

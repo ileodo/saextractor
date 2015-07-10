@@ -3,7 +3,7 @@ __author__ = 'LeoDong'
 __author__ = 'LeoDong'
 
 import scrapy
-from scrapy import log
+from util.logger import log
 
 from util import db, tool
 from SAECrawlers.items import UrlItem
@@ -15,5 +15,5 @@ class Updater(scrapy.Spider):
 
     def parse(self, response):
         item = UrlItem.load_with_content(url=response.url, response=response)
-        log.msg("Updater get page [%s]:- %s" % (item['id'], item['url']))
+        log.debug("Updater get page [%s]:- %s" % (item['id'], item['url']))
         yield item
