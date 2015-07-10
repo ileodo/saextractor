@@ -28,8 +28,8 @@ ITEM_PIPELINES = {
     'SAECrawlers.pipelines.ItemPipeline': 300
 }
 
-# LOG_LEVEL = 'CRITICAL'
-LOG_ENABLED = False
+LOG_LEVEL = 'INFO'
+# LOG_ENABLED = False
 DOWNLOAD_TIMEOUT = config.retriever_download_time_out
 DEPTH_LIMIT = config.retriever_depth_limit
 LOG_STDOUT = False

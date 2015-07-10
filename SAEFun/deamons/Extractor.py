@@ -9,7 +9,6 @@ from util import tool
 from extractor.SAEExtractor import SAEExtractor
 from util import config
 
-import logging
 from util.logger import log
 
 # Create a TCP/IP socket

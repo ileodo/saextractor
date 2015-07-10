@@ -7,24 +7,18 @@ import shutil
 import struct
 import time
 
-from util.logger import log
-
 import config
 import db
 
 
 def init_working_path():
-    log.info("Start cleaning working path")
     initial_folder(config.path_working)
     initial_folder(config.path_extractor_inbox)
     initial_folder(config.path_judge_inbox)
-    log.info("Finish cleaning working path")
     pass
 
 def init_database():
-    log.info("Start cleaning DB")
     db.reset_db()
-    log.info("Finish cleaning DB")
     pass
 
 
@@ -80,13 +74,14 @@ def send_message(msg, address):
             sock.connect(address)
             break
         except socket.error:
+            from util.logger import log
             log.error("cannot establish connection to socket %s, please open the socket, this will retry in %s seconds" % (str(address), config.socket_retry_seconds))
             time.sleep(config.socket_retry_seconds)
+            sock.close()
+            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     try:
         # Send data
         send_msg(sock, msg)
-        log.debug("send: %s" % str(msg))
 
     finally:
         sock.close()
-        log.info("connection closed")

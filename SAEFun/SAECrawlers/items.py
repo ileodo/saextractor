@@ -11,7 +11,7 @@ import scrapy
 from bs4 import BeautifulSoup
 
 from util import db, config, tool
-from util.logger import log
+import logging
 
 class UrlItem(scrapy.Item):
     # attribute in DB
@@ -144,7 +144,7 @@ class UrlItem(scrapy.Item):
                 result = r.sub("", result)
 
                 soup = BeautifulSoup(result,'lxml')
-                log.debug(str(soup))
+                logging.debug(str(soup))
                 self['map_part'][part] = str(soup)
                 
             return self['map_part'][part]

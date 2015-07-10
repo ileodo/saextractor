@@ -6,7 +6,6 @@ import sys
 
 from util import config
 from judge.SAEJudge import SAEJudge
-import logging
 from util.logger import log
 
 #TODO unique id in queue, store to file and reload.

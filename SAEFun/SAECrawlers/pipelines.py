@@ -7,8 +7,7 @@
 import cPickle as pickle
 from socket import error as socket_error
 
-from util.logger import log
-
+import logging
 from util import tool, config
 
 
@@ -18,7 +17,7 @@ class ItemPipeline(object):
         # item holds old data
         # new data is holed in item['tree']
 
-        log.debug("ItemPipe get page [%s]:- %s" % (item['id'], item['url']))
+        logging.debug("ItemPipe get page [%s]:- %s" % (item['id'], item['url']))
 
         item['content_hash'] = tool.hash_for_text(item['content'])
         item['layout_hash'] = tool.hash_for_text(item.get_part('layout'))
@@ -29,7 +28,8 @@ class ItemPipeline(object):
         try:
             self.send_to_judge(item)
         except socket_error as err:
-            log.error(str(err.strerror))
+            logging.error(str(err.strerror))
+            pass
 
         return item
 

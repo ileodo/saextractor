@@ -5,6 +5,7 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors.lxmlhtml import LxmlLinkExtractor
 
 from util import tool, config
+import logging
 from SAECrawlers.items import UrlItem
 
 
@@ -33,5 +34,5 @@ class PagesCrawler(CrawlSpider):
         # db not changed
         # is this url in URL_LIB
         item = UrlItem.load_with_content(url=response.url, response=response)
-        logging.debug("PC get page [%s]:- %s" % (item['id'], item['url']))
+        logging.info("PC get page [%s]:- %s" % (item['id'], item['url']))
         yield item
