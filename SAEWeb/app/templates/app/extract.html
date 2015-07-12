@@ -149,7 +149,7 @@
                         </div>
 
                         <button id="btn-extract" type="button"
-                                class="btn btn-green">Extract
+                                class="btn btn-success">Extract
                         </button>
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                     </div>
@@ -169,6 +169,7 @@
     $("#btn-extract").click(function(){
         var id = $(".item.active").data('id');
         $(this).prop('disabled',true);
+        var button = $(this);
         $.post("{% url 'ajaxExtractor' %}",
                 {
                     method: "extract",
@@ -182,10 +183,10 @@
                         $('.item.active').remove()
                         $('#viewModal').modal('hide')
                     }else{
-                        $(this).prop('disabled',false);
                         alert("ERROR:"+data);
                         console.log("ERROR:"+data)
                     }
+                    button.prop('disabled',false);
 
                 });
     });

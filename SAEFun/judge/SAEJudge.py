@@ -102,7 +102,7 @@ class SAEJudge:
                 "title": item['title'],
                 "url": item['url'],
                 "filename": item.filename(),
-                "confidence": confidence,
+                "confidence": round(confidence,2),
                 "decision": decision,
                 "feature": feature
             }
