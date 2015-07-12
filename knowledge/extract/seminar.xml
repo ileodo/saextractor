@@ -1,8 +1,8 @@
 <entity name="seminar">
-    <attribute id="1" name="title" description="">title.xml</attribute>
-    <attribute id="2" name="location" description="">location.xml</attribute>
-    <attribute id="3" name="speaker" description="">speaker.xml</attribute>
-    <attribute id="4" name="start time" description="">start_time.xml</attribute>
-    <attribute id="5" name="end time" description="">end_time.xml</attribute>
-    <attribute id="6" name="abstract" description="">abstract.xml</attribute>
+    <attribute id="1" name="title" db-col="title" description="" max-len="32">title.xml</attribute>
+    <attribute id="2" name="location" db-col="location" description="" max-len="32">location.xml</attribute>
+    <attribute id="3" name="speaker" db-col="speaker" description="" max-len="32">speaker.xml</attribute>
+    <attribute id="4" name="date" db-col="date" description="" max-len="32">date.xml</attribute>
+    <attribute id="5" name="time" db-col="time" description="" max-len="32">time.xml</attribute>
+    <attribute id="6" name="abstract" db-col="abstract" description="" max-len="64">abstract.xml</attribute>
 </entity>

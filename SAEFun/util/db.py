@@ -1,8 +1,10 @@
 __author__ = 'LeoDong'
 import MySQLdb
+
 import MySQLdb.cursors
 
 import config
+import tool
 
 db_con = None
 
@@ -44,6 +46,7 @@ def get_all_urls():
     c.close()
     return [x['url'] for x in res]
 
+
 def get_all_ids_known():
     """
     get all targeted urls in url_lib
@@ -56,6 +59,7 @@ def get_all_ids_known():
     c.close()
     return [x['id'] for x in res]
 
+
 def get_all_ids_istarget():
     """
     get all targeted urls in url_lib
@@ -63,7 +67,7 @@ def get_all_ids_istarget():
     """
     sql = """SELECT id FROM url_lib WHERE is_target IN (%s,%s) """
     c = db_connect().cursor()
-    c.execute(sql, (config.const_IS_TARGET_UNKNOW,config.const_IS_TARGET_NO))
+    c.execute(sql, (config.const_IS_TARGET_UNKNOW, config.const_IS_TARGET_NO))
     res = c.fetchall()
     c.close()
     return [x['id'] for x in res]
@@ -97,25 +101,26 @@ def get_url_by_url(url):
     return res
 
 
-def general_update_url(id, is_target, content_hash, layout_hash, extractor_id, title, content_type):
+def general_update_url(id, is_target, content_hash, layout_hash, extractor, title, content_type):
     sql = """
-    UPDATE url_lib SET is_target=%s, content_hash=%s, layout_hash =%s, extractor_id =%s, title=%s, content_type=%s WHERE id=%s
+    UPDATE url_lib SET is_target=%s, content_hash=%s, layout_hash =%s, extractor =%s, title=%s, content_type=%s WHERE id=%s
     """
     c = db_connect().cursor()
-    c.execute(sql, (is_target, content_hash, layout_hash, extractor_id, title, content_type, id,))
+    c.execute(sql, (is_target, content_hash, layout_hash, extractor, title, content_type, id,))
     c.close()
 
 
-def general_insert_url(url, is_target, content_hash, layout_hash, extractor_id, title, content_type):
+def general_insert_url(url, is_target, content_hash, layout_hash, extractor, title, content_type):
     sql = """
-    INSERT INTO url_lib (url, is_target, content_hash, layout_hash, extractor_id, title, content_type)
+    INSERT INTO url_lib (url, is_target, content_hash, layout_hash, extractor, title, content_type)
       VALUES (%s, %s,%s, %s, %s, %s, %s)
     """
     c = db_connect().cursor()
-    c.execute(sql, (url, is_target, content_hash, layout_hash, extractor_id, title, content_type))
+    c.execute(sql, (url, is_target, content_hash, layout_hash, extractor, title, content_type))
     lid = c.lastrowid
     c.close()
     return lid
+
 
 def new_url_insert(url):
     """
@@ -126,8 +131,8 @@ def new_url_insert(url):
     :param layout_hash:
     :return:
     """
-    return general_insert_url(url, config.const_IS_TARGET_UNKNOW, "", "", config.const_RULE_UNKNOW, "","")
-
+    return general_insert_url(url, config.const_IS_TARGET_UNKNOW, "", "", tool.extractor2str(config.const_RULE_UNKNOW),
+                              "", "")
 
 
 def exist_url_content_update(id, title, content_hash, layout_hash, content_type):
@@ -141,7 +146,7 @@ def exist_url_content_update(id, title, content_hash, layout_hash, content_type)
     """
     sql = """UPDATE url_lib SET title=%s, content_hash=%s, layout_hash =%s, content_type=%s WHERE id=%s """
     c = db_connect().cursor()
-    c.execute(sql, (title, content_hash, layout_hash,content_type, id))
+    c.execute(sql, (title, content_hash, layout_hash, content_type, id))
     c.close()
 
 
@@ -191,3 +196,28 @@ def reset_db():
     c = db_connect().cursor()
     c.execute(sql)
     c.close()
+
+
+def new_sem_with_map(url_id, info):
+    keys = info.keys()
+    values = info.values()
+    sql = """
+    INSERT INTO sem_info (url_id, %s) VALUES (%s,%s)
+    """
+    c = db_connect().cursor()
+    sql = sql % (",".join(keys), url_id, ",".join(["'" + MySQLdb.escape_string(x) + "'" for x in values]))
+    c.execute(sql)
+    c.close()
+
+
+def get_url_with_same_layout_hash(hash):
+    sql = """SELECT id, extractor FROM url_lib WHERE layout_hash = %s """
+    c = db_connect().cursor()
+    c.execute(sql, (hash,))
+    res = c.fetchall()
+    c.close()
+    maps = dict()
+    for x in res:
+        if x['extractor']!="[-1]":
+            maps[x['extractor']] = maps.get(x['extractor'], 0) + 1
+    return len(res), maps

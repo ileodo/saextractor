@@ -8,9 +8,10 @@ urlpatterns = [
     url(r'^result/$', views.result, name='result'),
     url(r'^extract/$', views.extract, name='extract'),
 
-    url(r'^extract_model_rules/$', views.extract_modal_rule, name='extract_rules'),
-    url(r'^extract_model_preview/$', views.extract_modal_preview, name='extract_preview'),
+    url(r'^rule-panel/$', views.extract_modal_rule, name='rulePanel'),
 
-    url(r'^ajax/$', views.ajax, name='ajax'),
+    url(r'^ajaxExtractor/$',views.ajaxExtractor,name='ajaxExtractor'),
+
+    url(r'^ajaxJudge/$', views.ajaxJudge, name='ajaxJudge'),
     url(r'^file/(?P<type>[0-9A-Za-z\.]+)/(?P<filename>[0-9A-Za-z\.]+)/$', views.loadfile, name='loadfile'),
 ]

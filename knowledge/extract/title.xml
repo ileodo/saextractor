@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ruleset>
-
+ <rule description="[cs.ox.ac.uk] from title" id="1" on="title">
+  <substring after=":" before=""/>
+  <actions>
+   <action id="2"/>
+  </actions>
+ </rule>
 </ruleset>

@@ -34,16 +34,19 @@
                             </thead>
                             <tbody>
                             {% for id, item in judge_list.iteritems %}
-                            <tr class="item" data-id="{{ id }}">
+                            <tr class="item"
+                                data-id="{{ id }}"
+                                data-filename="{{ item.filename }}"
+                                data-title="{{ item.title }}"
+                                data-url="{{ item.url }}"
+                                data-decision="{{ item.decision}}">
                                 <td>{{ id }}</td>
                                 <td>
                                     <p>{{ item.title }}</p>
 
                                     <p><a class="btn btn-primary btn-alt mr15 mb15 btn-url"
                                           data-toggle="modal"
-                                          data-target="#viewModal" data-id="{{ id }}"
-                                          data-filename="{{ item.filename }}"
-                                          data-title="{{ item.title }}"
+                                          data-target="#viewModal"
                                           title="{{ item.url }}">{{ item.url | short_url }}</a></p>
                                 </td>
                                 <td>
@@ -57,15 +60,15 @@
                                 </td>
                                 <td>
                                     <div class="btn-group">
-                                        <button type="button" data-id="{{ id }}"
+                                        <button type="button"
                                                 data-decision="{{ 'N' | decision_value  }}"
                                                 class="btn btn-dark ajax-btn-judge">N
                                         </button>
-                                        <button type="button" data-id="{{ id }}"
+                                        <button type="button"
                                                 data-decision="{{ 'S' | decision_value  }}"
                                                 class="btn btn-pink ajax-btn-judge">S
                                         </button>
-                                        <button type="button" data-id="{{ id }}"
+                                        <button type="button"
                                                 data-decision="{{ 'M' | decision_value  }}"
                                                 class="btn btn-yellow ajax-btn-judge">M
                                         </button>
@@ -98,13 +101,13 @@
                         <iframe id="showiframe" class="col-xs-12" height="800px"></iframe>
                     </div>
                     <div class="modal-footer">
-                        <button id="model-btn-N" data-id="" data-decision="{{ 'N' | decision_value  }}" type="button"
+                        <button id="model-btn-N" data-decision="{{ 'N' | decision_value  }}" type="button"
                                 class="btn btn-dark ajax-btn-judge">No
                         </button>
-                        <button id="model-btn-S" data-id="" data-decision="{{ 'S' | decision_value  }}" type="button"
+                        <button id="model-btn-S" data-decision="{{ 'S' | decision_value  }}" type="button"
                                 class="btn btn-pink ajax-btn-judge">Single
                         </button>
-                        <button id="model-btn-M" data-id="" data-decision="{{ 'M' | decision_value  }}" type="button"
+                        <button id="model-btn-M" data-decision="{{ 'M' | decision_value  }}" type="button"
                                 class="btn btn-yellow ajax-btn-judge">Multiple
                         </button>
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -122,14 +125,18 @@
 </div>
 <script>
     $(".ajax-btn-judge").click(function () {
-        var id = $(this).data('id');
+        if($(this).parents('.item').length){
+            var id = $(this).parents('.item').data('id');
+            $(this).parents('.item').addClass('active');
+        }else{
+            var id = $(".item.active").data('id');
+        }
         var decision = $(this).data('decision');
+        $(this).parent().siblings('.ajax-btn-judge').prop('disabled', true);
 
-        $('[data-id="'+id+'"]').prop('disabled', true);
-
-        $.post("{% url 'ajax' %}",
+        $.post("{% url 'ajaxJudge' %}",
                 {
-                    type: "judge_finish",
+                    method: "judge",
                     id: id,
                     decision: decision,
                     csrfmiddlewaretoken: '{{csrf_token}}'
@@ -137,29 +144,32 @@
                 function (data, status) {
                     if(data=="0"){
                         //success
-                        $('.item[data-id="'+id+'"]').remove()
-                                $('#viewModal').modal('hide')
+                        $(".item.active").remove()
+                        $('#viewModal').modal('hide')
                     }else{
-                        $('[data-id="'+id+'"]').prop('disabled', false);
-                        alert(data);
-                        console.log(data)
+                        $(this).parent().siblings('.ajax-btn-judge').prop('disabled', false);
+                        alert("ERROR:"+data);
+                        console.log("ERROR:"+data)
                     }
 
                 });
     });
 
+    //when modal shown
     $('#viewModal').on('show.bs.modal', function (event) {
         var url = "{% url 'loadfile' 'judge' 'FILENAME' %}";
         var button = $(event.relatedTarget);
-        var id = button.data('id');
-        var filename = button.data('filename');
-        var title = button.data('title');
+        var item = button.parents(".item");
+        item.addClass('active');
         var modal = $(this);
-        modal.find('.modal-title').text(title);
-        modal.find("#model-btn-N").data('id', id);
-        modal.find("#model-btn-S").data('id', id);
-        modal.find("#model-btn-M").data('id', id);
-        modal.find('#showiframe').attr('src', url.replace("FILENAME", filename));
+        modal.find('.modal-title').text(item.data('title'));
+        modal.find('#showiframe').attr('src', url.replace("FILENAME", item.data('filename')));
+    });
+
+
+    //when modal hide
+    $('#viewModal').on('hide.bs.modal', function (event) {
+        $(".item.active").removeClass('active');
     });
 
 </script>

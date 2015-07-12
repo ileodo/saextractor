@@ -3,7 +3,7 @@ __author__ = 'LeoDong'
 import cPickle as pickle
 
 from SAECrawlers.items import UrlItem
-from util import tool, config
+from util import tool, config,db
 from util.logger import log
 from InfoExtractor import InfoExtractor
 import os
@@ -31,22 +31,29 @@ class SAEExtractor:
 
     def __op_new(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
-        item = UrlItem.load_with_content(id=item_id, file_path=config.path_extractor_inbox)
+        item = UrlItem.load(id=item_id)
 
-        # # 检查是否有已经能用(且有效)的extractor,有的话:
-        # rule_id = 35
-        # # 否则:
-        rule_id = -1
+        count, maps = db.get_url_with_same_layout_hash(item['layout_hash'])
+        log.info(str(maps))
+        log.info(count)
+        if len(maps)>0:
+            import operator
+            tar_ext = max(maps.iteritems(), key=operator.itemgetter(1))
+            log.info(float(tar_ext[1])/len(maps))
+            if tar_ext[1]>5:
+                extractor=tool.str2extractor(tar_ext[0])
+
+        extractor=config.const_RULE_UNKNOW
 
         self.__ext_queue[item_id] = {
             "title": item['title'],
             "url": item['url'],
             "filename": item.filename(),
             "decision": item['is_target'],
-            "rule_id": rule_id
+            "extractor": extractor
         }
 
-        log.info("[%s]: # %s " % (item_id, rule_id))
+        log.info("[%s]: # %s " % (item_id, extractor))
 
         pass
 
@@ -59,15 +66,14 @@ class SAEExtractor:
         pass
 
     def __op_preview(self, data_loaded, connection):
-        if 'extractor' not in data_loaded.keys():
+        log.info(data_loaded['extractor'])
+        if data_loaded['extractor'] == config.const_RULE_UNKNOW:
             result = {x:"" for x in xrange(1,self.__ie.num_attr()+1)}
         else:
             item_id = int(data_loaded['id'])
             item = UrlItem.load_with_content(item_id,file_path=config.path_extractor_inbox)
             extractor = data_loaded['extractor']
             result = self.__ie.extract(item,extractor)
-            log.info(extractor)
-        log.info(result)
         preview= list()
         for att,str in result.iteritems():
             preview.insert(att,dict(name=self.__ie.name(att),value=str))
@@ -105,27 +111,28 @@ class SAEExtractor:
         )
         pass
 
-    def __op_test_extractor(self, data_loaded, connection):
-        item_id = int(data_loaded['id'])
-        extractor = data_loaded['extractor']
-        # for att,rule in extractor.iteritems():
-
-        # attrid = data_loaded['attrid']
-        # item = UrlItem.load_with_content(id=item_id,file_path=config.path_extractor_inbox)
-        # tool.send_msg(
-        #     connection,
-        #     self.__ie.extract_attr(item,rule_id_or_dict=rule,attr_id=attrid)
-        # )
-        pass
-
     def __op_add_extractor(self, data_loaded, connection):
         item_id = int(data_loaded['id'])
         extractor = data_loaded['extractor']
-        # self.__ie.add_rule(attrid,rule)
-        # tool.send_msg(
-        #     connection,
-        #     "0"
-        # )
+
+        item = UrlItem.load_with_content(item_id,file_path=config.path_extractor_inbox)
+        result = self.__ie.extract(item,extractor)
+        log.info(extractor)
+        log.info(result)
+        info = dict()
+        for att,str in result.iteritems():
+            info[self.__ie.db_col(att)] = str[0:self.__ie.max_len(att)]
+        log.info(info)
+        db.new_sem_with_map(item_id,info)
+        item['extractor'] = extractor
+        item.save()
+
+        os.remove(config.path_extractor_inbox + "/%s" % item.filename())
+        del self.__ext_queue[item_id]
+        tool.send_msg(
+            connection,
+            "0"
+        )
         pass
 
     @staticmethod
@@ -138,7 +145,6 @@ class SAEExtractor:
             config.socket_CMD_extractor_rejudge_done: SAEExtractor.__op_rejudge_done,
             config.socket_CMD_extractor_test_rule: SAEExtractor.__op_test_rule,
             config.socket_CMD_extractor_add_rule: SAEExtractor.__op_add_rule,
-            config.socket_CMD_extractor_test_extractor: SAEExtractor.__op_test_extractor,
             config.socket_CMD_extractor_add_extract: SAEExtractor.__op_add_extractor,
         }
         return maps[cmd]

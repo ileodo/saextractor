@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ruleset>
- <rule description="[cs.ox.ac.uk]" id="1" on="content">
+ <rule description="" id="1" on="content">
   <scope sel="" target="html"/>
-  <substring after="Abstract" before="&lt;/p&gt;"/>
+  <substring after="(T|t)ime" before="&lt;/tr&gt;"/>
   <actions>
    <action id="1"/>
    <action id="2"/>

@@ -85,3 +85,13 @@ def send_message(msg, address):
 
     finally:
         sock.close()
+
+def str2extractor(string):
+    ar = string[1:-1].split(',')
+    if ar==['']:
+        return []
+    else:
+        return [int(x) for x in ar]
+
+def extractor2str(extractor):
+    return str(extractor)

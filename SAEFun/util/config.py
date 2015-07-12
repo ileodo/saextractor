@@ -18,7 +18,7 @@ const_IS_TARGET_MULTIPLE = 2
 const_IS_TARGET_UNKNOW = 0
 const_IS_TARGET_NO = -1
 
-const_RULE_UNKNOW = -1
+const_RULE_UNKNOW = [-1]
 
 const_CONFIDENCE_THRESHOLD = 70
 
@@ -64,13 +64,12 @@ socket_CMD_extractor_add_extract = "8"
 
 socket_retry_seconds = 10
 #
-# retriever_start_urls = ["https://www.cs.ox.ac.uk/"]
-retriever_start_urls = ["http://www.ox.ac.uk/"]
+retriever_start_urls = ["https://www.cs.ox.ac.uk/"]
+# retriever_start_urls = ["http://www.ox.ac.uk/"]
 
-# retriever_allow_content_type = ["text/html", "text/xml", "text/calendar"]
 retriever_allow_content_type = ["text/html"]
-# retriever_allow_domains = ["cs.ox.ac.uk"]
-retriever_allow_domains = ["ox.ac.uk"]
+retriever_allow_domains = ["cs.ox.ac.uk"]
+# retriever_allow_domains = ["ox.ac.uk"]
 retriever_deny_domains = ["webauth.ox.ac.uk","weblearn.ox.ac.uk","facebook.com","linkedin.com"]
 retriever_deny_extensions = [
     "pdf", "doc", "docx", "xls", "xlsx", "ppt", "pptx", "png", "jpg", "gif", "ps", "tex", "bib", "zip",

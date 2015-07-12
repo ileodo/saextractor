@@ -34,14 +34,20 @@
                             </thead>
                             <tbody>
                             {% for id, item in ext_list.iteritems %}
-                            <tr class="item" data-id="{{ id }}">
+                            <tr class="item"
+                                data-id="{{ id }}"
+                                data-extractor="{{item.extractor}}"
+                                data-filename="{{ item.filename }}"
+                                data-title="{{ item.title }}"
+                                data-url="{{ item.url }}"
+                                data-decision="{{ item.decision}}">
+
                                 <td>{{ id }}</td>
                                 <td>
                                     <p>{{ item.title }}</p>
 
                                     <p><a class="btn btn-primary btn-alt mr15 mb15 btn-url" data-toggle="modal"
-                                          data-target="#viewModal" data-id="{{ id }}"
-                                          data-filename="{{ item.filename }}"
+                                          data-target="#viewModal"
                                           title="{{ item.url }}">{{ item.url | short_url }}</a></p>
                                 </td>
                                 <td>
@@ -55,15 +61,15 @@
                                 </td>
                                 <td>
                                     <div class="btn-group">
-                                        <button type="button" data-id="{{ id }}"
+                                        <button type="button"
                                                 data-decision="{{ 'N' | decision_value  }}"
                                                 class="btn btn-dark ajax-btn-judge">N
                                         </button>
-                                        <button type="button" data-id="{{ id }}"
+                                        <button type="button"
                                                 data-decision="{{ 'S' | decision_value  }}"
                                                 class="btn btn-pink ajax-btn-judge">S
                                         </button>
-                                        <button type="button" data-id="{{ id }}"
+                                        <button type="button"
                                                 data-decision="{{ 'M' | decision_value  }}"
                                                 class="btn btn-yellow ajax-btn-judge">M
                                         </button>
@@ -131,19 +137,19 @@
                             <span>
                                 Re-Judge
                             </span>
-                            <button id="model-btn-N" data-id="" data-decision="{{ 'N' | decision_value  }}" type="button"
+                            <button id="model-btn-N" data-decision="{{ 'N' | decision_value  }}" type="button"
                                     class="btn btn-dark ajax-btn-judge">No
                             </button>
-                            <button id="model-btn-S" data-id="" data-decision="{{ 'S' | decision_value  }}" type="button"
+                            <button id="model-btn-S" data-decision="{{ 'S' | decision_value  }}" type="button"
                                     class="btn btn-pink ajax-btn-judge">Single
                             </button>
-                            <button id="model-btn-M" data-id="" data-decision="{{ 'M' | decision_value  }}" type="button"
+                            <button id="model-btn-M" data-decision="{{ 'M' | decision_value  }}" type="button"
                                     class="btn btn-yellow ajax-btn-judge">Multiple
                             </button>
                         </div>
 
-                        <button id="btn-extract" data-id="" data-decision="" type="button"
-                                class="btn btn-green ajax-btn-judge">Extract
+                        <button id="btn-extract" type="button"
+                                class="btn btn-green">Extract
                         </button>
                         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                     </div>
@@ -159,15 +165,45 @@
     <!-- End .outlet -->
 </div>
 <script>
-    $(".ajax-btn-judge").click(function () {
-        var id = $(this).data('id');
-        var decision = $(this).data('decision');
-
-        $('[data-id="'+id+'"]').prop('disabled', true);
-
-        $.post("{% url 'ajax' %}",
+    //when click btn-extract
+    $("#btn-extract").click(function(){
+        var id = $(".item.active").data('id');
+        $(this).prop('disabled',true);
+        $.post("{% url 'ajaxExtractor' %}",
                 {
-                    type: "re_judge_finish",
+                    method: "extract",
+                    id: id,
+                    selected:getruleidset(),
+                    csrfmiddlewaretoken: '{{csrf_token}}'
+                },
+                function (data, status) {
+                    if(data=="0"){
+                        //success
+                        $('.item.active').remove()
+                        $('#viewModal').modal('hide')
+                    }else{
+                        $(this).prop('disabled',false);
+                        alert("ERROR:"+data);
+                        console.log("ERROR:"+data)
+                    }
+
+                });
+    });
+
+    //when click judge btn
+    $(".ajax-btn-judge").click(function () {
+        if($(this).parents('.item').length){
+            var id = $(this).parents('.item').data('id');
+            $(this).parents('.item').addClass('active');
+        }else{
+            var id = $(".item.active").data('id');
+        }
+        var decision = $(this).data('decision');
+        $(this).parent().siblings('.ajax-btn-judge').prop('disabled', true);
+
+        $.post("{% url 'ajaxExtractor' %}",
+                {
+                    method: "re_judge",
                     id: id,
                     decision: decision,
                     csrfmiddlewaretoken: '{{csrf_token}}'
@@ -175,36 +211,28 @@
                 function (data, status) {
                     if(data=="0"){
                         //success
-                        $('.item[data-id="'+id+'"]').remove()
+                        $(".item.active").remove()
                         $('#viewModal').modal('hide')
                     }else{
-                        $('[data-id="'+id+'"]').prop('disabled', false);
-                        alert(data);
-                        console.log(data)
+                        $(this).parent().siblings('.ajax-btn-judge').prop('disabled', false);
+                        alert("ERROR:"+data);
+                        console.log("ERROR:"+data)
                     }
 
                 });
     });
 
+    //when modal shown
     $('#viewModal').on('show.bs.modal', function (event) {
         var url = "{% url 'loadfile' 'extract' 'FILENAME' %}";
         var button = $(event.relatedTarget);
-        var id = button.data('id');
-        var filename = button.data('filename');
-        var title = button.data('title');
+        var item = button.parents(".item");
+        item.addClass('active');
         var modal = $(this);
-        modal.find('.modal-title').text(title);
-        modal.data('id',id);
-        modal.find("#model-btn-N").data('id', id);
-        modal.find("#model-btn-S").data('id', id);
-        modal.find("#model-btn-M").data('id', id);
-        modal.find('#showiframe').attr('src', url.replace("FILENAME", filename));
-        $.get(url.replace("FILENAME", filename),
-                function (data, status) {
-                    modal.find('#sourceframe').text(data)
-                });
+        modal.find('.modal-title').text(item.data('title'));
+        modal.find('#showiframe').attr('src', url.replace("FILENAME", item.data('filename')));
 
-        $.post("{% url 'extract_rules' %}",
+        $.post("{% url 'rulePanel' %}",
                 {
                     csrfmiddlewaretoken: '{{csrf_token}}'
                 },
@@ -212,18 +240,23 @@
                     modal.find('#select-rules').html(data)
                 });
 
-        $.post("{% url 'extract_preview' %}",
+        $.post("{% url 'ajaxExtractor' %}",
                 {
-                    extractor:getruleidset(),
+                    method: "preview",
+                    id:item.data('id'),
+                    extractor:item.data('extractor'),
                     csrfmiddlewaretoken: '{{csrf_token}}'
                 },
                 function (data, status) {
-                    modal.find('#preview').html(data)
+                    $("#preview").html(data)
                 });
 
     });
 
-
+    //when modal hide
+    $('#viewModal').on('hide.bs.modal', function (event) {
+        $(".item.active").removeClass('active');
+    });
 
 
 </script>

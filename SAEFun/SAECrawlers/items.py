@@ -20,7 +20,7 @@ class UrlItem(scrapy.Item):
     is_target = scrapy.Field()
     content_hash = scrapy.Field()
     layout_hash = scrapy.Field()
-    extractor_id = scrapy.Field()
+    extractor = scrapy.Field()
     last_access_ts = scrapy.Field()
     last_extract_ts = scrapy.Field()
     title = scrapy.Field()
@@ -31,7 +31,7 @@ class UrlItem(scrapy.Item):
     map_part = scrapy.Field()
 
     def save(self):
-        db.general_update_url(self['id'], self['is_target'], self['content_hash'], self['layout_hash'], self['extractor_id'],
+        db.general_update_url(self['id'], self['is_target'], self['content_hash'], self['layout_hash'], tool.extractor2str(self['extractor']),
                               self['title'], self['content_type'])
 
     @staticmethod
@@ -65,13 +65,12 @@ class UrlItem(scrapy.Item):
         r['is_target'] = res['is_target']
         r['content_hash'] = res['content_hash']
         r['layout_hash'] = res['layout_hash']
-        r['extractor_id'] = res['extractor_id']
+        r['extractor'] = tool.str2extractor(res['extractor'])
         r['last_access_ts'] = res['last_access_ts']
         r['last_extract_ts'] = res['last_extract_ts']
         r['title'] = res['title']
         r['content_type'] = res['content_type']
         return r
-
 
     def filename(self):
         ext = self['content_type'].split('/')[1]
@@ -115,12 +114,13 @@ class UrlItem(scrapy.Item):
                         tag[v] = urlparse.urljoin(self['url'], tag[v])
             elif part == "layout":
                 # copy soup
-                soup = BeautifulSoup(str(self.get_part('soup')),'lxml')
+                import copy
+                soup = copy.copy(self.get_part('soup'))
                 # remove tags
                 for tag in config.layout_tag_remove:
                     for t in soup.select(tag):
                         t.decompose()
-
+                soup = BeautifulSoup(str(soup),'lxml')
                 if soup.body is None:
                     result = ""
                 else:

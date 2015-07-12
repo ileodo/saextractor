@@ -63,50 +63,12 @@ def extract_modal_rule(request):
                   {"page": {"title": "Extract"}, 'rule_maps': maps['rule'], 'action': maps['action']})
 
 
-def extract_modal_preview(request):
-    try:
-        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        sock.connect(config.socket_addr_extractor)
-    except socket_error as serr:
-        return render(request, 'app/error.html',
-                      {"page": {"title": "Error"}, "code": serr.errno, "content": str(serr.strerror)})
-
-    data_string = pickle.dumps({"operation": config.socket_CMD_extractor_preview}, -1)
-    tool.send_msg(sock, data_string)
-    data_string = tool.recv_msg(sock)
-    preview = pickle.loads(data_string)
-    return render(request, 'app/extract_modal_preview.html', {"page": {"title": "Extract"}, 'preview': preview})
-
-
 def result(request):
     return render(request, 'app/result.html', {"page": {"title": "Result"}})
 
 
-def ajax(request):
-    def judge_finish(post):
-        try:
-            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            sock.connect(config.socket_addr_judge)
-        except socket_error as serr:
-            return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
-
-        data_string = pickle.dumps(
-            {
-                "operation": config.socket_CMD_judge_done,
-                "id": post.get("id"),
-                "decision": post.get("decision")
-            }, -1)
-        tool.send_msg(sock, data_string)
-        data_string = tool.recv_msg(sock)
-        return data_string
-
-    def re_judge_finish(post):
-        try:
-            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            sock.connect(config.socket_addr_extractor)
-        except socket_error as serr:
-            return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
-
+def ajaxExtractor(request):
+    def re_judge(post,sock):
         data_string = pickle.dumps(
             {
                 "operation": config.socket_CMD_extractor_rejudge_done,
@@ -117,13 +79,7 @@ def ajax(request):
         data_string = tool.recv_msg(sock)
         return data_string
 
-    def extract_rule_test(post):
-        try:
-            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            sock.connect(config.socket_addr_extractor)
-        except socket_error as serr:
-            return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
-
+    def rule_test(post,sock):
         d = rule_post2dict(post)
 
         data_string = pickle.dumps(
@@ -140,16 +96,10 @@ def ajax(request):
         else:
             return '#ERROR'
 
-    def extract_rule_add(post):
-        try:
-            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-            sock.connect(config.socket_addr_extractor)
-        except socket_error as serr:
-            return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
-
+    def rule_add(post,sock):
         d = rule_post2dict(post)
         selected = post.getlist('selected[]')
-        selected = dict(zip(xrange(0,len(selected)),selected))
+        selected = [int(x) for x in selected]
         data_string = pickle.dumps(
             {
                 "operation": config.socket_CMD_extractor_add_rule,
@@ -162,37 +112,80 @@ def ajax(request):
         return render(request, 'app/extract_modal_rule.html',
                       {"page": {"title": "Extract"}, 'rule_maps': maps['rule'], 'action': maps['action'],'selected':selected})
 
-    def extract_preview(post):
+    def preview(post,sock):
+        extractor = [int(x) for x in post.getlist('extractor[]')]
+
+        data_string = pickle.dumps(
+            {
+                "operation": config.socket_CMD_extractor_preview,
+                "id": post.get("id"),
+                "extractor": extractor
+            }, -1)
+        log.info(data_string)
+        tool.send_msg(sock, data_string)
+        data_string = tool.recv_msg(sock)
+        preview = pickle.loads(data_string)
+        return render(request, 'app/extract_modal_preview.html', {'preview': preview})
+
+    def extract(post,sock):
+        selected = post.getlist('selected[]')
+        selected = [int(x) for x in selected]
+        data_string = pickle.dumps(
+            {
+                "operation": config.socket_CMD_extractor_add_extract,
+                "id": post.get("id"),
+                "extractor": selected
+            }, -1)
+
+        tool.send_msg(sock, data_string)
+        data_string = tool.recv_msg(sock)
+        return data_string
+
+    if request.method == 'POST':
+        operations_list = {
+            're_judge': re_judge,
+            'rule_test': rule_test,
+            'rule_add': rule_add,
+            'preview': preview,
+            'extract': extract,
+        }
+        op_method = request.POST.get('method')
+        log.info(str(request.POST))
         try:
             sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             sock.connect(config.socket_addr_extractor)
         except socket_error as serr:
             return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
 
-        selected = post.getlist('selected[]')
-        selected = [int(x) for x in selected]
+        return HttpResponse(operations_list[op_method](request.POST,sock))
+    else:
+        return HttpResponse("ILLEGAL")
+
+def ajaxJudge(request):
+    def judge(post,sock):
         data_string = pickle.dumps(
             {
-                "operation": config.socket_CMD_extractor_preview,
+                "operation": config.socket_CMD_judge_done,
                 "id": post.get("id"),
-                "extractor": selected
+                "decision": post.get("decision")
             }, -1)
         tool.send_msg(sock, data_string)
         data_string = tool.recv_msg(sock)
-        preview = pickle.loads(data_string)
-        return render(request, 'app/extract_modal_preview.html', {'preview': preview})
+        return data_string
 
     if request.method == 'POST':
         operations_list = {
-            'judge_finish': judge_finish,
-            're_judge_finish': re_judge_finish,
-            'extract_rule_test': extract_rule_test,
-            'extract_rule_add': extract_rule_add,
-            'extract_preview': extract_preview,
+            'judge': judge,
         }
-        op_type = request.POST.get('type')
+        op_method = request.POST.get('method')
         log.info(str(request.POST))
-        return HttpResponse(operations_list[op_type](request.POST))
+        try:
+            sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            sock.connect(config.socket_addr_judge)
+        except socket_error as serr:
+            return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
+
+        return HttpResponse(operations_list[op_method](request.POST,sock))
     else:
         return HttpResponse("ILLEGAL")
 
@@ -210,13 +203,14 @@ def rule_post2dict(post):
     if post.get('rule[match]') != "":
         d['match'] = post.get('rule[match]')
 
-    if post.get('rule[substring[after]]') != "" and post.get('rule[substring[before]]') != "":
-        d['substring'] = dict(
-            after=post.get('rule[substring[after]]'),
-            before=post.get('rule[substring[before]]')
-        )
+    d['substring'] = dict(
+        after=post.get('rule[substring[after]]'),
+        before=post.get('rule[substring[before]]')
+    )
 
     d['actions'] = post.getlist('rule[actions][]')
+    if len(d['actions'])==0:
+        d['actions'] = post.getlist('rule[actions]')
     return d
 
 def loadfile(request, type, filename):

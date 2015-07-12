@@ -17,7 +17,11 @@ class InfoExtractor:
 
         for attr in attrlist:
             self.__extractspace[int(attr['id'])] \
-                = dict(name=attr['name'], description=attr['description'], filename=attr.contents[0].string)
+                = dict(name=attr['name'],
+                       description=attr['description'],
+                       db_col=attr['db-col'],
+                       filename=attr.contents[0].string,
+                       max_len=int(attr['max-len']))
             self.__load_rule_file(int(attr['id']))
 
         self.__map_target_part = dict()
@@ -101,13 +105,7 @@ class InfoExtractor:
             actions_tag.append(gen.new_tag("action", id=action_id))
         return rule_tag
 
-    def extract(self, item, extractor_id_or_list):
-        if type(extractor_id_or_list) == int:
-            # rule = self.map(attr_id)['rules'][rule_id_or_dict]
-            # TODO
-            extractor = None
-        else:  # list
-            extractor = extractor_id_or_list
+    def extract(self, item, extractor):
         result = dict()
         attr = 1  # counter
         for rule in extractor:
@@ -258,6 +256,18 @@ class InfoExtractor:
             return self.__extractspace[attrid]['name']
         elif attrid is None:
             return self.__extractname
+        else:
+            raise Exception('none exist attribute')
+
+    def db_col(self, attrid):
+        if attrid in xrange(1,self.num_attr()+1):
+            return self.__extractspace[attrid]['db_col']
+        else:
+            raise Exception('none exist attribute')
+
+    def max_len(self, attrid):
+        if attrid in xrange(1,self.num_attr()+1):
+            return self.__extractspace[attrid]['max_len']
         else:
             raise Exception('none exist attribute')
 

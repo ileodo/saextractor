@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ruleset>
-
+ <rule description="[cs.ox.ac.uk] speaker line" id="1" on="content">
+  <scope sel="#content &gt; p" target="html"/>
+  <substring after="" before=""/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+  </actions>
+ </rule>
 </ruleset>
