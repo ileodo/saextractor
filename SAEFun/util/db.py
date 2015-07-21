@@ -5,7 +5,9 @@ import MySQLdb.cursors
 
 import config
 import tool
-
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
 db_con = None
 
 
@@ -201,6 +203,16 @@ def reset_db():
 def new_sem_with_map(url_id, info):
     keys = info.keys()
     values = info.values()
+    newvalues=[]
+    for i in values:
+        if isinstance(i, unicode):
+            newvalues.append(i.encode('utf-8'))
+        else:
+            if i is None:
+                newvalues.append("")
+            else:
+                newvalues.append(i)
+    values = newvalues
     sql = """
     INSERT INTO sem_info (url_id, %s) VALUES (%s,%s)
     """
@@ -221,3 +233,11 @@ def get_url_with_same_layout_hash(hash):
         if x['extractor']!="[-1]":
             maps[x['extractor']] = maps.get(x['extractor'], 0) + 1
     return len(res), maps
+
+
+def get_seminar_all():
+    sql = """select sem_info.*, url_lib.url from sem_info join url_lib on sem_info.url_id=url_lib.id"""
+    c = db_connect().cursor()
+    c.execute(sql, ())
+    res = c.fetchall()
+    return res

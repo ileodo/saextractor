@@ -15,6 +15,7 @@ def init_working_path():
     initial_folder(config.path_working)
     initial_folder(config.path_extractor_inbox)
     initial_folder(config.path_judge_inbox)
+    initial_folder(config.path_extractor_backup)
     pass
 
 def init_database():

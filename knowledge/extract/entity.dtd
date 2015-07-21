@@ -1,1 +1,14 @@
-<!ELEMENT entity >
+<!DOCTYPE entity [
+        <!ELEMENT entity (attribute)*>
+        <!ATTLIST entity
+                name CDATA #REQUIRED>
+        <!ELEMENT attribute (#PCDATA)>
+        <!ATTLIST attribute
+                db-col CDATA #REQUIRED
+                description CDATA #REQUIRED
+                description CDATA #IMPLIED
+                glyph CDATA #REQUIRED
+                id CDATA #IMPLIED
+                max-len CDATA #REQUIRED
+                name CDATA #REQUIRED>
+        ]>

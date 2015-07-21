@@ -8,4 +8,12 @@
    <action id="2"/>
   </actions>
  </rule>
+ <rule description="what's on bodleian lib" id="2" on="content">
+  <scope sel="" target="html"/>
+  <substring after="Speaker\(s\):&lt;/p&gt;" before="&lt;/p&gt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+  </actions>
+ </rule>
 </ruleset>

@@ -175,7 +175,7 @@
                     method: "extract",
                     id: id,
                     selected:getruleidset(),
-                    csrfmiddlewaretoken: '{{csrf_token}}'
+                    csrfmiddlewaretoken: $('meta[name=csrf_token]').attr('content')
                 },
                 function (data, status) {
                     if(data=="0"){
@@ -201,13 +201,13 @@
         }
         var decision = $(this).data('decision');
         $(this).parent().siblings('.ajax-btn-judge').prop('disabled', true);
-
+        var button = $(this)
         $.post("{% url 'ajaxExtractor' %}",
                 {
                     method: "re_judge",
                     id: id,
                     decision: decision,
-                    csrfmiddlewaretoken: '{{csrf_token}}'
+                    csrfmiddlewaretoken: $('meta[name=csrf_token]').attr('content')
                 },
                 function (data, status) {
                     if(data=="0"){
@@ -215,7 +215,7 @@
                         $(".item.active").remove()
                         $('#viewModal').modal('hide')
                     }else{
-                        $(this).parent().siblings('.ajax-btn-judge').prop('disabled', false);
+                        button.parent().siblings('.ajax-btn-judge').prop('disabled', false);
                         alert("ERROR:"+data);
                         console.log("ERROR:"+data)
                     }
@@ -232,10 +232,13 @@
         var modal = $(this);
         modal.find('.modal-title').text(item.data('title'));
         modal.find('#showiframe').attr('src', url.replace("FILENAME", item.data('filename')));
-
+        $.get(url.replace("FILENAME", item.data('filename')),
+                function (data, status) {
+                    modal.find('#sourceframe').text(data)
+                });
         $.post("{% url 'rulePanel' %}",
                 {
-                    csrfmiddlewaretoken: '{{csrf_token}}'
+                    csrfmiddlewaretoken: $('meta[name=csrf_token]').attr('content')
                 },
                 function (data, status) {
                     modal.find('#select-rules').html(data)
@@ -246,10 +249,11 @@
                     method: "preview",
                     id:item.data('id'),
                     extractor:item.data('extractor'),
-                    csrfmiddlewaretoken: '{{csrf_token}}'
+                    csrfmiddlewaretoken: $('meta[name=csrf_token]').attr('content')
                 },
                 function (data, status) {
-                    $("#preview").html(data)
+                    $("#preview").html(data);
+
                 });
 
     });

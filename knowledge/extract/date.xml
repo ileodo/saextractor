@@ -2,10 +2,38 @@
 <ruleset>
  <rule description="[cs.ox.ac.uk]" id="1" on="content">
   <scope sel="" target="html"/>
-  <substring after="Date" before="&lt;/tr&gt;"/>
+  <substring after="Date" before="\("/>
   <actions>
    <action id="1"/>
    <action id="2"/>
+   <action id="3"/>
+  </actions>
+ </rule>
+ <rule description="blogs.bodleian.ox.ac.uk" id="2" on="content">
+  <scope sel=".entry-content" target="html"/>
+  <substring after="&lt;strong&gt;Date:&lt;/strong&gt;" before="&lt;/div&gt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+   <action id="3"/>
+  </actions>
+ </rule>
+ <rule description="harcourt" id="3" on="content">
+  <scope sel=".field-item.odd" target="html"/>
+  <substring after='&lt;span class="date-display-single"&gt;' before="-"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+   <action id="3"/>
+  </actions>
+ </rule>
+ <rule description="what's on bod lib" id="4" on="content">
+  <scope sel="abbr.dtstart" target="html"/>
+  <substring after='title="' before='"'/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+   <action id="3"/>
   </actions>
  </rule>
 </ruleset>

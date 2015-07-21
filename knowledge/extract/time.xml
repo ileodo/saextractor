@@ -6,6 +6,34 @@
   <actions>
    <action id="1"/>
    <action id="2"/>
+   <action id="4"/>
+  </actions>
+ </rule>
+ <rule description="blogs.bodleain.ox.ac.uk" id="2" on="content">
+  <scope sel=".entry-content" target="html"/>
+  <substring after="&lt;strong&gt;Time:&lt;/strong&gt;" before="&lt;/div&gt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+   <action id="4"/>
+  </actions>
+ </rule>
+ <rule description="harcourt " id="3" on="content">
+  <scope sel=".field-item.odd" target="html"/>
+  <substring after='&lt;span class="date-display-end"&gt;' before="&lt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+   <action id="4"/>
+  </actions>
+ </rule>
+ <rule description="what's on bod lib" id="4" on="content">
+  <scope sel="abbr.dtstart" target="html"/>
+  <substring after='title="' before='"'/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+   <action id="4"/>
   </actions>
  </rule>
 </ruleset>

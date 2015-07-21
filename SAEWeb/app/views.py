@@ -2,7 +2,7 @@ import cPickle as pickle
 import socket
 from socket import error as socket_error
 import logging
-
+from util import db
 from django.http import HttpResponse
 from django.shortcuts import render
 
@@ -64,8 +64,32 @@ def extract_modal_rule(request):
 
 
 def result(request):
-    return render(request, 'app/result.html', {"page": {"title": "Result"}})
+    res = db.get_seminar_all()
+    return render(request, 'app/result.html', {"page": {"title": "Result"},"entities":res})
 
+def judgerelearn(request):
+    try:
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.connect(config.socket_addr_judge)
+    except socket_error as serr:
+        return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
+    req = {
+        "operation":config.socket_CMD_judge_refresh,
+    }
+    tool.send_msg(sock, pickle.dumps(req,-1))
+    return HttpResponse("Success")
+
+def refreshextractor(request):
+    try:
+        sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock.connect(config.socket_addr_extractor)
+    except socket_error as serr:
+        return '{"status": "error", "code": serr.errno, "msg": str(serr.strerror)}'
+    req = {
+        "operation": config.socket_CMD_extractor_refresh,
+    }
+    tool.send_msg(sock, pickle.dumps(req,-1))
+    return HttpResponse("Success")
 
 def ajaxExtractor(request):
     def re_judge(post,sock):
