@@ -8,4 +8,20 @@
    <action id="2"/>
   </actions>
  </rule>
+ <rule description="blogs.bodleian.ox.ac.uk" id="2" on="content">
+  <scope sel=".entry-content" target="html"/>
+  <substring after="&lt;strong&gt;Venue:&lt;/strong&gt;" before="&lt;/div&gt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+  </actions>
+ </rule>
+ <rule description="What's On bodleian lib" id="3" on="content">
+  <scope sel="" target="html"/>
+  <substring after="Venue:" before="&lt;!-- event venue map link --&gt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+  </actions>
+ </rule>
 </ruleset>

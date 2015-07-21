@@ -2,7 +2,15 @@
 <ruleset>
  <rule description="[cs.ox.ac.uk] speaker line" id="1" on="content">
   <scope sel="#content &gt; p" target="html"/>
-  <substring after="" before=""/>
+  <substring after="&lt;p&gt;" before="&lt;/p&gt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+  </actions>
+ </rule>
+ <rule description="what's on bodleian lib" id="2" on="content">
+  <scope sel="" target="html"/>
+  <substring after="Speaker\(s\):&lt;/p&gt;" before="&lt;/p&gt;"/>
   <actions>
    <action id="1"/>
    <action id="2"/>

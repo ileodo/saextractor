@@ -6,4 +6,28 @@
    <action id="2"/>
   </actions>
  </rule>
+ <rule description="blogs.bodleian.ox.ac.uk" id="2" on="content">
+  <scope sel=".entry-header" target="html"/>
+  <substring after='&lt;h1 class="entry-title"&gt;' before="&lt;/h1&gt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+  </actions>
+ </rule>
+ <rule description="harcourt" id="3" on="content">
+  <scope sel="#content-header" target="html"/>
+  <substring after='&lt;h1 class="title"&gt;' before="&lt;/h1&gt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+  </actions>
+ </rule>
+ <rule description="what's on bodleian libs" id="4" on="content">
+  <scope sel="span.summary" target="html"/>
+  <substring after="" before=""/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+  </actions>
+ </rule>
 </ruleset>

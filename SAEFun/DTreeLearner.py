@@ -4,6 +4,7 @@ import cPickle as pickle
 from sklearn import tree
 from sklearn.externals.six import StringIO
 import pydot
+import dot_parser
 import requests
 
 from judge.FeatueExtract import FeatureExtract
@@ -54,10 +55,8 @@ def feature_extraction(csvfile, datapath, resultcsv):
                 item = UrlItem()
                 ct = open(datapath + "/" + row[0], "r").read()
                 item['url'] = row[1]
-                item['raw_content'] = ct
                 item['content'] = ct
                 item['title'] = item.get_short_title()
-                item['content'] = str(item.soup())
                 f = fe.extract_item(item)
                 line = "%s,%s,%s" % (row[0], row[2], FeatureExtract.str_feature(f))
                 # print line

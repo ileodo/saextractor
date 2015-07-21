@@ -1,5 +1,6 @@
 {% include 'partial/header.html' %}
 {% load staticfiles %}
+{% load template_util %}
 <div class="content-wrapper">
     <div class="row">
         <!-- Start .row -->
@@ -61,5 +62,79 @@
     <!-- End .outlet -->
 </div>
 <script src="{% static 'assets/plugins/ui/calendar/fullcalendar.js' %}"></script>
-<script src="{% static 'assets/js/pages/calendar.js' %}"></script>
+
+<script>
+    Date.prototype.addHours= function(h){
+        this.setHours(this.getHours()+h);
+        return this;
+    }
+
+    $(document).ready(function() {
+
+        /* initialize the calendar
+         -----------------------------------------------------------------*/
+        var date = new Date();
+        var d = date.getDate();
+        var m = date.getMonth();
+        var y = date.getFullYear();
+
+        $('#calendar').fullCalendar({
+            header: {
+                left: 'prev,next today',
+                center: 'title',
+                right: 'month,agendaWeek,agendaDay'
+            },
+            buttonText: {
+                prev: '<i class="en-arrow-left8 s16"></i>',
+                next: '<i class="en-arrow-right8 s16"></i>',
+                today:'Today'
+            },
+            events: [
+                {% for e in entities%}
+                    {% if e.date and e.title %}
+                        {
+                            title: "{{ e.title | js_string }}",
+                            {% if e.time %}
+                            start: new Date("{{e.date}} {{e.time}}"),
+                                    end: new Date("{{e.date}}").addHours(1),
+                                allDay: false,
+                        {% else %}
+                        start: new Date("{{e.date}}"),
+                                end: new Date("{{e.date}}").addHours(1),
+                            allDay: true,
+                        {% endif %}
+                        description: "{{ e.description |js_string }}",
+                        location: "{{ e.location | js_string }}",
+                        speaker: "{{ e.speaker | js_string}}",
+                        link: "{{ e.url }}"
+                    },
+                {% endif %}
+                {% endfor %}
+            ],
+
+            eventClick: function(calEvent, jsEvent, view) {
+                var modal = $("#infoModal");
+                modal.find('.att-title').text(calEvent.title);
+                modal.find('.att-starttime').text(calEvent.start);
+                modal.find('.att-endtime').text(calEvent.end);
+                modal.find('.att-location').text(calEvent.location);
+                modal.find('.att-speaker').text(calEvent.speaker);
+                modal.find('.att-abstract').text(calEvent.description);
+                modal.find('.att-link').text(calEvent.link);
+                modal.find('.att-link').attr('href',calEvent.link);
+                modal.modal()
+
+                // change the border color just for fun
+                $(this).css('border-color', 'red');
+
+            }
+
+        });
+
+        //force to reajust size on page load because full calendar some time not get right size.
+        $(window).load(function(){
+            $('#calendar').fullCalendar('render');
+        });
+    });
+</script>
 {% include 'partial/footer.html' %}

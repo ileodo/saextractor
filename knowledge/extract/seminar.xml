@@ -1,8 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Judge whether a page is seminar page-->
+<!DOCTYPE entity PUBLIC "Seminar"
+        "http://static.ileodo.com/s/mscproject/entity.dtd">
 <entity name="seminar">
-    <attribute id="1" name="title" db-col="title" description="" max-len="32">title.xml</attribute>
-    <attribute id="2" name="location" db-col="location" description="" max-len="32">location.xml</attribute>
-    <attribute id="3" name="speaker" db-col="speaker" description="" max-len="32">speaker.xml</attribute>
-    <attribute id="4" name="date" db-col="date" description="" max-len="32">date.xml</attribute>
-    <attribute id="5" name="time" db-col="time" description="" max-len="32">time.xml</attribute>
-    <attribute id="6" name="abstract" db-col="abstract" description="" max-len="64">abstract.xml</attribute>
+    <attribute id="1"
+               name="title"
+               db-col="title"
+               description="The Title of the Seminar"
+               max-len="32"
+               glyph="title">title.xml
+    </attribute>
+    <attribute id="2" name="location" db-col="location"
+               description="Location/Place the Seminar happened"
+               max-len="32" glyph="location">location.xml
+    </attribute>
+    <attribute id="3" name="speaker" db-col="speaker"
+               description="Speaker/Host of the Seminar"
+               max-len="32" glyph="speaker">speaker.xml
+    </attribute>
+    <attribute id="4" name="date" db-col="date"
+               description="Date of the seminar"
+               max-len="32" glyph="date">date.xml
+    </attribute>
+    <attribute id="5" name="time" db-col="time"
+               description="Start Time of the Seminar"
+               max-len="32" glyph="time">time.xml
+    </attribute>
+    <attribute id="6" name="abstract" db-col="abstract"
+               description="Abstract/Introduction of the Seminar"
+               max-len="64" glyph="abstract">abstract.xml
+    </attribute>
 </entity>

@@ -52,9 +52,9 @@
                                 <td>
                                     <div class="progress progress-striped">
                                         <div class="progress-bar progress-bar{{ item.decision | css_type_for_decision  }} animated-bar"
-                                             role="progressbar" aria-valuenow="{{ item.confidence }}"
-                                             style="width:{{ item.confidence }}%;">
-                                            {{ item.confidence }}%
+                                             role="progressbar" aria-valuenow="{{ item.confidence | floatformat:2 }}"
+                                             style="width:{{ item.confidence | floatformat:2  }}%;">
+                                            {{ item.confidence | floatformat:2  }}%
                                         </div>
                                     </div>
                                 </td>

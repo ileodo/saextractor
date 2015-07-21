@@ -16,6 +16,7 @@ def css_type_for_decision(value):
     }
     return type_map[int(value)]
 
+
 @register.filter(name='decision_value')
 def decision_value(str):
     value_map = {
@@ -25,6 +26,7 @@ def decision_value(str):
     }
     return value_map[str]
 
+
 @register.filter(name='operation_value')
 def operation_value(str):
     value_map = {
@@ -32,8 +34,15 @@ def operation_value(str):
     }
     return value_map[str]
 
+
 @register.filter(name='short_url')
 def short_url(str):
-    if len(str)>=100:
+    if len(str) >= 100:
         str = str[0:46] + "......" + str[-46:]
+    return str
+
+
+@register.filter(name='js_string')
+def js_string(str):
+    str = str.replace('\n', '\\ ')
     return str

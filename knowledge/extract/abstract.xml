@@ -8,4 +8,20 @@
    <action id="2"/>
   </actions>
  </rule>
+ <rule description="harcourt" id="2" on="content">
+  <scope sel="" target="html"/>
+  <substring after='&lt;p class="rteleft"&gt;' before="&lt;/div&gt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+  </actions>
+ </rule>
+ <rule description="what's on bod lib" id="3" on="content">
+  <scope sel="" target="html"/>
+  <substring after="&lt;h2&gt;Description&lt;/h2&gt;" before="&lt;/p&gt;"/>
+  <actions>
+   <action id="1"/>
+   <action id="2"/>
+  </actions>
+ </rule>
 </ruleset>

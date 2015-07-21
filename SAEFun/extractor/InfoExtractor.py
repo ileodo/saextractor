@@ -1,9 +1,11 @@
 __author__ = 'LeoDong'
 
 import re
-
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
 from bs4 import BeautifulSoup
-
+import dateparser
 
 class InfoExtractor:
     def __init__(self, extract_space_file_path, rule_files_path):
@@ -20,7 +22,7 @@ class InfoExtractor:
                 = dict(name=attr['name'],
                        description=attr['description'],
                        db_col=attr['db-col'],
-                       filename=attr.contents[0].string,
+                       filename=attr.contents[0].string.strip(),
                        max_len=int(attr['max-len']))
             self.__load_rule_file(int(attr['id']))
 
@@ -227,6 +229,14 @@ class InfoExtractor:
                 'name': 'stripe',
                 'do': InfoExtractor.__act_stripe
             },
+            3: {
+                'name': 'parseDate',
+                'do': InfoExtractor.__act_parse_date
+            },
+            4: {
+                'name': 'parseTime',
+                'do': InfoExtractor.__act_parse_time
+            },
         }
         if action_id in actions.keys():
             return actions[action_id]
@@ -244,12 +254,36 @@ class InfoExtractor:
 
     @staticmethod
     def __act_removeHTML(str):
-        str = re.sub("<.*?>", "", str)
+        try:
+            str = re.sub("<.*?>", "", str)
+        except:
+            str=""
         return str
 
     @staticmethod
     def __act_stripe(str):
         return str.strip()
+
+    @staticmethod
+    def __act_parse_date(string):
+        try:
+            r = dateparser.parse(string)
+        except:
+            r = None
+        if r:
+            return str(r.date())
+        else:
+            return str(r)
+
+    @staticmethod
+    def __act_parse_time(string):
+        r = dateparser.parse(string)
+        if r:
+            return str(r.time())
+        else:
+            return str(r)
+
+
 
     def name(self, attrid=None):
         if attrid in xrange(1,self.num_attr()+1):

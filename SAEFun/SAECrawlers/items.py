@@ -113,9 +113,7 @@ class UrlItem(scrapy.Item):
                     for tag in tags:
                         tag[v] = urlparse.urljoin(self['url'], tag[v])
             elif part == "layout":
-                # copy soup
-                import copy
-                soup = copy.copy(self.get_part('soup'))
+                soup = BeautifulSoup(self['content'],'lxml')
                 # remove tags
                 for tag in config.layout_tag_remove:
                     for t in soup.select(tag):

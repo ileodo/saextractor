@@ -9,6 +9,7 @@
         {% endif %}SAEWeb</title>
     <!-- Mobile specific metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="csrf_token" content="{{csrf_token}}">
     <!-- Force IE9 to render in normal mode -->
     <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
     <meta name="author" content="SuggeElson" />
@@ -112,41 +113,16 @@
         <!-- End #sideNav -->
         <!-- Start .sidebar-panel -->
         <div class="sidebar-panel mt0">
-            <h4 class="sidebar-panel-title dark-bg"><i class="im-fire"></i> Statistic</h4>
+            <h4 class="sidebar-panel-title dark-bg"><i class="im-fire"></i> Functions</h4>
             <div class="sidebar-panel-content">
 
-                <div class="tile teal">
-                    <!-- tile start here -->
-                    <div class="tile-icon">
-                        <i class="ec-help s32"></i>
-                    </div>
-                    <div class="tile-content">
-                        <div class="number">13</div>
-                        <h3>to judge</h3>
-                    </div>
-                </div>
+                <a class="btn btn-block btn-success" target="_blank" href="{% url 'refreshextractor'%}">
+                Refresh Extractor
+                </a>
+                <a class="btn btn-block btn-warning" target="_blank" href="{% url 'judgerelearn'%}">
+                Refresh Judge
+                </a>
 
-                <div class="tile green">
-                    <!-- tile start here -->
-                    <div class="tile-icon">
-                        <i class="ec-archive s32"></i>
-                    </div>
-                    <div class="tile-content">
-                        <div class="number">13</div>
-                        <h3>to extract</h3>
-                    </div>
-                </div>
-
-                <div class="tile lime">
-                    <!-- tile start here -->
-                    <div class="tile-icon">
-                        <i class="ec-archive s32"></i>
-                    </div>
-                    <div class="tile-content">
-                        <div class="number">13</div>
-                        <h3>Finished</h3>
-                    </div>
-                </div>
             </div>
         </div>
         <!-- End .sidebar-panel -->

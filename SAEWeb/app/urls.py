@@ -5,7 +5,10 @@ from . import views
 urlpatterns = [
     url(r'^$', views.index, name='index'),
     url(r'^judge/$', views.judge, name='judge'),
+    url(r'^judge/relearn$', views.judgerelearn, name='judgerelearn'),
+    url(r'^extract/refresh$', views.refreshextractor, name='refreshextractor'),
     url(r'^result/$', views.result, name='result'),
+
     url(r'^extract/$', views.extract, name='extract'),
 
     url(r'^rule-panel/$', views.extract_modal_rule, name='rulePanel'),

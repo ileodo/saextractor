@@ -35,6 +35,7 @@ path_judge_dtree = path_knowledge+"/judge/dtree"
 path_judge_list = path_working + "/judge_list"
 
 path_extractor_inbox = path_working + "/inbox_extractor"
+path_extractor_backup = path_working + "/backup_extractor"
 path_extract_onto = path_knowledge + "/extract"
 path_extract_list = path_working + "/extract_list"
 
@@ -61,15 +62,19 @@ socket_CMD_extractor_test_rule = "5"
 socket_CMD_extractor_add_rule = "6"
 socket_CMD_extractor_test_extractor = "7"
 socket_CMD_extractor_add_extract = "8"
+socket_CMD_extractor_refresh="9"
 
 socket_retry_seconds = 10
+
+extractor_same_layout_number = 0
+
 #
-retriever_start_urls = ["https://www.cs.ox.ac.uk/"]
-# retriever_start_urls = ["http://www.ox.ac.uk/"]
+# retriever_start_urls = ["https://www.cs.ox.ac.uk/"]
+retriever_start_urls = ["http://www.ox.ac.uk/"]
 
 retriever_allow_content_type = ["text/html"]
-retriever_allow_domains = ["cs.ox.ac.uk"]
-# retriever_allow_domains = ["ox.ac.uk"]
+# retriever_allow_domains = ["cs.ox.ac.uk"]
+retriever_allow_domains = ["ox.ac.uk"]
 retriever_deny_domains = ["webauth.ox.ac.uk","weblearn.ox.ac.uk","facebook.com","linkedin.com"]
 retriever_deny_extensions = [
     "pdf", "doc", "docx", "xls", "xlsx", "ppt", "pptx", "png", "jpg", "gif", "ps", "tex", "bib", "zip",
@@ -113,12 +118,13 @@ retriever_deny_regxs = [
     "/podcasts."
     "/learning/",
     "/teaching/",
+    "/[a-zA-Z]*support/",
     "/[a-z]*thesis/",
     "/past(-[a-zA-Z])?/",
 ]
 retriever_max_url_length = 512
 retriever_download_time_out = 2
-retriever_depth_limit = 8
+retriever_depth_limit = 4
 
 retriever_absolute_url_replace_pattern = {
     "link": "href",
