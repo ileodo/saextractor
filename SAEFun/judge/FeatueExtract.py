@@ -35,6 +35,7 @@ class FeatureExtract:
             if str(r) == "\n":
                 continue
             value.append(self.__extract_rule(item, r))
+
         return fid, self.__map_policy(policy)(value)
 
     def __extract_rule(self, item, r):
@@ -132,7 +133,7 @@ class FeatureExtract:
         features = self.__featurespace.findAll("feature")
         line = []
         for f in features:
-            line.append(f.get('id')+"|"+f.get('name'))
+            line.append(f.get('name'))
         return spliter.join(line)
 
     pass

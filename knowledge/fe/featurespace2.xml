@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Judge whether a page is seminar page-->
+<!DOCTYPE featurespace PUBLIC "Seminar"
+        "http://static.ileodo.com/s/mscproject/judge.dtd">
+<featurespace name="seminarpages" version="2.0">
+    <feature id="01"
+             name="fl_0">
+        <list policy="sum">seminar.wd</list>
+    </feature>
+    <feature id="02"
+             name="fl_1">
+        <reg >\b(topic|title)(s)?\s*:?\b</reg>
+    </feature>
+
+    <feature id="03"
+             name="fl_2">
+        <list policy="sum">speaker.wd</list>
+    </feature>
+
+    <feature id="04"
+             name="fl_3">
+        <list policy="sum">location.wd</list>
+    </feature>
+
+    <feature id="05"
+             name="fl_4">
+        <list policy="sum">datetime.wd</list>
+    </feature>
+
+    <feature id="06"
+             name="fl_5">
+        <list policy="sum">abstract.wd</list>
+    </feature>
+
+    <feature id="07"
+             name="fl_6">
+        <list policy="sum">speaker.ent</list>
+    </feature>
+
+    <!--<feature id="08"-->
+             <!--name="fl_7">-->
+        <!--<list policy="sum">location.ent</list>-->
+    <!--</feature>-->
+
+    <feature id="09"
+             name="fl_8">
+        <list policy="sum">datetime.ent</list>
+    </feature>
+
+    <feature id="10"
+             name="fl_9"
+             policy="sum">
+        <list policy="sum">location.ent</list>
+        <list policy="sum" weight='-1'>speaker.ent</list>
+    </feature>
+
+    <!--<feature id="11"-->
+             <!--name="fl_10"-->
+             <!--policy="div">-->
+        <!--<list policy="sum">location.ent</list>-->
+        <!--<list policy="sum">datetime.ent</list>-->
+    <!--</feature>-->
+
+    <!--<feature id="12"-->
+             <!--name="fl_11">-->
+        <!--<reg sel="text">\b(tbc|tba)\b</reg>-->
+    <!--</feature>-->
+
+
+
+
+    <feature id="13"
+             name="fs_0">
+        <reg sel="tag">&lt;img .*?&gt;</reg>
+    </feature>
+
+    <!--<feature id="14"-->
+             <!--name="fs_1">-->
+        <!--<reg sel="tag">&lt;table </reg>-->
+    <!--</feature>-->
+
+
+
+
+    <feature id="15"
+             name="fo_0">
+        <list sel="url" policy="sum">seminar.wd</list>
+    </feature>
+
+    <feature id="16"
+             name="fo_1">
+        <reg sel="url">\b(blog|post|article|document)(s)?\b</reg>
+    </feature>
+
+
+</featurespace>

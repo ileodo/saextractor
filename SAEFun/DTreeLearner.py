@@ -36,8 +36,8 @@ def csv_for_db(sql, sqlparam, resultfile, datapath):
     out.close()
 
 
-def feature_extraction(csvfile, datapath, resultcsv):
-    fe = FeatureExtract(config.path_fe_space)
+def feature_extraction(csvfile, datapath, resultcsv,fe_path=config.path_fe_space):
+    fe = FeatureExtract(fe_path)
     fe.print_featuremap()
 
     # feature extraction
@@ -59,7 +59,7 @@ def feature_extraction(csvfile, datapath, resultcsv):
                 item['title'] = item.get_short_title()
                 f = fe.extract_item(item)
                 line = "%s,%s,%s" % (row[0], row[2], FeatureExtract.str_feature(f))
-                # print line
+                print line
                 out.write(line+"\n")
                 out.flush()
             else:
@@ -140,3 +140,18 @@ def learn_dtree(featurecsv, dtreefile, param):
     out = open(dtreefile, "w")
     out.write(pickle.dumps({"tree": clf, "F": F, "L": L}, -1))
     out.close()
+
+
+def get_data_set(featurecsv):
+    F = []
+    L = []
+    with open(featurecsv, 'rb') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',')
+        header = True
+        for row in reader:
+            if not header:
+                F.append([int(x) for x in row[2:]])
+                L.append(int(row[1]))
+            else:
+                header = False
+    return F,L
